@@ -23,7 +23,6 @@ def build_discussion_dict(lines):
     for line in lines:
         # If the line doesn't start with a number, discard it
         if line == '' or not line[0].isdigit():
-            print('rejected line: ', line)
             continue
 
         number, text = line.split(' ', 1)
@@ -34,7 +33,6 @@ def build_discussion_dict(lines):
                 continue
             value = int(value)
 
-            print(current_tree)
             if value not in current_tree[1]:
                 current_tree[1][value] = [text, {}]
 
@@ -47,4 +45,7 @@ def tree_to_discussion(discussion_tree):
 
 for filename in os.listdir(discussion_dir):
     with open(os.path.join(discussion_dir, filename), 'r') as current_file:
-        print(build_discussion_dict(current_file.readlines()))
+        tree = build_discussion_dict(current_file.readlines())
+        print(tree_to_discussion(tree))
+
+
