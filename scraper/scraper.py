@@ -27,18 +27,18 @@ def build_discussion_dict(lines):
             continue
 
         number, text = line.split(' ', 1)
-        print(number)
-        print(text)
 
         current_tree = discussion_tree
         for value in number.split('.'):
             if value == '':
                 continue
+            value = int(value)
 
-            if number not in current_tree[1]:
-                current_tree[1][number] = [text, {}]
+            print(current_tree)
+            if value not in current_tree[1]:
+                current_tree[1][value] = [text, {}]
 
-            current_tree = current_tree[1][number]
+            current_tree = current_tree[1][value]
 
     return discussion_tree
 
