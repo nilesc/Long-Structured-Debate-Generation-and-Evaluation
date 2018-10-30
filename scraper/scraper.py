@@ -5,9 +5,9 @@ discussion_dir = 'discussions'
 class DiscussionTree:
 
     def __init__(self, text, children):
-        self.is_pro = text.startswith('Pro: ')
+        self.is_pro = not text.startswith('Con: ')
 
-        if not self.is_pro and not text.startswith('Con: '):
+        if self.is_pro and not text.startswith('Pro: '):
             self.text = text
         else:
             self.text = text[len('Pro: '):]
@@ -16,10 +16,21 @@ class DiscussionTree:
         self.con_children = []
 
         for child in children:
-            if child.is_pro:
+            if child.is_pro: 
                 self.pro_children.append(child)
             else:
                 self.con_children.append(child)
+
+    def get_pro_arguments(self):
+        if len(self.pro_children) == 0:
+            return [[self.text]]
+
+        child_arguments = []
+        for child in self.pro_children:
+            child_arguments += child.get_pro_arguments()
+
+        return [[self.text] + child for child in child_arguments]
+
 
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
@@ -65,3 +76,4 @@ for filename in os.listdir(discussion_dir):
     with open(os.path.join(discussion_dir, filename), 'r') as current_file:
         tree = build_discussion_dict(current_file.readlines())
         discussion = tree_to_discussion(tree)
+        print(discussion.get_pro_arguments())
