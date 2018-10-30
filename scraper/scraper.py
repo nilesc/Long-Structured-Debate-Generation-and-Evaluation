@@ -7,29 +7,52 @@ class DiscussionTree:
     def __init__(self, text, children):
         self.is_pro = not text.startswith('Con: ')
 
-        if self.is_pro and not text.startswith('Pro: '):
-            self.text = text
-        else:
-            self.text = text[len('Pro: '):]
+        full_value, self.text = text.split(' ', 1)
+        all_values = [value.strip('.') for value in full_value.split('.')]
+        cleaned = [value for value in all_values if value != '']
+        self.value = cleaned[-1]
 
-        self.pro_children = []
-        self.con_children = []
+        if self.text.startswith('Con: ') or self.text.startswith('Pro: '):
+            self.text = self.text[len('Pro: '):]
+
+        self.children = {}
 
         for child in children:
-            if child.is_pro: 
-                self.pro_children.append(child)
-            else:
-                self.con_children.append(child)
+            self.children[child.value] = child
+
+    def get_pro_children(self):
+        return [child for child in self.children.values() if child.is_pro]
+
+    def get_con_children(self):
+        return [child for child in self.children.values() if not child.is_pro]
 
     def get_pro_arguments(self):
-        if len(self.pro_children) == 0:
+        if len(self.get_pro_children()) == 0:
             return [[self.text]]
 
         child_arguments = []
-        for child in self.pro_children:
+        for child in self.get_pro_children():
             child_arguments += child.get_pro_arguments()
 
         return [[self.text] + child for child in child_arguments]
+
+    def fix_references(self, parent=None, root=None):
+        if root is None:
+            root = self
+
+        if self.text.startswith('->'):
+            number = self.text.split(' ')[-1]
+    
+            current_root = root
+            for value in number.split('.'):
+                if value == '':
+                    continue
+                current_root = current_root.children[value]
+
+            parent.children[self.value] = current_root
+
+        for child in self.children.values():
+            child.fix_references(self, root)
 
 
 # lines comes in as a list of lines in the discussion
@@ -48,16 +71,17 @@ def build_discussion_dict(lines):
         if line == '' or not line[0].isdigit():
             continue
 
-        number, text = line.split(' ', 1)
+        number, _ = line.split(' ', 1)
 
         current_tree = discussion_tree
         for value in number.split('.'):
+            print(value)
             if value == '':
                 continue
             value = int(value)
 
             if value not in current_tree[1]:
-                current_tree[1][value] = [text, {}]
+                current_tree[1][value] = [line, {}]
 
             current_tree = current_tree[1][value]
 
@@ -76,4 +100,6 @@ for filename in os.listdir(discussion_dir):
     with open(os.path.join(discussion_dir, filename), 'r') as current_file:
         tree = build_discussion_dict(current_file.readlines())
         discussion = tree_to_discussion(tree)
+        print(discussion.get_pro_arguments())
+        discussion.fix_references()
         print(discussion.get_pro_arguments())
