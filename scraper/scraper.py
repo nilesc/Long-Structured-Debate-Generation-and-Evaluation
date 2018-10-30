@@ -42,7 +42,7 @@ class DiscussionTree:
 
         if self.text.startswith('->'):
             number = self.text.split(' ')[-1]
-    
+
             current_root = root
             for value in number.split('.'):
                 if value == '':
@@ -96,10 +96,10 @@ def tree_to_discussion(discussion_tree):
     discussion = DiscussionTree(text, child_trees)
     return discussion
 
-for filename in os.listdir(discussion_dir):
-    with open(os.path.join(discussion_dir, filename), 'r') as current_file:
-        tree = build_discussion_dict(current_file.readlines())
-        discussion = tree_to_discussion(tree)
-        print(discussion.get_pro_arguments())
-        discussion.fix_references()
-        print(discussion.get_pro_arguments())
+if __name__ == '__main__':
+    for filename in os.listdir(discussion_dir):
+        with open(os.path.join(discussion_dir, filename), 'r') as current_file:
+            tree = build_discussion_dict(current_file.readlines())
+            discussion = tree_to_discussion(tree)
+            discussion.fix_references()
+            print(discussion.get_pro_arguments())
