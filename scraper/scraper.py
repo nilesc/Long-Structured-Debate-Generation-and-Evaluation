@@ -27,7 +27,7 @@ class DiscussionTree:
         return [child for child in self.children.values() if not child.is_pro]
 
     def get_pro_arguments(self):
-        if len(self.get_pro_children()) == 0:
+        if not self.get_pro_children():
             return [[self.text]]
 
         child_arguments = []
