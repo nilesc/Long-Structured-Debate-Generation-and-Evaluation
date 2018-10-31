@@ -120,7 +120,6 @@ def init_csv():
 
 
 if __name__ == '__main__':
-    """Example usage"""
 
     init_csv()
 
