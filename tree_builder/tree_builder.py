@@ -25,7 +25,7 @@ class DiscussionTree:
 
     def get_con_children(self):
         return [child for child in self.children.values() if not child.is_pro]
-    
+
     def get_children(self):
         return [child for child in self.children.values()]
 
