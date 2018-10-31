@@ -25,14 +25,24 @@ class DiscussionTree:
 
     def get_con_children(self):
         return [child for child in self.children.values() if not child.is_pro]
+    
+    def get_children(self):
+        return [child for child in self.children.values()]
 
-    def get_pro_arguments(self):
+    def get_arguments(self, pro=None):
+        child_arguments = self.get_children()
+
+        if pro:
+            child_arguments = self.get_pro_children()
+        if not pro and pro is not None:
+            child_arguments = self.get_con_children()
+
         if not self.get_pro_children():
             return [[self.text]]
 
         child_arguments = []
         for child in self.get_pro_children():
-            child_arguments += child.get_pro_arguments()
+            child_arguments += child.get_arguments(pro)
 
         return [[self.text] + child for child in child_arguments]
 
@@ -102,4 +112,6 @@ if __name__ == '__main__':
             tree = build_discussion_dict(current_file.readlines())
             discussion = tree_to_discussion(tree)
             discussion.fix_references()
-            print(discussion.get_pro_arguments())
+            print(discussion.get_arguments())
+            print(discussion.get_arguments(True))
+            print(discussion.get_arguments(False))
