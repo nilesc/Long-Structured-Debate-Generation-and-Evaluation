@@ -33,10 +33,6 @@ def load_cookies(driver):
     for cookie in cookies:
         driver.add_cookie(cookie)
 
-# Load an existing Firefox profile (currently broken)
-# profile = webdriver.FirefoxProfile(profile_directory='~/.mozilla/firefox/gu16idx8.default/')
-# driver = webdriver.Firefox(profile)
-
 
 def find_by_class_and_click(class_name, timeout=5):
     """Wait for an element of the given class name to load, and click on it once it does."""
@@ -76,12 +72,13 @@ def download_debate(url):
     find_by_class_and_click("confirm")
 
 
-# Load saved cookies (specifically: kialo login)
-load_cookies(driver)
-
-
 if __name__ == '__main__':
     """Example usage"""
 
-    # Click through the popups and download the debate of the specified URL
+    # Load saved cookies (specifically: kialo login)
+    load_cookies(driver)
+
+    # Download the debate of the specified URL.
+    # Requires that you've saved your kialo login cookie as detailed in save_cookies()
+    # Also, must have Firefox installed.
     download_debate("https://www.kialo.com/is-water-wet-6298/6298.0=6298.1/=6298.1")
