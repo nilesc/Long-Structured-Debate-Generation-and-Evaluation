@@ -1,6 +1,6 @@
 import os
 
-discussion_dir = 'discussions'
+discussion_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'discussions')
 
 class DiscussionTree:
 
@@ -85,7 +85,6 @@ def build_discussion_dict(lines):
 
         current_tree = discussion_tree
         for value in number.split('.'):
-            print(value)
             if value == '':
                 continue
             value = int(value)
@@ -112,6 +111,3 @@ if __name__ == '__main__':
             tree = build_discussion_dict(current_file.readlines())
             discussion = tree_to_discussion(tree)
             discussion.fix_references()
-            print(discussion.get_arguments())
-            print(discussion.get_arguments(True))
-            print(discussion.get_arguments(False))
