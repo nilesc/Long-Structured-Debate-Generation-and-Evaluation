@@ -34,6 +34,7 @@ def find_by_class_and_click(class_name, timeout=5):
         success = True
 
     except Exception:
+        print(class_name)
         traceback.print_exc()
 
     return success
@@ -62,9 +63,6 @@ def download_debate(url):
 
     success = True
 
-    # Escape Debate popup
-    # find_by_class_and_click("discussion-info-dialog__close")
-
     # Check that it is a public debate
     if insufficient_permissions():
         return False
@@ -80,21 +78,24 @@ def download_debate(url):
         # Click 'Download'
         success = success and find_by_class_and_click("confirm")
 
-        window_before = driver.window_handles[0]
-        window_after = driver.window_handles[1]
+        if len(driver.window_handles) > 1:
+            window_before = driver.window_handles[0]
+            window_after = driver.window_handles[1]
 
-        driver.switch_to.window(window_after)
-        driver.close()
-        driver.switch_to.window(window_before)
+            # Close the popup
+            driver.switch_to.window(window_after)
+            driver.close()
+            driver.switch_to.window(window_before)
 
     return success
 
 
-def download_all_debates(delay=1):
+def download_all_debates(delay=2):
 
     base_url = "https://www.kialo.com/"
 
-    for i in range(69, 23084):
+    # 23084 should be the last valid discussion post
+    for i in range(1, 23084):
 
         url = urllib.parse.urljoin(base_url, str(i))
 
@@ -103,9 +104,7 @@ def download_all_debates(delay=1):
         result = 'fail'
         filename = ''
 
-        if status_code == 404:
-            pass
-        elif status_code == 200:
+        if status_code == 200:
             result = download_debate(url)
             time.sleep(delay)
         else:
