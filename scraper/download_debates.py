@@ -9,6 +9,7 @@ import csv
 import urllib.parse
 import time
 import os
+from bs4 import BeautifulSoup
 
 
 # Init a Firefox driver (replace the next line to the path to your own user profile)
@@ -22,7 +23,7 @@ results_csv = open('debate_results.csv', 'w')
 csv_writer = csv.writer(results_csv)
 
 
-def find_by_class_and_click(class_name, timeout=5):
+def find_by_class_and_click(class_name, timeout=5, verbose=True):
     """Wait for an element of the given class name to load, and click on it once it does."""
     success = False
     try:
@@ -34,8 +35,9 @@ def find_by_class_and_click(class_name, timeout=5):
         success = True
 
     except Exception:
-        print(class_name)
-        traceback.print_exc()
+        if verbose:
+            print(class_name)
+            traceback.print_exc()
 
     return success
 
@@ -68,6 +70,8 @@ def download_debate(url):
         return False
 
     else:
+        # Handle occasional debate banner
+        find_by_class_and_click("discussion-info-dialog__close", verbose=False)
 
         # Click top title banner
         success = success and find_by_class_and_click("topbar-title__discussion-title")
@@ -90,27 +94,58 @@ def download_debate(url):
     return success
 
 
-def download_all_debates(delay=2):
+def download_all_debates(ids=None, delay=2):
+    """
+    :param ids: list of publicly accessible debate IDs
+    :param delay: millisecond delay between download attempts
+    """
 
     base_url = "https://www.kialo.com/"
 
-    # 23084 should be the last valid discussion post
-    for i in range(1, 23084):
+    if ids:
+        id_range = ids
+    else:
+        id_range = range(1, 23084)  # 23084 should be the last valid discussion post
+
+    for i in id_range:
 
         url = urllib.parse.urljoin(base_url, str(i))
 
-        r = requests.get(url)
-        status_code = r.status_code
+        resp = requests.get(url)
+        status_code = resp.status_code
         result = 'fail'
         filename = ''
 
         if status_code == 200:
             result = download_debate(url)
             time.sleep(delay)
-        else:
-            pass
 
         csv_writer.writerow([i, status_code, result, filename])
+
+
+def get_public_discussion_ids(sitemap):
+    """
+    Get the list of public debates from the sitemap
+    https://www.kialo.com/sitemap_discussions.xml
+    """
+    sitemap_file = open(sitemap, 'r').read()
+    soup = BeautifulSoup(sitemap_file, 'lxml')
+    urls = soup.find_all('loc')
+    urls = [url.text for url in urls]
+    ids = [url.split('-')[-1] for url in urls]
+    return ids
+
+
+def downloaded_ids():
+    """
+    Get list of downloaded debate ids that have already been downloaded
+    """
+    downloads = os.path.expanduser('~/Downloads/')
+    downloaded = os.listdir(downloads)
+    ids = [os.path.splitext(os.path.basename(file))[0]
+               .split('-')[-1] for file in downloaded]
+
+    return ids
 
 
 def init_csv():
@@ -122,5 +157,12 @@ if __name__ == '__main__':
 
     init_csv()
 
-    # Requires that you've saved logged in to kialo on Firefox and allowed you cookies to be saved
-    download_all_debates()
+    debate_ids = sorted(list(
+        set(get_public_discussion_ids('sitemap_discussions.xml')) -
+        set(downloaded_ids())
+    ))
+
+    print('Downloading', len(debate_ids), 'debates')
+
+    # Requires that you've logged in to kialo on Firefox and allowed cookies
+    download_all_debates(ids=debate_ids)
