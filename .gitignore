@@ -6,6 +6,10 @@ __pycache__/
 # Ignore swp files
 *.swp
 
+# Data folders
+discussions/
+english_discussions/
+
 # C extensions
 *.so
 
