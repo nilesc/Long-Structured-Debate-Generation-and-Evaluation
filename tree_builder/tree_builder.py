@@ -1,17 +1,18 @@
 import os
 
-discussion_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'discussions')
+discussion_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'english_discussions')
+output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'input_files')
 
 class DiscussionTree:
 
     def __init__(self, text, children):
-        self.is_pro = not text.startswith('Con: ')
 
         full_value, self.text = text.split(' ', 1)
         all_values = [value.strip('.') for value in full_value.split('.')]
         cleaned = [value for value in all_values if value != '']
         self.value = cleaned[-1]
 
+        self.is_pro = not self.text.startswith('Con: ')
         if self.text.startswith('Con: ') or self.text.startswith('Pro: '):
             self.text = self.text[len('Pro: '):]
 
@@ -37,7 +38,7 @@ class DiscussionTree:
         if not pro and pro is not None:
             child_arguments = self.get_con_children()
 
-        if not self.get_pro_children():
+        if not child_arguments:
             return [[self.text]]
 
         child_arguments = []
@@ -51,15 +52,17 @@ class DiscussionTree:
             root = self
 
         if self.text.startswith('->'):
-            number = self.text.split(' ')[-1]
+            if not 'discussion' in self.text:
+                number = self.text.split(' ')[-1]
 
-            current_root = root
-            for value in number.split('.'):
-                if value == '':
-                    continue
-                current_root = current_root.children[value]
+                current_root = root
+                cleaned_values = [val for val in number.split('.')[1:] if val != '']
+                for value in cleaned_values:
+                    if value == '':
+                        continue
+                    current_root = current_root.children[value]
 
-            parent.children[self.value] = current_root
+                parent.children[self.value] = current_root
 
         for child in self.children.values():
             child.fix_references(self, root)
@@ -67,24 +70,31 @@ class DiscussionTree:
 
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
+    # print(lines)
     cleaned_lines = []
 
     for line in lines:
+        if not line.startswith('1.'):
+            continue
         cleaned_lines.append(line.replace('\n', ''))
 
     lines = cleaned_lines
+    print(cleaned_lines)
 
-    discussion_tree = [lines[0][len('Discussion Title: '):], {}]
+    discussion_tree = None
 
     for line in lines:
         # If the line doesn't start with a number, discard it
-        if line == '' or not line[0].isdigit():
-            continue
-
         number, _ = line.split(' ', 1)
 
+        if discussion_tree is None:
+            discussion_tree = [line, {}]
+            continue
+
+        cleaned_values = [val for val in number.split('.')[1:] if val != '']
+
         current_tree = discussion_tree
-        for value in number.split('.'):
+        for value in cleaned_values:
             if value == '':
                 continue
             value = int(value)
@@ -94,6 +104,8 @@ def build_discussion_dict(lines):
 
             current_tree = current_tree[1][value]
 
+        print(discussion_tree)
+        print()
     return discussion_tree
 
 def tree_to_discussion(discussion_tree):
@@ -106,8 +118,14 @@ def tree_to_discussion(discussion_tree):
     return discussion
 
 if __name__ == '__main__':
-    for filename in os.listdir(discussion_dir):
+    for filename in os.listdir(discussion_dir)[0:1]:
         with open(os.path.join(discussion_dir, filename), 'r') as current_file:
             tree = build_discussion_dict(current_file.readlines())
             discussion = tree_to_discussion(tree)
             discussion.fix_references()
+            args = discussion.get_arguments(pro=True)
+            print(args)
+
+            with open(os.path.join(output_dir, 'test.kialo_source'), 'w+') as source_file:
+                for _ in args:
+                    source_file.write(discussion.text + '\n')
