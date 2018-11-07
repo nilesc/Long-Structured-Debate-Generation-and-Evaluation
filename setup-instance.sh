@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Get git and bunzip2
 yes | sudo apt-get install git
 yes | sudo apt-get install bzip2
