@@ -5,7 +5,7 @@ yes | conda create -n py36 python=3.6
 source activate py36
 
 # Get repo:
-git clone https://github.com/edbltn/dl-text-generation.git
+git clone https://github.com/pytorch/fairseq.git
 cd dl-text-generation
 
 # Get packages
@@ -45,5 +45,3 @@ python generate.py data-bin/writingPrompts --path \
     --sampling --sampling-topk 10 --sampling-temperature 0.8 --nbest 1 \
     --model-overrides \
     "{'pretrained_checkpoint':'data-bin/models/pretrained_checkpoint.pt'}"
-
-
