@@ -1,5 +1,5 @@
 # Set up and load environment
-conda create -n py36 python=3.6
+yes | conda create -n py36 python=3.6
 source activate py36
 
 # Get repo:
