@@ -9,6 +9,7 @@ __pycache__/
 # Data folders
 discussions/
 english_discussions/
+input_files/
 
 # C extensions
 *.so
