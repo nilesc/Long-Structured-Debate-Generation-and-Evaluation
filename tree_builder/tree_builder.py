@@ -1,4 +1,5 @@
 import os
+import progressbar
 
 discussion_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'english_discussions')
 output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'input_files')
@@ -70,7 +71,6 @@ class DiscussionTree:
 
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
-    # print(lines)
     cleaned_lines = []
 
     for line in lines:
@@ -79,7 +79,6 @@ def build_discussion_dict(lines):
         cleaned_lines.append(line.replace('\n', ''))
 
     lines = cleaned_lines
-    print(cleaned_lines)
 
     discussion_tree = None
 
@@ -104,8 +103,6 @@ def build_discussion_dict(lines):
 
             current_tree = current_tree[1][value]
 
-        print(discussion_tree)
-        print()
     return discussion_tree
 
 def tree_to_discussion(discussion_tree):
@@ -118,14 +115,27 @@ def tree_to_discussion(discussion_tree):
     return discussion
 
 if __name__ == '__main__':
-    for filename in os.listdir(discussion_dir)[0:1]:
+    source_file = open(os.path.join(output_dir, 'test.kialo_source'), 'w+')
+    target_file = open(os.path.join(output_dir, 'test.kialo_target'), 'w+')
+
+    p = progressbar.ProgressBar(term_width=80)
+    print('Extracting arguments: ')
+    for filename in p(os.listdir(discussion_dir)):
         with open(os.path.join(discussion_dir, filename), 'r') as current_file:
             tree = build_discussion_dict(current_file.readlines())
             discussion = tree_to_discussion(tree)
             discussion.fix_references()
             args = discussion.get_arguments(pro=True)
-            print(args)
 
-            with open(os.path.join(output_dir, 'test.kialo_source'), 'w+') as source_file:
-                for _ in args:
-                    source_file.write(discussion.text + '\n')
+            for arg in args:
+                source_file.write(discussion.text + '\n')
+
+                as_string = ''
+                for sentence in arg:
+                    as_string += (' ' + sentence)
+                as_string = as_string[1:]
+                target_file.write(as_string + '\n')
+
+    source_file.close()
+    target_file.close()
+
