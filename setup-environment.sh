@@ -1,5 +1,19 @@
 #!/usr/bin/env bash
 
+# Step 0: Before cloning directory
+
+# Install Miniconda:
+# wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+# sudo apt-get install bzip2 # Needed to extract the .tar in the next line
+# bash Miniconda3-latest-Linux-x86_64.sh
+
+# Restart for changes to take effect
+
+# Install git if not already installed
+# conda install -c anaconda git
+
+# End Step 0
+
 # Set up and load environment
 yes | conda create -n py36 python=3.6
 source activate py36
