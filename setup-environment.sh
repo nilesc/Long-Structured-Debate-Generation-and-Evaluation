@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Set up and load environment
 yes | conda create -n py36 python=3.6
 source activate py36
