@@ -6,7 +6,7 @@ source activate py36
 
 # Get repo:
 git clone https://github.com/pytorch/fairseq.git
-cd dl-text-generation
+cd fairseq
 
 # Get packages
 yes | conda install pytorch torchvision -c pytorch
