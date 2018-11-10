@@ -31,7 +31,7 @@ class DiscussionTree:
     def get_children(self):
         return [child for child in self.children.values()]
 
-    def get_arguments(self, pro=None):
+    def get_arguments(self, pro=None, augment=False):
         child_arguments = self.get_children()
 
         if pro:
@@ -44,9 +44,14 @@ class DiscussionTree:
 
         child_arguments = []
         for child in self.get_pro_children():
-            child_arguments += child.get_arguments(pro)
+            child_arguments += child.get_arguments(pro, augment)
 
-        return [[self.text] + child for child in child_arguments]
+        all_args = [[self.text] + child for child in child_arguments]
+
+        if augment:
+            all_args += [[self.text]]
+
+        return all_args
 
     def fix_references(self, parent=None, root=None):
         if root is None:
@@ -125,7 +130,7 @@ if __name__ == '__main__':
             tree = build_discussion_dict(current_file.readlines())
             discussion = tree_to_discussion(tree)
             discussion.fix_references()
-            args = discussion.get_arguments(pro=True)
+            args = discussion.get_arguments(pro=True, augment=True)
 
             for arg in args:
                 source_file.write(discussion.text + '\n')
