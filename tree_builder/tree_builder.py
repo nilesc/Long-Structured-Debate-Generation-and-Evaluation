@@ -76,7 +76,11 @@ def build_discussion_dict(lines):
     for line in lines:
         if not line.startswith('1.'):
             continue
-        cleaned_line = re.sub(r'(.*)\[(.*)\]\((.*)\)(.*)', r'\1\2\4', line.rstrip())
+        prev_line = ''
+        cleaned_line = line
+        while cleaned_line != prev_line:
+            prev_line = cleaned_line
+            cleaned_line = re.sub(r'(.*)\[(.*)\]\((.*)\)(.*)', r'\1\2\4', prev_line.rstrip())
         cleaned_lines.append(cleaned_line.replace('\n', ''))
 
     lines = cleaned_lines
