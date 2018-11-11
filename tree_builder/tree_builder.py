@@ -113,7 +113,7 @@ def tree_to_discussion(discussion_tree):
     discussion = DiscussionTree(text, child_trees)
     return discussion
 
-def write_discussions_to_files(discussion_dir, filename, target_file, source_file):
+def write_discussions_to_files(discussion_dir, filename, source_file, target_file):
     with open(os.path.join(discussion_dir, filename), 'r') as current_file:
         tree = build_discussion_dict(current_file.readlines())
         discussion = tree_to_discussion(tree)
