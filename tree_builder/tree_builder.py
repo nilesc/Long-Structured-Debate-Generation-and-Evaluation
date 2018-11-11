@@ -78,6 +78,8 @@ def build_discussion_dict(lines):
             continue
         prev_line = ''
         cleaned_line = line
+
+        # Removes URLs from arguments
         while cleaned_line != prev_line:
             prev_line = cleaned_line
             cleaned_line = re.sub(r'(.*)\[(.*)\]\((.*)\)(.*)', r'\1\2\4', prev_line.rstrip())
