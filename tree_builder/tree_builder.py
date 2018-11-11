@@ -139,12 +139,12 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
 def write_source_target(discussion_dir, filenames, name, start, end):
     source_file = open(os.path.join(output_dir, f'{name}.kialo_source'), 'w+')
     target_file = open(os.path.join(output_dir, f'{name}.kialo_target'), 'w+')
-    
+
     p = progressbar.ProgressBar(term_width=80)
     print(f'Extracting {name} arguments: ')
     for filename in p(filenames[start:end]):
         write_discussions_to_files(discussion_dir, filename, source_file, target_file)
-   
+
     source_file.close()
     target_file.close()
 
