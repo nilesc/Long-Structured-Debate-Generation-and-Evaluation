@@ -97,7 +97,6 @@ def build_discussion_dict(lines):
             if value == '':
                 continue
             value = int(value)
-
             if value not in current_tree[1]:
                 current_tree[1][value] = [line, {}]
 
@@ -114,28 +113,43 @@ def tree_to_discussion(discussion_tree):
     discussion = DiscussionTree(text, child_trees)
     return discussion
 
-if __name__ == '__main__':
-    source_file = open(os.path.join(output_dir, 'test.kialo_source'), 'w+')
-    target_file = open(os.path.join(output_dir, 'test.kialo_target'), 'w+')
+def write_discussions_to_files(discussion_dir, filename, target_file, source_file):
+    with open(os.path.join(discussion_dir, filename), 'r') as current_file:
+        tree = build_discussion_dict(current_file.readlines())
+        discussion = tree_to_discussion(tree)
+        discussion.fix_references()
+        args = discussion.get_arguments(pro=True)
 
+        for arg in args:
+            source_file.write(discussion.text + '\n')
+
+            as_string = ''
+            for sentence in arg[1:]:
+                as_string += (' ' + sentence)
+            as_string = as_string[1:]
+            target_file.write(as_string + '\n')
+
+def write_source_target(discussion_dir, filenames, name, start, end):
+    source_file = open(os.path.join(output_dir, f'{name}.kialo_source'), 'w+')
+    target_file = open(os.path.join(output_dir, f'{name}.kialo_target'), 'w+')
+    
     p = progressbar.ProgressBar(term_width=80)
-    print('Extracting arguments: ')
-    for filename in p(os.listdir(discussion_dir)):
-        with open(os.path.join(discussion_dir, filename), 'r') as current_file:
-            tree = build_discussion_dict(current_file.readlines())
-            discussion = tree_to_discussion(tree)
-            discussion.fix_references()
-            args = discussion.get_arguments(pro=True)
-
-            for arg in args:
-                source_file.write(discussion.text + '\n')
-
-                as_string = ''
-                for sentence in arg:
-                    as_string += (' ' + sentence)
-                as_string = as_string[1:]
-                target_file.write(as_string + '\n')
-
+    print(f'Extracting {name} arguments: ')
+    for filename in p(filenames[start:end]):
+        write_discussions_to_files(discussion_dir, filename, source_file, target_file)
+   
     source_file.close()
     target_file.close()
 
+if __name__ == '__main__':
+    filenames = os.listdir(discussion_dir)
+    test_start = 0
+    test_end = int(len(filenames) * .1)
+    valid_start = test_end
+    valid_end = valid_start + int(len(filenames) * .05)
+    train_start = valid_end
+    train_end = len(filenames)
+
+    write_source_target(discussion_dir, filenames, 'test', test_start, test_end)
+    write_source_target(discussion_dir, filenames, 'valid', valid_start, valid_end)
+    write_source_target(discussion_dir, filenames, 'train', train_start, train_end)
