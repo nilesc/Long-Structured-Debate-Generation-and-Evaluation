@@ -1,4 +1,5 @@
 import os
+import re
 import progressbar
 
 discussion_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'english_discussions')
@@ -68,7 +69,6 @@ class DiscussionTree:
         for child in self.children.values():
             child.fix_references(self, root)
 
-
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
     cleaned_lines = []
@@ -76,7 +76,8 @@ def build_discussion_dict(lines):
     for line in lines:
         if not line.startswith('1.'):
             continue
-        cleaned_lines.append(line.replace('\n', ''))
+        cleaned_line = re.sub(r'(.*)\[(.*)\]\((.*)\)(.*)', r'\1\2\4', line.rstrip())
+        cleaned_lines.append(cleaned_line.replace('\n', ''))
 
     lines = cleaned_lines
 
