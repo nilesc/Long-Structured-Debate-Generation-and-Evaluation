@@ -1,7 +1,7 @@
 import os
 import progressbar
 
-discussion_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'english_discussions')
+discussion_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'filtered_discussions')
 output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'input_files')
 
 class DiscussionTree:
