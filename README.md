@@ -1,5 +1,5 @@
 # debatesim
-debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt.
+debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/facebookresearch/fairseq) project.
 
 # Scraping Instructions
 
@@ -42,4 +42,3 @@ Optionally, install Anaconda, NVIDIA Drivers, and CUDA. Run:
 Install other dependencies and train a fairseq model on the writingPrompts dataset.
 
     ./setup-environment.sh
-    
