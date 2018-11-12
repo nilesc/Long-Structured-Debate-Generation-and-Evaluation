@@ -1,5 +1,5 @@
 # debatesim
-debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/facebookresearch/fairseq) project.
+debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project.
 
 # Scraping Instructions
 
