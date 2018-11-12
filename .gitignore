@@ -8,7 +8,7 @@ __pycache__/
 
 # Data folders
 discussions/
-english_discussions/
+filtered_discussions/
 input_files/
 
 # C extensions
