@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore swp files
+*.swp
+
+# Data folders
+discussions/
+filtered_discussions/
+input_files/
+
 # C extensions
 *.so
 
