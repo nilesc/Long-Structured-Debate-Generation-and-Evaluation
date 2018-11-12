@@ -1,18 +1,19 @@
 # debatesim
+
 debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project.
 
-# Scraping Instructions
+## Scraping Instructions
 
-## Install Requirements
+### Install Requirements
 In order to gather data, selenium must be installed. Selenium can be installed through the following command.
 
     conda install -c conda-forge selenium
 
 Additional requirements:
 
-* BeautifulSoup4
+  * BeautifulSoup4
 
-## Run Scraper
+### Run Scraper
 
 First, scrape the debates from kialo. This will take up to an hour.
 
@@ -23,8 +24,7 @@ Next, we filter problematic debates. From the root directory run:
 
     ./scraper/filter_debates.py
 
-
-# Build Training / Val / Test data
+## Build Training / Val / Test data
 
 From the root run:
 
@@ -32,8 +32,7 @@ From the root run:
 
 This will construct source and target data and place it in `./input_files/`
 
-
-# Setup environment
+## Setup environment
 
 Optionally, install Anaconda, NVIDIA Drivers, and CUDA. Run:
 
