@@ -18,14 +18,14 @@ cd examples/stories
 curl https://s3.amazonaws.com/fairseq-py/data/writingPrompts.tar.gz | tar xvzf -
 
 # Preprocess data:
-cd writingPrompts
-python ../preprocess.py
-cd ../../..
+# cd writingPrompts
+# python ../preprocess.py
+cd ../../
 TEXT=examples/stories/writingPrompts
 python preprocess.py --source-lang wp_source --target-lang wp_target \
     --trainpref $TEXT/train --validpref $TEXT/valid --testpref $TEXT/test \
     --destdir data-bin/writingPrompts --padding-factor 1 --thresholdtgt 10 \
-    --thresholdsrc 10
+    --thresholdsrc 10 --workers 8
 
 # Load checkpoints
 curl https://s3.amazonaws.com/fairseq-py/models/stories_checkpoint.tar.bz2 | tar xvjf - -C data-bin
@@ -38,6 +38,8 @@ label_smoothed_cross_entropy --weight-decay .0000001 --label-smoothing 0 \
 --source-lang wp_source --target-lang wp_target --gated-attention True \
 --self-attention True --project-input True --pretrained True \
 --pretrained-checkpoint data-bin/models/pretrained_checkpoint.pt
+# --distributed-world-size 8  # Add this line to run in with multiple processes
+
 
 # Generate:
 python generate.py data-bin/writingPrompts --path \
