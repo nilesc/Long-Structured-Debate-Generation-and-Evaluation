@@ -15,14 +15,16 @@ Additional requirements:
 
 ### Run Scraper
 
-First, scrape the debates from kialo. This will take up to an hour.
+First, crawl kialo, downloading all debates through their export feature. This will take up to an hour.
 
     cd scraper/
     python download_debates.py
 
-Next, we filter problematic debates. From the root directory run:
+Next, we filter problematic debates. These are debates that are either formatted in a way that makes them hard to parse, or in a language other than English.
 
-    ./scraper/filter_debates.py
+    python filter_debates.py
+
+This will copy all appropriate debates to a folder named `./filtered_debates/`.
 
 ## Build Training / Val / Test data
 
@@ -30,7 +32,7 @@ From the root run:
 
     python tree_builder.py
 
-This will construct source and target data and place it in `./input_files/`
+This will construct source and target data and place it in `./input_files/`. The tree_builder script gives several options for how to build the tree, including whether to include only Pro aguments, only Con arguments, or both, and whether or not to augment the data with sub-trees.
 
 ## Setup environment
 
