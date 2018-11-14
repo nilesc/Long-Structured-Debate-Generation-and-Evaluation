@@ -173,7 +173,7 @@ Finally, use the downloaded fusion checkpoint to perform the generation task.
         "{'pretrained_checkpoint':'data-bin/models/pretrained_checkpoint.pt'}"
 
 ## Run model on Kialo dataset
-This section modifies subsection 3 from the previous subsection in order to preprocess, train, and generate using the Kialo training set created using the tree-builder.
+This section modifies subsection 3 from the previous section in order to generate debate responses using the Kialo training set. This training set must be created using the tree builder.
 
 First, do a preliminary preprocess of the Kialo data with a short python script to shorten responses to 1000 words or less.
 
