@@ -11,7 +11,7 @@ In order to gather data, selenium must be installed. Selenium can be installed t
 
 Additional requirements:
 
-  * BeautifulSoup4
+    * BeautifulSoup4
 
 ### Run Scraper
 
