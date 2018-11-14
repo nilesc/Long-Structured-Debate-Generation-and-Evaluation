@@ -20,7 +20,7 @@ curl https://s3.amazonaws.com/fairseq-py/data/writingPrompts.tar.gz | tar xvzf -
 
 # Preprocess data:
 cd writingPrompts
-echo 'data = ["train", "test", "valid"]
+printf 'data = ["train", "test", "valid"]
 for name in data:
   with open(name + ".wp_target") as f:
     stories = f.readlines()
