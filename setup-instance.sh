@@ -30,10 +30,10 @@ export PATH=/usr/local/cuda-9.0/bin${PATH:+:${PATH}}
 export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64\
 ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 
-# Get conda
-wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-bash Miniconda3-latest-Linux-x86_64.sh
-
 # Optional utilities
 sudo apt-get install tmux
 sudo apt-get install htop
+
+# Get conda
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
