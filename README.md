@@ -26,15 +26,17 @@ The following code can be executed with the following script:
 
     $ ./setup-instance.sh
 
+If you would just like to get our code up and running as quickly as possible, just run the above script.
+If you would instead like a step-by-step walkthrough of what the code is doing, follow along below.
+
 First things first, setup conda:
 
     $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
     $ bash Miniconda3-latest-Linux-x86_64.sh
 
 
-Next, get git and bunzip2:
+Next, get bunzip2:
 
-    $ sudo apt-get install git
     $ sudo apt-get install bzip2
 
 Now, run the shell script to set up your GPU (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
@@ -57,7 +59,7 @@ Finally, install optional utilities.
 ## Scraping Instructions
 
 ### Install Requirements
-In order to gather data, selenium must be installed. Selenium can be installed through the following command.
+In order to gather data, selenium must be installed. Selenium can be installed through the following command. Note that this requires conda to be installed. If you have set up your instance according to the instructions above, this should be taken care of already.
 
     conda install -c conda-forge selenium
 
@@ -167,19 +169,6 @@ Finally, use the downloaded fusion checkpoint to perform the generation task.
 
 ## Run model on Kialo dataset
 This section modifies subsection 2 from the previous section in order to generate debate responses using the Kialo training set. This training set must be created using the tree builder.
-
-First, do a preliminary preprocess of the Kialo data with a short python script to shorten responses to 1000 words or less.
-
-    $ cd ../input_files
-    $ echo 'data = ["train", "test", "valid"]
-    for name in data:
-    with open(name + ".wp_target") as f:
-        stories = f.readlines()
-    stories = [" ".join(i.split()[0:1000]) for i in stories]
-    with open(name + ".wp_target", "w") as o:
-        for line in stories:
-            o.write(line.strip() + "\n")' >> preprocess.py
-    $ python preprocess.py
 
 Now, perform the full preprocessing of the data.
 

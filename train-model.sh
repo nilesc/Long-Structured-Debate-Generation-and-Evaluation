@@ -2,19 +2,6 @@
 cd examples/stories
 curl https://s3.amazonaws.com/fairseq-py/data/writingPrompts.tar.gz | tar xvzf -
 
-# Preprocess data:
-cd writingPrompts
-echo 'data = ["train", "test", "valid"]
-for name in data:
-  with open(name + ".wp_target") as f:
-    stories = f.readlines()
-  stories = [" ".join(i.split()[0:1000]) for i in stories]
-  with open(name + ".wp_target", "w") as o:
-    for line in stories:
-      o.write(line.strip() + "\n")' >> preprocess.py
-python preprocess.py
-cd ../../..
-
 TEXT=examples/stories/writingPrompts
 python preprocess.py --source-lang wp_source --target-lang wp_target \
     --trainpref $TEXT/train --validpref $TEXT/valid --testpref $TEXT/test \

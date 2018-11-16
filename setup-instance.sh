@@ -7,8 +7,7 @@ bash Miniconda3-latest-Linux-x86_64.sh
 # Update apt-get repos
 sudo apt-get update
 
-# Get git and bunzip2
-yes | sudo apt-get install git
+# Get bunzip2
 yes | sudo apt-get install bzip2
 
 # Get CUDA
