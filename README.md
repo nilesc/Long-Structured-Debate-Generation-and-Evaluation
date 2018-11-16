@@ -21,19 +21,9 @@ Next, get git and bunzip2:
     $ sudo apt-get install git
     $ sudo apt-get install bzip2
 
-Now, create a shell script to set up your GPU, and run it (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
+Now, run the shell script to set up your GPU (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
 
-    $ echo '#!/bin/bash
-    echo "Checking for CUDA and installing."
-    if ! dpkg-query -W cuda-9-0; then
-        curl -O http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_9.0.176-1_amd64.deb
-        dpkg -i ./cuda-repo-ubuntu1604_9.0.176-1amd64.deb
-        apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repose/ubuntu1604/x86_64/7fa2af80.pub
-        apt-get update
-        apt-get install cuda-9-0 -y
-    fi
-    nvidia-smi -pm 1' >> setup-cuda.sh
-    $ ./setup-cuda.sh
+    $ sudo ./setup-cuda.sh
 
 Now add CUDA to your environment.
 
