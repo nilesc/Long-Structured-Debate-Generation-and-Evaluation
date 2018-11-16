@@ -24,9 +24,9 @@ Finally, clone our repository with git:
 ### Setup Instance
 The following code can be executed with the following script:
 
-    $ ./setup-instance.sh
+    $ bash setup-instance.sh
 
-If you would just like to get our code up and running as quickly as possible, just run the above script.
+If you would just like to get our code up and running as quickly as possible, just run the above script and skip to scraping instructions below.
 If you would instead like a step-by-step walkthrough of what the code is doing, follow along below.
 
 First things first, setup conda:
@@ -41,7 +41,7 @@ Next, get bunzip2:
 
 Now, run the shell script to set up your GPU (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
 
-    $ sudo ./setup-cuda.sh
+    $ bash setup-cuda.sh
 
 Now add CUDA to your environment.
 
@@ -95,7 +95,7 @@ This section involves cloning a version of the fairseq project, setting up an en
 ### 1. Install dependencies
 The code for this subsection can be run with:
 
-    $ ./setup-environment.sh
+    $ bash setup-environment.sh
 
 First, create and activate a conda environment running python 3.6.
 
@@ -119,7 +119,7 @@ Finally, install all the requirements.
 
 The code for this subsection can be run with:
 
-    $ ./train-model.sh
+    $ bash train-model.sh
 
 First, download all the writingPrompts data into examples/stories
 
