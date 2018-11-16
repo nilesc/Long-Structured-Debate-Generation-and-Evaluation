@@ -2,6 +2,52 @@
 
 debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project. It does this by training on information gathered from the debate website Kialo.
 
+## Setup Instructions
+The code for this section is intended for setting up a fresh VM that has at least one GPU and is running Ubuntu 16.04 LTS. The fairseq model will not train unless you are using a machine with at least one available GPU. All the code for this section can be run with:
+
+    $ ./setup-instance.sh
+
+First things first, setup conda:
+
+    $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    $ bash Miniconda3-latest-Linux-x86_64.sh
+
+Next, update apt-get:
+
+    $ sudo apt-get update
+
+Next, get git and bunzip2:
+
+    $ sudo apt-get install git
+    $ sudo apt-get install bzip2
+
+Now, create a shell script to set up your GPU, and run it (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
+
+    $ echo '#!/bin/bash
+    echo "Checking for CUDA and installing."
+    if ! dpkg-query -W cuda-9-0; then
+        curl -O http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_9.0.176-1_amd64.deb
+        dpkg -i ./cuda-repo-ubuntu1604_9.0.176-1amd64.deb
+        apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repose/ubuntu1604/x86_64/7fa2af80.pub
+        apt-get update
+        apt-get install cuda-9-0 -y
+    fi
+    nvidia-smi -pm 1' >> setup-cuda.sh
+    $ ./setup-cuda.sh
+
+Now add CUDA to your environment.
+
+    $ export PATH=/usr/local/cuda-9.0/bin${PATH:+:${PATH}}
+    $ export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64\
+    ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+
+(Don't forget to add these lines to your .bashrc file!)
+
+Finally, install optional utilities.
+
+    $ sudo apt-get install tmux
+    $ sudo apt-get install htop
+
 ## Scraping Instructions
 
 ### Install Requirements
@@ -34,57 +80,11 @@ From the root run:
 
 This will construct source and target data and place it in `./input_files/`. For each debate, all traversals of the tree corresponding to coherent arguments will be added to a `target` file, and the corresponding debate prompt will be added to a `source` file. This script gives several options for how to build the tree, including whether to include only Pro aguments, only Con arguments, or both, and whether or not to augment the data with sub-trees. By default, all traversals from the root involving only positive children are included. Note that we also include traversals that do not end at a leaf node. In this way, we get substrings of arguments that are themselves coherent arguments.
 
-## Setup environment
+## Setup model
 
 This section involves cloning a version of the fairseq project, setting up an environment in which it will run without a hitch, and running all aspects of the story generation task on the reddit [writingPrompts](https://www.google.com/search?q=reddit+writingprompts&rlz=1C5MACD_enUS504US504&oq=reddit+writingprompts&aqs=chrome.0.0l6.3305j0j1&sourceid=chrome&ie=UTF-8) dataset. You can skip step 3 if you want to get straight to generating talking points using the Kialo dataset.
 
-### 1. Install Anaconda, NVIDIA Drivers, and CUDA
-The code for this subsection is intended for setting up a fresh VM that has at least one GPU and is running Ubuntu 16.04 LTS. The fairseq model will not train unless you are using a machine with at least one available GPU. All the code for this section can be run with:
-
-    $ ./setup-instance.sh
-
-First, update apt-get:
-
-    $ sudo apt-get update
-
-Next, get git and bunzip2:
-
-    $ sudo apt-get install git
-    $ sudo apt-get install bzip2
-
-Now, create a shell script to set up your GPU, and run it (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
-
-    $ echo '#!/bin/bash
-    echo "Checking for CUDA and installing."
-    if ! dpkg-query -W cuda-9-0; then
-        curl -O http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_9.0.176-1_amd64.deb
-        dpkg -i ./cuda-repo-ubuntu1604_9.0.176-1amd64.deb
-        apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repose/ubuntu1604/x86_64/7fa2af80.pub
-        apt-get update
-        apt-get install cuda-9-0 -y
-    fi
-    nvidia-smi -pm 1' >> setup-cuda.sh
-    $ ./setup-cuda.sh
-
-Now add CUDA to your environment.
-
-    $ export PATH=/usr/local/cuda-9.0/bin${PATH:+:${PATH}}
-    $ export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64\
-    ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
-
-(Don't forget to add these lines to your .bashrc file!)
-
-Next, install optional utilities.
-
-    $ sudo apt-get install tmux
-    $ sudo apt-get install htop
-
-Finally, get conda to manage your environment.
-
-    $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-    $ bash Miniconda3-latest-Linux-x86_64.sh
-
-### 2. Install other dependencies
+### 1. Install dependencies
 The code for this subsection can be run with:
 
     $ ./setup-environment.sh
@@ -106,7 +106,7 @@ Finally, install all the requirements.
     $ pip install -r requirements.txt
     $ python setup.py build develop
 
-### 3. Train a fairseq model on the writingPrompts dataset
+### 2. Train a fairseq model on the writingPrompts dataset
 (Skip this section if you want to get straight to using the Kialo dataset)
 
 The code for this subsection can be run with:
@@ -160,7 +160,7 @@ Finally, use the downloaded fusion checkpoint to perform the generation task.
         "{'pretrained_checkpoint':'data-bin/models/pretrained_checkpoint.pt'}"
 
 ## Run model on Kialo dataset
-This section modifies subsection 3 from the previous section in order to generate debate responses using the Kialo training set. This training set must be created using the tree builder.
+This section modifies subsection 2 from the previous section in order to generate debate responses using the Kialo training set. This training set must be created using the tree builder.
 
 First, do a preliminary preprocess of the Kialo data with a short python script to shorten responses to 1000 words or less.
 

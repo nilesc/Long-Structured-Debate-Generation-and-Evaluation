@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# Get conda
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+
 # Update apt-get repos
 sudo apt-get update
 
@@ -34,6 +38,3 @@ ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 sudo apt-get install tmux
 sudo apt-get install htop
 
-# Get conda
-wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-bash Miniconda3-latest-Linux-x86_64.sh
