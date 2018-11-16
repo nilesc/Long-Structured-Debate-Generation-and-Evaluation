@@ -17,7 +17,7 @@ Additional requirements:
 
 First, crawl Kialo, downloading all debates through their export feature. This will take up to an hour. This will download all available debates onto your system to use as a training corpus.
 
-    cd scraper/
+    cd crawler/
     python download_debates.py
 
 Next, we filter problematic debates. These are debates that are either formatted in a way that makes them hard to parse, or in a language other than English.
@@ -118,20 +118,7 @@ First, download all the writingPrompts data into examples/stories
     $ cd examples/stories
     $ curl https://s3.amazonaws.com/fairseq-py/data/writingPrompts.tar.gz | tar xvzf -
 
-Next, do a preliminary preprocess of the writingPrompts data with a short python script to shorten stories to 1000 words or less.
-
-    $ cd writingPrompts
-    $ echo 'data = ["train", "test", "valid"]
-    for name in data:
-    with open(name + ".wp_target") as f:
-        stories = f.readlines()
-    stories = [" ".join(i.split()[0:1000]) for i in stories]
-    with open(name + ".wp_target", "w") as o:
-        for line in stories:
-            o.write(line.strip() + "\n")' >> preprocess.py
-    $ python preprocess.py
-
-Now, perform the full preprocessing of the data.
+Now, preprocess the data.
 
     $ cd ../../..
     $ TEXT=examples/stories/writingPrompts
