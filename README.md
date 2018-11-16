@@ -3,7 +3,26 @@
 debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project. It does this by training on information gathered from the debate website Kialo.
 
 ## Setup Instructions
-The code for this section is intended for setting up a fresh VM that has at least one GPU and is running Ubuntu 16.04 LTS. The fairseq model will not train unless you are using a machine with at least one available GPU. All the code for this section can be run with:
+
+### Getting our Code
+
+Before anything else, ensure that you have the code from this repository available on the machine you intend to run this.
+The code for this section is intended for setting up a fresh VM that has at least one GPU and is running Ubuntu 16.04 LTS. The fairseq model will not train unless you are using a machine with at least one available GPU.
+
+In order to do this, update apt-get:
+
+    $ sudo apt-get update
+
+Next, use apt-get to install git:
+
+    $ sudo apt-get install git
+
+Finally, clone our repository with git:
+
+    git clone https://github.com/nnc2117/debatesim.git
+
+### Setup Instance
+The following code can be executed with the following script:
 
     $ ./setup-instance.sh
 
@@ -12,9 +31,6 @@ First things first, setup conda:
     $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
     $ bash Miniconda3-latest-Linux-x86_64.sh
 
-Next, update apt-get:
-
-    $ sudo apt-get update
 
 Next, get git and bunzip2:
 
@@ -138,11 +154,11 @@ In order to train a non-fusion model, replace:
         --pretrained-checkpoint data-bin/models/pretrained_checkpoint.pt
 
 With:
-        
+
         --pretrained False
 
 Finally, use the downloaded fusion checkpoint to perform the generation task.
-    
+
     $ python generate.py data-bin/writingPrompts --path \
         data-bin/models/fusion_checkpoint.pt --batch-size 32 --beam 1 \
         --sampling --sampling-topk 10 --sampling-temperature 0.8 --nbest 1 \
