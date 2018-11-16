@@ -34,7 +34,6 @@ First things first, setup conda:
     $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
     $ bash Miniconda3-latest-Linux-x86_64.sh
 
-
 Next, get bunzip2:
 
     $ sudo apt-get install bzip2
