@@ -3,27 +3,44 @@
 debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project. It does this by training on information gathered from the debate website Kialo.
 
 ## Setup Instructions
-The code for this section is intended for setting up a fresh VM that has at least one GPU and is running Ubuntu 16.04 LTS. The fairseq model will not train unless you are using a machine with at least one available GPU. All the code for this section can be run with:
 
-    $ ./setup-instance.sh
+### Getting our Code
+
+Before anything else, ensure that you have the code from this repository available on the machine you intend to run this.
+The code for this section is intended for setting up a fresh VM that has at least one GPU and is running Ubuntu 16.04 LTS. The fairseq model will not train unless you are using a machine with at least one available GPU.
+
+In order to do this, update apt-get:
+
+    $ sudo apt-get update
+
+Next, use apt-get to install git:
+
+    $ sudo apt-get install git
+
+Now, clone our repository with git:
+
+    git clone https://github.com/nnc2117/debatesim.git
+
+### Setup Instance
+The following code can be executed with the following script:
+
+    $ bash setup-instance.sh
+
+If you would just like to get our code up and running as quickly as possible, just run the above script and skip to scraping instructions below.
+If you would instead like a step-by-step walkthrough of what the code is doing, follow along below.
 
 First things first, setup conda:
 
     $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
     $ bash Miniconda3-latest-Linux-x86_64.sh
 
-Next, update apt-get:
+Next, get bunzip2:
 
-    $ sudo apt-get update
-
-Next, get git and bunzip2:
-
-    $ sudo apt-get install git
     $ sudo apt-get install bzip2
 
 Now, run the shell script to set up your GPU (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
 
-    $ sudo ./setup-cuda.sh
+    $ bash setup-cuda.sh
 
 Now add CUDA to your environment.
 
@@ -41,7 +58,7 @@ Finally, install optional utilities.
 ## Scraping Instructions
 
 ### Install Requirements
-In order to gather data, selenium must be installed. Selenium can be installed through the following command.
+In order to gather data, selenium must be installed. Selenium can be installed through the following command. Note that this requires conda to be installed. If you have set up your instance according to the instructions above, this should be taken care of already.
 
     conda install -c conda-forge selenium
 
@@ -77,7 +94,7 @@ This section involves cloning a version of the fairseq project, setting up an en
 ### 1. Install dependencies
 The code for this subsection can be run with:
 
-    $ ./setup-environment.sh
+    $ bash setup-environment.sh
 
 First, create and activate a conda environment running python 3.6.
 
@@ -101,7 +118,7 @@ Finally, install all the requirements.
 
 The code for this subsection can be run with:
 
-    $ ./train-model.sh
+    $ bash train-model.sh
 
 First, download all the writingPrompts data into examples/stories
 
@@ -138,11 +155,11 @@ In order to train a non-fusion model, replace:
         --pretrained-checkpoint data-bin/models/pretrained_checkpoint.pt
 
 With:
-        
+
         --pretrained False
 
 Finally, use the downloaded fusion checkpoint to perform the generation task.
-    
+
     $ python generate.py data-bin/writingPrompts --path \
         data-bin/models/fusion_checkpoint.pt --batch-size 32 --beam 1 \
         --sampling --sampling-topk 10 --sampling-temperature 0.8 --nbest 1 \
@@ -151,19 +168,6 @@ Finally, use the downloaded fusion checkpoint to perform the generation task.
 
 ## Run model on Kialo dataset
 This section modifies subsection 2 from the previous section in order to generate debate responses using the Kialo training set. This training set must be created using the tree builder.
-
-First, do a preliminary preprocess of the Kialo data with a short python script to shorten responses to 1000 words or less.
-
-    $ cd ../input_files
-    $ echo 'data = ["train", "test", "valid"]
-    for name in data:
-    with open(name + ".wp_target") as f:
-        stories = f.readlines()
-    stories = [" ".join(i.split()[0:1000]) for i in stories]
-    with open(name + ".wp_target", "w") as o:
-        for line in stories:
-            o.write(line.strip() + "\n")' >> preprocess.py
-    $ python preprocess.py
 
 Now, perform the full preprocessing of the data.
 
