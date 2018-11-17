@@ -17,7 +17,7 @@ Next, use apt-get to install git:
 
     $ sudo apt-get install git
 
-Finally, clone our repository with git:
+Now, clone our repository with git:
 
     git clone https://github.com/nnc2117/debatesim.git
 
