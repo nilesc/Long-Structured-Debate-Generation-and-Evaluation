@@ -1,7 +1,5 @@
 import spacy
 
-from spacy.pipeline import EntityRecognizer
-from spacy.attrs import LOWER
 from spacy.tokens import Doc
 
 # python -m spacy download en

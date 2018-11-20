@@ -1,7 +1,7 @@
 import os
 import re
 import progressbar
-import ner
+from utils import ner
 
 discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'filtered_discussions')
 output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'input_files')
