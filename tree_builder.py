@@ -1,9 +1,11 @@
 import os
 import re
 import progressbar
+from utils import ner
 
 discussion_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'filtered_discussions')
 output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'input_files')
+
 
 class DiscussionTree:
 
@@ -80,6 +82,12 @@ class DiscussionTree:
         for child in self.children.values():
             child.fix_references(self, root)
 
+    def clean_named_entities(self):
+        self.text = ner.replace_entities(self.text)
+
+        for child in self.children.values():
+            child.clean_named_entities()
+
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
     cleaned_lines = []
@@ -147,11 +155,13 @@ def tree_to_discussion(discussion_tree):
     discussion = DiscussionTree(text, child_trees)
     return discussion
 
+
 def write_discussions_to_files(discussion_dir, filename, source_file, target_file):
     with open(os.path.join(discussion_dir, filename), 'r') as current_file:
         tree = build_discussion_dict(current_file.readlines())
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
+        discussion.clean_named_entities()
         args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
@@ -162,6 +172,7 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
                 as_string += (' ' + sentence)
             as_string = as_string[1:]
             target_file.write(as_string + '\n')
+
 
 def write_source_target(discussion_dir, filenames, name, start, end):
     source_file = open(os.path.join(output_dir, f'{name}.kialo_source'), 'w+')
@@ -175,6 +186,7 @@ def write_source_target(discussion_dir, filenames, name, start, end):
 
     source_file.close()
     target_file.close()
+
 
 if __name__ == '__main__':
     filenames = os.listdir(discussion_dir)
