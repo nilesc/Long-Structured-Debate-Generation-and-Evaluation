@@ -130,6 +130,13 @@ def build_discussion_dict(lines):
 
     return discussion_tree
 
+# This is a method of augmentation that says that, for a given prompt and response,
+# the same prompt and the response without the last sentence is also a vaild prompt
+# response pair. If we start with
+# Prompt: A, Response: B C D
+# where all letters are sentences, this method would add
+# Prompt: A, Response: B C
+# Prompt: A, Response: B
 def front_augmentation(args):
     augmented = [arg for arg in args]
     for arg in args:
@@ -138,6 +145,13 @@ def front_augmentation(args):
 
     return augmented
 
+# This is a method of augmentation that says that, for a given prompt and response,
+# the first sentence of the response can be a valid prompt, and the rest of the
+# response will be a response to this new prompt. If we start with
+# Prompt A, Response: B C D
+# where all letters are sentences, this method would add
+# Prompt: B, Response: C D
+# Prompt: C, Response: D
 def back_augmentation(args):
     augmented = [arg for arg in args]
     for arg in args:
