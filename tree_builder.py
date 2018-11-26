@@ -3,8 +3,8 @@ import re
 import progressbar
 from utils import ner
 
-discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'filtered_discussions')
-output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'input_files')
+discussion_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'filtered_discussions')
+output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'input_files')
 
 
 class DiscussionTree:
@@ -34,25 +34,31 @@ class DiscussionTree:
     def get_children(self):
         return [child for child in self.children.values()]
 
-    def get_arguments(self, pro=None, augment=False):
-        child_arguments = self.get_children()
+    def get_arguments(self, pro=None, augmentor=None):
+        base_args = self.get_arguments_inner(pro)
+
+        if augmentor:
+            base_args = augmentor(base_args)
+
+        return base_args
+
+    def get_arguments_inner(self, pro):
+        children = self.get_children()
 
         if pro:
-            child_arguments = self.get_pro_children()
+            children = self.get_pro_children()
         if not pro and pro is not None:
-            child_arguments = self.get_con_children()
+            children = self.get_con_children()
 
-        if not child_arguments:
+        if not children:
             return [[self.text]]
 
         child_arguments = []
-        for child in self.get_pro_children():
-            child_arguments += child.get_arguments(pro, augment)
+
+        for child in children:
+            child_arguments += child.get_arguments_inner(pro)
 
         all_args = [[self.text] + child for child in child_arguments]
-
-        if augment:
-            all_args += [[self.text]]
 
         return all_args
 
@@ -124,6 +130,35 @@ def build_discussion_dict(lines):
 
     return discussion_tree
 
+# This is a method of augmentation that says that, for a given prompt and response,
+# the same prompt and the response without the last sentence is also a vaild prompt
+# response pair. If we start with
+# Prompt: A, Response: B C D
+# where all letters are sentences, this method would add
+# Prompt: A, Response: B C
+# Prompt: A, Response: B
+def front_augmentation(args):
+    augmented = [arg for arg in args]
+    for arg in args:
+        for i in range(len(arg)-2):
+            augmented.append(arg[:(i+2)])
+
+    return augmented
+
+# This is a method of augmentation that says that, for a given prompt and response,
+# the first sentence of the response can be a valid prompt, and the rest of the
+# response will be a response to this new prompt. If we start with
+# Prompt A, Response: B C D
+# where all letters are sentences, this method would add
+# Prompt: B, Response: C D
+# Prompt: C, Response: D
+def back_augmentation(args):
+    augmented = [arg for arg in args]
+    for arg in args:
+        for i in range(len(arg)-2):
+            augmented.append(arg[(i+1):])
+
+    return augmented
 
 def tree_to_discussion(discussion_tree):
     text = discussion_tree[0]
@@ -141,10 +176,10 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
         discussion.clean_named_entities()
-        args = discussion.get_arguments(pro=True, augment=True)
+        args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
-            source_file.write(discussion.text + '\n')
+            source_file.write(arg[0] + '\n')
 
             as_string = ''
             for sentence in arg[1:]:
