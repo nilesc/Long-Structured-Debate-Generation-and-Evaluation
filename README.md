@@ -65,26 +65,25 @@ Additional requirements:
 
   * BeautifulSoup4
   * Selenium
-  
+
         conda install -c conda-forge selenium
-     
+
   * Progressbar
   * spacy (with english language model)
-    
+
         pip install -U spacy
         python -m spacy download en
   * langdetect
-        
+
 
 ### Run Crawler
 
 First, crawl Kialo, downloading all debates through their export feature. This will take up to an hour. This will download all available debates onto your system to use as a training corpus.
 
     cd data_processing/
-    wget https://www.kialo.com/sitemap_discussions.xml
     python crawl_debates.py
     
-This will place debates into a directory called `./data/discussions/`.
+This will place debates into your download directory. From there, put them into a new directory called `./data/discussions/`.
 
 Next, we filter problematic debates. These are debates that are either formatted in a way that makes them hard to parse, or in a language other than English.
 
