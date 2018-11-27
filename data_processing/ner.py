@@ -2,6 +2,7 @@ import spacy
 
 from spacy.tokens import Doc
 
+# To Download spacy english dictionary run:
 # python -m spacy download en
 
 spacy.prefer_gpu()
