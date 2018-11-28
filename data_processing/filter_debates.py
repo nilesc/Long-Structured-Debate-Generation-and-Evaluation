@@ -3,8 +3,8 @@ from langdetect import detect
 from shutil import copyfile
 import progressbar
 
-discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'discussions')
-dst_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'filtered_discussions')
+discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/discussions')
+dst_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/filtered_discussions')
 
 blacklist = set([
         'compulsory-voting-should-voting-be-mandatory-1692.txt',

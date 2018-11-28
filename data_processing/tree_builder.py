@@ -1,11 +1,10 @@
 import os
 import re
 import progressbar
-from utils import ner
+import ner
 
-discussion_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'filtered_discussions')
-output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'input_files')
-
+discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/filtered_discussions')
+output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/input_files')
 
 class DiscussionTree:
 
@@ -88,6 +87,7 @@ class DiscussionTree:
         for child in self.children.values():
             child.clean_named_entities()
 
+
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
     cleaned_lines = []
@@ -130,15 +130,16 @@ def build_discussion_dict(lines):
 
     return discussion_tree
 
+
 def front_augmentation(args):
     """
     This is a method of augmentation that says that, for a given prompt and response,
     the same prompt and the response without the last sentence is also a vaild prompt
     response pair. If we start with
-    Prompt: A, Response: B C D
+        Prompt: A, Response: B C D
     where all letters are sentences, this method would add
-    Prompt: A, Response: B C
-    Prompt: A, Response: B
+        Prompt: A, Response: B C
+        Prompt: A, Response: B
     """
     augmented = [arg for arg in args]
     for arg in args:
@@ -147,15 +148,16 @@ def front_augmentation(args):
 
     return augmented
 
+
 def back_augmentation(args):
     """
     This is a method of augmentation that says that, for a given prompt and response,
     the first sentence of the response can be a valid prompt, and the rest of the
     response will be a response to this new prompt. If we start with
-    Prompt A, Response: B C D
+        Prompt A, Response: B C D
     where all letters are sentences, this method would add
-    Prompt: B, Response: C D
-    Prompt: C, Response: D
+        Prompt: B, Response: C D
+        Prompt: C, Response: D
     """
     augmented = [arg for arg in args]
     for arg in args:
@@ -170,10 +172,10 @@ def slice_augmentation(args):
     the prompt and any number of sentences from the start of the response can be a
     valid prompt, and the remainder of the response will be a valid response to this
     new prompt. If we start with
-    Prompt A, Response: B C D
+        Prompt A, Response: B C D
     where all letters are sentences, this method would add
-    Prompt: A B, Response: C D
-    Prompt: A B C, Response: D
+        Prompt: A B, Response: C D
+        Prompt: A B C, Response: D
     """
     augmented = []
     for arg in args:
