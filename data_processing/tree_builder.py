@@ -185,8 +185,25 @@ def slice_augmentation(args):
             combined = ""
             for sentence in first_part:
                 combined += (' ' + sentence)
+            combined = combined[1:]
             augmented.append([combined] + second_part)
     return augmented
+
+
+def total_augmentation(args):
+    """
+    Runs a combination of back_augmentation, front_augmentation, and slice_augmentation.
+    This should return all viable arguments that can be made from any subset of the original
+    argument.
+    """
+    args = back_augmentation(args)
+    args = front_augmentation(args)
+    args = slice_augmentation(args)
+
+    args = list(set(tuple(arg) for arg in args))
+    args = [list(arg) for arg in args]
+
+    return args
 
 def tree_to_discussion(discussion_tree):
     text = discussion_tree[0]
