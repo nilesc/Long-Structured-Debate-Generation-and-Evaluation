@@ -157,6 +157,7 @@ if __name__ == '__main__':
 
     init_csv()
 
+    # To run make sure https://www.kialo.com/sitemap_discussions.xml has been downloaded
     debate_ids = sorted(list(
         set(get_public_discussion_ids('sitemap_discussions.xml')) -
         set(downloaded_ids())

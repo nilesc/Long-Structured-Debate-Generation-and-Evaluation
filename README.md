@@ -60,32 +60,42 @@ Finally, install optional utilities.
 ### Install Requirements
 In order to gather data, selenium must be installed. Selenium can be installed through the following command. Note that this requires conda to be installed. If you have set up your instance according to the instructions above, this should be taken care of already.
 
-    conda install -c conda-forge selenium
 
 Additional requirements:
 
   * BeautifulSoup4
+  * Selenium
+
+        conda install -c conda-forge selenium
+
+  * Progressbar
+  * spacy (with english language model)
+
+        pip install -U spacy
+        python -m spacy download en
+  * langdetect
+
 
 ### Run Crawler
 
 First, crawl Kialo, downloading all debates through their export feature. This will take up to an hour. This will download all available debates onto your system to use as a training corpus.
 
-    cd crawler/
-    python download_debates.py
+    cd data_processing/
+    python crawl_debates.py
+    
+This will place debates into your download directory. From there, put them into a new directory called `./data/discussions/`.
 
 Next, we filter problematic debates. These are debates that are either formatted in a way that makes them hard to parse, or in a language other than English.
 
     python filter_debates.py
 
-This will copy all appropriate debates to a folder named `./filtered_debates/`.
+This will copy all appropriate debates to a folder named `./data/filtered_discussions/`.
 
 ## Build Training / Val / Test data
 
-From the root run:
-
     python tree_builder.py
 
-This will construct source and target data and place it in `./input_files/`. For each debate, all traversals of the tree corresponding to coherent arguments will be added to a `target` file, and the corresponding debate prompt will be added to a `source` file. This script gives several options for how to build the tree, including whether to include only Pro aguments, only Con arguments, or both, and whether or not to augment the data with sub-trees. By default, all traversals from the root involving only positive children are included. Note that we also include traversals that do not end at a leaf node. In this way, we get substrings of arguments that are themselves coherent arguments.
+This will construct source and target data and place it in `./data/input_files/`. For each debate, all traversals of the tree corresponding to coherent arguments will be added to a `target` file, and the corresponding debate prompt will be added to a `source` file. This script gives several options for how to build the tree, including whether to include only Pro aguments, only Con arguments, or both, and whether or not to augment the data with sub-trees. By default, all traversals from the root involving only positive children are included. Note that we also include traversals that do not end at a leaf node. In this way, we get substrings of arguments that are themselves coherent arguments.
 
 ## Setup model
 
@@ -172,7 +182,7 @@ This section modifies subsection 2 from the previous section in order to generat
 Now, perform the full preprocessing of the data.
 
     $ cd ..
-    $ mv input_files fairseq/examples/kialo
+    $ mv data/input_files fairseq/examples/kialo
     $ cd fairseq
     $ TEXT=examples/kialo
     $ python preprocess.py --source-lang kialo_source --target-lang kialo_target \
