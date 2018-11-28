@@ -160,6 +160,18 @@ def back_augmentation(args):
 
     return augmented
 
+def slice_augmentation(args):
+    augmented = []
+    for arg in args:
+        for i in range(len(arg) - 1):
+            first_part = arg[:i+1]
+            second_part = arg[i+1:]
+            combined = ""
+            for sentence in first_part:
+                combined += sentence
+            augmented.append([combined] + second_part)
+    return augmented
+
 def tree_to_discussion(discussion_tree):
     text = discussion_tree[0]
     children = discussion_tree[1].values()
