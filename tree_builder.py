@@ -176,7 +176,7 @@ def slice_augmentation(args):
             second_part = arg[i+1:]
             combined = ""
             for sentence in first_part:
-                combined += sentence
+                combined += (' ' + sentence)
             augmented.append([combined] + second_part)
     return augmented
 
