@@ -160,6 +160,14 @@ def back_augmentation(args):
 
     return augmented
 
+# This is a method of augmentation that says that, for a given prompt and response,
+# the prompt and any number of sentences from the start of the response can be a
+# valid prompt, and the remainder of the response will be a valid response to this
+# new prompt. If we start with
+# Prompt A, Response: B C D
+# where all letters are sentences, this method would add
+# Prompt: A B, Response: C D
+# Prompt: A B C, Response: D
 def slice_augmentation(args):
     augmented = []
     for arg in args:
