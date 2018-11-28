@@ -1,4 +1,5 @@
 import spacy
+import gensim
 
 from spacy.tokens import Doc
 
@@ -33,7 +34,7 @@ CARDINAL	Numerals that do not fall under another type.
 """
 
 
-verbose = False
+verbose = True
 
 labels_to_replace = {
     'PERSON',
@@ -77,7 +78,7 @@ def replace_entities(text, replace_with='<UNK>'):
             if replace_with is None:
                 replace_with = label
 
-            cleaned_words[start:end] = [replace_with] * (end - start)
+            cleaned_words[start:end] = [replace_with]
 
             if verbose:
                 print('REPLACING', text_to_replace, 'WITH', label, ':', cleaned_words)
