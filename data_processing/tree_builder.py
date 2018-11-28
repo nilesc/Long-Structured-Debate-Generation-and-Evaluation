@@ -166,6 +166,28 @@ def back_augmentation(args):
 
     return augmented
 
+def slice_augmentation(args):
+    """
+    This is a method of augmentation that says that, for a given prompt and response,
+    the prompt and any number of sentences from the start of the response can be a
+    valid prompt, and the remainder of the response will be a valid response to this
+    new prompt. If we start with
+        Prompt A, Response: B C D
+    where all letters are sentences, this method would add
+        Prompt: A B, Response: C D
+        Prompt: A B C, Response: D
+    """
+    augmented = []
+    for arg in args:
+        for i in range(len(arg) - 1):
+            first_part = arg[:i+1]
+            second_part = arg[i+1:]
+            combined = ""
+            for sentence in first_part:
+                combined += (' ' + sentence)
+            augmented.append([combined] + second_part)
+    return augmented
+
 def tree_to_discussion(discussion_tree):
     text = discussion_tree[0]
     children = discussion_tree[1].values()
