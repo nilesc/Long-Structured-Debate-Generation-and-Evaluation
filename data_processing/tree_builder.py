@@ -41,6 +41,35 @@ class DiscussionTree:
 
         return base_args
 
+    def build_complex_args(self):
+        all_args = []
+
+        # for every node in tree
+        for child in self.get_children():
+            child_args = child.build_complex_args()
+            all_args.append([[self.text] + child_arg for child_arg in child_args])
+
+        return all_args
+
+    def traverse_complex(self, seen_con):
+        # If we have already seen a con argument and we see another
+        if seen_con and self.is_con:
+            return [[self.text]]
+
+        seen_con = seen_con or not self.is_pro
+        all_args = []
+
+        children = []
+
+        if not seen_con:
+            children = self.get_children()
+        else:
+            children = self.get_pro_children()
+
+        for child in children:
+            child.traverse_complex(seen_con)
+
+
     def get_arguments_inner(self, pro):
         children = self.get_children()
 
