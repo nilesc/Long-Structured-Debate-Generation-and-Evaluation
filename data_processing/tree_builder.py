@@ -47,16 +47,20 @@ class DiscussionTree:
         # for every node in tree
         for child in self.get_children():
             child_args = child.build_complex_args()
-            all_args.append([[self.text] + child_arg for child_arg in child_args])
+            all_args.extend(child_args)
 
+        all_args.extend(self.traverse_complex(False))
+
+        print(all_args)
         return all_args
 
     def traverse_complex(self, seen_con):
         # If we have already seen a con argument and we see another
-        if seen_con and self.is_con:
-            return [[self.text]]
+        print()
 
+        print('seen_con before: ', seen_con)
         seen_con = seen_con or not self.is_pro
+        print('seen_con after: ', seen_con)
         all_args = []
 
         children = []
@@ -66,8 +70,19 @@ class DiscussionTree:
         else:
             children = self.get_pro_children()
 
+        print('children: ', children)
+        if not children:
+            return [[(self.text, self.is_pro)]]
+
+        partial_args = []
         for child in children:
-            child.traverse_complex(seen_con)
+            partial_args.extend(child.traverse_complex(seen_con))
+
+        print('adding stuff')
+        return_list = [[(self.text, self.is_pro)] + partial_arg for partial_arg in partial_args]
+
+        print(return_list)
+        return return_list
 
 
     def get_arguments_inner(self, pro):
@@ -252,7 +267,8 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
         discussion.clean_named_entities()
-        args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
+        args = discussion.build_complex_args()
+        #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
             source_file.write(arg[0] + '\n')
