@@ -73,7 +73,7 @@ class DiscussionTree:
 
                     parsed_args.append([first_part_condensed] + list(second_part))
 
-        return unparsed_args
+        return parsed_args
 
     def build_complex_args_inner(self):
         all_args = []
