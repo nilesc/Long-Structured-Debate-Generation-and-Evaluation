@@ -43,8 +43,36 @@ class DiscussionTree:
 
     def build_complex_args(self):
         unparsed_args = self.build_complex_args_inner()
+        parsed_args = []
 
-        print(unparsed_args)
+        for arg in unparsed_args:
+            if len(arg) == 1:
+                continue
+
+            sentences, is_pro = zip(*arg)
+            subsets = []
+
+            # Look at all subsets that begin at the start
+            for slice_index in range(2, len(sentences)+1):
+                reduced_sentences = sentences[:slice_index]
+                reduced_is_pro = is_pro[:slice_index]
+
+                # If there are no con arguments other than first, then add all slices
+                if all(reduced_is_pro[1:]):
+                    parsed_args.extend(slice_augmentation([list(reduced_sentences)]))
+
+                # If there is a con argument, then split at that point
+                else:
+                    split_point = reduced_is_pro[1:].index(False) + 1
+                    first_part = sentences[:split_point]
+                    second_part = sentences[split_point:]
+
+                    first_part_condensed = ''
+                    for sentence in first_part:
+                        first_part_condensed += sentence
+
+                    parsed_args.append([first_part_condensed] + list(second_part))
+
         return unparsed_args
 
     def build_complex_args_inner(self):
@@ -55,17 +83,14 @@ class DiscussionTree:
             child_args = child.build_complex_args_inner()
             all_args.extend(child_args)
 
-        all_args.extend(self.traverse_complex(False))
+            for complex_arg in child.traverse_complex(False):
+                all_args.append([(self.text, self.is_pro)] + complex_arg)
 
         return all_args
 
     def traverse_complex(self, seen_con):
         # If we have already seen a con argument and we see another
-        print()
-
-        print('seen_con before: ', seen_con)
         seen_con = seen_con or not self.is_pro
-        print('seen_con after: ', seen_con)
         all_args = []
 
         children = []
@@ -75,7 +100,6 @@ class DiscussionTree:
         else:
             children = self.get_pro_children()
 
-        print('children: ', children)
         if not children:
             return [[(self.text, self.is_pro)]]
 
@@ -83,10 +107,8 @@ class DiscussionTree:
         for child in children:
             partial_args.extend(child.traverse_complex(seen_con))
 
-        print('adding stuff')
         return_list = [[(self.text, self.is_pro)] + partial_arg for partial_arg in partial_args]
 
-        print(return_list)
         return return_list
 
 
