@@ -42,16 +42,21 @@ class DiscussionTree:
         return base_args
 
     def build_complex_args(self):
+        unparsed_args = self.build_complex_args_inner()
+
+        print(unparsed_args)
+        return unparsed_args
+
+    def build_complex_args_inner(self):
         all_args = []
 
         # for every node in tree
         for child in self.get_children():
-            child_args = child.build_complex_args()
+            child_args = child.build_complex_args_inner()
             all_args.extend(child_args)
 
         all_args.extend(self.traverse_complex(False))
 
-        print(all_args)
         return all_args
 
     def traverse_complex(self, seen_con):
