@@ -50,7 +50,6 @@ class DiscussionTree:
                 continue
 
             sentences, is_pro = zip(*arg)
-            subsets = []
 
             # Look at all subsets that begin at the start
             for slice_index in range(2, len(sentences)+1):
@@ -91,7 +90,6 @@ class DiscussionTree:
     def traverse_complex(self, seen_con):
         # If we have already seen a con argument and we see another
         seen_con = seen_con or not self.is_pro
-        all_args = []
 
         children = []
 
