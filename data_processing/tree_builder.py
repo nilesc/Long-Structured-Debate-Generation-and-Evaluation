@@ -41,6 +41,78 @@ class DiscussionTree:
 
         return base_args
 
+    def build_complex_args(self):
+        unparsed_args = self.build_complex_args_inner()
+        parsed_args = []
+
+        for arg in unparsed_args:
+            if len(arg) == 1:
+                continue
+
+            sentences, is_pro = zip(*arg)
+
+            # Look at all subsets that begin at the start
+            for slice_index in range(2, len(sentences)+1):
+                reduced_sentences = sentences[:slice_index]
+                reduced_is_pro = is_pro[:slice_index]
+
+                # If there are no con arguments other than first, then add all slices
+                if all(reduced_is_pro[1:]):
+                    parsed_args.extend(slice_augmentation([list(reduced_sentences)]))
+
+                # If there is a con argument, then split at that point
+                else:
+                    split_point = reduced_is_pro[1:].index(False) + 1
+                    first_part = sentences[:split_point]
+                    second_part = sentences[split_point:]
+
+                    first_part_condensed = ''
+                    for sentence in first_part:
+                        first_part_condensed += sentence
+
+                    for crop_point in range(len(second_part)):
+                        parsed_args.append([first_part_condensed] + list(second_part)[:crop_point+1])
+                    parsed_args.append([first_part_condensed] + list(second_part))
+
+        return remove_duplicates(parsed_args)
+
+
+    def build_complex_args_inner(self):
+        all_args = []
+
+        # for every node in tree
+        for child in self.get_children():
+            child_args = child.build_complex_args_inner()
+            all_args.extend(child_args)
+
+            for complex_arg in child.traverse_complex(False):
+                all_args.append([(self.text, self.is_pro)] + complex_arg)
+
+        return all_args
+
+    def traverse_complex(self, seen_con):
+        # If we have already seen a con argument and we see another
+        seen_con = seen_con or not self.is_pro
+
+        children = []
+
+        if not seen_con:
+            children = self.get_children()
+        else:
+            children = self.get_pro_children()
+
+        if not children:
+            return [[(self.text, self.is_pro)]]
+
+        partial_args = []
+        for child in children:
+            partial_args.extend(child.traverse_complex(seen_con))
+
+        return_list = [[(self.text, self.is_pro)] + partial_arg for partial_arg in partial_args]
+
+        return return_list
+
+
     def get_arguments_inner(self, pro):
         children = self.get_children()
 
@@ -200,10 +272,11 @@ def total_augmentation(args):
     args = front_augmentation(args)
     args = slice_augmentation(args)
 
-    args = list(set(tuple(arg) for arg in args))
-    args = [list(arg) for arg in args]
+    return remove_duplicates(args)
 
-    return args
+def remove_duplicates(x):
+    list_of_tuples = list(set(tuple(value) for value in x))
+    return [list(value) for value in list_of_tuples]
 
 def tree_to_discussion(discussion_tree):
     text = discussion_tree[0]
@@ -217,11 +290,14 @@ def tree_to_discussion(discussion_tree):
 
 def write_discussions_to_files(discussion_dir, filename, source_file, target_file):
     with open(os.path.join(discussion_dir, filename), 'r') as current_file:
+        if not filename.endswith('txt'):
+            return
         tree = build_discussion_dict(current_file.readlines())
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
         discussion.clean_named_entities()
-        args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
+        args = discussion.build_complex_args()
+        #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
             source_file.write(arg[0] + '\n')
