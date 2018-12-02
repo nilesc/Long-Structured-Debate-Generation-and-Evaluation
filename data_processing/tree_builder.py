@@ -70,6 +70,8 @@ class DiscussionTree:
                     for sentence in first_part:
                         first_part_condensed += sentence
 
+                    for crop_point in range(len(second_part)):
+                        parsed_args.append([first_part_condensed] + list(second_part)[:crop_point+1])
                     parsed_args.append([first_part_condensed] + list(second_part))
 
         return remove_duplicates(parsed_args)
