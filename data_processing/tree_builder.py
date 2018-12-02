@@ -72,7 +72,8 @@ class DiscussionTree:
 
                     parsed_args.append([first_part_condensed] + list(second_part))
 
-        return parsed_args
+        return remove_duplicates(parsed_args)
+
 
     def build_complex_args_inner(self):
         all_args = []
@@ -269,10 +270,11 @@ def total_augmentation(args):
     args = front_augmentation(args)
     args = slice_augmentation(args)
 
-    args = list(set(tuple(arg) for arg in args))
-    args = [list(arg) for arg in args]
+    return remove_duplicates(args)
 
-    return args
+def remove_duplicates(x):
+    list_of_tuples = list(set(tuple(value) for value in x))
+    return [list(value) for value in list_of_tuples]
 
 def tree_to_discussion(discussion_tree):
     text = discussion_tree[0]
