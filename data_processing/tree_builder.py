@@ -51,8 +51,12 @@ class DiscussionTree:
 
         return base_args
 
-    # Calls build_complex_args_inner and cleans results
     def build_complex_args(self, pro_responses=None):
+        """
+        Builds arguments according to the regex [Pro|Con][Pro]*[Pro|Con][Pro]*.
+        If pro_responses is True, then the regex will instead be [Pro|Con][Pro]*
+        If pro_responses is False, then the regex will instead be [Pro|Con][Pro]*[Con][Pro]*.
+        """
         unparsed_args = self.build_complex_args_inner()
         parsed_args = []
 
