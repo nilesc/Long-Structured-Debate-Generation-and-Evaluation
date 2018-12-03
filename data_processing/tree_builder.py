@@ -154,7 +154,9 @@ class DiscussionTree:
             root = self
 
         if self.text.startswith('->'):
-            if not 'discussion' in self.text:
+            if 'discussion' in self.text:
+                self.text = self.text.split(': ')[1]
+            else:
                 number = self.text.split(' ')[-1]
 
                 current_root = root
