@@ -9,6 +9,8 @@ spacy.prefer_gpu()
 
 nlp = spacy.load('en')
 
+verbose = False
+
 """
 # https://spacy.io/usage/linguistic-features
 

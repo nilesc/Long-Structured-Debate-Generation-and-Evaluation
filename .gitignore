@@ -7,12 +7,13 @@ __pycache__/
 *.swp
 
 # Data folders
-discussions/
-filtered_discussions/
-input_files/
+data/
 
 # C extensions
 *.so
+
+# JetBrains IDE
+.idea/
 
 # Distribution / packaging
 .Python
