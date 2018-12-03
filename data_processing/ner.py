@@ -73,8 +73,6 @@ def replace_entities(text, replace_with='<UNK>', verbose=False):
             start = ent.start
             end = ent.end
             text_to_replace = ent.text
-            if verbose:
-                print(cleaned_words[start:end])
 
             # Set the correct token to replace these labels with
             if replace_with is None:
