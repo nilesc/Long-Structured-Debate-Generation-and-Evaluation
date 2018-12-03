@@ -54,16 +54,16 @@ class DiscussionTree:
     def get_path_parsed_args(self, path, responses='All'):
         parsed_args = []
         prompt = []
-       
+
         # For all valid prompts ranging from the start to one before end of the list
         for i in range(len(path)-1):
             is_first = i == 0
             arg, is_pro = path[i]
-            
+
             if is_first or is_pro:
                 prompt = prompt + [arg]
                 response = []
-                
+
                 # For all valid responses that start at the end of the prompt
                 for j in range(i+1, len(path)):
                     is_first_response = j == i+1
@@ -74,7 +74,7 @@ class DiscussionTree:
                     elif is_pro_response and responses == 'Pro':
                         response = response + [arg]
                         parsed_args.append((' '.join(prompt), ' '.join(response)))
-                    elif ((is_first_response and not is_pro_response) or 
+                    elif ((is_first_response and not is_pro_response) or
                             (not is_first_response and is_pro_response)) and responses == 'Con':
                         response = response + [arg]
                         parsed_args.append((' '.join(prompt), ' '.join(response)))
@@ -92,7 +92,7 @@ class DiscussionTree:
         Function that builds all the paths in the tree from root to leaf
         '''
         paths = []
-      
+
         if not self.children.values() and path_depth > 1:
             return [path]
 
@@ -104,7 +104,7 @@ class DiscussionTree:
 
             if not child.is_pro:
                 built_path_cons += 1
-           
+
             # Optimization: ignore paths that have 3 or more cons
             if built_path_cons < 3 and built_path_depth <= max_depth:
                 paths.extend(child.build_paths(built_path, built_path_cons,
@@ -112,7 +112,7 @@ class DiscussionTree:
 
             elif built_path_depth > 1:
                 paths.append(built_path)
- 
+
         return paths
 
 
@@ -121,12 +121,12 @@ class DiscussionTree:
         Function that builds all the paths in the tree that lead to leaves
         '''
         paths = []
-       
+
         for child in self.children.values():
             paths.extend(child.build_all_paths())
-        
+
         complex_arg = (self.text, self.is_pro)
-        
+
         # Add all the paths from root to leaf for this tree
         paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1, max_depth=100))
 
@@ -137,12 +137,12 @@ class DiscussionTree:
         paths = self.build_all_paths()
         parsed_args = []
 
-        
+
         for path in paths:
             # Get all the valid argument pairings for this path
             path_parsed_args = self.get_path_parsed_args(path, 'Con')
             parsed_args.extend(path_parsed_args)
- 
+
         return remove_duplicates(parsed_args)
 
     def build_complex_args(self):
