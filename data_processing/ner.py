@@ -1,5 +1,4 @@
 import spacy
-import gensim
 
 from spacy.tokens import Doc
 
@@ -34,8 +33,6 @@ CARDINAL	Numerals that do not fall under another type.
 """
 
 
-verbose = True
-
 labels_to_replace = {
     'PERSON',
     'NORP',
@@ -58,7 +55,7 @@ labels_to_replace = {
 }
 
 
-def replace_entities(text, replace_with='<UNK>'):
+def replace_entities(text, replace_with='<UNK>', verbose=False):
     """
     Replace all named entities within the text.
     :param replace_with: the label with which to replace all named entity occurances. If NONE, replaces them with their
@@ -76,7 +73,8 @@ def replace_entities(text, replace_with='<UNK>'):
             start = ent.start
             end = ent.end
             text_to_replace = ent.text
-            print(cleaned_words[start:end])
+            if verbose:
+                print(cleaned_words[start:end])
 
             # Set the correct token to replace these labels with
             if replace_with is None:
