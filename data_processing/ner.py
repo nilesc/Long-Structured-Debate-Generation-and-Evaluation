@@ -10,6 +10,8 @@ spacy.prefer_gpu()
 
 nlp = spacy.load('en')
 
+verbose = False
+
 """
 # https://spacy.io/usage/linguistic-features
 
@@ -33,8 +35,6 @@ ORDINAL	"first", "second", etc.
 CARDINAL	Numerals that do not fall under another type.
 """
 
-
-verbose = True
 
 labels_to_replace = {
     'PERSON',
@@ -76,7 +76,6 @@ def replace_entities(text, replace_with='<UNK>'):
             start = ent.start
             end = ent.end
             text_to_replace = ent.text
-            print(cleaned_words[start:end])
 
             # Set the correct token to replace these labels with
             if replace_with is None:
