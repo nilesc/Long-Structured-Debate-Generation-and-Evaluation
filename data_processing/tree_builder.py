@@ -258,7 +258,7 @@ class DiscussionTree:
             child.fix_references(self, root)
 
 def clean_named_entities(arg):
-    text = ner.replace_entities(arg)
+    text = ner.replace_entities(arg, None)
     return text
 
 # lines comes in as a list of lines in the discussion
@@ -402,10 +402,10 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
-            prompt = arg[0]
-            response = arg[1]
-            #prompt = clean_named_entities(arg[0])
-            #response = clean_named_entities(arg[1])
+            #prompt = arg[0]
+            #response = arg[1]
+            prompt = clean_named_entities(arg[0])
+            response = clean_named_entities(arg[1])
             source_file.write(prompt + '\n')
             target_file.write(response + '\n')
 
