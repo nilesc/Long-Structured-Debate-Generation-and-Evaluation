@@ -51,102 +51,9 @@ class DiscussionTree:
 
         return base_args
 
-    def get_path_parsed_args(self, path, responses='All'):
-        parsed_args = []
-        prompt = []
-
-        # For all valid prompts ranging from the start to one before end of the list
-        for i in range(len(path)-1):
-            is_first = i == 0
-            arg, is_pro = path[i]
-
-            if is_first or is_pro:
-                prompt = prompt + [arg]
-                response = []
-
-                # For all valid responses that start at the end of the prompt
-                for j in range(i+1, len(path)):
-                    is_first_response = j == i+1
-                    arg, is_pro_response = path[j]
-                    if is_first_response or is_pro_response and responses == 'All':
-                        response = response + [arg]
-                        parsed_args.append((' '.join(prompt), ' '.join(response)))
-                    elif is_pro_response and responses == 'Pro':
-                        response = response + [arg]
-                        parsed_args.append((' '.join(prompt), ' '.join(response)))
-                    elif ((is_first_response and not is_pro_response) or
-                            (not is_first_response and is_pro_response)) and responses == 'Con':
-                        response = response + [arg]
-                        parsed_args.append((' '.join(prompt), ' '.join(response)))
-                    else:
-                        break
-
-            else:
-                break
-
-        return parsed_args
-
-
-    def build_paths(self, path, path_cons, path_depth, max_depth):
-        '''
-        Function that builds all the paths in the tree from root to leaf
-        '''
-        paths = []
-
-        if not self.children.values() and path_depth > 1:
-            return [path]
-
-        for child in self.children.values():
-            complex_arg = (child.text, child.is_pro)
-            built_path = path + [complex_arg]
-            built_path_cons = path_cons
-            built_path_depth = path_depth + 1
-
-            if not child.is_pro:
-                built_path_cons += 1
-
-            # Optimization: ignore paths that have 3 or more cons
-            if built_path_cons < 3 and built_path_depth <= max_depth:
-                paths.extend(child.build_paths(built_path, built_path_cons,
-                    built_path_depth, max_depth))
-
-            elif built_path_depth > 1:
-                paths.append(built_path)
-
-        return paths
-
-
-    def build_all_paths(self):
-        '''
-        Function that builds all the paths in the tree that lead to leaves
-        '''
-        paths = []
-
-        for child in self.children.values():
-            paths.extend(child.build_all_paths())
-
-        complex_arg = (self.text, self.is_pro)
-
-        # Add all the paths from root to leaf for this tree
-        paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1, max_depth=100))
-
-        return paths
-
-    def build_args(self):
-        # Build all the paths in the tree that lead to leaves
-        paths = self.build_all_paths()
-        parsed_args = []
-
-
-        for path in paths:
-            # Get all the valid argument pairings for this path
-            path_parsed_args = self.get_path_parsed_args(path, 'Con')
-            parsed_args.extend(path_parsed_args)
-
-        return remove_duplicates(parsed_args)
-
-    def build_complex_args(self):
-        unparsed_args = self.build_complex_args_inner()
+    # Calls build_complex_args_inner and cleans results
+    def build_complex_args(self, pro_top_level=None):
+        unparsed_args = self.build_complex_args_inner(pro_top_level=pro_top_level)
         parsed_args = []
 
         for arg in unparsed_args:
@@ -180,12 +87,19 @@ class DiscussionTree:
 
         return remove_duplicates(parsed_args)
 
-
-    def build_complex_args_inner(self):
+    # For each node in our tree, call traverse_complex and append its own text
+    # and is_pro value to the resulting arguments
+    def build_complex_args_inner(self, pro_top_level=None):
         all_args = []
 
+        children = self.get_children()
+        if pro_top_level:
+            children = self.get_pro_children()
+        elif pro_top_level != None and not pro_top_level:
+            children = self.get_con_children()
+
         # for every node in tree
-        for child in self.get_children():
+        for child in children:
             child_args = child.build_complex_args_inner()
             all_args.extend(child_args)
 
@@ -261,7 +175,7 @@ def clean_named_entities(arg):
     text = ner.replace_entities(arg, None)
     return text
 
-# lines comes in as a list of lines in the discussion
+# Lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
     cleaned_lines = []
 
@@ -397,15 +311,14 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
 
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
-        args = discussion.build_args()
-        #args = discussion.build_complex_args()
-        #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
+        args = discussion.build_complex_args()
+        # args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
-            #prompt = arg[0]
-            #response = arg[1]
-            prompt = clean_named_entities(arg[0])
-            response = clean_named_entities(arg[1])
+            prompt = arg[0]
+            response = arg[1]
+            # prompt = clean_named_entities(arg[0])
+            # response = clean_named_entities(arg[1])
             source_file.write(prompt + '\n')
             target_file.write(response + '\n')
 
