@@ -26,9 +26,9 @@ class DiscussionTree:
             self.children[child.value] = child
 
     def print_pre_order(self, tabs=''):
-    '''
-    Prints pre-order traversal of debate tree
-    '''
+        '''
+        Prints pre-order traversal of debate tree
+        '''
         print(tabs + self.text)
         print("--")
         for child in self.children.values():
