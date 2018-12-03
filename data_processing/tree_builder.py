@@ -82,7 +82,7 @@ class DiscussionTree:
             child.fix_references(self, root)
 
     def clean_named_entities(self):
-        self.text = ner.replace_entities(self.text)
+        self.text = ner.replace_entities(self.text, None)
 
         for child in self.children.values():
             child.clean_named_entities()
