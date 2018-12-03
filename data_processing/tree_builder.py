@@ -68,12 +68,12 @@ class DiscussionTree:
                 reduced_is_pro = is_pro[:slice_index]
 
                 # If there are no con arguments other than first, then add all slices
-                # Don't include this if pro_top_level is False
-                if all(reduced_is_pro[1:]) and not (pro_responses != None and not pro_top_level):
+                # Don't include this if pro_responses is False
+                if all(reduced_is_pro[1:]) and not (pro_responses != None and not pro_responses):
                     parsed_args.extend(slice_augmentation([list(reduced_sentences)]))
 
                 # If there is a con argument, then split at that point
-                # Don't include this if pro_top_level is True
+                # Don't include this if pro_responses is True
                 elif not all(reduced_is_pro[1:]) and not pro_responses:
                     split_point = reduced_is_pro[1:].index(False) + 1
                     first_part = sentences[:split_point]
