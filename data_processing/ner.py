@@ -1,5 +1,4 @@
 import spacy
-import gensim
 
 from spacy.tokens import Doc
 
@@ -58,7 +57,7 @@ labels_to_replace = {
 }
 
 
-def replace_entities(text, replace_with='<UNK>'):
+def replace_entities(text, replace_with='<UNK>', verbose=False):
     """
     Replace all named entities within the text.
     :param replace_with: the label with which to replace all named entity occurances. If NONE, replaces them with their

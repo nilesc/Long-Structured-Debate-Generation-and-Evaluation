@@ -51,101 +51,8 @@ class DiscussionTree:
 
         return base_args
 
-    def get_path_parsed_args(self, path, responses='All'):
-        parsed_args = []
-        prompt = []
-       
-        # For all valid prompts ranging from the start to one before end of the list
-        for i in range(len(path)-1):
-            is_first = i == 0
-            arg, is_pro = path[i]
-            
-            if is_first or is_pro:
-                prompt = prompt + [arg]
-                response = []
-                
-                # For all valid responses that start at the end of the prompt
-                for j in range(i+1, len(path)):
-                    is_first_response = j == i+1
-                    arg, is_pro_response = path[j]
-                    if is_first_response or is_pro_response and responses == 'All':
-                        response = response + [arg]
-                        parsed_args.append((' '.join(prompt), ' '.join(response)))
-                    elif is_pro_response and responses == 'Pro':
-                        response = response + [arg]
-                        parsed_args.append((' '.join(prompt), ' '.join(response)))
-                    elif ((is_first_response and not is_pro_response) or 
-                            (not is_first_response and is_pro_response)) and responses == 'Con':
-                        response = response + [arg]
-                        parsed_args.append((' '.join(prompt), ' '.join(response)))
-                    else:
-                        break
-
-            else:
-                break
-
-        return parsed_args
-
-
-    def build_paths(self, path, path_cons, path_depth, max_depth):
-        '''
-        Function that builds all the paths in the tree from root to leaf
-        '''
-        paths = []
-      
-        if not self.children.values() and path_depth > 1:
-            return [path]
-
-        for child in self.children.values():
-            complex_arg = (child.text, child.is_pro)
-            built_path = path + [complex_arg]
-            built_path_cons = path_cons
-            built_path_depth = path_depth + 1
-
-            if not child.is_pro:
-                built_path_cons += 1
-           
-            # Optimization: ignore paths that have 3 or more cons
-            if built_path_cons < 3 and built_path_depth <= max_depth:
-                paths.extend(child.build_paths(built_path, built_path_cons,
-                    built_path_depth, max_depth))
-
-            elif built_path_depth > 1:
-                paths.append(built_path)
- 
-        return paths
-
-
-    def build_all_paths(self):
-        '''
-        Function that builds all the paths in the tree that lead to leaves
-        '''
-        paths = []
-       
-        for child in self.children.values():
-            paths.extend(child.build_all_paths())
-        
-        complex_arg = (self.text, self.is_pro)
-        
-        # Add all the paths from root to leaf for this tree
-        paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1, max_depth=100))
-
-        return paths
-
-    def build_args(self):
-        # Build all the paths in the tree that lead to leaves
-        paths = self.build_all_paths()
-        parsed_args = []
-
-        
-        for path in paths:
-            # Get all the valid argument pairings for this path
-            path_parsed_args = self.get_path_parsed_args(path, 'Con')
-            parsed_args.extend(path_parsed_args)
- 
-        return remove_duplicates(parsed_args)
-
-    def build_complex_args(self):
+    # Calls build_complex_args_inner and cleans results
+    def build_complex_args(self, pro_responses=None):
         unparsed_args = self.build_complex_args_inner()
         parsed_args = []
 
@@ -161,11 +68,13 @@ class DiscussionTree:
                 reduced_is_pro = is_pro[:slice_index]
 
                 # If there are no con arguments other than first, then add all slices
-                if all(reduced_is_pro[1:]):
+                # Don't include this if pro_top_level is False
+                if all(reduced_is_pro[1:]) and not (pro_responses != None and not pro_top_level):
                     parsed_args.extend(slice_augmentation([list(reduced_sentences)]))
 
                 # If there is a con argument, then split at that point
-                else:
+                # Don't include this if pro_top_level is True
+                elif not all(reduced_is_pro[1:]) and not pro_responses:
                     split_point = reduced_is_pro[1:].index(False) + 1
                     first_part = sentences[:split_point]
                     second_part = sentences[split_point:]
@@ -180,12 +89,15 @@ class DiscussionTree:
 
         return remove_duplicates(parsed_args)
 
-
+    # For each node in our tree, call traverse_complex and append its own text
+    # and is_pro value to the resulting arguments
     def build_complex_args_inner(self):
         all_args = []
 
+        children = self.get_children()
+
         # for every node in tree
-        for child in self.get_children():
+        for child in children:
             child_args = child.build_complex_args_inner()
             all_args.extend(child_args)
 
@@ -242,7 +154,9 @@ class DiscussionTree:
             root = self
 
         if self.text.startswith('->'):
-            if not 'discussion' in self.text:
+            if 'discussion' in self.text:
+                self.text = self.text.split(': ')[1]
+            else:
                 number = self.text.split(' ')[-1]
 
                 current_root = root
@@ -265,7 +179,7 @@ class DiscussionTree:
         for child in self.get_children():
             child.clean_named_entities(root=False)
 
-# lines comes in as a list of lines in the discussion
+# Lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
     cleaned_lines = []
 
@@ -402,8 +316,8 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
         discussion.clean_named_entities()
-        args = discussion.build_args()
-        #args = discussion.build_complex_args()
+        #args = discussion.build_args()
+        args = discussion.build_complex_args()
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
