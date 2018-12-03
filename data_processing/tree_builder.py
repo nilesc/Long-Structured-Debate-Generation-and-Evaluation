@@ -13,6 +13,7 @@ class DiscussionTree:
         full_value, self.text = text.split(' ', 1)
         all_values = [value.strip('.') for value in full_value.split('.')]
         cleaned = [value for value in all_values if value != '']
+        self.position = cleaned[0:-1]
         self.value = cleaned[-1]
 
         self.is_pro = not self.text.startswith('Con: ')
@@ -23,6 +24,12 @@ class DiscussionTree:
 
         for child in children:
             self.children[child.value] = child
+
+    def print_in_order(self, tabs=''):
+        print(tabs + self.text)
+        print("--")
+        for child in self.children.values():
+            child.print_in_order(tabs+'    ')
 
     def get_pro_children(self):
         return [child for child in self.children.values() if child.is_pro]
@@ -40,6 +47,84 @@ class DiscussionTree:
             base_args = augmentor(base_args)
 
         return base_args
+
+    def get_path_parsed_args(self, path, responses='All'):
+        parsed_args = []
+        prompt = []
+        
+        for i in range(len(path)-1):
+            is_first = i == 0
+            arg, is_pro = path[i]
+            if is_first or is_pro:
+                prompt = prompt + [arg]
+                response = []
+                
+                for j in range(i+1, len(path)):
+                    is_first_response = j == i+1
+                    arg, is_pro_response = path[j]
+                    if is_first_response or is_pro_response and responses == 'All':
+                        response = response + [arg]
+                        parsed_args.append((' '.join(prompt), ' '.join(response)))
+                    elif is_pro_response and responses == 'Pro':
+                        response = response + [arg]
+                        parsed_args.append((' '.join(prompt), ' '.join(response)))
+                    elif ((is_first_response and not is_pro_response) or 
+                            (not is_first_response and is_pro_response)) and responses == 'Con':
+                        response = response + [arg]
+                        parsed_args.append((' '.join(prompt), ' '.join(response)))
+                    else:
+                        break
+
+            else:
+                break
+
+        return parsed_args
+
+
+    def build_paths(self, path, path_cons, path_depth, max_depth):
+        paths = []
+      
+        if not self.children.values() and path_depth > 1:
+            return [path]
+
+        for child in self.children.values():
+            complex_arg = (child.text, child.is_pro)
+            built_path = path + [complex_arg]
+            built_path_cons = path_cons
+            built_path_depth = path_depth + 1
+
+            if not child.is_pro:
+                built_path_cons += 1
+            
+            if built_path_cons < 3 and built_path_depth <= max_depth:
+                paths.extend(child.build_paths(built_path, built_path_cons,
+                    built_path_depth, max_depth))
+            elif built_path_depth > 1:
+                paths.append(built_path)
+ 
+        return paths
+
+
+    def build_all_paths(self):
+        paths = []
+       
+        for child in self.children.values():
+            paths.extend(child.build_all_paths())
+        
+        complex_arg = (self.text, self.is_pro)
+        paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1, max_depth=100))
+
+        return paths
+
+    def build_args(self):
+        paths = self.build_all_paths()
+        parsed_args = []
+
+        for path in paths:
+            path_parsed_args = self.get_path_parsed_args(path)
+            parsed_args.extend(path_parsed_args)
+ 
+        return remove_duplicates(parsed_args)
 
     def build_complex_args(self):
         unparsed_args = self.build_complex_args_inner()
@@ -148,17 +233,14 @@ class DiscussionTree:
                         continue
                     current_root = current_root.children[value]
 
-                parent.children[self.value] = current_root
+                parent.children[self.value].text = current_root.text
 
         for child in self.children.values():
             child.fix_references(self, root)
 
-    def clean_named_entities(self):
-        self.text = ner.replace_entities(self.text)
-
-        for child in self.children.values():
-            child.clean_named_entities()
-
+def clean_named_entities(arg):
+    text = ner.replace_entities(arg)
+    return text
 
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
@@ -293,20 +375,20 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         if not filename.endswith('txt'):
             return
         tree = build_discussion_dict(current_file.readlines())
+
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
-        discussion.clean_named_entities()
-        args = discussion.build_complex_args()
+        args = discussion.build_args()
+        #args = discussion.build_complex_args()
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
-            source_file.write(arg[0] + '\n')
-
-            as_string = ''
-            for sentence in arg[1:]:
-                as_string += (' ' + sentence)
-            as_string = as_string[1:]
-            target_file.write(as_string + '\n')
+            prompt = arg[0]
+            response = arg[1]
+            #prompt = clean_named_entities(arg[0])
+            #response = clean_named_entities(arg[1])
+            source_file.write(prompt + '\n')
+            target_file.write(response + '\n')
 
 
 def write_source_target(discussion_dir, filenames, name, start, end):
