@@ -257,9 +257,13 @@ class DiscussionTree:
         for child in self.children.values():
             child.fix_references(self, root)
 
-def clean_named_entities(arg):
-    text = ner.replace_entities(arg, None)
-    return text
+    def clean_named_entities(self, root=True):
+        # Root nodes are often formatted with capitalization, which messes up the NER
+        if not root:
+            self.text = ner.replace_entities(self.text, replace_with=None)
+
+        for child in self.get_children():
+            child.clean_named_entities(root=False)
 
 # lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
@@ -397,15 +401,14 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
 
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
+        discussion.clean_named_entities()
         args = discussion.build_args()
         #args = discussion.build_complex_args()
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
-            #prompt = arg[0]
-            #response = arg[1]
-            prompt = clean_named_entities(arg[0])
-            response = clean_named_entities(arg[1])
+            prompt = arg[0]
+            response = arg[1]
             source_file.write(prompt + '\n')
             target_file.write(response + '\n')
 
