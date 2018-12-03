@@ -52,8 +52,8 @@ class DiscussionTree:
         return base_args
 
     # Calls build_complex_args_inner and cleans results
-    def build_complex_args(self, pro_top_level=None):
-        unparsed_args = self.build_complex_args_inner(pro_top_level=pro_top_level)
+    def build_complex_args(self, pro_responses=None):
+        unparsed_args = self.build_complex_args_inner()
         parsed_args = []
 
         for arg in unparsed_args:
@@ -68,11 +68,13 @@ class DiscussionTree:
                 reduced_is_pro = is_pro[:slice_index]
 
                 # If there are no con arguments other than first, then add all slices
-                if all(reduced_is_pro[1:]):
+                # Don't include this if pro_top_level is False
+                if all(reduced_is_pro[1:]) and not (pro_responses != None and not pro_top_level):
                     parsed_args.extend(slice_augmentation([list(reduced_sentences)]))
 
                 # If there is a con argument, then split at that point
-                else:
+                # Don't include this if pro_top_level is True
+                elif not all(reduced_is_pro[1:]) and not pro_responses:
                     split_point = reduced_is_pro[1:].index(False) + 1
                     first_part = sentences[:split_point]
                     second_part = sentences[split_point:]
@@ -89,14 +91,10 @@ class DiscussionTree:
 
     # For each node in our tree, call traverse_complex and append its own text
     # and is_pro value to the resulting arguments
-    def build_complex_args_inner(self, pro_top_level=None):
+    def build_complex_args_inner(self):
         all_args = []
 
         children = self.get_children()
-        if pro_top_level:
-            children = self.get_pro_children()
-        elif pro_top_level != None and not pro_top_level:
-            children = self.get_con_children()
 
         # for every node in tree
         for child in children:
