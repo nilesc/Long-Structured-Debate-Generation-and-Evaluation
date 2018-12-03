@@ -22,6 +22,16 @@ Now, clone our repository with git:
     git clone https://github.com/nnc2117/debatesim.git
 
 ### Setup Instance
+
+
+We used a Google Cloud Compute instance with the following settings:
+
+* OS - Ubuntu 16.04
+* CPU - 8 vCPUs
+* Memory - 52 GB 
+* GPU & 1 NVIDIA Tesla K80
+* HD - 100GB Standard persistent disk
+
 The following code can be executed with the following script:
 
     $ bash setup-instance.sh
