@@ -25,8 +25,9 @@ Now, clone our repository with git:
 
 The instance we used was a Google Cloud Compute "Deep Learning VM" deployed from this [link](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/deeplearning?angularJsUrl=%2Fmarketplace%2Fdetails%2Fclick-to-deploy-images%2Fdeeplearning&authuser=2), with a second GPU added. This resulted in following settings:
 
-| OS     | AMD 4.9.0-8                     |
+| Name   | Setting                         |
 |--------|---------------------------------|
+| OS     | AMD 4.9.0-8                     |
 | CPU    | 2 vCPUs                         |
 | Memory | 13 GB                           |
 | GPU    | 2 x NVIDIA Tesla K80            |
