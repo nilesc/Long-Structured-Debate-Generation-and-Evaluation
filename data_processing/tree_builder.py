@@ -9,7 +9,6 @@ output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file
 class DiscussionTree:
 
     def __init__(self, text, children):
-
         full_value, self.text = text.split(' ', 1)
         all_values = [value.strip('.') for value in full_value.split('.')]
         cleaned = [value for value in all_values if value != '']
@@ -19,6 +18,9 @@ class DiscussionTree:
         self.is_pro = not self.text.startswith('Con: ')
         if self.text.startswith('Con: ') or self.text.startswith('Pro: '):
             self.text = self.text[len('Pro: '):]
+
+        if not self.text.endswith('.'):
+            self.text += '.'
 
         self.children = {}
 
@@ -49,7 +51,89 @@ class DiscussionTree:
         if augmentor:
             base_args = augmentor(base_args)
 
-        return base_args
+        return base_args 
+    
+    def build_args(self, responses='All'):
+        # Build all the paths in the tree that lead to leaves
+        paths = self.build_all_paths()
+        parsed_args = []
+        for path in paths:
+            # Get all the valid argument pairings for this path
+            path_parsed_args = self.get_path_parsed_args(path, responses)
+            parsed_args.extend(path_parsed_args)
+        return remove_duplicates(parsed_args)
+
+    def build_all_paths(self):
+        '''
+        Function that builds all the paths in the tree that lead to leaves
+        '''
+        paths = []
+        for child in self.children.values():
+            paths.extend(child.build_all_paths())
+  
+        complex_arg = (self.text, self.is_pro)
+       
+        # Add all the paths from root to leaf for this tree
+        paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1, max_depth=100))
+        return paths
+    
+    def build_paths(self, path, path_cons, path_depth, max_depth):
+        '''
+        Function that builds all the paths in the tree from root to leaf
+        '''
+        paths = []
+        if not self.children.values() and path_depth > 1:
+            return [path]
+        for child in self.children.values():
+            complex_arg = (child.text, child.is_pro)
+            built_path = path + [complex_arg]
+            built_path_cons = path_cons
+            built_path_depth = path_depth + 1
+            if not child.is_pro:
+                built_path_cons += 1
+             # Optimization: ignore paths that have 3 or more cons
+            if built_path_cons < 3 and built_path_depth <= max_depth:
+                paths.extend(child.build_paths(built_path, built_path_cons,
+                    built_path_depth, max_depth))
+            elif built_path_depth > 1:
+                paths.append(built_path)
+        return paths
+    
+    def get_path_parsed_args(self, path, responses):
+        parsed_args = []
+        prompt = []
+        # For all valid prompts ranging from the start to one before end of the list
+        for i in range(len(path)-1):
+            is_first = i == 0
+            arg, is_pro = path[i]
+            if is_first or is_pro:
+                prompt = prompt + [arg]
+                response = []
+                 # For all valid responses that start at the end of the prompt
+                for j in range(i+1, len(path)):
+                    is_first_response = j == i+1
+                    arg, is_pro_response = path[j]
+                    canAppend = False
+
+                    if responses == 'All':
+                        canAppend = is_first_response or is_pro_response
+                    elif responses == 'Pro':
+                        canAppend = is_pro_response
+                    elif responses == 'Con':
+                        no_response = not response
+                        is_first_and_con = is_first_response and (not is_pro_response)
+                        is_next_and_pro = (not is_first_response) and is_pro_response
+                        canAppend = is_first_and_con or (is_next_and_pro and not no_response)
+
+                    if canAppend:
+                        response = response + [arg]
+                        parsed_args.append((' '.join(prompt), ' '.join(response)))
+                    else:
+                        break
+
+            else:
+                break
+        return parsed_args
 
     def build_complex_args(self, pro_responses=None):
         """
@@ -159,7 +243,7 @@ class DiscussionTree:
 
         if self.text.startswith('->'):
             if 'discussion' in self.text:
-                self.text = self.text.split(': ')[1]
+                self.text = ': '.join(self.text.split(': ')[1:])
             else:
                 number = self.text.split(' ')[-1]
 
@@ -319,9 +403,9 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
 
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
-        discussion.clean_named_entities()
-        #args = discussion.build_args()
-        args = discussion.build_complex_args()
+        #discussion.clean_named_entities()
+        args = discussion.build_args(responses = 'Pro')
+        #args = discussion.build_complex_args(pro_responses = False)
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
