@@ -1,7 +1,12 @@
+#!/bin/bash
+
 # Get data:
-cd examples/stories
+cd fairseq/examples/stories
 curl https://s3.amazonaws.com/fairseq-py/data/writingPrompts.tar.gz | tar xvzf -
 
+# Preprocess data:
+cd ../..
+mkdir data-bin
 TEXT=examples/stories/writingPrompts
 python preprocess.py --source-lang wp_source --target-lang wp_target \
     --trainpref $TEXT/train --validpref $TEXT/valid --testpref $TEXT/test \
