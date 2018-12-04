@@ -208,10 +208,8 @@ Now, perform the full preprocessing of the data.
         --destdir data-bin/kialo --padding-factor 1 --thresholdtgt 10 \
         --thresholdsrc 10 --workers 8
 
-To train a non-fusion model, use the following code:
+To train a non-fusion model, use the following line:
 
-    $ mkdir data-bin
-    $ mkdir data-bin/kialo
     $ python train.py data-bin/kialo -a fconv_self_att_wp --lr 0.25 \
         --clip-norm 0.1 --max-tokens 1500 --lr-scheduler reduce_lr_on_plateau \
         --decoder-attention True --encoder-attention False --criterion \
