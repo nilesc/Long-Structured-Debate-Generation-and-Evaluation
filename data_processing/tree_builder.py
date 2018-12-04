@@ -274,10 +274,7 @@ def slice_augmentation(args):
         for i in range(len(arg) - 1):
             first_part = arg[:i+1]
             second_part = arg[i+1:]
-            combined = first_part[0]
-            for sentence in first_part[0:]:
-                combined += (' ' + sentence)
-            combined = combined[1:]
+            combined = ' '.join(first_part)
             augmented.append([combined] + second_part)
     return augmented
 
@@ -323,7 +320,7 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
 
         for arg in args:
             prompt = arg[0]
-            response = ' '.join(arg[0:])
+            response = ' '.join(arg[1:])
             source_file.write(prompt + '\n')
             target_file.write(response + '\n')
 
