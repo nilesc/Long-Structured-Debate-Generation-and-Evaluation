@@ -23,70 +23,82 @@ Now, clone our repository with git:
 
 ### Setup Instance
 
+The instance we used was a Google Cloud Compute "Deep Learning VM" deployed from this [link](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/deeplearning?angularJsUrl=%2Fmarketplace%2Fdetails%2Fclick-to-deploy-images%2Fdeeplearning&authuser=2), with a second GPU added. This resulted in following settings:
 
-We used a Google Cloud Compute instance with the following settings:
+| OS     | AMD 4.9.0-8                     |
+|--------|---------------------------------|
+| CPU    | 2 vCPUs                         |
+| Memory | 13 GB                           |
+| GPU    | 2 x NVIDIA Tesla K80            |
+| HD     | 100 GB Standard Persistent Disk |
 
-* OS - Ubuntu 16.04
-* CPU - 8 vCPUs
-* Memory - 52 GB 
-* GPU & 1 NVIDIA Tesla K80
-* HD - 100GB Standard persistent disk
-
-The following code can be executed with the following script:
+The code for this section can be executed with the following script:
 
     $ bash setup-instance.sh
 
 If you would just like to get our code up and running as quickly as possible, just run the above script and skip to scraping instructions below.
+
 If you would instead like a step-by-step walkthrough of what the code is doing, follow along below.
 
-First things first, setup conda:
-
-    $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-    $ bash Miniconda3-latest-Linux-x86_64.sh
-
-Next, get bunzip2:
+First, get bunzip2:
 
     $ sudo apt-get install bzip2
 
-Now, run the shell script to set up your GPU (assuming you are running Ubuntu 16.04 LTS). GPU setup scripts for other operating systems can be found [here](https://cloud.google.com/compute/docs/gpus/add-gpus):
-
-    $ bash setup-cuda.sh
-
-Now add CUDA to your environment.
-
-    $ export PATH=/usr/local/cuda-9.0/bin${PATH:+:${PATH}}
-    $ export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64\
-    ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
-
-(Don't forget to add these lines to your .bashrc file!)
-
-Finally, install optional utilities.
+Next, install optional utilities to assist with model training runs.
 
     $ sudo apt-get install tmux
     $ sudo apt-get install htop
 
+Finally, get conda to manage your environment:
+
+    $ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    $ bash Miniconda3-latest-Linux-x86_64.sh
+
+Follow the install instructions and restart your VM.
+
 ## Scraping Instructions
 
 ### Install Requirements
-In order to gather data, selenium must be installed. Selenium can be installed through the following command. Note that this requires conda to be installed. If you have set up your instance according to the instructions above, this should be taken care of already.
 
+The code for this subsection can be run with:
+
+    $ bash setup-environment.sh
+
+First things first, setup a conda environment:
+
+    $ echo ". /home/edb2129/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
+    $ . /home/edb2129/miniconda3/etc/profile.d/conda.sh
+    $ conda create -n py36 python=3.6
+    $ conda activate py36
+
+In order to gather data, selenium must be installed. Selenium can be installed through the following command. Note that this requires conda to be installed. If you have set up your instance according to the instructions above, this should be taken care of already.
 
 Additional requirements:
 
   * BeautifulSoup4
+
+        conda install -c anaconda beautifulsoup4 
+
   * Selenium
 
         conda install -c conda-forge selenium
 
   * Progressbar
+
+        conda install -c anaconda progressbar2 
+
   * spacy (with english language model)
 
-        pip install -U spacy
+        conda install -c conda-forge spacy 
         python -m spacy download en
+
   * langdetect
 
+        conda install -c conda-forge langdetect 
 
 ### Run Crawler
+
+(If you'd rather just download our dataset without crawling it, it can be found [here]())
 
 First, crawl Kialo, downloading all debates through their export feature. This will take up to an hour. This will download all available debates onto your system to use as a training corpus.
 
@@ -116,12 +128,7 @@ The code for this subsection can be run with:
 
     $ bash setup-environment.sh
 
-First, create and activate a conda environment running python 3.6.
-
-    $ conda create -n py36 python=3.6
-    $ source activate py36
-
-Next, get the fairseq repository and open it.
+First, get the fairseq repository and open it.
 
     $ git clone https://github.com/pytorch/fairseq.git
     $ cd fairseq
@@ -129,8 +136,8 @@ Next, get the fairseq repository and open it.
 Finally, install all the requirements.
 
     $ conda install pytorch torchvision -c pytorch
-    $ pip install Cython
-    $ pip install -r requirements.txt
+    $ conda install -c anaconda cython
+    $ while read requirement; do conda install --yes $requirement; done < requirements.txt
     $ python setup.py build develop
 
 ### 2. Train a fairseq model on the writingPrompts dataset
@@ -200,15 +207,29 @@ Now, perform the full preprocessing of the data.
         --destdir data-bin/kialo --padding-factor 1 --thresholdtgt 10 \
         --thresholdsrc 10 --workers 8
 
-To train a non-fusion model, use the following line:
+To train a non-fusion model, use the following code:
 
-    $ python train.py data-bin/writingPrompts -a fconv_self_att_wp --lr 0.25 \
+    $ mkdir data-bin
+    $ mkdir data-bin/kialo
+    $ python train.py data-bin/kialo -a fconv_self_att_wp --lr 0.25 \
         --clip-norm 0.1 --max-tokens 1500 --lr-scheduler reduce_lr_on_plateau \
         --decoder-attention True --encoder-attention False --criterion \
         label_smoothed_cross_entropy --weight-decay .0000001 --label-smoothing 0 \
         --source-lang kialo_source --target-lang kialo_target --gated-attention True \
         --self-attention True --project-input True --pretrained False \
-        # --distributed-world-size 8  # Add this line to run in with multiple processes
+        # --distributed-world-size 8  # Add this line to run with multiple processes
+
+To train a fusion model, empty your `checkpoints` file and make sure to save a checkpoint separately:
+
+    $ mkdir data-bin/models
+    $ mv checkpoints/checkpoint_best.pt data-bin/models
+    $ rm checkpoints/*
+
+Then run the `train.py` command above with:
+
+        --pretrained True --pretrained-checkpoint data-bin/models/checkpoint_best.pt
+
+Instead of `--pretrained False`.
 
 Finally, perform the generation task:
 
