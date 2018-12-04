@@ -83,13 +83,10 @@ class DiscussionTree:
                     first_part = sentences[:split_point]
                     second_part = sentences[split_point:]
 
-                    first_part_condensed = ''
-                    for sentence in first_part:
-                        first_part_condensed += sentence
+                    first_part_condensed = ' '.join(first_part)
 
                     for crop_point in range(len(second_part)):
                         parsed_args.append([first_part_condensed] + list(second_part)[:crop_point+1])
-                    parsed_args.append([first_part_condensed] + list(second_part))
 
         return remove_duplicates(parsed_args)
 
@@ -277,8 +274,8 @@ def slice_augmentation(args):
         for i in range(len(arg) - 1):
             first_part = arg[:i+1]
             second_part = arg[i+1:]
-            combined = ""
-            for sentence in first_part:
+            combined = first_part[0]
+            for sentence in first_part[0:]:
                 combined += (' ' + sentence)
             combined = combined[1:]
             augmented.append([combined] + second_part)
@@ -319,14 +316,14 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
 
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
-        discussion.clean_named_entities()
-        #args = discussion.build_args()
+        # discussion.clean_named_entities()
+        # args = discussion.build_args()
         args = discussion.build_complex_args()
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
             prompt = arg[0]
-            response = arg[1]
+            response = ' '.join(arg[0:])
             source_file.write(prompt + '\n')
             target_file.write(response + '\n')
 
