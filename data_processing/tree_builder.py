@@ -6,10 +6,12 @@ import ner
 discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/filtered_discussions')
 output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/input_files')
 
+class InvalidResponseType(Exception):
+    pass
+
 class DiscussionTree:
 
     def __init__(self, text, children):
-
         full_value, self.text = text.split(' ', 1)
         all_values = [value.strip('.') for value in full_value.split('.')]
         cleaned = [value for value in all_values if value != '']
@@ -19,6 +21,9 @@ class DiscussionTree:
         self.is_pro = not self.text.startswith('Con: ')
         if self.text.startswith('Con: ') or self.text.startswith('Pro: '):
             self.text = self.text[len('Pro: '):]
+
+        if not self.text.endswith('.'):
+            self.text += '.'
 
         self.children = {}
 
@@ -50,6 +55,69 @@ class DiscussionTree:
             base_args = augmentor(base_args)
 
         return base_args
+
+    def build_args(self, response_type='All'):
+        '''
+        Function that builds all args of the type specified by response_type
+        @response_type ('All', 'Pro', or 'Con'):
+            All: Return all valid prompt / response pairings in the debate tree
+            Pro: Return all valid prompts paired with supporting responses
+            Con: Return all valid propts paired with contradicting responses
+        '''
+        # Build all the paths in the tree that lead to leaves
+        paths = self.build_all_paths()
+        parsed_args = []
+        for path in paths:
+            # Get all the valid argument pairings for this path
+            path_parsed_args = build_path_parsed_args(path, response_type)
+            parsed_args.extend(path_parsed_args)
+
+        return remove_duplicates(parsed_args)
+
+    def build_all_paths(self):
+        '''
+        Function that builds all the paths in the tree that lead to leaves
+        '''
+        paths = []
+        for child in self.children.values():
+            paths.extend(child.build_all_paths())
+
+        complex_arg = (self.text, self.is_pro)
+
+        # Add all the paths from root to leaf for this tree
+        paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1))
+        return paths
+
+    def build_paths(self, path, path_cons, path_depth):
+        '''
+        Function that builds all the paths in the tree from root to leaf
+        @path: The path recursively built so far
+        @path_cons: The number of cons encountered in the path
+        @path_depth: The length of the path
+        '''
+        paths = []
+
+        # Base condition: If at a leaf with a longer than 1 path depth, return built path
+        if not self.children.values() and path_depth > 1:
+            return [path]
+
+        # Add all children to the built path
+        for child in self.children.values():
+            complex_arg = (child.text, child.is_pro)
+            built_path = path + [complex_arg]
+            built_path_cons = path_cons
+            built_path_depth = path_depth + 1
+            if not child.is_pro:
+                built_path_cons += 1
+             # Optimization: ignore paths that have 3 or more cons
+            if built_path_cons < 3:
+                paths.extend(child.build_paths(built_path, built_path_cons,
+                    built_path_depth))
+            # Only paths that are longer than one will have prompt, response pairings
+            elif built_path_depth > 1:
+                paths.append(built_path)
+
+        return paths
 
     def build_complex_args(self, pro_responses=None):
         """
@@ -83,13 +151,10 @@ class DiscussionTree:
                     first_part = sentences[:split_point]
                     second_part = sentences[split_point:]
 
-                    first_part_condensed = ''
-                    for sentence in first_part:
-                        first_part_condensed += sentence
+                    first_part_condensed = ' '.join(first_part)
 
                     for crop_point in range(len(second_part)):
                         parsed_args.append([first_part_condensed] + list(second_part)[:crop_point+1])
-                    parsed_args.append([first_part_condensed] + list(second_part))
 
         return remove_duplicates(parsed_args)
 
@@ -159,7 +224,7 @@ class DiscussionTree:
 
         if self.text.startswith('->'):
             if 'discussion' in self.text:
-                self.text = self.text.split(': ')[1]
+                self.text = ': '.join(self.text.split(': ')[1:])
             else:
                 number = self.text.split(' ')[-1]
 
@@ -182,6 +247,73 @@ class DiscussionTree:
 
         for child in self.get_children():
             child.clean_named_entities(root=False)
+
+
+def build_path_parsed_args(path, response_type):
+    '''
+    Helper function that generates all the valid prompt response pairings in a given path.
+    @path: Path in debate tree
+    @response_type: 'All,' 'Pro,' or 'Con': what dataset to generate
+    '''
+    parsed_args = []
+    prompt = []
+    # For all valid prompts ranging from the start to one before end of the list
+    for i in range(len(path)-1):
+        is_first = i == 0
+        arg, is_pro = path[i]
+        if is_first or is_pro:
+            # Valid prompt encountered, add all valid responses
+            prompt = prompt + [arg]
+            responses = build_path_responses(path, i, response_type)
+            pairings = [(' '.join(prompt), ' '.join(response)) for response in responses]
+            parsed_args.extend(pairings)
+        else:
+            # Stop generating new prompts once invalid prompt encountered
+            break
+
+    return parsed_args
+
+def build_path_responses(path, position, response_type):
+    '''
+    Helper function that generates all valid responses starting at a position in a path.
+    @path: Path in debate tree
+    @position: Position in the path
+    @response_type ('All,' 'Pro,' or 'Con'): What dataset to generate
+    '''
+    responses = []
+    response = []
+
+     # For all potentially valid responses that start at the end of the prompt
+    for j in range(position+1, len(path)):
+        is_first_response = j == position + 1
+        argument, is_pro_response = path[j]
+
+        if can_append(is_first_response, is_pro_response, response_type):
+            response = response + [argument]
+            responses.append(response)
+        else:
+            # Stop appending responses once invalid response encountered
+            break
+
+    return responses
+
+def can_append(is_first_response, is_pro_response, response_type):
+    '''
+    Helper function to evaluate whether a reponse can be appended
+    @is_first_response: Whether it's the first response
+    @is_pro_response: Whether it is a supporting response
+    @response_type ('All,' 'Pro,' or 'Con'): What dataset to generate
+    '''
+    if response_type == 'All':
+        return is_first_response or is_pro_response
+    elif response_type == 'Pro':
+        return is_pro_response
+    elif response_type == 'Con':
+        is_first_and_con = is_first_response and (not is_pro_response)
+        is_next_and_pro = (not is_first_response) and is_pro_response
+        return is_first_and_con or is_next_and_pro
+    else:
+        raise InvalidResponseType(f"{response_type} is not a valid response type.")
 
 # Lines comes in as a list of lines in the discussion
 def build_discussion_dict(lines):
@@ -277,10 +409,7 @@ def slice_augmentation(args):
         for i in range(len(arg) - 1):
             first_part = arg[:i+1]
             second_part = arg[i+1:]
-            combined = ""
-            for sentence in first_part:
-                combined += (' ' + sentence)
-            combined = combined[1:]
+            combined = ' '.join(first_part)
             augmented.append([combined] + second_part)
     return augmented
 
@@ -320,13 +449,13 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
         discussion.clean_named_entities()
-        #args = discussion.build_args()
-        args = discussion.build_complex_args()
+        args = discussion.build_args(response_type = 'All')
+        #args = discussion.build_complex_args(pro_responses = None)
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
             prompt = arg[0]
-            response = arg[1]
+            response = ' '.join(arg[1:])
             source_file.write(prompt + '\n')
             target_file.write(response + '\n')
 
