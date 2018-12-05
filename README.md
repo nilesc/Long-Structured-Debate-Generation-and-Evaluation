@@ -6,7 +6,7 @@ We collected a data set from Kialo, an online debateplatform, and trained the mo
 
 Chosen results:
 
-Prompt: | Generated Response
+Prompt: | Generated Response:
 ---|---
 Buddhism has dogma . | Buddhism is the only scientific method of making the choice , but it is impossible to say in the best interest in society for many in other religions .
 TV unites people . | TV creates a dangerous and bad lifestyle . Seeing the quality of life to some extent , you can help to make the life easier .
