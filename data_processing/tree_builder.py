@@ -51,8 +51,8 @@ class DiscussionTree:
         if augmentor:
             base_args = augmentor(base_args)
 
-        return base_args 
-    
+        return base_args
+
     def build_args(self, responses='All'):
         # Build all the paths in the tree that lead to leaves
         paths = self.build_all_paths()
@@ -70,13 +70,13 @@ class DiscussionTree:
         paths = []
         for child in self.children.values():
             paths.extend(child.build_all_paths())
-  
+
         complex_arg = (self.text, self.is_pro)
-       
+
         # Add all the paths from root to leaf for this tree
         paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1, max_depth=100))
         return paths
-    
+
     def build_paths(self, path, path_cons, path_depth, max_depth):
         '''
         Function that builds all the paths in the tree from root to leaf
@@ -98,7 +98,7 @@ class DiscussionTree:
             elif built_path_depth > 1:
                 paths.append(built_path)
         return paths
-    
+
     def get_path_parsed_args(self, path, responses):
         parsed_args = []
         prompt = []
