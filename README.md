@@ -11,7 +11,9 @@ Prompt: | Generated Response
 Buddhism has dogma . | Buddhism is the only scientific method of making the choice , but it is impossible to say in the best interest in society for many in other religions .
 TV unites people . | TV creates a dangerous and bad lifestyle . Seeing the quality of life to some extent , you can help to make the life easier .
 Welfare can reduce crime . | The social benefits of the offender should be taken into account and can not be done .
+Morality is <unk> | This is a bit of a spiritual perspective . We are not talking about things that can not be used for a good reason . There 's a reason for a person to be <unk> , and we do n't know whether we are <unk> and <unk> .
 
+Note: <unk> represents words that do not appear frequently enough to be in our vocabulary.
 
 ## Setup Instructions
 
