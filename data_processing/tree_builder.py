@@ -54,8 +54,8 @@ class DiscussionTree:
         if augmentor:
             base_args = augmentor(base_args)
 
-        return base_args 
-    
+        return base_args
+
     def build_args(self, response_type='All'):
         '''
         Function that builds all args of the type specified by response_type
@@ -71,7 +71,7 @@ class DiscussionTree:
             # Get all the valid argument pairings for this path
             path_parsed_args = build_path_parsed_args(path, response_type)
             parsed_args.extend(path_parsed_args)
-        
+
         return remove_duplicates(parsed_args)
 
     def build_all_paths(self):
@@ -81,13 +81,13 @@ class DiscussionTree:
         paths = []
         for child in self.children.values():
             paths.extend(child.build_all_paths())
-  
+
         complex_arg = (self.text, self.is_pro)
-       
+
         # Add all the paths from root to leaf for this tree
         paths.extend(self.build_paths([complex_arg], path_cons=0, path_depth=1))
         return paths
-    
+
     def build_paths(self, path, path_cons, path_depth):
         '''
         Function that builds all the paths in the tree from root to leaf
@@ -118,7 +118,7 @@ class DiscussionTree:
                 paths.append(built_path)
 
         return paths
-    
+
     def build_complex_args(self, pro_responses=None):
         """
         Builds arguments according to the regex [Pro|Con][Pro]*[Pro|Con][Pro]*.
