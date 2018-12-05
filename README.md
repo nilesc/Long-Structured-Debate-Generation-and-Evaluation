@@ -2,6 +2,17 @@
 
 debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project. It does this by training on information gathered from the debate website Kialo.
 
+We collected a data set from Kialo, an online debateplatform, and trained the model developed by Fan et al. (2018) to generate arguments in favor or against given de-bate prompts. Kialo debates come in a structured tree format, based on core prompts such as “An artificial general intelligence (AGI) should be created.” Users submit pros and cons, which are then approved by a moderator. New users can then respond to those pros and cons as though they themselves were prompts, forming a debate tree. We explored different ways to pair create prompts and responses from our debate tree structures, creating a rich dataset from comparatively few debates, and experimented with other ways of improving the efficacy of the Fan et al. (2018) model for our task. We also explored the ease of adapting the techniques and code-base of the previous study.
+
+Chosen results:
+
+Prompt: | Generated Response
+---|---
+Buddhism has dogma . | Buddhism is the only scientific method of making the choice , but it is impossible to say in the best interest in society for many in other religions .
+TV unites people . | TV creates a dangerous and bad lifestyle . Seeing the quality of life to some extent , you can help to make the life easier .
+Welfare can reduce crime . | The social benefits of the offender should be taken into account and can not be done .
+
+
 ## Setup Instructions
 
 ### Getting our Code
