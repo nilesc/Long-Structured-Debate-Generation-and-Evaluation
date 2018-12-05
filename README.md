@@ -89,7 +89,7 @@ Additional requirements:
 
   * BeautifulSoup4
 
-        conda install -c anaconda beautifulsoup4 
+        conda install -c anaconda beautifulsoup4
 
   * Selenium
 
@@ -97,16 +97,16 @@ Additional requirements:
 
   * Progressbar
 
-        conda install -c anaconda progressbar2 
+        conda install -c anaconda progressbar2
 
   * spacy (with english language model)
 
-        conda install -c conda-forge spacy 
+        conda install -c conda-forge spacy
         python -m spacy download en
 
   * langdetect
 
-        conda install -c conda-forge langdetect 
+        conda install -c conda-forge langdetect
 
 ### Run Crawler
 
@@ -116,7 +116,7 @@ First, crawl Kialo, downloading all debates through their export feature. This w
 
     cd data_processing/
     python crawl_debates.py
-    
+
 This will place debates into your download directory. From there, put them into a new directory called `./data/discussions/`.
 
 Next, we filter problematic debates. These are debates that are either formatted in a way that makes them hard to parse, or in a language other than English.
