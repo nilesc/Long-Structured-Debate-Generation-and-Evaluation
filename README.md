@@ -2,6 +2,19 @@
 
 debatesim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project. It does this by training on information gathered from the debate website Kialo.
 
+We collected a data set from Kialo, an online debateplatform, and trained the model developed by Fan et al. (2018) to generate arguments in favor or against given de-bate prompts. Kialo debates come in a structured tree format, based on core prompts such as “An artificial general intelligence (AGI) should be created.” Users submit pros and cons, which are then approved by a moderator. New users can then respond to those pros and cons as though they themselves were prompts, forming a debate tree. We explored different ways to pair create prompts and responses from our debate tree structures, creating a rich dataset from comparatively few debates, and experimented with other ways of improving the efficacy of the Fan et al. (2018) model for our task. We also explored the ease of adapting the techniques and code-base of the previous study.
+
+Chosen results:
+
+Prompt: | Generated Response:
+---|---
+Buddhism has dogma . | Buddhism is the only scientific method of making the choice , but it is impossible to say in the best interest in society for many in other religions .
+TV unites people . | TV creates a dangerous and bad lifestyle . Seeing the quality of life to some extent , you can help to make the life easier .
+Welfare can reduce crime . | The social benefits of the offender should be taken into account and can not be done .
+Morality is \<unk\> | This is a bit of a spiritual perspective . We are not talking about things that can not be used for a good reason . There 's a reason for a person to be \<unk\> , and we do n't know whether we are \<unk\> and \<unk\> .
+
+Note: \<unk\> represents words that do not appear frequently enough to be in our vocabulary.
+
 ## Setup Instructions
 
 ### Getting our Code
@@ -78,7 +91,7 @@ Additional requirements:
 
   * BeautifulSoup4
 
-        conda install -c anaconda beautifulsoup4 
+        conda install -c anaconda beautifulsoup4
 
   * Selenium
 
@@ -86,16 +99,16 @@ Additional requirements:
 
   * Progressbar
 
-        conda install -c anaconda progressbar2 
+        conda install -c anaconda progressbar2
 
   * spacy (with english language model)
 
-        conda install -c conda-forge spacy 
+        conda install -c conda-forge spacy
         python -m spacy download en
 
   * langdetect
 
-        conda install -c conda-forge langdetect 
+        conda install -c conda-forge langdetect
 
 ### Run Crawler
 
@@ -105,7 +118,7 @@ First, crawl Kialo, downloading all debates through their export feature. This w
 
     cd data_processing/
     python crawl_debates.py
-    
+
 This will place debates into your download directory. From there, put them into a new directory called `./data/discussions/`.
 
 Next, we filter problematic debates. These are debates that are either formatted in a way that makes them hard to parse, or in a language other than English.
