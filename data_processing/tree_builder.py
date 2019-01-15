@@ -2,6 +2,7 @@ import os
 import re
 import progressbar
 import ner
+from itertools import tee
 
 discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/filtered_discussions')
 output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/input_files')
@@ -119,14 +120,22 @@ class DiscussionTree:
 
         return paths
 
-    def build_complex_args(self, pro_responses=None):
+
+    def build_complex_args(self, pro_responses=None, chain_responses=True):
         """
         Builds arguments according to the regex [Pro|Con][Pro]*[Pro|Con][Pro]*.
         If pro_responses is True, then the regex will instead be [Pro|Con][Pro]*
         If pro_responses is False, then the regex will instead be [Pro|Con][Pro]*[Con][Pro]*.
         """
-        unparsed_args = self.build_complex_args_inner()
+        unparsed_args = self.build_complex_args_inner(chain_responses)
         parsed_args = []
+
+        if chain_responses:
+            all_responses = []
+            for arg in unparsed_args:
+                sentences, is_pro = zip(*arg)
+                all_responses.append(self.split_at_cons(sentences, is_pro))
+            return remove_duplicates(all_responses)
 
         for arg in unparsed_args:
             if len(arg) == 1:
@@ -158,30 +167,52 @@ class DiscussionTree:
 
         return remove_duplicates(parsed_args)
 
+
+    def split_at_cons(self, args, is_pro):
+        def pairwise_iter(iterable):
+            it = iter(iterable)
+            a, b = tee(it)
+            next(b, None)
+            return zip(a, b)
+
+        # If our first point is a pro, we still want to start an argument at it
+        is_pro = list(is_pro)
+        is_pro[0] = False
+        indices = [i for i, x in enumerate(is_pro) if not x] + [0]
+
+        split = []
+
+        for pair in pairwise_iter(indices):
+            portion = args[pair[0]:pair[1] or None]
+            split.append(''.join(portion))
+
+        return split
+
+
     # For each node in our tree, call traverse_complex and append its own text
     # and is_pro value to the resulting arguments
-    def build_complex_args_inner(self):
+    def build_complex_args_inner(self, chain_responses):
         all_args = []
 
         children = self.get_children()
 
         # for every node in tree
         for child in children:
-            child_args = child.build_complex_args_inner()
+            child_args = child.build_complex_args_inner(chain_responses)
             all_args.extend(child_args)
 
-            for complex_arg in child.traverse_complex(False):
+            for complex_arg in child.traverse_complex(False, chain_responses):
                 all_args.append([(self.text, self.is_pro)] + complex_arg)
 
         return all_args
 
-    def traverse_complex(self, seen_con):
+    def traverse_complex(self, seen_con, chain_responses):
         # If we have already seen a con argument and we see another
         seen_con = seen_con or not self.is_pro
 
         children = []
 
-        if not seen_con:
+        if not seen_con or chain_responses:
             children = self.get_children()
         else:
             children = self.get_pro_children()
@@ -191,7 +222,7 @@ class DiscussionTree:
 
         partial_args = []
         for child in children:
-            partial_args.extend(child.traverse_complex(seen_con))
+            partial_args.extend(child.traverse_complex(seen_con, chain_responses))
 
         return_list = [[(self.text, self.is_pro)] + partial_arg for partial_arg in partial_args]
 
@@ -449,8 +480,8 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
         discussion.clean_named_entities()
-        args = discussion.build_args(response_type = 'All')
-        #args = discussion.build_complex_args(pro_responses = None)
+        #args = discussion.build_args(response_type = 'All')
+        args = discussion.build_complex_args(pro_responses = None, chain_responses = True)
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
