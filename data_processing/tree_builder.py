@@ -136,7 +136,11 @@ class DiscussionTree:
             for arg in unparsed_args:
                 sentences, is_pro = zip(*arg)
                 all_responses.append(self.split_at_cons(sentences, is_pro))
-            return remove_duplicates(all_responses)
+
+            # Front augmentation is necessary to make sure we have all valid chains
+            augmented = front_augmentation(all_responses)
+
+            return remove_duplicates(augmented)
 
         for arg in unparsed_args:
             if len(arg) == 1:
