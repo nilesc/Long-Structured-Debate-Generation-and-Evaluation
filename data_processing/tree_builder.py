@@ -135,7 +135,7 @@ class DiscussionTree:
             all_responses = []
             for arg in unparsed_args:
                 sentences, is_pro = zip(*arg)
-                all_responses.append(self.split_at_cons(sentences, is_pro))
+                all_responses.append(DiscussionTree.split_at_cons(sentences, is_pro))
 
             # Front augmentation is necessary to make sure we have all valid chains
             augmented = front_augmentation(all_responses)
@@ -173,7 +173,8 @@ class DiscussionTree:
         return remove_duplicates(parsed_args)
 
 
-    def split_at_cons(self, args, is_pro):
+    @classmethod
+    def split_at_cons(cls, args, is_pro):
         def pairwise_iter(iterable):
             it = iter(iterable)
             a, b = tee(it)
