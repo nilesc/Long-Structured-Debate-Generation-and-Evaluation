@@ -6,6 +6,7 @@ from itertools import tee
 
 discussion_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/filtered_discussions')
 output_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/input_files')
+end_of_argument = '<EOA>'
 
 class InvalidResponseType(Exception):
     pass
@@ -477,16 +478,22 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
             return
         tree = build_discussion_dict(current_file.readlines())
 
+        chain_responses = True
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
         discussion.clean_named_entities()
         #args = discussion.build_args(response_type = 'All')
-        args = discussion.build_complex_args(pro_responses = None, chain_responses = True)
+        args = discussion.build_complex_args(pro_responses = None, chain_responses = chain_responses)
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
 
         for arg in args:
-            prompt = arg[0]
-            response = ' '.join(arg[1:])
+            if chain_responses:
+                prompt = end_of_argument.join(arg[:-1])
+                response = arg[-1]
+            else:
+                prompt = arg[0]
+                response = ' '.join(arg[1:])
+
             source_file.write(prompt + '\n')
             target_file.write(response + '\n')
 
