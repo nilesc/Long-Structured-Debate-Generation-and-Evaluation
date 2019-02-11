@@ -493,7 +493,7 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
 
         for arg in args:
             if chain_responses:
-                prompt = (' ' + end_of_argument + ' ').join(arg[:-1]) + end_of_argument
+                prompt = (' ' + end_of_argument + ' ').join(arg[:-1]) + ' ' + end_of_argument
                 response = arg[-1]
             else:
                 prompt = arg[0]
