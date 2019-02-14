@@ -139,6 +139,7 @@ class DiscussionTree:
 
             # Front augmentation is necessary to make sure we have all valid chains
             augmented = front_augmentation(all_responses)
+            augmented = [x for x in augmented if len(x) != 1]
 
             return remove_duplicates(augmented)
 
