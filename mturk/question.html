@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
+  <script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style>
+  body {
+    background-color: linen;
+  }
+  h3 {
+    color: maroon;
+    margin-left: 40px;
+  }
+  span {
+      color: blue;
+  }
+</style>
+</head>
+
+<body>
+
+<form class=form-horizontal name='mturk_form' method='post' id='mturk_form' action='https://www.mturk.com/mturk/externalSubmit'>
+  <input type='hidden' value='' name='assignmentId' id='assignmentId'/>
+
+  <h3>Please read the computer-generated argument carefully from both points of view. Rate the style, content, and strategy of the argument and then the overall quality.</h3>
+
+  <p><span>Style</span><p>
+
+    <ul>
+<!-- <li>Morality is objective. </li><li> There is no objective objective moral value of mor
+ality . A human construct is objective . Moral beliefs require no objective truth </li><li>
+ Objective morality is subjective . For example , humans are not moral , but rather a s
+ubjective moral code that is created or done on the basis of moral relativism </li><li> Obj
+ectivity is not the basis of moral morality </li><li> Objective morality is objective , and
+ that morality can make moral determinations </li><li> Objectivity is subjective </li><li> Mora
+l relativism is a subjective objective </li><li> Objective morality is subjective and the v
+alue of moral value is an objective objective &gt; Morals can be subjective  Obje
+ctive morality is subjective , as it is not objective </li><li> morality is subjective <unk
+Morals can not objectively determine whether or not morality is moral </li><li> Objective moral principles are subjective , as it is a natural human construct which can not be
+defined in order to be objective </li><li> Utilitarianism is objectively subjective </li><li> O
+bjective moral relativism is objective </li><li> Moral intuitions are objective </li><li> Moral
+s may be considered a moral value , but rather , a core moral system that has value to
+human life or a spectrum or a system </li><li> Objective moral relativism is not objectivel
+y moral </li><li> Objective moral truths exist within human ethics . Moral principles of mo
+ral moral or moral beliefs have a subjective moral code and thus can be justified in or
+der to make objective morality , meaning it is subjective and can not be objective <unk
+Moral relativism does not necessarily mean that morality is objective </li><li> Objective morality , but it is not the same as morality . This means that the morality of a huma
+n is not a moral framework , and hence should not be objective , as moral truths exist.</li> -->
+
+{debate_text_here}
+
+</ul>
+
+  <h3>Rate the <span>Style</span> of this argument. </h3>
+  <label class="radio-inline">
+    <input type="radio" name="style" value="style"> 1<br>
+  </label>
+  <label class="radio-inline">
+    <input type="radio" name="style" value="style"> 2<br>
+  </label>
+  <label class="radio-inline">
+  <input type="radio" name="style" value="style"> 3<br>
+  </label>
+  <label class="radio-inline">
+  <input type="radio" name="style" value="style"> 4<br>
+  </label>
+
+  <h3>Rate the <span>Content</span> of this argument. </h3>
+  <label class="radio-inline">
+  <input type="radio" name="content" value="content"> 1<br>
+  </label>
+  <label class="radio-inline">
+  <input type="radio" name="content" value="content"> 2<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="content" value="content"> 3<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="content" value="content"> 4<br></label>
+
+  <h3>Rate the <span>Strategy</span> of this argument. </h3>
+  <label class="radio-inline">
+  <input type="radio" name="strategy" value="strategy"> 1<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="strategy" value="strategy"> 2<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="strategy" value="strategy"> 3<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="strategy" value="strategy"> 4<br></label>
+
+  <h3>Rate the <span>Overall Quality</span> of this argument.</h3>
+  <label class="radio-inline">
+  <input type="radio" name="quality" value="quality"> 1<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="quality" value="quality"> 2<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="quality" value="quality"> 3<br></label>
+  <label class="radio-inline">
+  <input type="radio" name="quality" value="quality"> 4<br></label>
+
+  <br>
+
+  <input type='submit' id='submitButton' value='Submit' />
+
+</form>
+
+<script language='Javascript'>turkSetAssignmentID();</script>
+
+</body>
+</html>
