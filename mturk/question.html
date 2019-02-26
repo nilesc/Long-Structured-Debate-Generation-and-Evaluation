@@ -16,87 +16,95 @@
   span {
       color: blue;
   }
+
+  bold {
+    font-weight: bold;
+  }
+
+  p {
+    text-indent: 10px;
+  }
+
+  .border {
+    border-style: border;
+  }
+
 </style>
 </head>
+
+<alex was here>
 
 <body>
 
 <form class=form-horizontal name='mturk_form' method='post' id='mturk_form' action='https://www.mturk.com/mturk/externalSubmit'>
   <input type='hidden' value='' name='assignmentId' id='assignmentId'/>
 
-  <h3>Please read the computer-generated argument carefully from both points of view. Rate the style, content, and strategy of the argument and then the overall quality.</h3>
+  <h3>Instructions</h3>
+  <ul>
+    <li> Please read the following computer-generated debate carefully. </li>
+    <li> There are 2 debaters - '<bold>A</bold>' and '<bold>B</bold>' who are trying to argue against the other one.</li>
+    <li> You are evaluating the strategy used by both debaters (it is the same). </li>
+    <li> Please rate the style, content, and strategy of the debate and then the overall quality of the debate.</li>
+    <li> Some words have been removed. We have replaced them with underlines that look like this: ______ </li>
+  </ul>
 
-  <p><span>Style</span><p>
+<p>
+    <span>Style</span> - This includes the vocabulary and clarity of the argument. <br>
+    <span>Content</span> - Focus on the argumentation. Note weak arguments. Try not to be influenced by your personal beliefs. <br>
+    <span>Strategy</span> - Determine if the debater is responding to the previous points raised by the opponent and how often they bring up critical issues. <br>
+    <span>Quality</span> - Rate the overall quality of the debate. Was it compelling?  <br> <br>
+</p>
 
-    <ul>
-<!-- <li>Morality is objective. </li><li> There is no objective objective moral value of mor
-ality . A human construct is objective . Moral beliefs require no objective truth </li><li>
- Objective morality is subjective . For example , humans are not moral , but rather a s
-ubjective moral code that is created or done on the basis of moral relativism </li><li> Obj
-ectivity is not the basis of moral morality </li><li> Objective morality is objective , and
- that morality can make moral determinations </li><li> Objectivity is subjective </li><li> Mora
-l relativism is a subjective objective </li><li> Objective morality is subjective and the v
-alue of moral value is an objective objective &gt; Morals can be subjective  Obje
-ctive morality is subjective , as it is not objective </li><li> morality is subjective <unk
-Morals can not objectively determine whether or not morality is moral </li><li> Objective moral principles are subjective , as it is a natural human construct which can not be
-defined in order to be objective </li><li> Utilitarianism is objectively subjective </li><li> O
-bjective moral relativism is objective </li><li> Moral intuitions are objective </li><li> Moral
-s may be considered a moral value , but rather , a core moral system that has value to
-human life or a spectrum or a system </li><li> Objective moral relativism is not objectivel
-y moral </li><li> Objective moral truths exist within human ethics . Moral principles of mo
-ral moral or moral beliefs have a subjective moral code and thus can be justified in or
-der to make objective morality , meaning it is subjective and can not be objective <unk
-Moral relativism does not necessarily mean that morality is objective </li><li> Objective morality , but it is not the same as morality . This means that the morality of a huma
-n is not a moral framework , and hence should not be objective , as moral truths exist.</li> -->
+    <h3>Full Debate</h3>
 
-{debate_text_here}
-
-</ul>
+    <p>
+      <DEBATE_TEXT>
+    </p>
 
   <h3>Rate the <span>Style</span> of this argument. </h3>
   <label class="radio-inline">
-    <input type="radio" name="style" value="style"> 1<br>
+    <input type="radio" name="style" value="1"> 1<br>
   </label>
   <label class="radio-inline">
-    <input type="radio" name="style" value="style"> 2<br>
+    <input type="radio" name="style" value="2"> 2<br>
   </label>
   <label class="radio-inline">
-  <input type="radio" name="style" value="style"> 3<br>
+  <input type="radio" name="style" value="3"> 3<br>
   </label>
   <label class="radio-inline">
-  <input type="radio" name="style" value="style"> 4<br>
+  <input type="radio" name="style" value="4"> 4<br>
   </label>
 
   <h3>Rate the <span>Content</span> of this argument. </h3>
   <label class="radio-inline">
-  <input type="radio" name="content" value="content"> 1<br>
+  <input type="radio" name="content" value="1"> 1<br>
   </label>
   <label class="radio-inline">
-  <input type="radio" name="content" value="content"> 2<br></label>
+  <input type="radio" name="content" value="2"> 2<br></label>
   <label class="radio-inline">
-  <input type="radio" name="content" value="content"> 3<br></label>
+  <input type="radio" name="content" value="3"> 3<br></label>
   <label class="radio-inline">
-  <input type="radio" name="content" value="content"> 4<br></label>
+  <input type="radio" name="content" value="4"> 4<br></label>
 
   <h3>Rate the <span>Strategy</span> of this argument. </h3>
   <label class="radio-inline">
-  <input type="radio" name="strategy" value="strategy"> 1<br></label>
+  <input type="radio" name="strategy" value="1"> 1<br></label>
   <label class="radio-inline">
-  <input type="radio" name="strategy" value="strategy"> 2<br></label>
+  <input type="radio" name="strategy" value="2"> 2<br></label>
   <label class="radio-inline">
-  <input type="radio" name="strategy" value="strategy"> 3<br></label>
+  <input type="radio" name="strategy" value="3"> 3<br></label>
   <label class="radio-inline">
-  <input type="radio" name="strategy" value="strategy"> 4<br></label>
+  <input type="radio" name="strategy" value="4"> 4<br></label>
 
   <h3>Rate the <span>Overall Quality</span> of this argument.</h3>
   <label class="radio-inline">
-  <input type="radio" name="quality" value="quality"> 1<br></label>
+  <input type="radio" name="quality" value="1"> 1<br></label>
   <label class="radio-inline">
-  <input type="radio" name="quality" value="quality"> 2<br></label>
+  <input type="radio" name="quality" value="2"> 2<br></label>
   <label class="radio-inline">
-  <input type="radio" name="quality" value="quality"> 3<br></label>
+  <input type="radio" name="quality" value="3"> 3<br></label>
   <label class="radio-inline">
-  <input type="radio" name="quality" value="quality"> 4<br></label>
+  <input type="radio" name="quality" value="4"> 4<br></label>
 
   <br>
 
