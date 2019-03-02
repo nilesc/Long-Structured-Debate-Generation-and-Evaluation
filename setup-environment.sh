@@ -2,8 +2,8 @@
 cd ..
 
 # Set up and load environment
-echo ". /home/edb2129/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
-. /home/edb2129/miniconda3/etc/profile.d/conda.sh
+echo ". ~/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
+. ~/miniconda3/etc/profile.d/conda.sh
 yes | conda create -n py36 python=3.6
 conda activate py36
 

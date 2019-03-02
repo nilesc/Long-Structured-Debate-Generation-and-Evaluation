@@ -487,7 +487,7 @@ def write_discussions_to_files(discussion_dir, filename, source_file, target_fil
         chain_responses = True
         discussion = tree_to_discussion(tree)
         discussion.fix_references()
-        discussion.clean_named_entities()
+        #discussion.clean_named_entities()
         #args = discussion.build_args(response_type = 'All')
         args = discussion.build_complex_args(pro_responses = None, chain_responses = chain_responses)
         #args = discussion.get_arguments(pro=True, augmentor=back_augmentation)
@@ -521,9 +521,9 @@ def write_source_target(discussion_dir, filenames, name, start, end):
 if __name__ == '__main__':
     filenames = os.listdir(discussion_dir)
     test_start = 0
-    test_end = int(len(filenames) * .1)
+    test_end = int(len(filenames) * .05)
     valid_start = test_end
-    valid_end = valid_start + int(len(filenames) * .05)
+    valid_end = valid_start + int(len(filenames) * .1)
     train_start = valid_end
     train_end = len(filenames)
 
