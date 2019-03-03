@@ -28,6 +28,8 @@ from fairseq.sequence_generator import SequenceGenerator
 from fairseq.sequence_scorer import SequenceScorer
 from fairseq.utils import import_user_module
 
+MAX_TURNS = 10
+
 def main(args):
     assert args.path is not None, '--path required for generation!'
     assert not args.sampling or args.nbest == args.beam, \
@@ -153,9 +155,27 @@ def main(args):
     # Load dataset splits
     task = tasks.setup_task(args)
 
+    # Multiturn tracking: prompt in test set, turn in debate
+    turn = 0
+    prompt = 1
     first_pass = True
     while first_pass or args.multiturn:
         if args.multiturn:
+            # Set up first turn
+            if turn == 0:
+                multiturn_file = "{}{}".format(
+                    args.multiturnpref, ("." + args.source_lang)
+                )
+                test_file = "{}{}".format(
+                    args.testpref, ("." + args.source_lang)
+                )
+                with open(test_file, 'r', encoding='utf-8') as f:
+                    for i in range(prompt):
+                        line = f.readline()
+                with open (multiturn_file, 'w', encoding='utf-8') as f:
+                    f.write(line) 
+                prompt += 1
+
             target = not args.only_source
             assert (
                 args.multiturnpref
@@ -334,11 +354,19 @@ def main(args):
                         multiturn_file = "{}{}".format(
                             args.multiturnpref, ("." + args.source_lang)
                         )
+                        output_file = "{}{}".format(
+                            args.outputpref, ("." + args.target_lang)
+                        )
                         with open(multiturn_file, 'r', encoding='utf-8') as f:
                             line = f.readline()
-                        with open(multiturn_file, 'w', encoding='utf-8') as f:
-                            f.write(f'{line[:-1]} <EOA> {hypo_str}')
-
+                        if turn < MAX_TURNS - 1:
+                            with open(multiturn_file, 'w', encoding='utf-8') as f:
+                                f.write(f'{line[:-1]} <EOA> {hypo_str}')
+                            turn += 1 
+                        elif turn == MAX_TURNS - 1:
+                            with open(output_file, 'a', encoding='utf-8') as f:
+                                f.write(f'{line[:-1]} <EOA> {hypo_str}\n')
+                            turn = 0
 
                     # Score only the top hypothesis
                     if has_target and i == 0:

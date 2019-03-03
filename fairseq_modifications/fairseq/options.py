@@ -425,6 +425,8 @@ def add_generation_args(parser):
                        help='if set, generates multi-turn debate')
     group.add_argument("--multiturnpref", metavar="FP", default=None,
                        help="mutltiturn file prefix")
+    group.add_argument("--outputpref", metavar="FP", default=None,
+                       help="mutltiturn output file prefix")
     group.add_argument("--trainpref", metavar="FP", default=None,
                        help="train file prefix")
     group.add_argument("--validpref", metavar="FP", default=None,
