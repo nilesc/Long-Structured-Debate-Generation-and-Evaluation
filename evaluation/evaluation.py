@@ -1,8 +1,8 @@
-import ssdeep
 from collections import defaultdict
 import progressbar
 import numpy
 import os
+
 
 def load_dict(path):
     file = open(path, 'r')
@@ -49,36 +49,15 @@ def fuzzy_hash_compare(source, generated):
     return ssdeep.compare(hash1, hash2)
 
 
-# if __name__ == '__main__':
-#     gen = load_generated('../data/generated/ner_pro_no_fusion.txt')
-#
-#     # for key, [a, b, c] in gen.items():
-#     #     print(id)
-#     #     print('s',a)
-#     #     print('t', b)
-#     #     print(c + '\n')
-#
-#     fuzzy = {}
-#     p = progressbar.ProgressBar(term_width=80)
-#
-#     for id_1, [s_1, t_1, g_1] in p(gen.items()):
-#         for id_2, [s_2, t_2, g_2] in gen.items():
-#             if id_1 != id_2:
-#                 fuzzy[(id_1, id_2)] = fuzzy_hash_compare(t_1, g_2)
-#
-#     for k, v in fuzzy.items():
-#         if v != 0:
-#             print(k)
-
-
 def perplexity(text, unigram_prob):
     tokens = text.split(' ')
+    eps = 0.001
 
     if len(tokens) < 2:
         return 0
 
     probs = [unigram_prob[word] for word in tokens]
-    probs = [prob for prob in probs if prob > 0.001]
+    probs = [prob for prob in probs if prob > eps]
     perp = numpy.prod([(1 / prob) for prob in probs])
 
     N = len(probs)
