@@ -169,9 +169,12 @@ def main(args):
                 test_file = "{}{}".format(
                     args.testpref, ("." + args.source_lang)
                 )
-                with open(test_file, 'r', encoding='utf-8') as f:
-                    for i in range(prompt):
-                        line = f.readline()
+                if args.interactive:
+                    line = input('What subject would you like to debate?')
+                else:
+                    with open(test_file, 'r', encoding='utf-8') as f:
+                        for i in range(prompt):
+                            line = f.readline()
                 with open (multiturn_file, 'w', encoding='utf-8') as f:
                     f.write(line) 
                 prompt += 1
@@ -359,6 +362,9 @@ def main(args):
                         )
                         with open(multiturn_file, 'r', encoding='utf-8') as f:
                             line = f.readline()
+                            if args.interactive:
+                                interactive_response = input('Please respond:')
+                                line += f' <EOA> {interactive_response}'
                         if turn < MAX_TURNS - 1:
                             with open(multiturn_file, 'w', encoding='utf-8') as f:
                                 f.write(f'{line[:-1]} <EOA> {hypo_str}')

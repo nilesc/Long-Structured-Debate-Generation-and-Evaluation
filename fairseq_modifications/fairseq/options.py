@@ -421,6 +421,8 @@ def add_generation_args(parser):
                        help='if set, uses attention feedback to compute and print alignment to source tokens')
     
     # Add multi-turn debate generation
+    group.add_argument('--interactive', action='store_true', default=False,
+                       help='if set with multiturn, enables interactive multi-turn debate')
     group.add_argument('--multiturn', action='store_true', default=False,
                        help='if set, generates multi-turn debate')
     group.add_argument("--multiturnpref", metavar="FP", default=None,
