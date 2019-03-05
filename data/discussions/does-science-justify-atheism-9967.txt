@@ -1,0 +1,365 @@
+Discussion Title: Does science justify atheism?
+
+1. Science doesn't justify [Atheism](https://www.dictionary.com/e/atheism-agnosticism/).
+1.1. Con: The simplest explanation for what we don't understand is that "we don't understand yet," not that "there is an all powerful supreme being that is making it happen."
+1.1.1. Con: Thousands of years of historical and anthropological evidence would suggest that even if it is logically easier to say "we just don't understand" it is not psychologically easier and therefore less applicable to humanity's needs.
+1.1.1.1. Con: Science does not bend to psychological ease. Even if a position isn't psychologically easy, science may still justify that position depending on the ability to demonstrate the position as true.
+1.1.2. Con: "We do not know yet" is more rational, but "There is not a god" is not necesarly more rational. Both are pretty strong assertions.
+1.1.2.1. Con: The prefix a- means without. 
+[Gnostic](https://www.google.com/search?q=gnostic+definition&rlz=1C1CAFB_en&oq=gnostic+d&aqs=chrome.0.0j69i57j0l4.3319j1j4&sourceid=chrome&ie=UTF-8) relates to knowledge. 
+[Theism](https://www.google.com/search?q=theism&rlz=1C1CAFB_en&oq=theism&aqs=chrome..69i57j0j69i60l3j0.2527j0j9&sourceid=chrome&ie=UTF-8) is the belief in a god. 
+Atheism is therefore "without belief in a god" and agnostic is "without knowledge". Atheism is a non-belief which requires no justification.
+[Hard atheism](https://en.wikipedia.org/wiki/Negative_and_positive_atheism) is the belief that there are no gods.
+1.1.2.1.1. Con: If non-belief doesn't require outright proof, there is still a reason why people lack faith; the question is whether science provides valid reasons to live without belief.
+1.1.2.1.1.1. Con: There is no required reason to lack faith.
+1.1.2.1.1.1.1. Con: Every person has a choice between belief and non-belief. If one chooses non-belief, it may have been scientific findings, a mere feeling, or perhaps a gut reaction... but something caused that.
+1.1.2.1.1.1.1.1. Con: The reason for an individual's non-belief in a deity is irrelevant. The position of non-belief in a deity is justified by scientific thought.
+1.1.2.1.2. Con: Arguing from roots or definitions of words is a fallacy. One cannot conclude that atheism requires no justification because of word meanings and origins alone.
+1.1.2.2. Con: [Sagan Standard](https://en.wikipedia.org/wiki/Sagan_standard). Extraordinary claims require extraordinary evidence. Science fortifies the [evidence of absence](https://en.wikipedia.org/wiki/Evidence_of_absence) of supernatural causes, thus making the absence claim not extraordinary.
+1.1.3. Con: One statement is not simpler or more obvious than the other. One cannot appeal to Occam's Razor to prove a point, only to suggest a hypothesis.
+1.1.3.1. Con: Occam's razor may not be used to prove or disprove something, but it suits to justify a disbelief in superfluous causes, and therefore science provides a justification for atheism.
+1.1.4. Pro: Belief is unfounded assumption. Science, or more particularly boolean algebra, proves that if one unfounded assumption is presumed true when it's actually false, then anything false can be proved true, leaving us with no facts and no logic. So, we shouldn't believe and science justifies Atheism.
+1.1.4.1. Con: Mathematicians share this view. Science, however, is rooted in empirical observations whilst mathematics use reasoning. Boolean algebra is an element of mathematics. Mathematics justifies Atheism, but not necessarilly science. [euclid.trentu.ca](http://euclid.trentu.ca/math/sb/misc/mathsci.html)
+1.1.4.1.1. Con: Mathematics is not an experimental science, as its results are derived from axioms that may be chosen at will and need not be proved or disproved by evidence. But mathematics as a science, as its methods and results have predictive potential.
+1.1.4.1.2. Con: Modern mathematics, being in its core a general science of symbol manipulation, is intentionally detached from any worldly entities, thus justifying neither religions, nor atheism. Implications of its applications to the real phenomena - i.e. science - do.
+1.1.4.1.3. Con: The percentage of religious people among mathematicians is [higher](https://transformingteachers.org/en/articles/biblical-integration/mathematics/193-why-the-mathematicians-more-than-other-scientists-tend-to-believe-theres-a-god) than among other natural scientists.
+1.1.4.2. Pro: Belief isn't justifiable by science and mathematics. Belief can be falsifiable by data. For example: more than 500 years ago, man believed that the sun revolved around the earth.
+1.1.4.3. Con: Boolean algebra is a branch of logic, not science. It is simply a set of rules for manipulating truth values in a way that mimics common human logical assertions. I don't recognize any theorem in logic that supports the assertion about boolean logic.
+1.1.4.3.1. Con: Math-based physical models proved to be unnecessarily effective. You may not recognize some results, but your attitude alone does not refute the reality.
+1.1.4.4. Con: There exist beliefs that are impossible to prove true or untrue with Boolean logic. The claim argues that an assumption without proof is taken as fact, it invalidates all other facts. When it comes to religion, we are stuck with Schrodinger's cat: we cannot prove nor disprove the existence of a god, so atheism cannot be supported or refuted by such logic
+1.1.4.5. Con: Belief as unfounded assumption is why science cannot speak either way to the existence of an Absolute like God \(it's a philosophical "limit question"\), and in fact it requires scientists to believe there is no God to defend Atheism.
+1.1.4.5.1. Con: Atheism does not require justification. As a non-position \(meaning to make no claim\) there is nothing to prove.
+1.1.4.5.1.1. Pro: Atheism is arguably nothing more than a disinclination toward blind faith. The faithful posit God is real but all five senses indicate otherwise. The burden of proof then falls on the faithful, since God is not arguing his case. Atheists need no justification.
+1.1.4.5.1.1.1. Con: The statement that all five senses indicate that god is not real seems like a fairly large assumption about other people's senses.
+1.1.4.5.1.1.2. Con: Theists believe in God while atheists do not. Just as the burden of proof falls on those who assert the existence of a particular God, it also falls on those who assert that there is no God whatsoever. The \(true\) claim that the five senses cannot indicate the existence of God is a justification for agnosticism, not atheism.
+1.1.4.5.1.1.2.1. Con: -> See 1.1.2.1.
+1.1.4.5.1.1.2.2. Con: -> See 1.1.2.2.
+1.1.4.5.1.1.3. Con: All positions require justification in discourse. Even a disinclination toward blind faith \(which isn't widely considered the definition of Atheism\) demands justification.
+1.1.4.5.1.2. Con: This argument relies on the scientific method, however.
+1.1.4.5.1.2.1. Con: In science, a claim is rejected as true until it has been demonstrated to be true. Since the claim, "a god exists" has not been demonstrated to be true, science rejects that claim as true \(which does not mean it accepts the claim as false\). Since science rejects the claim "a god exists" as true and atheism is the not taking the position that the claim "a god exists" is true, science justifies atheism.
+1.1.4.5.1.2.1.1. Con: In the scientific method, a claim isn't accepted/rejected until it has been proven/disproven.
+1.1.4.5.1.2.1.1.1. Con: Under the scientific method, a claim is [rejected if it hasn't met its burden of proof.](https://undsci.berkeley.edu/article/0_0_0/endosymbiosis_06)
+1.1.4.5.1.2.1.2. Con: Scientific method cannot demonstrate the truth value of statements about logical entities \(mathematical axioms or basic laws of logic\), which does not render them non-existent or false.
+1.1.4.5.1.2.1.3. Pro: -> See 1.1.4.5.1.2.1.1.1.
+1.1.4.5.1.2.1.4. Con: This is a non sequitur based on narrow definitions. Atheism is not limited to agnosticism as it also includes those who say "no god exists". Even assuming only agnostic atheism, the conclusion still does not follow. It is correct to say that science cannot conclude on the existence of the supernatural. Therefore science does not justify or refute the rejection of "a god exists."
+1.1.4.5.1.2.1.4.1. Con: Atheism is not taking the position that there is a god. Positive Atheism is the belief that there are no gods. Since this debate is entitled "Science doesn't justify atheism" we take the more general definition. Then, we look at how the scientific method evaluates claims. A rejected claim does not mean that the claim is false. Rejecting a claim means it has not been shown to be true. Since both science and atheism do not accept the claim "A god exists" as true, science justifies atheism.
+1.1.4.5.1.2.1.5. Con: As the saying goes, "An absence of evidence isn't evidence of absence."
+1.1.4.5.1.2.1.5.1. Con: Atheism is not the belief that there is no god or that a god does not exist. That is known as positive-atheism.
+1.1.4.5.1.2.1.5.2. Con: -> See 1.1.2.2.
+1.1.4.5.1.2.1.6. Con: Science holds in abeyance hypotheses that have not been sufficiently demonstrated, assigning them neither "true" nor "false" values and making no statement based on them. Science makes no statement about the hypothesis of a deity, so cannot be held to support or refute atheism.
+1.1.4.5.1.2.1.6.1. Con: If I have means to prove that the wind blows from the regions with high pressure to those with low pressure, and that the whole process may be explained by these natural causes alone, I still can't refute the existence of Boreas, but I can justify my non-belief in its existence.
+1.1.4.5.1.2.1.6.1.1. Con: Suggesting that naturalistic explanations remove the need for God mischaracterises theism by assuming that God is invoked as a reason to explain physical phenomena.
+1.1.4.5.1.2.1.7. Con: Science does not reject the claim "a god exists". The most it would do is call it unproven.
+1.1.4.5.1.2.1.7.1. Con: -> See 1.1.4.5.1.2.1.1.1.
+1.1.4.5.1.3. Pro: If one understands the scientific method, it is understandable that there is no onus to prove the non-existence of something for which there is no evidence.
+1.1.4.5.1.3.1. Pro: One cannot prove there are no fairies living in their garden, but neither are they required to in order to reject someone's suggestion that there are - there is no evidence for it, and that is enough. So it is with god.
+1.1.4.5.1.3.2. Con: If one understands the scientific method, then one knows it operates using "methodological naturalism" [and thus couldn't see God if God was standing right in front of it](http://earlygenesistherevealedcosmology.blogspot.com/2018/08/science-and-perceiving-god.html).
+1.1.4.5.1.3.2.1. Pro: Under [methodological naturalism](https://en.wikipedia.org/wiki/Naturalism_\(philosophy\)#Methodological_naturalism) science can't see God even if God were standing right in front of it. Science is a procedure which is conducted to detect for laws only. It is incapable of detecting any lawgiver.
+1.1.4.5.1.3.2.1.1. Pro: At best it can be used to say "This religious belief about nature or this understanding of what a religious text might be saying about nature is or is not plausible."
+1.1.4.5.1.3.2.1.2. Con: This does not support the premise that science does not justify atheism. Saying that science can't prove theism doesn't justify the claim that science does not justify atheism.
+1.1.4.5.1.3.2.1.2.1. Pro: In fact, [non-falsifiability](https://courses.vcu.edu/PHY-rhg/astron/html/mod/006/index.html) itself is considered by the scientific community to be grounds for the dismissal of a theory on the basis that it has no meaning nor relevance.
+1.1.4.5.1.3.2.1.2.2. Con: The claim is rather that naturalism rejects out of hand any form of metaphysical evidence and relies entirely on physical evidence. This would mean that the scientific method is inadequate as a means of determining the existence, or lack there of, of a metaphysical being. As an example: the scientific method is not a valid means to determine history, as it's core principle requires that a phenomenon be repeatable. This is why we have other disciplines like textual criticism.
+1.1.4.5.1.3.2.1.3. Pro: Science is the best tool for understanding nature. To say that science justifies atheism \(which concerns the supernatural\) is like saying my cat detector justifies a belief that there are no dogs. It is a category error.
+1.1.4.5.1.3.2.1.3.1. Con: Atheism is not concerned with anything 'supernatural'.
+1.1.4.5.1.3.2.1.3.1.1. Pro: Even if science hasn't yet uncovered the nature of a phenomenon, given time there is a stronger likelihood it WILL than a supernatural explanation can be found.
+1.1.4.5.1.3.2.1.3.1.1.1. Con: I don't think that you can use a priori likelihood as an argument for or against an event that hasn't happened. Your argument is merely a statement of your own guess about a future outcome.
+1.1.4.5.1.3.2.1.3.1.1.2. Pro: Supernatural explanation is an oxymoron.
+1.1.4.5.1.3.2.1.3.2. Con: The "supernatural" category is just believed to exist, is speculative, based on ignorance and faith. As human knowledge expands, the supernatural definition loses strength.
+1.1.4.5.1.3.2.1.4. Con: Whether or not methodological naturalism can detect God, it can detect the effects of God's existence -- much like, although we would not be able to see an invisible man, we could see footprints he leaves on wet sand. God's existence would have many effects, such as the universality of information needed for people to choose salvation, that would be observable, but that we do not observe.
+1.1.4.5.1.3.2.1.4.1. Con: This would entirely depend on what one accepts as evidence for a creator, which would have to be formally laid out. Certain stipulations are not valid stipulations for evidence. Footprints, for instance, would not be a valid stipulation to proving God exists, as God is defined as a Spirit. Even in the Trinitarian perspective, Christ is not on Earth, and thus would not create footprints to be observed.
+1.1.4.5.1.4. Con: This is conflation of atheism with agnosticism. Atheism is a truth claim and it most certainly has to justify itself. It most certainly is a position.
+1.1.4.5.1.4.1. Con: Generally, atheism is defined as the lack of a belief in gods, not the belief of a lack of gods.
+1.1.4.5.1.4.1.1. Pro: -> See 1.1.2.1.
+1.1.4.5.1.4.1.2. Con: There is no difference between the 'lack of belief in gods', and believing that there are no gods, unless one is completely unaware of the concept of 'gods'.
+1.1.4.5.1.4.1.2.1. Con: If a person lacks a belief in something it means that they do not accept its existence as true. If someone believes that there is no something that means they accept its existence as false.
+1.1.4.5.1.4.1.2.1.1. Pro: For example, extra-terrestrial life is either true or false. A person can refuse to accept extra-terrestrial life as true without maintaining that it is false.
+1.1.4.5.1.4.1.2.2. Con: If there is no hard proof that there have existed a race of sentient dinosaurs on Mars, other than their detailed yet self-controversial description in a 1950s space opera pulp, not believing in their existence is not the same as believing in their non-existence.
+1.1.4.5.1.4.1.2.3. Con: The lack of belief in a god or gods is the default, neutral position. When you are born, you do not know anything about gods, and therefore cannot believe in any. That is not the same thing as saying "When you are born, you believe no gods exist".
+1.1.4.5.1.4.2. Con: Gnosticism addresses knowledge; Theism addresses belief. Atheism is a response to a claim, not a claim of any kind, and the response is "I've heard your claim. Convince me with evidence and I'll believe it, but until then I have no reason to believe you."
+1.1.4.5.1.4.2.1. Pro: Atheism and agnosticism are responses to two separate issues. Most believers and non believers alike are agnostic at their base form.
+1.1.4.5.1.4.3. Pro: Atheism, as a system of beliefs, is a religion in its own right. There is no absolute proof of the absence of a creator. Yet atheists believe it to be true, some passionately so.
+1.1.4.5.1.4.3.1. Con: -> See 1.1.2.1.
+1.1.4.5.1.4.3.2. Con: It is not a religion since to be so, the belief on a superior force or God is required.
+1.1.4.5.1.4.3.2.1. Con: There exist plenty of [non-theistic religions](https://en.wikipedia.org/wiki/Nontheistic_religion).
+1.1.4.5.1.4.3.3. Con: As a system of beliefs, unlike religion which is based on faith, atheism is based on observation: since God is impossible to find, see or seek, the conclusion is that there must be no God.
+1.1.4.5.1.4.3.4. Con: Atheism is not a system of beliefs. It is singularly not taking the position that there is a god.
+1.1.4.5.1.5. Con: Many atheists in the US are actively evangelizing their view that no deities exist and publicly attacking religious viewpoints. This changes US atheism from a philosophical stance into a social and political movement that does require justification.
+1.1.4.5.1.5.1. Pro: In this sense, atheism is a religion in its own right. Many atheists have an accepted dogma and even their higher power, Darwin.
+1.1.4.5.1.5.1.1. Con: Atheism is only the non-acceptance of the position that a god exists. Anything else, including science, logic, or moral arguments, is not atheism.
+1.1.4.5.1.5.2. Con: -> See 1.1.4.5.1.5.1.1.
+1.1.4.5.1.6. Con: The fact that there is a name for atheism means that it is certainly a position.
+1.1.4.5.1.6.1. Con: Since this debate has defined atheism as not taking the position that a god does exist, the the debate logically translates to "Science doesn't justify not taking the position that a god does exist." Since there is a double negative, it also equates to "Science justifies taking the position that a god exists." As of yet there have been no scientific justifications that a god exists, therefore, not taking that position is justified.
+1.1.4.5.1.7. Con: A position that something or one does not exist isn't a "non-position". Its a position on the existence or non-existence of the object or entity.
+1.1.4.5.1.7.1. Con: -> See 1.1.4.5.1.2.1.5.1.
+1.1.4.5.1.8. Con: While the term "atheism" generally means a lack of faith in a deity, that does not mean that it is a "non-position." It simply means that the belief in a deity was traded for another position.
+1.1.4.5.1.8.1. Con: Since atheism does not provide a position on any topic, including whether or not a god exists, it can be defined as a non-position.
+1.1.4.5.1.9. Con: If atheism is a non-position, then it can be ignored as such.
+1.1.4.5.1.10. Pro: Science doesn't attempt to prove a negative. That is not the purpose of science.
+1.1.4.5.1.10.1. Pro: While "there's no way to prove that there 'isn't' a tooth fairy" is technically true, it is also irrelevant. If someone said they believed in a blue sea monsters on Mars, with zero evidence, it would be equally true but irrelevant to say science doesn't justify lack of belief in Martian sea monsters. Instead, the believer should use science to prove the existence of sea monsters. Until it does, that belief is unsupported by science and should be rejected.
+1.1.4.6. Con: That is an incorrect definition of belief. According to [dictionary.com](http://www.dictionary.com/browse/belief?s=t): 1. Something believed; an opinion or conviction. 2. Confidence in the truth or existence of something not immediately susceptible to rigorous proof. In either definition, the evidence may range from weak to overwhelming, but there is no implication of "unfounded assumption". Example: I believe the Pythagorean Theorem.
+1.1.5. Pro: An omnipotent, omniscient being is a self contradiction - logically absurd. Science is premised on the validity of reason and logic which do not permit self contradiction.
+1.1.5.1. Con: -> See discussion #2629: [God](https://en.wikipedia.org/wiki/Classical_theism) exists.
+1.1.5.2. Con: Calling a concept "absurd" is not usually a valid argument, but a personal opinion, and many people take the opposite view, that the existence of an omnipotent, omniscient deity is credible. One could point to wave/particle duality or the many worlds hypothesis in physics as examples of self contradiction in science.
+1.1.6. Pro: Science definitely gives one reason to adopt an atheistic view on life. In science, you need evidence to support any claim, so when it comes to a metaphysical realm such as religion, a scientific minded individual would need evidence of god rather than to just go on blind faith.
+1.1.7. Pro: While logically consistent with theism, science paints a picture of a world that makes atheism more probable than theism.
+1.1.7.1. Pro: For example, complex structures that at first seem purposeful can arise via evolution. Additionally, everything we know about consciousness suggests that it requires an underlying physical substrate, i.e., a brain.
+1.1.7.2. Pro: Science justifies not believing in things without evidence. There is no evidence for God \(or super alien intelligence, or any other random explanation for unknowns\). Hence, science justifies disbelief/athiesm.
+1.1.8. Con: If it is more logical to say that a powerful being is the causal agent, it doesn't matter that agnosticism is simpler.
+1.1.8.1. Con: There is no sound logical reason to say that at least one god exists.
+1.1.8.1.1. Con: Everything that begins to exist has a cause. The universe began to exist. Therefore the universe is caused. Since the universe is finely tuned, it is reasonable to conclude that the cause of the universe is intelligent. Since the universe contains all observable space and time, it is reasonable to conclude that the cause of the universe is timeless. A causal agent with will, intellect, power, and outside of time can reasonably be called a God.
+1.1.8.1.1.1. Con: [Premise 1 of the Kalam Cosmological argument is not self-evident and require justification.](https://en.wikipedia.org/wiki/Kalam_cosmological_argument#Premise_one:_%22Whatever_begins_to_exist_has_a_cause.%22)
+1.1.8.1.1.2. Con: The premise that the universe is finely tuned is not scientifically accepted.
+1.1.8.1.1.3. Con: If everything that begins to exist has a cause, that would mean that the god would require a cause. If it is claimed that the god did not begin to exist, it may also be claimed that the universe did not begin to exist with just as much justification.
+1.1.9. Con: "We don't understand it yet." is not an explanation, it's an admission of ignorance. We may not understand a particular thing, but that doesn't necessarily imply that any given explanation \(in this case God\) cannot be inferred as the best explanation for a certain phenomena, or set of phenomena.
+1.1.9.1. Con: An admission of ignorance is ok if you don't have knowledge.
+1.1.10. Con: Saying “we don’t know” is not the best answer for certain “what is making this happen” questions that involve a non-natural hypothesis. Some scientific evidence lends to aiding certain non-natural hypotheses.
+1.1.10.1. Pro: At the beginning, the order of the universe was at its maximum. It is more simple to assert that something non natural caused this order than something that is natural, since science says that nature always produces more disorder.
+1.1.10.2. Pro: Science says there was a beginning. Which leads to saying that there is at least one instance of an uncaused cause. If this cause is natural, it would be unique in nature, as all other scientifically observed causes have a cause. Explaining how that uncaused cause is natural is more complex than saying it is not natural.
+1.1.11. Con: The Scientific Method reaches an agnostic conclusion with "we don't know yet" - rejecting a "God of the gaps" argument; however theism is not about supporting a "God of the gaps". Therefore one cannot conclude that the Scientific Method supports atheism.
+1.2. Pro: The scientific method has never provided an answer that leaves no further questions to be asked.
+1.2.1. Con: This does not mean that a god exists, and since it does not prove a god's existence, individuals are justified in withholding a belief in a deity.
+1.2.2. Pro: This is true. Accurate portrayal of scientific methodology is to note how scientists, just as emotional people like all others, employ objective non-emotive metrics to attempt to provide logic. If the concept passes majority acceptance to the science community \(not 100%!\) then it is presently taken as fact, such as global warming. But this acceptance can always be negated if new data is found. So the process continuously evolves the answers we accept. Ex: Pluto is not a regular planet anymore.
+1.2.2.1. Con: The topic of this debate is if Science justifies atheism, not if science disproves a god's existence.
+1.2.3. Con: The religious "method" has also never provided an answer that leaves no further questions to be asked. The difference is that scientific answers are designed to be verifiable.
+1.2.3.1. Pro: Religious methodology varies wildly depending on the source religion, tradition, and sect. Some are more rational and reliable than others.
+1.2.3.2. Pro: Different kinds of knowledge require different methodologies. Thus, one cannot use naturalistic standards to metaphysical knowledge.
+1.2.4. Con: That science opens up additional questions is a good thing. To come up with any "theory" that answers everything is meaningless unless that theory is based on facts rather than supposition.
+1.2.5. Con: -> See 1.1.4.5.1.2.1.
+1.2.6. Pro: Science is a never-ending process, as new discoveries always illuminate new questions to be investigated.
+1.2.6.1. Con: Scientific discovery leaves logic and fact in its wake, things you can rely on, things that contradict religion, like the theory of evolution, which is why religions target it, because it's a great advert for atheism.
+1.2.6.1.1. Con: There are many religions and faith groups which allow for adaptation of belief based on new discoveries. Just because humans are incorrect in their interpretations does not prove the lack of a god.
+1.2.6.2. Pro: Think about the known world as a sphere, and the unknown as everything beyond it. "Note what happens when the radius of a sphere increases: the increase in the surface area is squared while the increase in the volume is cubed. Therefore, as the radius of the sphere of scientific knowledge doubles, the surface area of the unknown increases fourfold, but the volume of the known increases eightfold." As our knowledge increases, so does the unknown. [scientificamerican.com](https://www.scientificamerican.com/article/is-it-possible-to-measure-supernatural-or-paranormal-phenomena/)
+1.2.7. Pro: There is not one "scientific method."
+1.2.7.1. Con: There is indeed a body of techniques for investigating varied phenomena and acquiring knowledge regarded as “[the scientific method](https://en.wikipedia.org/wiki/Scientific_method)”.
+1.2.7.1.1. Con: Whatever we regard as "the scientific method" only is by virtue of it being conventionally accepted as such. We cannot know that our method of accessing "the truth" is "the best" method of doing so. We can only stipulate and assume.
+1.2.7.1.1.1. Con: However, humans have so far relied on the scientific method as the best and it has produced tangible [results](https://bigthink.com/paul-ratner/top-20-greatest-inventions-of-all-time): from fire to gunpoder to medicine to computers, etc.
+1.2.8. Con: Assuming a god in place of an explainable natural phenomenon allows no further questions to be asked.
+1.2.9. Pro: Einstein's model of gravity/general relativity left him with enough questions to bother him. He saw it necessary to suggest a [cosmological constant](https://www.space.com/9593-einstein-biggest-blunder-turns.html), clearly not totally content with the level of his theory's comprehensiveness. This has yet to be resolved yet, even in light of theories about [dark matter](https://www.space.com/37937-evidence-for-dark-matter.html) and [dark energy](https://cosmosmagazine.com/physics/dark-energy-may-not-exist).
+1.3. Pro: Using a method that isn't able to prove or disprove something's existence isn't a justification to believe or not believe in that something.
+1.3.1. Con: The question of this debate is not "Is god real?"; The question is "Does science justify atheism?". Whether or not an individual accepts science as an avenue for truth does not affect this debate.
+1.3.1.1. Con: The parent claim seems to acknowledge science as an avenue for truth, but indicates that science can't directly address the existence of a god/gods.
+1.3.1.1.1. Con: Then the claim fundamentally misunderstands atheism, which is not the belief that there are no gods, but rather the non-acceptance of the position that a god exists.
+1.3.1.1.1.1. Pro: Many atheists identify as people who don't believe in a god, but simultaneously haven't reached the conclusion that there isn't a god. Indeed, they haven't reached a conclusion at all, and live in a state of mind where "the jury's still out" on this particular topic.
+1.3.2. Pro: Science is a method based on observation, which can't explain desire, sensation or experience.
+1.3.2.1. Con: Science actually does explain much about feelings, desire, and how we interpret experiences. Psychology reveals that pleasure and other feelings are related to chemicals such as endorphins. The way our minds operate is based on neural net logic. It is proven that neural nets do not need the truth to be functional.
+1.3.2.2. Con: When we notice that we are experiencing a certain desire, for instance, this amounts to a type of observation. Thus, desires- like other things - can be explained IN PART by their observational qualities.
+1.3.2.3. Con: Science can't explain desire and sensation yet. However, The unexplained is science's target. Maybe one day we'll be able to quantify desire, sensation and experience. We can already recognise brain activity caused by certain stimuli or thoughts.
+1.3.2.3.1. Con: That will be standardizing any experience, sensation or emotion, which is experienced by every person in a differnt manner.
+1.3.2.4. Con: Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe – [Wikipedia](https://en.wikipedia.org/wiki/Science).
+
+The point is that it is not just based on observation. It includes logical deduction. For instance not all of Einstein's theories of relativity had been tested at the time when he formed the theory, but the logic was sound.
+1.3.2.5. Pro: We do not yet have the means or tools necessary to understand what God is physically, since there is a lot we don't know, or cannot understand, even our consciousness. Thus it is not an appropriate method of science to now reach the conclusion that God does not exist, before we are able to prove his existence is true or false.
+1.3.2.5.1. Con: -> See 1.1.4.5.1.4.1.
+1.3.3. Pro: Science doesn't prove that there is a God, and neither does it prove that there isn't a God. Therefore, science can't back the certain claim that there is no God.
+1.3.3.1. Con: -> See 1.1.4.5.1.2.1.5.1.
+1.3.3.2. Pro: The most realistic approach to this question will certainly be that no one can ever be sure whether God exists or not. Our whole world is dependent on beliefs, we can never be certain of anything for sure.
+1.3.3.3. Con: [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor#Later_formulations). We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.
+1.3.3.3.1. Con: Occam's Razor cannot be cited as proving or disproving anything. Instead, it is a heuristic to use in choosing among competing hypotheses. A subtle difference, but important.
+1.3.3.3.1.1. Con: -> See 1.1.3.1.
+1.3.3.3.2. Con: Occam's razor cannot rule out supernatural hypotheses because the epistemological assumptions required for natural and supernatural explanations are the same.
+1.3.3.3.2.1. Pro: Actually it is straitforward call the first cause supernatural. The natural order is that causes have causes. But the first cause has no cause, making it different than what is naturally seen.
+1.3.3.3.3. Con: In cosmology, and throughout much of the history of science, Occam's Razor has failed to provide useful insights as to the true nature of things because the universe is almost always more complicated, and employs more factors, than we are aware of as yet.
+1.3.3.4. Con: [Russel's Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot). Burden of proof lies upon a person making unfalsifiable claims, rather than shifting the burden of disproof to others.
+1.3.3.4.1. Con: Russell's teapot fails as an analogy against theism since there are too many categorical differences between the teapot and God. For example, the teapot is a contingent, physical entity \(God isn't\); and there is no reason to suppose that the teapot would be there rather than on Earth since it depends on Man for its creation.
+1.3.3.4.1.1. Con: There is no reason to assume that things that lack physical or contingent characteristics should be believed without evidence.
+1.3.3.4.1.1.1. Con: The claim that a non-physical, non-contingent entity exists cannot be tested using physical evidence and scientific theory.
+1.3.3.4.1.2. Pro: Russell's teapot was originally proposed by Bertrand Russell as a comparator to religion, but commits the [Fallacy of Accident](https://en.wikipedia.org/wiki/Russell%27s_teapot), as well as exhibiting many other philosophical weaknesses.
+1.3.3.5. Pro: To do so, one must design a scientific experiment\(s\) disproving the existence of a transcendent being. This is impossible. Therefore, science can neither prove nor disprove atheism.
+1.3.3.5.1. Con: Science can call into question the need for God as an explanatory principle.
+1.3.3.5.1.1. Con: It is rather individual atheists that demand evidence of a deity's existence. Science is deliberately neutral on this.
+1.3.3.5.2. Pro: Science does not justify atheism, nor any other belief. Science cannot establish the veracity of anything that cannot be objectively observed. Thus, just as scientific knowledge does not provide the basis for spirituality, it does not preclude it.
+1.3.3.5.2.1. Con: -> See 1.1.4.5.1.2.1.
+1.3.3.5.3. Con: -> See 1.3.3.4.
+1.3.3.5.4. Con: -> See 1.1.4.5.1.
+1.3.3.6. Pro: If scientists felt that they could investigate the existence of a deity, we would already be seeing grant applications for such research. Since we don't hear about such research proposals, scientists must be unable to, unwilling to, or uninterested in investigating deities.
+1.3.3.7. Pro: Nothing in science explicitly refutes the existence of a deity - it merely puts limits on a deity's interaction with the physical universe. Science has reduced claims of a physical deity's existence to a "God of the gaps" strategy. Because of the growth of scientific knowledge of the physical universe, new gaps seem to appear as rapidly as old ones are closed.
+1.3.3.7.1. Con: The God of the Gaps arguments essentially means that God equates to human ignorance.
+1.3.3.7.2. Con: The God of the Gaps argument functions on the idea that science is not proving a god's inexistence. However, to be justified by science a claim has to be substantiated with evidence showing that it is true. As such, the God of the Gaps arguments does nothing to show that a god does exist and should be considered irrelevant.
+1.3.3.8. Con: There's no way to prove that there "isn't" a tooth fairy, nor an Abominable Snowman as one cannot prove a negative.
+1.3.3.8.1. Pro: Science can prove that the teachings of every religion are incorrect regarding the natural order. This evidence stacks up to hypothesing that there is no god, by the very teachings of those religion, because of the contradictions and flaws within those teachings.
+1.3.3.8.1.1. Con: Animism offered explanations for natural phenomena but has been appropriately superseded by science. Theistic belief - especially the Abrahamic religions - is about one's relationship with the Creator, not about explaining the natural world.
+1.3.3.8.2. Pro: -> See 1.1.4.5.1.10.1.
+1.3.3.8.3. Con: The tooth fairy, the Abominable Snowman and any other comparator along these lines fail as analogies against theism for similar reasons to Russell's Teapot: there are too many categorical differences between them and [God](https://difficultrun.nathanielgivens.com/2015/01/15/god-and-the-tooth-fairy-belief-without-evidence/), i.e. they are contingent, physical entities that depend on the universe, and a unique set of conditions and possibilities therein, for their existence.
+1.3.4. Con: -> See 1.3.3.3.
+1.3.5. Pro: -> See 1.1.4.5.1.3.2.1.3.
+1.3.6. Pro: One cannot use the scientific method to measure metaphysical ideas. Using science to understand religion is like using chemistry to prove the meaning of art, or physics to prove the concept of love.
+1.4. Pro: Unless people can claim they are in possession of unlimited knowledge, they can never objectively deny the existence of God/gods.
+1.4.1. Con: -> See 1.1.4.5.1.
+1.4.2. Con: A person can honestly and objectively be an atheist if they believe that the preponderance of the evidence supports the conclusion that there is no God.
+1.4.2.1. Pro: There is no reason to hold the atheist position to a higher standard of proof than the theist position.
+1.4.2.1.1. Con: -> See 1.1.4.5.1.2.1.5.1.
+1.4.2.2. Con: This is evidently true, but it doesn't address the influence of science on the philosophy of atheism.
+1.4.2.2.1. Con: Atheism as defined by this debate is not a philosophy.
+1.4.3. Con: The logic states the opposite: the existence of divine requires a proof or evidence, nonexistence does not.
+1.4.4. Con: -> See 1.3.3.4.
+1.4.5. Con: You do not need knowledge to object a claim. Likewise, you can reject all the knowledge in the world, no matter how true it is, or how much of it you are exposed to.
+1.5. Pro: The basis of all modern science is the assumption that there must be a transcendent truth behind all observable phenomena. Godless thinkers did not do research, not assuming any transcendent truth to exist.
+1.5.1. Con: The list of great scientific thinkers who are atheist is long. [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_atheists_in_science_and_technology)
+1.5.2. Con: Transcendant truth does not have to involve God.
+1.5.3. Con: The premise that the laws of nature are same everywhere is but a good instrument of science, proved to be ["unreasonably effective"](https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html). If faced with a decisive proof of the contrary, scientific community will abandon it.
+1.5.4. Con: In the earlier part of my life, I did much research and thinking on this subject, as I am positive many people have done. For me, my conclusion was that partial atheism is justified but as an agnostic side, there is no present way to know if there is / is not an omnipotent being.
+1.5.5. Con: No scientist that claims that science is based on a transcendent truth. They might believe that privately in their religion, but good science is purely pragmatic and makes no metaphysical assumptions.
+1.5.5.1. Con: The scientific method is based on a priori assumptions on the nature of a particular kind of truth and the laws of logic. These truths are, by definition, [transcendental](https://www.dictionary.com/browse/transcendental). \(see definitions 3 and 5\)
+1.5.5.2. Con: Science is rarely pragmatic. It is more often haphazard. For instance, it has lead to technology such as social media which has [detrimental](https://www.psychologytoday.com/us/blog/greening-the-media/201406/the-problems-and-possibilities-social-media) effects.
+1.6. Con: Atheism does not require justification. Theism requires justification and has not been justified.
+1.6.1. Pro: -> See 1.1.4.5.1.
+1.6.2. Pro: We're all born atheist. Nothing has to justify that, therefore nothing has to justify atheism.
+1.6.2.1. Con: This is a Tabula Rasa claim that is inapplicable. A state of not knowing anything is not the same as the  state of not believing a thing. e.g. We are also all born with no opinion on where we fall in the political spectrum. Then society forces us to make a choice.
+1.6.2.2. Con: We are also born illiterate, innumerate, and speechless, but we learn these important skills as we develop. Atheism, like any philosophy, is acquired and refined through our entire lifetime.
+1.6.2.2.1. Con: -> See 1.4.2.2.1.
+1.6.2.3. Con: Religion initially sprung from humans themselves, so atheism is not the natural state of humanity.
+1.6.2.3.1. Pro: Religion is a human construct, but that does not make it scientifically true. There are papers that suggest that religion is created by the human need to be social, i.e., we have to be willing en mass to follow someone's ideas if we are to be led and make a society of thinking beings. If you add in that neural net thinking \(our mind\) is not focused on truth but instead on functioning, it makes sense the religion would be followed. Many people believe it is needed to function in society.
+1.6.2.3.2. Pro: Logic can also be considered atypical of most human thinking.
+1.6.2.3.2.1. Con: We use logic all the time. We don't batter down doors or push near the hinge, we use the handle. And if it's locked we use the key or knock. Cause and effect, common sense, mathematics, these are all logic, these are all typical human thinking. Even treating people as you'd like to be treated is simple logic: You are vastly outnumbered, so being a threat is counterproductive.
+1.6.2.3.2.1.1. Con: People only use logic if it fits our best interests. We use emotion way more than logic for most decisions. If we were very logical, we would not fight against vaccinations, have murder, and create wars.
+1.6.2.3.3. Con: Almost none of today's everyday activities of humans are natural for our species.
+1.6.2.3.4. Con: [It is possible religion first developed because of scientific illiteracy in early people.](http://www.religioustolerance.org/rel_theory1.htm) This would explain why religious beliefs tend to relate to unusual phenomena like child-birth and volcanoes. Living near a volcano makes it more likely that a region will have a volcano god, whereas many early religions had a a fertility god.
+1.6.2.3.5. Con: Belief in a flat earth or of Big Foot also sprung from humans themselves. It does not mean that they are either the natural state of humanity nor does it mean that they are justified by science.
+1.6.2.3.5.1. Con: It is true that the ideas of a flat earth and big foot came from  mankind, but one either believes or disbelieves them, as both questions have had their place amongst intellectual and reasonable men and women throughout history.  No one is born with the belief that their is no big foot, or that the Earth is round, or that there is no God.  Those positions arise once the question has been asked, and at birth there is no question.  Atheism is the negative position to a reasonably asked question.
+1.6.2.3.5.1.1. Con: Just as no one is born with the belief that there is no god, no one is born with the belief that there is a god. This shows that the natural state of humanity is non-belief in a god, which is what atheism is.
+1.6.2.4. Con: There is a hypothesis called the [God Gene](https://en.wikipedia.org/wiki/God_gene) that asserts that humans are predisposed towards spirituality and religion due to a specific Gene.
+1.6.2.4.1. Con: A biological predisposition to some kind of belief does not prove the validity of this belief.
+1.6.2.4.1.1. Pro: Virtually all traditional cultures, including highly developed ones, believed that the Earth is flat.
+1.6.2.4.1.2. Pro: Men are valued above women in most traditional cultures, so it is also a predisposition. In Victorian England, it made scientists believe that female animals play minor to no role in the natural selection by secondary sex-related attributes. Later biologists were able to decisively falsify this assumption.
+1.6.2.5. Con: If I asked you "Is there mail in your mailbox?", you'd have to decide yes, no, or I don't know.  Presuming you have a mailbox, and it receives mail, that is a reasonable question.  In the State of Nature, the question of God has not been asked; yet, with reason, it eventually is.  Once the question is asked, one must choose a positive, negative, or neutral stance.  In this way, Atheism is a negative position--it is a "no" answer to a yes-or-no question; and therefore, it is not a "non-belief".
+1.6.2.5.1. Con: -> See 1.1.4.5.1.4.1.
+1.6.2.5.2. Con: The presence of mail in a mailbox is a [verifiable and falsifiable hypothesis](http://openscience.org/being-scientific-fasifiability-verifiability-empirical-tests-and-reproducibility/), unlike the existence of supernatural beings in the world. Thus, according to the scientific method, atheism is not a negative, but a default position.
+1.6.2.5.3. Con: The proper analogy would be some one you don't know saying that there is mail in your mailbox. Atheism would be akin to saying "I don't believe this person" but it is not the claim that there is no mail in the mailbox.
+1.6.2.6. Con: People aren't born atheist, because atheism is the choice of disbelief.
+1.6.2.6.1. Pro: One's lack of belief in god/gods can be seen as an active response or choice in the matter, as opposed to a newborn's passive state of mind where the matter hasn't been presented to the child in the first place.
+1.6.2.6.1.1. Con: Regardless of the reasons an individual may be an atheist, the position of atheism is justified by scientific thought.
+1.6.2.6.2. Con: Disbelief is the default position of skepticism, not specifically atheism.
+1.6.2.6.3. Con: -> See 1.1.4.5.1.4.1.
+1.6.3. Pro: Science justifies doubts about theism because science manages to explain the natural world with no need for gods or God.
+1.6.3.1. Con: God is not meant to explain the natural world in the same fashion as science is.
+1.6.3.1.1. Con: Many traditional religions have tried to explain naturalistic phenomena. By presenting a better alternative, science does provide a practical and psychological alternative to a significant subset of religions.
+1.6.3.1.2. Pro: -> See 1.3.3.8.1.1.
+1.6.3.2. Con: Having doubts about theism \(or its most justified form\) is not the same as denying it in absolute.
+1.6.3.3. Pro: Science relies on gathering evidence to support a claim, and religion relies on refuting evidence to support its claim. Religion has presented no evidence to suggest that there is an entity that controls our lives and the universe, except for their "holy" textbooks, which are a man-written documents that have been edited numerous times by varying religious figures.
+1.6.3.3.1. Con: Challenging current human religions is a different argument than "there is no supreme being" which is the atheism tenet. All present day human religions are faulty due to their basis on ancient texts and ideals, and a host of other problems. But that does not limit their usefulness. Finding serious flaws in current religions does not give deductive reasoning that there is no supreme being, just that the blanket \(whole\) validity of man made religions is in severe question.
+1.6.3.3.1.1. Con: -> See 1.1.4.5.1.2.1.5.1.
+1.6.3.3.2. Con: Religion relies on evidence \(i.e. God's self-revelation through the Bible and the person of Jesus\).
+1.6.3.3.2.1. Con: People are able to claim godhood or write books about god without any evidence to support their claims. Because of this, books and claims of godhood are not considered evidence.
+1.6.3.3.2.1.1. Con: That "people are able to claim godhood or write books about God without any evidence to support their claims" does not lead to "books and claims of godhood are not considered evidence." Natural ability to make claims about X without evidence does not mean that every claim about X is without evidence.
+1.6.3.3.2.1.1.1. Con: -> See 1.3.3.4.
+1.6.3.3.3. Con: Christian philosophers have provided good reasons to believe that there is an entity like God.
+1.6.3.3.3.1. Con: Christian philosophers have not provided any scientific reason to believe there is any entity like God. Since this debate entitled "Science doesn't justify Atheism" your claim does not make sense.
+1.6.3.3.3.1.1. Con: That "Science doesn't justify atheism" can be true even if theists provide no scientific reason to believe that there is an entity like God.
+1.6.3.3.3.1.1.1. Con: For "Science doesn't justify atheism" to be true, science has to have evidence that supports the conclusion that a god exists. Since there is no scientific evidence that supports that conclusion, the statement "Science doesn't justify atheism" is false.
+1.6.3.3.3.2. Pro: The [cosmological argument for the existence of God](https://plato.stanford.edu/entries/cosmological-argument/) provides evidence to believe that there is an entity like God.
+1.6.3.3.3.2.1. Con: All versions of the cosmological argument have been rejected for various validity or soundness reasons by the majority of the scientific community and by logicians.
+1.6.3.3.3.3. Pro: The [ontological argument for the existence of God](https://plato.stanford.edu/entries/ontological-arguments/) provides good evidence to believe that there is an entity like God.
+1.6.3.3.3.3.1. Con: The ontological argument has been rejected for various validity or soundness reasons by the majority of the scientific community and by logicians.
+1.6.3.3.3.4. Pro: The [moral argument for the existence of God](https://plato.stanford.edu/entries/moral-arguments-god/) provides good evidence to believe that there is an entity like God.
+1.6.3.3.3.4.1. Con: There is much debate about objective morality. Since it has not been proven to exist, basing an argument on its existence is fallacious.
+1.6.3.3.3.4.2. Con: The second premise is just an assertion. There is no given reason why it should be true.
+1.6.3.3.3.5. Con: The trick words here are "good reason". Good as acceptable by whom? If the litmus test is to find any reasonable scientific proof, this is incorrect. If the requirement is to find answers that fit pro religious thought, you are correct. But note: even the Stanford links that are in the pro column are from a philosophical standpoint - not at all scientific. So it comes back to defining "good reason". Can we define a universal "good reason" clause?
+1.6.3.3.4. Con: The fact that "Religious texts are man-written documents" does not logically lead to "therefore, religious texts are not divinely-produced."
+1.6.3.3.4.1. Con: If religious texts are written by men, it is more likely that they are man-made than really divinely-produced.
+1.6.3.3.4.1.1. Con: The properties of being "man-made" and "divinely-produced" are compatible. There is no need for a false dichotomy.
+1.6.3.3.5. Pro: This is completely correct if you change this to say "Religion has presented no objective evidence to suggest that there is an entity that controls our lives and universe ..."
+1.6.3.3.5.1. Con: It provides evidence when the evidence is properly interpreted and not interpreted by an atheistic presupposition.
+1.6.3.3.5.1.1. Con: Atheism posits no presuppositions
+1.6.3.3.6. Con: Belief in the supernatural does not rely on the refutation of evidence. The scientific method cannot conclude on the possibility of the supernatural. There is evidence cited both for and against the real world claims made by religion, but none for or against the existence of the supernatural, which is the original context of this debate.
+1.6.3.3.6.1. Con: -> See 1.1.4.5.1.2.1.
+1.6.3.3.7. Con: Agreed with the first clause of the first sentence, but you haven't substantiated the notion of religion refuting evidence. On the contrary, most theologians stay away from scientific arguments altogether and argue existence by faith rather than physical evidence. Holy books assume that a deity exists rather than substantiating that claim.
+1.6.3.3.8. Con: The Christian worldview does not rely on refuting evidence. It refutes the interpretation from a naturalistic, atheistic, worldview that cannot account for its own accounting.
+1.6.3.4. Con: Science may justify doubts about specific theological claims made by certain worldviews. It cannot rule out the possibility of god entirely.
+1.6.3.5. Pro: Karl Popper showed the true purpose of experimental testing is to falsify scientific theories, not verify them. Therefore, it makes no sense to claim that science does not verify atheism.
+1.6.3.6. Con: The fact that science explains how the natural world works, doesn´t mean that it justifies doubts about theism. Take for the example a self concious being that lives inside a computer software, he could explain how the code works by observation and experimentation. Nevertheless, this wouldn´t deny the existence of the creator of the software. This being could theorize that the software came to be by itself; but us, as an external observer would say that for this complex software, this is nonsens
+1.6.3.7. Con: Explanation is not cause, and since Science is explained by the Christian worldview \(an orderly creator who established laws and properties that are consistent with his character\), it is a naturalistic view of Scientific atheism that must account for its assertions about the world - a world that is deterministic based on the properties of matter that arose by "fortunate accidents."
+1.6.4. Con: Atheism is an assertion that no deity exists - of course it needs to be justified. Especially since science admits that it cannot prove a universal negative.
+1.6.4.1. Con: -> See 1.1.2.1.
+1.6.4.2. Pro: Atheism is a claim just like any other, a belief that there is no god without any data or proof. At best, modern atheist \(including me\) should be cognizant that we have no real argument that there is NO god, but we can argue that the man-made religions are incorrect. These are not the same argument.
+1.6.4.2.1. Con: -> See 1.1.4.5.1.2.1.5.1.
+1.6.5. Con: According to [Alvin Plantinga](https://en.wikipedia.org/wiki/Alvin_Plantinga#Philosophical_views), Theism, that is the belief in God, is a properly basic belief and instinctual belief, and should thus not necessarily require justification, just like a belief in the existence of the outside world, or in other minds. If he is right, it is Atheism that requires justification, not Theism.
+1.6.5.1. Con: From a scientific perspective, all claims require justification. Since theism is the claim that at least one god exists, it requires justification. Since atheism by itself is only the rejection of theism, it does not.
+1.6.6. Con: Some people would contend that whenever a minority disagrees with a majority, it is incumbent upon the minority to show why the majority is wrong. Since Atheism is a [minority](http://www.pewforum.org/2012/12/18/global-religious-landscape-exec/), it would be up to them to offer justification.
+1.6.6.1. Con: -> See 1.6.5.1.
+1.6.6.2. Con: The oppression of a minority because a majority doesn't like their ideas is totalitarian.
+1.7. Con: Science provides a qualified justification for atheism, which is that deities are not falsifiable, testable, or empirical; also, it is for a qualified version of atheism, one that is unsure of anything that can't be empirically falsified or tested.
+1.7.1. Pro: The scientific method is predicated on presenting a hypothesis, making observations, testing the hypothesis and adapting as necessary. No such testing has been \(or arguably can be\) done on a deity.
+1.7.1.1. Con: It has not been proven that this method is the only way to arrive at the truth of a deity's existence. Therefore, it cannot be used to definitively speak until it is established that it is authoritative on all truth.
+1.7.1.1.1. Con: It should not be taken that the point of this discussion is to limit how a person arrives at what they believe to be the truth. However, this discussion focuses on if theism/atheism is justified by scientific methodology.
+1.7.2. Con: Science provides probable evidence for the existence of God. [Intelligent Design](https://www.focusonthefamily.com/faith/faith-in-life/defending-the-faith/the-case-for-a-creator)
+1.7.2.1. Con: The conclusions one draws from science are very much a matter of how one interprets the evidence, which is inherently a subjective act. Hence, atheists conclude that science supports atheism; theists conclude that science supports theism.
+1.7.2.1.1. Con: The purpose of the scientific method is to limit the effect of bias on discovery. At present, there is no evidence which has been shown to support the claim that a god exists without making formal errors in logic.
+1.7.2.1.1.1. Con: "God exists" is a metaphysical belief untestable by science. Similarly, "God does not exist" is a metaphysical belief untestable by science. People may infer either claim using evidence to support their position, although such inferences \(to both positions\) are always highly controversial.
+1.7.2.1.1.1.1. Con: -> See 1.1.4.5.1.2.1.5.1.
+1.7.3. Con: Science does not conclude that unfalsifiable / untestable / non-empirical ideas are false; it simply has nothing to comment on the matter. Therefore at most, science is agnostic.
+1.7.3.1. Con: If it cannot be determined from a scientific point of view whether or not a god exists, then agnosticism is the correct point of view pertaining to knowledge. However, if agnosticism is claimed, then withholding belief that a statement is true is justified. Atheism is the lack of belief that theism is true, therefore, atheism is justified.
+1.7.3.1.1. Pro: -> See 1.1.2.1.
+1.7.3.1.2. Con: Knowledge might lead toward belief in- or against God, but neither conclusion can be attained by means of logic and so science justifies neither position: belief or non-belief.
+1.7.3.1.2.1. Con: Science actually does justify non-belief \(which is different from disbelief\). In science, a claim is not accepted as true until it has been substantiated.
+1.7.4. Con: The multiverse is not falsifiable, testable or empirical. However it is considered by many to be a scientific possibility and is incorporated into some scientific theories. Therefore, one cannot conclude that the unfalsifiable, untestable and non-empirical proposition of a deity is unscientific, nor that science necessitates atheism by its process.
+1.8. Con: Scientific thought contradicts religious teachings about the nature of the cosmos.
+1.8.1. Con: This is only true when someone interprets religious teachings as if they were scientific theories.
+1.8.2. Con: We can have faith in God the creator and simultaneously accept that evolution and scientific findings are part of His plan.
+1.8.2.1. Con: -> See 1.3.3.3.
+1.8.2.2. Pro: To complete the implications of this claim, if there is no inherent conflict between the practice of science and the existence of a deity, then science neither supports nor refutes atheism. \(Or theism, for that matter.\)
+1.8.2.2.1. Con: -> See 1.1.4.5.1.6.1.
+1.8.3. Pro: The very basis of science is to question. These questions tend to pull apart all religious explanations pertaining to the nature of Nature and the fundamental workings of the viewable universe.
+1.8.4. Pro: Science is a tool for observing and measuring phenomena. The web of its observations and conclusions is so complex and covers so many parts of the known world that it naturally leads us to a Godless model of the reality. \(It does not mean it is ‘true’.\)
+1.8.5. Pro: Science disproves any literal interpretation of a religious creation story.
+1.8.5.1. Con: This only holds true under the assumption of atheism. A traditional creator deity could easily create a universe that appears to follow  material processes.
+1.8.5.1.1. Con: Atheism isn't an assumption - it is simply not taking the position that there is a God.
+1.8.5.2. Con: [Some views of the Genesis text](https://earlygenesistherevealedcosmology.blogspot.com/2017/11/my-twenty-five-theses-on-early-genesis.html) are very literal yet don't contradict scientific thought about the age of the earth, the lack of a global flood, or the antiquity of man.
+1.8.5.3. Con: Science can prove that Adam and Eve is a myth and that the Big Bang Theory likely existed.  However it has not proven, and is unlikely to prove, what occurred before the big bang.  Hence creation by God is a possibility.   Science may justify pragmatic agnosticism, but not atheism.
+1.8.5.3.1. Con: What has happened before the Big Bang is not to be "proven" but to be discovered using the methods we are yet to discover.
+1.8.5.3.2. Con: -> See 1.3.3.4.
+1.8.5.4. Pro: Evolution & creationism can't co-exist. There is science proving evolution. There is no science that supports creationism. This is enough science to rule out creationism therefore justifying atheism.
+1.8.5.5. Con: Theism is not, and has never been, dependent upon the literal correctness of religious creation stories. Young-earth creationism is largely an intellectual movement of the 20th century; earlier understandings of the universe accepted the idea of a very old universe. Atheist Michael Ruse does an excellent review of the truths and myths about creationism in his book "Can a Darwinian be a Christian?"
+1.8.5.5.1. Con: If theism does not depend on literal correctness, then there is no reason to say that theism is literally correct. This would mean that there is no reason to take any of what is claimed by theism to be true.
+1.8.5.5.2. Pro: Forster and Marston in their book "Reason and Faith", as early as 1989, pointed out that "No support can be found for the young-earth creationist approach in the early church, classical evangelicalism, or the roots of early fundamentalism."
+1.8.5.5.3. Pro: In his book Ruse points out that many of the most enthusiastic evolutionists in previous centuries were committed theists.
+1.8.6. Pro: Our universe is governed by observable laws of physics.
+1.8.6.1. Con: There may be laws of physics at work that may be undetectable.
+1.8.6.2. Con: This is not contrary with the existence of God.
+1.8.6.3. Con: As long as a deity's actions stayed within the laws of physics, how would we know whether it acted or not?
+1.8.6.3.1. Con: -> See 1.3.3.3.
+1.8.6.4. Con: A rational God would create a universe that is rational and could be understood by its inhabitants, and an all-powerful God would likely create a complex universe. Indeed, religion can be a motivator to further study the nature of creation and its complexity.
+1.8.7. Pro: -> See 1.1.4.5.1.2.1.
+1.8.8. Pro: -> See 1.1.4.5.1.3.2.1.3.1.1.
+1.8.9. Con: Many religious teachings fall outside the scope of what science can study. Some teach that "god" is beyond human understanding, and therefore would be impossible for science to disprove because humans will never understand.
+1.8.9.1. Con: It does not matter if a god's existence can be disproved. Until it has been determined that a god does exist, atheism is justified.
+1.8.9.1.1. Con: Generally, if there is a lack of measurable phenomena in science, there is a lack of understanding, and discernment to try to look into an event or experience because there is no measurable fields to study.
+1.8.9.1.2. Pro: -> See 1.1.4.5.1.2.1.
+1.8.10. Con: Existence of god is not necessarily dependent on any religion being true.
+1.8.10.1. Pro: Faith in God is very personal and intimate. No one knows the truth of, or in any religion. The only truth is what you believe.
+1.8.10.2. Con: The original topic does not discuss the necessary existence of a god, but the human non-belief in a god \(atheism\).
+1.9. Pro: The existence of God falls outside the domain of science.
+1.9.1. Pro: The purpose of the scientific method is to observe, model and predict events; any other use of science is a misuse of this tool.
+1.9.1.1. Con: The purpose of science is to explain nature. It's not a misuse of science to use the knowledge it provides to judge claims about the universe, such as whether God exists.
+1.9.1.1.1. Con: Scientific method can make no judgements regarding the existence of God.
+1.9.1.1.1.1. Pro: God is typically thought of as transcending natural world.
+1.9.1.1.1.2. Con: -> See 1.1.4.5.1.2.1.
+1.9.1.1.1.3. Con: The scientific method should never be limited on its inquiry.
+1.9.1.2. Con: At its core, science seeks to disprove hypotheses about the universe. Many religions make hypotheses about the universe. Using science in an attempt to disprove these claims is not a misuse of the tool. A test must attempt to disprove the [hypothesis](http://www.ucmp.berkeley.edu/people/jlipps/science.html) since proof in science cannot be attained. The more critical tests that an hypothesis passes, the more confidence we can have in it.
+1.9.1.2.1. Con: This is like saying that a person who has lost their keys at night can be confident that they are gone, because they searched thoroughly where the street light shines.
+1.9.1.2.2. Con: Religious worldviews can reasonably be tested by science. But metaphysical worldviews \(like belief in God\), that extend beyond the bounds of the universe, cannot be tested. Science's scope is therefore too limited to properly test the existence of God.
+1.9.1.2.2.1. Con: -> See 1.7.3.1.
+1.9.1.3. Pro: Science and faith, when they are positive and healthy, do two different things. Science explains the world and how it functions, and faith answers the more existential questions and helps provide meaning and hope.
+1.9.1.3.1. Pro: Science could be seen as justifying faith because it expands our view of the wonders of the universe \(or multiverse\). Just because we understand something does not make it less wonderful.
+1.9.1.3.1.1. Con: It is not possible that science is an expansion of faith when some of their theories directly [contradict](https://en.wikipedia.org/wiki/Creation%E2%80%93evolution_controversy) each other.
+1.9.1.3.2. Con: -> See 1.1.4.5.1.2.1.
+1.9.1.3.3. Con: Science also attempts to explain our world and thus deals with existential questions.
+1.9.1.3.3.1. Con: Existential questions are metaphysical. Science's scope is limited only to the physical so it cannot comment on existential questions.
+1.9.1.3.3.1.1. Con: -> See 1.7.3.1.
+1.9.1.3.4. Con: As a community [develops](http://journals.sagepub.com/doi/abs/10.1177/1069397111402465) more, religiosity tends to decrease. That is becasue the benefits that [religion](https://www.cbc.ca/news/world/do-countries-lose-religion-as-they-gain-wealth-1.1310451) provides \(hope, charity, guidance, rules, etc.\) are substituted for a stronger system \(legislation, law enforcement, income security, welfare provisions, counseling and medical attention, etc.\).
+1.9.1.4. Con: In the scientific method, there is no onus to prove the non-existence of something for which there is no evidence.
+1.9.1.4.1. Pro: One cannot prove there are no fairies living in the garden, but neither are they required to so in order to reject someone's suggestion that there are - there is no evidence for it, and that is enough. So it is with god. So in that respect, science justifies atheism.
+1.9.1.4.2. Con: We have the existence of the null hypothesis, and that is to say that some observation is the cause of some effect or not. The scientific method does have a way to prove that something is not true.
+1.9.1.5. Con: The existence of God entails phenomena which are observable and, if certain passages of the Bible are to be believed, predictable. And the fact is that many such phenomena are not observed or predicted.
+1.9.1.6. Pro: Science deals with the "Why?" and "How?", not "What?" or "Who?". Therefore, any higher being is not in itself part of scientific endeavour.
+1.9.1.7. Con: The purpose of the scientific method is not to observe, model and predict events. The scientific method is the use of experimentation and observation with the purpose of formulating, testing and modifying hypotheses. A hypothesis is simply a proposed explanation. Thus as atheism is at its basis a proposed explanation regarding the origins and nature of the universe, it is perfectly acceptable to use the scientific method and thus science as a justification for atheism.
+1.9.1.7.1. Con: Atheism is not a proposed explanation. Theism is a proposed explanation which is rejected by atheism.
+1.9.1.7.1.1. Pro: -> See 1.1.2.1.
+1.9.1.8. Pro: The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) - Observe, Model, Predict - is the best method we have to predict future observable events. Science is strictly limited in this way. Science cannot answer the question: "Is there a supernatural being \(or for that matter, even a natural universe\) outside of the observational universe?"
+1.9.1.8.1. Con: Since the scientific method cannot currently answer the question "is there a god" it justifies not taking the position that there is a god. Since atheism is not taking any position, positive or negative, about the existence of a god, it is justified by the scientific method.
+1.9.2. Pro: -> See 1.1.4.5.1.3.2.1.
+1.9.3. Pro: -> See 1.3.6.
+1.9.4. Pro: There can only be two explanations to how we are here. Either we arrived here as we are now or we evolved over time. Science cannot explain how matter was able to start self-replicating and neither can it explain how something non-living could turn into a living thing. Overall, believing in science requires just as much \(if not more\) faith.
+1.9.4.1. Con: It is better to not claim to have knowledge than it is to claim to have knowledge you do not have.
+1.9.5. Pro: Science is deliberately limited to studying the cosmos. Its scope cannot include metaphysical ideas like theism or atheism, which extend beyond the bounds of the cosmos. Therefore, at most science cannot comment one way or another and so would be categorised as agnostic.
+1.9.5.1. Con: -> See 1.7.3.1.
+1.10. Con: All belief systems \(theism, atheism, agnosticism, polytheism, etc.\) are all held without full proof, and as such fall under the the study of philosophy. Science and philosophy are completely different subjects. Science cannot deny or justify atheism, and it cannot deny or justify theism. Science can only refute based upon logic and facts. If you take philosophy in college, it is usually in a completely different building than the science courses.

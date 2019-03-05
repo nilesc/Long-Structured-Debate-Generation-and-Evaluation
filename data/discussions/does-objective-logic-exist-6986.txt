@@ -1,0 +1,53 @@
+Discussion Title: Does objective logic exist?
+
+1. There is no objective "logic", as every logical system is based on arbitrarily chosen axioms.
+1.1. Pro: Changes in axioms result in different logic.
+1.1.1. Con: That doesn't suggest that logic doesn't objectively exist, it only suggests that multiple forms of logic can exist independently.
+1.1.1.1. Pro: It may be impossible to find out which system our universe follows, but that wouldn't mean that system didn't exist, nor would the internal consistency of that system necessarily negate the internal consistency of other systems.
+1.1.1.2. Con: If logic can vary between different individuals \(who use different forms\), then it is subjective.
+1.1.2. Con: A change in axioms does not undermine the general logical system.
+1.1.2.1. Con: Actually change in the axioms changes the whole logical system which is based on these axioms. \(unless they are not axioms of that logical systems, but mere theorems\)
+1.1.3. Pro: Changing axioms can be the basis for new explanations. There is no indication as to which explanation is more "objective".
+1.1.3.1. Con: While changing axioms can disclose novel explanations, this does not make those explanations arbitrary. On the contrary, it is through changing axioms and assessing/comparing the utility of the explanations they disclose that more valid understandings of reality can be generated.
+1.1.4. Con: Changes in axioms doesn't result in different logic. Axioms are just starting points to a given logical reasoning. So changing [axioms](https://en.wikipedia.org/wiki/Axiom) only change the starting point, not the process itself.
+1.1.5. Con: Not all logics work with axioms, only formal logics do. So even if axiomatic systems were subjective, non-formal logic would not necessarily be subjective as well.
+1.1.5.1. Pro: For instance, Hegelian dialectic reasoning is not dependent on underlying logical axioms.
+1.2. Con: "There is no objective truth" is itself a truth claim.
+1.2.1. Con: There is no possible way to determine if anything is "objectively" true.
+1.2.2. Con: Indeed it is, but this does not pose any problem to the initial argument. Antinomies are an integral part of mathematics.
+1.2.2.1. Con: Mathematics only has restricted use in philosophy. [Gödels theorem](https://en.xn--pm8h.org/wiki/G%C3%B6del%27s_incompleteness_theorems) would also throw over mathematics.
+1.2.3. Con: According to the claim, the argument that a paradox is present cannot be objectively true.
+1.3. Pro: Every theory must start from a set of axioms, meaning axioms are by definition not proven.
+1.3.1. Con: Proof and objective reality are not identical. A statement could be objectively true while also being impossible to know or prove. This claim has no bearing on whether logic is objective - at best it would prove that the objectively correct logic is unknowable to us because it cannot be proven.
+1.3.1.1. Pro: Something can be true regardless of whether or not we, as humans know it to be true.
+1.3.1.1.1. Con: This assumes Realism, which is not a given.
+1.3.2. Pro: You can never prove an axiom. [An axiom or postulate is a statement that is taken to be true](https://en.wikipedia.org/wiki/Axiom).
+1.3.3. Con: Referring to the arbitrariness of axioms as proof for non-objectivity is missing the point, because logic is the process of deriving objective conclusions from a set of subjective axioms. Logic concedes right away, that axioms are subjective. The heuristic of drawing conclusions is claimed to be objective.
+1.3.4. Con: All axioms are based on deeply intuitive knowledge with which we all agree, even though we cannot prove it in the strict sense of the word.
+1.3.4.1. Con: It is likely that at least one person in the world disagrees with any given statement. One side of this debate disagrees with all axioms collectively.
+1.4. Pro: Each person chooses different axioms based on their experience or perspective.
+1.4.1. Con: Axioms are not "chosen by people". Axioms are what theoretical systems are built on.
+1.4.1.1. Pro: We do not choose arbitrarily to believe that ¬¬p--\>p, or at least it is not our arbitrary choice which makes it true.
+1.4.2. Con: Axioms are not picked arbitrarily but because of their explanatory power.
+1.4.2.1. Con: "Explanatory power" is itself a subjective notion, tied to human feelings about what counts as a good explanation which vary with time, location, and culture.
+1.5. Pro: Logic is the coexistence of more that two axioms.
+1.6. Con: Axioms are not arbitrarily chosen.
+1.6.1. Pro: The law of noncontradiction is not arbitrary. Contradictions are incoherent. It is not possible for something to both be the case and not be the case at once. It is not even possible to entertain a contradiction as it doesn’t internally make sense as an idea.
+1.6.2. Pro: We may choose axioms that have application in the real world. The real world is objective as it's independent from the human thought process. This way we include objectivity in our thought process.
+1.6.2.1. Pro: Theoretical physics and scientific method show that logic performed on a set of axioms may produce results that are consistent and produce testable and tangible results.
+1.6.2.2. Pro: We may choose axioms that better reflect reality. This was the case with [Banach-Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox), where a stricter axiomatic system solved the paradox.
+1.6.2.3. Con: Logic made this way will never be fully objective.
+1.7. Con: If there is no objective logic then there is no "truth" as such.
+1.7.1. Con: There are ways to define truth other than conformity with logic.
+1.7.2. Con: This claim points out that should objective logic not exist, there would be an unpleasant consequence - that no "truth" would exist either. But just because there is an unpleasant consequence does not mean that the antecedent is false. It could well be that there is no objective logic and there is also no objective "truth".
+1.8. Con: Our senses provide us with objective evidence.
+1.8.1. Con: The notion of "objectivity" is subjective.
+1.8.1.1. Con: Objective can mean based on scientifically proven facts, which is not a subjective process.
+1.8.2. Con: Our senses give us aposteriori truths, rather than apriori logic. It is two different types of knowledge.
+1.8.3. Con: Logic is not built on the evidence of the senses, so that whether the senses provide us with objective information is not relevant to the objectivity of logic.
+1.8.4. Con: [Descartes' Evil Demon thought experiment](https://en.wikipedia.org/wiki/Evil_demon), theorizing that an omnipotent liar could be deceiving one of any truth, creates a minimum uncertainty for all observations, because it cannot be disproven.
+1.8.5. Con: Senses are deeply subjective. Every person senses the cosmos in a different way.
+1.8.5.1. Con: Bayes Theorem provides a means of weighing evidence that while not absolute is mathematically the best way to assess evidence.
+1.8.5.2. Con: All evidence is ultimately weighed by our thoughts and senses. While we cannot reasonably justify our trust in our thoughts and senses we also don't have a choice since reasoning against that trust would require that we trust our reasoning.
+1.8.6. Pro: Whilst relying on the senses of an individual may not be enough, the fact that most individuals would see the color "red" as "red", barring any ailments, means that senses do provide us with a sense of objective reality.
+1.9. Con: -> See 1.3.3.

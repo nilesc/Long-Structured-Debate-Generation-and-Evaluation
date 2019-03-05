@@ -1,0 +1,69 @@
+Discussion Title: Except for those in absolute poverty, everyone should tithe.
+
+1. Except for those in absolute poverty, everyone should tithe \(choose to give a tenth of income to charity\).
+1.1. Con: Charity often endorses inequality instead of fixing its roots.
+1.1.1. Con: [Research](https://www.sciencedirect.com/science/article/pii/S0305750X16301115) suggests that income inequality may trigger human empathy and thus it is positively associated with the probability to actively participate in charitable organizations.
+1.1.2. Pro: [Charity](https://www.irishtimes.com/opinion/charity-no-substitute-for-action-on-inequality-1.556405) validates injustices and it is not an effective response to economic inequality.
+1.1.3. Pro: Charity is subjective and creates categories: those deserving of it and those who do not.
+1.1.4. Pro: Some charities give to those in need but do [very little](https://www.philanthropy.com/article/Fighting-Income-Inequality/153773) in fighting for policy changes like increased minimum wages or other welfare policies.
+1.2. Con: The person who earns money should have the right to choose what to do with it.
+1.2.1. Con: This 'con' assumes that the only way to exercise your right to choose is to refrain from giving. This is disproven by all of the free giving already being done.
+1.2.2. Con: Individualism is the key for collective unhappiness.
+1.3. Pro: Giving is good for the giver.
+1.3.1. Pro: According to research, donating activates the pleasure centers in the [brain](https://www.thelifeyoucansave.org/blog/id/200/9-positive-effects-of-donating-money-to-charity).
+1.4. Con: There should be a sliding scale
+1.4.1. Pro: For those with low income, even though not in absolute poverty, giving away 10% of their income is tough.
+1.4.2. Con: The scale would end up making a lot of people not giving anything to charity.
+1.5. Pro: Inequality is bad for society.
+1.5.1. Pro: Income inequality makes people [unhappy](https://hbr.org/2016/01/income-inequality-makes-whole-countries-less-happy).
+1.5.1.1. Con: The [source](https://hbr.org/2016/01/income-inequality-makes-whole-countries-less-happy) presents correlations, but fails to establish causation. Life-satisfaction is generally lower in countries with high income inequality, but the U.S. are on par with Sweden in that measure. Italy, France, Spain and Mauritius are worse off than the U.S. in all three measurements. This suggests that it is not about income inequality per se; Colombia and South Africa significantly drag down life satisfaction on the unequal side.
+1.5.1.1.1. Con: [Research](https://www3.nd.edu/~adutt/activities/documents/GrahamInequalityAndHappiness2.pdf) In Latin American establishes that "inequality has significant effects on well being", so those with more income report being 5% happier than the average and those in the lowest end of income report being 3% less happy.
+1.5.1.1.1.1. Con: While the study shows that people with high income are happier than those with low income, it does not support the initial claim that "inequality makes people unhappy", because there is no claim about how equality would affect overall happiness.
+1.5.1.2. Pro: Welfare, or protection for the worst-off, is what every rational person would want if their social station is not known in advance.
+1.5.1.3. Pro: The 2017 UN [World Happiness Report](https://en.wikipedia.org/wiki/World_Happiness_Report) lists the happiest countries in the world as Norway, Denmark and Iceland. All three countries have very large and expansive welfare states, as do the other 7 countries in the top 10.
+1.5.1.3.1. Con: There are many factors that influence on this ranking, we can't just think these countries owe their happiness to welfare states. On the same ranking you can see how dimensions such as trust, freedom to make choices, generosity and healthy life expectancy have an impact on this. You can also see that many countries with high social support are not well positioned on the list.
+1.5.1.3.2. Con: This implies that happiness trumps the morality of not stealing since welfare systems are generally supported by taxes.
+1.5.1.3.2.1. Pro: Taxation is coercive and theft. No one should have their ius naturale to property violated; whatever the goal is. Charity must be voluntary.
+1.5.1.3.2.1.1. Pro: Taxation is theft because it involves the appropriation of a citizen's wealth and prevents them from using their wealth as they freely choose.
+1.5.1.3.2.1.1.1. Con: Taxation is payment for society as a service, it is not appropriation.
+1.5.1.3.2.1.1.2. Con: Hidden in this argument is the premise that a private individual can make judicious use of all the technological advances and infrastructure and human connections made available through a society believing in social investment, and derive from these a pre-tax profit that solely belongs to them despite the severe dependencies on socialized institutions. It is common convention to believe this, even amongst those who don't believe taxation is theft, but it is fallacious.
+1.5.1.3.2.1.2. Con: The individual is not duty bound to acquire wealth by the state, so the payment of tax is only in response to a freely made decision to attempt to do so and therefore cannot be considered theft.
+1.5.1.3.2.1.3. Con: If people want to live in a state, they consent to the rules and regulations. Tax rules are part of this and cannot be divorced. If someone does not want to pay taxes, they should move somewhere else and not avail of any services, like roads, hospitals, etc.
+1.5.1.3.2.1.3.1. Con: There is no such place and you cannot steal people just because they were born in "your" land.
+1.5.1.3.2.1.3.2. Con: Taxes and welfare state are not needed to build roads or provide health care. You did not provide an argument.
+1.5.1.3.2.1.4. Pro: The welfarestate is financed with taxes, which is money taken from the people under threat of violence or imprisonment.
+1.5.1.3.2.1.4.1. Con: The state having 'the monopoly of the legitimate use of [violence](https://en.wikipedia.org/wiki/Monopoly_on_violence)' is a core concept of public law that applies to most, if not all, countries. Through legitimization, the state ensures that it can use violence when necessary to guarantee social peace and to prevent crime.
+1.5.1.3.2.1.4.1.1. Pro: Without coercive measure like prison or economic fines, and without the legitimate use of force, a state is not able to uphold the rule of law.
+1.5.1.3.2.1.4.2. Con: -> See 1.5.1.3.2.1.3.
+1.5.1.3.2.1.5. Con: Paying money for a welfare state is the price of living in a society.
+1.5.1.3.2.1.5.1. Con: Many people have lived in many societies that do not pay money for a welfare state.
+1.5.1.3.2.1.5.1.1. Con: The majority of modern societies that have no social expenditures are undesirable places to live at best. Whereas the [wealthiest](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_\(PPP\)_per_capita) and [happiest](https://en.wikipedia.org/wiki/World_Happiness_Report#International_rankings) countries tend to have [robust social expenditures](http://stats.oecd.org/Index.aspx?datasetcode=SOCX_AGG) and/or [sovereign funds that provide a basic income](https://www.swfinstitute.org/sovereign-wealth-fund-rankings/).
+1.5.1.3.2.1.5.2. Con: Paying money for a welfare state is the price of assuaging ones conscience while accomplishing little to nothing of actual charitable value
+1.5.1.3.2.1.6. Con: There has never been a successful human society where there has been no sharing of resources. In traditional hunter-gatherer societies, refusing to share the rewards of your foraging or hunting is considered anathema. [For example](https://www.theguardian.com/inequality/2017/oct/29/why-bushman-banter-was-crucial-to-hunter-gatherers-evolutionary-success), the Ju/’hoansi of the Kalahari desert are fiercely egalitarian.
+1.5.1.4. Pro: Inequality is bad for everyone.
+1.5.1.4.1. Con: Inequality, by its very definition, is not bad for everyone. Equality of outcome, however, is \(due to scarcity\), equally bad for everyone.
+1.5.1.5. Con: There are many theoretical models regarding happiness, like [PERMA](https://positivepsychologyprogram.com/perma-model/), psychological [well-being](https://www.psychologytoday.com/blog/making-change/201001/the-big-three-the-foundation-lasting-happiness) and self-esteem, the [Ryff Scales](http://www.liberalarts.wabash.edu/ryff-scales/) or [self-determination theory](http://psych415.class.uic.edu/Readings/Ryan,%20Happiness%20-%20well%20being,%20AnnRevPsy,%202001.pdf), none of these models include income as a significant variable for predicting happiness.
+1.5.1.5.1. Con: If lack of income is likely to make basic needs not covered, and failing to meet [basic needs](https://www.psychologytoday.com/blog/making-change/201001/the-big-three-the-foundation-lasting-happiness) can lead to “neglecting health care and experiencing a sense of helplessness in life” therefore there is a meaningful connection between income \(at least, at the lower end\) and happiness.
+1.5.1.5.2. Con: Self-determination theory and other [research](http://psych415.class.uic.edu/Readings/Ryan,%20Happiness%20-%20well%20being,%20AnnRevPsy,%202001.pdf) around happiness also concludes that in poorer nations, "the value of money for satisfying needs may be more critical" than in a "nation where most citizens have access to some basic resources for pursuing their goals".
+1.5.1.5.2.1. Pro: The same [authors](http://psych415.class.uic.edu/Readings/Ryan,%20Happiness%20-%20well%20being,%20AnnRevPsy,%202001.pdf) also point to different values to achieve happiness, yet once "a person is beyond poverty level \(and thus has sustenance and security\)".
+1.5.1.6. Con: [Research](https://www.psychologytoday.com/blog/making-change/201001/the-big-three-the-foundation-lasting-happiness) also points that lasting happiness is more difficult if basic needs are not satisfied, thus it is not income inequality what causes unhappiness, but not being able to cover basic needs.
+1.5.1.6.1. Con: -> See 1.5.1.5.1.
+1.5.1.7. Pro: -> See 1.5.1.1.1.
+1.5.2. Pro: [Research](http://ftp.iza.org/dp1450.pdf) on inequality and development support that for a democracy to be able to sustain the rule of law and avoid conflict, inequality in resource endowments and income needs to be sufficiently low.
+1.5.2.1. Pro: On the other hand, strong economic inequality can only sustain the social contract under an oligarchic ruling system.
+1.6. Pro: It is helpful for a social contract to be somewhat explicit.
+1.7. Con: Taxation should replace individual charity.
+1.7.1. Con: Taxation does not give the community the opportunity to decide what causes their income goes to.
+1.7.1.1. Con: -> See discussion #8148: Those who pay tax should be able to earmark some portion of their personal tax contribution to their choice of projects, departments, and other government expenditures.
+1.7.2. Con: Individuals being able to choose which causes their income will go to, will increase the acceptance of "donating".
+1.7.3. Pro: Many people give to causes they like, not causes that are most urgent or deserving.
+1.7.3.1. Pro: Well media-covered disasters get more donations than disasters that aren't covered or that we already have gotten used to.
+1.7.3.2. Pro: In the UK, for example, animal welfare gets about as many [donations](http://www.npt-uk.org/philanthropic-resources/uk-charitable-giving-statistics) as donations towards young children.
+1.7.3.3. Pro: Charity can discriminate due to the beliefs of the charity in question. For example a religious charity may not help LGBT people in the same way it helps heterosexuals, or may not wish to help people of other faiths.
+1.7.4. Con: Taxation and charity can and indeed do co-exist.
+1.7.4.1. Pro: In fact, [research](https://www.sciencedirect.com/science/article/pii/S0305750X16301115) shows that the welfare state does not crowd out the participation in charitable organizations.
+1.8. Con: Rich people would just get around it by donating to their fraternities.
+1.8.1. Con: Rich people may often get away with what they want. That does not mean that if a policy is overall good, it should be stopped by limited dubious outcomes.
+1.9. Con: Some times of the life cycle are more appropriate for giving than others.
+1.9.1. Con: 10% of one's income does not represent much and thus can probably be achieved by anyone.
+1.10. Pro: Having a clear target percentage prevents decision paralysis.

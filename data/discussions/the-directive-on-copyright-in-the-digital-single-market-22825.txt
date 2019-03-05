@@ -1,0 +1,23 @@
+Discussion Title: The Directive on Copyright in the Digital Single Market
+
+1. Is the European Parliament correct in adopting the draft proposal for the Directive on Copyright in the Digital Single Market?
+1.1. Con: The directive creates enormous confusion and uncertainty in areas where clear laws and regulations are paramount.
+1.1.1. Pro: The United Nations special rapporteur for freedom of speech and expression [criticized](https://www.ohchr.org/Documents/Issues/Opinion/Legislation/OL-OTH-41-2018.pdf) the directive for confusing language. It possibly violates the idea that restrictions on the freedom of speech should be clearly stipulated as required by the International Covenant on Civil and Political Rights
+1.2. Con: It does not solve data issues, while it reinforces business power.
+1.2.1. Con: It gives big businesses less power, since it mandates a dispute system subject to human review for copyright claims.
+1.2.2. Con: It does solve real data issues. Small content creators often don't have the resources to protect their IP. Article 13 requires service providers to help them proactively.
+1.3. Pro: Press publications will be able to demand compensation when they are cited by information society service providers.
+1.3.1. Con: This "link-tax" would reduce traffic to press publications, since service providers would fear having to pay compensation for linking to them.
+1.3.1.1. Con: The directive explicitly does not apply to hyperlinks.
+1.3.1.2. Pro: When a similar law was introduced in Spain, it had exactly [this effect](https://www.linkedin.com/pulse/link-tax-experiences-germany-spain-article-11-ec-proposal-tani). As a result, traffic to small and medium sized press publications was reduced by between 6% and 14%.
+1.4. Pro: Thanks to article 13 copyright holders can hold platforms liable when they enable entities to violate their copyrights.
+1.4.1. Pro: The directive makes platforms liable for the content their users publish, unless the platforms have acted in good faith or have negotiated otherwise with right holders.
+1.4.2. Con: Holding platforms liable for the content of their users incentives the platforms to not allow user submissions.
+1.4.2.1. Con: Platforms are not held liable for the violating submissions of their users when they have either made licensing agreements with the relevant right-holders, or otherwise acted in good faith.
+1.4.2.2. Con: The platform can add a liability clause to their terms of services that makes the violator liable for any damages incurred to the platform due to the violator's submissions.
+1.4.2.2.1. Con: The violator may not always have enough resources to pay off all damages. This would still leave the platform to cough up the remaining costs.
+1.4.3. Con: This will incentivize platforms to automatically filter out any possible copyright violating submissions. Since software cannot detect legal uses of copyrighted materials, a lot of legitimate content will be censored.
+1.4.3.1. Pro: For example, algorithms can hardly differentiate between the unauthorized use of copyrighted materials and the legal use for the purposes such as satire.
+1.4.3.2. Con: The directive explicitly prohibits filtering out legitimate uses of copyrighted material.
+1.4.3.3. Con: The use of automated censoring is discouraged by the directive.
+1.4.3.3.1. Con: While it may be discouraged on paper, it may be necessary for practical purposes, regardless of what the directive's authors had in mind.

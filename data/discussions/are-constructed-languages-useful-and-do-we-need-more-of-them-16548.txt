@@ -1,0 +1,43 @@
+Discussion Title: Are constructed languages useful and do we need more of them?
+
+1. Are constructed languages useful and do we need more of them?
+1.1. Pro: All languages of the world are in fact constructed languages. And we need more of them because of the developing technology. Someday we need to discuss with the robots using some artificial language.
+1.1.1. Con: We only need to extend the vocabulary of our current languages in order to be able to talk about new technologies. There is no need to build a new language from ground zero.
+1.1.1.1. Pro: [Contemporary Latin](https://en.wikipedia.org/wiki/Contemporary_Latin#On_the_Internet) is spoken on mailing lists, Latin Wikipedia, and other media.
+1.1.2. Con: Robots are learning our existing languages, so we don't need to learn their artificial languages.
+1.1.3. Pro: Of course one can say to a robot: Turn your head 180 degrees but I am longing for a more precise language like: Read Robot 1, variable up1 180 degrees and wait. I would not use such a words like: Head but I would use artificial variable names instead because I am afraid of the robot making misunderstanding.
+1.2. Pro: [Programming languages](https://en.wikipedia.org/wiki/Programming_language?wprov=sfla1) are useful constructed languages.
+1.3. Pro: Even though implementation is unlikely, design a language could be un good creative exercise: to understand different mechanics of language and perspectives
+1.3.1. Pro: Even if an artificial language were to complicated or irregular to learn, it might reveal facts about how we construct language that would otherwise have remained unknown.
+1.3.1.1. Pro: Even junk DNA like data can perhaps somehow turn to be a source to at least to our inspiration.
+1.4. Con: There are enough languages in the world and many of them are even dying or vanishing. There is no need for any more languages.
+1.4.1. Pro: It makes no sense to abandon a century or millennia old language spoken by large amounts of people and used in large amount of books, in favor of a new language spoken by a minority.
+1.4.1.1. Con: A new language doesn't necessarily replace the old; it's imaginable people would speak different languages in different contexts.
+1.4.2. Pro: An already established and popular language that everybody studies or learns is a better tool to bridge communication than a new constructed language.
+1.4.3. Con: Changes in languages \(creation or extinction\) are inevitable and happen naturally, so it's possible that the languages that we know today might be completely different in 50 years.
+1.5. Pro: Language construction boosts the understanding of linguistic structures by the people practicing it, thus increasing overall literacy.
+1.6. Con: It takes too much time to learn any language. And to learn a constructed language it takes even more time. A far too long time? And all that time is wasted which is used for learning a constructed language.
+1.6.1. Con: On the contrary, many [auxiliary languages](http://interlanguages.net/sapir.html) are constructed with the simplicity of learning in mind. They lack exceptions in grammar and have more logical structure.
+1.6.2. Pro: Translation apps help those who want to communicate and don't speak the same language easier than a newly constructed language.
+1.6.2.1. Pro: Google Translate is used by about [200mn people](https://www.cnet.com/news/google-translate-now-serves-200-million-people-daily/) per day.
+1.6.2.1.1. Con: Google translations are often [sexist](https://mashable.com/2017/11/30/google-translate-sexism/?europe=true#Y1Ny611RPsqP).
+1.6.2.2. Pro: Voice translators, such as this [one](https://www.freetranslations.org/voice-translator.html), allows to speak into a phone and the app/site translates it instantly.
+1.6.2.2.1. Con: Voice translators and other machine translation apps have their limitations. They cannot interpret pragmatic meaning behind an utterance. Eg. If somebody states 'It's hot in here', they may not be stating a declarative fact but making a request to open a window. Also, some languages like Spanish are more direct than others like English and use more imperatives. What is acceptable to say in Spanish may be impolite in English. Common machine translation apps cannot differentiate this.
+1.6.2.3. Con: Translation apps only work as long as there is an internet connection.
+1.7. Pro: It would be nice to be part of a team that is creating a new language. Much can be learned and time used for creating a new language will be worthful.
+1.7.1. Con: There is no use for a language that only a small team can speak.
+1.8. Pro: Even such a notable language than SANSKRIT may be put toghether artificially. For the word SANSKRIT in one sense may mean: constructed or put together. [Sanskrit - Wikipedia](https://en.wikipedia.org/wiki/Sanskrit)
+1.8.1. Con: The use of [sanskrit is declining](https://www.quora.com/What-are-the-reasons-that-caused-the-decline-of-Sanskrit-as-a-language). So this constructed language is a failure.
+1.9. Pro: What would science for instance mathematics be without their notation languages? All notation languages are some kind of constructed languages? [Notation language - Wikipedia](https://en.wikipedia.org/wiki/Notation)
+1.10. Con: The constructed language may in some point of view be dangerous for the way that our brains function. Those languages that nowadays exists are all perfect for our brains but any new artificial language may cause some kind of difficulties.
+1.10.1. Con: The languages have been evolving throughout the whole history of humanity, and are evolving right now. Even the mean speed of language evolution may be measured. Thus, there is no perfect language.
+1.10.2. Con: All languages are a social construction.
+1.10.2.1. Con: [Chomsky has argued](https://www.medicaldaily.com/noam-chomskys-theory-universal-grammar-right-its-hardwired-our-brains-364236) that we are all born with an innate knowledge of grammar that serves as the basis for all language acquisition.
+1.11. Con: It is impossible to create a new artificial language. There is a great list of those who have tried but without any significant success. Those attemps made after year 1990 shows how impossible it is. [A list of constructed languages - Wikipedia](https://en.wikipedia.org/wiki/List_of_constructed_languages)
+1.11.1. Con: It is perfectly possible to create an artificial language. The problem is that most people do not see the need to learn it and use it, even though it would simplify international communication.
+1.11.2. Con: Klingon is a functional language one [can learn](https://en.wikipedia.org/wiki/Klingon_language#Language_learning_applications) on Duolingo as well as the Klingon Language Institute.
+1.11.3. Con: Many twins develop a common language only they understand and use. This is called [cryptophasia](https://en.wikipedia.org/wiki/Cryptophasia).
+1.11.4. Pro: I have seen some books that have got words after words without precise grammar. Why could not they create a new language if they just forget and abandon the grammar when they create a brand new language. But with a loaned grammar they won't get very far in their intentions. That is my opinion only.
+1.11.4.1. Con: You seem to have been not well enough informed. See e.g. [this](http://chrome-extension://nacjakoppgmdcpemlfnfegmlhipddanj/http://www.tolkien.ro/docs/Quenya-Elvish-Language-Course-Tolkien.pdf).
+1.11.5. Con: [Dothraki](https://www.dothraki.org/) was created by a professional linguist and is a functional language with unique grammar.
+1.11.6. Con: Only a small fraction of today's constructed languages is aimed to have any kind of utilitarian purpose. By far most of the constructed languages are created to satisfy the artistic taste of the author.

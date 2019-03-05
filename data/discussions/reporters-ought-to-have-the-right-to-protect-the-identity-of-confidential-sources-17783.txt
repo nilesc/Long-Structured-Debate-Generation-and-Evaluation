@@ -1,0 +1,38 @@
+Discussion Title: Reporters ought to have the right to protect the identity of confidential sources.
+
+1. Reporters have the right to protect the identity of confidential sources.
+1.1. Con: If a reporter witnessed criminal activity they have the same obligation as every other citizens to provide a testimony.
+1.1.1. Pro: This otherwise becomes an abortion of our criminal justice system; the arbitrary right to anonymity for reporters' sources - and reporting not always a particularly reputable pastime in the first place - means that people start to mistrust these types of systems.
+1.2. Con: The identity of a source may be necessary to validate their information.
+1.2.1. Con: If a reporter has a good background and reputation, it may be more feasible to withhold the sources, as they can be trusted to have validated the source themselves.
+1.2.1.1. Con: This creates a subjective double-standard as reporters vie to be considered 'trustworthy enough'.
+1.2.2. Pro: Issues arise between the trust of the reader and the reporter when things aren't certainly true. [\(Source\)](https://www.voanews.com/a/journalists-use-anonymous-sources/3738986.html)
+1.3. Pro: A source's privacy needs to be respected.
+1.3.1. Pro: You are under scrutiny when you make a statement, therefore accusatory critics will respond angrily to news they detest.
+1.3.2. Con: If a source is at risk, it is not fair to place the onus of responsibility on a reporter for their safety; the source should remain silent if they are unduly concerned.
+1.3.3. Pro: If we wish to continue with a free press, sources must have the assurance that their physical and mental wellbeing will be adequately safeguarded.
+1.4. Pro: Sources typically have good motivations and are not meant to be used to falsify information.
+1.4.1. Pro: "Sources can have a wide variety of motivations — wanting to expose activities they believe are illegal or immoral, being concerned about the public's right to know..." [\(Source\)](https://www.voanews.com/a/journalists-use-anonymous-sources/3738986.html)
+1.4.2. Con: Although there are some confidential sources that use their anonymity to their own, unconscionable welfare.
+1.4.2.1. Con: The [SPJ](https://www.spj.org/ethics-papers-anonymity.asp) suggests for journalists to double-check the reason by which their source is giving it to them and why they want confidentiality, so that it is not to boost their own position by undermining someone else’s, to even the score with a rival, to attack an opponent or to push a personal agenda.
+1.4.3. Con: This is highly debatable.
+1.5. Con: You can’t trust a source who doesn’t trust you.
+1.6. Pro: More people will have the courage to anonymously share what they know about a certain subject.
+1.6.1. Pro: The ability to share confidential information without revealing the source is a vital tenet of all reporting, and it couldn't survive long without it.
+1.6.2. Con: It may require more courage to give a statement without the protection of anonymity, but makes a far more powerful statement.
+1.7. Pro: It is very important for the credibility of a reporter.
+1.7.1. Pro: If sources know they can trust the reporter to keep their identity safe, it improves the reporter's reputation.
+1.7.2. Pro: If reporters use high-quality anonymous sources, the standard and exclusivity of their work goes up.
+1.8. Con: There are dangers in granting confidential treatment.
+1.8.1. Con: This doesn't compare to the dangers of waiving anonymity; people can be targeted and hurt if they speak out.
+1.8.2. Pro: "Few ethical issues in journalism are more entangled with the law than the use of anonymous sources. Keep your promise not to identify a source of information, and it's possible to find yourself facing a grand jury, a judge and a jail cell. On the other hand, break your promise of confidentiality to that source and it's just possible you might find yourself on the receiving end of a lawsuit." [\(Source\)](https://www.spj.org/ethics-papers-anonymity.asp)
+1.8.2.1. Pro: U.S. courts have jailed journalists for not revealing their sources in certain criminal cases.
+1.8.2.2. Pro: The U.S. Supreme Court has also ruled that a source whose identity was revealed despite a promise of confidentiality may sue for damages.
+1.9. Pro: The law historically recognizes that confidential sources are crucial to the democratic function of a free press.
+1.9.1. Pro: Very little vital reporting throughout the past thirty to forty years has been submitted without use of confidential sources, especially in the national security area. [\(Source\)](https://www.pbs.org/wgbh/pages/frontline/newswar/tags/confidentialsources.html)
+1.9.1.1. Pro: "What we know about the last five, six, seven presidencies, we know through the use of confidential sources. If we had relied on the information from this president, from this secretary of state, from this secretary of defense, from this vice president, we would know almost nothing of the truth of the Iraq War." [\(Source\)](https://www.pbs.org/wgbh/pages/frontline/newswar/tags/confidentialsources.html)
+1.9.2. Pro: More than half the stories on network newscasts contained anonymous attribution. \(Source - paper written by K. Tim Wulfemeyer\)
+1.9.3. Pro: Watergate’s “Deep Throat,” is an FBI source who helped The Washington Post unravel the White House cover-up of the Watergate break-in. This is arguably the most famous case at which confidential sources were utilized. [\(Source\)](https://www.spj.org/ethics-papers-anonymity.asp)
+1.9.4. Con: There have been plenty of falsified scandals that abuse confidentiality and as such cause doubt whenever reporters use them.
+1.9.4.1. Con: Proper use of confidential sources will protect journalists against the errors of recent scandals and protect news organizations against the use of bogus sources by fraudulent journalists. [\(Source\)](https://stevebuttry.wordpress.com/2013/12/19/a-2005-handout-on-confidential-sources-you-can-quote-me-on-that/)
+1.9.5. Pro: -> See 1.3.3.

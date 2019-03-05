@@ -1,0 +1,30 @@
+Discussion Title: Should Bitcoin Be Adopted As Legal Tender Worldwide?
+
+1. Bitcoin should be adopted as legal tender worldwide.
+1.1. Pro: People should be allowed to use as currency anything they like, including Bitcoin.
+1.2. Pro: Cryptocurrencies offer significantly more value than fiat currencies due to their greater security, privacy, and portability.
+1.3. Con: Bitcoin really doesn't have a standard value. Unlike FIAT currencies, the value of BTC has fluctuated wildly and violently, so much so that many stores and markets will not accept BTC as a form of payment. The bottom line is that BTC is too volatile to be accepted as legal tender.
+1.4. Pro: FIAT currencies owned and regulated by banking groups have too much power.
+1.4.1. Con: Fiat currencies have public oversight. The Fed, for example, is ultimately controlled by the US Congress and it's chairman is appointed by the US President.
+1.4.2. Con: With Bitcoin, the power instead rests with the biggest holders of the currency, which would just be speculators and commercial crypto miners who would be unaccountable.
+1.4.3. Pro: Due to it not being centralised it makes it impossible to become corrupt as most central banks are. It puts power in the people's hands.
+1.5. Con: It's new, scary and barely understood.
+1.5.1. Con: Fiat money is old, scary, and barely understood. So switching changes essentially nothing.
+1.5.1.1. Con: Except that China seems to own most of the \(known about\) coins, so by adopting it worldwide, we're automatically giving China the majority of earth's wealth on a plate.
+1.5.2. Pro: Nobody has any idea who owns most of them, and whom we're feeding power to.
+1.6. Pro: If bitcoin is adopted as a legal tender, all the other cryptocurrencies \(ex. ethereum, iotacoin etc...\) would make their best to enter the Cryptocurrency masterrace, creating competition, which would improve the economy.
+1.7. Con: The division in this argument alone serves as a rationale for why bitcoin should not be a global legal tender: because not everyone is willing to accept it. So it's not whether if it should, but whether if it even can.
+1.8. Pro: Unlike money which can be printed infinitely and therefore inflate out of control; BTC is finite and progressively harder to create.
+1.8.1. Con: It's true that irresponsible central banks can inflate fiat money and BTC is not prone to that kind of inflation. But it seems very easy for it to see deflation. And that's probably worse.
+1.8.2. Con: BTCs are still getting created, which means they will still suffer from as much inflation as any other currency for the next 20 years.
+1.9. Con: If everyone adopts it as primary currency, and something goes wrong, it will crash the entire planet's economy.
+1.10. Con: Bitcoins are produced with too much energy.
+1.10.1. Con: Nobody is being forced to produce bitcoins. If it's too expensive, then they won't do it.
+1.10.1.1. Con: The environmental cost of producing bitcoins is an externality not necessarily borne by the miner.
+1.11. Con: This would prevent central control of the monetary system. Lack of monetary policy exposes economies to the unmitigated risk of economic pathologies.
+1.11.1. Pro: Without centrally controlled monetary policy, inflation and deflation will occur and nothing can stop or control it.
+1.11.2. Pro: Without centrally controlled monetary policy, recessions and depressions will occur and nothing can stop or control them.
+1.11.3. Pro: The concept of a bitcoin [bank](https://bitcoincryptobank.com/) engaged in fractional reserve banking and/or investments seems to present some fundamental problems.
+1.11.3.1. Pro: It can't be regulated, because that would defeat the purpose. Which means that bitbanks will engage in unregulated fractional reserve banking and/or investment.
+1.11.3.1.1. Pro: Historically speaking, bankers absolutely will not self-regulate. They will take bigger and bigger risks until the bank fails and everyone loses their money. The same is likely with every bitbank.
+1.11.4. Con: It's significantly faster than FIAT money transfers, and the blockchain acts as a register of infinite size to record who sent what where and when.

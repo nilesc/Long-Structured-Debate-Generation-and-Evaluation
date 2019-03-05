@@ -1,0 +1,127 @@
+Discussion Title: Is Lab-Grown Meat a suitable replacement for Factory Farming?
+
+1. Lab-Grown Meat is a suitable replacement for Factory Farming.
+1.1. Pro: Lab-grown meat is futuristic, more suitable for the 21st century than conventional farming.
+1.1.1. Pro: It is portable, giving people an option to grow meat in space, especially when people start colonizing it \(like with Mars\).
+1.1.2. Pro: It brings an [educational opportunity](https://www.ted.com/talks/andras_forgacs_leather_and_meat_without_killing_animals) to learning about how food is grown, as conventional meat production makes that more difficult.
+1.1.2.1. Con: Visiting a traditional slaughterhouse for an educational tour is just as possible as visiting a meat-growing laboratory.
+1.1.3. Pro: Perfecting the production process for making lab-grown meat will pave the way for lab-growing other foods, like crops and fungi.
+1.1.3.1. Pro: These would be healthier, more [eco-friendly](https://www.digitaltrends.com/cool-tech/3d-food-printers-how-they-could-change-what-you-eat/), [tastier, and more enjoyable \(due to printing different shapes\)](https://3dprinting.com/food/), just like lab-grown meat.
+1.1.3.2. Pro: 3D printing seaweed has medical applications, such as [repairing bone](https://www.youtube.com/watch?v=Eyidp5iaE18).
+1.1.3.3. Con: The fungal origins of quorn - a popular meat substitute - make some people [uneasy](https://www.theguardian.com/theguardian/2002/sep/05/features11.g21) about consuming it. The knowledge of how lab-grown meat is produced may also disgust some people.
+1.1.3.3.1. Con: Tastes vary. If someone finds lab-grown meat disgusting, maybe they will like quorn instead. Lab-grown meat increases the number of meat substitutes to choose from, so more people will find something they are not disgusted by.
+1.1.3.3.1.1. Con: No matter how many substitute options are available, they are still only substitutes, which might be enough to deter some meatlovers.
+1.1.3.3.2. Con: The way the meat is industrially produced today is arguably by far more disgusting from both subjective as well as sanitarian point of view.
+1.1.4. Con: The futuristic nature of something is not an argument for its suitability.
+1.2. Con: There are other alternatives which can replace factory farming and render lab-grown meat not as worthwhile of a focus.
+1.2.1. Pro: Perhaps the best alternative to factory farming and feed lots is grass fed beef and free range chickens. Cattle are best adapted to graze and corn and other feeds used to fatten them up are not good for them or for us. [mayoclinic.org](https://www.mayoclinic.org/diseases-conditions/heart-disease/expert-answers/grass-fed-beef/faq-20058059) Buffalo native to the Great Plains is even [better](https://wildideabuffalo.com/).
+1.2.1.1. Con: Grass fed and free range animals need significantly more land to raise. With the current demand on meat it's not a viable option.
+1.3. Pro: It would be far cheaper leading to better health of poor people.
+1.3.1. Pro: Protein malnutrition is a large cause of poor health worldwide.
+1.3.2. Con: As it is dependent on technology and cannot be "farmed" easily, lab-grown meat may not reach developing countries where it could improve the diet of poor people.
+1.3.2.1. Con: There are ways to process meat \(lab-grown or otherwise\) to make it transportable and long-lasting, such as drying in jerky or canned.
+1.3.3. Con: As of today, although lab-meat companies [aim to reduce the costs](https://www.wired.com/story/the-high-cost-of-lab-to-table-meat/) even under that of regular meat, and it can be argued that its production is cheaper in terms of environmental impact, it [isn't cheaper to the final consumer](https://www.makeuseof.com/tag/lab-grown-burger-now-costs-less-10-00/).
+1.3.3.1. Pro: With the current technology and scale, cultured meat is still prohibitively expensive; requiring substantial R&D costs to bring the price tag down before mass adoption would be feasible.
+1.3.3.1.1. Con: This is not the case anymore, as few new startups are working towards mass production
+[www.memphismeats.com](http://www.memphismeats.com/)
+[culturedbeef.org](https://culturedbeef.org/cultured-meat)
+1.3.3.1.2. Con: The cost has recently [decreased](https://bigthink.com/ideafeed/answering-how-a-sausage-gets-made-will-be-more-complicated-in-2020) by four orders of magnitude.
+1.3.3.1.3. Con: Meat production is incredibly expensive, as it generates a lot of externalities. It harms the environment and the animals who suffer their entire lives. As they don't have voice or agency in the current economy, that's not transferred to prices.
+1.3.3.1.3.1. Con: Animal suffering is figured into the prices in the form of more humane raising and slaughtering processes.
+1.3.4. Con: Healthiness of regular meat [is widely disputed](https://www.medicalnewstoday.com/articles/315449.php). Lab-grown meat might face this same issue.
+1.3.4.1. Con: When looking into research about different foods one will find counterarguments to the healthiness of most of them.
+1.3.4.1.1. Pro: Different people experience different diets differently. For example, there are people who eat a fully carnivorous diet, showing that it is [practically possible](https://www.theguardian.com/lifeandstyle/2018/may/11/the-carnivore-diet-all-meat-health-benefits-dangers).
+1.4. Pro: Lab-grown meat has the potential to end animal suffering.
+1.4.1. Pro: Even if the use of animal products to create cultured meat continues, the amount of suffering it causes will be much smaller than that caused by factory-farming a similar quantity of meat.
+1.4.2. Con: lab grown meat does not have the same taste as real animal meat as there is no fat in it. meat lovers will always gravitate towards real meat
+1.4.2.1. Con: You are referring to the first public-trial lab-grown burger 2013.  
+However, nowadays its already possible to include real animal fat tissue. [Link](https://www.deutschlandfunk.de/kuenstliches-fleisch-stammzell-burger-statt.676.de.html?dram:article_id=377796)
+1.4.2.2. Con: Foie gras \(Fatty duck liver\) is an expensive luxury food product made of the liver of a duck or goose that has been specially fattened by force feeding the animal with a tube. 
+
+Lab-grown foie gras was successfully produced in early 2017 with an excellent review. [Link](https://www.theguardian.com/lifeandstyle/2018/jan/31/eat-it-without-the-guilt-the-story-of-the-worlds-first-clean-foie-gras)
+1.5. Pro: Once the technology is perfected, it is potentially more sustainable and is going to require less resources to produce.
+1.5.1. Con: Sustainability of this new technology is not a given. As the industry grows and optimises production, new problems that have environmental, economic or social impact may arise.
+1.6. Pro: It will be healthier, as it is created in a sterile environment.
+1.6.1. Pro: Lab-grown meat would not require the use of antibiotics on lifestock.
+1.6.1.1. Pro: Antibiotic overuse has been [linked](http://www.who.int/news-room/fact-sheets/detail/antibiotic-resistance) to rapid and dangerous evolution of diseases.
+1.6.2. Pro: The possibility of food-borne illnesses declines, as the process does not involve animals or the outdoors.
+1.6.2.1. Con: Infections of meat cultures in the laboratory can present serious dangers to the health of consumers.
+1.6.2.1.1. Pro: Lower variation in the genetic composition of lab-grown meat \(as opposed to a herd of animals\) means higher chance of epidemic, similarly to monoculture crops.
+1.6.3. Pro: A sterile environment may not necessarily be desirable since we benefit from healthy [bacteria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3983973/). Hypothetically, however, greater consideration to certain bacteria can be taken in a laboratory environment to increase the healthiness of the grown meat.
+1.6.4. Pro: Culturing the meat provides opportunities to controll its composition on cellular level, like optimising fat content or reducing purines \(compound contributing to the [gout](https://www.arthritis.org/about-arthritis/types/gout/articles/purine-foods-gout-attack.php) development\).
+1.6.5. Con: When it will grow to a larger scale of production, it will be harder to ensure it is made in a sterile environment and with only healthy ingredients.
+1.6.5.1. Pro: The opposite is true. The larger the scale of production the more thought can go into the development. For example, Tesla and Apple products would not be feasible at small scale.
+1.6.6. Con: Humans have evolved to consume meat, amont other types of food. Eating artificial substitutes can not suitably replace real meat, making lab grown meat more unhealthy.
+1.6.6.1. Con: Humans have evolved to be able to consume meat but we [don't need](https://www.sciencedirect.com/science/article/pii/S0002822303002943?via%3Dihub) to consume it to be healthy.
+1.6.6.2. Con: Because it is grown out of real animal cells, it matches conventional meat, just missing antibiotics, pathogens and other negative agents, which are hard to control outside of a lab environment.
+1.7. Pro: Factory farming is bad for the environment, resulting in deforestation, land degradation, pollution and loss of biodiversity.
+1.8. Pro: It can contribute significantly in stopping world hunger.
+1.9. Pro: Lab-grown meat would render veganism futile.
+1.9.1. Con: Not futile, but mostly superflous. In the short term, animals will still be killed for the necessary stem cells. Also, it can be argued that lab-grown meat will never be vegan because it remains an animal product.
+1.9.1.1. Con: Stem cells can be obtained without killing the animal.
+1.9.2. Con: Veganism would still be useful to stop animal exploitation as long as all [animal by-products](https://ec.europa.eu/food/safety/animal-by-products_en) -not only meat- aren't effectively substituted by cruelty-free alternatives.
+1.9.3. Pro: Veganism seems a lot like other new age [religions](http://www.compassionatespirit.com/wpblog/2011/09/16/is-veganism-a-religion/) and as [intolerant](http://www.meghaneatslocal.com/2011/07/see-this-is-why-people-hate-vegans.html) as the medieval Church of any 'heresy' to their dogma.
+1.9.3.1. Con: Intolerance against violence doesn't make violence more acceptable or less violent.
+1.10. Pro: It will be much better for the environment, as conventional factory farming plays a huge part in greenhouse gases.
+1.10.1. Con: Labs would need to ensure the proper utilisation of chemical compounds and waste material involved in the process. If labs were to replace the pastures and satisfy the market demand, the scale of the operation and associated waste would increase greatly, which could potentially have as large environmental impact.
+1.11. Con: One could just convince/force humanity to become vegetarian or vegan.
+1.11.1. Pro: If the reason for eating lab-grown meat is for environmental or animal-welfare reasons, veganism is an even better alternative.
+1.11.2. Pro: Meat, especially red meat is still unhealthy and ideally should be removed from our diets.
+1.11.3. Con: Veganism should be an individual's choice.
+1.11.4. Con: Convincing a meat-eater to become vegetarian is usually much harder than it seems. Cultured meat provides a less violent alternative as most people don't care where their meat comes from as long as it is meat.
+1.11.5. Con: It is not so easy to convince 7.6 billion people to change their habits.
+1.11.5.1. Con: Lab-grown meat does not require a change of habit if it can be bought at the supermarket and prepared like normal meat.
+1.11.5.2. Pro: Trying to force people who hunt animals to go vegetarian can easily lead to violence.
+1.11.6. Con: Considering much of the developing world has a hard enough time getting food of any kind, stopping them from eating meat by force would be a death sentence inflicted upon many of them by people who have never had to worry about where their next meal may be coming from.
+1.11.6.1. Con: Force isn't needed if plant-based alternatives are, or made, available for the same price. In theory, it is cheaper to produce a kilo of plant protein than meat protein.
+1.11.6.2. Pro: Meat and other animal products such as milk are key sources of protein for many people in the developing world.
+1.11.7. Con: The vegan/vegetarian diet is based on ethics of no harm in the first place. Once the harm is removed - this is not a concern anymore.
+1.11.8. Pro: There is a [global rise](https://foodrevolution.org/blog/vegan-statistics-global/) in Vegan and Plant-Based Eating.
+1.11.9. Con: -> See 1.9.3.
+1.11.10. Pro: -> See discussion #2762: All humans should be vegan.
+1.11.11. Pro: Lab-grown meat perpetuates the continuation of the meat industry.
+1.12. Con: Factory Farming is not as cruel as it seems.
+1.12.1. Con: The vast majority of people would agree with the statement that "killing an animal is cruel". To believe factory farming isn't cruel is just an example of cognitive dissonance.
+1.12.2. Con: "Inherent abuse and cruelty is standard industry practice", according to [undercover investigators](https://www.independent.co.uk/life-style/animal-abuse-factory-farms-undercover-investigators-pigs-chickens-cows-turkeys-mercy-for-animals-a7501816.html) in factory farms.
+1.12.3. Con: It is still more cruel than the non existing cruelty with lab grown meat.
+1.12.4. Con: As a former employee of such a factory, I can't help but strongly disagree with this claim. Even though the motivations of the workers may be humanistic in their opinions, and no deliberate cruelty is applied to the animals, the conditions in which 25 animals are to live on 60 m2 in their own feces, slaughtered before becoming adults, and killed out of mercy when getting ill could hardly be called "not that horrible".
+1.12.5. Pro: According to statistics, 78.2% [\(100% minus the estimated 21.8% of vegetarians\)](https://en.wikipedia.org/wiki/Vegetarianism_by_country#Demographics) of world population eat meat. So, apparently most people [don't know or don't care](http://www.theworldcounts.com/counters/world_food_consumption_statistics/world_meat_consumption_statistics) how cruel it may be.
+1.12.5.1. Con: Whether or not an act is cruel isn't determined by whether or not people know about it.
+1.12.6. Con: It might be even more cruel than it seems to us, since farm animals -unlike us- [lack the ability of gaining deep knowledge](https://phys.org/news/2017-11-animals-rationally-rational-decision-making-doesnt.html) of the culture by which they are subdued, i.e. lack the rationality that can [balance emotions with reason](https://www.huffingtonpost.com/dr-carmen-harra/controlling-your-emotions_b_3654326.html?ir=India&adsSiteOverride=in&guccounter=1).
+1.13. Con: Lab-grown meat is unnatural.
+1.13.1. Pro: -> See 1.1.3.3.
+1.13.2. Con: So are most of your clothes, cars, sleep patterns, buildings, and many other things we use in our daily lives. In addition to this, natural is not synonymous with healthy.
+1.13.2.1. Con: Clothes, buildings etc. don't have "original natural versions", as lab-grown meat does.
+1.13.3. Con: Whether it is unnatural may not matter if people can't tell the difference in taste or texture.
+1.13.4. Con: The meat produced at the livestock farms is already unnatural, as present-day domesticated animals significantly differ in their genetics, stature, diet and overall way of life from their feral ancestors.
+1.13.5. Pro: [Catholic teaching prohibits in vitro fertilization](https://www.catholicworldreport.com/2012/11/29/church-teaching-on-in-vitro-fertilization/). They and others might be against lab-grown meat as well for similar reasons relating to its artificiality.
+1.14. Con: -> See 1.3.3.1.
+1.15. Con: Farmers will lose their jobs.
+1.15.1. Con: The moderate suffering of small numbers of humans impacted by shifts in unemployment is many times smaller than the high levels of suffering experienced by a very high number of intensively farmed animals, and so we should favour the animals.
+1.15.1.1. Con: Human suffering outweighs animal suffering.
+1.15.2. Pro: Not only livestock farmers will lose out, but also farmers who provide animal feed.
+1.15.2.1. Con: This will be a boon for the environment.
+1.15.2.2. Pro: There will be a need for farmers to provide food for lab grown meat instead.
+1.15.2.2.1. Pro: Lab grown meat needs glucose, which is largely extracted from starch through [enzymatic hydrolysis](https://en.wikipedia.org/wiki/Glucose#Commercial_production).
+1.15.2.2.2. Pro: The protein needed today is extracted from animal sources. But [companies](https://www.fastcompany.com/40565582/lab-grown-meat-is-getting-cheap-enough-for-anyone-to-buy) are looking for cruel free options to satisfy their customers.
+1.15.3. Con: Even if they lose their jobs, farmers can take up different job opportunities instead.
+1.15.3.1. Pro: Farming employment comes with a range of skills, from fixing engines to veterinary tasks. This enhances their employability.
+1.15.3.2. Pro: Farming is renowned to be very labor intensive. This gives future employers reassurance that ex farmers are hard working.
+1.15.3.3. Pro: Industrial scale synthetic meat production can absorb the workers laid off in conventional meat production.
+1.15.4. Con: So did bronzesmiths with the dawn of iron age. Progress should not be limited by the need of people to keep outdated jobs.
+1.15.4.1. Pro: Farming is starting to be an outdated job and society has been moving away from an agrarian society for centuries so people can be more productive. Losing farming jobs is seen as a positive more than a negative.
+1.15.4.1.1. Con: This can only be true if those displaced from an agrarian society find other means to sustain themselves and participate in other economies.
+1.15.4.2. Pro: Farmers will lose their job either way due the automation in coming years.
+1.15.5. Con: It is very unlikely that farming -that has been practiced [since 9000-7000 BC](http://www.historyworld.net/wrldhis/PlainTextHistories.asp?historyid=ab57)- will completely vanish from Earth just for a bit of competition. In any case, it would probably remain as on-farm consumption.
+1.15.6. Con: Farmers produce more than just meat. Other products are not challenged by lab-grown meat.
+1.15.6.1. Pro: In addition \(or instead of\) meat, farmers grow animals for other products such as dairy products, eggs, honey, [non-food animal products](https://en.wikipedia.org/wiki/Animal_product#Non-food_animal_products) and [animal by-products](https://www.peta.org/living/food/animal-ingredients-list/).
+1.15.6.2. Pro: Farmers also produce non-animal based food products such as vegetables and grains.
+1.15.6.3. Pro: Farmers also produce cash crops for use in textile \(e.g. cotton\) or food industries \(e.g. rapeseed\).
+1.15.7. Con: Lab-grown meat is not going to cause farmers to lose their jobs. They are going to lose their jobs anyway, because people are trending towards eating less or no meat \([1](https://www.forksoverknives.com/americans-are-eating-less-and-less-meat-every-year-why/), [2](https://opinionator.blogs.nytimes.com/2012/01/10/were-eating-less-meat-why/)\).
+1.16. Con: Lab-grown meat is unethical.
+1.16.1. Con: -> See 1.4.1.
+1.16.2. Con: Lab grown meat could be a solution to important issues such as world hunger and climate change, thus rendering it more unethical not to produce it than it would be to actually produce it.
+1.16.3. Pro: Some people are repulsed by meat and having more ethical meat would create more social pressures to eat meat when they do not want to.
+1.16.3.1. Con: Those people can learn to just say "no thank you" to food they happen to not like.
+1.16.4. Pro: It requires more animal products than a cell of an animal \(like [fetal bovine serum, or FBS](http://www.slate.com/articles/health_and_science/science/2017/07/why_is_fetal_cow_blood_used_to_grow_fake_meat.html) and [collagen](https://sentientist.org/2013/08/05/will-in-vitro-meat-become-cruelty-free/)\).
+1.16.4.1. Con: One day, lab-grown meat will find a replacement for these materials. Then it will live up to its potential and reputation of being more ethical than meat.

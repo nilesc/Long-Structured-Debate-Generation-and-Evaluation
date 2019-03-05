@@ -1,0 +1,50 @@
+Discussion Title: Humans will eventually evolve into machines.
+
+1. Humans will eventually evolve into machines.
+1.1. Con: Humans will never evolve into machines. Computers only imitate intelligence, they really have none. Every decision a computer based is decided based on algorithms that programmers write. Complete and total artificial intelligence is impossible to write. Not to mention it could never be secure.
+1.1.1. Con: Workings of an AI have not been defined yet. Nothing suggests that it has to work like modern computers.
+1.1.2. Con: Regardless of the initial state AI will interact with its environment and 'program' itself from the point of conception.
+1.1.2.1. Pro: Two bots programmed for research spontaneously [developed their own language](https://www.theatlantic.com/technology/archive/2017/06/artificial-intelligence-develops-its-own-non-human-language/530436/), which was distinct from human language, to communicate.
+1.1.3. Con: Humans only imitate intelligence, they really have none. Every decision a human makes based is decided based on chemicals that evolution has programmed. Complete and total human intelligence is impossible too.
+1.1.4. Con: Modern AIs learn [just like humans do](http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414), using artificial neural networks - they're not decision trees programmed by hand any more. There's no reason to assume that a machine with a similar neural architecture to a human would not actually be intelligent.
+1.2. Pro: Our biological bodies have many weaknesses which can be remedied with biophysical technology like nanotechnology.
+1.2.1. Pro: The ability to repair and upgrade organic material is currently limited, and the repairs for inorganic materials much easier. The potential for upgrading inorganic material has virtually limitless applications.
+1.2.1.1. Pro: After loosing their legs, some athletes choose to have prosthetics that may be better than organic legs.  [Source](https://www.scientificamerican.com/article/blade-runners-do-high-tech-prostheses-give-runners-an-unfair-advantage/)
+1.2.1.2. Pro: Many advances help in [upgrading](https://www.google.com/amp/s/nypost.com/2015/10/25/five-amputees-show-off-the-amazing-advances-in-artificial-limbs/amp/) various limbs.
+1.2.1.3. Pro: Mechanics can be much easier and faster to [repair](https://www.google.com/amp/s/nypost.com/2018/03/15/inside-the-impressive-repair-shop-at-the-paralympic-games/amp/).
+1.2.1.4. Pro: Some upgrades may [improve](https://www.google.com/amp/s/futurism.com/bionic-eyes-are-coming-and-theyd-make-us-superhuman/amp/) past current organic limits.
+1.2.2. Pro: Nanotechnology could be [useful](http://www.understandingnano.com/medicine.html) for in vivo imaging, drug delivery, or therapy treatments.
+1.2.3. Con: Nanotechnology, physical and genetical upgrades will remain a privilege of the wealthy elite.
+1.2.3.1. Con: The rich might profit from enhancing working people for productivity.
+1.2.3.1.1. Pro: Strengthening muscles with [artificial fibers](https://news.mit.edu/2016/nylon-muscle-fibers-1123) could be a plus for doing physical labor.
+1.2.3.2. Con: It's possible that "staying natural" may become a privilege of the wealthy who won't need enhancements in order to perform work.
+1.2.3.2.1. Pro: "Natural" beauty is already a huge industry, favoring those who have the leisure time to exercise, meditate, and use organic products.
+1.2.3.3. Con: The wealthy will pioneer most of the technology, but eventually the technology will become commonplace and cheap.
+1.2.3.4. Con: We might well have said the same thing about the kind of technology we now find in smartphones thirty years ago, and these are now commonplace across the economic spectrum \(at least in the West\).
+1.3. Pro: Humans already are machines. The chemistry involved in building that machine is irrelevant.
+1.3.1. Pro: "Machine" is defined as an apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task.
+1.4. Pro: Considering the human drive for competition, physical upgrades to one's body would pose a great advantage in professional and private life.
+1.4.1. Con: This would be a huge backwards step for society, as it places a firm emphasis on superficial aesthetics. Individuals will continue to 'upgrade' indefinitely \(as seen with [plastic surgery](https://www.plasticsurgery.org/news/press-releases/new-statistics-reflect-the-changing-face-of-plastic-surgery), which has gone up 115% since 2000\).
+1.4.1.1. Con: This doesn't invalidate the argument as used to support the belief that humans will eventually evolve into machines.
+1.5. Pro: Mechanical parts of the body are being replaced as we speak. [Artificial limbs](https://en.wikipedia.org/wiki/Prosthesis) \(mind controlled, with sensory feedback\), some organs, [Artificial Optical](https://en.wikipedia.org/wiki/Visual_prosthesis), Tactile, Olfactory, [Aural](https://en.wikipedia.org/wiki/Cochlear_implant), and Oral systems. [Direct brain implants](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) \(input and output\), are going to become available soon.
+1.5.1. Pro: -> See 1.2.1.
+1.6. Pro: Cyborg technology already exists, is being successfully applied and will, like all other new technologies, eventually be cheap enough to be accessible to the masses.
+1.7. Pro: New generations of humans are growing up in front of technological marvels like smartphones and AI. Evolving into machines will feel entirely logical, expected and rational to them.
+1.8. Con: -> See 1.2.3.
+1.9. Con: This assumes humans can prevent our own extinction for a given time period so that we don't end our species before our technological evolution.
+1.9.1. Pro: The internal dynamics of politics and war pose a threat to human stability and survivability.
+1.9.2. Pro: The external dynamics of the universe pose a threat to life on earth in the form of asteroids, climate change, solar events, antibiotic resistant diseases etc.
+1.10. Con: There is no gene mutation known to contemporary science that could result in a mechanical structure.
+1.11. Con: Evolving into machines will feel ethically wrong or even heretical to societies adhering to a certain culture or religion.
+1.11.1. Con: Adaptive societies will gain edge from the technology and eventually supersede the less adaptive ones.
+1.11.2. Con: This was once true of homosexuality and contraception. Religions often adapt, that they can survive.
+1.12. Con: Uploading a human mind to a computer is impossible right now.
+1.12.1. Con: We [don't understand](https://www.sciencenews.org/blog/context/neuroscience-understanding-brain) brain function yet. Memory and sensory information are created by electric impulses and neurotransmitters, which could feasibly be imitated at a future point in time.
+1.12.2. Con: Nothing suggests that this is impossible. Simple brains can already be [simulated](https://en.wikipedia.org/wiki/Brain_simulation).
+1.12.3. Con: [Functionalists](https://plato.stanford.edu/entries/functionalism/) argue that a thing is not defined by its material constitution; rather, by their role in the system they belong to. For instance, a synthetic heart is still a heart, even though it isn't made of the same material. There's no good reason for which the same rule wouldn't apply to brains, despite their obvious complexity when compared with a heart.
+1.12.4. Pro: The human brain is extremely complex soft tissue which is susceptible to influences like energy waves. Uploading a brain to the machine may rob it from physical properties and impair its functioning in the process. Replacing biological and physical properties of the brain may be impossible. Merging brain with a machine or altering it is a safer direction.
+1.12.4.1. Con: Nothing requires the evolved brain to function similarly to the old.
+1.12.4.1.1. Con: There is always some calculated risk. Not going for it is a loss by default. Merging with artificial intelligence to not get enslaved by it, that is.
+1.12.4.2. Con: Uploading a brain may rob it from physical weaknesses as well, and add improved functionality or possible new functions not currently in existence.
+1.12.4.3. Pro: It's [questionable](https://gizmodo.com/will-we-ever-be-able-to-upload-a-mind-to-a-new-body-1822622161) whether we'll ever be able to map the brain's physical structure in enough detail to ensure our self would be there after an upload.
+1.12.4.3.1. Pro: If quantum features are involved it might be impossible to ever map them.

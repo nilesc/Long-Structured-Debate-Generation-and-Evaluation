@@ -1,0 +1,106 @@
+Discussion Title: Has Social Media Been Good For Humanity?
+
+1. Social Media Has Been Good For Humanity.
+1.1. Pro: Humans can collaborate, meet, and communicate with unparalleled efficiency.
+1.1.1. Con: We can create echo chambers for ourselves and our opinions.
+1.1.1.1. Pro: Social media algorithms designed to enhance the user's experience have inadvertently created deeply personalized [Filter Bubbles](https://en.wikipedia.org/wiki/Filter_bubble).  Information dissemination is calculated by user desire rather than objective necessity.
+1.1.1.1.1. Con: There is no such thing as "objective necessity."
+1.1.1.1.2. Pro: Social media algorithms increasingly drive topical and publisher selection preferences in news aggregation services, reducing the user's options to set personal preferences manually and with intention. AI can make these selections with a bias that such will inform or distract but almost always satisfy.
+1.1.1.2. Pro: The majority of social media platforms allow users to remain within circles that don't require them to be exposed to other perspectives, limiting balanced collaborative efforts.
+1.1.1.3. Con: This assumes that echo chambers are inherently bad, which is not a given. For example, if a user's end goal is to collaborate with people with similar opinions, the echo chamber effect is undeniably desirable.
+1.1.1.4. Con: The same systems that create echo chambers can be \(ab\)used to intentionally enter other peoples echo chambers. [TED talk](https://www.youtube.com/watch?v=FdHJw0veVNY)
+1.1.1.5. Con: To what extent this happens, highly varies from platform to platform. It is therefore not just to generalise this on the whole of social media.
+1.1.1.6. Con: This is also specific to other situations not related to social media. You pick press and TV news channel by your preferences.
+1.1.1.6.1. Con: In most use case scenarios, when it comes to watching TV programs, the viewer actively chooses what to watch \(this is also the case for content consumption on magazines, newspapers, or radio\). On social media, on the other hand, the algorithms that effectively determine what content is displayed work in the background without users necessarily understanding how or—even worse—being aware of it. This difference stems from the fact that social media platforms are content aggregators, not creators.
+1.1.2. Con: There is less incentive for people to get out and interact face to face with other people. We end up interacting only through our phones rather than making meaningful, emotional connections.
+1.1.2.1. Con: Depending on the way you use it, it can also be a way of finding and taking part in activities with people that have the same interests as you.
+1.1.2.2. Con: One does not exclude the other. Social media can \(and does\) lead to many face to face meetings.
+1.1.3. Pro: For severely handicapped people, social media may be the only means of keeping in touch with people.
+1.1.4. Pro: Used correctly, social media can be a catalyst for meeting new people from all cultures and walks of life.
+1.1.5. Pro: Information could be shared seamlessly among friends and family, regardless of them being near or far away.
+1.1.6. Con: Social interaction loses most of its non-verbal communication.
+1.1.7. Pro: It is easy to maintain non day-to-day relationships.
+1.2. Pro: Social media allows for better discourse to take place.
+1.2.1. Pro: You can discover new perspectives from people you ordinarily wouldn't talk with.
+1.2.1.1. Con: Social media exposes you to easy attacks from people who do not know you and might have an alternative motive in their attempts to dismantle your argument \(e.g. trolls\).
+1.2.1.2. Pro: Social media made it easy to connect to people you wouldn't have met a century ago, causing better understanding and respect for other cultures.
+1.2.2. Con: Internet trolls can have a negative effect on discourse.
+1.2.2.1. Con: They contribute, as a noise factor, to improve and evolve the way useful interactions are made amongst users
+1.2.2.1.1. Pro: Noise forces users to find alternative ways of maintaining a productive conversation ergo creating an overall improvement in the communication protocol and mechanism.
+1.2.2.2. Con: Social media allows you to block and filter users from a discussion or only allow a specific group of people. Offline, this can be more difficult.
+1.2.2.3. Con: This is true for offline people as well.
+1.2.2.4. Pro: It's much more difficult to estimate someone's stance towards a discussion through a text based medium than when you can see/hear someone. On the internet it can be more difficult to see whether or not someone is intentionally trying to be a troll or not.
+1.2.3. Con: Social media commentary systems have been designed for popularity, resulting in everybody writing in a more pointed, provocative way. This has harmed online discourse and increased polarization.
+1.2.4. Con: People have a tendency to feel empowered by a keyboard and will thus express more extreme opinions \(and more aggressively so as well\) than they would in person when having a face-to-face conversation. Thus, social media discussions often escalate and end up with name calling and other kinds of personal attacks.
+1.2.5. Con: Those who spend a lot of time and effort expressing their opinions on social media are not necessarily equipped to elevate the discourse.
+1.2.6. Con: Discussion forums provide a cleaner space for discourse as many of the more popular social media networks flood users with excess 'noise' and advertising.
+1.3. Pro: There have been several disasters during which social media provided the only viable venue for communication.
+1.3.1. Pro: During Superstorm Sandy, most people didn’t have power, but some cell networks and WiFi towers were still operational. Many people used Facebook to detail the destruction and reassure friends or family that they were safe.
+1.4. Pro: It’s a valuable aid for crime-solving.
+1.4.1. Pro: Police departments like the [NYPD](https://mic.com/articles/30975/how-the-nypd-is-using-your-facebook-and-instagram-to-fight-crime) are beginning to investigate gang-related crimes on social media networks.
+1.4.2. Pro: In states like Oregon, authorities have arrested people for drinking and driving after they bragged about it publicly on Facebook. [www.pcmag.com](http://www.pcmag.com/article2/0,2817,2413854,00.asp)
+1.4.3. Con: Anecdotal examples of the helpfulness of social media in US-based investigations are not evidence of the platforms' global crime-solving reach.
+1.4.4. Con: In fact, just like users can create common interest groups, criminals can take advantage of social media to coordinate illicit activities. This is especially true of encrypted platforms such as WhatsApp \(which is owned by Facebook, the largest social media platform on the planet by number of users\).
+1.4.5. Con: It is extremely easy to create fake social media personas which can be used for criminal activities and to impersonate others thereby framing them for criminal activities.
+1.5. Con: Humans spend too long on social media, at the expense of other more valuable activities.
+1.5.1. Con: What activity is valuable depends on an individual.
+1.6. Con: -> See 1.1.1.
+1.7. Con: Social media has negative health effects.
+1.7.1. Pro: Over-use of social media is [negatively affecting](http://www.health.com/mind-body/too-much-social-media-could-mess-up-your-sleep-study-finds) people's sleep patterns and quality.
+1.7.1.1. Con: Anything when over-used can lead to consequences.
+1.7.2. Pro: People have been shown to experience depression as a repercussion of social media.
+1.7.2.1. Pro: [Instagram](https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html) has been linked to teenagers' issues with mental health, exacerbating problems such as body image and FOMO.
+1.7.3. Con: Not necessarily. By joining groups related to sports you can actually be more active when sharing results.
+1.8. Con: Social media and the easy spreading of funny and ridiculous videos has stifled human private expression.
+1.8.1. Pro: Before social media and "life-capturing" it was possible to just live in the moment and do / say things that one "could" later on repent, but that were not going to spread further than the inner circle, now spreading and statements becoming globally available happens regularly.
+1.8.2. Con: Norms will change over time and people will accept that all of us are sometimes doing and saying ridiculous things.
+1.9. Pro: Social media is less susceptible to the powerful than traditional media sources.
+1.9.1. Con: Social media can be manipulated by powerful states and companies by paying large amounts of money on advertising, hacking or social bots.
+1.9.2. Con: The fact that the [most followed](http://friendorfollow.com/twitter/most-followers/) twitter accounts are well-known, powerful celebrities suggests otherwise.
+1.9.2.1. Pro: Social media elevates the thoughts and opinions of celebrities like Kanye West more than the thoughts and opinions of people who know what they are talking about.
+1.9.2.1.1. Con: Users have the freedom to follow whomever they choose. The individual makes the choice on whose thoughts and opinions they value.
+1.9.3. Pro: Social media helps diversify the centralisation of power.
+1.9.4. Con: Traditional media sources doesn't allow powerful companies to gather large amounts of data on individuals and use this to market catered content to every user individually. On social media, this has been a concern on some people's mind, on the news and recently, [in court](https://www.vox.com/policy-and-politics/2018/4/11/17225518/mark-zuckerberg-testimony-facebook-privacy-settings-sharing).
+1.9.4.1. Con: Traditional media sources are owned by powerful companies who often try to advertise only one political view, unlike social media where every party is present
+1.10. Con: Social media puts privacy and data at risk.
+1.10.1. Pro: Many platforms e.g. facebook use a security opt-in model with new users being oblivious to the fact that a lot of personal information is publically exposed.
+1.10.2. Pro: Those who collect the data have their fingers on humanity's pulse. By analyzing the data, they are able to predict election outcomes and advertise to the perfect demographics.
+1.10.2.1. Con: Social media users are not a representative sample of the entire population.
+1.10.2.2. Con: Perfect demographics is unlikely so long as user anonymity, irrelevant information, and user selection and data entry errors occur.
+1.10.3. Con: Privacy has no universally applicable standards, only the minimal requirements that are specified \(and changed from time-to-time\) by law.
+1.10.4. Con: Users have a responsibility to themselves and others not to submit data that will prove to be personally embarrassing or socially compromising.
+1.10.4.1. Pro: Data security is vulnerable from a number of perspectives including breach or hacking, changing user privacy policies, user errors and indiscretions, and social media company errors and indiscretions.
+1.10.4.2. Pro: Users make the decision to put information out in such an insecure environment and should bear responsibility for the consequences of that decision.
+1.10.4.3. Con: Many users are not informed enough with regards to the implications of exposing their personal data to the public.
+1.11. Pro: Social media can be educational and informative.
+1.11.1. Con: Social media is succeptible to misuse through the spreading of misinformation to wide audiences and targeted audiences designed to manipulate and influence.
+1.11.1.1. Pro: [Microsoft AI experimentation on Twitter](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist) lead the learning AI to become racist and misogynistic in less than a day because of malicious manipulation of its peers.
+1.11.1.2. Con: Other media platforms suffer from the same issue. In fact, tabloid magazines base their entire business model on the publishing of gossip \(often uncorroborated\), which is equivalent to "spreading misinformation to wide audiences."
+1.11.2. Con: Social media allows anyone with an idea sans facts to market it and endorse it as a common ide.
+1.11.3. Con: Anything leveraging the very nature of the internet technically has the inherent potential to be educational and informative, but that does not mean such a scenario will materialize.
+1.11.4. Pro: Social media makes it easier for people to access information and news.
+1.11.4.1. Con: Too much information floating around causes important information to be ignored in favor of information that is "trending" or more exciting \(e.g. celebrity news\).
+1.11.4.2. Con: Social media spreads fake news far more than traditional media sources.
+1.11.4.2.1. Pro: Social media has a lack of accountability in sharing accurate information, and is not good at identifying what is true when content or ideas are presented as fact or fiction.
+1.11.5. Pro: Social media has potential as a collective learning experience.  It is, in a sense, a giant classroom where people can learn from one another at their own pace and without the pressure of being graded.
+1.11.5.1. Con: The most widely used social media platforms \(think Facebook, Twitter, Instagram\) are not engineered to be classroom-like ecosystems. Instead, they were originally designed for users to share snippets of their daily lives as a way to keep in touch with existing friends or making new ones based on shared interests. The end goal of the major social media websites and apps was never educational.
+1.11.5.2. Pro: People can create pages on social media sites to inform users about science, history, philosophy, and even grammar usage.  As articles from these pages are shared, users provide each other with access to knowledge that can be gained in a truly non-compulsory fashion.
+1.11.6. Con: Potentially, but it is mostly used for low effort memes and hate-debating pop politics.
+1.12. Con: Social media distorts reality.
+1.12.1. Pro: Social Media acts as a filter of what you let others see of your life. It perpetuates the illusion that everyone leads happy and succesful lives.
+1.12.2. Pro: Social media forces individuals to create a public image that does not fully represent them which creates an inauthentic experience. This can lead to anxiety and depression for social media users.
+1.13. Con: Social media is a danger to democracy.
+1.13.1. Pro: Social media, as shown by the [Cambridge Analytica](https://www.cnbc.com/2018/03/21/facebook-cambridge-analytica-scandal-everything-you-need-to-know.html) scandal, can also be used as a tool to usurp democratic elections by manipulating voters.
+1.13.2. Con: Social media is a vital tool for grassroots political organizing. \(protest, advocacy groups, etc\). This is beneficial to democracy.
+1.13.2.1. Con: -> See 1.13.1.
+1.13.2.2. Con: Social media is yet another tool for that, it's not vital. Mailing lists, forums, and good old fashioned websites do this job too.
+1.13.2.3. Con: Social media is in its infancy and is not yet able to properly affect politics in this way.
+1.13.2.3.1. Con: Nevertheless, the effects it has already had are testament to its potential for greater political use in the future, if guided right.
+1.13.2.3.2. Con: It [has been proven](http://uk.businessinsider.com/how-did-russia-use-facebook-during-election-trump-clinton-2017-9?r=US&IR=T) that the Russians effectively used Facebook as a means to influence the 2016 US Election.
+1.13.2.3.3. Con: Social media played a large role in fostering collaborative networks for activists during the [Arab Spring](http://www.journalism.org/2012/11/28/role-social-media-arab-uprisings/).
+1.13.2.4. Con: Social media is a [tool](http://time.com/5008076/nyc-terror-attack-isis-facebook-russia/) for [radicalization](https://psmag.com/social-justice/how-social-media-helped-organize-and-radicalize-americas-newest-white-supremacists).
+1.13.2.5. Pro: Social media has been used to great effect to keep the light shining on important issues. Everything from Second Amendment issues in the US to reminding the UK government about the lives lost at Grenfell Tower in June of last year.
+1.13.2.6. Pro: Social media allows for greater effectiveness in communication because it can bring together multiple different types of media, simultaneously.
+1.13.3. Pro: Social media has given everybody an equal voice; while democratic, this has often given equal weight to bad reasoning that then gets spread via social media.
+1.13.3.1. Con: That is what democracy is all about, everybody should be able to express themselves for good or wrong, it is up each person to make a choice.
+1.13.4. Pro: Social media can be manipulated and unreasonable positions can be made seem more popular, more broadly supported and legitimate than they really are.

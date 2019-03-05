@@ -1,0 +1,35 @@
+Discussion Title: Should a land value tax be introduced to replace other taxes?
+
+1. A land value tax should be introduced to replace other taxes.
+1.1. Pro: Replacing several taxes with a land tax would make tax collection more effective and simple.
+1.1.1. Pro: Land value tax is hard to avoid because it's impossible to hide it in tax havens.
+1.1.2. Pro: No deadweight losses, unlike taxes on income/production
+1.2. Pro: It would eliminate the boom-bust cycle in house and land prices.
+1.2.1. Con: Countries, states and other areas, such as Hong-Kong and Denmark, have both LVT and boom and bust cycles.
+1.2.2. Pro: Reduces land speculation
+1.3. Con: Increasing the costs for landlords would prompt them to increase the amount they charge their tenants.
+1.3.1. Con: If they could charge more for rent they would already be doing so.  Rent is set by market demand, not costs to the landlord.
+1.3.2. Con: Land value tax can't be shifted to the tenants, because the landowner has to pay it whether there's a tenant or not. [Why land tax can't be shifted onto tenants on Financial Review](http://blog.lvrg.org.au/2011/08/why-land-tax-cant-be-shifted-onto.html)
+1.3.3. Pro: If all landlords passed on their costs to tenants, to maintain the margins, then the entire market would simply experience inflation.
+1.4. Con: Making land ownership more expensive via the application of a tax renders it more difficult for poorer people to own their own land.
+1.4.1. Con: The new tax proposal would actually make life for the poor easier, by reducing their tax burden.
+1.4.2. Pro: This would mean the poor would be at the mercy of rich landlords.
+1.4.3. Pro: This would mean that the poor would be forced to rent, meaning money spent on accommodation would not be feeding into any future assets or investments.
+1.4.3.1. Con: The poor are already forced to pay rent by being priced out of the housing market.
+1.4.4. Con: Actually, a tax on land doesn't increase the cost of owning land. It lowers the price of land such that the total cost \(tax plus mortgage\) is the same.  The landlord \(poor or rich\) pays more in taxes but less in mortgage due to the tax change.
+1.5. Pro: The change in tax policy would increase individuals' and society's economic efficiency and productivity.
+1.5.1. Pro: Land is ideal for taxation because the supply of land is fixed, and therefore more taxation doesn't decrease the supply.
+1.5.2. Pro: It would encourage people to make option use of their land, to make up for land taxes.
+1.5.3. Pro: Land taxes don't discourage improvements to buildings, unlike other property taxes.
+1.5.4. Pro: The tax reform would encourage investment in productive economic activity, rather than in already existing assets.
+1.5.5. Con: The change in tax policy could yield less revenue for the government than the existing policy, which would limit the efficiency and productivity gains that they would be able to implement.
+1.6. Con: Fast implementation of a high national Land Value Tax would cause land values to plummet and create an economic crisis.
+1.6.1. Pro: Land value tax could and has been implemented gradually.
+1.6.2. Con: Since land is used as a collateral for debt, vast sums of capital would be at risk of default. This would cause an economic crisis...not unlike what happened when housing prices crashed during the great recession.
+1.7. Pro: A land value tax is a just and equitable tax, unlike other forms of taxation.
+1.7.1. Pro: LVT is just because the value that attaches to land is derived not from the landlord's labor, but from society as a whole and from local advantages particular to the site. Therefore, a tax on land cannot be understood as "theft" since the individual landlord does not create the value he finds attached to his land. Other taxes, such as a sales tax or income tax, can be understood as theft, however, since those taxes take directly from the labor income of individuals.
+1.7.2. Con: Its is not completely equitable, since it disproportionately taxes people who own a disproportionate amount of real-estate, especially if that land is a farm of a home in a gentrifying area.
+1.7.2.1. Pro: Some poor people were able to buy homes that then greatly increased in value and would be forced out of there home to avoid the tax, meanwhile others like Warren Buffet only have a tiny portion of there assets in real estate.
+1.7.2.2. Con: "Disproportionate" is different than "just and equitable." A LVT is just and equitable because it taxes individuals "in proportion" to the land value they control. Land value is not created by individuals, it's created by society generally, so it is just and equitable to capture that value from individuals and return it to society in a way that does it proportionately according to the distribution of the value within society.
+1.8. Pro: It is a progressive tax, as richer people tend to own more land and would therefore be hit the hardest.
+1.8.1. Pro: Taxes unearned gains, rather than earned wages

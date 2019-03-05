@@ -1,0 +1,29 @@
+Discussion Title: Should solar and wind power replace coal and natural gas as primary grid power?
+
+1. Solar and wind power with some energy storage should replace coal, eventually even natural gas as primary grid power.
+1.1. Con: It seems much more complicated to have lots of small sources of intermittent power generation than a few tried but true dispatch-able ones. More complicated can end up being more expensive or problematic.
+1.1.1. Con: All systems lack efficiency when introduced, and develop as they are used more. The inevitable benefits of renewable resources are enough motive to invest in developing these systems.
+1.1.2. Con: On the contrary [decentralised systems](https://en.m.wikipedia.org/wiki/Distributed_generation) have proved to be more resilient against failure and are more efficient.
+1.2. Con: Biogas is a better candidate to replace natural gas than solar and wind power, because it can be introduced to the existing gas infrastructure.
+1.2.1. Pro: In addition to being able to utilise existing infrastructure it's easier to store and has a more stable production supply.
+1.2.2. Con: Biogas is easier to introduce in the existing gas infrastructure, but it is l[ess efficient](https://www.biooekonomie-bw.de/en/articles/news/how-efficient-and-climate-friendly-is-biogas-production/) in terms of land and water. So, it might be a good addition but is not the whole solution.
+1.3. Pro: When considering cost of electricity by source, even without factoring in a potential carbon tax, solar and wind are [low in cost](https://en.wikipedia.org/wiki/Cost_of_electricity_by_source).
+1.3.1. Pro: Investing in this technology from the ground up will only lower it's future costs.
+1.3.1.1. Pro: The energy profit ratio \(EPR\) of most renewable power technologies should continue to incent innovation and broad mix of energy supply around the world. If PURPA is still relevant, it should be enhanced to encourage public/private utilities to diversify revenues through formal market distribution of local energy generation, lease and equipment sales. Leadership in energy, environmental and economic security will inspire job creation and safe development of manufacturing local energy supply.
+1.3.2. Pro: Even without any breakthroughs in technology, solar is projected to decrease in cost as mass production increases.
+1.3.2.1. Pro: Solar and wind are now the [cheapest form](https://www.youtube.com/watch?v=OCeC4a_p1-Y) of electricity in the history of the global energy markets. This years average power auction price is 2.6 cents/kWh without subsidies. Many projects are seeing prices below 2 cents in high resource locations. LNG, Coal and Nuclear are now ALL non competitive in the global market place. Fossil Fuels and Nuclear will be gone within 15 years.
+1.4. Pro: The operational cost of utility scale solar and wind is very stable and does not rely on importing resources like coal and gas.
+1.4.1. Pro: Tesla's [giant battery project](https://electrek.co/2018/01/23/tesla-giant-battery-australia-1-million/) in Australia has proved that utility scale battery storage is effective, possible and profitable.
+1.4.1.1. Con: The components used in the batteries are [polluting](https://www.google.fr/amp/s/amp.theguardian.com/sustainable-business/2017/aug/24/nickel-mining-hidden-environmental-cost-electric-cars-batteries).
+1.4.1.1.1. Con: While implementing a battery storage/distribution system as being a major advancement over the current ecological catastrophe, pushing companies to use safer chemical components through activism and legislation is also quite possible, and has worked.
+1.5. Pro: Climate change stands to cause substantial economic, and ecological damage to the world, and we should try to diminish it's effects.
+1.5.1. Pro: If we agree that reducing CO2 emissions is key for the future of this planet and health of its inhabitants, solar/wind should replace coal/gas. Based on life cycle assessment, [solar/wind](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources) emit less than 50 g CO2 per kWh of energy generated compared to at least 500 g CO2 per kWh from coal/gas.
+1.6. Con: Coal plants are already here, and they're getting the job done. Replacing them earlier than needed will increase the cost of electricity production and harm the economy.
+1.6.1. Con: Fossil fuels are limited and will run out eventually. Now is the time to develop and refine the large scale functionality of renewable resources, before we truly need them.
+1.6.2. Pro: Closing down coal mines and power plants will lead to a loss of jobs.
+1.6.2.1. Con: Since we already deal with massive job loss through automatisation it seems counter intuitive to stop when the issue concerns energy production, the base of our modern life's. Beside, renewables will and do create many new jobs.
+1.6.3. Con: Investment in new technology does not harm but benefits the economy as it would produce a lot of new jobs and be a progressive force for technological advances.
+1.6.4. Con: The job gets done with global consequences on ecology that take effect on the base of life, which furthermore will have tremendously higher costs on the economy than a change to a new technology.
+1.6.5. Pro: It's far more complicated than presented. "Some battery storage" implies energy for 12-18 hrs but our economy demands reliable base load power - we need days or even a week of battery power.
+1.6.6. Pro: "Clean coal" is really just much more expensive coal that's slightly less harmful. It's so much more expensive that it gets trounced by solar and wind handily.
+1.7. Pro: Wind farms are popping up all over the place, even in Texas, home of an absurd amount of hydraulic fracturing for gas.

@@ -1,0 +1,33 @@
+Discussion Title: Will the open source model for enterprises facilitate the administration of a society based on commons ?
+
+1. Will the open source model for enterprises facilitate the administration of a society based on commons ?
+1.1. Pro: Public documents should not be published in closed formats
+1.2. Pro: Open source software is often free or cheaper.
+1.3. Pro: Open source software leads to a more participatory democracy.
+1.3.1. Pro: This will-based participation brings more fruitful contributions for it is motivated by passion, not by duty
+1.3.1.1. Con: Passion is the love for what you do. It’s the joy in doing the thing you’re doing, the obsession, and the strong feelings you have towards it. Motivation is the reason behind the thing you’re doing, the WHY. Being motivated by passion can blind you. Duty however let's you set a plan and see in the end goal, and the road to it.
+1.3.1.2. Con: Passion is often a luxury open to some, open source will exasperate inequalities as some will be able to find and invest in their use more than others.
+1.3.2. Con: Open source models are just as vulnerable to perpetuating society's privileges and inequalities, especially as they often don't have the checks and balances that the stage can provide.
+1.3.2.1. Pro: A common is a good that is administered by its users' community. As such, by giving everyone a voice \(and an equal one at that\), it makes it a lot harder to overthrow someone. Or for someone to overthrow the system. Nothing may happen by the sole will of a single person.
+1.3.2.2. Con: Open source models are more likely to set a trajectory to closing the privilege gap, than any other model, because it is better situated to promote accessibility.
+1.4. Con: Direct communication with a helpdesk is often difficult
+1.5. Con: An open source software may not meet the requirements of a governement.
+1.5.1. Pro: Private enterprises may not feel the need tp createthe software needed unless they can sell it to clients.
+1.5.2. Con: This is true of any software or solution and not unique to open source in any way.
+1.6. Con: Open source means that it can reach status quo, as funding is not regular/linear
+1.6.1. Con: Proprietary contents can also lose their funding and no longer be supported. In addition to this you can't ask someone to support it or do it yourself
+1.6.2. Con: Governemental softwares for example would still be funded, but they would also be open-source.
+1.7. Pro: Better understanding of what a user is using the tool for
+1.7.1. Pro: Huge gain of money and time, ressources are what they should be : users
+1.7.2. Con: open source models are more accessible to those with existing skills and confidences.
+1.7.3. Pro: Tool is "created" by its clients
+1.8. Pro: There is no conflict between security and open-source
+1.9. Con: People will harness open source models to generate income in new ways that work against commoning.
+1.9.1. Con: This is not unique to open source, people will harness anything at their disposal. The GPL is a possible remedy in forcing them to share back and a similar license can be developed for open source directed towards commons.
+1.10. Con: No leading authority : thus creating unnecessary debates
+1.10.1. Pro: No direction either
+1.10.2. Con: Debates are what make and idea go forward
+1.11. Con: No real skills nor proof of them is needed to contribute.
+1.11.1. Con: Your contribution is the proof - if it works, gets accepted and gets used, that is the highest validation that you can receive.
+1.11.2. Pro: This might be considered a pro as well as it means that contribution is not reserved to the people with "skills". Anyone may contribute however they want.
+1.11.3. Con: People might add unnecessary comments or upgrades, thus make the tool/software/enterprise go backwards instead of leading it forward as any enterprise should be

@@ -1,0 +1,186 @@
+Discussion Title: P = NP?
+
+1. P = NP? Are polynomial time solvable problems as difficult as problems whose answer can be verified in polynomial time? [P vs. NP problem in wikipedia](https://en.wikipedia.org/wiki/P_versus_NP_problem?wprov=sfla1)
+1.1. Pro: There exist many claimed proofs of P=NP. One of those could be correct.
+1.1.1. Pro: There are many NP complete problems. If P=NP is true, all of these would be feasible to be solved in polynomial time. This is unlikely because the number of problems is huge and nobody has been able to produce such algorithms. [NP complete in wikipedia](https://en.wikipedia.org/wiki/NP-completeness?wprov=sfla1)
+1.1.1.1. Pro: Cook-Levin theorem: "Boolean satisfiability is NP-complete". [Cook-Levin theorem in wikipedia](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem?wprov=sfla1)
+1.1.1.1.1. Pro: If SAT is in P, then P=NP.
+1.1.2. Pro: Nondeterministic Turing machines can solve NP complete problems in polynomial time. If nondeterminism does not add expressive power to P, then P=NP.
+1.1.3. Pro: Many NP-complete problems exist that are hardest problems in NP. Solving any one of these in polynomial time would imply P=NP.
+1.1.4. Con: None of those are published in peer-reviewed journals, and the few ones that have been reviewed by other mathematicians have fatal errors in them.
+1.1.5. Pro: [List of attempted proofs](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm)
+1.2. Con: The P=NP question is a good source of jokes
+1.2.1. Pro: At least if you ask the Oracle of Delphi in nethack [Nethack in wikipedia](https://en.wikipedia.org/wiki/NetHack?wprov=sfla1)
+1.2.2. Pro: If the law of excluded middle is true, then P=NP or P!=NP. Thus P=NP is NOT independent of ZFC. [Law of excluded middle in wikipedia](https://en.wikipedia.org/wiki/Law_of_excluded_middle?wprov=sfla1)
+1.2.3. Pro: The solution to P=NP equation is obviously N=1 by cancellation law.
+1.2.3.1. Con: The relationship between nondeterminism and polynomial time is not multiplication, so the unit of multiplication \("1"\) is not applicable.
+1.2.4. Con: This doesn't negate its validity.
+1.2.4.1. Pro: The fact that some jokes exist has nothing to do with solving the mathematical problem.
+1.3. Pro: Fagin's theorem: NP is equivalent in expressive power to existential second order logic. P is equivalent to first order logic with a least fixed point operation.[Descriptive complexity theory in wikipedia.](https://en.wikipedia.org/wiki/Descriptive_complexity_theory?wprov=sfla1)
+1.3.1. Pro: Can NP be distinguished from P based on distinguishing first-order logic from second-order logic?
+1.3.2. Con: How would this statement change, if least fixed point is changed to greatest fixed point?
+1.3.3. Pro: Hypothesis: a valid theory of quantum gravity would imply solution to the P=NP problem.
+1.3.4. Con: Does existential here mean encapsulation or hiding of data type components, like in functional programming?
+1.3.5. Con: Wouldn't second-order logic be undecidable?
+1.3.5.1. Pro: Yes second-order logic is undecidable. But existential second order logic is simpler than second order logic.
+1.3.6. Pro: Can NP be distinguished from P based on distinguishing "space" from "time"? Existential in Fagin's theorem means encapsulation of space, fixed point creates repetition in time. \(Pro=Time, Con=Space\)
+1.3.6.1. Pro: Fixed points are recursion.
+1.3.6.1.1. Con: Iteration is similar but dual to recursion.
+1.3.6.1.2. Pro: Fixed point is repeated substitution.
+1.3.6.2. Pro: Fixed point can be iterated infinitely many times.
+1.3.6.2.1. Con: It is undecidable in the general case to predict how many times a recursive function will call itself. This would require solving the [halting problem](https://en.wikipedia.org/wiki/Halting_problem?wprov=sfla1).
+1.3.6.2.2. Pro: Fixed point computation with two exits can express rotation around the fixed point, e.g. f g1 h1 x = either \(Left . g\) \(Right . h\) x where { g x = g1 \(h x\) ; h x = h1 \(g x\) }
+1.3.6.2.2.1. Pro: g and h here form a Galois connection.
+1.3.6.2.3. Pro: A fixed point constructs a closure.
+1.3.6.3. Pro: Fixed points exist when diagonalization fails \(see Lawvere,Rosebrugh: Sets for mathematics\)
+1.3.6.4. Pro: If a fixed point is removed from a space, the resulting space produced has smaller dimension than the original space \[see Lawvere, Rosebrugh: Sets for mathematics\].
+1.3.6.4.1. Pro: Basically removing a point at origin is a transformation from cartesian coordinates to polar coordinates, where zero vectors don't have direction or angle.
+1.3.6.4.2. Pro: In complex plane, expressing vectors in polar form, v = r*e^\(i*u\). if v = 0, it follows that r=0 and u can take any value.
+1.3.6.4.3. Con: In complexity theory, checking whether a language is empty is often especially hard. L\(x\) = {}.
+1.3.6.5. Con: Existentially quantified variable might mean a message from a participant in an [interactive protocol](https://en.wikipedia.org/wiki/IP_%28complexity%29?wprov=sfla1) instead. Universally quantified variable would be a message from another participant.
+1.3.6.6. Pro: Fixed points can solve the [eigenvalue](https://en.wikipedia.org/wiki/Eigenvalue_algorithm?wprov=sfla1) equation Ax = kx, where k is an eigenvalue of A, because \[A^n\]\(x\) = k^n * x.
+1.3.6.7. Con: In functional programming, existential quantification means data hiding, e.g. data type is only partially known.
+1.3.6.7.1. Con: Type checking for System-F with universal and existential quantification is undecidable. \[[Type checking for System-F is undecidable](https://www.researchgate.net/publication/222262810_Typability_and_type_checking_in_System_F_are_equivalent_and_undecidable)\]
+1.3.6.7.2. Pro: Existentially quantified type can represent memory space with unknown or variable size.
+1.3.6.7.2.1. Con: Memory space in normal computers is limited, known beforehand and finite. So existential packages are still limited in their space usage.
+1.3.6.7.2.2. Pro: Existential quantified packages can be used through interfaces/API.
+1.3.6.7.3. Pro: Haskell algebraic data types can express existentially quantified data types. [GHC](https://wiki.haskell.org/GHC)
+1.3.6.7.4. Pro: forall -| \(-\)* -| exist. [Geometric morphism in nLab](https://ncatlab.org/nlab/show/geometric+morphism) [Existential quantifier in nLab](https://ncatlab.org/nlab/show/existential+quantifier)
+1.3.6.8. Con: In logic, existentially quantified proposition means that there exists a value for a given variable for which the proposition is true.
+1.3.6.9. Pro: A fixed point can be used to describe the center of a hurricane.
+1.3.6.10. Pro: Time in a computer can be measured by the number of substitutions performed during evaluation of an expression.
+1.3.6.11. Con: Space usage in computer can be measured as the number of bits of processing space allocated for the computation that cannot be garbage collected without modifying the semantics of the program.
+1.3.6.12. Pro: Fixed points can represent a limiting process. [Limit lemma](https://en.wikipedia.org/wiki/Computation_in_the_limit?wprov=sfla1): Limits are undecidable in general \(modulus of convergence is undecidable\).
+1.3.6.13. Con: Complexity classes with fixed and given space usage are more powerful than complexity classes with the corresponding time usage.
+1.3.6.14. Con: [\[Einstein 1905\]: Special relativity](https://en.wikipedia.org/wiki/Special_relativity?wprov=sfla1): Speed of light in vacuum connects time and maximum distance in space.
+1.3.6.14.1. Pro: 4-dimensional coordinates have format \(x,y,z,ict\).
+1.3.6.15. Con: Encapsulation of spatially local regions of space occurs automatically in quantum mechanics because a \(closed\) system that does not interact with its environment cannot be observed from outside.
+1.3.6.15.1. Pro: [Measurement problem](https://en.wikipedia.org/wiki/Measurement_problem?wprov=sfla1)
+1.3.6.15.2. Con: Closure can be modelled as a Galois connection. [Closure in wikipedia](https://en.wikipedia.org/wiki/Closure_%28mathematics%29?wprov=sfla1)
+1.3.6.15.2.1. Pro: -> See 1.3.6.7.4.
+1.3.6.15.2.2. Pro: Closure is a monad on a poset.[Closure operator in nLab](https://ncatlab.org/nlab/show/closure+operator)
+1.3.6.15.3. Pro: Local closed system must be periodic.
+1.3.6.15.3.1. Pro: A local region of space has finite number of allowed states.
+1.3.6.15.3.2. Pro: In the universe, changes happen at most at speed of light. Assuming the converse, that changes happen at least at speed of light produces a requirement that local closed systems interfere with themselves to produce a stable periodic standing wave.
+1.3.6.15.4. Con: A closed system that interacts with outside by emitting light loses energy.
+1.3.6.15.5. Pro: [Observer effect](https://en.wikipedia.org/wiki/Observer_effect_%28physics%29?wprov=sfla1): Observation causes an effect on the observed system.
+1.3.6.16. Pro: Definition of [fixed point](https://en.wikipedia.org/wiki/Fixed-point_combinator?wprov=sfla1) of f: f\(x\) = x.
+1.3.6.16.1. Pro: Notice that f\(x\)=x =\> f^-1\(f\(x\)\)=f^-1\(x\) = x. So if x is a fixed point of f, then x is a fixed point of f^-1. Assuming f^-1 exists.
+1.3.6.17. Pro: [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform?wprov=sfla1) connects time and frequency.
+1.3.6.18. Pro: Fractals are visual representations of complexity associated with fixed points. [Fractal in Wikipedia](https://en.wikipedia.org/wiki/Fractal?wprov=sfla1)
+1.3.6.19. Con: Object-oriented programming deals with encapsulated objects. [OOP in wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming?wprov=sfla1)
+1.3.6.19.1. Pro: Nesting of objects by UML composition represents recursive decomposition of an object to its member attributes.
+1.3.6.19.2. Con: Nesting structure is a tree.
+1.3.6.19.3. Con: Nesting structure is a non-associative binary operation.
+1.3.6.19.4. Con: Syntax for nesting structure can be represented by parenthesis.
+1.3.6.20. Con: Lack of information is associated with randomness.
+1.3.6.20.1. Pro: \[Baker, Gill, Solovay 1975\] \(Relativization\) Oracle machine X exist where P^X=NP^X. Another oracle Y exist where P^Y != NP^Y. It is unlikely that current approaches can decide P=NP problem when no oracles are attached, since proofs valid without an oracle are usually also valid when an oracle is added. [Oracle machines in wikipedia](https://en.wikipedia.org/wiki/Oracle_machine?wprov=sfla1)
+See also Theorem 9.20 \(page 354\) of: 
+\[Sipser M.: Introduction to the theory of computation, ISBN 0-619-21764-2\]
+1.3.6.20.1.1. Con: Proof of P^A = NP^A involves showing PSPACE \\subseteq P^TQBF. Would different kinds of reduction affect this proof? This has essential use of PSPACE-completeness in that the reductions must be in P in order for all the PSPACE problems can be reduced to TQBF within P^TQBF. Would the \\subseteq be true only if polynomial space reductions are used? But then the reduction cannot necessarily be performed in polynomial time.
+1.3.6.20.1.1.1. Con: PSPACE-completeness is defined based on polynomial time reductions
+1.3.6.20.1.1.1.1. Con: Can this mean PSPACE contains multiple distinct sets of complexity classes that are all PSPACE-complete? Every problem in PSPACE is supposed to reduce to the same problem in polynomial time.
+1.3.6.20.1.1.2. Con: TQBF is PSPACE-complete with respect to polynomial time reductions
+1.3.6.20.1.1.3. Con: PSPACE problems can be reduced to TQBF in polynomial time. [PSPACE-completeness in wikipedia](https://en.wikipedia.org/wiki/True_quantified_Boolean_formula)
+See also \[Sipser: Introduction to the theory of computation\]
+1.3.6.20.2. Con: Oracles have a "magic" quality of being able to perform actions without cost of such actions being counted in the computational complexity of the algorithm.
+1.3.6.21. Pro: Intrinsic complexity is associated with randomness.
+1.3.6.22. Pro: Is time discrete or continuous?
+1.3.6.23. Con: Is space discrete or continuous?
+1.4. Con: Most computer scientists believe P != NP.
+1.4.1. Pro: -> See 1.1.1.
+1.4.2. Pro: If P=NP, then the polynomial hierarchy collapses. There is no evidence for such collapse. [Polynomial hierarchy in wikipedia](https://en.wikipedia.org/wiki/Polynomial_hierarchy?wprov=sfla1)
+1.4.3. Pro: If P=NP, then the world would be much different place than it is currently, so it's likely that P != NP.
+1.4.3.1. Pro: If P=NP, then public-key cryptography is insecure.
+1.4.4. Con: Just because nobody hasn't found a proof of P=NP doesn't mean P != NP is true.
+1.4.5. Con: Nobody knows the correct answer to P=NP.
+1.4.6. Pro: P != NP implies security mechanisms that depend on one-way functions would be secure. In contrast P=NP means they need to be redesigned. [One-way function in wikipedia](https://en.wikipedia.org/wiki/One-way_function?wprov=sfla1)
+1.5. Con: P=NP is an important unsolved problem in computer science.
+1.5.1. Pro: P=NP problem is one of the millennium prize problems. People should invest time to solve the P=NP problem, since there is a million dollar reward for a correct solution of the problem from Clay mathematics institute. [Millenium prize problems in wikipedia](https://en.wikipedia.org/wiki/Millennium_Prize_Problems?wprov=sfla1)
+1.5.1.1. Con: To date, only one of the seven problems has been solved. These are very hard problems that a lot of mathematicians consider too high risk and time-draining.
+1.5.2. Pro: Many important problems are known to be NP-complete. Solving the P=NP problem would immediately solve every one of these by reduction of one problem to another. [Reduction in wikipedia](https://en.wikipedia.org/wiki/Reduction_%28complexity%29?wprov=sfla1)
+1.5.3. Con: Solving P=NP with a "yes" answer would break security mechanisms used on the internet.
+1.5.4. Con: Open problems can only be attempted to be solved in research projects, otherwise it's just waste of time.
+1.6. Con: There exist many claimed proofs of P!=NP. One of these could be correct.
+1.6.1. Pro: -> See 1.1.5.
+1.6.2. Pro: Nobody has been able to produce deterministic polynomial-time algorithms for any of the NP-complete problems.
+1.6.3. Con: No proof of P!=NP has been validated as correct by peer-reviewed journals.
+1.6.4. Pro: Many approaches to attack the P=NP exist.
+1.6.4.1. Pro: Perhaps Gödel's theorem can be used to create a hierarchy of complexity classes that distinguishes P from NP?
+1.6.4.2. Con: Perhaps randomness can be shown to not add expressive power by considering probabilities of possible choices for result of the non-deterministic choice?
+1.6.4.3. Con: Is 'undefined' a possible result from a non-deterministic choice operation?
+1.6.4.4. Con: Perhaps P and NP are incomparable?
+1.6.4.5. Con: Perhaps any possible distinction between P and NP occurs only when input size is extremely large?
+1.6.4.6. Con: Maybe no proof can produce sufficient evidence for either alternative for solution to P=NP?
+1.6.4.7. Con: Maybe P=NP is a hoax?
+1.6.4.8. Con: The sum of binomial coefficients in each level of the pascal triangle is a power of two. Maybe resource usage of problems in NP can be described as the collection of levels of the pascal triangle. And resource usage of problems in P can be described as a \(depth-first\) path from the root of the pascal triangle? This would imply P!=NP. [Pascal triangle in wikipedia](https://en.wikipedia.org/wiki/Pascal%27s_triangle)
+1.6.4.9. Con: Perhaps complexity classes can be shown to be inconsistently defined
+1.6.4.9.1. Con: O\(f\(n\)\) notation provides well-known method of distinguishing common complexity classes.
+1.6.4.10. Pro: Perhaps hierarchy theorems could distinguish P from NP
+1.6.4.11. Pro: Perhaps diagonalization can distinguish P from NP?
+1.6.4.11.1. Con: -> See 1.3.6.20.1.
+1.7. Con: Current methods are probably insufficient to decide P=NP.
+1.7.1. Pro: \[Razborov, Rudich 1997\] Natural proofs cannot solve the P=NP problem. [Natural proofs in wikipedia](https://en.m.wikipedia.org/wiki/Natural_proof?wprov=sfla1)
+1.7.2. Con: P is closed under complementation. [Complement in wikipedia](https://en.m.wikipedia.org/wiki/Complement_%28complexity%29?wprov=sfla1)
+1.7.3. Pro: [\[Aaronson, Wigderson 2008\]](http://www.scottaaronson.com/papers/alg.pdf): Algebrization cannot solve the P=NP problem.
+1.7.4. Pro: There exist many claimed proofs of both P=NP and P!=NP. Despite this, every such claim has been proven to be invalid.
+1.7.4.1. Con: Most proofs claiming to solve the P=NP problem have not been seriously considered.
+1.7.5. Pro: -> See 1.3.6.20.1.
+1.7.6. Pro: Many people have attempted to solve P=NP problem but have failed.
+1.7.7. Con: IP=PSPACE [IP in wikipedia](https://en.wikipedia.org/wiki/IP_%28complexity%29?wprov=sfla1)
+1.7.8. Con: [Savitch's theorem](https://en.wikipedia.org/wiki/Savitch%27s_theorem?wprov=sfla1)
+1.7.9. Pro: NP = co-NP? [co-NP in wikipedia](https://en.wikipedia.org/wiki/Co-NP?wprov=sfla1)
+1.7.9.1. Con: It is not known if NP is closed under complementation. [Complement in wikipedia](https://en.m.wikipedia.org/wiki/Complement_%28complexity%29?wprov=sfla1)
+1.7.10. Con: NL \\subseteq P \\subseteq NP \\subseteq PH \\subseteq EXPTIME \\subseteq PSPACE [PSPACE in wikipedia](https://en.wikipedia.org/wiki/PSPACE?wprov=sfla1)
+1.8. Pro: NP describes complexity class of feasible concurrent computation. P describes complexity class of feasible sequential computation.
+1.8.1. Pro: [Cobham's thesis](https://en.wikipedia.org/wiki/Cobham%27s_thesis?wprov=sfla1): Feasible means polynomial time. [Time complexity in wikipedia](https://en.wikipedia.org/wiki/Time_complexity?wprov=sfla1)
+1.8.2. Con: P=NP is equivalent to the claim "every problem that can be quickly verified can also be quickly solved".
+1.8.2.1. Con: "Quickly verified" \(or "feasible"\) means "can be verified in polynomial time" in context of P=NP problem.
+1.8.2.1.1. Pro: -> See 1.8.1.
+1.8.2.2. Pro: A language for NP would contain a nondeterministic "guess" operation that splits execution to two concurrent branches, and returns the "thread id" \(bit\) associated with the current one.
+1.8.3. Pro: [Cook-Levin theorem](https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem?wprov=sfla1): [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem?wprov=sfla1) is [NP-complete](https://en.wikipedia.org/wiki/NP-completeness?wprov=sfla1).
+1.8.3.1. Pro: There exists a reduction from 3SAT to SAT.
+1.8.3.2. Pro: There exists a reduction from every problem in NP to SAT.
+1.8.3.3. Con: Maybe NP completeness is not correct description of "hardest problems in NP"?
+1.8.3.4. Pro: There exists an exponential-time algorithm for solving SAT. The algorithm generates all possible bindings to variables of the input expression and evaluates the expression for each one, checking if the result is 'true'. If any such bindings are found, the algorithm terminates successfully.
+1.8.3.5. Pro: Input to SAT is an expression describing a proposition constructed from variables, "and", "or" and "not". Output of SAT is 'true', if there exists a substitution that can be applied to variables so that the expression becomes 'true'.
+1.8.3.6. Con: Is there a Gödel sentence describing SAT in SAT? [Gödel's incompleteness theorems in wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+1.8.3.6.1. Pro: Perhaps NP-completeness describes just a Gödel sentence for SAT?
+1.8.4. Pro: By Church-Turing thesis, NP means the class of problems that human organizations can feasibly solve. P means the class of problems that an individual can feasibly solve. [Church-Turing Thesis in wikipedia](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis?wprov=sfla1)
+1.8.5. Con: NP=Union{k\>0}{NTIME\(n^k\)}. P = Union{k\>0}{DTIME\(n^k\)}
+1.9. Con: The P=NP problem is likely to be undecidable.
+1.9.1. Pro: NP seems analogous to RE. P seems analogous to recursive. RE \(recursively enumerable\) contains semi-decidable problems.
+1.9.2. Con: There is no valid proof of undecidability of "P=NP" problem.
+1.10. Con: P=NP could be dependent on another difficult problem, such as the Fermat's last theorem.
+1.10.1. Pro: P = NP could be independent of ZFC
+1.10.2. Con: Fermat's Last Theorem has been proven by Andrew Wiles. [Wiles's proof of Fermat's last theorem in wikipedia](https://en.m.wikipedia.org/wiki/Wiles%27s_proof_of_Fermat%27s_Last_Theorem?wprov=sfla1)
+1.10.2.1. Con: The proof of Fermat's last theorem is very long \(several hundred pages of mathematics\). Even though it's believed to be correct, it would be difficult to understand what steps the proof has, and even more difficult to check the proof.
+1.10.2.1.1. Con: The complexity of a proof does not negate its validity.
+1.10.2.1.2. Con: There is no reason to believe that a solution to P vs NP would be less difficult.
+1.10.3. Pro: If axiom of choice is true, then P=NP? [\[Aaronson 2003\] Is P versus NP formally independent?](https://scholar.google.com/scholar?cluster=11490500670097283802&hl=fi&as_sdt=0,5&sciodt=0,5#d=gs_qabs&p=&u=%23p%3D2lqJ7Hp1dp8J)
+1.10.3.1. Con: [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) in it's original form creates paradoxes like Banach-Tarski, and is not always accepted.
+1.10.3.1.1. Pro: Paradoxical nature of AC derives from randomness associated with assumption of invertibility of surjective functions.
+1.10.3.2. Con: Even if AC implies P=NP, it would not necessarily determine status of P=NP question for case when fewer assumptions are made.
+1.11. Con: It's likely that concepts in P=NP problem description have been misunderstood. [Official problem description from Clay mathematics institute](http://www.claymath.org/millennium-problems/p-vs-np-problem)
+1.11.1. Con: P is a well known complexity class. [P in wikipedia](https://en.wikipedia.org/wiki/P_%28complexity%29?wprov=sfla1)
+1.11.2. Con: NP is a well known complexity class. [NP in wikipedia](https://en.wikipedia.org/wiki/NP_%28complexity%29?wprov=sfla1)
+1.11.3. Con: There exists thousands of NP complete problems. [List of NP complete problems in wikipedia](https://en.wikipedia.org/wiki/List_of_NP-complete_problems?wprov=sfla1)
+1.11.3.1. Pro: 3SAT is NP-complete. [Boolean satisfiability in wikipedia](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem?wprov=sfla1)
+1.11.3.2. Pro: Travelling salesman is NP-complete. [Travelling salesman in wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem?wprov=sfla1)
+1.11.3.3. Pro: SUBSET-SUM is NP-complete. [Subset-sum problem in wikipedia](https://en.wikipedia.org/wiki/Subset_sum_problem?wprov=sfla1)
+1.11.4. Con: There exists many P-complete problems. [P-complete in wikipedia](https://en.wikipedia.org/wiki/P-complete?wprov=sfla1)
+1.11.5. Pro: Complexity class equality is a relative notion that depends on the machines used to run the algorithms.
+1.11.5.1. Pro: Time in NP complexity class is measured differently than time in complexity class P. That is, NP-hard algorithms can explore many alternatives in one time step, whereas algorithms in P cannot.
+1.11.5.2. Con: Reasonable complexity class differences can be established using proofs
+1.11.5.3. Con: Hardware differences are hidden by complexity classes to constant factors, O\(1\). [Big-O notation in wikipedia](https://en.wikipedia.org/wiki/Big_O_notation?wprov=sfla1)
+1.11.6. Con: Complexity theory is a mature and well-known part of computer science.
+1.11.7. Pro: The P=NP problem is an esoteric part of complexity theory that only few people understand well.
+1.11.8. Pro: Do complexity classes constructed as infinite union of many complexity classes really exist?
+1.11.8.1. Con: Maybe combining complexity classes using infinite union would break resource limitations and therefore would be inadmissible.
+1.11.9. Pro: Is NP a space or time complexity class? Nondeterminism could make a difference here.
+1.11.9.1. Pro: NP=Union{k\>0}{NTIME\(n^k\)} [NP in wikipedia](https://en.wikipedia.org/wiki/NP_%28complexity%29?wprov=sfla1)
+1.11.9.2. Pro: Maybe distinguishing complexity classes in 3 dimensions would be better, e.g. NP would be infinite in the "processing resources needed for concurrent computation", rather than simple memory space or time resources.
+1.11.9.2.1. Con: -> See 1.11.5.3.
+1.11.9.2.2. Pro: The nondeterministic choice operation can be used to produce bits of "thread id" of the current process.
+1.11.9.3. Con: By Rice's theorem, classification of partial recursive languages is recursive iff the set of languages is empty, or if it contains all partial recursive languages. [Rice's theorem in wikipedia](https://en.m.wikipedia.org/wiki/Rice%27s_theorem?wprov=sfla1)
+1.11.10. Pro: P=NP question seems to attract people with unreasonable claims that are based on insufficient understanding.

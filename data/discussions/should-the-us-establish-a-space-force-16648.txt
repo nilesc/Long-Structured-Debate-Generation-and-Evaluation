@@ -1,0 +1,60 @@
+Discussion Title: Should the US establish a Space Force?
+
+1. The US should establish a Space Force
+1.1. Pro: The US is critically dependent on space assets. Only an independent and co-equal military service will protect those assets.
+1.1.1. Pro: The GPS is one of those space-based systems on which both the US military and many private and public companies and services depend to a great extent.
+1.1.2. Pro: As interplanetary economic activity emerges there will be a need to secure those interests. In the age of maritime exploration there were state-sponsored pirates, this is not different in that regard. As the citizens of the United States are going to be the first to pursue extraterrestrial economic activities \(SpaceX\), it only makes sense that the US would be the first to formally institute an extraterrestrial military force.
+1.2. Pro: The Space Force is needed to ensure war in space never breaks out
+1.2.1. Pro: A strong deterrence prevents aggression.
+1.2.1.1. Con: Strong deterrence ensures rebellion and thereby, ensures aggression.
+1.2.2. Con: As a new agency they will strive to show their relevance so as to justify their existence. This might lead to conflict or threat thereof.
+1.2.3. Con: Just as the US Army, Navy, and Air Force has counterparts elsewhere, US Space Force would be first of many. War in space becomes an eventuality.
+1.2.3.1. Con: The US is not first. China established a [separate service for space](https://worldview.stratfor.com/article/china-takes-bold-steps-toward-military-reform) \(and cyber\) in December of 2015. Also, Russia had an independent Space Force twice, from [1992-1997](https://web.archive.org/web/20111123131940/http://www.fas.org/spp/guide/russia/agency/vks.htm) and [2001-2011](https://en.wikipedia.org/wiki/Russian_Space_Forces). The Russian Space Force is now a sub-branch of the Russian Aerospace Forces.
+1.3. Pro: The Air Force [reportedly controls 90%](https://defensesystems.com/articles/2017/05/25/air-force-budget.aspx) of military space funding yet it has not kept up as other countries have developed threats to US space systems
+1.3.1. Pro: In 2007 China destroyed one of its own satellites with a ground-based missile. [China Test](https://www.nytimes.com/2007/01/19/world/asia/19china.html)
+1.3.2. Pro: The Chinese have already created a space force in 2015. The US must match this competition.
+1.3.3. Pro: Space is the new frontier. The United States needs to push the bounds and create new forms of weaponry to maintain its technical advantage against China and Russia.
+1.4. Con: Creating a new military branch will only add more bureaucracy
+1.4.1. Pro: It will also contribute to increase military spending, which is already considerable.
+1.4.1.1. Con: This could actually be done by reallocating funds from the Air Force and NASA, not necessarily needing extra funds.
+1.4.1.2. Pro: Military spending should be reduced.
+1.4.2. Pro: Secretary of Defense Mattis: "I believe it is premature to add additional organizational and administrative tail to the Department at a time I am trying to reduce overhead. The creation of an independent Space Corps, with the corresponding institutional growth and budget implications, does not address the specific concerns nor our Nation's fiscal problems in a responsive manner." [Memo to Representative Turner](http://www.airforcemag.com/DRArchive/Documents/2017/Sec.%20Mattis%20LTR%20-%20Space%20Corps%20-%207.11.2017%5b2%5d.pdf)
+1.5. Con: Making this organizational change would only distract from the important near term space missions the US needs to complete
+1.5.1. Con: It is possible to create this force and, at the same time, set priorities regarding space missions.
+1.5.2. Pro: Exploration of space is arguably a higher priority than its militarisation.
+1.5.2.1. Pro: Resources in space are plentiful - such metals contained in asteroids of the Asteroid Belt. Since no one has even started mining these, having a military force before any economic priorities to protect seems misguided.
+1.5.2.2. Pro: There is a lot we don't know about the Universe. Scientific exploration in space should be higher priority than its militarisation.
+1.5.2.3. Con: Safe exploration and fair distribution of resources in space is only possible if there is an organised force able to deter or punish abusers.
+1.5.2.3.1. Con: Any such force would be in danger of becoming the abuser itself.
+1.5.3. Pro: Before the US can establish a "Space Force" they should figure out how to return to the Moon and how to get man into space.
+1.5.4. Pro: "Seemingly petty issues like the Space Force uniforms . . .will be part of the process of standing up a new service and will add to the disruption, \[Former Secretary of the Air Force Deborah James\] said. . . 'these things take time and by nature will become a distraction." [Space News](https://spacenews.com/national-security-experts-throw-cold-water-on-space-force-euphoria/)
+1.5.4.1. Con: By the same logic, we should not have another ISS expedition, as each one of them requires [a new logo](https://en.wikipedia.org/wiki/List_of_International_Space_Station_expeditions).
+1.6. Con: A 'Space Guard,' similar to the Coast Guard in the Department of Homeland Security, would be more effective. Unlike a Space Force, the Space Guard could enforce laws and regulations to enhance civil and commercial use of space.
+1.6.1. Con: There is no territory or boundaries to protect in space, thus a Space Guard as a patter after the Coast Guard doesn't make sense.
+1.6.2. Con: America shouldn't get to police space - and no one should, yet
+1.7. Con: A Space Force would violate the [1967 Outer Space Treaty](https://www.lunarland.com/1967-space-treaty/)
+1.7.1. Con: I suspect every nation with something in orbit has already violated the treaty. Article VIII... there is so much space junk in orbit, it's an actual navigation hazard.
+1.7.2. Con: There is nothing in the 1967 Outer Space Treaty that prohibits a nation from protecting its satellites against threats--which is what the Space Force is claimed to be created for. Of course, the US could use the Space Force in ways that violate the OST. For example, it could use it to claim sovereignty over celestial bodies \(moon\) or act as the aggressor to prevent other nations the peaceful use of space. But this is no different than any military force.
+1.7.3. Con: On the contrary, an active US Space Force can help ensure the Outer Space Treaty is not violated by any nation.
+1.8. Con: Creating a new military branch for space is highly antagonistic, which will lead to a dangerous and harmful space arms race
+1.8.1. Pro: -> See 1.2.2.
+1.8.2. Con: Last time there was a space race between the US and the USSR, it provided a huge boost to science in both countries.
+1.9. Con: Military action in space is highly impractical.
+1.9.1. Pro: Space is vast, finding and intercepting enemy units is like hunting needles in a haystack.
+1.9.1.1. Con: The US has sensors that can find things in space. [GSSAP](http://www.afspc.af.mil/About-Us/Fact-Sheets/Article/730802/geosynchronous-space-situational-awareness-program-gssap/)
+1.9.1.1.1. Con: Finding the target is only part of an engagement.
+1.9.1.1.1.1. Pro: Even the tiniest error in the trajectory of an intercepting missile can mean missing the target by kilometres, due to the large distance from which it is launched.
+1.9.1.1.1.2. Pro: Even for distances such as the distance between the Earth and the Moon, the time it takes for light to travel needs to be taken into account when intercepting a target. Any missile would need to have a lead of several seconds on its target.
+1.9.2. Con: Military action has been demonstrated in the past. In 2008 the US destroyed one of its own satellites from a missile launched from a Navy ship.  [US satellite shootdown](http://www.cnn.com/2008/TECH/space/02/20/satellite.shootdown/)
+1.9.3. Con: -> See 1.3.1.
+1.10. Con: The US already has Air Force Space Command, numbering nearly 20,000 airmen.
+1.10.1. Con: The primary mission areas of AFSPC include force support and enhancement for combat forces personnel through access to space. Space itself is not the target domain.
+1.11. Pro: The Space Force normalizes interplanetary activity for conservative \(agrarian\) populations which are otherwise uninterested. This increases interest and accelerates human evolution.
+1.11.1. Con: A civil organization like NASA is better suited to normalize interplanetary activity to engage and generate interest among otherwise uninterested populations.
+1.11.1.1. Con: Roughly one half of the American public has no interest in any of NASA’s missions, save for their most extreme accomplishments. The average person even lost interest in moon travel after the first landing. Putting conservative bodies in space includes conservative people in space exploration, and makes space normal to folks who would otherwise be left out. This inclusion of agrarian communities in space exploration is good for everyone.
+1.11.1.2. Con: The normalization of interplanetary activity requires more than scientific exploration. Nothing NASA does is normal. What is needed are day-to-day activities by people who wouldn’t otherwise be interested in science. Military and economic activity is the best way to do this.
+1.12. Pro: Competition to control interplanetary securities will lead to competition, helping drive extraterrestrial colonization.
+1.13. Con: A separate Space Force will inhibit Joint warfighting
+1.13.1. Pro: Secretary of Defense Mattis: "I do not wish to add a separate service that would likely present a narrower and even parochial approach to space operations vice an integrated one we're constructing under our current approach." [Memo to Representative Turner](http://www.airforcemag.com/DRArchive/Documents/2017/Sec.%20Mattis%20LTR%20-%20Space%20Corps%20-%207.11.2017%5b2%5d.pdf)
+1.13.2. Con: The military has branches for a reason. Combat beyond orbit will be specialized enough that it will require a unique organization.
+1.14. Con: We already have an organization dedicated to space travel. They can't even put a human in space. I do not believe that another organization tasked with largely the same things would fare any better. If the [1967 Outer Space Treaty](https://www.state.gov/t/isn/5181.htm) is upheld, then at best it would make NASA wade through more red tape and bureaucracy. At worst, it would cause the GPS constellation to fall into disrepair.

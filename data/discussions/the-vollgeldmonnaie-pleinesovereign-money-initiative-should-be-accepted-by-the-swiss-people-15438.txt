@@ -1,0 +1,19 @@
+Discussion Title: The Vollgeld/Monnaie Pleine/Sovereign Money initiative should be accepted by the Swiss People.
+
+1. The [Vollgeld](https://www.vollgeld-initiative.ch/)/[Monnaie Pleine](http://www.initiative-monnaie-pleine.ch/)/[Rull-reserve Banking](https://en.wikipedia.org/wiki/Full-reserve_banking) initiative should be accepted by the Swiss people.
+1.1. Con: 100% reserve requirements would eliminate the multiplier effects of banks.
+1.1.1. Pro: A lower reserve requirement allows money to duplicate. Since not everyone tries to retrieve their deposits at the same time banks can lend out money. This money duplicated now since the original owner still has it on the bank but also the company that took the loan can work with the borrowed money.
+1.2. Pro: Requiring banks to hold 100% reserves would make deposit accounts completely safe, eliminating the need for government to prop banks up in the event of a run.
+1.2.1. Con: 100% reserve requirements are especially beneficial for the super rich as lower amounts are generally covered by the government.
+1.3. Con: If we impose 100% reserve requirements on depository institutions, but stop there, we’ll just drive even more finance into shadow banking, and make the system even riskier.
+1.4. Con: The 2008 crisis included very few runs on deposits but a massive run on shadow banking, which produces assets that look very much like money, but aren't regulated as such, and will not be covered under the initiative.
+1.5. Con: Acceptance of the initiative would plunge the Swiss economy into a period of extreme uncertainty.
+1.5.1. Con: That is true of any change that takes place; eventually, things level off and markets adapt.
+1.5.2. Pro: Switzerland relies to a big extent on financial industries.
+1.5.3. Pro: No other country has ever attempted such an extreme initiative, so there is no precedent or example to go by.
+1.5.4. Pro: This would likely cost jobs.
+1.6. Con: Post Keynesian economists have argued repeatedly on the["foolishness" of such notions](http://neweconomicperspectives.org/2014/07/debt-free-money-non-sequitur-search-policy.html#more-8381), pointing out that ["it is all debt money, anyway."](http://neweconomicperspectives.org/2015/12/debt-free-money-banana-republics.html)
+1.7. Pro: Money creation under private control constitutes a "subsidy" to the banking sector.
+1.8. Pro: Creation of money by private banks is inherently pro-cyclical, meaning that it tends to be created during booms, when more money creation is needed during busts.
+1.8.1. Pro: This is one of the root causes of economic instability, which would be mitigated if banks were unable to 'create' their own money.
+1.9. Pro: Direct control over the money supply [\(at least M1\)](https://en.wikipedia.org/wiki/Money_supply) would simplify the task Swiss National Bank in controlling the trade-offs between inflation and employment and output.

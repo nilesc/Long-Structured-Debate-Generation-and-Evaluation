@@ -1,0 +1,89 @@
+Discussion Title: Anarchokapitalismus je nejlepší a udržitelný společenský systém
+
+1. Anarchokapitalismus je nejlepší a udržitelný společenský systém
+1.1. Pro: Je špatně, že si stát násilím vynucuje placení daní.
+1.1.1. Con: Bez daní by část lidí buď "kradla" pozitivní externality, či byla nucena platit výpalné.
+1.1.2. Con: Odvádění daní je v současném systému všeobecně uznávanou a prospěšnou normou. Její dodržování je proto vymáháno stejně, jako u ostatních morálních norem.
+1.1.2.1. Con: I otrokářství bylo ve své době všeobecně uznávanou a prospěšnou normou. To nic nemění na tom, že vybírání daní je loupež a je zcela nemorální.
+1.1.2.1.1. Con: Pokud si skupina dohodne nějaká pravidla a za jejich porušení hrozí postih, vždy může provinilec označovat trest jako násilí, se kterým nesouhlasí.
+1.1.2.1.2. Con: Otrokářství nebylo „všeobecně uznávané“, protože ho neuznávali otroci. V současném státě ovšem daně drtivá většina jejich plátců uznává.
+1.1.2.1.3. Con: Otrokářství rozhodně nebylo „prospěšné“. Z ekonomického hlediska se pravděpodobně vyplatilo, ale z hlediska morálního napáchalo neodčinitelné škody.
+1.1.2.2. Pro: Povinné ručení je také omezování svobody majitele auta. Ale chrání jak vlastníka auta, tak i případnou oběť, jelikož ze spousty lidí bez povinného ručení by do jejich smrti peníze nedostala \(a jak to řešit pak? Půjde dotyčný do otroctví?\)
+1.1.2.2.1. Con: Záleželo by na majiteli silnice, jaké podmínky si nastaví pro provoz. „Povinné ručení“ je jednou z možností jak se chránit proti nepřízni osudu. Škodlivé je, že je povinné.
+1.1.2.2.1.1. Con: Tím, že je povinné, chrání i majitele cizích dražších vozů, jelikož pro spoustu lidí by nabourání nějakého dražšího auta mohlo být doživotně likvidační, takže by byl poškozen i poškozený. Ano, všichni by si mohli platit havarijko \(které by pak měli mít i lidé na své zdraví\), aby v případě nějakého blbce na mizině měli na nápravu či operaci.
+1.1.3. Con: To, že za krádež budu potrestán, je taktéž násilím páchaným na mě. Pokud si to dotyčný není schopen sám ohlídat a nenajme si ochranku, proč mě mají nahánět nějací "státní chlápci"?
+1.2. Con: Štíhlý právní stát může být lepším systémem.
+1.2.1. Pro: Právní stát je schopný řešit tržní selhání.
+1.2.1.1. Con: Nelze najít jediný příklad selhání neregulovaného trhu, kdy to odskákala celá společnost – jako se tomu děje ve selhání státu? Čili aby to zasáhlo i ty, kteří se toho neúčastnili.
+1.2.1.1.1. Con: Standard Oil Company. John D. Rockefeller
+1.2.1.1.2. Con: Microsoft a jeho dominance
+1.2.1.1.2.1. Con: V takovém případě by se dostávalo mnohem více peněz do projektů typu ReactOS a jiných open-source alternativ.
+1.2.1.1.2.1.1. Con: Je otázkou, jak by fungovalo licencování – zda by si tak velká firma jako Microsoft nebyla schopná zaplatit soudní firmu, která jí pomůže obhájit monopol a prohlásit softwarové alternativy za „porušení copyrightu/patentů“.
+1.2.1.1.3. Con: Pokud by nebylo státem nakázáno odsiřovat elektrárny, odskákaly by to lesy - viz. např. Jizerské hory.
+1.2.2. Con: Nejsou dostatečné záruky, že stát štíhlým zustane.
+1.2.2.1. Con: Stejným problémem trpí i anarchokapitalismus. I ten může vyústit v tvorbu vládnoucích struktur. Chudý člověk pak ztratí možnost se dostat výše.
+1.2.2.1.1. Con: Ano, z anarchokapitalsimu se může v nejhorším případě stát stát. Což ale není argument pro užitečnost státu, protože ten zde slouží jako odstrašující případ nežádoucího konce svobody.
+1.2.2.1.1.1. Con: Je obrovský rozdíl mezi demokratickým státem, kde dochází ke svobodným volbám, \(tj. současná situace\) a totalitním státem, který vzniknul např. z monopolu nějaké firmy, \(tj. odstrašující případ konce anarchokapitalismu\). V případě pádu anarchokapitalismu nikdo nezaručuje, jak bude konečná forma vypadat.
+1.3. Con: Anarchokapitalismus se díky seskupování lidí a hromadění kapitálu změní v jiný \(horší\) systém, např. feudalismus.
+1.3.1. Pro: -> See 1.2.2.1.1.1.
+1.4. Con: Anarchokapitalismus nemá instituce bojující proti monopolizaci
+1.4.1. Con: Anarchokapitalismus sám je proti monopolizaci. Největším tvůrcem monopolizace je stát.
+1.4.1.1. Con: Monopol je cílem kapitalistické firmy, jelikož pak si může dovolit neoptimální cenu \(z pozice zákazníka\).
+1.4.1.1.1. Con: Když někde bude neoptimální cena, vtrhne na ten trh jiný, který ji má méně neoptimální. Pokud mu v tom ovšem nebrání státní regulace \(energetika, mobilní operátoři, různé licence omezující vstup do oboru\).
+1.4.1.1.1.1. Con: Velké firmy si mohou dovolit dumping cen - než se jako konkurence chytíte, tak dočasně sníží cenu jejich služeb tak, že krachnete... a po vašem odchodu zase cenu zvýší.
+1.4.1.1.1.1.1. Con: Po dobu dumpingových cen na tom vydělává zákazník. Po ukončení dotace svého monopolu může na trh vtrhnout další entita. Na dumping cen vám nakonec peníze dojdou – celou dobu z toho profituje zákazník. Tedy pokud nejste stát – tam si monopol udržujete silou a konkurenci na trh nepustíte.
+1.4.1.1.1.1.1.1. Con: Argument je platný v situaci, kdy jsou malé bariéry vstupu na trh, například není nutná velká investice. Pokud je investice potřeba větší a vidím, že předchůdce krachl, tak se nebudu obětovat "pro zákazníka".
+1.4.1.1.1.1.2. Pro: Kdo trošku rozumný půjde na trh, kde dochází k dumpingu? Kolik sebevrahů jde do toho, že chce pro dobrou věc krachnout? Zákazník na dumpingu vydělá v době dumpingu a prodělá v době po něm. Nezapomínejme, že existují i bariéry pro vstup. Např. těžko budete provozovat autobusovou linku bez autobusu.
+1.4.1.1.1.2. Con: Pokud by nebyla žádná regulace bezdrátových pásem, těžko by se garantovala kvalita, jelikož není problém např. zarušit konkurenci, nebo se překřikovat. A ve chvíli, kdy se překřikujeme vysílacími výkony, tak může docházet k poškození zdraví lidí v okolí vysílačů i nad rámec toho, čemu jsou vystaveni dnes.  A nebo o problematický vysílač má být boj a kdo bude mít větší palnou sílu, ten to vyhraje?
+1.4.1.2. Pro: Stát lze zneužít pro umělé vytvoření monopolu.
+1.4.2. Con: Anarchokapitalismus má mechanismus proti monopolizaci: konkurenci. Každý může vstoupit na trh, protože jej stát násilím nereguluje. Monopol poskytující špatné služby přestane být monopolem. Monopol poskytující dobré služby není problém.
+1.4.2.1. Con: -> See 1.4.1.1.1.1.
+1.4.2.2. Con: Každý na trh vstoupit nemůže. Aby bylo možné vstoupit na některé trhy, je potřeba velkého množství kapitálu. Je omezený počet frekvencí. Omezený prostor. Atd. Existují monopoly nejen ty, které jsou vytvořeny státem uměle. Naopak v případě některých stát umožňuje jejich regulaci.
+1.4.2.2.1. Con: Pak by se musely hledat jiné nekonfliktní cesty. Trh by stimuloval přechod k jiný technologiím, kde by ke kolizím nedocházelo/nebyly by tak fatální. Což se nyní neděje, služby i technologie stagnují – protože proč by se snažili, když jim konkurence nejde po krku.
+1.4.2.2.1.1. Con: I nové technologie mohou být využít velkými hráči a díky úspoře z rozsahu ty užitečné dokáží nasadit a vytěžit z nich víc, než konkurence, která může i nadále čelit problému se vstupem na trh. Např. vybudovat nový vodovod je problém a rozvoz vody je neekonomický.
+1.4.2.3. Con: Monopol poskytující dobré služby je problém, protože dochází k hromadění prostředků v rukou jedné entity. Ta je může používat k ovládání stále větší části trhu, případně se spojovat s dalšími giganty v jednu firmu, než z nich vznikne absolutní monopol \(Buy'n'Large\) – tedy nová totalitní „vláda“, kterou si nikdo nezvolil.
+1.5. Con: Hrozí diktát bohatých, kteří by měli v anarchokapitalismu mnohem větší moc, než v právním státu.
+1.6. Pro: Stát svojí "péčí a pomocí" vytváří nezodpovědnost a množství dalších negativních vlivů.
+1.6.1. Pro: Ano, ale to vede k zániku státu jako takového.
+1.6.2. Con: „Vytváří nezodpovědnost“ je příliš silné tvrzení. Podporuje? To možná ano. Také ale zabraňe katastrofickým situacím tam, kde nezodpovědnost existuje.
+1.6.2.1. Pro: Navíc do situací, ve kterých stát pomáhá nezodpovědným, se může dostat i zodpovědný člověk nešťastnou náhodou. Například zadluženým se člověk může stát i tak, že prostě jen důvěřuje nesprávnému člověku. Nebo se narodí do špatné rodiny. V takovém případě se bez pomoci státu neobejde.
+1.6.3. Pro: Kvůli zásahům státu společnost upadá na morální a etické úrovni.
+1.6.4. Pro: Kvůli zásahům státu společnost upadá na ekonomické úrovni.
+1.6.4.1. Con: Pokud jakákoliv společnost umožní své neefektivní vedení, pak se stává neefektivní. Stát je zde v roli akciové společnosti.
+1.7. Pro: Lidé mají absolutní svobodu
+1.7.1. Con: Lidská svoboda bude dál omezena penězi.
+1.7.1.1. Pro: A "silnými" jedinci s nižšími morálními zábranami
+1.8. Pro: Nehrozí diktát chudých
+1.8.1. Con: Chudí mohou zatoužit po bohatství bohatých a zatouží ho získat jinak, než prací, např. krádeží.
+1.8.1.1. Con: To mohou i v současném systému a v obou systémech by měla existovat síla, která tomu bude bránit a zloděje potrestá.
+1.9. Con: Chybí veřejné vzdělávání, díky čemuž je v populaci více např. negramotných
+1.9.1. Con: Na volném trhu může kdokoliv založit školu nebo vzdělávat děti doma.
+1.9.1.1. Con: Může. Tak to bývalo. Ale výhodnější může být poslat dítě rovnou pracovat.
+1.9.1.1.1. Con: V součastnosti trpíme spíš opačným jevem – lidé s příliš nízkým vzděláním jsou téměř nezaměstnatelní a na velké množství „obyčejných“ pozic jsou potřeba vysokoškolské tituly.
+1.9.1.2. Con: Tím by padnul jakýkoliv „vědomostní standard“. Už v současném systému, kde existují pravidla a kontroly pro domácí vzdělávání, dochází k tomu, že „domoškoláci“ často nemají základní vědomosti, co se učí ve škole. Často proto, že mají jejich rodiče nějaké známé na úřadě a projde jim to. Teď se s tím dá bojovat zpřísněním kontrol. Kdyby takové kontrolní orgány vůbec neexistovaly, vědomostní propast by se ještě výrazně zvětšila.
+1.9.2. Con: "A kdo bude stavět silnice?" - o veškeré služby se postará soukromý sektor
+1.10. Con: Důchodci, kteří nejsou pojištěni jsou odsouzeni k žebrání
+1.10.1. Con: Stejne, jako ted. Narozdil od soucasnosti by si mohli vybrat, kde a jak budou pojisteni; konkurence je obecne pozitivni jev. Ze se nekdo nepojisti je preci jeho volba, a i tak by nakonec zafungovala charita - viz prvni republika.
+1.10.1.1. Con: Dnes existují varianty, jak si připravovat peníze na cokoliv, včetně důchodu [\(příklady\)](https://www.podnikatel.cz/clanky/5-moznosti-jak-sporit-na-duchod-jinak-nez-v-druhem-piliri/). Stačí vhodně investovat dostatečné množství peněz. Přesto si Češi nespoří skoro nic [\(trocha empirie\)](https://finance.idnes.cz/penze-duchod-jak-si-sporit-dcm-/viteze.aspx?c=A171026_151918_viteze_kho), ačkoliv se všeobecně ví, že od státu moc peněz čekat nemůžou. \(Tj. konkurence existuje již dnes, lidé ale služeb nevyužívají. Stejně by to pravděpodobně dopadlo i v anarchokapitalismu, jen by navíc neměli žádný státní důchod.\)
+1.10.1.1.1. Con: 30 let je tak dlouhá doba, že se těžko zaručuje cokoliv. \(Např. pro důchodový systém v hodnější.\)
+1.11. Pro: Lidé mají maximální důvod se snažit
+1.11.1. Con: Pokud by lidé získali pocit, že je rozdělení bohatství příliš nerovnoměrné a nemají nejmenší šanci vypracovat se na posty bohatých „vládců“, vedlo by to naopak k maximální frustraci a rezignaci.
+1.11.1.1. Con: Posty bohatých jsou irelevantní, důležitý je postup o jednu úroveň výš – namísto osmi hodin práce jen sedm. A tato motivace \(zlepšit svůj život\) je nenahraditelná síla posunující společnost v před.
+1.11.1.2. Con: Cílem není rovnoměrné rozložení. Rovnoměrně rozložit lze bídu \(v komunismu\) ne bohatství. Aktuální stav je také velmi nerovnoměrný a vede to k frustraci z toho, že těm bohatým \(stát, úředníci\) pod hrozbou sakncí musím platit výpalné.
+1.11.1.2.1. Con: Extrémní rozdělení bohatství někdy zajistí, že lidé hledají alternativní způsoby, jak se k němu dostat, např. organizací, která ma za účel sebrání majetku kapitalistům. Čímž si dlouhodobě nepomůžou ani chudí a rozhodně ne bohatí.
+1.12. Con: Anarchokapitalismus vyžaduje určitý morální kredit všech lidí, nicméně morální vlastnosti se mezi lidmi různí. Bez státu není možné se proti nemorálnímu a neetickému chování efektivně bránit a udržovat společenský morální standart.
+1.12.1. Con: V anarchokapitalismu by existovaly nezávislé soudní společnosti, které by poskytovaly právní ochranu každému, kdo si zaplatí. Volný trh zajistí, že bude splněna touha občanů po jednotných a morálních zákonech.
+1.12.2. Pro: Člověk, který si nemůže dovolit zaplatit, nemá nárok na spravedlivý soud.
+1.13. Con: Nikdo neřeší plundrování divočiny
+1.13.1. Con: Plundrovani divociny pravdepodobne negativne ovlivnuje ostatni lidi, tedy je to agrese, ktere se budou chtit branit.
+1.13.1.1. Con: Lidi, např. v USA, úplně nezajímá, jak moc ekologicky jsou těženy suroviny v jiných částech světa.
+1.13.2. Con: Greenpeace a dalsi NGO, nadace a charity. Ve svete, kde lidi maji vice penez, protoze neplati dane, a ktery rychleji ekonomicky roste, by navic bylo mozne podobnym skupinam dat vice penez.
+1.13.2.1. Con: Greenpeace nemá moc možností, jak efektivně ekologické záležitosti řešit.
+1.13.2.2. Con: Když se velká firma rozhodne, že vykácí prales \(a její soud neuznává žádná pravidla, která by jí v tom bránila\), těžko jí v tom Greenpeace nebo jakákoliv podobná společnost nějak zabrání.
+1.13.3. Con: "Nikdo neresi" je celospolecensky postoj, ktery v soucasnosti rozhodne neni pravdivy; lide nedelaji vice, protoze stat slibuje, ze to za ne pomoci penez z dani zajisti.
+1.13.3.1. Con: Z hlediska ČR se nedá efektivně řešit např. kácení pralesu v Brazílii. V rámci naší země přitom je nutno dodržovat spoustu zákonů, které přírodu chrání.
+1.13.3.1.1. Con: Poslat penize \(Bitcoiny\) neni problem. Z pozice CR se realne dost resil napr. palmovy olej - a neda se rict, ze neuspesne, byt samozrejme byt to jen CR, tak to nevyjde, coz je ale v poradku, protoze CR je dost mala skupina lidi, a ani v demokracii by nestacila.
+1.13.3.2. Con: Tenhle fakt je potřeba podložit nějakou empirií. Rozhodně není automaticky zřejmé, že by se většinová společnost aktivně zajímala o globální problémy.
+1.13.3.3. Con: Už dnes je možné výrazným způsobem ovlivňovat chování firem k přírodě kupováním produktů, které prostředí nijak neškodí. Velké množství lidí ovšem raději sáhne po levnějších neekologických variantách. Kdyby neexistovala žádná vynucená pravidla, rozdíl mezi cenami ekologických a neekologických produktů by byl ještě větší. Ty ekologické by potom v konkurenci obstály ještě hůře než nyní.
+1.13.4. Pro: Ani kapitalistický stát není schopen efektivně vyřešit obalovou politiku tak, aby nedocházelo ke špinění oceánů. Pokud bude anarchie a padnou i stávající snahy ze strany společnosti o recyklaci, tak se situace ještě zhorší.
+1.13.4.1. Con: Situace bude přesně taková, jakou ji lidé budou chtít. Nebude ani špatná, ani dobrá. A já jsem přesvědčen, že pud sebezáchovy je dostatečně silný. On svým způsobem znečištění nemusí vadit, pokud jej dokážeme začlenit bez větších újem do našeho života. Např. jaderný odpad nebo neúrodná půda. Přijde den, kdy nebude půdy třeba.

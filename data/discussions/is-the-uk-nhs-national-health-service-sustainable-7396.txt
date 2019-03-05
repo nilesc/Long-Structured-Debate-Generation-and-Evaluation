@@ -1,0 +1,59 @@
+Discussion Title: Is the UK NHS (National Health Service) sustainable?
+
+1. The UK NHS \(National Health Service\) is not sustainable.
+1.1. Con: NHS has existed for 70 years and has strong public goodwill.
+1.1.1. Pro: A 2017 survey of 1,150 UK adults showed that the NHS continues to enjoy [unwavering support](https://www.kingsfund.org.uk/publications/what-does-public-think-about-nhs) among the public which endures across the generations.
+1.1.2. Con: Goodwill and previous existence doesn't help sustainability.
+1.2. Pro: People have a theoretically unlimited desire for public healthcare. The public funding is not unlimited. The NHS will never be able to do all people want.
+1.2.1. Con: Whilst valid from a theoretical viewpoint, in practice the NHS is expected to uphold a decent standard of health care, not a service of unlimited quality.
+1.2.2. Con: People are neither immortal nor sick all the time. There isn't an unlimited desire for healthcare.
+1.3. Con: The NHS has a lot of money and resources, greater efficiency using them will help sustainability.
+1.3.1. Con: The NHS' financial trouble is notoriously endemic and widespread. The [National Audit Office](https://www.theguardian.com/society/2016/nov/22/nhs-financial-problems-endemic-and-no-longer-sustainable-national-audit-office-deficit) has revealed that two-thirds of health trusts in England are now in deficit, while their total debt almost trebled from 2015 to 2016 to £2.45bn.
+1.3.1.1. Con: This argues against the management of the NHS, not the existence of the NHS. The financial troubles can be altered without ending the institution.
+1.3.2. Pro: [Figures](https://www.kingsfund.org.uk/blog/2016/01/how-does-nhs-spending-compare-health-spending-internationally) suggest that the NHS Budget has spent a lower percentage of GDP every year since 2010. The NHS was sustainable until the British Government decided to reduce spending.
+1.3.2.1. Pro: This, in itself, practically proves that the NHS is a sustainable service.
+1.3.3. Pro: Planned changes such as [organisational reconfigurations](https://www.england.nhs.uk/new-care-models/) would help the NHS in this regard.
+1.3.3.1. Con: Re-structuring an organisation is not always beneficial and does not always lead to efficiencies
+1.3.3.1.1. Pro: Classic example where re-structuring does not work is the police service of Scotland. The amalgamation of the 8 forces did not lead to efficiencies it lead to [serious financial troubles](https://www.google.co.uk/amp/s/www.bbc.co.uk/news/amp/uk-scotland-42281284).
+1.3.4. Pro: Digitalisation and new technologies will [help the NHS be sustainable](https://www.raconteur.net/healthcare/new-technology-can-offer-a-cure-for-the-nhs).
+1.3.4.1. Pro: Automatization of care is labor and cost saving.
+1.3.4.2. Pro: More data allows for more tailored approaches which reduces spending on duplicate efforts.
+1.3.4.3. Con: New technologies cost money.
+1.3.4.3.1. Con: If executed properly it will save time in the long run.
+1.3.4.3.2. Con: Old technology slows down progress and is inefficient
+1.3.4.3.3. Con: Investment is required in order to improve anything. Provided the cost is met by a commensurate return, then the fact that they cost money is irrelevant.
+1.3.4.4. Con: The existing infrastructure of the NHS' digital system is inadequate and thus unsustainable.
+1.3.4.4.1. Pro: Because of this inadequate digital infrastructure, there is a lack of communication between departments and areas of the NHS that is unsustainable.
+1.3.4.4.2. Con: Being inadequate does not mean its unsustainable. Your car needing a service or replacement does not mean you give up on the idea of personal transport - you invest in a new car. The NHS can invest in new infrastructure which, if done correctly, could serve it for years and provides benefits to us all far beyond the initial outlay.
+1.3.4.5. Con: Scientific evidence is lacking to back up this argument. This is particularly true for remote monitoring of chronic conditions, where no beneficial patient outcomes have been recorded.
+1.3.4.6. Con: Digital technology is not accessible for the most vulnerable patients.
+1.3.4.6.1. Pro: Many rural areas lack mobile signal, leaving the already-vulnerable patients who live there unable to rely on telephone systems as a means of communication with the NHS.
+1.3.4.6.1.1. Con: It would be easy to set up a wifi network for these people.
+1.3.4.6.2. Pro: Many elderly people would not have the confidence or know-how to successfully use digital technology.
+1.3.4.6.3. Pro: Many of the poorest households do not have reliable wifi/phone access.
+1.3.4.6.3.1. Con: [High speed broadband](https://www.theguardian.com/technology/2017/dec/20/high-speed-broadband-to-be-legal-right-for-uk-homes-and-businesses) has become a legal right for UK citizens.
+1.3.4.6.4. Con: Digital technology would not have to be applied to the vulnerable patients. Provided it was targeted at bringing down costs and improving service, it doesn't need to be applicable to patients at all. It could help keep notes or make decisions. It could reduce bureaucratic burden, or ensure that patients' notes are available in an accurate and speedy manner. This would free up cash to ensure the elderly still get 1:1 care and access to more suitable forms of communication.
+1.3.4.7. Con: The NHS has a poor record of adopting technology outside of front line clinical care. It is still the world's largest purchaser of fax machines \([deepmind.com](https://deepmind.com/blog/independent-reviewers-annual-report-2017/)\), uses 10% of the world's pagers [www.theguardian.com](https://www.theguardian.com/society/2017/sep/09/old-technology-nhs-uses-10-of-worlds-pagers-at-annual-cost-of-66m) and the NHS Spine project ran for years at a cost of £10 Billion without providing a useable system [www.computerweekly.com](https://www.computerweekly.com/opinion/Six-reasons-why-the-NHS-National-Programme-for-IT-failed)
+1.3.4.7.1. Con: The NHS' track record of adopting technology can be changed without giving up on the concept of the NHS.
+1.3.4.8. Pro: [Doctors](https://www.babylonhealth.com/product) can work together with [machine learning](https://www.forbes.com/sites/nvidia/2018/03/14/better-cancer-diagnosis-with-deep-learning/#6b37603f2a7f) to help make decisions and diagnose issues quicker and more efficiently.
+1.4. Con: Budgetary reallocations could solve financing problems.
+1.4.1. Pro: A lot of public money is spent on the military, this could be put towards healthcare to make the NHS more sustainable.
+1.4.1.1. Con: As a proportion of total budget, the NHS budget is [almost twice](https://www.ukpublicspending.co.uk/current_spending) the military budget and the military budget has been decreasing since the 1980's.
+1.5. Pro: The NHS has cost more every single year since its inception and will continue to do so.
+1.5.1. Pro: This is because the [population in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/overviewoftheukpopulation/mar2017) has increased every single year since the NHS was created. This [graph](https://www.bbc.co.uk/news/health-38887694) shows the actual NHS budget to be on the ascent every year since 1955.
+1.5.1.1. Con: -> See 1.3.2.
+1.5.2. Pro: UK people are living longer, this increases NHS costs as [older people consume more healthcare](https://www.theguardian.com/society/2016/feb/01/ageing-britain-two-fifths-nhs-budget-spent-over-65s) and [there will be more older people](https://www.parliament.uk/business/publications/research/key-issues-parliament-2015/social-change/ageing-population/).
+1.5.2.1. Con: Immigration can help to ease the burden of an ageing population on the NHS.
+1.5.2.1.1. Con: Immigrants age and \(their\) life expectancy can also generally be expected to rise.
+So unless the immigration is short-term this is not a long term or sustainable solution to the challenge of ageing population.
+1.5.2.2. Con: Improving technology brings down the costs of healthcare.
+1.5.3. Con: The NHS has, arguably, done more and achieved more with that money including dealing with a bigger population. A population \(and economy\) that grows and therefore increases in its capability to afford the NHS.
+1.5.4. Pro: Unhealthy lifestyles are prevalent and treating associated illnesses \(eg. poor diet, diabetes\) will be an increasing burden on the NHS.
+1.5.4.1. Con: People in the UK are pursuing healthier diets: a [PwC report](http://pwc.blogs.com/press_room/2016/08/healthy-eating-is-increasingly-on-consumers-agendas-with-millennials-leading-the-way.html) shows that nearly half of British 18-34 year olds changed their diets in healthy ways from 2015 to 2016.
+1.5.4.2. Pro: Healthy food costs [3 times](http://www.telegraph.co.uk/news/11149644/Healthy-diet-costs-three-times-that-of-junk-food.html) that of junk food. This means that food poverty contributes to poorer diets among poorer people, and is likely to lead to worse health among these populations.
+1.5.4.3. Pro: The latest data shows that the population is still largely uneducated about what constitutes a healthy diet. A recent article in [theguardian.com](https://www.theguardian.com/science/2018/feb/02/ultra-processed-products-now-half-of-all-uk-family-food-purchases) shows that much of the family diet is made up from highly processed food.
+1.5.4.4. Con: That's a comment on the national demographic, not the NHS. It would be cheap \(i.e. sustainable\) to provide education with respect to leading a healthy life, and introduce policy \(often by the way of taxation\) to influence decisions e.g. quitting smoking and lowering sugar intakes.
+1.5.5. Pro: Inflation pushes costs up each year.
+1.5.5.1. Con: Inflation pushes affordability up each year by the same amount.
+1.5.6. Pro: Brexit may incur more costs for the NHS, via having to replace or compensate EU workers or higher costs for imported supplies or having to pay [more expat costs](https://www.independent.co.uk/news/health/nhs-brexit-care-retired-expats-double-1bn-billion-500m-nuffield-trust-a7763851.html).
+1.6. Pro: The NHS is affected by associated [Social Care](https://www.kingsfund.org.uk/sites/default/files/field/field_publication_file/Autumn_Statement_Kings_Fund_Nov_2016_3.pdf#page=18) and [Public Health](https://www.kingsfund.org.uk/projects/nhs-in-a-nutshell/spending-public-health), both of which are also under pressure.

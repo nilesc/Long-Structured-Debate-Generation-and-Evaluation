@@ -1,0 +1,38 @@
+Discussion Title: Are Homeopathic Remedies Fraudulent?
+
+1. Homeopathic remedies are fraudulent.
+1.1. Con: A positive unreasonable belief, otherwise known as placebo, was found effective and even superior to modern medicine in some rare cases.
+1.1.1. Con: The places where placebo are better than current therapies are the places where current therapies are being abandoned.
+1.1.2. Con: The majority of studies [say otherwise](https://www.theguardian.com/society/2005/aug/26/health.medicineandhealth3).
+1.1.3. Pro: The placebo effect is often maligned, but does [actually work](https://www.verywellmind.com/what-is-the-placebo-effect-2795466); as such, it doesn't matter whether it is placebo or genuine.
+1.1.4. Con: Medicine is based in statistical analysis. Working in rare cases would be considered a non-working therapy.
+1.2. Con: The doctors can instruct patients about the medicine being homeopathic. In some countries, there is a law for it. If a patient knows he buys an overpriced sugar pill and buys it of his own will, it is not fraud.
+1.2.1. Con: The person selling homeopathy is committing fraud unless they tell the patient that it can't possibly work and actually all the underpinnings are nonsense.
+1.2.1.1. Con: Not every pharmacist or shopkeeper can be held responsible for the marketing done by the homeopathic sector.
+1.2.1.1.1. Con: Anyone who sells something that is a fraud should be prosecuted for fraud. Do your research before selling a product to the public
+1.2.2. Pro: Patients have agency and the ability to choose. If that is their decision then nobody else need get involved, certainly not with accusations of fraud.
+1.3. Pro: Homeopathy outright ignores all known science, rendering all of its claims fraudulent.
+1.3.1. Pro: The US Federal Trade Commission stated in an Enforcement Policy Statement on Marketing Claims for OTC Homeopathic Drugs that "homeopathic product claims are not based on modern scientific methods and are not accepted by modern medical experts" [ftc.gov](https://www.ftc.gov/system/files/documents/federal_register_notices/2016/12/homeopathic_drugs_frn_12-13-2016.pdf)
+1.3.2. Pro: Proponents of homeopathy advocate the concept of "water memory", according to which water "remembers" the substances mixed in it, and transmits the effect of those substances when consumed - this contradicts scientific understanding of matter.
+1.3.2.1. Pro: This idea comes from research that several molecules of water can bounce vibrations among themselves and hold it for some time. There is no research speaking of similar properties of other substances, especially not the solid ones as the capsules consumed are.
+1.3.3. Pro: Homeopathy posits the cause of human diseases such as tuberculosis to be "miasms", hypothetical disease entities that can be attracted by a negative state of mind, and rejects the notion of the cause of disease being a separate thing or invading entity. This contradicts our modern knowledge of viral and bacterial causes of disease.
+1.3.3.1. Pro: When our understanding of medicine was far lesser, homeopathy was a viable way to make sense of physical ailments; it is now extremely outdated and rendered redundant.
+1.3.4. Con: It may not seem to follow current scientific or medicinal knowledge, but perhaps it is more advanced in that regard, and science will catch up to the work homeopathy is already doing.
+1.3.4.1. Con: Proper science based medicine follows the science rather than leading it. It's a fraud until and unless it's proven to work
+1.4. Pro: Homepathic substances are in practice placebos that are explicitly marketed as active, non-placebo substances. This is fundamentally fraudulent.
+1.4.1. Con: If the placebo works, the end result is positive; as such, homeopathy should remain supported.
+1.4.1.1. Con: Placebos are not guaranteed to work, waste money, and are actually harmful to the person if their condition worsens with time.
+1.4.2. Pro: In no other area of medicine would it be acceptable to try and tout non-legitimate treatments as viable options.
+1.5. Pro: Proponents of homeopathy claim that greater dilutions \(lower concentration\) of supposed active ingredients produce stronger effects. Medical science has shown the opposite: that responses are correlated to dosages.
+1.5.1. Pro: Homeopathic preparations are diluted to "30C" in most cases, or 1 part in 10^60. At this level of dilution not even a single molecule of the supposed active substance remains in the preparation.
+1.5.2. Pro: Oscillococcinum, a widely marketed homeopathic anti-flu preparation, is sold for $35-40 for 1.2 oz of lactose sucrose tablets "imprinted" with 1 part duck heart and liver to 10^400 parts water \(at such dilutions no duck matter remains\). Selling sugar for $29/oz while claiming effectiveness against flu is inherently fraudulent. [en.wikipedia.org](https://en.wikipedia.org/wiki/Oscillococcinum)
+1.5.2.1. Pro: It gets better: the 'oscillo' part references vibrating spheres seen on a microscope slide, which were air bubbles from a poorly prepared slide. It's a dilution of a microscopy error, yet sold in pharmacies.
+1.5.3. Pro: The entire pseudoscience of [homoepathic dilution](https://en.wikipedia.org/wiki/Homeopathic_dilutions) has been proven unscientific.
+1.5.4. Con: -> See 1.3.4.
+1.6. Pro: Homeopathy is ineffective, yet proponents advocate it as a treatment for life-threatening diseases including cancer.
+1.6.1. Pro: A large [Australian study](https://www.nhmrc.gov.au/_files_nhmrc/publications/attachments/cam02a_information_paper.pdf) analyzing 1,800 homeopathic studies concluded there is no reliable evidence showing homeopathy is an effective method.  \(pp. 24\)
+1.6.1.1. Pro: Of the 1,800 papers reviewed, only 225 were viable enough to analyze. It was [concluded](https://www.nhmrc.gov.au/_files_nhmrc/media_releases/nhmrc_releases_statement_and_advice_on_homeopathy140311.pdf) these studies were either poorly designed, or without a substantial amount of participants.
+1.6.2. Con: There is plenty of [anecdotal evidence](https://homeopathic.com/why-homeopathy-makes-sense-and-works-3/) to suggest that homeopathy does work.
+1.6.3. Pro: It is not merely fraudulent, but an act of murder, to prescribe homeopathic remedies to those with life-threatening illnesses.
+1.6.3.1. Con: In cases where modern medicine can no longer help, perhaps homeopathy would be a positive idea, as it may stand a slight chance of genuinely working when other options have been exhausted.
+1.6.3.2. Pro: When there are other, effective treatments available there is no excuse to use homeopathy.

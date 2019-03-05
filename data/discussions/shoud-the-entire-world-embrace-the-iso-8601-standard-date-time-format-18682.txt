@@ -1,0 +1,23 @@
+Discussion Title: Shoud the entire world embrace the ISO 8601 standard date-time format?
+
+1. Shoud the entire world embrace the ISO 8601 standard date-time format?
+1.1. Con: The majority of the world population would have to adapt to the christian starting year.
+1.1.1. Con: Most of the world uses this standard anyway, for example in transnational business transactions. Hardly anyone would have to go through a difficult adaptation process.
+1.1.2. Pro: The Korean New Year, [Seollal](https://en.wikipedia.org/wiki/Korean_New_Year), is typically beginning of February.
+1.1.2.1. Con: Koreans, for all practical purposes, use the Christian starting year. Seollal mainly plays a role as a traditional holiday.
+1.1.2.2. Con: Koreans don't use the traditional calender frequently. Even the Ministry of Justice on their [Korean website](http://www.moj.go.kr/HP/MOJ03/index.do?strOrgGbnCd=100000) make use of a western format.
+1.2. Con: ISO 8601 is not an open standard. To have access to the full documentation, the ISO requires a purchase of[the 140$ document](https://www.iso.org/standard/40874.html). This is unnecessary and too expensive.
+1.3. Pro: Many mistakes would be avoided with unified format.
+1.4. Con: The US would have to abandon the AM/PM tradition and get new clocks in most contexts.
+1.4.1. Con: Analog clocks don't distinguish between AM and PM or display time in a 24 hour format anyway, so they would not be affected and not need to be replaced.
+1.4.2. Con: Most modern digital timekeeping devices, such as smart watches, smart phones and other screens could easily be adapted to the new format.
+1.5. Pro: Dates and times presented in ISO 8601 format sort very nicely in spreadsheet and in computing when doing simple text sorts.
+1.6. Con: Europeans would have to modify many documents and system s that present Day/Month/Year and switch that around to Year/Month/Day. The change would be a bit of a shock.
+1.6.1. Con: Most software and websites are used around the globe and therefore already offer users the option to change the format. This would therefore not cause technical problems.
+1.6.2. Pro: Many European web sites present date and time in a way that conforms to their own local standards and defies ISO 8601 standards, lacking any other option and yet content is global in scope. Greater persuasive forces to get them to conform would reduce confusion globally.
+1.7. Con: Americans would have to start consistantly putting the year in front of the date to comply. Going from MM/DD/YYYY to YYYY/MM/DD format.
+1.7.1. Con: This is just a matter of getting used to it, not a big issue.
+1.8. Pro: Dates like 4/5/11 would no longer be ambiguous. This expression could be equally thought of as April 5th, 2011 or May 4th, 2011 or May 11th, 2004. Having a standard would eliminate all that nonsense.
+1.9. Con: In the standard, years are generally presented with all four digits which would require for displays and papers to provide more room for the extra numbers if only two digits had been previously used. \(An old Y2K concern\)
+1.9.1. Con: Paper as well as digital documents routinely get adapted anyway, so changing the format of the date would not be an unprecedented effort.
+1.10. Pro: The standard is much more compatible with UTC time when a global perspective is needed.

@@ -1,0 +1,391 @@
+Discussion Title: Should Whaling Still be Banned?
+
+1. Hunting whales in a population-sustaining fashion \(while minimising suffering\) should be allowed.
+1.1. Pro: Whale meat has a relatively low [carbon footprint](http://www.reuters.com/article/us-climate-whaling-idUSEIC37493020080303). Therefore its consumption is helpful to fight climate change.
+1.1.1. Con: The quantities of whale meat consumed pale against those of meat from other sources and are insignificant in the fight against climate change.
+1.1.1.1. Con: Increased whaling will be helpful at the margin as more whale meat becomes available and consumed.
+1.1.1.1.1. Pro: But if we ate more whales, this unfortunate imbalance would be rectified, and the quantity consumed would no longer 'pale' against other sources. The imbalance only exists because... we don't eat enough whales.
+1.1.2. Con: As the article notes, most fish and seafood has a similarly low carbon footprint, without the other issues associated with whaling.
+1.1.2.1. Con: Fishing has its own [issues](http://wwf.panda.org/about_our_earth/blue_planet/problems/problems_fishing/destructive_fishing/) associated with it, such as bottom trawling, cyanide fishing or ghost fishing.
+1.1.3. Con: The study only accounts for fuel use, ignoring the impact of releasing the carbon dioxide stored in whales into the atmosphere, which is reasonably [significant](https://www.sciencenews.org/blog/scene/carbon-footprint-industrial-whaling).
+1.1.4. Pro: About 2.2 lbs of [whale meat](http://www.reuters.com/article/us-climate-whaling-idUSEIC37493020080303) are responsible for 4.2 lbs of greenhouse gases against 15.8 for beef, 6.4 for pork and 4.6 for chicken.
+1.1.5. Con: Healthy whale populations help promote the trapping of carbon by [phytoplankton](http://www.reuters.com/article/us-whales-carbon-idUSTRE65F0HA20100616), by defecating iron that stimulates its growth. When phytoplankton dies, it sinks to the ocean ground trapping CO2.
+1.2. Pro: By being able to kill, take and treat whales for purposes of scientific research, we can hope to gain more knowledge about whales than would be otherwise obtainable.
+1.2.1. Pro: Whale hunting is done for [scientific](https://iwc.int/permits) purposes, such as to determine how many whales can be harvested [sustainably](http://www.sciencemag.org/news/2015/12/japan-defends-scientific-value-new-plan-kill-333-minke-whales).
+1.2.1.1. Con: Hunting whales to determine whether it is sustainable to hunt whales seems a curiously circular approach, that assumes its own conclusion.
+1.2.1.2. Pro: When [Japan](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/03/24/a-japanese-fleet-killed-333-whales-for-research/) hunted 333 minke whales in 2013, researchers found that 207 of them were pregnant. This showed that the breeding situation was healthy and the whales' existence not in danger.
+1.2.1.2.1. Con: Pregnancy tests can be performed without killing whales by using [biopsy darts](http://baleinesendirect.org/en/scientific-exploration/research-projects/multi-species/is-it-possible-to-do-a-pregnancy-test-on-free-ranging-cetaceans/) that collect part of the blubber.
+1.2.1.2.2. Con: The article itself questions the veracity of the "research" label attached to this hunt.
+1.2.1.2.3. Con: Assessing whale breeding health could just as simply be done by tracking new births, as, for example, [this ongoing monitoring study does](http://www.seattletimes.com/seattle-news/official-orca-census-81-whales-including-4-babies/).
+1.2.1.2.3.1. Con: This is possible with Orca whales because they are very rare. In contrast, Minke whales are very numerous which makes it not only cumbersome to keep track of them, but also technically difficult to identity individual animals.
+1.2.1.2.3.1.1. Con: Researchers studying birth rates of large mammals in a [range](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810875/) [of](http://www.wildmammal.com/index_files/elephant_seal_diving.html) contexts have successfully dealt with this challenge without killing the observed mammals.
+1.2.1.2.4. Con: To have collected such a large number of pregnant whales in the first place, whalers would need to have been disproportionately targeting female whales \(given that at least 207 out of 333 were female, and likely more\). Given the length of whale gestational periods and the shorter fertility window for females than males, this is unsustainable scientific practice, that could itself pose a threat to the health of the breeding situation.
+1.2.1.2.4.1. Con: It seems unreasonable to believe that those 207 animals would make a difference given the huge numbers of minke whales.
+1.2.1.2.4.1.1. Con: If Japanese whalers consistently target fertile females, it will quickly begin to, given the factors identified.
+1.2.1.3. Con: After over two decades of whaling, Japan has produced just [two peer-reviewed papers](http://www.vox.com/2016/3/28/11318512/japan-kill-minke-whales) drawing from whale hunts.
+1.2.1.4. Con: The IWC's Scientific Committee has [repeatedly observed](http://www.vox.com/2016/3/28/11318512/japan-kill-minke-whales) that the evidence Japan claims to be collecting through whale hunts could be collected through easier and non-lethal means.
+1.2.2. Con: There is far [more to learn](http://www.abc.net.au/news/2015-04-14/inadequate-justification-for-japan-whaling-proposal-commission/6391074) from observing living animals in their natural habitat than from killing and examining their body parts.
+1.2.2.1. Con: Whales can be studied through observation and hunting at the same time. One does not sacrifice the other.
+1.2.2.1.1. Con: If hunting reduces the number of whales, it will be harder to find them to observe.
+1.2.2.1.2. Con: If hunting disrupts migration patterns or communities of whales - for example, by killing female whales with calves while those calves are still dependent on them - this may disrupt such observation.
+1.2.2.2. Pro: The breeding, eating, migration, and behavioral patterns of whales can be more accurately studied when they are living.
+1.2.3. Con: In an era of DNA sampling and remote monitoring, [scientists do not need to kill](http://www.ifaw.org/united-states/our-work/whales/truth-about-‘scientific’-whaling) whales to learn about them. Samples can be collected from skin that whales shed, blubber and fecal matter. Scientists can even collect samples when whales exhale through their blowholes, allowing for detection of pathogens.
+1.2.3.1. Con: Aspects such as stomach content, [functions of the placenta](https://www.jstage.jst.go.jp/article/jrd/61/5/61_2015-005/_pdf) or [age](http://link.springer.com/article/10.1007/BF00053365) cannot be studied by DNA sampling alone.
+1.3. Pro: Whale meat is apparently [delicious](http://www.slate.com/articles/news_and_politics/explainer/2010/03/what_does_whale_taste_like.html).
+1.3.1. Con: This is a poor reason to continue to hunt whales, in light of the difficulty of minimising pain in the process.
+1.3.1.1. Pro: The size, location and nature of whales makes it nearly impossible to minimise suffering to an acceptable level, even with modern methods.
+1.3.1.1.1. Pro: While studies are hard to conduct, experts tend to agree that whales have a [comparatively high level of sentience](http://www.telegraph.co.uk/news/earth/wildlife/7841882/Whales-can-feel-and-suffer-as-humans-do.html), allowing them to suffer beyond a mere nervous-system reaction.
+1.3.1.1.1.1. Pro: Even to the extent that there is doubt, policy responses should err on the side of caution.
+1.3.1.1.1.1.1. Pro: If we allow whaling and are wrong about the degree of suffering, we have caused significant harm, while the harm of not allowing whaling is relatively minor.
+1.3.1.1.1.1.1.1. Pro: Many countries which still allow whale hunting no longer have a significant market for whale meat because of declining [demand](http://uk.whales.org/wdc-in-action/stop-whaling).
+1.3.1.1.1.1.1.1.1. Pro: Experience from marketing efforts in Iceland, Norway and Japan in recent years indicate that the [market for whale meat](http://www.mbl.is/media/65/265.pdf) for general consumption is small and shrinking.
+1.3.1.1.1.1.1.1.1.1. Pro: Whale meat consumption in Japan peaked in the 1960s and has steadily decreased thereafter, so that today whale meat consumption is at approximately one percent of its peak \([IFAW, p.2](http://www.ifaw.org/sites/default/files/economics-of-japanese-whaling-japan-ifaw.pdf)\).
+1.3.1.1.1.1.1.1.1.2. Pro: In [April 2010](http://us.whales.org/issues/whaling-in-norway), representatives of the Norwegian fishing industry demanded increased subsidies for the whaling industry, as they had difficulty selling whale meat.
+1.3.1.1.1.1.1.1.1.3. Pro: Since 1992, the Norwegian government has spent around [US$ 5 million](http://us.whales.org/issues/whaling-in-norway) on PR and lobbying campaigns to promote its whaling and seal hunting industries.
+1.3.1.1.1.1.1.1.2. Pro: Japanese whaling requires [significant tax-payer subsidies](http://www.seattletimes.com/nation-world/big-threat-to-japan-whaling-declining-appetites/) - US$50 million in 2015 - to keep the industry afloat.
+1.3.1.1.1.1.1.1.2.1. Pro: By comparison, whale-watching in Japan generated a revenue of [US$22million in 2008](http://www.ifaw.org/sites/default/files/economics-of-japanese-whaling-japan-ifaw.pdf).
+1.3.1.1.1.1.1.1.3. Pro: Unused stockpiles of whale-meat in Japan amounted to some [5000 tonnes in 2013](http://www.ifaw.org/sites/default/files/economics-of-japanese-whaling-japan-ifaw.pdf), and attempts to auction off surpluses in 2011 and 2012 left [three-quarters of lots unsold](http://www.ifaw.org/sites/default/files/economics-of-japanese-whaling-japan-ifaw.pdf).
+1.3.1.1.1.1.1.1.4. Con: If the demand for whale meat is small there are no problems in making whaling legal as it will not result in widespread whaling.
+1.3.1.1.1.1.1.1.4.1. Con: Whales are hunted for other reasons besides meat.
+1.3.1.1.1.1.1.1.4.1.1. Pro: -> See 1.2.
+1.3.1.1.1.1.1.1.4.1.2. Pro: [Whales](http://peopleof.oureverydaylife.com/what-whales-used-today-11170.html) are used for their blubber, bones, and ambergis.
+1.3.1.1.1.1.1.1.4.2. Con: The persistence of whaling by some countries despite bans and the need for heavy subsidies suggests that some countries would be inclined to whale heavily, even with no market for the meat.
+1.3.1.1.1.1.1.1.5. Pro: A 2014 Gallup survey found only [1.7% of Icelandic people regularly ate whale meat](http://us.whales.org/campaigns/support-iceland-support-whale-nation). Most of the hunted whale meat in Iceland is eaten by tourists or exported to Japan. By contrast, whale-watching brings an estimated £13.5million to the Icelandic economy
+1.3.1.1.1.1.1.1.6. Con: Permitting more whale hunting would reduce the price of whale meat, making it more attractive to consumers.
+1.3.1.1.1.1.1.1.6.1. Con: Whale meat is already subsidised.
+1.3.1.1.1.1.2. Con: There are plenty examples where regulators do not err on the side of caution, e.g. the US EPA's ongoing failure to set limits on chemicals like [PFOA](http://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html?_r=1).
+1.3.1.1.1.1.2.1. Con: Examples of a failure to err on the side of caution do not justify it as a policy position, as demonstrated by the results of that failure in the linked example.
+1.3.1.1.2. Con: Whales provide an enormous amount of meat compared to most animals. Allowing a single whale to die thus mitigates the need for many other smaller animals to die for the same quantity of meat.
+1.3.1.1.2.1. Pro: In Japan, it's not only the meat that's consumed, but the sperm is also served as a delicacy. In this fashion there is less waste from killing the animal.
+1.3.1.1.2.1.1. Con: That would be a tiny additional portion of the whale consumed, and by the sound of it, not as subsistence food, but as a treat. As such, this is not preventing any significant amount of waste.
+1.3.1.1.2.2. Pro: A [blue whale](https://en.wikipedia.org/wiki/Blue_whale) has roughly the weight of 42.000 [chickens](https://en.wikipedia.org/wiki/Campine_\(chicken\)) or 525 [domestic pigs](https://en.wikipedia.org/wiki/Domestic_pig). This underlines how many lives could be spared for the life of one whale.
+1.3.1.1.3. Con: If modern methods do not meet the bar of 'responsible whaling' then the whaling industry can develop new methods.
+1.3.1.1.3.1. Con: The issue is not merely one of current technology being poor, but of practical barriers to humane methods.
+1.3.1.1.3.1.1. Pro: When killing other large mammals, it is possible to corral them to control their movements, and allow physical methods to be used with precision. This is not possible for whales.
+1.3.1.1.3.1.1.1. Pro: Whales are in the ocean, where it is difficult to erect barriers or restraints.
+1.3.1.1.3.1.1.2. Pro: Whales are too large.
+1.3.1.1.3.1.2. Pro: The size of a whale makes any method of death dependent on bleeding out take a very long time.
+1.3.1.1.3.1.3. Pro: The size of a whale makes any method of death reliant on abrupt and complete organ damage very unreliable.
+1.3.1.1.3.1.3.1. Pro: It is exceedingly difficult to precisely target organs in a creature of such a size.
+1.3.1.1.3.1.4. Pro: It is impossible to humanely kill a creature of this size in water because it is difficult to catch or gas them.
+1.3.1.1.3.1.5. Pro: Exploding harpoons are often not fatal, and some whales are harpooned multiple times before they die.
+1.3.1.1.3.1.6. Pro: Whales are often pursued to the point of exhaustion before they are harpooned.
+1.3.1.1.3.1.6.1. Con: One of the killer whale's [hunting strategies](http://www.pbs.org/wnet/nature/killer-whales-killer-weapon-brain/11352/) is to chase its target \(larger whales\) for hours, until the target is exhausted. Therefore, this method is natural, as even whales use it themselves.
+1.3.1.1.3.1.6.1.1. Con: In nature, whales and other animals must cruelly kill each other in order to survive. However, as humans we have choices in what and how we kill — we are beyond nature's constraints. We can survive without needing to kill inhumanely or without hunting every spaces.
+1.3.1.1.3.1.6.1.2. Con: This does not appear to be a strategy adopted by whalers, nor the significant proportion of the cruelty discussed in the claim this responds to.
+1.3.1.1.3.1.7. Pro: When killing other animals, it is possible to stun them, to avoid pain or panic. Whales are too large.
+1.3.1.1.3.2. Pro: New technology is already available to make whaling less painful using high-powered rifles instead of [harpoons](http://abcnews.go.com/US/story?id=90125&page=1).
+1.3.1.1.3.2.1. Con: Despite improvements in technology it is still hard to aim precisely at where a hit would kill the animal immediately, as the ship as well as the whales are constantly moving and parts of the animal's body are under water.
+1.3.1.1.3.2.1.1. Con: The invention of diesel powered motors increased whalers' accuracy because it made the motion of a ship more consistent.
+1.3.1.1.3.2.1.1.1. Con: Diesel engines do not eliminate the lateral movements caused by waves.
+1.3.1.1.3.2.1.1.2. Pro: The size of Norwegian factory ships increased, enabled by diesel engines, from one ton in 1900 to 20 tons in 1930 \([Basberg, p. 21](http://www.sciencedirect.com/science/article/pii/0172219081900193)\). With heavier tonnage came more consistency in the ship's motion.
+1.3.1.1.3.2.1.1.2.1. Con: The relevant factor is less the stability of the vessel, and more the movement of the whale and the ocean in which both sit.
+1.3.1.1.3.2.1.2. Con: -> See 1.3.1.1.3.2.1.1.2.
+1.3.1.1.3.2.1.3. Con: Indigenous whaling tactics are more cruel, such as those of the [Lamalera](http://www.bbc.com/news/magazine-32429447), precisely because they lack the technology.
+1.3.1.1.3.2.1.3.1. Con: Indigenous whaling takes place on a smaller scale than industrial whaling would if legalized. It is therefore of little relevance here.
+1.3.1.1.3.2.2. Pro: In the [1980s](http://www.animalplanet.com/tv-shows/whale-wars/about-whaling/whales-whaling-harpooned-whales-suffer/), Norwegians developed a series of whaling tools that make humane killing more likely, such as explosive penthrite-tipped harpoons.
+1.3.1.1.3.3. Pro: Norway has worked particularly hard to improve Norwegian whalers' ability to hit the sweet spot as often as possible, through [training classes](http://www.animalplanet.com/tv-shows/whale-wars/about-whaling/whales-whaling-harpooned-whales-suffer/) and mandatory certification tests.
+1.3.1.1.4. Con: Many ways that we rear and kill animals for food are cruel, such as [factory farming](http://www.rollingstone.com/feature/belly-beast-meat-factory-farms-animal-activists).
+1.3.1.1.4.1. Con: Cruelty cannot be justified by comparison to other cruelty, as causing harm to living beings is never right.
+1.3.1.1.5. Pro: The Humane Society of the United States cites an average time to death of [four minutes](http://www.hsi.org/assets/pdfs/SWNW_fallacy_of_humane_killing.pdf) with the most effective modern method \(explosive harpoons\).
+1.3.1.1.5.1. Pro: This method involves shooting a harpoon loaded with a grenade into the whale, in the hope of hitting and exploding a vital organ, an [incredibly error-prone method](http://us.whales.org/wdc-in-action/stop-whaling), particularly when aiming at a moving creature in the moving ocean. When the first harpoon does not hit vital organs, most whalers resort to [bullets or electric lances](http://www.hsi.org/assets/pdfs/SWNW_fallacy_of_humane_killing.pdf), both of which are even less effective.
+1.3.1.1.5.2. Pro: Some whales live [over an hour](http://www.hsi.org/assets/pdfs/SWNW_fallacy_of_humane_killing.pdf) after harpoon-strike.
+1.3.1.1.6. Con: -> See 1.3.1.1.3.1.6.1.
+1.3.1.2. Pro: Whales cannot be killed humanely.
+1.3.1.2.1. Pro: -> See 1.3.1.1.
+1.3.1.2.2. Con: Whales should be treated just like all the other sentient animals which humans kill and eat.
+1.3.1.2.2.1. Con: Whales are such intelligent creatures that treating them as resources to be harvested is inherently wrong, like raising chimpanzees for their meat.
+1.3.1.2.2.1.1. Pro: Whales and dolphins are not only able to learn as individuals, but are capable of [passing their knowledge](http://uk.whales.org/whales-and-dolphins/brain-power) to other fellows and as a result to create a kind of culture, as [this study](http://news.nationalgeographic.com/news/2013/13/130425-humpback-whale-culture-behavior-science-animals/) about humpback whales shows.
+1.3.1.2.2.1.1.1. Pro: Whales exhibit group-specific dialects and inter-family behaviours. In many cases [these cultures](http://www.nytimes.com/2016/10/09/opinion/sunday/the-lost-cultures-of-whales.html) may have existed longer than those of humans.
+1.3.1.2.2.1.1.2. Pro: When animals exhibit high intelligence and learned group behaviors killing them is not just harmful at an individual level but also because it threatens [to destroy cultures.](http://www.nytimes.com/2016/10/09/opinion/sunday/the-lost-cultures-of-whales.html)
+1.3.1.2.2.1.1.2.1. Pro: As we value cultural diversity within humans, we should also value cultural diversity in animals.
+1.3.1.2.2.1.1.3. Con: There is a significant amount of literature that doubts the existence of any non-human [animal culture](https://en.wikipedia.org/wiki/Animal_culture). At the very least this claim is highly disputed.
+1.3.1.2.2.1.2. Con: Humans value animals, such as whales or elephants, that are seen to be majestic or inspiring. We see whaling as wrong not because of the animal’s sentience or ecological value but because we find them aesthetically interesting.
+1.3.1.2.2.1.3. Con: If humans want to be good environmental stewards, we should focus on saving the species that do the most to contribute to ecological stability rather than those which are most intelligent.
+1.3.1.2.2.1.3.1. Pro: By focusing on ecological stability we best preserve the future health of all animals within that ecosystem.
+1.3.1.2.2.1.3.2. Con: Whales are of great importance for the ocean's ecosystem.
+1.3.1.2.2.1.3.2.1. Pro: [Whale falls](https://en.wikipedia.org/wiki/Whale_fall) \(where a dead whale drops to the ocean floor\) are a critical part of abyssal ocean ecosystems. If too many whales are hunted, then these events will become less frequent, which will damage a poorly-understood habitat.
+1.3.1.2.2.1.3.2.1.1. Con: Human actions affect several aspects of [ocean ecosystems](http://www.denverpost.com/2016/11/09/coral-reefs-devastating-millions-of-humans/), from over-fishing tuna to the death of coral reefs. There are far bigger-picture problems out there than this.
+1.3.1.2.2.1.3.2.2. Pro: Fish and whale population health are [positively correlated](http://onlinelibrary.wiley.com/doi/10.1890/130220/full), because whales facilitate the transfer of nutrients within and across ecosystems.
+1.3.1.2.2.1.3.2.2.1. Pro: [Whale dung](http://www.whalefacts.org/why-are-whales-important/) stimulates the growth of [phytoplankton](https://en.wikipedia.org/wiki/Phytoplankton) which increases the number of fish.
+1.3.1.2.2.1.3.2.3. Pro: Whales help to keep a stable and balanced aquatic [food chain](http://www.whalefacts.org/why-are-whales-important/) and ensure that certain animal species do not overpopulate the seas.
+1.3.1.2.2.1.3.2.3.1. Pro: Whales are an apex predator that is crucial to regulating marine food chains.
+1.3.1.2.2.1.3.2.4. Con: Other fish, such as [sardines](http://worldoceanreview.com/en/wor-2/ecosystems-and-species/fish-habitats/), are also of great importance for the ecosystem but still they are fished. There is no reason why an exception should be made for whales.
+1.3.1.2.2.1.3.2.4.1. Con: After the [sardine population](http://www.reuters.com/article/us-oregon-fishing-sardines-idUSKCN0X82LX) in the Pacific decreased enormously, sardine fishing was banned. This shows that animals that are important to the ecosystem are protected.
+1.3.1.2.2.1.3.2.4.2. Con: Sardines are fish and so lay many eggs in a cluster, of which many are fertilised. These produce healthy offspring which are instantly self sufficient, therefore replacing the population frequently and in large numbers. Whales are mammals that have long gestation periods for their offspring, of which only 1 or 2 are born together. They are then reliant on their parents for a long time before reaching maturity. Thus the two comparisons cannot be made as whales cannot reproduce at the same rate.
+1.3.1.2.2.1.3.2.4.3. Pro: [Sardines](https://www.undercurrentnews.com/2014/05/19/the-worlds-23-most-fished-species-from-anchovy-to-pilchard-via-tuna/) \(also called pilchard\), are still on the most fished species list.
+1.3.1.2.2.1.3.2.5. Pro: Giving whale rights more attention would create a more holistic understanding of their importance for the greater marine ecosystem.
+1.3.1.2.2.1.3.2.5.1. Con: The potential absence of whales caused by overhunting is a better way to illustrate the interrelations of whales and wider ecosystem.
+1.3.1.2.2.1.3.2.5.1.1. Con: This approach is potentially dangerous, as we do not know if a  significant decrease in whale populations would be irrevocable.
+1.3.1.2.2.1.3.2.5.1.2. Con: Whales are spread over incredibly vast spaces. Significant decreases in their population could quickly make it practically impossible for them to find sexual partners and reproduce, wiping them out.
+1.3.1.2.2.1.3.2.5.1.2.1. Pro: Whales have long [gestation periods](https://en.wikipedia.org/wiki/Gestation_period) and mate rarely in comparison to say chickens or sheep. Their populations are thus slow to recover and much more vulnerable to extinction.
+1.3.1.2.2.1.3.2.5.1.2.2. Pro: The [breeding grounds](http://www.futurity.org/monitors-pick-male-whales/) whales use are threatened, which in turn hurts their reproductive capacity.
+1.3.1.2.2.1.3.2.5.1.3. Con: Preventing the potential extinction of a species by moving closer to extinction is an incoherent strategy.
+1.3.1.2.2.1.3.2.5.2. Con: Shocking videos/photos of whaling practices can work as shock that triggers closer examination.
+1.3.1.2.2.1.3.2.5.2.1. Pro: [The Cove](http://thecovemovie.com) is a 2009 film that details dolphin hunting in Taiji, Japan. The film has acted as a wake-up call to the animal rights abuses of dolphin and whale hunting alike.
+1.3.1.2.2.1.3.2.5.2.2. Con: -> See 1.3.1.2.2.1.3.2.5.1.3.
+1.3.1.2.2.1.3.2.5.3. Pro: The more knowledge spread about how important whales \(or other oft-hunted species\) are to our environment, the more likely governments will be to create policies to protect them.
+1.3.1.2.2.1.3.2.5.3.1. Con: Knowledge does not always produce affirmative action, as is best visible in climate change policies.
+1.3.1.2.2.1.3.2.6. Pro: -> See 1.1.5.
+1.3.1.2.2.1.3.2.7. Pro: Whales have a very important role in the ecosystem. Their poop for example is the basis for growth of krill and plancton. Since we are already over the edge on whale numbers, we should stop completely. [Whales in ecosystem](https://phys.org/news/2014-07-whales-ecosystem.html)
+1.3.1.2.2.1.3.2.8. Con: This claim rests on the assumption that maintenance of stability in existing ecosystems is beneficial. We know that ecosystems change - both with and without human intervention \(think: dinosaurs\). It can be argued that change in ecosystems is neither innately good, nor bad - it is just something that happens.
+1.3.1.2.2.1.3.3. Con: It is not clear why that would prevent a ban on whaling, which does not seem to come at the cost of other potential environmental protection measures.
+1.3.1.2.2.1.3.3.1. Con: Lobbying against whaling consumes a good portion of the resources of Greenpeace and other environmentalists that could be redirected to more relevant issues.
+1.3.1.2.2.1.3.3.2. Con: Pro-whaling countries might be willing to offer concessions in other areas of environmental policy in order to preserve whaling.
+1.3.1.2.2.1.3.3.2.1. Con: International whaling policy is set by a different body from other international environmental policies and agreements, making such compromises hard to reach and enforce.
+1.3.1.2.2.1.3.3.3. Con: Sea levels are rising, posing a threat to coastal communities. Whales are very, very fat. Ergo, the more whales we remove from the sea, the more space there is for water, the less sea levels will rise, thus preserving human life.
+1.3.1.2.2.1.3.4. Pro: Considering the only known example of \(high\) intelligence, humans, the facts lead to the conclusion that intelligence has rather destructive implications for the ecosystem.
+1.3.1.2.2.1.3.4.1. Con: This is a generalisation from a single data point, and as such, hardly useful.
+1.3.1.2.2.1.3.5. Pro: After the International Whaling Commission ban was implemented in 1986, somehow whales became harder to protect when the real issues to the health of their populations became sound pollution, environmental degradation, fishing practices, plastics and climate change being whaling a small numerical irrelevance in comparison.
+1.3.1.2.2.1.4. Pro: Researchers have advocated for a legal [entitlement to life](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1657431) for whales, based on the legal status they already have.
+1.3.1.2.2.1.4.1. Pro: As the recent case of dolphins being [declared sentient in India shows](http://www.dailykos.com/story/2013/7/30/1226634/-India-Declares-Dolphins-Non-Human-Persons-Dolphin-shows-BANNED\),), the possible status of cetaceans as fully sentient beings is raising broader questions. When determining which creatures deserve the right to life, it is becoming less simple to demarcate between humans and all other creatures.
+1.3.1.2.2.1.4.2. Pro: All whales have personhood and are subject to civil rights.
+1.3.1.2.2.1.5. Con: Tests reveal that [pigs](http://www.dailymail.co.uk/sciencetech/article-3122303/Move-Lassie-IQ-tests-reveal-pigs-outsmart-dogs-chimpanzees.html) can outsmart chimpanzees, nevertheless they are kept in livestock breeding, born and raised only for their meat. This clearly shows that intelligence is not a factor we consider regarding the treatment of animals.
+1.3.1.2.2.1.5.1. Pro: Pigs are kept in worse conditions than whales during their lifespan.
+1.3.1.2.2.1.5.2. Con: Keeping pigs in such conditions should also be considered as inherently wrong.
+1.3.1.2.2.1.5.3. Con: This is classic [Whataboutism](https://rationalwiki.org/wiki/Whataboutism). The morality of raising pigs for meat is not relevant to the upstream argument.
+1.3.1.2.2.1.6. Pro: Whales [suffer](http://www.whalefacts.org/can-whales-cry/) when their peers are killed.
+1.3.1.2.2.1.7. Pro: Without a doubt, whales exhibit a certain degree of complex social interaction and intelligence.
+1.3.1.2.2.1.8. Pro: [Peer-reviewed research](http://animalstudiesrepository.org/cgi/viewcontent.cgi?article=1041&context=acwp_asie) suggests that "some primates and cetaceans show striking convergence in social behavior, artificial ‘language’ comprehension, and self-recognition ability".
+1.3.1.2.2.2. Pro: Animals — even whales — are brutally killed by other animals all the time. Hunting is no worse.
+1.3.1.2.2.2.1. Con: Humans have a greater capacity to understand and make moral decisions. We should not use the behaviour of lesser creatures as a justification for our own cruelty.
+1.3.1.2.2.2.1.1. Pro: Killing whales is immoral.
+1.3.1.2.2.2.1.1.1. Pro: -> See 1.3.1.2.2.1.
+1.3.1.2.2.2.1.1.2. Con: The morality of whale hunting is debated; it cannot easily be compared to widely condemned practices such as genital mutilation.
+1.3.1.2.2.2.1.2. Con: A very anthropocentric relativistic view of what is considered moral.
+1.3.1.2.2.3. Con: Most of the sentient animals humans keep as livestock are easy to breed and to reproduce compared to whales.
+1.3.1.2.2.3.1. Con: Whales breed just fine by themselves, like deer, another animal used by humans as a source of meat.
+1.3.1.2.2.3.2. Pro: -> See 1.3.1.2.2.1.3.2.5.1.2.1.
+1.3.1.2.2.4. Pro: While some sentient animals like whales are predominantly spared, others like pigs suffer disproportionately. Under the principle of fairness, this is wrong.
+1.3.1.2.2.4.1. Con: The solution to this unfairness is to kill fewer pigs, not more whales.
+1.3.1.2.2.5. Con: Whales are a special case, as there is a bulk of international law that protects them that very is difficult to change.
+1.3.1.2.2.5.1. Con: Regular animal husbandry is also heavily regulated. This does not mean that whales are special nor that regulations should prevent them from being hunted.
+1.3.1.2.2.5.2. Pro: -> See 1.3.1.2.2.1.4.
+1.3.1.2.2.5.3. Con: Whales are not that special because there are other animals that are equally protected by international law such as those listed in [CITES](https://en.wikipedia.org/wiki/CITES).
+1.3.1.2.2.5.3.1. Con: There is a group we can call 'special' that are protected by international law, in contrast to those that are covered by domestic law only.
+1.3.1.2.2.6. Con: Just because there are similar wrongdoings that are ignored by society does not justify further wrongdoing in the form of killing whales.
+1.3.1.2.2.7. Pro: The deeper moral argument about killing sentient animals with complex social structures falls flat against the horrors of modern industrial farming practices.
+1.3.1.2.2.8. Con: It is a speciesist attitude to think that whales should be hunted.
+1.3.1.2.2.9. Con: Whales are different from other animals that humans kill and eat, in that these are much more numerous in numbers.
+1.3.1.2.3. Con: Fish in general cannot be [humanely killed](http://fishcount.org.uk/fish-welfare-in-commercial-fishing/humane-slaughter), yet they are still killed in greater numbers than whales.
+1.3.1.2.3.1. Pro: Most commercially-caught fish die due to suffocation or evisceration, both of which are inhumane forms of death.
+1.3.1.2.3.2. Pro: The study mentioned found that it takes some fish 25 to 65 minutes to die by asphyxiation and up to 250 minutes to die by evisceration.
+1.3.1.2.3.3. Con: There are [humane ways](http://kb.rspca.org.au/what-is-the-most-humane-way-to-kill-a-fish-intended-for-eating_451.html) to kill fish that are quick and less painful, however these methods cannot be used to humanely kill whales.
+1.3.1.2.3.3.1. Pro: -> See 1.3.1.1.3.1.7.
+1.3.1.2.3.4. Con: There are good reasons to believe that fish [lack the physical capacity to feel pain](http://animalstudiesrepository.org/cgi/viewcontent.cgi?article=1011&context=animsent) in the way that we understand it. This is not the case for whales.
+1.3.1.2.4. Pro: Hunting cannot be carried out in a way where animals do not suffer.
+1.3.2. Con: Using deliciousness as a measure of whether a creature is appropriate to hunt is a significant part of why the [Great Auk](http://www.smithsonianmag.com/smithsonian-institution/with-crush-fisherman-boot-the-last-great-auks-died-180951982/?no-ist) went extinct, and the [giant tortoise](https://www.theguardian.com/books/2004/jul/31/featuresreviews.guardianreview7) came close to the same fate.
+1.3.3. Pro: A single whale provides a great quantity of meat, which in turns provides a great quantity of enjoyment/satisfaction when consumed. On a utilitarian calculus, it is possible that the enjoyment found in consuming a whale exceeds the suffering caused to that whale when it was killed.
+1.3.3.1. Con: However, the pleasure is experienced by humans, while the suffering is caused to the whale. It is difficult to directly compare the two against each other.
+1.3.4. Pro: -> See 1.3.1.1.2.1.
+1.3.5. Con: There are now significant health concerns associated with the consumption of whale meat, in particular exposure to high quantities of [mercury](https://www.newscientist.com/article/dn2362-extreme-mercury-levels-revealed-in-whalemeat/), weakening any community's claim to need the meat as a healthy food source.
+1.3.5.1. Pro: Whale meat is not only unhealthy for the person eating it but can have an impact on child development in utero or by contaminated breast milk, as a study of [Inuit children](http://www.hsi.org/issues/whaling/facts/human_health_concerns_of_whale_meat.html) shows.
+1.3.5.2. Pro: Pesticides have been detected in the[meat](http://www.takepart.com/article/2015/03/13/one-more-reason-world-should-stop-eating-whale-meat-it-filled-pesticides) of some whales, likely due to agricultural runoff or storage container leakage.
+1.3.5.2.1. Pro: Whale meat contains significant amounts of organochlorines \(PCBs, DDT, dioxin\), as [this study](http://palumbi.stanford.edu/manuscripts/Simmonds%20et%20al%202002.pdf) about Japanese whale meat shows. These chemicals are capable of creating [serious health problems](http://www.hsi.org/issues/whaling/facts/human_health_concerns_of_whale_meat.html) for humans.
+1.3.5.3. Con: The quality of whale meat is constantly monitored and meat deemed unsafe disposed of, as was the case with [Norwegian imported whale meat](http://www.takepart.com/article/2015/03/13/one-more-reason-world-should-stop-eating-whale-meat-it-filled-pesticides).
+1.3.5.4. Con: -> See 1.3.1.1.1.1.1.1.4.1.
+1.3.5.5. Pro: Studies of long term mercury effects in whale meat, such as on the [Faroe Islands](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3417701/), have shown the detrimental health effects for local communities.
+1.3.5.6. Pro: Whale meat products sold have at a maximum [18ppm](https://eia-international.org/whale-dolphin-meat-tested-in-japan-exceeds-mercury-limits) of mercury while the highest concentration in fish is tilefish with just [1.5ppm](http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm115644.htm).
+1.3.6. Con: Human meat is apparently [delicious](https://www.vice.com/en_uk/article/7bwvvx/whos-hungry-502-v16n1) too. The quality of taste is not a good factor for deciding whether something is legal, moral or acceptable.
+1.4. Pro: Not all whale species are endangered - some of them, such as [Minke whales](https://iwc.int/estimate), can be hunted in a population-sustaining manner.
+1.4.1. Con: While Minke whales might not be endangered, other species - such as the [North Atlantic right wale](https://en.wikipedia.org/wiki/North_Atlantic_right_whale) and the [gray whale](https://en.wikipedia.org/wiki/Gray_whale) - have only a few hundred individuals left. This means that whaling in general should not be legal.
+1.4.1.1. Con: Contributing to extinction is generally not considered responsible. As such, if responsible whaling were legal it would include provisions that exclude highly vulnerable species.
+1.4.1.1.1. Con: There is [evidence](http://www.nytimes.com/1994/09/13/science/dna-tests-find-meat-of-endangered-whales-for-sale-in-japan.html) [that](http://www.nature.com/news/2010/100413/full/news.2010.177.html) [Japanese](http://oregonstate.edu/ua/ncs/archives/2008/jun/dna-study-japanese-%E2%80%98whalemeat%E2%80%99-markets-suggests-illegalunreported-hunting-fin-whal) whalers already hunt prohibited species and sell them as minke whale or other meats.
+1.4.1.2. Con: That is no reason for a total ban — whalers can identify and avoid the species that are particularly endangered.
+1.4.1.2.1. Con: -> See 1.4.1.1.1.
+1.4.2. Pro: As in fishing and other forms of hunting, we can use responsible quotas to ensure that whalers only kill species whose populations are stable and can recover from some kills.
+1.4.2.1. Con: [Around 85%](https://en.wikipedia.org/wiki/Overfishing#Global_overfishing) of the world's fish stocks are thought to be overexploited. This shows that the current quota attempts by different countries are not effective. There is no reason to assume this would be much different with whaling quotas.
+1.4.2.1.1. Con: Not all regions of the world apply quotas. This makes it difficult to draw conclusions about the effectiveness of regional quotas on global fish stock.
+1.4.2.1.2. Con: [EU](https://www.opendemocracy.net/can-europe-make-it/griffin-carpenter/eu-common-fisheries-policy-has-helped-not-harmed-uk-fisheries-0) fishing quotas have lead to a recovery in fish stocks. This indicates how this mechanism can be very helpful.
+1.4.2.1.3. Pro: To avoid penalties by violating EU quotas, fish are [thrown overboard](https://en.wikipedia.org/wiki/Common_Fisheries_Policy#Criticism) after being caught and killed. This does not solve the actual problem.
+1.4.2.2. Con: -> See 1.4.1.1.1.
+1.4.3. Con: Whale populations are [too](http://www.seethewild.org/whales/) [critically](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162019) endangered to hunt in a sustainable fashion — the risk of extinction is too high for the the conceivable future.
+1.4.3.1. Pro: The loss of a species for all time is a harm to future generations who cannot experience that animal.
+1.4.3.2. Con: Many other species of animal are threatened with extinction. We should focus our political capital towards saving the greatest number of species from extinction, not just the species that humans like.
+1.4.3.2.1. Con: Conservation is not a zero-sum game. There is plenty of political capital and protecting whales does not imply that we cannot protect other species.
+1.4.3.3. Pro: Reports of overabundance of particular whale species have been found to be [exaggerated](http://news.stanford.edu/news/2010/january18/minke-whale-research-012110.html).
+1.4.3.3.1. Con: Agreeing on statistics involves many actors that [verify](https://iwc.int/rmp2) each other's data. This enhances the reliability of data.
+1.4.3.4. Con: The risk of extinction cited is only for a species of whales that is particularly endangered, namely the Eastern Caribbean Sperm Whale, and does not include figures for - for example - Minke whales, which are not endangered.
+1.4.3.5. Pro: A variety of human-caused threats additionally intensifies the risk of extinction.
+1.4.3.5.1. Pro: 90% of all northern right whales killed by human activities die from [ship collisions](https://en.wikipedia.org/wiki/Whaling#Sustainability).
+1.4.3.5.2. Pro: Large ships and boats cause tremendous [underwater noise pollution](https://www.nrdc.org/media/2016/160506) that falls into the same frequency range as cetaceans, which causes enormous stress for the animals. This results in flight out of their natural habitats and beaching.
+1.4.3.5.3. Pro: Whales are unintentionally caught as [by-catch](https://en.wikipedia.org/wiki/Cetacean_bycatch) of the fishing industry.
+1.4.3.5.4. Pro: [Plastics](https://www.theguardian.com/commentisfree/2016/mar/30/plastic-debris-killing-sperm-whales) floating in the ocean, like old shopping bags, are a serious threat to whales - as they mistakenly assume it is food. As a result the cetaceans' stomachs get filled with plastic and the animals starve to death.
+1.4.3.5.4.1. Pro: The [migration routes](http://kids.britannica.com/comptons/art-54617/Breeding-grounds-and-migration-routes-of-the-humpback-whale) of humpback whales cross oceanic [garbage patches](https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch) and so they are therefore constantly exposed to the threat of plastic.
+1.4.3.5.5. Pro: Whales can only live in the water, so [when it is polluted they are affected](http://www.whale-world.com/whale-predators/). Spills of oil and chemicals into the waters can result in them dying. The fact that other aquatic life is also killed means that their food sources are significantly reduced as well.
+1.4.4. Con: Whale statistics rely on old data, as many studies were conducted in the 1990s. This makes them unreliable.
+1.4.4.1. Pro: Newer studies seem to have lower numbers than older studies, e.g. in the [Southern Hemisphere](https://iwc.int/estimate) minke whales were estimated to number around 700.000 in the 1980s, while the number drops to around 500.000 in the 1990s.
+1.4.4.1.1. Pro: It is possible that whaling is a key reason why those numbers are different.
+1.4.4.2. Pro: Coherent measurement [methods](https://iwc.int/index.php?cID=rmp) were not agreed upon before 1994. This makes earlier data unreliable.
+1.4.4.3. Con: -> See 1.4.3.3.1.
+1.4.5. Con: -> See 1.4.4.2.
+1.4.6. Pro: The Eastern North Pacific stock of gray whales was removed from the U.S. List of Endangered and Threatened Wildlife in [1994](http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/graywhale.htm), indicating the success of conservation efforts.
+1.4.7. Pro: Sustainable hunting of other large animals suggests that hunting whales sustainably is also possible.
+1.4.7.1. Con: In the past humans have hunted in an unsustainable fashion and can do so again. Gray whales, for example, went extinct [in the North Atlantic](https://en.wikipedia.org/wiki/Gray_whale#North_Atlantic) and have been reduced to around a hundred individuals [in the Western Pacific](https://en.wikipedia.org/wiki/Gray_whale#North_Pacific).
+1.4.7.2. Con: Whale populations have not been stable but radically reduced. For the Bering Sea, for example, it is estimated that the total biomass of all large whales has [declined by about 80%](https://books.google.co.kr/books?id=daY_utPoJGAC&pg=PA121&lpg=PA121&dq=whales+biomass+80%25&source=bl&ots=5Hc_4XIJb0&sig=SvOfXacsEE9oduR7Hd27MddK-ZE&hl=de&sa=X&ved=0ahUKEwjL_YvcvavPAhWKKJQKHf_aArYQ6AEIKzAC#v=onepage&q=whales%20biomass%2080%25&f=false) since the 1880s.
+1.4.7.2.1. Con: Most of this decline took place [some 50-100 years ago](http://www.afsc.noaa.gov/Publications/ProcRpt/PR%202004-05.pdf). Whale populations have had a chance to stabilize since.
+1.4.7.2.1.1. Con: In the last 50 years, new human-caused factors have arisen, which hinder whale populations from fully recovering.
+1.4.7.2.1.1.1. Pro: -> See 1.4.3.5.2.
+1.4.7.2.1.1.2. Pro: -> See 1.4.3.5.4.
+1.4.7.2.1.2. Con: Stability is not enough - populations need to recover to sustainable levels.
+1.4.7.3. Pro: Historically, the possession and sale of venison was tightly regulated, e.g. under [English law](https://en.wikipedia.org/wiki/Venison). These regulations helped to maintain deer populations. As sustainable whaling would be subject to regulations and controls as well, it might similarly work successfully.
+1.4.7.3.1. Con: Supervising and policing hunting in the oceans is much more difficult than on land due to the immense size of the oceans and many countries' access.
+1.4.7.4. Pro: Rules based on concrete objectives and a mix of management techniques, enforced by a monitoring and surveillance system, can ensure sustainable fishing.
+1.4.7.4.1. Pro: Fishing [quotas](https://en.wikipedia.org/wiki/Individual_fishing_quota) can limit the amount of fish caught to sustainable levels.
+1.4.7.4.1.1. Con: -> See 1.4.2.1.
+1.4.7.4.2. Pro: Many countries pay fishers for improved practices, creating an incentive for better practice without affecting their livelihoods. \([Essam, p. 8](http://pubs.iied.org/pdfs/16527IIED.pdf)\).
+1.4.7.5. Pro: Establishing [marine protected areas](https://en.wikipedia.org/wiki/Marine_protected_area) creates sanctuaries for whales and enables sustainable fishing.
+1.4.7.5.1. Con: This assumes that whales - which naturally roam across very large distances - understand that they need to stay in sanctuaries.
+1.4.7.6. Con: Many large animals were hunted to extinction or near-extinction, such as the Moa, Buffalo, or Mammoth.
+1.4.8. Pro: [Norway](https://en.wikipedia.org/wiki/Whaling_in_Norway#Catches), [Iceland](http://us.whales.org/issues/whaling-in-iceland) and the [Faroe Islands](https://en.wikipedia.org/wiki/Whaling_in_the_Faroe_Islands#Catches) have been whaling without causing damage to the Minke whale populations.
+1.4.9. Con: Even those that are not endangered face the risk of [genetic bottlenecks](http://palumbi.stanford.edu/manuscripts/prewhalinggeneticdiversity.pdf), which could reduce the future viability of species.
+1.4.9.1. Con: The marginal numbers of current whaling do not produce those bottlenecks on their own but as a marginal aggregate with other major causes of mortality and morbidity mentioned several times elsewhere.
+1.4.10. Con: Harvesting most whales as a finite natural resource is unsustainable \(though maybe not all of them\).
+1.4.11. Con: When people start whaling, it will be hard to stop when the whales reach critical levels. That is why overfishing is a problem now.
+1.4.12. Con: The hunting of Minke whales is [currently illegal](https://iwc.int/status) with few exceptions. That they are not endangered and have stable populations thus does not tell us whether this would be the case if whaling were practiced.
+1.4.12.1. Con: Hunting of other whale species, such as Bryde whales, is illegal but not all of them have stable populations. This indicates that the moratorium itself was not the main factor.
+1.4.12.2. Con: Minke whales are being hunted, by e.g. in Iceland, without their populations decreasing significantly. Thus, by definition, this hunting must be population-sustaining.
+1.4.12.2.1. Con: Whaling levels would likely increase from the status quo if whaling were legal.
+1.4.13. Pro: There's over 600 fossil extinct whale species over the past 50 million years. Few or possibly none are due to human hunting. [paleobiodb.org](https://paleobiodb.org/#/)
+1.4.14. Pro: There are only a very few of the 80-odd species of Cetaceans known today that are the target of subsistence or commercial whaling. The priority for whale conservation should focus on more serious and pressing issues such as the hundreds of thousands of cetaceans dying every year a slow and painful death from net entanglement and fisheries by-catch.
+1.5. Pro: For some cultures, whale-hunting is [an integral part](http://abcnews.go.com/US/story?id=90125&page=1) of their history and identity. Stopping these hunts can damage vulnerable communities.
+1.5.1. Pro: Japan continues whaling because of [its nationalist discourse surrounding standing up to international pressure](http://www.japantimes.co.jp/news/2007/12/25/reference/whaling-for-nationalism-or-science/). Without an outright ban there is less need for Japan to continue whaling out of spite.
+1.5.1.1. Con: Japanese [activists](http://www.japantimes.co.jp/community/2015/03/16/voices/japanese-activists-fight-tide-save-whales-dolphins/) fight against whaling practices.
+1.5.1.1.1. Con: That the government continues to whale despite its unpopularity shows how deeply these nationalist attitudes are embedded in the State.
+1.5.1.2. Con: Japanese society has had positive experiences of abandoning domestic values in favor of international ones. The making of modern Japan with the [Meiji Revolution](https://en.wikipedia.org/wiki/Meiji_Restoration) illustrates best how Japan has copied Western models.
+1.5.1.2.1. Con: Many nationalist attitudes are deeply rooted, such as [not wanting to properly apologise for war crimes](https://www.theguardian.com/world/2015/aug/14/shinzo-abe-japan-no-new-apology-second-world-war-anniversary-speech) or [its leaders honouring the soldiers that committed war crimes](http://www.pri.org/stories/2013-12-26/why-yasukuni-shrine-so-controversial).
+1.5.1.2.2. Pro: Japan [embraced](https://en.wikipedia.org/wiki/Embracing_Defeat) its defeat after World War II and became a stable democracy. This illustrates how abandoning traditional values can be a positive experience.
+1.5.1.2.2.1. Con: Japanese textbooks and school history classes [skip over](http://www.bbc.co.uk/news/magazine-21226068) significant aspects of Japanese involvement in World War II, and minimise the extent of atrocities committed. This is hardly a complete embrace.
+1.5.1.3. Con: A majority \(nearly 55%\) of Japanese are indifferent to whaling \([IFAW, p. 2](http://www.ifaw.org/sites/default/files/economics-of-japanese-whaling-japan-ifaw.pdf)\).
+1.5.1.3.1. Con: -> See 1.5.1.1.1.
+1.5.1.4. Con: Only 27 percent of respondents in Japan say they support whaling, and only 11 percent do so strongly \([IFAW, p. 2](http://www.ifaw.org/sites/default/files/economics-of-japanese-whaling-japan-ifaw.pdf)\).
+1.5.1.4.1. Con: -> See 1.5.1.1.1.
+1.5.1.5. Con: Whaling only became widespread in Japan by the [1960s](http://us.whales.org/wdc-in-action/stop-whaling). It is not an age-old tradition.
+1.5.1.6. Pro: This has been the case throughout Japan's history. The country has an extremely homogeneous population, and has done everything it could to keep outsiders away. Japan only really opened to trade with [the arrival of Commodore Perry in 1853](http://afe.easia.columbia.edu/special/japan_1750_perry.htm\)). Whaling out of spite has deep roots.
+1.5.1.6.1. Pro: As far back as the Dutch during the Age of Exploration, Japan restricted foreigners to a small area and didn't allow them into Japan proper, in order to protect and preserve their way of life, and their racial purity,
+1.5.1.6.1.1. Con: The former Dutch exclave Dejima is treated like a [theme park](http://www.city.nagasaki.lg.jp/dejima/en/new_dejima/index.html) today, this highlights how Japan now positively interacts with the west, rather than focusing on isolation.
+1.5.1.6.2. Pro: -> See 1.5.1.2.1.
+1.5.1.6.3. Pro: Japan's protectionist nationalism is inherent to the archipelago. Many Japanese can trace their bloodline to feudal Samurai times, and in modern day Japan, genetic purity is as coveted as an essential part of [national identity](http://america.aljazeera.com/articles/2015/9/9/hafu-in-japan-mixed-race.html).
+1.5.1.7. Con: The Japanese are receptive to international pressure, such as [legal action](http://www.abc.net.au/news/2015-11-18/federal-court-hands-kyodo-$1m-fine-to-japanese-whalers/6952508), which lead to a decrease in demand regardless of nationalist discourse.
+1.5.2. Con: While carving out an exception for extremely limited hunting for cultural purposes may be warranted, this should not be taken as a justification for wide-scale whaling.
+1.5.2.1. Con: Judging when cultural purposes are sufficient runs the risk of facilitating cultural imperialism, where the wealthy and privileged determine whether a community meets their standards. It is more reasonable to allow communities to make this assessment, and focus on ensuring their practices are sustainable and minimise cruelty.
+1.5.2.1.1. Con: Given the financial investment that needs to be made for wide-scale whaling it is very easy to distinguish between culturally inspired whaling and wide-scale whaling.
+1.5.2.2. Pro: Recognising cultural and/or subsistence rights to hunt whales can open the door for those without those genuine needs to argue for their own whale hunts.
+1.5.2.2.1. Pro: There is [some evidence](http://abcnews.go.com/US/story?id=90125&page=1) that the Japanese used Makah whale-hunting rights as a wedge issue to push for permission to continue their own hunts.
+1.5.2.2.2. Pro: The Japanese [have argued](http://news.bbc.co.uk/1/hi/sci/tech/6698501.stm) that the US is being hypocritical in supporting whaling rights for indigenous communities in the US, but opposing them for Japanese coastal communities with similarly long-held traditions.
+1.5.2.3. Pro: "Small communities" still live in the same planet where whales are on the edge of extinction. Hunting them no matter the reason helps decline their numbers.
+1.5.3. Pro: The [Makah community](http://abcnews.go.com/US/story?id=90125) of Washington state place whale-hunts as central to their community-building practices and as a key part of their important cultural ties to the ocean.
+1.5.3.1. Con: The Makah community's whaling practices are already very restricted.
+1.5.3.1.1. Pro: The Makah community has its own whaling [commission](http://abcnews.go.com/US/story?id=90125&page=1) that reviews potential applicants.
+1.5.3.1.2. Pro: Sometimes Makah whalers are [arrested](http://abcnews.go.com/US/story?id=90125&page=1) for whaling.
+1.5.3.2. Pro: Whaling is one of the most [important](http://nativecases.evergreen.edu/collection/cases/its-our-treaty-whaling.html) organizing aspects of Makah culture.
+1.5.3.2.1. Con: The Makah community was prohibited from whaling for [70 years](http://makah.com/makah-tribal-info/whaling/) but still kept their cultural identity.
+1.5.3.2.2. Pro: Whales are displayed nearly everywhere in the reservation, e.g. on products \([Renker, p. 54](https://iwc.int/private/downloads/6MtOxXgS1KhmYvwbAliSiw/64-ASW%204.pdf)\).
+1.5.3.2.3. Pro: Makah children learn about the importance of whales for their culture in school \([Renker, p. 54](https://iwc.int/private/downloads/6MtOxXgS1KhmYvwbAliSiw/64-ASW%204.pdf)\).
+1.5.3.3. Con: The Makah community is already moving from whaling to seal hunting \([Renker, p. 45](https://iwc.int/private/downloads/6MtOxXgS1KhmYvwbAliSiw/64-ASW%204.pdf)\).
+1.5.3.4. Con: Less than half of Makah households participate in whaling ceremonies \([Renker, p. 32](https://iwc.int/private/downloads/6MtOxXgS1KhmYvwbAliSiw/64-ASW%204.pdf)\). This indicates that whaling is not central to their culture anymore.
+1.5.3.5. Con: Once the Makah were allowed again to hunt whales they faced aggression from non-Indians \([Renker, p.50](https://iwc.int/private/downloads/6MtOxXgS1KhmYvwbAliSiw/64-ASW%204.pdf)\). Allowing them to continue hunting whales will further alienate them from society.
+1.5.3.5.1. Pro: '[Save a whale, harpoon a Makah](https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/introduction-hunting-as-heritage-save-a-whale-harpoon-a-makah/DAAA896DA3207DC2D3B0A468EAF7CA98)' was one of the slogans that expressed the anger towards the tribe.
+1.5.3.5.2. Pro: [Makahs](http://community.seattletimes.nwsource.com/archive/?date=19990523&slug=race23m) were called “savages, drunkards and laggards”.
+1.5.3.5.3. Con: Native Americans should not have to conform to Western narratives of what constitutes proper 'society'.
+1.5.3.6. Pro: 85.2% of the Makah population indicate that whaling had a positive impact on the Tribe \([Renker, p. 56](https://iwc.int/private/downloads/6MtOxXgS1KhmYvwbAliSiw/64-ASW%204.pdf)\).
+1.5.3.7. Con: The Makah community is increasingly under economic and cultural pressure to end their traditional lifestyle despite subsistence whaling programs \([Renker, p. 44, 64](https://iwc.int/private/downloads/6MtOxXgS1KhmYvwbAliSiw/64-ASW%204.pdf)\).
+1.5.4. Con: Cultural methods of whaling hunting, such as those of the [Lamalera](http://www.bbc.com/news/magazine-32429447), are often especially cruel and therefore not worth preserving.
+1.5.5. Con: Aboriginal Subsistence Whaling programs are not making a meaningful impact on the systematic poverty of the communities they are meant to support.
+1.5.5.1. Pro: -> See 1.5.3.7.
+1.5.5.2. Pro: The [Chukotka Autonomous Okrug](https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug#Demographics)'s demographics have drastically declined since 1970, despite being allowed to hunt up to 140 Gray Whales per year.
+1.5.5.3. Pro: The [Inupiat](https://en.wikipedia.org/wiki/I%C3%B1upiat#Current_issues) tribe cannot be saved by allowing whaling. Thus, it only causes suffering among the whales without maintaining the tribe.
+1.5.6. Con: In the past, for many societies, whaling was an important aspect of their history and identity. Nevertheless, once they stopped whaling their culture remained, as - for example - in the case of the [Basques](http://www.historymuseum.ca/virtual-museum-of-new-france/economic-activities/basque-whalers/).
+1.5.6.1. Con: The Basque region had other options for hunting to sustain themselves, other communities who rely on the practice in less fertile areas of the world do not.
+1.5.6.2. Con: While Basque culture may have remained, it may have lost a valuable and important tradition.
+1.5.7. Pro: Whale hunting can be an important economic activity in remote locations with few other sources of jobs and income.
+1.5.7.1. Pro: The [Barrow Inpuiat](http://news.bbc.co.uk/2/hi/science/nature/6698501.stm) community of Alaska uses whale hunts to sustain an income and quality of life higher than the Alaskan average, despite their remote location.
+1.5.7.2. Con: Instead of hunting whales, other fish can be hunted.
+1.5.7.2.1. Con: In some areas particularly in the North, hunting for fish simply isn't enough to survive; whale meat has a particularly higher fat content, which provides enough nutrients to survive.
+1.5.8. Pro: Indigenous groups face enough challenges maintaining their cultural traditions, they should not be denied freedom to practice these traditions by external actors if no humans are being harmed.
+1.5.8.1. Pro: Communities where whaling is prevalent are mostly far removed from urban centres, and use their catch for their own local needs and purposes.
+1.5.8.1.1. Pro: Outsiders rarely have on-the-ground knowledge of what is best or sustainable for indigenous communities who live far from their realm of knowledge and experience.
+1.5.8.2. Pro: Often external actors are not actually interested in any moral malpractice in whaling traditions, but in natural resources - oil and gas, for example - particularly in the Arctic, as climate change melts all the ice and [new sea routes through the North Pole](http://e360.yale.edu/feature/cargo_shipping_in_the_arctic_declining_sea_ice/3056/) open up.
+1.5.8.3. Con: If they consider it an important part of their traditions, they can whale in the traditional way; without aid of guns, motorboats, and other modern technology.
+1.5.9. Con: Culture is no excuse for unsustainable or morally wrong practices. Thus, there is general condemnation of practices such as [female genital mutilation](https://en.wikipedia.org/wiki/Female_genital_mutilation#United_Nations) and the [unsustainable logging of forests](https://books.google.co.kr/books?id=o7YeBAAAQBAJ&pg=PA240&lpg=PA240&dq=brazil+logging+culture&source=bl&ots=4hmlNbfF9x&sig=LTdqNVDFq_HVZBuq1UOxf0EFf8E&hl=de&sa=X&ved=0ahUKEwiej5KqwKvPAhXDJJQKHaojCww4ChDoAQgoMAU#v=onepage&q=brazil%20logging%20culture&f=false) that local culture may consider justified.
+1.5.9.1. Pro: Arguing that a certain practice should continue because it has become cultural is a tautological argument. The length of time a certain act is practiced or the widespread acceptance of such practice by a community does not answer why such practice should be continued.
+1.5.9.2. Con: Morality differs from culture to culture because it is a product of social agreement. Culture thus is an excuse for morally wrong practices, as individuals can only use their culture and the values/attitudes it has created for moral guidance.
+1.5.9.2.1. Con: In a modern, global society, this is no longer an excuse. Individuals are exposed to a wider range of value sets, and can compare them to make personal moral decisions.
+1.5.9.2.1.1. Con: The characteristic that leads individuals to compare value sets openly is tolerance, a virtue which is created by society and culture, particularly by liberalism.
+1.5.9.2.1.1.1. Pro: Societies that are dominated by other ideologies. e.g. religious extremism, tend to rank their values higher and act in assumption of moral superiority.
+1.5.9.3. Con: -> See 1.3.1.2.2.2.1.1.2.
+1.5.10. Con: There are more than enough humans, and more than enough different cultures, so on the whole we would not be negatively impacted as a species, and those people would adapt or move.
+1.5.11. Con: Whale-hunting based cultures are an irrelevant minority.
+1.5.12. Con: -> See 1.3.5.
+1.5.13. Pro: Telling indigenous people to change their cultural practices is prioritizing animal life over human life.
+1.5.13.1. Con: Whaling will not save their culture given other pressures.
+1.5.13.1.1. Pro: -> See 1.5.3.7.
+1.5.13.1.2. Pro: -> See 1.5.5.2.
+1.5.13.1.3. Con: Given the quantity of pressures on indigenous groups we should try and remove as many of these pressures as possible.
+1.5.13.2. Con: Whaling kills whales, prohibiting cultural expression does not kill humans. This is not prioritising animal lives over human lives, but prioritising animal lives over human experiences.
+1.6. Con: -> See 1.3.1.2.2.1.3.2.
+1.7. Con: Whale hunting makes no sense from an economic point of view.
+1.7.1. Pro: Current Japanese whale-hunting practices result in a loss of several million dollars \([WWF, p. 4](http://file:///C:/Users/Gregor/Downloads/economics_whaling_summ_report_final.pdf)\).
+1.7.1.1. Pro: -> See 1.3.1.1.1.1.1.1.2.
+1.7.2. Pro: The Norwegian whaling industry survives only because of subsidies \([WWF, p. 6](http://file:///C:/Users/Gregor/Downloads/economics_whaling_summ_report_final.pdf)\).
+1.7.3. Con: -> See 1.5.7.
+1.7.4. Pro: -> See 1.3.1.1.1.1.1.1.
+1.7.5. Pro: Having fewer whales threatens ecotourism, which creates jobs for locals and joy for tourists.
+1.7.5.1. Pro: Having fewer whales is negative for the whale-watching industry, a type of tourism whose economical importance is on the rise.
+1.7.5.1.1. Pro: In 2008, almost 13 million people went whale-watching in 119 countries, with a total expenditure of around $2.1 billion, compared to 9 million people in 1998. [\(iwaf.org p. 36\)](http://iwaf.org p. 36)
+1.7.5.1.2. Pro: Especially in countries with low per capita gross earnings, whale-watching is an important economical factor.
+1.7.5.1.2.1. Pro: Whale-watching in Antongil Bay, [Madagascar](http://www.tradingeconomics.com/madagascar/gdp-per-capita) has many economic benefits for the locals, as this case study shows. [\(IFAW, p. 58\)](http://www.ifaw.org/sites/default/files/whale_watching_worldwide.pdf)
+1.7.5.1.2.2. Pro: In the [South African](http://data.worldbank.org/indicator/NY.GNP.PCAP.CD?locations=ZA) town of Hermanus alone, whale-watching tourism generated approximately $60 million in total expenditure. Compared to the GNI per capita this is a huge income.[\(IFAW, p. 77\)](http://www.ifaw.org/sites/default/files/whale_watching_worldwide.pdf)
+1.7.5.1.3. Con: There are enough whales to both hunt and watch.
+1.7.5.1.3.1. Pro: -> See 1.4.
+1.7.5.1.4. Con: While whale-watching might have economic benefits for locals and tourism companies, it has [negative effects](http://www.nature.com/news/ecotourism-rise-hits-whales-1.15770) on some cetaceans.
+1.7.5.2. Con: Allowing tourists to eat locally-sourced whale can be an effective way of [promoting tourism in isolated regions](http://uk.whales.org/wdc-in-action/greenland-targeting-tourists-with-whale-meat).
+1.7.5.3. Pro: [Ecotourism](https://en.wikipedia.org/wiki/Ecotourism#Definition) has become one of the fastest-growing sectors of the tourism industry, growing annually by 10–15% worldwide.
+1.7.5.3.1. Con: Whale watching represents less than 0.05% of ecotourism as a whole. Ecotourism is estimated to account for [$77 billion](http://www.responsibletravel.org/news/fact_sheets/fact_sheet_-_global_ecotourism.pdf) while whale-watching stands at a meagre [$33 million](http://www.whalesalive.org.au/whalewatching.html).
+1.7.5.3.1.1. Con: This number only takes into account the direct income generated by "eco" whale-watching and disregards the money whale-watching tourists spend in hotels, restaurants, for guides and transportation etc. Thus the total amount is significantly higher than 33US$ million.
+1.7.5.3.1.1.1. Pro: -> See 1.7.5.1.2.2.
+1.7.5.4. Con: The whaling industry in Iceland is smaller than the whale-watching industry. It has proven itself that whale-watching tours are popular even though Iceland still whales a little.
+1.7.6. Con: Whales hurt the fishing industry as a competitor.
+1.7.6.1. Con: -> See 1.3.1.2.2.1.3.2.2.
+1.7.6.2. Pro: According to the [St Kitts & Nevis Declaration](http://www.unesco.org/csi/smis/siv/Forum/SKNdeclaration06.pdf) of the International Whaling Commission "scientific research has shown that whales consume huge quantities of fish". This endangers local communities that depend on fishing.
+1.7.6.3. Pro: The research projects [JARPN II and JARPA II](http://www.icrwhale.org/JARPNResults.html) illustrate the significant fish consumption by whales.
+1.7.6.3.1. Con: In 2014 the [International Court of Justice](https://theconversation.com/whaling-in-the-antarctic-japans-scientific-program-illegal-23824) ruled that Japan's JARPA II whaling program was unlawful. Therefore, it should not be seen as valid source of knowledge.
+1.7.6.3.1.1. Con: This is perhaps a moral reason to reject the knowledge gained through it, but does not suggest that the findings themselves are actually flawed.
+1.7.6.3.1.2. Con: This does not devalue the result of the research programs it funded. The JARPN II research, for example, had panel members from renowned universities and institutes in the United States, the United Kingdom and other European countries \([JARPN II, p. 28](http://www.icrwhale.org/pdf/workshop2.pdf)\).
+1.7.6.3.2. Con: Given that these projects were funded and run by a government with a vested interest in justifying large-scale whaling, there is significant risk of bias in the collection and interpretation of these results.
+1.7.6.3.2.1. Con: -> See 1.7.6.3.1.2.
+1.7.6.4. Con: Evidence that supports the whales-eat-too-much-fish hypothesis is generated by [flawed](http://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/Summary_-_Are_whales_eating_too_many_fish__revisited.pdf) methodological approaches, such as testing in human-impacted areas.
+1.7.6.5. Con: Human beings have no exclusive right to consume any particular creature.
+1.7.7. Con: If whale hunting makes no economic sense, no one would engage in it in the first place.
+1.7.7.1. Con: Economic incentives are not always at the heart of decision making, such as in questions of drug legislation.
+1.7.7.2. Pro: Companies that engage in economically senseless activities would sooner or later close, as they create no profits. According to this principle, whaling companies would already have vanished if whaling made no economic sense.
+1.7.7.2.1. Con: Whaling is state-subsidized, e.g. in [Japan](http://us.whales.org/issues/whaling-in-japan) or [Norway](http://us.whales.org/issues/whaling-in-norway), thus this economic rule does not apply in this case.
+1.7.8. Pro: There is absolutely nothing hunting whales does that moves society forward. All products obtained from whales can be more easily obtained via other, and obviously more humane means.
+1.8. Pro: If whaling were generally accepted, the illegal and dangerous harassment of Japan’s Antarctic research vessels - for example by the [Sea Shepherd](http://www.seashepherd.org/) - would lose societal support.
+1.8.1. Con: Whaling is defacto-legal at present and whaling does not have widespread support. Legalisation would not change people's wider attitudes.
+1.8.2. Pro: Actions like those of the Sea Shepherd will become less attractive because renegotiation with Japan will be more [successful](http://www.abc.net.au/news/2016-11-07/a-less-confrontational-approach-to-whaling/8001302).
+1.8.3. Pro: In 1981, the Sea Shepherd claimed responsibility for the sinking of the two of whaling vessels of the company, Ibsa I and Ibsa II, in Galicia, Spain. It is widely agreed by many scientist and environmentalists involved in the ‘Save the Whales” movement in Spain back then that the actions of the Sea Shepherd where the catalyst of the bloodiest whaling campaign in the history of the company.
+1.8.4. Pro: The Sea Shepherd campaigns fixate on a very small portion of the real problems being whaling a small numerical irrelevance in comparison. They alienate deeply the actors we should be engaging with to resolve the issues of sustainable whaling without falling in moral relativism that many Westerners who in cases have lost connection with their environment, display violently in online forums.
+1.8.5. Con: To put this point another way, if elephant hunting was fully legalised, then less poachers would be caught or shot. That doesn't seem like positive reasoning.
+1.8.6. Con: Sea Shepherd [claims](http://www.seashepherd.org/who-we-are/laws-and-charters.html) that it acts within the law and "adheres to the utilization of non-violent principles in the course of all actions and has taken a standard against violence in the protection of the oceans."
+1.8.6.1. Con: An injunction was [put in place](http://www.deepseanews.com/2013/03/sea-shepherd-without-a-doubt-pirates/) against the Sea Shepherd after they were found by the Ninth Circuit US court of Appeals to have been harassing Japanese research vessels, and engaging in violent behavior towards them.
+1.9. Pro: Allowing whale hunting will save the broken International Whaling Commission, which has become [dysfunctional](http://www.icrwhale.org/eng/60OpeningStatement.doc) through internal disagreement, because it allows members that previously withdrew to return.
+1.9.1. Con: It is not clear that allowing whaling would resolve the inherent internal tension between members who oppose whaling and those who support it.
+1.9.1.1. Con: It would end the immediate danger of Japan withdrawing from the commission or neglecting it.
+1.9.2. Pro: If the IWC is absent, whaling could not be regulated any more.
+1.9.2.1. Pro: Norway, which resigned from the IWC, hunts more whales than Japan and Iceland [combined](http://www.csmonitor.com/Environment/2016/0614/How-Norway-quietly-became-a-whaling-powerhouse).
+1.9.2.2. Con: If the cost of improving the IWC's functionality is agreeing not to carry out one of its key functions,  the conversation of whales, this may not be worth doing.
+1.9.2.2.1. Con: -> See 1.4.
+1.9.3. Pro: The whaling commission was hijacked by non-whaling members joining and overriding the concerns of whaling nations. This imbalance from the envisioned purpose causes great instability within it.
+1.9.3.1. Pro: Initially, the commission was considered a '[whaling club](https://books.google.com.au/books/about/The_Whale_War.html?id=ucycAAAACAAJ&hl=de)'; because many states without fishing industries joined, for example by [Austria](http://us.whales.org/news/2002/03/austrian-parliament-adopts-groundbreaking-resolution-on-whaling-and-iwc), the purpose of the organisation shifted from the allocation of quotas to an anti-whaling approach.
+1.9.4. Con: A useless and broken commission is a minor concern compared to the suffering of a sentient creature.
+1.9.4.1. Con: By fixing the whaling commission and setting quotas, fewer animals will be killed.
+1.10. Pro: -> See 1.3.1.2.2.
+1.11. Con: Allowing the hunting of whales sets a precedent that weakens [Art. 64 and 65 of UNCLOS](http://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf), which awards legal protection for other species, such as dolphins or porpoises, "with a view to ensuring conservation". This threatens their lives too.
+1.12. Pro: Whales do [collide](https://www.hindawi.com/journals/jmb/2012/106282/) with ships causing human injury and damage to property. Hunting them to lower but sustainable numbers will reduce these collisions.
+1.12.1. Con: Collisions between whales and ships are extremely rare and largely minor in scope. The [large whale ship strike database](http://www.nmfs.noaa.gov/pr/pdfs/shipstrike/lwssdata.pdf) records under 300 incidents since the start of the 20th century.
+1.12.1.1. Con: This data, which is extremely difficult to quantify if events don't get reported reflects only the reported cases in the US territories. The worldwide realities of incidental capture are in the thousands. In 2009 alone more than 1,000 collisions were reported.[wwf.panda.org](http://wwf.panda.org/what_we_do/endangered_species/cetaceans/threats/shipping/)
+1.12.2. Con: The [same source](https://www.hindawi.com/journals/jmb/2012/106282/) recommends slower speeds for boats and ships and refers to the Glacier Bay National Park where this measure has been "used successfully".
+1.13. Con: We have not shown that we can adequately control populations of the animals we hunt. We constantly over-fish and over-hunt. As we've had hundreds of years to get this right, and haven't, we should stop hunting whales entirely.
+1.13.1. Con: In the USA hunting seasons have been hugely successful in bringing back wildlife populations[rmef.org](http://www.rmef.org/Conservation/HuntingIsConservation/25ReasonsWhyHuntingIsConservation.aspx)
+1.14. Con: -> See 1.3.1.2.

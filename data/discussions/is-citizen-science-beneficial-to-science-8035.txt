@@ -1,0 +1,103 @@
+Discussion Title: Is citizen science beneficial to science?
+
+1. Citizen Science is beneficial to science.
+1.1. Con: Citizen science projects put critical data and collection in the hands of amateurs. It is hard enough to control for spurious variables in a well-controlled research setting. Thinking that crowd-sourcing will deliver reliable data is wishful thinking at best, a Pollyanna distraction to serious scientific inquiry at worst.
+1.1.1. Con: Crowdsourced science can be reviewed by government, nonprofit, and commercial organizations still, as repeated experiments are necessary for the scientific method.
+1.1.2. Con: The collection of data by citizen science groups does not in any way prevent the collection of data by professional scientists. The absolute worst case scenario is that the data are not used and the effort wasted their \(free\) time.
+1.1.2.1. Pro: At the most, science advances. In this case, the benefits outweigh the risks
+1.1.3. Con: Not always. One example is the provision of computer power to calculate hard problems by individual citizens. There is no risk involved in this type of contribution. This can even be done with [games](http://www.citizensciencecenter.com/citizen-science-games-ultimate-list/).
+1.1.4. Pro: Unless a robust scientific method is applied \(to any given study\) a person's results have too high a risk of personal, or confirmation, bias. With Citizen Science detailed methodology is often unknown, as is the understanding of the researchers of the scientific method in general.
+1.1.4.1. Pro: As citizen science projects are crowd-funded, due to the high risk of bias, the projects can be a big waste of time for a lot of people.
+1.1.5. Con: To the degree that Citizen Science projects increase sample sizes, add computing power, and reduce investigator bias, it represents a positive tool in the arsenal of modern research.
+1.1.5.1. Pro: The origin of popular science is from social struggles and it's scope can not be confined to individuals that's why citizen science exists. It's important to see into citizens ideas, thinking opinions and value it even if it's not measurable as of now but one day citizen science may have its place or take over. Ultimately citizen science is Democratic and true practice of science. Even [Thomas Kuhn and Karl Popper](https://principia-scientific.org/who-got-the-scientific-method-right-karl-popper-or-thomas-kuhn/) contradicts at instances, but the thinking reflects importance of citizen science.
+1.1.6. Pro: By legitimizing citizen science, people will associate professional science with it and thus science as a whole will lose legitimacy.
+1.1.6.1. Pro: Already science denial \(climate change, evolution, young earth creationism, etc.\) is rampant. We need to strengthen the belief in science, not allow the foundations of science to weaken.
+1.2. Con: Some citizen science projects might be unethical.
+1.2.1. Pro: If collecting data requires animal cruelty or harming the environment, then that project is not as ethical than one that does not harm something or someone.
+1.2.2. Pro: People would need to choose between helping out science and following their ethics. People shouldn't need to make this choice, but some citizen science projects make them. These should not exist and make people want to do citizen science projects less.
+1.2.3. Con: Each project should be judged as valid before being financed.
+1.2.4. Pro: It is possible to gather massive amounts of private data passively \(locations and times, also sleep, heart rate, movement\) or actively \(genome studies\). In these instances, citizens are voluntary objects of research, rather than researchers.
+1.2.5. Con: Citizen science can eliminate discrimination that normally blocks marginalized people from scientific work.
+1.2.5.1. Pro: Citizen science allow geniuses to arise from the masses. Just like how YouTube allows anyone to be the next celebrity or sensation, citizen science might allow us to discover the next science superstar \(such as people like [Ramanujan](https://en.m.wikipedia.org/wiki/Srinivasa_Ramanujan)\).
+1.2.5.2. Pro: In citizen science's history, big observational data relied on time. This made developing scientific fields difficult and isolating, causing science professionals to [overshadow](http://www.science20.com/anthrophysis/brief_history_citizen_science-93317)  amateurs' \(business professionals or royalty\) work. Now it relies on crowds. Today's technological, collaborative environments allow everyone's input to be taken into consideration and worked from in real-time. [Submissions](http://communitysnowobs.org/) come from anyone anywhere for scientists to immediately make predictions from.
+1.2.5.3. Con: Citizen science is a haphazard way to address the inequalities in society.
+1.2.5.3.1. Pro: Citizen science shifts the responsibility of the elevation of individuals from society to those individuals, making them responsibly for lifting themselves out of inequality. It is no longer society creating the institutions for ascension, but anyone can if they "just put in the effort." The truth is that poorer individuals do not have the resources requisite to partake in science.
+1.2.5.3.1.1. Pro: Using citizen science does not elevate the disenfranchised communities, but grants the illusion they are elevated by de-elevating scientific discourse.
+1.2.5.4. Pro: Citizen science lowers the experience level for working on a project to none. This translates to anyone being able to work on science projects.
+1.2.5.4.1. Pro: People of all ages can work in citizen science
+1.2.5.4.2. Con: By having a barrier of entry we require people who enter into the field have a minimum level of knowledge, and we help quality control the outputs of science.
+1.2.5.5. Pro: These people could get skills that they could not have otherwise, which raises their potential to become employed.
+1.2.5.5.1. Con: Working on citizen science projects are not true work experiences \(but volunteer work\), which have little value towards becoming employed.
+1.2.5.6. Con: Not everyone has the capability to work on every citizen science project \(such as a person who does not have internet cannot work on online projects\).
+1.2.6. Con: Professional support to citizen science could mitigate this risk \(e.g. Pro-bono ethical boards\).
+1.3. Pro: There are arguments that citizen science is not professional. In that case, it could be said that the professional science manufactures science whereas citizen science practices science. It's important to understand many of today's scientifically and statistically accurate papers are cooked, shaped, and marketed. It's time to turn it other way by writing citizen science in an understandable, simple language, with not much high vocabulary, formats, references, etc. to reach all societal strata.
+1.3.1. Con: Science is about the highest levels of thought. By simplifying language we risk losing meaning, defeating the purpose of science in order to bring it to the masses. The only way to effectively reach the masses is to elevate them, not de-elevate science.
+1.4. Con: Citizen scientists can only make contributions which require little skill or training, limiting their usefulness too much to be truly beneficial.
+1.4.1. Pro: This type of contribution can only help in a specific \(low skill\) way. While positive altogether \(simple data gathering such as bird-watching or allowing a phone to passively record noise levels should produce valid data, also freeing scientists to deal with complex tasks\), being limited to simple tasks may limit the contribution too much to be seriously useful. Eg research of stem cells and such.
+1.4.2. Pro: Anyone shouldn't be able to work on science. Science isn't on the same level of writing an email, nor should we treat it as such by allowing anyone to partake.
+1.4.2.1. Pro: When we look at where the majority of innovation in science, we see extremely complex prerequisite knowledge. Quantum computing, genetic engineering, these things are necessarily not for everyone due to the level of complexity and prior knowledge they require.
+1.4.2.1.1. Pro: It's important that this prior knowledge is valid, whereas without professionalism and standardization of preparation for the field, there's potential for individuals to get false, faulty, or incomplete information.
+1.4.2.1.2. Con: Citizen science breaks projects down into parts, so each group works on a portion that just needs 2 items of information: 1\) reason for the project, 2\) how to do the assigned part of the project. People do not need extensive backgrounds for their small contribution, only the tiny info that the project shares with them instead.
+1.4.2.1.3. Pro: The amount of time and information that people need to go through to understand what they need to work on would take so long that most people cannot even participate in citizen science to begin with. Only experts can work on these complex issues due their background, as they realize early on/ahead of time what is needed to solve them and devote the necessary time to study it rigorously.
+1.4.2.1.4. Pro: Citizen science can raise false hopes in people feeling like they can contribute to a project only to find that they cannot, because it is too complicated for them. Common, non-specialized knowledge of citizen scientists can fall short of participants and finishing, which would not occur if experts worked on them instead.
+1.4.2.2. Pro: The danger of science is the unintended consequences. We have much difficulty with ensuring that science is conducted for humanities benefit now, but without professionalism any potential discovery \(even if unlikely to occur\) could create unintended ramifications for people. It is unreasonable to expect the average person to account for these things.
+1.4.2.2.1. Pro: If citizen scientists do not know why or what they are working on and do not think about the consequences \(because they are an intermediary step, not part of the beginning or end product\), they can cause major problems that they do not even realize.
+1.4.2.2.2. Con: Scientists do not necessarily always think about the possible social or humanitarian ramifications of their discoveries or inventions either.
+1.5. Con: There are activities with a greater benefit to science than citizen science. If citizen science is pursued instead, it can be a drawback to someone's potential in helping science.
+1.5.1. Pro: If citizen science projects provide little purpose but require massive amounts of time from people, people might believe less in the value of science than before.
+1.5.2. Pro: If a person can make a bigger contribution than participating in a citizen science project to science, then the citizen science project would not be a benefit but a drawback.
+1.5.2.1. Pro: If people work an extra job instead of pursue citizen science, then they can donate to scientific causes that have no citizen science projects, but are more valuable to society.
+1.5.3. Pro: The more people involved in science, the less likely the professional scientists will get funding since there will be greater competition for the same amount of funds.
+1.6. Con: Citizen science can create so much information that real and more valuable discoveries may get lost in the wealth and buzz of it.
+1.6.1. Con: Citizen science expands the 'bandwidth' of science by exploring questions, methods and contexts that are often neglected.
+1.7. Pro: Citizen science may complement rather than replace professional practice.
+1.7.1. Pro: The peer review process should include citizen scientists to blend expert, layperson and perspectives in between. Many fields become too nepotistic to objectively evaluate the impact and quality of work.
+1.7.2. Pro: Engagement with professional scientists is not precluded by citizen-led science projects.
+1.8. Con: Citizen science is a [symptom of larger, structural issues in society](https://www.coralcoe.org.au/crs_event/citizen-science-meets-research-and-conservation-the-good-the-bad-and-downright-ugly). Rather than resolving these issues, it enables them to continue.
+1.8.1. Pro: Citizen science "[address\[es\] deficiencies in a fragmented educational system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4798802/)"
+1.8.2. Con: Less resources are required \(by the creators\) to carry out projects when given to the public to work on.
+1.8.2.1. Pro: Projects like BOINC show that most databases still use lots of resources to create and function and are not updated to quantum computer levels. Quantum computers are faster and [smaller](https://cdn.mos.cms.futurecdn.net/99826f9b6d868c0e224c7084e86a49ca-650-80.jpg), saving electricity and size.
+1.8.3. Con: Citizen science encourages engagement in the sciences.
+1.8.3.1. Pro: This might [lead more people to pursue STEM careers](https://greenschoolsnationalnetwork.org/science-action-clubs-use-citizen-science-engage-students-stem/).
+1.8.4. Con: Citizen science encourages [civic participation](https://study.com/academy/lesson/what-is-civic-participation-definition-examples.html) \(with projects by [NASA](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj3mMP57-zYAhWSnlMKHcwxDHoQFgg0MAE&url=https%3A%2F%2Fwww.nasa.gov%2Ffeature%2Fgoddard%2F2016%2Fnasa-launches-new-citizen-science-opportunity&usg=AOvVaw0N14_c6PMnpeAFqXrn5I32) and the [EPA](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjylpKE8OzYAhVBtVMKHQiCCYYQFgguMAA&url=https%3A%2F%2Fwww.epa.gov%2Fcitizen-science&usg=AOvVaw10kuW1SoX421gaL1sMmj-7)\).
+1.8.5. Con: -> See 1.2.5.
+1.8.6. Pro: Big money is involved in citizen science, making the inequality high in this realm.
+1.8.6.1. Pro: Citizen scientists have little say and insight about how their work is handled after they submit it.
+1.8.6.1.1. Pro: People who place their efforts into citizen science rarely get recognized for their efforts.
+1.8.6.1.1.1. Pro: There is huge advantage to marginalized and rural community who are unfortunately not even recognized with names in scientific research papers even though they contribute in large, especially in natural science. People who call themselves scientists and people who publish with pride should be ashamed of for this because they charge common people or sale for people who wants follow. Citizen science should take it's shape by recognizing it's real contributors.
+1.8.6.2. Pro: The experience in participating in citizen science for free does not help with one's employment, only being a creator of one does.
+1.8.6.2.1. Pro: [Science jobs may be lost to citizen scientists](https://blog.nature.org/science/2013/08/20/locally-based-monitoring-are-scientists-at-risk-of-losing-their-day-jobs/).
+1.8.6.2.2. Con: Citizen science creates a solution for automation by allowing a person to be productive when they have no employment.
+1.8.6.2.2.1. Pro: Projects provide people with skills and experience that they can use in their personal lives.
+1.8.7. Con: It helps with [conservation](http://www.detroitnews.com/story/sponsor-story/michigan-wildlife-council/2018/01/22/citizen-scientists-act-superheroes-conservation/1044607001/?from=new-cookie).
+1.8.7.1. Pro: It could save species from extinction \(such as the [monarch butterfly](http://www.delmarvanow.com/story/opinion/columnists/2017/08/19/citizen-science-monarch-butterflies/104721384/?from=new-cookie)\) to preserve laws like the [Endangered Species Act](http://www.nmfs.noaa.gov/pr/pdfs/laws/esa.pdf)
+1.8.8. Pro: Two issues in science currently are the [costs \(labor and equipment\) to make the smallest dent for progress](https://www.huffingtonpost.com/george-zaidan/citizen-science-creating-_b_2130310.html) and [declining funds](https://www.theatlantic.com/science/archive/2017/03/trump-budget-cuts-science/519825/). Citizen science solves both of these issues by increasing progress and being cheap.
+1.8.9. Pro: Citizen science projects are a sign that automation has not caught up yet with humans because humans still need to do the "grunt" work.
+1.9. Pro: Citizen science speeds up discoveries.
+1.9.1. Con: Fake science can delay discoveries with people ascribing themselves to a false notion. Even after disproved, there may be a lingering [Continued Influence effect,](https://en.wikipedia.org/wiki/Confirmation_bias#continued_influence_effect) [Anchoring](https://en.wikipedia.org/wiki/Anchoring), and [Availability cascade](https://en.wikipedia.org/wiki/Availability_cascade) Cognitive biases.
+1.9.2. Pro: These discoveries benefit society without costing much.
+1.9.3. Pro: Citizen science allows big data to be worked on.
+1.9.3.1. Pro: Crowdsourcing allows for this.
+1.9.4. Pro: Citizen science can be worked on from anywhere.
+1.9.5. Pro: Citizen science supports academics by providing them data to write academic articles.
+1.9.6. Pro: [Citizen science](http://www.birds.cornell.edu/page.aspx?pid=1664) frees scientists and experts from laborious "grunt work" so they can focus on more complex tasks.
+1.9.6.1. Pro: Scientists [use](http://www.eternagame.org/web/about/) citizen science data to make insights and publish scholarly articles describing them.
+1.9.7. Pro: Citizen science draws attention to scientific topics that would otherwise be neglected \(due to being difficult to work on\).
+1.9.7.1. Pro: [Transcribing handwriting](https://thebrainbank.scienceblog.com/2015/08/23/citizen-science-the-power-of-the-crowd/) is one of such tasks.
+1.9.8. Pro: Projects, like [Eyewire](http://blog.eyewire.org/about/), help AI learn how humans think
+1.10. Pro: It allows study and practice to make [real contributions that are beneficial to society](http://www.chicagotribune.com/news/ct-citizen-scientists-increasing-met-20170901-story.html).
+1.10.1. Con: Some projects have less value than is worth the effort.
+1.10.1.1. Pro: Because people are not getting paid, their work might be useless due to their lack of expertise.
+1.10.1.2. Pro: Projects require continuous funding and oversight.
+1.11. Pro: These projects help out the participants in their lives to gain scientific skills
+1.11.1. Pro: These projects allow [children to learn applicable science skills](https://www.sciencenewsforstudents.org/article/kids-make-great-citizen-scientists) for personal gain such as a future career.
+1.11.2. Con: Citizen science projects require time and money from people that might detract from their personal lives.
+1.11.2.1. Con: Some citizen science projects take relatively little time from their day \(such as [BOINC](https://boinc.berkeley.edu/)\) that they can still lead meaningful, productive lives with it.
+1.11.2.2. Pro: Citizen science projects that are games foster video game addiction.
+1.11.3. Pro: It is a great teaching tool to [help students learn](https://www.sciencenewsforstudents.org/article/kids-make-great-citizen-scientists)
+1.11.3.1. Pro: students can even [receive awards](http://blogs.discovermagazine.com/citizen-science-salon/2018/01/24/trophy-marks-new-era-for-citizen-science-in-the-classroom/) to feel accomplished in their work.
+1.11.4. Pro: Citizen science projects are fun and are productive activities for leisure time
+1.11.4.1. Con: People [need motivation](http://www.j-namuchoi.com/itp/?p=386) to work on citizen science.
+1.11.4.1.1. Con: Even though [most participants give up in their first try, the efforts made still saved projects money](https://arstechnica.com/science/2015/01/most-participants-in-citizen-science-projects-give-up-almost-immediately/).
+1.11.4.2. Pro: Projects allow people to connect with and help out others around the world.
+1.11.4.3. Con: Prediction: If you took a survey of average citizens about what they consider "fun," participating in a Citizen Science experiment would be in the bottom 1%, if it made the list at all.

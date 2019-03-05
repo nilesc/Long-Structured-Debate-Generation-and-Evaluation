@@ -1,0 +1,60 @@
+Discussion Title: Should false rape accusations be prosecuted?
+
+1. False rape accusations should be prosecuted.
+1.1. Pro: Prosecuting false accusations will deter others from making such claims.
+1.1.1. Con: The problem, however, will lie in such over-deterrence so as to deter the reporting of actual rapes, sexual assault, and abuse.
+1.1.1.1. Pro: In the UK, [1 in 4 sexual assaults](https://www.theguardian.com/uk-news/2014/nov/18/police-dismiss-one-in-four-sex-crimes-watchdog) go unrecorded/thrown out by the police, essentially letting rapists go free and discouraging women from coming forward.
+1.1.2. Pro: False accusations diminish the veracity of true victims, and contribute to them being less heard.
+1.2. Con: There are better alternatives than criminal prosecution.
+1.2.1. Pro: Those harmed by false accusations could use the civil system, rather than the criminal system.
+1.2.1.1. Pro: The civil system would not impose a near-mandate to press "charges" against the individual making allegations- it would be up to the alleged perpetrator.
+1.2.1.2. Pro: The civil system could better account for the likely reasons false accusations are made \([sexual shame, dealing with a harm that may not be dealt with otherwise](https://qz.com/980766/the-truth-about-false-rape-accusations/), or sheer malice, under the defamation understanding\).
+1.2.2. Pro: In some cases the accuser is mentally ill [¹](https://healthresearchfunding.org/8-false-rape-accusation-statistics/). They may be better served by seeing a healthcare professional, rather than being prosecuted.
+1.3. Pro: False accusations make it impossible for the accused to lead a normal life even after acquittal, and they deserve recompense.
+1.3.1. Pro: False accusations hurt the families of the accused.
+1.3.2. Pro: Harm would be in form of defamation \(both slander and libel\), and can be very damaging to the reputation and quality of life for the accused.
+1.3.2.1. Pro: There is a huge mental strain on being falsely accused and it can have lifelong implications [My best friend’s killer got away - until I made police try again http://www.bbc.co.uk/news/stories-44470377](http://My best friend’s killer got away - until I made police try again http://www.bbc.co.uk/news/stories-44470377)
+1.3.2.2. Pro: Perjury, defamation, libel, slander, harassment, incitement of violence; a false rape accusation is a smorgasboard of crimes all done with intent to destroy someone's life.
+1.3.2.2.1. Con: Defamation, libel, and slander are generally not crimes - they are civil offenses.
+1.4. Pro: False rape accusations are malicious, when put forth deliberately and with intent.
+1.4.1. Con: There are other reasons people make [false rape accusations.](https://qz.com/980766/the-truth-about-false-rape-accusations/)
+1.4.2. Pro: -> See 1.3.2.2.
+1.5. Con: Allowing for prosecution would deter potential victims from speaking up if they feel they don't have sufficient proof.
+1.5.1. Con: This isn't the case, as failing to successfully prosecute an accusation of rape would not be proof of a false claim.
+1.5.1.1. Con: If the accusation was true regardless of unsuccessful prosecution, the survivor would be forced deeper into psychological trauma.
+1.5.1.1.1. Pro: The survivor may need to testify, reliving the experience they were forced to undergo.
+1.5.1.1.2. Pro: The survivor would have to spend more time with the court system, knowing that it had already failed them.
+1.5.1.2. Pro: It isn't a crime to lose a case. To be convicted of making a false accusation, one would have to be prosecuted for it and would benefit from all the legal standards for burden of proof.
+1.5.2. Pro: Even today, many women don't come forward because they are accused of [lying or suffer at the hands of victim-blaming.](https://ocrsm.umd.edu/files/Why-Is-Sexual-Assault-Under-Reported.pdf)
+1.5.3. Con: -> See 1.1.2.
+1.5.4. Pro: Prosecution for false rape accusations \(under the definition of law, which could just mean acquittal of the perpertrator\) makes it unlikely that the victim will be believed if a subsequent, actual rape occurs.
+1.5.4.1. Pro: Prosecution of false rape accusations also increases the risk of those accusers becoming directly targeted for rape, after the false accusation charges. This is particularly relevant in domestic abuse cases.
+1.6. Con: False rape accusations are too difficult to properly assess.
+1.6.1. Pro: [Jurisdictions](https://en.wikipedia.org/wiki/False_accusation_of_rape#Estimates_of_prevalence) have different classifications for false accusations, which can result in them being classified as 'unfounded' or 'unproven.
+1.6.2. Pro: There may not be sufficient evidence.
+1.6.2.1. Pro: If there isn't substantial evidence to prove, then the assessment is that it didn't happen.
+1.6.2.2. Con: A polygraph test can be taken.
+1.6.2.2.1. Con: Polygraph tests are [not reliable](http://www.apa.org/research/action/polygraph.aspx) forms of assessment.
+1.6.2.2.2. Con: Polygraph tests are generally not admissible in court.
+1.7. Con: Rape is common, and thus victims need to be afforded protection from prosecution in the effort to reduce it's occurrence.
+
+[1](https://rapecrisis.org.uk/statistics.php)
+1.7.1. Con: The victim should have nothing to worry about if the accusations are true.
+1.7.1.1. Con: It is difficult to define "true" in terms of these kinds of legal obligations. The survivor may indeed have been sexually assaulted, even raped, but the perpetrator might still be found not guilty because the statute and the evidence don't match up.
+1.7.1.1.1. Con: A assaulter's "not guilty" verdict does not by default translate into a victim's "guilty" verdict. Positive proof is required for either one.
+1.7.1.1.1.1. Con: The not guilty verdict could be compelling, if not utterly damning evidence in the trial of the victim. Thus, the not-guilty verdict of the perpetrator could doom the victim to prosecution because their accusation is false in legal reality, even though their accusation is true in actual reality.
+1.7.1.1.1.1.1. Con: This is not true, as the burden of proof relies on the prosecutor in each case. Failing to win a case is not even remotely proof of any kind that the accusation was false \(let alone damning\). It merely proves that they couldn't prove it.
+1.7.1.2. Pro: Somebody who was the victim of a sexual assault would not have to fear being tried for false claims. Their innocence would not hinge on whether their accused assaulter was found guilty but rather whether there was positive evidence that they falsified their claims.
+1.7.2. Pro: According to [RAINN](https://www.rainn.org/statistics/victims-sexual-violence), an American is sexually assaulted every 98 seconds.
+1.7.3. Con: There is no evidence that fear of being convicted of making a false claim contributes to the prevalence of sexual assault.
+1.7.4. Pro: False rape accusations only account [for about 2-8%](https://en.wikipedia.org/wiki/False_accusation_of_rape) of reported \(only approx. 40% are even reported\) rape cases, which is a similar rate to other felony offences.
+1.7.5. Con: Victims whose accusations do not result in a conviction would not automatically be charged with making a false accusations. 'Not guilty' does not mean the accused is proven innocent, it means that the guilt of the accused has not been sufficiently proven. As such, to convict someone for making a false accusation, it would have to be explicitly proven that the accusation was false.
+1.8. Pro: -> See 1.1.2.
+1.9. Pro: There should be potential for consequence on every action someone undertakes. No action \(rape accusation\) should be unilaterally protected.
+1.10. Pro: False rape accusations clog up the legal system.
+1.10.1. Pro: -> See 1.1.
+1.10.2. Con: They also serve to show justice is served when they are discredited or not progressed.
+1.11. Con: Pursuing false rape accusations is a waste of time, as no tangible harm will have been caused.
+1.11.1. Con: The falsely accused can lose time at work, hurting their financial security.
+1.11.2. Con: The offence of wasting police time already exists and is used sparingly already.
+1.11.3. Con: -> See 1.3.2.

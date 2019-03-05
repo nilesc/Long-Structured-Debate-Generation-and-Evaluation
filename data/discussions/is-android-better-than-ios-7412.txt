@@ -1,0 +1,61 @@
+Discussion Title: Is Android better than iOS?
+
+1. Is Android a better platform than iOS?
+1.1. Pro: Android doesn't lock users into their ecosystem as much as IOs does.
+1.1.1. Con: It is not possible to port Android apps to other \(non-Android devices\), so Android portability is as bad as in the case of iOS.
+1.1.1.1. Con: There are some major iOS only apps that aren't ported to Android \(iMessage for example\) while most of Android applications have their iOS version \(Google apps for example\)
+1.1.2. Pro: Many iOS users rely on services that they wouldn't have access to anymore if they'd move away from iOS, like iMessage.
+1.1.3. Con: Being "locked" in the iOS' ecosystem is a by-product of having features/services \(like iMessage\) that are either not available \(at least not to that extent\) outside of it, or it is too much of a hassle to reproduce.
+1.2. Pro: Android is more customisable.
+1.2.1. Con: Because companies customize Android in their own way there is a fragementation issue.
+1.2.1.1. Pro: This represents a security risk: [less than one percent](https://developer.android.com/about/dashboards/index.html) of devices are running the latest version of Android, and less than one quarter the second-latest one from two years ago. In contrast, [three quarters](https://mixpanel.com/trends/#report/ios_11/from_date:-41,report_unit:day,to_date:0) of iOS devices are running the system's latest version.
+1.2.2. Pro: Android has more Power User features.
+1.2.2.1. Pro: On Android, you can modify the launcher.
+1.2.2.1.1. Pro: This allows you to set up a consistent feel across all of your Android devices
+1.2.2.1.2. Con: Modifying the launcher and its settings can cause problems.
+1.2.2.1.2.1. Pro: Therefore, the usage of RAM is decreased- effectively saving power.
+1.2.2.1.2.1.1. Con: Launchers can also use less RAM than their pre-installed counterparts.
+1.2.2.2. Pro: Apps for Android are available beyond the app store and installable via executables.
+1.2.2.3. Con: Quantity of power user features does not equate to quality of features. The things you can do on iOS with help from apps like workflow.app are much more user friendly than writing scripts to do the same thing on android.
+1.2.3. Pro: -> See 1.2.2.2.
+1.3. Con: There is no one unified operating system under Android; many manufacturers employ their own distributions. iOS devices provide a unified experience.
+1.3.1. Con: This does not apply to the iPhone X as it lacks a home button.
+1.3.2. Con: A unified experience is not necessarily better. An experience that is great for one person may be terrible for another.
+1.3.3. Pro: Various manufacturers have become infamous for their bloated and unintuitive Android modifications, for example Samsung.
+1.4. Con: Android deployment architecture is flawed by design. After an update is made by Google, it must be pushed to the manufacturers, and after that to the mobile companies. That keeps most Android devices running unpatched versions of the system. Apple is able to update iOS on all devices by itself, making it much safer.
+1.5. Pro: Android is usually more feature-rich than iOS
+1.5.1. Pro: Android provides a huge range of third party apps which allow users to do all sorts of different things. For example, they can change the animations of opening an application or the number of apps that are allowed on your home screen. This provides the user with a lot of freedom.
+1.6. Con: iOS is more user friendly.
+1.6.1. Con: Some people feel that iOS puts restrictions on what they can do with their smartphone.
+1.6.1.1. Con: The same people also usually don't really change anything on android.
+1.6.2. Pro: The single Home button is easiert to use than the 3 navigation buttons on android phones
+1.6.2.1. Con: This rules out the option for the home button having other actions, since it is used a\) to go to the home screen b\) to launch he app drawer. In Android, the app drawer has its own button, meaning that it allows a user to add an action \(in the home screen button\) such as launching the voice assistant or opening the flashlight etc.
+1.7. Pro: You can flash custom ROMs on an Android device
+1.7.1. Con: For most users this option is hardly relevant as they would derive no benefits from custom ROMs.
+1.8. Pro: -> See 1.2.2.
+1.9. Con: iOS provides a lag-free, smoother user experience.
+1.9.1. Pro: On top of that, iOS is more accessible as it looks the same across devices, is less customization and allows for less clutter. Especially for the elderly, the young and those with limited literacy this is helpful.
+1.9.1.1. Con: The whole point of owning a phone is to have it personalized for you, by yourself. Seeing your 'home screen' being the same across multiple other iOS devices strips out the whole point of personalizing your phone the way you like it.
+1.9.2. Con: iOS devices are notorious for becoming slow and laggy after a few years and operating system updates.
+1.9.2.1. Pro: iOS updates slow down older systems.
+1.9.2.2. Con: iOS updates don't slow down devices and some updates even make the devices faster, for example through the implementation of the [Apple File System](https://en.wikipedia.org/wiki/Apple_File_System).
+1.10. Con: Apple is better for people who just want their phone to work, and not lag after 6 months. I am currently using a 4 year old iPhone that is just as responsive as the day I bought it \(it doesn't seem any slower anyway\), but I have had 3 higher end android phones and all were perceptible slower after 6 months, and almost unusable due to lag and battery life problems after about 16 months. My personal experience leads me to believe that the android system and infrastructure is fundamentally flawed
+1.11. Con: From a developers point of view, iOS is more profitable.
+1.11.1. Con: iOS users are more likely to buy an app and/or make in-app purchases.
+1.11.2. Pro: Android users can crack apps directly and/or modify apps, for example to gain in-app currencies.
+1.11.3. Con: iOS developers have access to more developed tools such as Xcode and storage which scales with the number of users.
+1.11.4. Con: This is hardly relevant for the user experience of the OS.
+1.12. Pro: There is a much wider spectrum of Android phones in price, size, features and design
+1.12.1. Pro: Rankings of [mid-range](https://www.techadvisor.co.uk/test-centre/mobile-phone/best-mid-range-phones-for-2017-3627209/) [phones](https://www.engadget.com/2017/11/17/best-phones-under-500/) as well as [cheap phones](http://www.techradar.com/news/best-cheap-phone) - which suffice for many users - contain without exception only Android devices.
+1.13. Pro: Many more options in terms of hardware for android phones than the one flagship iPhone realeased annually.
+1.14. Pro: Android has a proper file system that can be accessed from various applications and allows for file transfers and proper backups / restores.
+1.15. Con: Every app in iOS is inside a sandbox which makes it very harder for a malware to spread.
+1.16. Pro: Multiple Android phones support the feature of expandable storage.
+1.17. Con: iOS updates are delivered much faster.
+1.17.1. Pro: In addition, they reach a larger market share. About [two thirds](https://mixpanel.com/trends/#report/ios_11/from_date:-41,report_unit:day,to_date:0) of iOS devices are running the system's latest version. In contrast, [less than one percent](https://developer.android.com/about/dashboards/index.html) of Android devices are running the latest version, even after several months.
+1.17.2. Con: Not every feature is included in upgrades for older iOS devices.
+1.17.2.1. Pro: Siri was not available for iPhone 4 and iPad 2 even if the iPad2 was perfectly capable of running Siri.
+1.17.3. Con: -> See 1.9.2.1.
+1.18. Pro: Android apps are cheaper
+1.18.1. Con: The price difference between Android and iOS apps is [in the range of cents](https://www.statista.com/statistics/262387/average-price-of-android-ipad-and-iphone-apps/) and will hardly make or break the user experience.
+1.19. Con: iOS apps are more polished and usually developed before their Android counterparts.

@@ -1,0 +1,58 @@
+Discussion Title: React.js vs Angular.js vs Vue.js
+
+1. React.js vs Angular.js vs Vue.js
+1.1. React.js is better than Angular.js and Vue.js
+1.1.1. Con: No two-way binding out of the box
+1.1.1.1. Pro: The lack of two-way binding can make some common code patterns needlessly tedious, such as updating an input value's state via a change handler.
+1.1.2. Pro: Native mobile development framework
+1.1.2.1. Con: Vue and angular both have native development solutions with angular native, vue native, and weex \(for vue\).
+1.1.3. Pro: React is sponsored by Facebook, who take an interest in fixing issues and improving it.
+1.1.3.1. Con: Vue has by far the best support team and network.  Evan, and the rest of the Vue team are responsive in discussing and fixing issues - even when the issue is caused by your app and not vue.  The React team often ignores or prematurely closes issues/feature suggestions.  Although it would seem that a large company would have a greater incentive to support their product, this has not shown to be the case.
+1.1.3.2. Con: Depending on a company like Facebook also means being exposed to the danger of them switching frameworks and dropping support.
+1.1.4. Con: No official documentation.
+1.1.4.1. Con: There is a official [documentation](https://reactjs.org/docs/hello-world.html)
+1.1.5. Pro: React is the most popular framework in regards to number of downloads. [www.npmtrends.com](http://www.npmtrends.com/angular-vs-react-vs-vue)
+1.1.5.1. Con: Vue has more stars on GitHub.
+1.1.6. Pro: It is just pure JavaScript.
+1.1.6.1. Con: Pure Javascript is not a benefit.  Web applications are composed of three languages \(JS, Html, and Css\).
+
+Vue runs on these three languages in their native format, which has many advantages \(usability, syntax highlighting, debugging\).
+
+React transpiles JSX into html, strings into CSS, and leaves JS as is.  Traspilation introduces significant overhead and complexity, that makes building applications harder.
+1.1.6.2. Con: JSX is non-standard.
+1.1.6.2.1. Con: React does not require JSX and therefore the argument is invalid.
+1.1.7. Pro: React encourages functional programming. Easier to create small components that can be composed together.[See this project for an example.](https://github.com/acdlite/recompose)
+1.1.8. Pro: React.js uses Virtual DOM that standardizes and makes it easyto manipulate the DOM
+1.1.8.1. Con: The latest versions of Vue and Angular also use virtual DOM.
+1.1.9. Pro: Integrates very smoothly with Material Design.
+1.1.10. Pro: Great Developer Tools
+1.1.10.1. Con: Vue is well known to have the best developer tools, allowing inspection into the component tree, vuex \(application state\), and more.
+1.1.10.2. Pro: The React Developer Tools are available for both [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/), allow component tree and state inspection. You can also tweak the state to see how it affects the rendering of the components.
+1.1.11. Pro: Huge community and third-party tools and components
+1.1.11.1. Con: Quantity is not quality.  Vue has an incredible ecosystem of quality components that are easier to integrate into your application because Vue supports single-file-components.
+1.1.12. Pro: JSX makes it easier and declarative to build components.
+1.1.12.1. Con: Vue also supports render functions \(without any additional tooling.  JSX is non-standard, and Vue supports html templates in addition to JSX.  Many developers prefer html templates, and for this reason, the un-opinionated flexibility of Vue is superior.
+1.2. Angular is better than React.js and Vue.js
+1.2.1. Pro: Two-Way Databinding
+1.2.1.1. Con: Vue also has two way data binding...
+1.2.2. Con: Steep learning curve.
+1.2.3. Pro: Angular uses TypeScript: therefore better tooling & cleaner code.
+1.2.3.1. Con: Typescript adds complexity, and increases the learning curve while decreasing development speed.  Typescript does not improve tooling, and often results in more verbose code.  Type checking is often never needed on the client side.
+1.2.3.2. Con: React is completely compatible with TypeScript.
+1.3. Vue.js is better than Angular.js and React.js
+1.3.1. Pro: Very simple api
+1.3.2. Pro: -> See 1.2.1.
+1.3.3. Pro: Vue has separate component, style and template files.
+1.3.4. Con: Vue has a very small market share and lacks resources.
+1.3.4.1. Con: Vue has more than 100'000 starts on github, same for react and 50'000 for angular. That mean for me a great share.
+1.3.5. Con: Documentation is mostly in Chinese, making it harder to access for the English-speaking community.
+1.3.5.1. Con: On the website of vuejs.org everything is multilingual, and  English is available check [Docs v2](https://vuejs.org/v2/guide/)
+1.3.6. Pro: Single file components \(vue has them, others do not\), including styling, which makes sharing, writing, and reusing components easier than in angular or react.
+1.3.6.1. Con: You can build single file components in React. Styled components add css to the mix and JSX naturally brings the markup and JavaScript together.
+1.3.7. Pro: Documentation. Vue has the best, most thorough documentation of any of the frameworks.
+1.3.8. Pro: Dev tools. Vue has the easiest to use, and most advanced dev tools of the 3 frameworks.
+1.3.9. Pro: State management and routing.  Vue has official packages for state management \(Vuex\) and routing \(vue-router\).  React does not.
+1.3.10. Pro: Vue has SSR and native support, which is equivalent to the other libraries.
+1.3.11. Pro: Syntax.  Vue has the cleanest, simplest, and most concise syntax of any of the 3 frameworks.   This makes vue the easiest to learn, and fastest to build with.
+1.3.11.1. Con: What is considered clean and simple is very relative.
+1.3.11.2. Con: That´s also a problem, that a different syntax than javascript is required. also the syntax leads to some magic behind the scenes. JSX is also some customized syntax, but in the end it is only javscript. Vue´s and Angulars Syntax is far away from pure javascript.

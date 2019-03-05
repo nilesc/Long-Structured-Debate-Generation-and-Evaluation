@@ -1,0 +1,42 @@
+Discussion Title: Is Science Totally Objective?
+
+1. Is Science Objective?
+1.1. Pro: Science is not totally objective, but scientific methods generally provide mechanisms which reduce uncertainty and subjectivity in our beliefs about the world. Science has the ability to increase the objectivity of our beliefs, even though current scientific theories, institutions, or individuals are not perfectly objective.
+1.1.1. Con: This lack of total objectivity in the methods has lead to previous scientific beliefs being false. We should then expect that our current scientific beliefs are also likely to be false. False beliefs are bad no matter how we arrive at them.
+1.2. Pro: Science provides a rigorous and varied approach to testing its theories.
+1.2.1. Con: Often pieces of new research are not re-produced by other scientists because it is too expensive. As a result, many studies are technically unconfirmed.
+1.2.2. Con: Many new studies are considered to be statistically or methodologically weak.
+1.3. Pro: The scientific method meets the following definition of objective "not influenced by personal feelings or opinions in considering and representing facts". However it is possible that scientists may not use the scientific method in an objective way. To suggest that 'science' could be either objective or not objective is a contradiction in terms.
+1.3.1. Con: Sociology points out that science is socially constructed. All social constructs have inherent epistemological faults.
+1.3.1.1. Con: The scientific method does not have inherent epistemological faults.
+1.3.1.1.1. Con: [problems of idealisation](http://www.oxfordscholarship.com/view/10.1093/0198247044.001.0001/acprof-9780198247043) is an epistemological issue in science
+1.3.1.1.2. Con: [the problem of induction](https://plato.stanford.edu/entries/induction-problem/) is an epistemological issue in science
+1.3.1.1.3. Con: [Demarcation problems](https://plato.stanford.edu/entries/pseudo-science/) is an epistemological issue in science. This also demonstrates issues in defining "the scientific method"
+1.3.1.1.4. Con: Set theory also provides many ongoing issues for the epistemology of science & mathematics, such as the [incompleteness theorems](https://plato.stanford.edu/entries/goedel-incompleteness/)\(to name one\)
+1.3.2. Pro: The scientific method is as free from bias as is humanly possible.
+1.3.3. Con: It is impossible for all scientists to act without emotional bias whatsoever.
+1.4. Con: Because science arrises from people \(who can't be totally unbiased\) it can be influenced by bias.
+1.4.1. Con: Facts do not arise from people but instead lay waiting to be discovered. [Facts cannot be bias.](https://www.bmcc.cuny.edu/lrc/studyskills/factsandopinions.pdf)
+1.4.1.1. Con: But scientific theories can be biased. It is the theoretical framework of theories, not just observable facts, which defines science.
+1.4.1.2. Con: Science is not just facts.
+1.4.2. Pro: While true, it is beneficial to have a diverse intellectual and scientific community whose biases are not all equal. Productive scientific arguments occur when biases clash, so it is not inherently bad that scientists have biases.
+1.4.3. Pro: Math is [not neutral.](https://medium.com/q-e-d/math-was-never-neutral-173b52e9bf4a)
+1.5. Con: Ideally science is objective, but progress can be impeded by the established order, which is often negatively biased towards any challenge to the standard or classical view.
+1.6. Pro: Science cannot be biased as it sits outside of politics and isn't open to the public.
+1.6.1. Con: At times scientific studies are funded by politically motivated advocacy groups.
+1.6.2. Con: Science is open to the public - witness science classes at public schools and any number of popular science magazines, televisions shows, and books. Scientists all begin as members of the public, so if science were closed to the public it would not exist.
+1.7. Con: The raw data of the senses \(light waves, chemicals, sound waves\) requires processing by the brain in order to become a describable experience of an object, and even more processing to be conceptually articulated into a scientific theory. This processing is conditioned by the specific scientists' subjective past and cultural upbringing. As a result, there is no pure objectivity at the level of communicable experience, none at the level of theory, and thus no objective science.
+1.8. Con: The physical sciences begin from untested and untestable assumptions such as that the physical world exists, that it has constant laws, that every effect has a cause, that objects persist over time, etc. These metaphysical claims being unresolved \(and perhaps unresolvable\), a scientist's position on them can only represent a subjective preference for some set of beliefs. Thus, since science is built on a subjective set of assumptions, it is a subjective body of doctrine.
+1.9. Pro: Because the results of science are useful independent of any subjective matters, science has an objective usefulness.
+1.10. Con: Because some sciences are mostly composed of white men there is a homogeny of cultural and gender based bias which can go internally unchecked.
+1.10.1. Con: Facts are [objective](https://www.merriam-webster.com/dictionary/fact)and cannot be adjusted by cultural or gender bias.
+1.10.1.1. Con: But theoretical interpretations of facts can be. Science is more than a bundle of facts, its theories can be affected by gender and cultural bias.
+1.10.1.2. Con: There is no such thing as an observation or fact without theory, this is well demonstrated by [Karl Popper](https://medium.com/\@corlettnovis_82477/3-important-myths-about-science-6a0eed91d11e) \(see the third argument of the linked piece\)
+1.11. Pro: Science is based on facts and facts cannot be biased.
+1.11.1. Con: "Facts" may in fact be biased due to imperfect measurement apparatuses, flawed interpretation of experimental results and lack of full objectivity on the part of the experimenters.
+1.11.2. Con: Facts, as true assertion, cannot be biased. But the assessment of a claim as a bit of truth can be biased. Science is not based on facts, but on our assessment of certain claims as factual. That assessment is biased; science is subjective.
+1.12. Con: Because scientists are subjected to certain industrial pressures \(such as a constant need to publish\) [which can affect their results.](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00037/full)
+1.13. Pro: Scientists are trained to make unbiased observations.
+1.13.1. Con: This is an idealistic claim which ignores the fact scientists are humans and can make mistakes, misjudgments or draw wrong conclusions from their observations.
+1.14. Con: Some scientific theories have clearly been biased such as Darwinian evolution which used to consider men as more evolutionarily important than women.
+1.14.1. Pro: Theories evolve as research clarifies misconceptions.

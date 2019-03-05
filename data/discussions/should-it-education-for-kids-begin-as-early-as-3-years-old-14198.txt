@@ -1,0 +1,27 @@
+Discussion Title: Should IT Education for kids begin as early as 3 years old?
+
+1. Computer and Technology Education for kids should begin as early as 3 years old.
+1.1. Pro: Learning ICT as early as possible takes away some of the fear and insecurity associated with learning this skillset.
+1.2. Pro: Computers are a part of everyday life these days, so people should understand how to make best use of them.
+1.2.1. Pro: Computer literacy is a lot like learning language in today's age. It touches all aspects of our lives.
+1.2.2. Pro: Since children are all surrounded by and using computers, they should know what the computers are capable of doing.
+1.3. Pro: Learning ICT will help improve logical reasoning.
+1.4. Con: Children need to develop their ability to learn holistically - not through technology alone.  Channeling children's learning focus exclusively will result in myopic thinking skills.
+1.4.1. Con: Holistic learning can include technology -- in fact, their education would not be truly whole if you excluded such a powerful and ubiquitous set of tools.
+1.5. Con: Children should be given time to grow a natural interest in technology instead of being pushed into it.
+1.5.1. Con: Although every human should reserve the right of growing and finding their own interest, the world is developing technologically and requires skilled professionals to fulfil the job opportunities that are being created due to innovation.
+1.5.2. Pro: Society should not undermine the ability to create things independent of technology.  Manual dexterity is still important.
+1.5.2.1. Pro: Art should not be created on a computer.
+1.5.2.1.1. Con: It is undeniable that technology provides distinct advantages for many things, such as art. Though finger painting and drawing are definitely things that children need to be exposed to, creating art using technology can have distinct advantages such as being able to be much more precise and having the autonomy through different software to create more sophisticated pieces of art as they develop through years of practice.
+1.5.3. Con: Children still need to be exposed to technology for them to grow interested in it, and they need to be able to figure out the basics through both being given their own autonomy to experiment and through basic technology education. They shouldn't be pushed into it, but being pushed into it and being exposed to it are two entirely different matters and two entirely different points of discussion.
+1.6. Con: Learning computers means added screen time
+1.6.1. Con: Added screen time is not necessarily negative. There is definitely a line for excessive time using technology devices, but that doesn't necessarily mean that more = bad. More to a certain extent = good, because you are allowing your children to have an exposure to a broader world of information, thereby creating a more educated child earlier on, rather than being focused on the fact that they are spending more time in front of a screen.
+1.7. Pro: Learning ICT early will help them professionally when they grow up.
+1.7.1. Con: Children can learn it later in life, for example when they enter school.
+1.7.1.1. Con: If you never spoke English to your child because you were sure that s/he would 'learn it later in school', your child would be extremely behind, in grammar and literacy lessons.
+1.7.2. Con: [Baby boomers](https://www.pcworld.com/article/2153080/baby-boomers-embrace-technology-as-much-as-younger-users.html) embrace technology as much as younger users. Thus, starting early isn't indicative that they will be more apt users later on.
+1.8. Con: Children are not smart enough to learn ICT that early.
+1.8.1. Con: Children are smarter then we may believe. The best period for a child to learn \(to pick things up by doing them\) are the very first years of their life.
+1.8.1.1. Pro: Language learning is testament to this. Children who grow up in multi language families can easily distinguish, understand and respond correctly \(in\) 4 languages.
+1.8.2. Con: Though children may obviously not be able to grasp advanced technical skills immediately, the basic skill of being able to use technological devices as we know them serves as a critical skill to be a positive member of society and to make a positive impact.
+1.8.3. Con: How to think like a programmer can be learned early on[spectrum.ieee.org](https://spectrum.ieee.org/view-from-the-valley/geek-life/tools-toys/teaching-a-3yearold-to-programwithout-a-computer-screen). It is just like any other language. If you learn the basics at 3 it will be much easier to be fluent in later years.

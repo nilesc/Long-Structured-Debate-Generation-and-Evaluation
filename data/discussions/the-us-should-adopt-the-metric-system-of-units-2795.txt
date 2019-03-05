@@ -1,0 +1,22 @@
+Discussion Title: The US should adopt the metric system of units
+
+1. The US should adopt the metric system of units
+1.1. Pro: The metric system would make engineering collaboration less error-prone preventing accidents like [this](http://www.cnn.com/TECH/space/9909/30/mars.metric/)
+1.2. Pro: The metric system would make relocation easier, attracting foreign talent
+1.3. Con: The cost to replace roads signs, etc., is high. NASA reports that it would [cost $370 million](https://www.cnbc.com/2015/06/04/why-the-us-hasnt-fully-adopted-the-metric-system.html) to convert its measurement systems, and other industries would face their own costs.
+1.3.1. Con: Losing expensive craft due to mishaps caused by confusing systems might ultimately be more expensive.
+1.3.1.1. Pro: For example, NASA lost a [125 million](http://edition.cnn.com/TECH/space/9909/30/mars.metric.02/) Mars orbiter in 1999.
+1.4. Pro: Metric units ease trade with other nations since nearly all other countries use the metric system
+1.5. Pro: The Metric system in the US would save taxpayers and society real money by reducing inefficiencies at every scale and across nearly all industries.
+1.6. Pro: There are all of three countries in the entire world who are not officially on the Metric system: Myanmar, Liberia, and the USA. No one thinks such a change is easy, and it will likely take time to implement and adopt. But even the UK went for it, and are slowly getting there.
+1.7. Pro: The metric system is decimal based, which is simpler to understand.
+1.7.1. Con: Divisions of 12 are very intuitive as it is a least common multiple of 3 and 4, both of which are much more common in design than 5.
+1.7.2. Pro: It would be easier to teach and use.
+1.7.3. Pro: Measurements and units would be more consistent.
+1.7.4. Pro: Conversions are easier.
+1.8. Con: Changing unit systems would be disruptive to society
+1.8.1. Con: Most changes for the better are initially disruptive and involve a switching cost.
+1.9. Pro: It would be easier for US citizens in technical professions to work abroad.
+1.9.1. Con: In science fields, the metric system is [already](https://en.wikipedia.org/wiki/Metrication_in_the_United_States#Science) used.
+1.10. Con: Globalization is already making the world too similar. Preserving distinct features is necessary.
+1.10.1. Pro: The US is one of only [seven](https://en.wikipedia.org/wiki/Metrication_in_the_United_States) countries which doesn't use the metric system.

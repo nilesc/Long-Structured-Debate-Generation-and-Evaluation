@@ -1,0 +1,36 @@
+Discussion Title: Should Emergency Rooms turn away people who cannot pay?
+
+1. If people can't pay, Emergency Rooms should be able to turn them away
+1.1. Con: People would die in front of emergency rooms.
+1.1.1. Con: One could assume there would be a communal room and cot. It would be the least that could be done to keep the situation hidden from those who have insurance.
+1.1.1.1. Con: The problem is not keeping insured people from seeing people dying, the issue is letting people die when that can be prevented.
+1.1.2. Pro: Checking first to see if someone can pay takes valuable time which might endanger their health.
+1.2. Pro: Emergency rooms are for emergencies. The are not healthcare clinics for people who are unable to pay for their healthcare.
+1.2.1. Pro: The more non-emergencies an ER must triage the slower their ability to service real emergencies.
+1.2.2. Con: This just means that the healthcare is to be [considered a universal human right](https://www.kialo.com/is-health-care-a-human-right-7304/7304.0=7304.1/=7304.1).
+1.2.3. Con: Without the ER there would be no other place for people who need, but cannot pay, for medical services to go.
+1.2.3.1. Con: ERs should be for true emergencies only, things that are unavoidable or unexpected. People should not encumber ERs with routine medical issues that are not life threatening.
+1.2.3.2. Pro: Health insurance is not an affordable option for everyone.
+1.2.3.3. Con: There are [free/low cost/sliding scale](https://www.needymeds.org/medical-clinics) clinics available.
+1.3. Con: This would be immoral in every culture today.
+1.3.1. Pro: It is inhumane to prioritise money over human life.
+1.3.1.1. Pro: When you have the means to save a person's life and you turn them away, thats murder.
+1.3.2. Con: Refusing to save the life of a human that is dying does not equal "murder" under any accepted definition of the word murder. As long as one is not the primary reason the person is dying in the first place, it can only be called negligence.
+1.3.2.1. Con: Whether through negligence or through murder, the result is exactly the same: dead people.
+1.3.2.2. Con: Negligence could happen due to a mistake or lack of knowledge. Doctors would have knowledge of what could happen if a person in need is turned away.
+1.3.3. Pro: Most countries include laws \([duty to rescue](https://en.wikipedia.org/wiki/Duty_to_rescue)\) in which "a party can be held liable for failing to come to the rescue of another party in peril". Therefore, it makes no legal sense that hospitals do not have that duty when private citizens do.
+1.3.4. Con: They may not have the means to save everyone.
+1.3.4.1. Pro: [Bankruptcy](https://www.beckershospitalreview.com/finance/20-healthcare-bankruptcies-so-far-in-2017-091517.html) of hospital institutions looms large these days for too many un and under compensated services means financial death.
+1.4. Con: We pay taxes and the government uses it to support hospitals generously, this is the very least we can expect from them.
+1.5. Pro: Although it would be admirable, charity should not be required of the private sector.
+1.5.1. Con: Hospitals are not like other members of the private sector in that they enjoy generous government subsidies.
+1.5.2. Pro: Any social security is responsibility of the government. If for whatever reason the government cannot or will not provide healthcare, the responsibility does not shift to private enterprises.
+1.6. Pro: The costs incurred by patients treated in the ER who can't pay get shifted to those who can. That's how you get a [$25 ER aspirin](https://www.healthcarefinancenews.com/blog/why-aspirin-taken-hospital-can-cost-upwards-25)
+1.6.1. Con: Thats called social responsibility. One of the most important pillars of our social contract and our life.
+1.6.2. Pro: Aspirin is [priced](https://www.drugs.com/price-guide/aspirin) at about $8 for 36 tablets.
+1.7. Con: This is a severe contradiction to the [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath), much more than euthanasia.
+1.7.1. Pro: It would be unethical for a doctor to turn a patient away in an emergency. The  Hypocratic oath means they should not turn someone away. Money should never be a factor in healthcare.
+1.8. Con: Turning away people violates their human rights.
+1.8.1. Pro: Article 25 of the [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/) states that everyone has the right to security of healthcare. This includes times of unemployment, sickness, or any other lack of livelihood. Turning away patients who cannot pay would violate this right.
+1.9. Pro: The [Emergency Medical Treatment & Labor Act](https://www.cms.gov/Regulations-and-Guidance/Legislation/EMTALA/index.html) \(EMTALA\) mandates that hospitals stabilize and treat everyone who enters their doors.
+1.9.1. Pro: This makes ERs money losers for hospitals, which discourages investment in their equipment and staff, thereby making ERs less effective for everyone.

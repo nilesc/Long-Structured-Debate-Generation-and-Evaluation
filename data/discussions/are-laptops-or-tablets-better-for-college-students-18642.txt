@@ -1,0 +1,37 @@
+Discussion Title: Are Laptops or Tablets Better For College Students?
+
+1. Which one is better for a college student? A laptop or tablet?
+1.1. Laptop
+1.1.1. Pro: Laptops are more powerful than tablets resulting in better overall performance, especially for students using power-intensive apps such as photo-editing, video-rendering, or emulator software.
+1.1.2. Pro: As portable computers, they have many more functionalities compared to tablets. Desktop applications will work on a PC but not on an iPad.
+1.1.3. Pro: A PC can substitute for a tablet, but a tablet can't substitute for a PC. Many applications, procedures, and websites only work via computer browsers.
+1.1.4. Con: They are generally heavier and require more space to operate \(bulky charger, keyboard and/or mouse, etc.\)
+1.1.4.1. Con: There is rarely an occasion where you don't have space for your laptop but for a tablet. If anything you can put it on your knees. Laptop works with battery too. Wearing a backpack, as most students do, the heavier weight is not a problem
+1.1.4.2. Pro: And Ultrabook, like the [Lenovo Yoga 920](https://www.google.com/search?client=firefox-b-ab&ei=cuuYW8SgFIOYkwW7oKeQDw&q=Lenovo+Yoga+920+weight&oq=Lenovo+Yoga+920+weight&gs_l=psy-ab.3..0j0i22i30k1l9.555.1623.0.1891.7.7.0.0.0.0.179.636.1j4.5.0....0...1c.1.64.psy-ab..2.5.631...0i67k1.0.ijQjPUyCuf0), weighs 1.3kg. A [tablet](https://www.google.com/search?q=tablets+weight&ie=utf-8&oe=utf-8&client=firefox-b-ab), in comparison, weighs about half of that.
+1.1.4.2.1. Con: If you start adding accessories to tablets \(such as keyboards, dongles, etc.\) they could end up having the same weight as a small Ultrabook.
+1.1.5. Con: There is more junk attached to PCs. For instance, the default applications that often slow down performance, or the forced updates which take ages to complete.
+1.1.6. Con: Taking notes on a PC with a stylus \(touch-screen laptops, convertibles, 2-in-1s\) is generally a less user-friendly experience than on a tablet, which is optimized for this task.
+1.1.7. Pro: A PC has a bigger screen to work on compared to a tablet.
+1.2. Tablet
+1.2.1. Con: A smaller screen means less space to work on.
+1.2.1.1. Con: Screen size depends on the model used. 12” iPad Pro has a screen comparable to most laptops.
+1.2.1.2. Pro: This can be a big problem for presentations or lecture slides with smaller text.
+1.2.1.3. Pro: This is not optically [very safe](http://yoursightmatters.com/tiny-screens-can-cause-big-vision-problems/).
+1.2.2. Pro: A tablet is lightweight which is no doubt an advantage for a college student.
+1.2.2.1. Con: Many laptops are equally light.
+1.2.2.1.1. Pro: MacBook Air is incredibly light, for example.
+1.2.2.1.1.1. Con: MacBook are way more expensive than a tablet.
+1.2.2.2. Pro: With textbooks and such work to cart around, a lightweight computer is not only an ideal but an absolute necessity.
+1.2.3. Pro: The operating system can be optimized for tablet use \(i.e. android/iOS tablets\). For a touch screen computer this is harder to achieve.
+1.2.3.1. Con: Harder, but not impossible.
+1.2.4. Con: A tablet's in-built keyboard will never come close to a real laptop's keyboard. For people used to typing a lot, this might cause some problems.
+1.2.4.1. Pro: Most college students will need to type extensively, making the keyboard a vital element.
+1.2.4.2. Con: A stylus with the correct app can allow a student to use their own hand writing, no typing necessary.
+1.2.4.2.1. Con: Stylus handwriting usually has lag time that makes handwriting messy or unclear, it is not ideal for large amounts of writing.
+1.2.4.2.1.1. Con: While this is true, technological advancements must be taken into account. An iPad pro, for instance, has a very low delay, making it almost a seamless writing experience. This will soon be the norm as time and technology gets better
+1.2.4.2.1.2. Con: The correct stylus / tablet combination can quickly resolve this. For instance, an Apple Pencil with an iPad Pro has an unnoticeable delay.
+1.2.4.3. Con: A physical keyboard in addition to the tablet can compensate for the lack of integrated keyboard.
+1.2.5. Pro: There are many more apps for note-taking on a tablet than a laptop.
+1.2.6. Pro: Tablets have better average battery-life compared to a PC, as well as less-bulky chargers.
+1.2.6.1. Con: This is not universally true.
+1.2.7. Con: While PCs have built in keyboards, ports, and trackpads, tablet accessories must be bought separately. This increases the cost, as a student will most likely need a keyboard or a stylus.

@@ -1,0 +1,24 @@
+Discussion Title: Is carpooling the way of the future?
+
+1. Is carpooling the way of the future?
+1.1. Con: Carpooling isn't flexible enough for cities.
+1.1.1. Pro: Waiting for or coordinating with others isn't as flexible as having car sharing options, like [Drive Now](https://www.drive-now.com).
+1.2. Con: Some people prefer to have more isolated commutes where there is no communication with others.
+1.2.1. Pro: In car pools, more than other transport, people may feel inclined to chat. Not everybody appreciates this.
+1.2.2. Con: Others prefer to make new friends. This is the decision of each individual. Both sides are understandable.
+1.3. Pro: It is better for the environment.
+1.3.1. Pro: Carpooling lanes incentivise maximising the amount of people per vehicle.
+1.4. Con: Carpooling accomplishes nothing that couldn't be solved by increased access to public transportation.
+1.5. Pro: It is better economically for all parties.
+1.5.1. Pro: Rather than the costs from all the different vehicles - MOT, tax, maintenance, fuel - users only need to concern themselves with one, which is substantially cheaper.
+1.6. Con: We're already time poor and so people don't have time to spare going to unnecessary drop-off points.
+1.6.1. Con: Routes can be optimized by applying certain algorithms. Distances and times will be minimized in this way. For interested people and/or Supply Chain students: [Wiki](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
+1.7. Pro: Carpooling apps like Uber Pool and Lyft Pool are making carpooling opportunities far more accessible.
+1.7.1. Pro: In the same way Ubers have revolutionised taxi systems, such apps are likely to cause a similar uptick in social acceptance and popularity of carpooling.
+1.8. Con: Unless you know someone who lives close to your destination, it is hard to pair routes.
+1.8.1. Con: Car pools run by an organisation that pairs strangers together can eliminate this problem; it then becomes more about pairing individuals by route rather than by knowing one another beforehand.
+1.9. Con: Safety has to be considered, as split journeys with multiple people \(often strangers\) may not be safe.
+1.9.1. Pro: If all vehicles have considerably higher numbers of occupants, car accidents will have correspondingly higher degrees of injury and fatality.
+1.9.2. Con: The same question could be asked for taxis. Safety is guaranteed up to a certain extent through regulations, etc.
+1.10. Pro: Carpooling can save parents a lot of time by splitting the responsibility of taking children to school.
+1.10.1. Pro: Not only parents, but many people who have difficulty organising their lives would benefit from car pooling.

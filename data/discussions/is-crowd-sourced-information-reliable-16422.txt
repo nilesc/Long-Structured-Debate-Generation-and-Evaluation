@@ -1,0 +1,37 @@
+Discussion Title: Is Crowd Sourced Information Reliable?
+
+1. Crowd sourced information is reliable
+1.1. Pro: Multiple participants are able to fact check each other’s arguments.
+1.1.1. Con: This assumes they'll bother; it is equally likely that they'll perpetuate incorrect information.
+1.1.1.1. Pro: Fact-checking takes time and energy; not everybody is sufficiently motivated.
+1.1.2. Pro: People who see their views challenged may require those who do to source and fact-check their information.
+1.1.2.1. Con: This doesn't mean they will, or will use reputable sources.
+1.2. Con: It is easy to fool others into believing information is reliable and accurate.
+1.2.1. Pro: It is simply a case of finding what looks like a good source or supporting evidence. Many people will not bother to investigate in full.
+1.2.2. Pro: Newspapers constantly prove this to be the case: their biases and misinformation are spread through a veneer of supposed accuracy. Crowd-sourced information can be similarly tainted.
+1.2.3. Con: If people know to take crowd-sourced information with a pinch of salt, as one would hope, then it is harder to make people naively believe that all information gleaned would be reliable and accurate.
+1.3. Pro: The collective wisdom and intellect of a group can compensate for individual bias.
+1.3.1. Con: The collective wisdom may be manipulated by the mass media.
+1.3.2. Con: Large groups of people are more prone to [groupthink](https://en.wikipedia.org/wiki/Groupthink).
+1.3.3. Con: If the group all have a similar type of bias, the information will be no more reliable than if one person had presented bias.
+1.4. Con: If anyone can participate in discussion then the system can be gamed.
+1.5. Pro: An individual’s reputation can be used to provide context and  weight to their contributions.
+1.5.1. Con: An individual may lie about his reputation, and most readers won't double check about that reputation.
+1.5.2. Con: 'Reputation' is a very spurious way to establish somebody's credentials.
+1.5.2.1. Con: Most information comes from sources that could be seen as biased, and so it's almost impossible to get perfect information; reputation is the next best option.
+1.5.3. Pro: An individual who is known to use good sources, accurate information and unbiased data is likely to become known for it; their contributions will be seen differently to that of a newcomer.
+1.6. Con: Bad actors can sabotage the discussion and skew the results.
+1.6.1. Pro: Even people with good intentions can spread false information inadvertently.
+1.6.1.1. Pro: Near the end of the 2016 US presidential election, the top 20 fake news stories were being [shared](https://www.vox.com/new-money/2016/11/16/13659840/facebook-fake-news-chart) more than the top 20 real news stories.
+1.6.2. Pro: Internet trolling is a known phenomenon, rendered crowd-sourced information perpetually unreliable.
+1.6.3. Con: If the crowd-source site is clever enough, they can diminish the impact of a few bad actors.
+1.6.3.1. Pro: Vetting claims on Kialo by moderators is an example of this.
+1.6.3.2. Pro: Crowdsourced information can be voted on and ranked first before publishing.
+1.7. Con: Reputation and trust are necessary to provide context which becomes more difficult as the number of participants increases.
+1.7.1. Pro: Internal biases will promote those whose opinions are agreed with most, not those who are most balanced or objective.
+1.8. Pro: The accuracy of information can be continually improved as the number of participants increases.
+1.8.1. Con: Or false information can be perpetuated.
+1.8.2. Con: Quality is not dependent on the number of participants. A hundred of people spreading false information is no better than one person with reliable and checked information.
+1.8.3. Con: A vast number of people incorrectly believing information can 'outshout' those who may be correct and more balanced.
+1.8.4. Pro: Different people can validate and verify the information given.
+1.8.5. Pro: In the academia, peer review works in the same way.

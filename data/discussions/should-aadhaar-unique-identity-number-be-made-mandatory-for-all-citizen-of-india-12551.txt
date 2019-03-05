@@ -1,0 +1,13 @@
+Discussion Title: Should Aadhaar (Unique Identity Number) be made mandatory for all citizen of India?
+
+1. Aadhaar \(Unique Identity Number\) should be made mandatory for all citizens of India.
+1.1. Pro: It facilitates government provision of welfare benefits and services.
+1.1.1. Pro: Managing all welfare through a single ID will make it easier to identify who is eligible for benefits.
+1.2. Pro: It provides a better governance model.
+1.3. Pro: It avoids duplication of money routings in false companies.
+1.4. Pro: It is a technically efficient solution.
+1.5. Con: It makes it easy to track citizens.
+1.5.1. Con: This is not necessarily a negative; tracking citizens can help with national security or missing person cases.
+1.6. Con: It is confusing for older generations.
+1.7. Con: It creates privacy issues.
+1.7.1. Pro: A single ID would link different databases, thereby centralising all of the information available on any given person.

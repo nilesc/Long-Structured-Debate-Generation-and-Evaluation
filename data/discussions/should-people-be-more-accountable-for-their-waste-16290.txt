@@ -1,0 +1,21 @@
+Discussion Title: Should People Be More Accountable For Their Waste?
+
+1. People should be more accountable for their own waste.
+1.1. Con: Everyone puts the onus on the council to dispose of their rubbish and don't take personal accountability.
+1.2. Pro: Councils make savings when they don't have to collect fly-tipped items.
+1.2.1. Pro: Council savings can be passed back to the individual in their monthly bills.
+1.2.2. Con: Councils don't actively see these savings when not collecting fly-tipped items, it just reduces the amount of unplanned work they would have had to do.
+1.3. Con: Disposing items properly costs money, because individuals would have to travel to the tip where it can be disposed of; then, depending upon the items to dispose of \(hazardous materials/bulk items\) it may cost more or even not be accepted. There is a cost to disposing of certain items.
+1.3.1. Con: Councils should offer those services once a week or once a month.
+1.4. Con: We often mix up items placed in collection bins.
+1.5. Pro: Council increasing rubbish disposal collection services would decrease potential for fly tipping.
+1.5.1. Pro: Increased bin collections are convenient.
+1.5.2. Con: The council would need to charge more money for increasing bin collections.
+1.6. Pro: It is better for the environment that we take responsibility for the items that we use and dispose of them properly ourselves.
+1.6.1. Pro: Non-recycleable items should be broken down into parts or made safe.
+1.7. Pro: Jobs are created in recycling plants when more people choose to recycle than fly tip.
+1.7.1. Con: Waste recycling is a large industry but nobody really wants to do this job.
+1.8. Pro: Technology exists to increase personal accountability for how we dispose of items we no longer need or want: [article here on how we can track waste after it leaves your house](https://www.nasdaq.com/article/reducing-waste-introducing-garbage-collection-to-blockchain-technology-cm960317).
+1.8.1. Con: Tracking people's waste may be more expensive than any other alternative.
+1.8.1.1. Pro: Not necessarily true, it maybe a fraction more in cost but the trash Is tracked and those who created the initial packaging could be responsible for their own product afterlife[Section on Switzerlands new garbage bags using blockchain](https://hackernoon.com/the-token-handbook-a80244a6aacb)
+1.9. Con: Business policies set out by the government ultimately decide what packaging businesses choose to use - though businesses do have a choice to use recyclable packaging.

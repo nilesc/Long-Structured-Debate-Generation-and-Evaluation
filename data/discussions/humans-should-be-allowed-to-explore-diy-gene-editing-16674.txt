@@ -1,0 +1,51 @@
+Discussion Title: Humans should be allowed to explore DIY gene editing.
+
+1. Humans should be allowed to explore DIY gene editing.
+1.1. Pro: There is the possibility that health benefits could be developed and this potential must be put above our concerns.
+1.1.1. Pro: Policy issues aside, if there is a chance for a better future, it is our moral duty to pursue it
+1.1.2. Pro: A potential benefit is an unlimited supply of donor organs that could be made from stem cells \(Patterson\). [cnn.com](https://www.cnn.com/2015/10/30/health/pioneers-crispr-dna-genome-editing/index.html)
+1.1.3. Con: Even these benefits themselves are theoretical and could let to more harm than good if not executed correctly.
+1.1.4. Con: The actual benefits could become commoditized and only provided to individuals based on class or status.
+1.1.5. Pro: Theoretically, the possible benefits of CRISPR-Cas9 \(a form of DIY gene editing\) could include slowing the aging process and lengthening lives. [cnn.com](https://www.cnn.com/2015/10/30/health/pioneers-crispr-dna-genome-editing/index.html)
+1.1.6. Pro: Another benefit could be bringing back extinct species, like the woolly mammoth. [cnn.com](https://www.cnn.com/2015/10/30/health/pioneers-crispr-dna-genome-editing/index.html)
+1.1.7. Pro: Benefits include feeding the world by tweaking genes in farm crops so they'll grow in more places. [cnn.com](https://www.cnn.com/2015/10/30/health/pioneers-crispr-dna-genome-editing/index.html)
+1.1.8. Con: Health benefits should not be over any concerns. For example, if potential negative health outcomes outweigh the positives.
+1.1.9. Pro: -> See discussion #1472: Parents should genetically enhance their babies once the procedures have been approved by the corresponding regulatory bodies.
+1.2. Con: If this technology is allowed, capitalism could be detrimental by letting it fall into the wrong hands.
+1.2.1. Con: Capitalism can serve as a double-edged sword; competition will produce the best product
+1.2.2. Pro: This introduction of profit in the mix of a product intended to be beneficial would create debates over usage.
+1.2.2.1. Pro: The solution would likely be distributed unfairly along lines of class, race, and status.
+1.2.2.1.1. Pro: Test subjects would likely be individuals on the fringes or lower levels of society.
+1.2.2.1.2. Con: Even if that were the case, over time cost will come down and it will be affordable for everybody.
+1.2.2.1.3. Con: Most major advancements suffer from the same problem, but are still beneficial.
+1.2.2.1.3.1. Pro: The smartphone enables a more connected and informed world, but has [low penetration](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) in developing countries.
+1.2.2.1.3.2. Pro: Humans creating vaccines is one of the most important achievements for human health, but is [not evenly spread](http://www.who.int/news-room/fact-sheets/detail/immunization-coverage).
+1.2.3. Con: Capitalism produces detrimental results in many other areas, including health, so that is not a reason to not allow something.
+1.2.4. Pro: -> See 1.2.2.1.
+1.2.5. Pro: This could be weaponized!
+1.2.5.1. Pro: "It's never been easier to develop and use biological weapons"[icrc.org](https://www.icrc.org/en/document/how-real-threat-biological-weapons-today) \(Red Cross\).
+1.2.5.1.1. Con: These technologies are widely accessible, relatively easy to use, and the knowledge is in the open domain. The fact that there haven't been cases of anyone creating anything dangerous with them is evidence against it being easy to weaponise them.
+1.2.5.2. Con: IF regulated, there would be ways to prevent this from happening.
+1.2.5.2.1. Con: Regulation cannot prevent malicious gene editing attemps, as the tools used to do so are very general. It is not the same as flagging up the sale of precursors of LSD synthesis, for example.
+1.2.6. Pro: There are already private companies that offer the possibility to explore one's history of DNA, raising [big concerns around data protection.](https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html)
+1.2.6.1. Pro: Companies offer an option to consent separately to specific disease studies in which their DNA is used in conjunction with [for-profit drug companies.](https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html)
+1.3. Con: The information behind the mystery of life is not a play thing and it is morally unacceptable to interfere with this!
+1.3.1. Pro: Playing God can only lead to bad! We lack the foresight to see every possible outcome from an action we take.
+1.3.2. Con: In countries with separation between state and church laws should be decided by citizens not by religious beliefs.
+1.3.3. Pro: There is no consensus on who should be making the laws to regulate gene editing.
+1.3.3.1. Pro: This is an issue that will likely be decided by more developed, wealthy nations but affect individuals around the world.
+1.3.3.2. Con: There are examples of competent authorities, such as the FDA, which provide oversight and regulation for technologies and products that have complex implications for public health, with both benefits and dangers inherent in them.
+1.3.3.3. Pro: Often times, corporations will pick areas for testing in less developed regions of the world.
+1.3.3.4. Con: Modern states have one legislative body, the parliament, who else should be making the laws?
+1.3.4. Pro: Gene editing opens up a higher possibility of humans with disabilities or illness from the mutation...
+1.4. Pro: Regulation will be a way to allow the technology, but setting restrictions in place will discourage and prevent improper use.
+1.4.1. Con: The rules have been ignored in the past [technologyreview.com](https://www.technologyreview.com/s/609568/biohackers-disregard-fda-warning-on-diy-gene-therapy/) and will continue to be!
+1.4.2. Con: There is no global standard! \(Bill and Melinda Gates Foundation\) [qz.com](https://qz.com/1249294/bill-gates-thinks-crispr-gene-editing-can-improve-agriculture-and-global-health/)
+1.4.2.1. Pro: The US Department of Agriculture has already officially stated that domestic gene-edited[crops need not be regulated](https://qz.com/1242882/the-usda-drops-all-regulation-for-crispr-edited-crops/).
+1.4.2.2. Pro: The European Union is still skeptical of these products. Other countries may not even have defined standards!
+1.4.3. Con: -> See 1.3.3.
+1.4.4. Pro: Turning a blind eye to this will only force it underground.
+1.4.4.1. Pro: The damage is likely to be greater if individuals perform similar experiments in risky conditions without oversight.
+1.4.4.1.1. Pro: The interest is already there and it's occurring regularly by individuals kicked out of labs [nytimes.com](https://www.nytimes.com/2018/05/14/science/biohackers-gene-editing-virus.html) \(Baumgaertner\).
+1.4.4.1.2. Con: Even if it is allowed and regulated, those unscrupulous enough to do it without proper conditions may do it anyway.
+1.4.4.2. Pro: Regulation will streamline the process of addressing individuals should they break the law. Having no laws currently in place encourages such behavior.

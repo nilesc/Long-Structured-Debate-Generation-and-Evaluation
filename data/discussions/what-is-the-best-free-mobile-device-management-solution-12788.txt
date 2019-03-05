@@ -1,0 +1,23 @@
+Discussion Title: What is the best free mobile device management solution?
+
+1. What is the best free mobile device management solution?
+1.1. [Comodo ONE](https://one.comodo.com/mobile-device-management.php)
+1.1.1. Con: Difficult to use.
+1.1.2. Pro: Free for unlimited devices, for unlimited time.
+1.1.3. Pro: The self-service portal gives more freedom and control.
+1.2. [Miradore Online](https://www.miradore.com/mobile-device-management/)
+1.2.1. Pro: Easy to enrol all devices on it.
+1.2.2. Pro: Free for unlimited devices, for unlimited time.
+1.2.2.1. Pro: This is across Android, OS, Windows 10 and Windows Phone, so there are hardly any limitations on this front.
+1.2.3. Con: On-Premises deployment not available.
+1.2.3.1. Con: That's because it's simple to set up.
+1.3. [Cisco Meraki](https://meraki.cisco.com/)
+1.3.1. Con: Free version is limited to 30-day trial.
+1.3.1.1. Con: That doesn't mean the product itself is not good - in a market economy, you have to pay for goods.
+1.3.1.1.1. Pro: The 30-dias trial serves to let the user familiarize with the product, but after that period it is fair to pay for it.
+1.3.1.2. Con: it's not expensive
+1.3.2. Pro: Supports also OS X devices.
+1.3.3. Pro: Administrators can remotely lock and erase devices.
+1.4. [ManageEngine Mobile Device Manager Plus](https://www.manageengine.com/mobile-device-management/?cloudsol)
+1.4.1. Con: The free version is limited for managing 25 devices at most.
+1.4.2. Pro: Cloud-deployment and On-Premises deployment both possible.

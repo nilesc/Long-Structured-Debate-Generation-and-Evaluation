@@ -1,0 +1,23 @@
+Discussion Title: Working in HR is a viable career option for Data Analysts
+
+1. Working in HR is a viable career option for Data Analysts & Data Scientists
+1.1. Con: The organisational resources and infrastructure are under-developed and under-utilised, so the requirements of data quality and data access are poorly met for sophisticated and deep analysis, which keeps most analyses on a superficial level and thus boring and repetitive.
+1.2. Con: HR is traditionally transactional, it does not value analytical reasoning, technical skills and IT, so there are cultural barriers to adopt a data-driven and fact-based culture.
+1.3. Con: Other Analytics careers, such as in Finance, Marketing, Sales departments or at start-ups have better progression and compensation packages, and are thus more viable career options.
+1.3.1. Con: Start-ups always carry with them the risk of failure.
+1.3.2. Con: Marketing sees strong competition from freelancers.
+1.4. Con: Assuming that HR analysts are working as 1-person-bands, their skills and career development is at risk, since there is no in-house peer group to learn from. Only general business skills development is available.
+1.5. Pro: One of the problems for HR Analytics has been the lack of Standards in the HR profession. There is now an ISO Committee \(ISO TC 260\) looking at this issue. Metrics and measures form part of this work. There is a bright future for HR Analysts who can also help document and redesign workflows.
+1.5.1. Pro: Without appropriate standards, it is difficult to define the tasks of an HR Data Analyst.
+1.6. Pro: HR data analysis skills are increasingly in demand, but rare to find.
+[insidehr.com.au](https://www.insidehr.com.au/3-key-issues-hr-must-address-talent-analytics/)
+[personneltoday.com](https://www.personneltoday.com/hr/hr-analytics-skills-shrm/)
+1.7. Con: The field is predicted to grow for years, but only few companies hire data analysts in HR, so the real demand is small.
+1.7.1. Con: When more and more companies hire data analyst in HR, especially big and well-known ones, more companies may follow.
+1.8. Con: HR is a cost center and cost centers pay generally less than profit centers.
+1.9. Pro: Consultancies are branding their HR branches to HR analytics.
+1.10. Pro: The skill-set of HR analysts is broad and unique, such as critical thinking, statistics, programming, Human Resources Management, psychology and business acumen. That's skill-set is rare, and hard to find in a single person. An analyst who has all these skills is in a unique position to contribute and generate value what other departments do in teams, so the value/return for that skill-set is high.
+1.10.1. Pro: Working interdiscplinary creates a unique skillset for later career.
+1.11. Con: HR analysts might be a buzzword that will disappear in 5-10 years.
+1.12. Con: HR does not have the need for deep analysis and management information. It is sufficient to hire a junior analyst who is cheap, deep expertise is not required for the basics of HR analysis.
+1.13. Pro: HR problems and questions are very interesting and thus keep the analyst longer engaged

@@ -1,0 +1,43 @@
+Discussion Title: Should the UK Requirement For a Television Licence Be Abolished?
+
+1. The requirement for every UK household to have a television licence should be abolished.
+1.1. Pro: Making it a subscription-based service similar to Netflix would mean that consumers couldn't abuse the system so easily by not paying.
+1.2. Pro: It amounts to extortion. To have a TV, you are forced to pay a fee that goes to a broadcasting station, under penalty of imprisonment. You are forced to support an organization for which you do not belong.
+1.2.1. Pro: It would mean no large annual bill that is a requirement even if you do not watch BBC content.
+1.2.1.1. Pro: The [TV license](http://www.tvlicensing.co.uk/) website states that you need a TV license if you are watching any channel on TV, not just the BBC.
+1.2.2. Con: You are never forced to pay a TV license.
+A TV license is [only needed if](https://www.which.co.uk/reviews/televisions/article/tv-licence-explained) you watch Live TV, or BBC iPlayer.
+1.2.2.1. Pro: Almost half of adults 22 to 45 years old are watching absolutely [no content on traditional TV](http://adage.com/article/media/half-young-consumers-watching-content-traditional-tv-study/310564/) platforms.
+1.2.2.2. Con: -> See 1.2.1.1.
+1.2.3. Con: All government taxation is coercive, the TV license fee is no exception. If the TV license fee is extortionate, then all government taxation is equally extortionate and illegitimate.
+1.3. Pro: It would likely mean the end of the BBC in its present form as there would likely be a large move away from paying the TV licence if it was changed to a subscription model.
+1.3.1. Pro: The majority of people believe that many of the current BBC presenters are over-paid, leading to resentment at such high TV license bills.
+1.3.1.1. Pro: A TV license for a household is [£2.55 more expensive](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/tv-licence-types-and-costs-top2) per month [than Netflix](https://www.netflix.com/signup/planform), and £4.55 more expensive per month than [Amazon prime Video](https://smile.amazon.co.uk/amazonprime/ref=smi_www_rco2_go_smi_g9905632998?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&ie=UTF8).
+1.3.2. Pro: Content created by the BBC could be open to subscriptions worldwide, not just restricted to the UK.
+1.3.2.1. Pro: It could mean more content, as the BBC would be forced to become globally competitive.
+1.3.2.2. Con: There are other reasons for region based programming, which [affect all content providers](https://www.investopedia.com/articles/investing/050515/why-netflix-content-different-other-countries.asp).
+1.4. Con: Could mean that less content is created by the BBC.
+1.4.1. Con: The slack will be taken up by other channels; it doesn't matter if the BBC isn't creating much content.
+1.4.2. Pro: Making the BBC subscription funded and commercially minded, would be the end of the breadth and depth of current BBC coverage. They'd naturally have to concentrate on commercially popular productions. Less commercial programmes like 6 music, local radio, cricket coverage etc, may be lost.
+1.4.3. Con: As new generations watch very little traditional TV, this effect would already be happening.
+1.4.3.1. Pro: -> See 1.2.2.1.
+1.4.3.2. Con: In absolute terms, the UK is buying more TV licences [than ever.](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/what-does-your-licence-fee-pay-for-top13) As a result, the BBC's funding has not been under significant threat in recent years. Without TV licences, this would likely not be the case.
+1.4.3.2.1. Con: Funds from TV licensing has been decreasing when inflation is taken into account. 2017/8 saw [£43m](http://www.tvlicensing.co.uk/ss/Satellite?blobcol=urldata&blobheadername1=content-type&blobheadervalue1=application%2Fpdf&blobkey=id&blobtable=MungoBlobs&blobwhere=1370006434007&ssbinary=true) more funding from TV licensing than the previous year \(which totalled 3.8bn\), but to keep up with the Inflation rate of [2.3%](https://www.ons.gov.uk/economy/inflationandpriceindices) it needed to have taken £881m.
+1.4.3.3. Con: TV licences [pay](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/what-does-your-licence-fee-pay-for-top13) for the BBC's online, radio and World Service, as well its traditional television broadcasting.
+1.4.4. Pro: Currently, the BBC is trusted to publish relatively unbiased news because it does not have to cater to the interests of advertisers in the creation of its content. If the BBC were forced to rely more on advertisers, its news service may deteriorate.
+1.4.4.1. Con: The BBC fails to be unbiased even with TV licence fees. Many have refused to [pay their fee](https://biasedbbc.org/blog/2017/08/22/stopfundinghate-dont-buy-a-bbc-tv-licence/) on the basis that the BBC fails to provide unbiased content.
+1.4.4.2. Con: The BBC would not need to lean on advertisers. There may not be a BBC, or the BBC could become subscription based, or it could gain funding via tax \(which is more fairly applied to income and circumstances\), or its content could be narrowed to documentaries and fact-based programmes.
+1.5. Pro: TV licenses are essentially a [regressive tax.](https://en.wikipedia.org/wiki/Regressive_tax) This means that regardless of relative wealth or income, every household pays the same flat fee if they own a television. This is unfair because the wealthy pay less that the poor relative to their income.
+1.5.1. Con: Since purchasing a TV is a choice, paying for a TV license cannot be called a tax because it is essentially optional.
+1.5.2. Pro: It would be preferable if the BBC were funded through progressive [income tax](https://en.wikipedia.org/wiki/Income_tax). If that were the case, each person would contribute to the national broadcaster in proportion to how much they earn. This would be a fairer system.
+1.5.2.1. Con: Putting the BBC into general funding would increase the chance of it recieving less money in each budget. When politicians make promises on funding to the public, healthcare and schools will take precidence over entertainment.
+1.5.3. Pro: The licence fee presents a much higher proportion of income for low-income households. For households in the lowest income decile, the licence fee represents 1.79 per cent of their income. This is three times the national average \(0.46 per cent\) and almost 11 times that for households within the highest income decile \(0.18 per cent\). [\(p.2\)](http://webcache.googleusercontent.com/search?q=cache:http://www.ippr.org/files/uploadedFiles/projects/AprogressiveTVL.PDF)
+1.5.4. Pro: The characteristics of low-income households tend to compound the regressive nature of the fee. Low-income households are more likely to be composed of single parents, lone tenants, pensioners any the economically inactive. These people must all pay for their own television licence, whereas wealthier households with more members can split the cost. [\(p.2\)](http://webcache.googleusercontent.com/search?q=cache:http://www.ippr.org/files/uploadedFiles/projects/AprogressiveTVL.PDF)
+1.6. Con: Potential earnings decrease meaning that employees get lower salaries.
+1.7. Con: It could be expensive to create the technologies needed to move to a new subscription model as the BBC currently has no link between the licence billing system and BBC iPlayer accounts.
+1.7.1. Con: Not necessarily; simply following the model already set up by Netflix and similar platforms would suffice, and while there would be overhead costs, they could be quickly absorbed.
+1.8. Con: Could make it more difficult for the elderly and less technically competent to access BBC television services as any new system\(s\) similar to Netflix/Amazon Prime would require an online subscription which requires a level of IT literacy that many in this demographic do not currently have.
+1.8.1. Con: Providing an accessible service does not require a Television Licence.
+1.8.2. Con: Abolishment of the Television Licence could be accompanied by law or policies that require other provides \(like Netflix or Amazon\) to provide a proportion or genre of content free to air. This is just one idea, but most crucially it shows that alternative methods exist; and that they would be chosen by market competition and not the artificial support of a single entity.
+1.9. Pro: Every household would have the flexibility to choose which TV services to pay for.
+1.9.1. Pro: Some services should be public

@@ -1,0 +1,57 @@
+Discussion Title: Is computer science a failing discipline?
+
+1. Computer Science is a failing discipline.
+1.1. Con: The relevance of computers to everyday life is constantly rising.
+1.1.1. Pro: There are almost [10 times](https://qz.com/929275/you-probably-should-have-majored-in-computer-science/) more US computing jobs open right now than there were students who graduated with computer science degrees in 2015.
+1.1.2. Pro: Computer science is being included in many other disciplines especially humanities, e.g. [digital sociology](https://en.wikipedia.org/wiki/Digital_sociology), [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics), etc.
+1.2. Con: Evolving applications of a discipline do not in themselves render the discipline itself obsolete.
+1.2.1. Pro: Computer science has led to dramatic changes in how computers work, and continues to do so. These changes do not mean there is no further progress to be made.
+1.3. Pro: Computer Science has continuously failed to deliver solutions to the most common and relevant computing problems.
+1.3.1. Con: The remaining problems are only common and relevant because Computer Science successfully solved the hundreds of others.
+1.3.2. Pro: Computer scientists themselves acknowledge that many large and legacy systems are now effectively incomprehensible.
+1.3.2.1. Con: Computer Scientists will be needed in order to make these systems more comprehensible.
+1.3.3. Con: This is testament to the difficulty of the questions the discipline is trying to solve.
+1.3.4. Con: One only has to read the professional jourals of Computer Science to see that the profession has solved many major problems and continues to develop imaginative solutions to new problems.
+1.3.5. Pro: Computer Science has begun to state that properties of computers that were originally taken for granted, such as security, are now unobtainable.
+1.3.5.1. Con: Such reconsideration of previously established consensuses is an integral property of any scientific discipline. This does not indicate that the discipline is failing, but rather that it has a vigorous and active academic community dedicated to advancing human knowledge of the subject.
+1.3.5.1.1. Pro: Scientific method itself was devised to [prove the existence of supernatural](https://www.amazon.com/Invention-Science-History-Scientific-Revolution/dp/006175952X), like the action weapon salve. It led to disillusion in supernatural forces, but proved itself to be extremely productive for the progress of humanity throughout the history.
+1.3.5.2. Con: This is simply the result of the dramatic increase in complexity of computer systems over the years, not to any failure of the discipline.
+1.3.5.2.1. Con: Management of complexity is a central tenet of computer science and it has failed to deliver such.
+1.3.5.2.1.1. Con: It is the only/most successful example of managing systems this large. Stating that it has failed to deliver the management of complex systems is simply false.
+1.3.5.2.1.2. Con: The fact that we can have these conversations on this website in a mater of seconds regardless of where you live on the globe is evidence that it is, in fact, managing unreasonably large systems quite well.
+1.3.5.2.2. Pro: Hackers benefit from more and more powerful tools. So Computer Engineers will always need to work on the security of the systems.
+1.3.5.2.2.1. Con: Security of systems has decreased, not increased, over the lifetime of Computer Science.
+1.3.5.2.2.1.1. Con: Security is relative to the extent of the threat. If we could bring a computer of today back 10 years ago, when the threat was smaller, it would be considered unbreakable.
+1.3.6. Pro: All the advice, principles and practice recommended by Computer Science is trumped in practice by market pressure.
+1.3.6.1. Pro: The "hygiene issue" in software development is widely reported and is equivalent to this.
+1.3.6.1.1. Con: Software development and computer science are different disciplines. Computer scientists have no obligation to be responsible for software developers.
+1.3.6.2. Con: While this is undoubtedly a major problem in the software industry, it cannot be laid at the door of Computer Science. Instead, it is the fault of project management and the breakneck demands to produce features over quality.
+1.4. Pro: Computer scientists can make their own jobs obsolete \(and others too, but besides the point\) by creating an AI to do their jobs for them.
+1.4.1. Con: If this were to happen, new forms of AI would be in constant demand which would create a new line of work for computer scientists.
+1.4.1.1. Pro: Every time a computing professional discovers a way to make things work more rigidly, s/he sacrifices several ways to adjust and scale the relationships thus created.  Most successful programs have a long wish list, which users are aware of.
+1.4.2. Con: Following this logic, most practical disciplines are obsolete as AI could eventually do the jobs instead.
+1.4.3. Con: Computer science of today is way too far from creating such kind of an AI.
+1.5. Con: Some of the highest paid jobs in the world are being given to computer scientists.
+1.5.1. Con: The top 5 paid jobs in the US are [medical](https://www.cnbc.com/2018/01/09/these-are-the-25-best-paying-jobs-in-america-in-2018.html), not technological.
+1.6. Con: Computer science is one of today's most rapidly developing scientific branches.
+1.6.1. Pro: As the hardware, software and algorithms progress, so does the computer science adapt to these changes as both the school curriculum and a branch of science.
+1.6.2. Pro: In 2017, there were over 27000 papers in computer science published on [arxiv.org](https://arxiv.org/help/stats/2017_by_area/index#cond-mat_yearly), with the rise of 21% in comparison to 2016. These numbers are surpassed only by the papers in mathematics and mathematical physics combined.
+1.7. Con: Computer Science curricula include the mathematics and logic that underlie software, so can survive radical changes in system and application technology.
+1.8. Pro: If one were to make the common mistake of equating Computer Science with software coding and application development, this might be true. The demand for coders will fall as advanced languages and application frameworks make programming more of a clerical than a technical task.
+1.9. Con: Technology constantly builds upon itself, and as such, it becomes more and more complex. Computer science allows us to understand the new technology around us as well as build off the foundations that are in front of us.
+1.10. Pro: Hardware limitations and market entrenchment will ultimately lead to there being no economic demand for new or changed software.
+1.10.1. Pro: Operating Systems, Office Suites and Web Browsers are all critical pieces of software where any significant change has now been rendered impossible or economically unviable by the market.
+1.10.1.1. Con: These systems are still evolving, with more Artificial Inteligence, more Cloud based services, and more functionalities.
+1.10.2. Con: There are no hardware limitations. Their capacities are constantly increasing due to [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law). With these increasing capacities, Computer Engineers will be able to develop more and more complex applications.
+1.10.2.1. Con: Moore's law is beginning to fail due to the physical limits of heat dissipation.
+
+Stating that there are no hardware limitations is not a verifiable claim.
+1.10.2.1.1. Con: Quantum computers may go over this limit. As long as research is done in computing technologies, we can expect the technologies to continue improving.
+1.10.2.1.2. Con: There are theoretical speed limits to computation, but we are [far to far](https://www.youtube.com/watch?v=jv2H9fp9dT8) from being any close.
+1.10.3. Con: The emergence of the [Internet Of Things](https://en.wikipedia.org/wiki/Internet_of_things), will bring more demand for computer science applications.
+1.10.4. Con: Engineers of all possible fields are using more and more advanced technical softwares. It is not likely that they would all stop that progress.
+1.10.5. Con: Virtual Reality headsets will allow for the development of newer functionalities, which require new software.
+1.10.6. Con: Hardware limitations always were and are a driving force to devise more effective algorithms.
+1.10.7. Con: While there is some evidence that Moore's Law is weakening, the growth of new multiprocessing architectures means that properly designed parallel algorithms can continue to evolve without significant processor limitations.
+1.10.8. Con: The idea that at some point "there will be no programmers because all programs will be written" has been predicted regularly since computers were invented and has yet to come true.
+1.10.8.1. Pro: IT Engineers are constantly developing new programs that were unthinkable before.

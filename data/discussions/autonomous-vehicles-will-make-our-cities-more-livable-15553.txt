@@ -1,0 +1,159 @@
+Discussion Title: Autonomous vehicles will make our cities more livable
+
+1. Autonomous vehicles will make our cities more livable.
+1.1. Pro: Autonomous vehicles will help provide mobility for all, including underserved and vulnerable populations.
+1.1.1. Pro: Cheaper operating costs meaning that it will be easier to provide mobility for "niches".
+1.1.2. Pro: Those who are disabled will have better access to transportation.
+1.2. Con: City planning centered on humans is what will make cities more livable. Transportation should be subjected to city planning and not the other way around.
+1.2.1. Pro: One of the main reasons people use transportation is access to services or goods. City planning can help dramatically reduce the need for transportation.
+1.2.2. Pro: Cities planned entirely around cars \(for example, in the Fordist-era\) are today considered to be a big mistake.
+
+[Vox: Highways gutted American cities](https://www.vox.com/2015/5/14/8605917/highways-interstate-cities-history)
+1.2.3. Con: This statement does not imply a lack of a need for AV. Since we aren't bulldozing our streets, there is no well planned future without AV.
+1.2.3.1. Con: Streets could be bulldozed. They could be reclaimed for pedestrians, public transportation, recreational areas or housing.
+1.2.4. Pro: Autonomous vehicles [are lobbied by big companies](https://www.theguardian.com/technology/2016/apr/26/uber-google-lyft-ford-volvo-self-driving-car-lobby) with economic interests, they are not intended to make cities more livable.
+1.2.4.1. Con: These big companies cannot profit off of the masses unless they offers a product that they want. This equates to "more livable" any way you cut the carrot: cheaper, easier travel.
+1.2.4.1.1. Con: There are countless examples of markets where competition doesn't equate to better service / price to customers. Just look at the price of health in the USA.
+1.2.4.1.2. Con: Economic models of private companies don't take into account externalities : while customers might receive a good / cheap service, [the society as a whole might suffer](https://www.theguardian.com/environment/2010/feb/18/worlds-top-firms-environmental-damage).
+1.2.4.2. Pro: -> See 1.2.4.1.2.
+1.3. Pro: Autonomous vehicles will increase the opportunities for all to have affordable housing.
+1.4. Con: Autonomous vehicles will destroy jobs.
+1.4.1. Con: Having less jobs could lead to more free time for the population, in time.
+1.4.2. Pro: There will be no more need for taxi drivers.
+1.4.3. Pro: Bus drivers might not be needed anymore.
+1.4.4. Con: Infrastructure to support AV most likely will be extensive and require a lot of human operator intervention and will create new jobs. Similar process happened when car driver replaced coachmen.
+1.4.4.1. Pro: Instead of jobs being lost, training can be implemented to allow workers to advance with the technology that replaces their position.
+1.4.4.1.1. Con: While a job can be replaced with technology, and a new job created that supports the repair or maintenance of that technology, the created job will require a different, and usually far more skilled, set of skills to complete.
+1.4.4.1.1.1. Pro: The [repair](https://www.kioskmarketplace.com/blogs/the-price-of-self-service-part-3-lowering-the-cost-of-manufacturing-road-maps-warranties-hot-swap-installation-and-maintenance/) of self-service kiosks has a much higher technical demand on the repairmen.
+1.4.5. Pro: Autonomous vehicles will hurt employment of those in car sales.
+1.5. Con: -> See 1.2.4.
+1.6. Con: -> See discussion #9351: Private cars should be forbidden in large cities.
+1.7. Pro: Autonomous vehicles will reduce congestion by removing cars from the road.
+1.7.1. Con: Autonomous vehicles will make transportation cheaper and more convenient, which means people might start to do many more useless trips.
+1.7.1.1. Pro: It will be possible to work, read, etc ... during a journey instead of focusing on driving.
+1.7.1.2. Pro: There is no need to pay for a driver.
+1.7.1.3. Con: Autonomous vehicles require more advanced technologies that are actually more expensive.
+1.7.1.3.1. Con: Autonomous vehicles will be used as service \(the user pays for access\) which means that the price of the technology is less relevant than with a product \(the user pays for ownership\).
+1.7.1.4. Con: Small autonomous delivery drones will reduce the need for people to travel to shops, and could pool deliveries in order to optimize their operating cost.
+1.7.1.5. Pro: "AVs might produce a rebound effect, increasing both energy consumption and traffic congestion. Once we hit the coveted Stage 5 automation, we could even see “zero occupancy” driving—empty vehicles roaming the city doing errands for their masters, without people inside. \(Forgot your lunch? No problem—send your car home to pick it up!\)"
+ [The Self Driving Dilemma.](https://www.citylab.com/transportation/2017/05/the-self-driving-dilemma/525171/)
+1.7.2. Con: Cars are not only a convenience, they are also a status symbol. Therefore, there might be many people privately owning AVs.
+1.7.3. Con: AVs do not pull cars from the road, they pull cars from the parking lot! Manufacturers make less cars, but the cars are on the road more often.
+1.7.3.1. Pro: AVs will reduce the need for parking space.
+1.7.3.1.1. Pro: Autonomous vehicles will be shared.
+1.7.3.1.1.1. Con: Many people would prefer their own vehicle, either for customization, personalization, or a variety of other reasons.
+1.7.3.1.1.2. Con: People love driving cars, and that makes massive adoption of car sharing unlikely.
+1.7.3.1.2. Pro: Studies have shown that autonomous vehicles reduce parking space by [62%](https://www.sciencedirect.com/science/article/pii/S0191261517305866?via%3Dihub), relieving some of a city's congestion challenges.
+1.7.3.1.3. Pro: Redesigned parking to accommodate AVs can free up millions of square feet of parking space [globally](https://www.forbes.com/sites/adigaskell/2018/04/13/how-autonomous-vehicles-might-reshape-our-cities/2/#1237e6e4739a).
+1.7.4. Con: All cars take up the same amount of road space.
+1.7.5. Con: AVs will pull away people from the public transportation system.
+
+[Fare Choices : A Survey of Ride-hailing Passengers in Metro Boston](https://www.mapc.org/farechoices/)
+1.7.5.1. Con: Well designed pooling services could help people meet.
+1.7.5.1.1. Pro: [Uber Pool](https://www.uber.com/ride/uberpool/?state=Ghae3Yh9bcf4fKZvGVZCHFn4brnx5TIPl6O99gPfb_s%3D&_csid=jRSNRjcbWwoTQR3agyEctA#_), for example, allows people to share a ride in a similar location. The same sort of service can become easily accessible with AV.
+1.7.5.1.2. Pro: One could easily imagine dating services being implemented with AVs.
+1.7.5.1.3. Pro: -> See 1.1.1.
+1.7.6. Pro: -> See 1.7.1.4.
+1.7.7. Pro: -> See 1.7.3.1.1.
+1.8. Con: Autonomous vehicles can lead to more accidents at the early stages - while the infrastructures are still being improved.
+1.8.1. Con: It is unlikely they will lead to more accidents that human drivers.
+1.9. Con: Autonomous vehicles could have a big economic cost because of the need to adapt city infrastructure.
+
+[CityLab : Cities Will Pay For Autonomous Vehicles](https://www.citylab.com/equity/2017/04/whos-calling-the-shots-on-autonomous-vehicles/523386/)
+1.10. Pro: Autonomous vehicles are environment friendly.
+1.10.1. Con: AVs \(just like private cars\) will compete with public transportation which is a much more sustainable solution.
+1.10.1.1. Pro: Public investment in infrastructure for AVs will divert funds from investment in public transport or bicycle lanes.
+1.10.1.1.1. Pro: The major traffic caused by cars means roads wear down faster and need more upkeep as a result, causing a higher cost to the state.
+1.10.1.2. Pro: Vehicle makers will lobby the cities to make space and create regulations to allow and favor the use of autonomous vehicles.
+1.10.1.3. Pro: -> See 1.7.5.
+1.10.2. Con: AVs \(just like private cars\) will compete with non-motorized transportation \(bicycling, walking, ...\) which are much more sustainable solutions.
+1.10.2.1. Pro: -> See 1.10.1.1.
+1.10.2.2. Pro: -> See 1.10.1.2.
+1.10.2.3. Con: AVs would primarily compete with motorized transportation.
+1.10.2.3.1. Pro: Public support for AVs could lead to [reduced traffic](https://www.smithsonianmag.com/innovation/few-self-driving-cars-could-fix-phantom-traffic-jams-180963472/) even before a large change.
+1.10.2.3.2. Con: Cars compete with bikes for street space in many cities already today.
+
+[Bikes vs Cars: why it’s war between cyclists and drivers on city streets](https://www.theguardian.com/film/2015/may/03/bikes-vs-cars-film-war-cyclists-drivers-fredrik-gertten-interview)
+1.10.2.3.3. Con: City-planners can decide how to distribute space in the city : malls, parks, streets, etc ... therefore pedestrians, bikes, cars, etc ... are in a competition for urban space.
+1.10.3. Pro: Eventually, we may not recognize the vehicle as a car. Pinching pennies out of product could lead to a vast array of vehicles trimmed down to the most efficient size: no steering wheel, or pedals, and various passenger configurations depending on the need from the reclined commuter one seat with enough room to tap out some emails, to the 4 seater with trunk for the bachelor party arriving in Vegas.
+1.10.4. Pro: When autonomous vehicles are the only ones allowed on the roads \(human drivers are forbidden\), traffic lights become obsolete, which means trips are more energy efficient.
+1.10.5. Con: -> See 1.7.1.
+1.10.6. Con: -> See 1.7.5.
+1.10.7. Con: Autonomous vehicles would use the same fuel sources as a vehicle with a driver.
+1.11. Pro: Autonomous vehicles will help create more public space.
+1.11.1. Con: Individual vehicles require more space per capita than public transportation.
+1.11.2. Pro: -> See 1.7.3.1.
+1.11.3. Con: Autonomous vehicles will increase urban sprawl [\[1\]](https://www.bain.com/insights/spatial-economics-the-declining-cost-of-distance) [\[2\]](https://medium.com/99-mph/introducing-the-marchetti-a-unit-of-measure-for-transit-379aa51170a4).
+1.11.3.1. Pro: AVs will make long trips easier and more comfortable.
+1.11.3.2. Con: Government zoning policy \(such as [The Greenbelt](https://en.wikipedia.org/wiki/Greenbelt_\(Golden_Horseshoe\)), a protected area in Ontario, Canada\) can be used to inhibit urban sprawl.
+1.11.4. Con: -> See 1.7.1.
+1.11.5. Pro: Autonomous vehicles will make car ownership less interesting.
+1.11.6. Con: Autonomous vehicles still require a large amount of asphalt infrastructure that takes priority over other amenities, like green space.
+1.11.6.1. Con: People will always need to get around. There will surely always be a tension between green space and a transportation network.
+1.11.6.2. Con: Autonomous vehicles can use the same road as regular vehicles. Extra space is not necessary.
+1.11.6.3. Con: Existing infrastructure is more than adequate. In fact, AVs need less infrastructure than what we currently have. That way roads can even be reduced to increase urban living and leisure space.
+1.12. Con: -> See 1.11.3.
+1.13. Con: In an accident, fault can be established as to which party is liable. Automated vehicles create a major problem as to who would be liable- the manufacturer, programmer, user, sensor designer, etc.
+1.13.1. Con: It has [already been discussed](https://www.washingtonpost.com/local/trafficandcommuting/when-driverless-cars-crash-who-gets-the-blame-and-pays-the-damages/2017/02/25/3909d946-f97a-11e6-9845-576c69081518_story.html?noredirect=on&utm_term=.4ea4af8d3ada) and predicted liability would shift from driver to the AV manufacturer.
+1.13.2. Pro: If the end user or maintenance personnel does not clean the vehicle regularly a buildup may occur occluding a sensor. That would make that person or company at fault.
+1.13.3. Pro: A scripting error could fail to recognize the difference between a cardboard cut-out and a person. That would make the programmer liable.
+1.13.4. Pro: A new security patch may leave older critical hardware inoperable. That would be the manufacturer or patch designer at fault.
+1.13.5. Con: It is better to have far fewer accidents with ambiguous fault, than far more with obviously identifiable human error.
+1.13.6. Con: The current system for fault is already to place the blame on the shoulders of the owner, regardless of vehicle fault. If a tire blows out, causing a wreck, the driver still has to pay for damages. This is why insurance is mandatory on all vehicles, and it still could be.
+1.14. Pro: Autonomous vehicles will help making cities safer
+1.14.1. Con: Because of cheap cost of AVs, it will be easier to provide door to door services, and people will walk less, exercise less and be less healthy.
+
+[Car - free cities: healthier citizens](http://ec.europa.eu/environment/integration/research/newsalert/pdf/car_free_cities_healthier_citizens_476na1_en.pdf)
+1.14.1.1. Con: Walking in some city neighborhoods isn't a safe option due to crime. Health then takes a backseat to staying alive.
+1.14.2. Pro: Autonomous vehicles will help avoiding accidents and save many lives.
+
+[Public Health, Ethics, and Autonomous Vehicles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5343691/)
+1.14.2.1. Con: Such systems have already [proven](https://www.nytimes.com/interactive/2018/03/20/us/self-driving-uber-pedestrian-killed.html) to have issues and may not work correctly.
+1.14.2.1.1. Pro: Autonomous vehicles can be hacked.
+
+[The Guardian : Car hacking is the future – and sooner or later you'll be hit](https://www.theguardian.com/technology/2016/aug/28/car-hacking-future-self-driving-security)
+1.14.2.1.1.1. Con: Non-autonomous vehicles can also be hacked.
+1.14.2.1.1.2. Pro: AVs can be hacked remotely.
+
+[Hackers Sabotage Jeep Remotely](https://www.techradar.com/news/car-tech/hackers-sabotage-jeep-remotely-1299807)
+1.14.2.1.1.3. Pro: AVs being connected, they can be hacked en masse.
+
+[Black Mirror : S3E6](https://en.wikipedia.org/wiki/Hated_in_the_Nation)
+1.14.2.1.1.4. Pro: AVs means more software and more complexity. This makes it hard for security testers to know where to look, and hard for auditors to check a car complies with the rules.
+1.14.2.2. Con: A system designed for such may make less ethical choices in an emergency, such as plowing through a small group of people rather than hit one person.
+1.14.2.3. Pro: Human error is leading factor of vehicle crashes.[cyberlaw.stanford.edu](http://cyberlaw.stanford.edu/blog/2013/12/human-error-cause-vehicle-crashes)
+1.14.2.4. Pro: AVs can predict dangerous moves, and help get pedestrians and bicyclists safe.
+1.14.3. Pro: Autonomous vehicles will facilitate generalized surveillance.
+1.14.3.1. Con: Emerging privacy and data protection regulations will protect people from surveillance.
+
+[EU General Data Protection Regulation \(GDPR\)](https://www.eugdpr.org/)
+1.14.3.2. Con: New technological paradigms for building applications and computer systems \(distributed apps\) will provide better privacy.
+
+[Why the Web 3.0 Matters and you should know about it](https://medium.com/\@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949)
+1.14.3.3. Pro: AVs will most likely require users to be authenticated, therefore everyone will be followed.
+1.14.3.4. Pro: AVs will most likely have inside cameras for security reasons.
+1.14.3.5. Pro: AVs will be constantly scanning the outside environment.
+1.14.3.5.1. Con: Current sensors use LIDAR, which is more like radar and less like a video camera
+1.14.3.6. Pro: Mobility companies will have some requirement to comply with law enforcement.
+1.14.3.6.1. Pro: If vehicles are shared, they would essentially constitute a public space and video surveillance thus be allowed.
+1.14.3.7. Pro: Even if the mobility company keeps the user's data safe, this doesn't mean the state or hackers will not seek to obtain it unlawfully.
+
+[Snowden revelations](https://en.wikipedia.org/wiki/Edward_Snowden#Revelations)
+1.14.3.8. Pro: An important business model for mobility services will be monetizing the users' data.
+
+[How Self-Driving Cars Will Threaten Privacy](https://www.theatlantic.com/technology/archive/2016/03/self-driving-cars-and-the-looming-privacy-apocalypse/474600/)
+1.14.3.8.1. Pro: Data is considered as [the 'new oil'](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data).
+1.14.4. Con: -> See 1.14.2.1.1.
+1.15. Con: -> See 1.14.3.
+1.16. Pro: Forget about the cities, rural lifestyle is better in every way except access to services. AVs will help more people to move to the countryside.
+1.16.1. Pro: -> See 1.11.3.1.
+1.16.2. Pro: -> See 1.7.1.4.
+1.17. Con: Autonomous vehicles will isolate people.
+1.17.1. Con: -> See 1.7.5.1.
+1.17.2. Con: AV will allow people to focus on each other instead of the road / odd smell next to them.
+1.17.3. Con: Autonomous vehicles will give isolated people access to communities they couldn't otherwise reach.
+1.17.4. Con: Autonomous vehicles are a technology, it is how they are implemented that causes social impacts.
+1.17.5. Con: AVs will not be any worst than public transportation system, which never was an ideal means of socializing. Most ignore each other while on public transit.
+1.17.6. Pro: -> See 1.7.5.
+1.17.7. Pro: AVs monetizing user data will create something similar to Facebook's filter bubble.
+1.17.7.1. Pro: -> See 1.14.3.8.

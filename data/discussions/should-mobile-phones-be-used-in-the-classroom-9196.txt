@@ -1,0 +1,40 @@
+Discussion Title: Should mobile phones be used in the classroom?
+
+1. Mobile phones should be used in the classroom.
+1.1. Pro: Mobile phone use in classroom can replicate a real life environment.
+1.1.1. Con: There is no implicit advantage in replicating real life environments that take place outside the classroom, especially if they don't serve the purpose of helping students to learn.
+1.1.1.1. Con: Replicating real life environment can help students gain perspective on the practical application of their education. This is one of the reasons internships are included in some educational programs.
+1.1.2. Pro: Using mobiles in the classroom is an excellent learning opportunity to teach \(primary/secondary\) students \(& remind tertiary students\) what would be acceptable etiquette & behaviour around the use of their mobile device in the classroom that could ideally carry over to the boardroom. Setting students up with expectations that there is a time & a place to pick them up and how to use them beyond socialising can help set them up for success - as well as a time & a place to put them down.
+1.2. Pro: Mobile phones could enable teachers to incorporate digital platforms into lessons.
+1.2.1. Pro: Some software / sites such as [Kahoot](https://kahoot.it/) can aid learning through use of quizzes. This can also be used as a means of assessment.
+1.2.2. Con: The teacher could in such cases distribute ipads to the students. So this is not an argument for allowing phones in the classroom all the time.
+1.2.2.1. Con: This would be very expensive.
+1.2.3. Pro: Mobile phones could be used to access educational learning apps.
+1.2.3.1. Pro: As a tool in a well planned lesson cell phones are useful.
+1.2.4. Con: This can be difficult to manage - ensuring all students are focused on the task at hand and not browsing social media is not easily controlled.
+1.3. Pro: Mobile phones are a way of providing easy access to more information.
+1.3.1. Con: A student should ask questions to the teacher and let them provide the information to everyone, instead of selfishly looking for the answer by himself on the phone.
+1.3.2. Pro: For some subjects it's important to be able to look up information that is often misrepresented, poorly indexed or difficult to find. Now that textbooks are no longer the primary means of looking things up students might need to learn how to google effectively.
+1.3.3. Con: There is nothing more important on your phone than information they will gain from the teacher. Social media, games, and chatting random stuff with your friends elsewhere are pointless in comparison during class.
+1.3.3.1. Con: Teachers cannot be expected to know as much as the internet about everything they teach.
+1.3.3.2. Con: Sites like wikipedia, TED or youtube, on the other hand, are far from pointless in class.
+1.3.4. Pro: Non-conceptual information such as the height of a mountain can readily and broadly be accessed on google.
+1.3.5. Con: Understanding conceptual information is often much more difficult to understand using google and usually takes more time than it takes a teacher to explain
+1.3.6. Con: The internet can give the answer with little explanation, leading to little learning.
+1.3.7. Pro: Sometimes instructors are not able to share knowledge & information in a way a learner can understand it best and many tertiary institution instructors have no actual teacher training. Instructors also do not usually have the capacity to accommodate learners with challenges or differences. Therefore being able to look up information on the internet from an appropriate source or to grab stats from a search engine is super helpful for both instructor and learner in this case.
+1.4. Con: Mobile phone use in the classroom would lead to an increase in distractions and interruptions.
+1.4.1. Pro: There is [some evidence](https://digitalcommons.wku.edu/cgi/viewcontent.cgi?referer=https://www.google.nl/&httpsredir=1&article=2921&context=theses) that suggests that using phones is distracting, especially because of [effects](http://news.bbc.co.uk/2/hi/uk_news/4471607.stm) on [productivity](http://www.dailymail.co.uk/health/article-1205669/Is-multi-tasking-bad-brain-Experts-reveal-hidden-perils-juggling-jobs.html).
+1.4.2. Pro: Using a mobile phone will decrease their likeliness of doing will in exams, since they aren't paying attention and learning.
+1.5. Pro: Phone are an easy and fast way for students to create their own digital content through apps and by just photos or videos of a learning moment.
+1.6. Pro: Access to cell phones enables students to easily record and document important events for future reference and analysis.
+1.6.1. Pro: After the Stoneman Douglas High School shooting in Parkland, Florida, the Federal Bureau of Information \(FBI\) was reportedly collecting videos and photos taken by students during the shooting to determine if there were any others assisting the shooter and to analyze the tactics used by law enforcement responding to the situation.
+1.6.2. Con: The easily-accessible form of recording that phones provide can and has lead to different forms of cyberbullying.
+1.7. Con: Mobile phones in the classroom would make it easier for students to cheat.
+1.7.1. Pro: Most exams are meant for closed-book, and the use of the phone is basically a open-book.
+1.7.1.1. Con: There is no reason why mobile phones would be allowed during periods of examination.
+1.8. Con: Use of mobile phones would lead to disconnection from face-to-face activities.
+1.8.1. Pro: An important part of school is preparing students for the future. Whether it's a job interview, communicating in a relationship, or any sort of social interaction, it's very likely that these students will need to know how to properly communicate with others in day-to-day life.
+1.8.2. Con: The two are not mutually exclusive; some activities will entail mobile phone use, others will allow students to undertake face-to-face activities.
+1.8.3. Pro: The classroom is one of the few times kids and teens are not glued to a screen.
+1.9. Con: Phones in the classroom would increase the occurrence of cyberbullying.
+1.9.1. Pro: -> See 1.6.2.

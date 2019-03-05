@@ -1,0 +1,47 @@
+Discussion Title: Should we offer one of our kidneys to a stranger in need if we are able to?
+
+1. If we are able, we should offer one of our kidneys up for donation to a stranger in need.
+1.1. Pro: Most donors experience positive emotional benefits from trying to improve the health and well-being of a person in need.
+1.1.1. Con: Donors can also experience feelings of anger, regret and sadness in the aftermath, especially if they experience unforeseen health problems as a result of the procedure, or their kidney is not successful in the recipient's body.
+1.1.1.1. Pro: There are [stories](https://www.washingtonpost.com/national/health-science/at-18-years-old-he-donated-a-kidney-now-he-regrets-it/2016/09/30/cc9407d8-5ff9-11e6-8e45-477372e89d78_story.html?utm_term=.c99285704a5e) posted online from kidney donors who [regret](http://livingdonorsonline.org/ldosmf/index.php?topic=6763.0) their decision due to feeling like their kidney has not been put to good use, or feeling vulnerable to more health problems. These donors have to grapple with the turbulent emotions that come as a result.
+1.1.2. Pro: People who donate kidneys to strangers receive similar psychological benefits to people who donate to friends/family. [journals.lww.com](http://journals.lww.com/transplantjournal/Abstract/2011/04150/Altruistic_Kidney_Donation_to_a_Stranger_.13.aspx)
+1.1.3. Pro: A [study](https://www.medscape.com/viewarticle/725198) from the Netherlands on psychological evaluations of about 24 altruistic kidney donors after donation found that the donors were, in general, quite satisfied and pleased with having gone through the process of donating the kidney and would do it again were the situation ever to come up.
+1.2. Pro: Most humans can survive with one kidney.
+1.2.1. Con: Living with one kidney may pose health [risks](http://www.giveakidney.org/how-safe-is-donation/).
+1.2.1.1. Con: The risk of donating a kidney is \(approximately\) 1 in 3000.  [Source for risk](http://www.giveakidney.org/how-safe-is-donation/).
+1.2.1.2. Con: The risks to the donor are outweighed by the benefit to the recipient.
+1.2.1.2.1. Pro: A donor may only risk not being able to work and function as well with only one kidney, while the recipient will in all probability die without one.
+1.3. Con: An organ donation is an unreasonably demanding ethical mandate.
+1.3.1. Pro: A person has the right to decide what happens to their body when alive. There should be no moral obligation, however such acts should be taken seriously and appreciated for the sacrifice.
+1.3.2. Pro: Giving a kidney to a stranger makes it impossible for us to offer the kidney to a friend or family member in case of need.
+1.3.2.1. Con: During our lifetime, it is more likely that a stranger will need a kidney for whom we are a match, than that a friend or family member will need a kidney for whom we are a match.
+1.3.2.2. Pro: Our first duty should be to those who we know and personally care for.
+1.3.2.3. Con: The suffering of a stranger is worth no less than the suffering of a friend or family member.
+1.3.2.4. Con: If the principle universally applies, friends and family can find organ donors relatively easily.
+1.3.3. Pro: Surgery to donate a kidney has risks to the donor.
+1.3.3.1. Con: The risks are small.
+1.3.3.1.1. Pro: For living kidney donors, the risk of death is about [0.06%](http://www.kidneylink.org/RisksInvolvedinLivingDonation.aspx) \(about 1 death for every 1,700 procedures\).
+1.3.3.2. Pro: Possible side-effects and [risks](http://www.kidneylink.org/RisksInvolvedinLivingDonation.aspx) as a result of the surgical procedure required can include blood clotting, pain, infection, pneumonia, lung collapse, reaction to anaesthesia and even death.
+1.3.3.3. Con: -> See 1.2.1.2.
+1.3.4. Pro: We can't predict whether we will have our own kidney problems later in life.
+1.3.4.1. Con: If this principle universally applies, there are going to be enough kidneys to support us.
+1.3.4.2. Con: This could be used as an argument against any form of charity. For example, we may not know if we will encounter financial problems in the future. However, the cost of us not donating money to those in need can be dire.
+1.3.5. Pro: Aside from the minimum two week recovery time, there is a less severe, yet longer time to recover that follows.
+1.3.5.1. Con: Advancements in medicine mean that this harm can be mitigated and reduced.
+1.3.5.2. Con: Saving a life is more important than temporary problems caused to one's health.
+1.3.6. Con: The right thing to do may be difficult, but the difficulty does not take away from the fact that it is still the right thing to do.
+1.4. Con: Alternatives are being developed and do exist. There is no need to put oneself at risk.
+1.4.1. Pro: People will not need other people to donate their kidneys if they could [grow their own](http://www.abc.net.au/news/science/2015-10-08/proto-kidney-grown-in-a-dish/6833882) using their skin cells.
+1.4.1.1. Con: This is not currently available.
+1.4.1.2. Con: Even if this becomes available, it will be extremely expensive and inaccessible to many.
+1.4.2. Pro: When [artificial kidneys](https://www.nephrologynews.com/implantable-artificial-kidney-project-making-progress/) become a reality, donations will not matter. These will probably be better than someone else's kidney because the body will not reject the artificial kidneys as much.
+1.4.3. Pro: One study shows [the US throws away too many donated kidneys](http://blogs.discovermagazine.com/d-brief/2017/12/07/us-wasting-kidneys/). People keeping their kidneys would be better. Throwing away kidneys does not benefit those on the waiting list either.
+1.5. Con: -> See 1.3.3.
+1.6. Con: The recipient's immune system may reject the kidney.
+1.6.1. Pro: At 10 years after surgery, only [54%](https://www.kidney.org/transplantation/transaction/TC/summer09/TCsm09_TransplantFails) of transplant kidneys are still working.
+1.6.2. Pro: 20% of transplants every year are [re-transplants](https://www.kidney.org/transplantation/transaction/TC/summer09/TCsm09_TransplantFails) for patients whose first transplanted kidney has been unsuccessful.
+1.7. Con: If somebody does a lot of good with effective charitable donations, or with their career, then the health consequences may prevent them from doing more good.
+1.7.1. Pro: [Givewell](https://www.givewell.org/)'s best estimate is that a donation of $3,600 to their top recommended charity can save one life and improve many more.
+1.8. Pro: If we needed a kidney, we would hope a stranger would give us one.
+1.9. Con: If you happen to have kidney problems in the future and you are left with only one, that's highly risky.
+1.10. Pro: The recipient will have the length and quality of their life improved.

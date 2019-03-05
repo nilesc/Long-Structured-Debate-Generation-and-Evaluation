@@ -1,0 +1,23 @@
+Discussion Title: Should Britain ban fracking?
+
+1. Britain should ban fracking.
+1.1. Pro: Given that renewable sources of energy are available, it is wrong to use non-renewables.
+1.1.1. Pro: Fracking is a short term solution with unclear ecological effects. It would be better to invest in renewable energy where the future is much longer and downsides are negligible.
+1.2. Pro: Fracking is bad for the environment.
+1.2.1. Pro: Fracking threatens local wildlife.
+1.2.1.1. Con: It is hypocritical for us to benefit from the environmental degradation of foreign countries whilst insisting that our own areas of natural beauty remain pristine.
+1.2.2. Pro: Fracking contributes to global warming.
+1.2.2.1. Pro: Methane, the most harmful greenhouse gas, is released into the atmosphere in large quantities by fracking.
+1.2.2.1.1. Pro: Methane leaks are as [high as 6-12%](http://onlinelibrary.wiley.com/doi/10.1002/grl.50811/abstract). Given that any leakages [over 3.2%](http://thinkprogress.org/climate/2012/04/09/460384/natural-gas-is-a-bridge-to-nowhere-absent-a-carbon-price-and-strong-standards-to-reduce-methane-leakage/) indicate that gas is worse for the climate than coal, fracking is not a viable alternative to other fossil fuels.
+1.2.3. Pro: Fracking uses and pollutes a large amount of water.
+1.2.3.1. Con: [MIT published a report](http://energy.mit.edu/research/future-natural-gas/) concluding that only a handful of more than 20,000 wells drilled in the past 10 years have led to groundwater contamination.
+1.2.3.2. Pro: [Traces of arsenic](http://pubs.acs.org/doi/abs/10.1021/es4011724) have been found in groundwater near fracking wells.
+1.2.4. Pro: Fracking [destabilizes](https://www.theguardian.com/environment/2016/jan/10/fracking-earthquakes-oklahoma-colorado-gas-companies) the bedrock.
+1.2.5. Con: Fracking is [displacing](http://theweek.com/articles/619832/swift-demise-big-coal) the use of coal energy, which produces [twice as much](https://www.eia.gov/tools/faqs/faq.php?id=73&t=11) carbon dioxide as natural gas.
+1.3. Pro: Fracking is known to cause health problems in the areas surrounding the drill sites.
+1.3.1. Pro: Infants of mothers living close to fracking wells during their pregnancy are [more likely](http://time.com/5062700/fracking-health-effects/) to experience negative health effects.
+1.4. Con: Fracking leads to more jobs.
+1.4.1. Pro: Many preliminary fracking licenses are around the city of [Manchester](http://www.bbc.com/news/uk-14432401). As Manchester falls [behind](http://www.mirror.co.uk/news/politics/high-unemployment-growing-homeless-population-10784305) the rest of the UK in terms of emplyoment and homelesness this helps them.
+1.5. Con: Cheap energy provides a short term economic boost to the country.
+1.6. Con: Domestic energy production reduces our dependence on overseas producers, some of whom may become hostile.
+1.6.1. Pro: It also mitigates the potentially negative effects of fluctuations in oil prices.

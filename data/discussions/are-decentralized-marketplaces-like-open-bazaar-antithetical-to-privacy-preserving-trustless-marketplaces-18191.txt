@@ -1,0 +1,17 @@
+Discussion Title: Are decentralized marketplaces, like Open Bazaar, antithetical to privacy preserving trustless marketplaces?
+
+1. decentralized marketplaces, like Open Bazaar, are antithetical to privacy preserving trustless marketplaces.
+1.1. Pro: Decentralized marketplaces require ALL users to host/store and distribute content, which may make it easier to deanonymize users as opposed to buyers and sellers just visiting a website.
+1.1.1. Con: The risk of deanonymization is at least as high for centralized marketplaces as information is usually stored, as the name suggests, in a central location.
+1.1.2. Con: The more people are involved in running a marketplace, and the more eyes are on the software that powers it, the higher the chance that security problems and privacy risks are quickly found and patched.
+1.2. Con: Decentralized marketplaces are global in nature and not bound to local laws and regulations to the same degree that other marketplaces are. This serves to protect the privacy of users against interference, for example by governments.
+1.3. Pro: Centralized marketplaces can make performing a sybil attack expensive, and when discovered can be dealt with by administrators.
+1.3.1. Con: It takes enormous expertise to effectively and quickly deal with sybil attacks. Especially smaller marketplaces may not be able to provide this.
+1.4. Con: Centralized marketplaces may be able to perform sybil attacks if the administration \(escrow agent\) acts as a seller.
+1.4.1. Pro: This could be mitigated by doing only 2 of 2 multisig transactions between the seller and buyer directly excluding the possibility for the marketplace/seller having 2 of the 3 keys.
+1.4.2. Pro: This is also possible on decentralized marketplaces if there is an escrow agent, which is possible on Open Bazaar.
+1.5. Con: Centralized marketplaces can engage in cronyism, preventing some sellers of specific goods but allowing others favored users.
+1.5.1. Con: This usually does not happen as the damage to the market place's reputation would be enormous if any sort of cronyism is revealed to the public.
+1.5.2. Pro: This issue is mitigated if there are many centralized marketplaces competing in a free market.
+1.6. Pro: Centralized marketplaces have a better alignment of incentives. Administrators are kept honest by competition and financial incentives from seller fees. Escrow agents on a decentralized marketplace could easily be bribed or do selective scams.
+1.7. Pro: Centralized marketplaces can provide the maximum amount of privacy as encrypted communication, use of Monero, and Tor/Kovri. The only draw back is centralized marketplaces can be taken down. If we find that decentralized marketplaces cannot provide the same amount of privacy and security, having the product information/postings being taken down is not a good trade: this is unimportant information, and can easily be backed up by sellers and other users.

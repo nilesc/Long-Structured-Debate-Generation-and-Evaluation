@@ -1,0 +1,27 @@
+Discussion Title: Should social networks force users to use their real identity?
+
+1. Should social networks force users to use their real identity?
+1.1. Pro: Social media is known to have a negative affect on mental health, particularly for its predominantly young user-base. Identity checks would not only reduce cyberbullying, but would also give parents more tools to protect their children from the harmful aspects of social networks
+1.2. Con: Verifying the existence of the account owner's identity does not mean that they will be the only one with access to that account
+1.2.1. Pro: This could facilitate identity fraud if a bad actor manages to steal an account, because there will be increased trust between the account operator and the platform
+1.2.2. Con: If two-step identification is made compulsory then it is substantially more likely - although of course, never 100% certain - that the user is who they say they are.
+1.3. Con: Some people would be unable to provide proper documentation
+1.3.1. Pro: Requiring identity documents adversely affects poorer people who are much less likely to have them; this phenomenon is seen in voting disenfranchisement
+1.4. Con: Social networks exist for the users. Some networks are predicated on the idea of using your real identity, such as LinkedIn, while on many others it is unnecessary, such as forums. Users should have freedom of choice
+1.5. Con: This would violate the right to privacy
+1.6. Con: Forcing users to prove their identity may involve measures many would consider unsafe by passing over even more confidential information to tech giants
+1.6.1. Pro: We've already seen governments take advantage of information stored on social media, often in ways that aren't legal. If more personal information were required to use these sites, users could be at risk of unjust governmental practices
+1.6.2. Pro: Providing your real identity would likely mean giving social media companies access to "sensitive information", such as ethnicity, which is protected under the EU's General Data Protection Legislation
+1.6.2.1. Pro: This could lead to a loophole whereby these companies claim that the user has consented to the processing of their personal information simply by accessing the site
+1.6.3. Pro: No matter how airtight the legislation would be, there is no way to guarantee that personal information wouldn't be leaked
+1.7. Pro: This would hold people accountable for what they post, thus reducing abuse
+1.8. Con: There are many legitimate reasons to have a private profile, such as people fleeing abuse or discrimination
+1.8.1. Pro: Celebrities may also use private profiles to avoid too much public scrutiny in their private lives.
+1.8.2. Pro: Young LGBT+ people may use anonymous social media profiles to interact with other members of the community without outing themselves to people they know. Forcing them to use their real names risks cutting them off from a vital source of support.
+1.9. Pro: It would be much easier to identify and stop crime, for example fraud and scams
+1.10. Con: This would be impractical to implement
+1.10.1. Pro: It would have to be enforced by governments of all the nations these networks operate in. This would mean a big authoritatian move on the internet and have no added value.
+1.11. Pro: Social networks would no longer facilitate hate groups and terrorists
+1.12. Pro: Facebook and Google Plus already require a real name and do not allow a name change without proof; when acquiring YouTube, Google forced the use of real names and tied YouTube to a Google Plus profile, which improved the quality of comment sections
+1.12.1. Con: Facebook comments and posts, even with real names, were so toxic in Germany that the [network enforcement law](https://en.wikipedia.org/wiki/Netzwerkdurchsetzungsgesetz) was created which forces large social networks to remove offensive reported content within 24 hours or face [hefty fines](https://www.theguardian.com/world/2018/jan/05/tough-new-german-law-puts-tech-firms-and-free-speech-in-spotlight) of up to EUR 50mn.
+1.12.2. Con: Facebook employs [1200](https://www.theguardian.com/world/2018/jan/05/tough-new-german-law-puts-tech-firms-and-free-speech-in-spotlight) reviewers of posts, for Germany alone.

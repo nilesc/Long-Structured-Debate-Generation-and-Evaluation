@@ -1,0 +1,354 @@
+Discussion Title: Is science political?
+
+1. Science is political.
+1.1. Con: If we understand "politics" in a broader sense than direct political control, then all human activities have politics. But the scientific method by which we test concepts against reality is not politically biased.
+1.1.1. Pro: If "science" means the correct application of scientific method to areas of study, and if "political" means how society or government presents power dynamic, then there are two different things.  The scientific method is politically agnostic.  Decisions about when the method is applied, or how rigorous the application, can be political.
+1.1.1.1. Con: The scientific method was designed and made by humans. Thus, it is reasonable to describe it as an artifact. Langdon Winner has famously argued that some artifacts are inherently political. [jstor.org](https://www.jstor.org/stable/20024652?seq=1#page_scan_tab_contents)
+1.1.1.1.1. Pro: The scientific method could be seen as political in the sense that it has concrete social consequences that can be qualified in political terms.
+1.1.1.1.1.1. Pro: The scientific method can be learned and applied by anyone. Thus, it could be seen to promote a view of scientific knowledge production as an open and democratic process.
+1.1.1.1.1.2. Pro: Hierarchical social structures have been created and maintained in order to propagate scientific knowledge production.
+1.1.1.1.2. Pro: The scientific method could be seen as inherently political in the sense that it privileges one way of producing knowledge over others.
+1.1.1.1.3. Con: Winner uses artifacts and technology interchangeably. He defines technology as "...technolo\[gies\], smaller or larger pieces or systems of hardware of a specific kind" \(1980, p.123\). Science and the scientific method may fall outside the scope of Winner's argument.
+1.1.1.1.3.1. Pro: Winner analyzes two examples of political artifacts: \(1\) roadways and \(2\) mechanical tomato harvesters. Science and the scientific method seem to be different kinds of things.
+1.1.1.1.3.2. Con: Winner describes two kinds of artifacts, one of which are "man-made systems that appear to require, or to be strongly compatible with, particular kinds of political relationships" \([1980, p. 123](https://transitiontech.ca/pdf/Winner-Do-Artifacts-Have-Politics-1980.pdf)\). Science could be interpreted as just such a system, which would mean it is reasonable to understand science as an artifact that has politics.
+1.1.2. Con: The scientific method involves developing hypotheses, which is a creative act largely dependent on an individual's knowledge and experience. Although there are efforts to minimize bias in this process, individual knowledge and experience differs and biases hypothesis development in the scientific method.
+1.1.2.1. Con: The scientific method then requires testing of the hypothesis with the aim of refuting it, and this will eventually eliminate any bias that may be present.
+1.1.3. Con: -> See 1.1.1.1.
+1.1.4. Con: Scientific methodologies were designed by social agreement, which is a political process. Here is a good and practical example: [twitter.com](https://twitter.com/voxdotcom/status/1018234932479569920?s=21)
+1.1.4.1. Con: If the point is whether science \(and not the scientific method\) is political, then the scientific decision is based solely on truth found by scientific method, therefore not open to political discussion and power plays.
+1.1.5. Con: Science uses several mechanisms to discover objective truth, not only the Scientific Method. For example, "objective truth about the natural world can be determined using scientific method, reason, logic, and practice." \(Chris Joosse on Quora\)
+1.1.6. Pro: Opinion \(political or otherwise\) does not survive the scientific method.
+1.1.6.1. Con: Opinions are tested for their reproducibility, underlying data / information, and falsificability. They can survive the scientific method if proven correct. An opinion \(as such\) can be part of science if we're still in the speculating stage of a particular research.
+1.2. Con: Descriptions of the scientific method avoid political language, and any analysis of its usage in a political context exceeds the scope of the thesis.
+1.2.1. Con: Just because a method or tool appears to be described in apolitical language does not mean that it is apolitical. Intentionally avoiding political language could itself be seen as a political act in that it serves the interests of the scientific community.
+1.2.2. Con: Definitions of the scientific method obscure the fact that science finds much of its raison d'etre from politics.
+1.3. Pro: Science values facts and sound reasoning. If there are politics that revile those values, science is inherently opposed to them. Since such politics do exist, science is opposed to those politics.
+1.3.1. Con: When science seems opposed or in favor of certain policies, it is only due to the interpretation of data on human-imposed values.
+1.3.2. Con: Scientists may object to what they perceive as a lack of facts and sound reasoning, pointing to science as why these are useful, but that itself is a moral argument and not a scientific one. As such, the scientist is approaching politics philosophically and not scientifically, and science itself is not involved.
+1.3.3. Pro: The anti-vaccine movement or the ongoing political debate on climate change in the United States could be illustrative of the opposition between science and certain politics that oppose its values.
+1.3.4. Pro: Opposition to certain politics and not others is tacit agreement \(or at least tolerance of\) the other politics.
+1.3.5. Pro: Politics is the contestation of power, and, if a political position contends the conclusion of science, or if scientific evidence undermines a position of power, then science engages in a political act.
+1.3.6. Con: Scientific funding is achieved with finite resources. If scientists spend their time researching topics funded by politicians, they are not necessarily spending their time researching topics of greatest importance to Scientific discovery. As such, Science can be manipulated away from discoveries that would be inconvenient politically.
+1.4. Con: Unlike politics, the aim of science is neither influence nor control.
+1.4.1. Pro: Emotions about scientific findings \(i.e current controversies from both L & R about evolution, global warming, genetics\) are not the same as the scientific findings.
+1.4.2. Pro: The primary fuel for political influence is emotion, and facts are secondary \(or even arbitrary\) to the political aims of politically minded humans who create narratives to incite emotion.
+1.4.3. Con: Science allows more control of physical phenomena, which can influence economics, social order, life style, and life expectancy.
+1.4.3.1. Pro: Epidemics can have wide-ranging social and political effects; the discovery of a cure can turn these processes around.
+1.4.3.2. Pro: The development of scientific farming techniques and GMO has enabled us to produce more food and feed more people, which has had immensely significant effects on society and social order.
+1.4.4. Con: Aims are not the only indicators of politics.
+1.4.4.1. Pro: University of California researchers developing mechanical tomato harvesters and more robust plants may not have aimed for their work to be political. However, their research put thousands of manual laborers out of work and concentrated the power and profit of tomato farming in the hands of a few farmers \([see pg. 126](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)\)
+1.4.4.1.1. Pro: In some cases, science advances a particular kind of social order, which is a political act.
+1.4.5. Con: The products of scientific discovery may increase the capacity for an individual or group to exercise influence and/or control. Indeed, scientific study may be performed with those express objectives in mind.
+1.4.6. Con: Scientific discovery is driven by an overarching political agenda based on increasing the body of knowledge and making the world a better place
+1.4.7. Con: Posing scientific questions and selecting topics of inquiry inherently require values. Investigation of physical phenomena is a sensory experience, and thus is impossible without cognitive frames.
+1.4.8. Pro: Science aims to describe the world. It does not prescribe how to act based on those descriptions. That is, it does not dictate policy. [theguardian.com](https://www.theguardian.com/science/life-and-physics/2012/dec/26/science-politics)
+1.4.8.1. Con: The science of climate change could be seen to advocate for particular courses of action. For example, Spence et al. \(2011\) propose "highlighting links between local weather events and climate change" as an effective strategy for increasing citizen "concern and action" with regard to sustainable energy use. [eprints.nottingham.ac.uk](http://eprints.nottingham.ac.uk/2249/1/Spence_et_al_-_nclimate1059.pdf)
+1.4.8.2. Con: There are cases where a scientific result serves or enables particular policy or course of action - for example, studies of the bandwagon effect and other principles of conformity pretty clearly show how NOT to brainstorm
+1.4.8.2.1. Pro: The move from scientific results to implications for action is an act of judgment and could be seen as a departure from science and an arrival at politics.
+1.4.8.2.2. Pro: -> See 1.4.8.1.
+1.4.8.3. Con: How the world is determines whether a policy is good or bad. For example a policy of extending all prison sentences is a good policy if we live in a world where longer prison sentences make people less likely to re-offend, however this policy is bad if the length of the prison sentence has no impact on likelihood of re-offence, hence given a policy maker's objectives empirical facts do dictate policy.
+1.4.8.4. Con: During the first half of the 20th century, polio ravaged the world population. The political fabric  provided the genesis for the scientific thrust to create a vaccine. Subsequently, in 1952, when Jonas Salk discovered a vaccine for polio, that discovery was the result of an overarching political motivation to make the world a better place by ridding humankind of the polio scourge.
+1.4.8.5. Con: Scientific evidence has been essential to court decisions for a long time. Those decisions necessarily affect, if not set, policy[Source](https://www.nature.com/collections/jkmnyltncy)
+1.4.8.6. Pro: Science is not political because it has no agenda for political change.
+1.4.8.6.1. Con: Climate science arguably has an agenda for political change.
+1.4.8.6.1.1. Pro: 15 000 scientists just co-signed an [article](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/bix125/4605229) calling for extreme and aggressive effort to slow down or reverse the trend of climate change before it's too late. It is the second warning of this scale, the other was 25 years ago.
+1.4.8.6.1.2. Pro: The [Union of Concerned Scientists](https://www.ucsusa.org/global-warming#.WlpfxEtrzok) warns of climate change.
+1.4.8.6.1.3. Pro: Scientists advocate to fight climate change.
+1.4.8.6.1.3.1. Con: Social pressure and research funding incentives has made it difficult for climate scientists to speak out against strong claims about human-caused climate change
+1.4.8.6.1.3.1.1. Con: Scientists generally try to study what goes against social consensus as this helps their reputation as groundbreaking scholar.
+1.4.8.6.1.3.1.2. Con: Scientists have established norms for accurate, objective reporting of results. This allows for the publication of results that challenge dominant points of view.
+1.4.8.6.1.3.1.3. Pro: Judith Curry, a widely acclaimed climate scientist has been vilified and threatened personally  simply because of her skeptical views.  As a result she decided to end her career in climate science [Curry resigns: Integrity Vs. Career Suicide](http://joannenova.com.au/2017/01/judith-curry-resigns-battle-of-scientific-integrity-versus-career-suicide/)
+1.4.8.6.1.3.1.3.1. Con: Judith Curry was arguing that climate scientist should be more open to skeptical view. She wasn't skeptical herself other than she claimed the prediction on climate was more uncertain that the IPCC would let know. There is no evidence of her being vilified and threatened.
+1.4.8.6.2. Pro: Political acts involve deciding how how to excise power others. While science can provide facts about the world that can inform these decisions, it cannot provide the value judgements that determine how those decisions are made.
+1.4.8.6.3. Pro: Arguably many in Academia are fairly liberal. Always self-aware, a few social psychologists have voiced some possible issues in [Political DIversity](http://rhodesdiversity.org/wp-content/uploads/2017/04/Haidt-Diversity-2015.pdf).
+1.4.8.7. Pro: Scientists may be political and politicians may use science for political purposes, but these facts do not necessarily invalidate what science can and cannot speak to.
+1.4.9. Con: Once science generates knowledge of what 'is', then it has to figure out what 'ought' to be done with it \(e.g., generate implications for future research or practice\). The 'ought' is where science becomes political. \([Hume](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)\)
+1.4.9.1. Con: Figuring out what ought to be done with scientific knowledge is not necessarily within the purview of science.
+1.4.9.2. Con: If science does not address what ought to be done with knowledge of what is, then it avoids becoming political.
+1.4.9.2.1. Con: Most scientific research is conducted with an aim or purpose in mind \(e.g. medical research\) - in most cases it is not possible to separate the 'what is' from the 'what ought to be done'.
+1.4.9.3. Con: Science can be used as a stepping stone to find what is right and wrong, but the truths figured out by science shouldn't be contended with on a political level.
+1.4.9.3.1. Con: The choice of scientific research has political implications. Examples include: immunology \(vaccines\), nuclear physics \(fission, bombs\), and genetics \(embryo editing for Huntington's Disease and cystic fibrosis, selective crop breeding, and so on\).
+1.4.9.3.2. Con: In some cases, it is because of what people think and believe that science is driven forward.
+1.4.9.3.2.1. Pro: The science of the United States' 'space race' in the 1960's was driven by popular opinion and political incentives.
+1.4.9.3.2.1.1. Con: All hypotheses are prioritised by grant money. When effectively unlimited grants are given the community will rally around that science. Politics may help which gets chosen but not how science is performed
+1.4.9.4. Con: Science is not concerned with the selection of goals - only the analysis of existing facts, and the prediction of outcomes.
+1.4.9.4.1. Pro: Science can help establish the various options for achieving a particular goal, and predict their various strengths a weaknesses. However, the political aspects of this process are the choosing of a goal and a route to that goal. These choices are beyond the purview of science.
+1.4.9.4.2. Con: The 'existing facts' science analyses are generally chosen because of a goal selected by scientists - e.g. finding the cure for a disease, sending people to the moon, figuring out how to fly etc.
+1.4.9.4.3. Con: Even though a certain part of "basic research" exists, in which finding an application for the discovery is not among the project aims, most scientific projects are aimed at finding something with a clear purpose.
+1.4.9.4.3.1. Pro: According to [OECD](https://en.wikipedia.org/wiki/Funding_of_science), more than 60% of research and development in scientific and technical fields is carried out by industries, and 20% and 10% respectively by universities and government.
+1.4.9.5. Con: Science is limited to the discovery of truth and the creation of knowledge about the natural world. Hence, Science cannot deal with the "ought" question and therefore is not political in nature.
+1.4.9.6. Con: Generating suggestions about 'what ought to be' on the basis of 'what is' has been critiqued by Moore as the [naturalistic fallacy](https://en.m.wikipedia.org/wiki/Naturalistic_fallacy).
+1.4.9.7. Pro: A core objective of science is to make sense of the world around us, seeking consistent facts and patterns, often expressed mathematically. Sometimes what is established has societal implications. Views differ as to whose responsibility it is to ensure that society benefits. Since most science is publicly funded, it is arguably an obligation for the science community to ensure the effective use of the knowledge and understanding it creates, despite this being a political process outside science.
+1.4.9.8. Con: Some parts of science have more politics than others, specifically those fields which include schools of thought as opposed to binary, this-or-that answers.
+1.4.9.8.1. Pro: Economics uses statistics, which by themselves may be accurate, but when grouped together in certain ways, support different ideological approaches.  As a result, we get respected economists with completely different answers to the same question which makes it ripe for politicization.
+1.4.9.8.2. Pro: To suggest that hard sciences, such as physics, which includes schools of thought, are political, is untenable. Newton’s laws, gravity, or the Higgs boson are what they are and cannot be politically influenced. In contrast, for sciences such as sociology, which also includes schools of thought, politically motivated research cannot be brushed away as easily.
+1.4.9.8.2.1. Con: The Higgs Boson is a model in our heads we are using to describe something we think might 'exist'. A model created by human organizations, who have to eat, and be paid, and care about their futures. Everything about the Higgs Boson was created by messy human reality. The thing that the Higgs Boson, the Model, is attempting to describe. How can we really know what it is?
+1.4.9.8.3. Con: Parts of science may evoke political positions, but this does not necessarily mean that science is itself political
+1.4.9.9. Pro: Only when \(subjective/moral\) axiomatic values and their relative importance/integration are given, science dictates what should be done. Only to the extent that those values are obvious is science itself political.
+1.4.9.10. Pro: Most scientific grants are paid out of interest on the conclusions the scientist\(s\) make from the study. While science is not political itself, its sustaining mechanism cannot bypass economical interest, which can be tightly bound to political interest.
+1.5. Pro: Science is based on a model of reality - a belief system or theology - that is based on rationalism or reason. Therefore, science is political because, in the first instance, it is a theology.
+1.5.1. Pro: In a secular society, religious ideas and concepts are often secularized, transitioning into law, social constructs, and prevailing political thought. Science, in society, is controlled by the politics of that society.
+1.5.1.1. Con: Religious ideas and concepts are arguably equally the product of law, social constructs, and prevailing political thought.
+1.5.2. Pro: As Carl Schmitt says, "all significant concepts of the modern theory of the state are secularized theological concepts..." \([Schmitt, 2005](https://pdflibrary.files.wordpress.com/2008/02/schmitt_polittheology.pdf)\)
+1.5.3. Con: Science is the study of physical reality. Theology is the study of God. Therefore the above claim can only be true if it is asserted by a pantheist.
+1.6. Con: The topics which science studies often have political overlap or ramifications, e.g. neuroscience, behavioral science, and the justice system. The overlap causes science to be perceived as political.
+1.6.1. Pro: Galileo's endeavors might have been intended scientifically but necessarily conflicted with Church politics; eventually leading to a change in politics.
+1.6.2. Pro: Political sciences are more likely to be political because the studied context involved the analysis of politics.
+1.6.2.1. Con: "Political science" is "political" in a narrow and different sense that is claimed in "science is political"
+1.6.2.2. Pro: Political science is a part of science. Political science is political. Therefore at least a part of science is political.
+1.6.2.2.1. Pro: Political expert-groups have gained more control over politics at the cost of voters. This is called technocracy.
+ [en.wikipedia.org](https://en.wikipedia.org/wiki/Technocracy)
+1.6.3. Pro: The scientific pursuit of genetic cloning is political.
+1.6.3.1. Con: Genetic cloning, of itself, is not political; but those staunchly opposed to the science of cloning make it political. By itself, cloning is just another way to make babies.
+1.7. Pro: Human involvement makes science political.
+1.7.1. Pro: Politicians have made science political.
+1.7.1.1. Con: How people use science does not change what science itself is.
+1.7.1.2. Pro: Many political positions need to be supported by scientific facts in order to be to be viable.
+1.7.1.3. Pro: It has recently been reported that the Justice Department of the United States appears to have [manipulated a dataset](https://theintercept.com/2018/01/16/trump-administration-skews-terror-data-to-justify-anti-muslim-travel-ban/)  in order to produce findings in alignment with the Trump Administration's immigration policy.
+1.7.1.4. Pro: Selected scientific studies can be used by politicians to push their own agenda. This is possible because studies in isolation and without context can easily provide a biased view.
+Scientists may not be political, but science itself certainly is.
+1.7.1.5. Pro: The topics investigated, the results that are allowed to be published, and the stories told about science in the press can be used \(often unethically\) by those with political aims.
+1.7.1.6. Con: The fact that politics interfere with the pursuit of science isn't a problem of the scientific method, but one of political tactics. Political entities limiting the expansion of knowledge is detrimental.
+1.7.1.7. Pro: Politicians reject or embrace scientific findings to support their stance, e.g., whether or not they accept the idea of climate change/global warming.
+1.7.1.8. Pro: Tyranny is the deliberate removal of nuance. Politicians are often driven by special interests and have the means to influence scientific inquiry and discovery, thereby suppressing nuance in favor of monetary gain. Therefor, science at the moment is politicized though real discovery is also present.
+1.7.1.9. Pro: Science makes political choices legitimate. Whether true or not, scientific claims will be used to convince society of the need for certain policies.
+1.7.1.9.1. Pro: Science produces the required knowledge on which all policies are based. Science is thus intrinsically Political in that it is the most objective way to acquire knowledge about reality.
+1.7.1.10. Pro: Scientists can certainly be influenced by politics and politicians.
+1.7.1.10.1. Con: Scientific facts have nothing to do with politics. For example, the force of gravity near the Earth's surface is 9.8 Newtons per kilogram.
+1.7.1.11. Pro: Scientists take political stances in relation to their work in response to politicians' rejection/acceptance of scientific findings.[en.wikipedia.org](https://en.wikipedia.org/wiki/March_for_Science)
+1.7.1.11.1. Con: Standing by conclusions accurately drawn from data is not a political act.
+1.7.1.12. Con: Science is not bound by or committed to any political party. [psychologytoday.com](https://www.psychologytoday.com/blog/mental-mishaps/201703/science-is-not-political)
+1.7.1.12.1. Con: Science seeks to describe the way the world works without challenging it, it has a bias towards status quo and thus conservatism.
+1.7.1.12.2. Con: Many political parties brand themselves as creating 'evidence-based policies' whereby they co-opt scientific notions of empiricism and fact to try and distance themselves from ideology and value judgements. Those parties are typically of the left, or the center.
+1.7.1.12.3. Con: Scientific discovery and achievement are driven by political thought, political events, and political funding. When president Kennedy announced the moon mission, that was politics generating discovery.
+1.7.1.12.4. Con: Whether science identifies with a specific party is irrelevant to the question at hand. Science deals with topics, ideas, and actions that have political consequences as does all of life. Because it deals with issues that are political, directly and/or indirectly, science falls under the purview of politics.
+1.7.1.12.4.1. Con: Not all science deals with topics, ideas, or actions that have political consequences.
+1.7.1.12.5. Con: Political does not only mean committed to a political party. If you skew data, which you often have to do to process it, in a way that supports a political view of yours, regardless of whether it's consciously or not, you have made it political.
+1.7.1.13. Con: Scientists who seek funding from politicians made science political. If scientists didn't pander to political interests, science wouldn't be influenced by politics.
+1.7.1.14. Con: Even when scientific advance is sponsored by a political entity, ultimately it becomes a tool or understanding that is useful to everyone.
+1.7.2. Pro: Activist groups indirectly associate science with politics, regardless of its original purpose \(e.g. march for science\)[en.wikipedia.org](https://en.wikipedia.org/wiki/March_for_Science)
+1.7.2.1. Con: Being indirectly associated with something is not the same as being something.
+1.7.2.2. Pro: The very frame of 'science' as an emblem of rationality and truth is often deployed as a political tactic or frame to  attack political figures who are seen acting irrationality or ignoring reality.
+1.7.2.3. Con: Other interests groups may 'make' science political, but this does not mean that science in and of itelf is political.
+1.7.2.3.1. Pro: -> See 1.7.1.
+1.7.2.3.2. Con: While science itself is an act of enquiry, the way in which that act is performed filters through the beliefs and biases of the people who perform it. Any act — if performed with a certain motivation — can be political in the same way an act in any field can be courageous, deceitful, or self-serving.
+1.7.3. Con: No matter how people feel about scientific facts or what they think ought to be done with them, facts cannot be changed to suit our feelings or our aims.
+1.7.3.1. Con: Facts can be derived to suit feelings or aims. Charles Murray and Richard Herrnstein's infamous book [The Bell Curve](https://blogs.scientificamerican.com/voices/the-real-problem-with-charles-murray-and-the-bell-curve/) offers as fact a description of racial difference in terms of IQ.
+1.7.3.1.1. Con: This was an erroneous attempt at deriving causation from correlation.
+1.7.3.2. Con: Physicists are amused with the "softness" of chemistry, chemists are baffled by the high deviations observed in cellular biology and they are concerned about the number of assumptions that physiologist make. That is because the more number of variables, the less stringent the result. Most scientists agree that if they want to get biased results, they would, and only other scientists will be able to tell.  You can see this in the [number of publication withdrawals](http://retractionwatch.com/).
+1.7.3.3. Con: If we take "facts" to be our way of phrasing our understanding of "the truth," then it is possible for "facts" to change.
+1.7.3.3.1. Pro: -> See 1.6.1.
+1.7.3.4. Pro: Often what are being treated as facts and used to guide our collective "feelings or aims" are not facts but scientific theories. Therein lies one avenue for politicization of science.
+1.7.3.5. Con: Perceptions and aims affect facts in the sense that facts are "distilled" through somebody's experience of the world.
+1.7.3.5.1. Con: Quantitiative findings are relatively easy to replicate by other scientists.
+1.7.3.5.1.1. Pro: Many databases, such as the [Correlates of War Dataset](http://www.correlatesofwar.org/data-sets) or the [World Value Survey](http://www.worldvaluessurvey.org/wvs.jsp), are publicly accessible.
+1.7.3.5.1.2. Con: Scientific experiments are rarely [replicated](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970).
+1.7.3.5.1.2.1. Pro: Replication is rare in scientific publications.
+1.7.3.5.1.2.1.1. Pro: Only [1.6%](http://journals.sagepub.com/doi/abs/10.1177/1745691612460688) of psychological publications use the term 'replication'.
+1.7.3.5.1.2.1.2. Con: Replications can take place when students try to learn methods an author used.
+1.7.3.5.1.2.2. Pro: -> See 1.7.3.5.1.2.1.1.
+1.7.3.5.1.2.3. Con: Not all scientists view the failure to replicate findings as an indication that those findings are incorrect. [nature.com](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
+1.7.3.5.1.2.4. Pro: The need to publish new, innovative research in order to secure funding or obtain tenure may undermine the stated value placed on replicability in scientific communities.
+1.7.3.5.1.2.5. Con: Quite a lot of scientific research gets done that never gets written about or published. Thus, it could be the case that scientists do replicate experiments but do not write about or publish their results.
+1.7.3.5.1.2.5.1. Pro: There is a category distinction between the practice of replication experiments and the practice of writing about and publishing them.
+1.7.3.5.1.3. Con: Exact replication of results is difficult but studies which attempt to reproduce the general findings of a study are feasible. However, journals, funding agencies, promotion committees and professional societies do not reward replication studies. The framework of science would be improved if these activities were supported and rewarded.
+1.7.3.6. Pro: -> See 1.7.1.10.1.
+1.7.3.7. Con: Facts could be construed as fluid. What may be a "fact" today is not necessarily going to be a fact tomorrow.
+1.7.3.7.1. Pro: As discovery adds to the body of scientific knowledge, our factual understanding improves, and old facts are superseded and discarded.
+1.7.3.8. Pro: Quantitative results cannot be influenced by political orientation.
+1.7.3.8.1. Con: The design of studies can be influenced by the scientist, such as a [survey bias](http://fluidsurveys.com/university/how-to-avoid-nonresponse-error/).
+1.7.3.8.1.1. Con: Surveys constitute one kind of scientific experiment. There are many other kinds of studies where bias is less influential.
+1.7.3.8.2. Con: The tools and methods we use to answer scientific questions filter through the person using them. [forbes.com](https://www.forbes.com/sites/emilywillingham/2017/02/05/the-march-for-science-in-washington-is-political-whether-you-like-it-or-not/#2df165fe5b7f)
+1.7.3.8.2.1. Con: Processes of peer-review and consensus building are deliberately designed to remove any form of bias — such as political values — that cause those answers to be skewed away from empericism.
+1.7.3.8.2.2. Con: This claim entails that anything people do or mediate is ipso facto "political"
+1.7.3.8.2.2.1. Con: Certain schools of discourse analysis, such as the [Essex School](https://en.wikipedia.org/wiki/Essex_School_of_discourse_analysis), might claim that, in fact, acting in the world is ipso facto political.
+1.7.3.8.2.3. Con: Acting in the world is not necessarily ipso facto 'political'
+1.7.3.8.2.4. Pro: Methodological decisions in science always involve human values that cannot themselves be evaluated, and are typically not articulated
+1.7.3.8.2.4.1. Con: Deep Learning Computational Neural Networks show that humanity is not a necessary element of practicing science.
+1.7.3.8.2.5. Con: Being political is different from the concept of human agency, as not all human agency is explicitly associated with a political agenda.
+1.7.3.8.2.5.1. Con: All communication is political/persuasive; even simple things like ordering food. The buyer persuades people they don't know to make you something \(a meal\) in exchange for a piece of paper \(money\) which, in turn, someone else persuaded the maker to have full faith and credit in.
+1.7.3.8.3. Con: Quantitative results can be interpreted to align with scientists personal or professional interests. [en.wikipedia.org](https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics)
+1.7.3.8.4. Con: Quantitative results in the soft sciences are more vulnerable to political orientation than quantitative results in the hard sciences are.
+1.7.3.8.5. Con: Most of the time in quantitative work the issue is not the measure but rather the significance, which is where scientists compare condition data with a control group and assess whether there is a statistically significant difference between both. [There is no convention on how to do this properly in most fields](http://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), and it is where scientists are more likely to bias results to their personal belief.
+1.7.3.8.6. Pro: It is true that quantitative results cannot be influenced when/if scientists use gold standard research techniques.
+1.7.3.8.6.1. Con: Most scientists do not use gold standard quantitative research techniques.
+1.7.3.8.6.2. Con: Quantitative results are politically influenced by the questions they answer; the research techniques used to arrive at the results are less relevant.
+1.7.3.8.7. Con: Methods bias is a known issue in the social sciences. [annualreviews.org](http://www.annualreviews.org/doi/abs/10.1146/annurev-psych-120710-100452)
+1.7.3.8.8. Con: Some results are subtle and understanding of those results can be influenced by the focus of education, which has a curriculum that is in turn set by politics.
+1.7.3.8.9. Con: What is looked for and, thus, gleaned will be reliant on observers, who tend to be people, who tend to be notoriously political.
+1.7.3.8.10. Con: Are Opioids an excellent remedy for chronic pain? The mercurial rise in Opioid prescriptions in the past few decades was based on "viable scientific research." Not only has this been recently disproved, it was discovered that the widely-accepted scientific facts supporting this phony idea were manipulated in an effort to generate more profits for drug companies.
+1.7.3.8.11. Pro: -> See 1.7.3.5.1.
+1.7.3.9. Con: Framing scientific research questions in certain ways can influence the production of scientific facts.
+1.7.3.10. Pro: Politics operates in the scientific community as it does in any human community. However, scientific findings -- the observations and established state of understanding that emerges from facts -- stand independent of politics.
+1.7.3.10.1. Pro: Hold-ups caused by the above condition are temporary, because the new scientific findings and understandings will always work their way through.
+1.7.4. Pro: -> See 1.7.1.13.
+1.7.5. Pro: The history of science shows that scientists have their own biases.
+1.7.5.1. Pro: [Feminist studies of science](https://plato.stanford.edu/entries/feminist-science/) have revealed numerous biases in the sciences \(e.g. in the topics they choose to study or not, the diversity of the scientists who study those topics, and so forth\).
+1.7.5.1.1. Pro: The institutions of science have a history of excluding women and other underrepresented groups as practitioners, which is one reason why there are many contemporary efforts to recruit more people from these groups into scientific research fields.
+1.7.5.1.2. Pro: In science, women and gender \(as topics\) have been treated in ways that reproduce gender normative stereotypes.[plato.stanford.edu](https://plato.stanford.edu/entries/feminist-science/)
+1.7.5.2. Pro: -> See 1.7.3.8.2.
+1.7.5.3. Con: The politics of being a scientist is not the same as some inherently political property of the scientific method.
+1.7.5.4. Pro: Science can be said to be inescapably "political" insofar as carrying some assumptions means not carrying other assumptions, and adopting any assumption will validate a particular viewpoint over other possible viewpoints.
+1.7.5.4.1. Pro: All scientific investigations of the world must inevitably begin with assumptions, if only assumptions about what is worth investigating and how it is to be investigated. This requires a decision or judgement prior to the possibility of any research occuring.
+1.7.5.4.1.1. Pro: One such assumption is our model of science as we understand it, which is a cultural concept. The focus on repeatability makes it powerful in terms of predictions about the material world but it remains a model of thought, to which other models may not subscribe.
+1.7.5.4.1.1.1. Pro: Kialo, for example, subscribes to Enlightenment philosophies of rational thought and explicit discussion which are not as valued in other cultures.
+1.7.5.5. Pro: As objective as a scientific research may seem, its methodology is inherently subjective as it was thought by an individual who has moral biases. Those moral biases, shaping individual thought, thus a work's methodology, also prove to be asserting a certain political ideology.
+1.7.5.6. Con: The concept of scientific consensus has been designed to mitigate the influence/use of personal bias in scientific practice
+1.7.5.7. Pro: What is considered to be plausible and worth of research often confirms to societal expectations and biases, such as how racist inclinations [spurred much research into eugenics](https://www.nature.com/scitable/forums/genetics-generation/america-s-hidden-history-the-eugenics-movement-123919444) and which took a long time to refute.
+1.7.5.8. Pro: Scientists have found that humans are inherently biased and are mostly unable to notice or accurately estimate the the extend to which they are biased.
+
+[creativity, problem solving and creative solutions rely in part on external information](https://www.amazon.com/Runaway-Species-human-creativity-remakes/dp/1936787520), since scientists are humans, scientists are prone to political and other biases. This can influence the work of scientists and with that the resulting work and publications.
+
+[amazon.com](https://www.amazon.com/Incognito-Secret-Lives-David-Eagleman/dp/0307389928)
+1.7.5.9. Pro: -> See 1.7.3.8.2.4.
+1.7.5.10. Pro: Science cannot be separated from the political because like all things that are observed and documented by humans, they are subjective.
+1.7.5.10.1. Con: Scientists minimize this subjectivity by amassing quantitative data.
+1.7.5.10.1.1. Con: Subjects have biases, and those biases can inform/influence scientific practice. For example, the history of breast cancer research is fraught with politics informing the scientific method: \([wikipedia](https://en.wikipedia.org/wiki/Breast_cancer#History)\).
+1.7.5.11. Con: Scientists are indeed not completely above bias. However, this does not mean that scientists can't try to evade these pit-falls.
+1.7.5.11.1. Pro: One way scientists try to avoid the pitfalls of bias is through the continued evaluation and assessment of research even after it has been published. Academics at the University of Groningen recently succeeded in securing a retraction of publications based on [questionable research](http://retractionwatch.com/2017/11/28/hundreds-hours-work-vindicated-critic-food-researcher-reacts-new-retraction/) conducted at Cornell University.
+1.7.5.11.2. Pro: -> See 1.7.3.8.2.1.
+1.7.5.12. Pro: Postmodern theorists argue that science is entangled with issues of gender, class, race, and so forth \([Science Wars](https://en.wikipedia.org/wiki/Science_wars#Postmodernism)\).
+1.7.5.12.1. Con: Postmodernism is a politically motivated ideology that in academic circles has a political influence on/of the work and studies of its proponents \(see: [Sokal hoax](https://en.wikipedia.org/wiki/Sokal_affair)\)
+1.7.5.12.1.1. Con: The politics of a particular school of thought do not disqualify its arguments. Hence, while it is reasonable to characterize postmodernism as political, it does not make sense to imply that, because of its politics, its arguments about science are wholly invalid.
+1.7.5.12.2. Con: In their book, [Higher Superstitions](https://en.wikipedia.org/wiki/Higher_Superstition), Gross and Levitt critique postmodernist perspectives on science for being based on a lack of understanding of science and scientific practice.
+1.7.5.12.2.1. Pro: It’s not just the lack of understanding of science which Gross and Levitt critique. They oppose the ideology which claims facts are political constructs and that science supports oppression and reinforces power structures. But science is not there to oppose injustice. The power is science is the scientific method as way to pursue truths about the world. It’s practitioners are diverse. It doesn’t matter. They come from all cultures and beliefs but they leave to one side when they do science.
+1.7.5.13. Pro: As Kuhn suggests in his classic text, "[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)" \(1962\), Scientific inquiries should involve external factors, such as social, political and cultural influences in the development of scientific paradigm.
+1.7.5.13.1. Con: Political considerations do determine what science can be done within a society, but this does not mean that the conclusions that an objective study comes to are politically motivated. An objective truth properly tested will be found to be true no matter how much the host society wants it to be false.
+1.7.5.13.2. Pro: This statement also entails "science is social" and "science is cultural"
+1.7.5.14. Pro: The aspects of mind which engender us towards political acts precede our ability to reason scientifically in a developmental sense.  Meaning all later acts are inherently political.
+1.7.5.14.1. Con: The development of our rational capabilities as we age can be sufficiently sophisticated to substantially counteract our initial tribal and emotional cognitive biases.  Essentially, allowing us to think in a way that is approximately universal that transcends tribal and political lines.
+1.7.5.14.1.1. Con: It is likely that all humans have emotional and conditioned cognitive biases developed simply through their language.  For instance, English speakers have a word for time. Many indigenous languages have no word for time, and don't see time as a separate entity, but rather a piece of the fabric of space.  All indications are that language itself radically shapes our ability to think.
+1.7.5.14.1.1.1. Con: The purpose of science is to find these biases, and address and correct them. For instance in our current best scientific understanding of time, it is a simple a piece of the fabric of space.
+1.7.5.14.2. Con: Science as a system is built specifically to address and limit these concerns. That can not be said about any other activity. If science is to be considered a political act because it is done by humans, it should be considered the least political act possible.
+1.7.5.14.2.1. Pro: Science has been designed to control known and unknown human biases in order to achieve objective outcomes.
+1.7.5.15. Pro: Political pressures within physics prevented/impeded questioning of the Copenhagen Interpretation of quantum mechanics for many decades" \([Becker, 2018](http://a.co/0sa4YyF)\)
+1.7.5.16. Pro: While scientists strive to avoid having an agenda and politics, parts of science are controversial and ethically/morally questionable which leads to the need for politics, such as questions of prohibition.
+1.7.5.16.1. Pro: Some medical doctors oppose abortion on moral or religious grounds. [prolifephysicians.org](http://prolifephysicians.org/app/?page_id=2)
+1.7.5.16.2. Pro: Ignoring or superficially considering the moral aspects of science [can result in great harm to others](https://www.cdc.gov/tuskegee/timeline.htm).
+1.7.5.16.3. Con: Science and politics may interact, but this does not mean that science is political.
+1.7.5.16.4. Con: While society does determine which scientific studies it will tolerate this is different from individual scientific studies being politically biased in result. As a comparison law is almost always politically motivated, but the individual actions of a lawyer or police officer need not be.
+1.7.5.17. Pro: Staking a claim to any intellectual framework is a political act. [forbes.com](https://www.forbes.com/sites/emilywillingham/2017/02/05/the-march-for-science-in-washington-is-political-whether-you-like-it-or-not/#2df165fe5b7f)
+1.7.5.17.1. Con: If any critical intellectual act is "political" then the discussion is not about science, but about thinking.
+1.7.5.17.2. Con: -> See 1.7.5.14.1.
+1.7.5.17.3. Con: Science is not a framework, it is a process.
+1.7.5.17.4. Pro: The Scientific Method is not, in itself, political. It is simply a mechanism for discovery. Humans are political creatures. Humans perform scientific experiments, therefore science is motivated by politics and the political establishment.
+1.7.5.18. Pro: Any description of reality, including science, makes use of language and implicit assumptions, and is directed towards particular areas that are of interest to people. All of these are guided and subtly influenced by the social and political conditions that we are raised within.
+1.7.5.19. Con: "Pure" science would not be political. It is scientists -- currently a necessary part of the process -- that have biases, not the process of science itself.
+1.7.5.19.1. Con: "Pure science" is a counterfactual concept, so therefore has no bearing on whether science is political in fact.
+1.7.5.19.2. Con: The process of science has been designed and developed by scientists. Hence, it seems somewhat unavoidable that the process -- regardless of its aspirations toward purity -- would have built in biases.
+1.7.5.19.2.1. Con: The process of science and peer review could, in theory, be carried out by AI without the same human biases.
+1.7.5.19.2.1.1. Con: All tech companies have [political biases](https://www.wired.com/2016/05/course-facebook-biased-thats-tech-works-today/) that are perpetuated in their algorithms.
+1.7.5.19.2.1.1.1. Con: Computational Neural Networks find the most efficient way to accomplish a task beyond the scope of human understanding, and would not fall prey to human error.
+1.7.5.19.2.1.1.2. Pro: It is a common misperception that algorithms are somehow rational. In reality, they can best be understood as [sets of rules determined by humans](https://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html) - and since humans are irrational and biased, they often reproduce these biases when writing code.
+1.7.5.19.2.1.1.2.1. Pro: For instance, if programmers are liberals in US politics, they might be inclined to classify liberal media as credible sources, while not doing so for sources like Breitbart or Fox News. If they write an algorithm that is meant to show users more credible news sources, such an algorithm would perpetuate a pro-liberal and anti-conservative bias in their timelines.
+1.7.5.19.2.1.1.3. Con: Algorithms are mere mathematical functions and therewith not biased in themselves.
+1.7.5.19.2.1.1.4. Pro: If the information used to [calibrate an algorithm](https://www.technologyreview.com/s/601775/why-we-should-expect-algorithms-to-be-biased/) is [biased](https://webcache.googleusercontent.com/search?q=cache:kH-P9xGy6LoJ:https://www.bloomberg.com/professional/blog/artificial-intelligence-sea-dudes-problem/+&cd=1&hl=en&ct=clnk&gl=us), this bias is reproduced in the algorithm.
+1.7.5.19.3. Pro: -> See 1.4.8.
+1.7.5.19.4. Pro: Science has been defined as the pursuit of truth, even though it can be used to achieve political benefits.
+1.7.5.19.4.1. Pro: In the natural sciences, the truth could be characterized as a description of the behavior of natural events.
+1.7.5.19.4.1.1. Con: Characterizing truth as one thing or another is done by subjective entities.
+1.7.5.19.4.2. Con: Truth is not necessarily an apolitical concept. The pursuit of truth could itself be seen as a political act as described in[Focault's regimes of truth](http://www.powercube.net/other-forms-of-power/foucault-power-is-everywhere/).
+1.7.5.19.4.2.1. Con: The pursuit of truth might be an excercise of power and social structure but its political orientation is neutral.
+1.7.5.19.4.2.2. Con: Digital political discourse mechanisms favor challenges to the status quo. As such Focault's regimes of truth may not hold the same power as they did before the internet.
+1.7.5.19.4.2.2.1. Pro: Polarizing posts and attitudes are disproportionally represented.
+1.7.5.19.4.2.2.1.1. Pro: Facebook rewards polarizing ad buying. In the [Trump campaign](https://www.theverge.com/2017/10/11/16449976/facebook-political-ads-trump-russia-election-news-feed), for example, the current president was able to reach a wider audience at lower cost because the ads were more polarizing.
+1.7.5.19.4.2.2.2. Pro: Because of echochambers there is not one but many regimes of truth.
+1.7.5.19.4.2.3. Pro: Donald Trump's 'fake news' and 'alternative facts' rhetoric illustrates that respect for 'truth' and its pursuit is not universal.
+1.7.5.19.4.3. Con: Science has been defined in other ways. Steven Gilbert defined Science "as a process of constructing predictive conceptual models. This definition unites both the processes and product of science..." JRST, VOL. 28, NO. 1.
+1.7.5.19.4.4. Pro: -> See 1.7.3.
+1.7.5.20. Pro: It is true that some influential scientists can hold back developments in their field because of personal bias or some other reason.
+1.7.5.20.1. Con: -> See 1.7.3.10.1.
+1.7.6. Pro: The absence of a clear definition of the term "science" points to its anthropocentric nature and origins as a discipline, and, therefore, can only be examined within a political context.
+1.7.6.1. Con: Of the variety of competing definitions of science, many are simply not anthropocentric.
+1.7.6.1.1. Pro: Numerous approaches to environmental research are analysed under non-anthropocentric [frameworks.](https://www.tandfonline.com/doi/abs/10.1080/14767430.2016.1265878)
+1.7.6.2. Pro: Science has been defined as \(1\) knowledge as distinguished from ignorance or misunderstanding, \(2\) a department of systematized knowledge as an object of study, \(3\) knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method, and \(4\) a system or method reconciling practical ends with scientific laws \([merriam-webster.com](https://www.merriam-webster.com/dictionary/science)\).
+1.7.6.3. Con: Examining science origin through its political context is only one out of many approaches.
+1.7.6.3.1. Pro: Science can be examined in other contexts besides a political one \(e.g. philosophical or historical\)
+1.7.6.4. Con: The connection between the claimed anthropocentric nature of science and its various definitions is not made; it points to the fact that people have used the term 'science' in different contexts through time.
+1.7.6.5. Con: -> See 1.7.6.3.1.
+1.7.7. Pro: Academic and industrial contexts expose scientific research to political influences.
+1.7.7.1. Con: Political influence and incentives can influence scientific practice and the academic environment. The influence goes both ways.
+1.7.7.2. Pro: Scientists may be biased in favor of results that enable the continuation of their own research \(e.g. additional funding/resources, public interest, more publications, etc.\).
+1.7.7.2.1. Pro: -> See 1.7.1.13.
+1.7.7.3. Con: Political influence is not only limited to academic settings. For example, museum donors with direct ties to the fossil fuel industry have shaped the way museums explain and describe global warming in ways that have been called "scientifically questionable."[alternet.org](https://www.alternet.org/environment/appalling-war-science-now-includes-war-science-museums)
+1.7.7.3.1. Pro: It has been suggested that museums have intentionally portrayed the science of global warming inaccurately to avoid controversy with donors. [alternet.org](https://www.alternet.org/environment/appalling-war-science-now-includes-war-science-museums)
+1.7.7.4. Pro: It has been argued that scientists and academics select for conservatism so as to avoid drawing "undue" attention to themselves. Hence, personal and professional interests and scientific practices are inextricably linked. [guymcpherson.com](https://guymcpherson.com/climate-chaos/climate-change-summary-and-update/)
+1.7.7.5. Pro: It has been argued that industry interests have biased medical-scientific knowledge production about certain pharmaceuticals. [jstor.org](http://www.jstor.org/stable/42855454?casa_token=GEfD_WKT0PEAAAAA:-NfaCipjAtNmlvrAW0i8etee6eqnIHYD2l3HKiUNN4567G42yorrY4ee2W0pJ7w633EsuexcvWsbDZNf1OTVj0BeT8HtmaCJwi2GcPLcWZZvBh0o6e7e&seq=1#page_scan_tab_contents)
+1.7.7.6. Pro: Science tends to benefit certain groups more than others.[bmartin.cc](http://www.bmartin.cc/pubs/79bias/pp1-8.pdf)
+1.7.7.7. Pro: Doing scientific work requires resources and money.  The bias doesn't not have to appear in the research itself, but rather it appears in what is selected to research.
+1.7.7.7.1. Pro: Science is most often funded by government or institutional grants and the decision on what to fund, or more importantly what not to fund, is politically or commercially motivated. Therefore science is politically influenced.
+1.7.7.7.1.1. Pro: Research that supports certain political agendas has the potential to secure more funding than research that does not. For example, the National Science Foundation \(NSF\) designates millions of dollars for certain scientific domains and not others.
+1.7.7.8. Pro: While the scientific method assures bias is minimized in individual studies, lines of inquiry may be and indeed often are biased toward a particular field’s preconceptions. This can of course include political leanings.
+1.7.7.8.1. Pro: The choice of which studies to publish influences lines of inquery. [Publication bias lecture](https://www.youtube.com/watch?v=BenytbfaMMI)
+1.7.7.9. Pro: It has [been shown that some scientists manipulate their studies and results](http://retractionwatch.com/) in order to publish often and in prestigious venues.
+1.7.7.9.1. Con: How people use science in a political context does not change what science is: conclusions drawn from available data.
+1.7.7.9.2. Con: An individual scientist may have biases, but science itself is unbiased, and cherrypicking or falsifying evidence is anti-science.
+1.7.7.10. Pro: New ideas and research are often hidden and encrypted to make sure that they are not stolen. Human nature drives people's pride to go after fame- even in the scientific community. [The race to discover the structure of DNA is one example.](http://www.pbs.org/wgbh/aso/databank/entries/do53dn.html)
+1.7.7.11. Con: Mining, for example, creates political influences and incentives. If that does not lead you to call mining  political, then it should not do the same for science.
+1.7.7.11.1. Con: Mining and science are not necessarily the same kind of thing. Hence, mining may not be political whereas science is political. [category mistake](https://en.wikipedia.org/wiki/Category_mistake)
+1.7.7.12. Pro: Scientists must to some extent subordinate their individual wills and interests to that of their respective intellectual communities.
+1.7.7.13. Pro: Science must be regulated for ethical practices by a regulatory body, which is inherently political.
+1.7.7.14. Pro: Science is a relationship of cutting edge \(sometimes fringe\) ideas and the rigidly composed mainstream.
+1.7.7.14.1. Pro: Science is political when it comes to its mainstream putting the better half in place
+1.7.7.14.2. Pro: Science challenges the status quo as it steadily pushes the envelope of knowledge forward. As a result, some established institutions will inevitably feel threatened and push back.
+1.7.7.14.2.1. Pro: Just as was done with Galileo's observations in the 1600's, those who want the status quo to continue will use any means at their disposal \(financial, political, propaganda\) to discredit science \(and academia\) in an effort to preserve those threatened religious beliefs and/or corporate interests.
+1.7.7.14.2.1.1. Con: Their rejecting of facts is the political aspect, Jupiter having moons is not political because it is a fact of nature  over whose accuracy we have no control.
+1.7.7.14.2.2. Con: This argument does nothing to address the top claim that science is political
+
+Say there are 10 people who need to survive off of 1 barrel of water. Measuring the amount of water in the barrel is science, deciding how best to split it up or ration it is political.
+
+This claim does not state anything different
+1.7.7.14.2.3. Con: Science can be used both to confirm and challenge the status quo.
+1.7.7.15. Pro: The creation and distribution of capital is political and that directs the focus of most scientific research.
+1.7.7.15.1. Pro: Science will always be an integral part of the public affairs \(social and/or political issues\) of a country, so science is inseparable from politics. This is largely due to the structure of Capitalism. Science and research require monetary support. This is nearly always done through the government or private sponsors. When through the government, politics dictate what is researched. When through sponsors, they will decide what direction science takes. Sponsors gain their wealth by social appeal.
+1.7.7.15.1.1. Pro: The single largest funder of scientific research in the US is the federal government \([undsci.berkeley.edu](https://undsci.berkeley.edu/article/who_pays)\), hence the public. In order to receive funding to conduct research, scientists must frame their research in political terms or the public good. Why should the public fund research on climate change? Why should the public fund basic biology research? To answer these questions, political values ranging from views on taxation and the common good to welfare and healthcare come into play.
+1.7.7.15.2. Pro: -> See 1.7.1.13.
+1.7.7.16. Pro: Dissemination in science \(e.g., peer-review publication\) is a socially mediated process that is influenced by the current political climate.
+1.7.7.16.1. Pro: A recent Facebook discussion in [a closed group of researchers](https://www.facebook.com/groups/834637469921428/permalink/1557512077633960/) about peer review includes the assertion that reviewers often apply subjective criteria when deciding to accept or reject a manuscript for publication.
+1.7.7.16.1.1. Pro: Another source of problems with scientific inquiry is [retractionwatch.com](https://retractionwatch.com/).  Misdeeds are often motivated by personal gain or reputation and not politics.
+1.7.7.16.2. Con: Scientists however make their names from paradigm-disrupting results. To the extent a political, or any other bias, shapes research towards preconceived results there is any equally powerful incentive to prove those results incorrect.
+1.7.7.17. Pro: Many areas of science depend on financial or other resources to make progress, and these resources are often controlled by political processes.
+1.7.7.17.1. Pro: Most scientific research is funded by governments and large corporations. There will always be conflicts of interest and the moral hazard of producing outcomes to ensure future funding.
+1.7.7.17.1.1. Pro: Studies have shown that some scientists are prone to [Funding Bias](https://en.m.wikipedia.org/wiki/Funding_bias), which ranges from minor oversight of results to intentional misrepresentation of findings
+1.7.7.17.1.1.1. Pro: It has been shown that studies funded by the soda industry tend to produce findings that are favorable to the soda industry. [nytimes.com](https://www.nytimes.com/2016/11/01/well/eat/studies-linked-to-soda-industry-mask-health-risks.html?_r=0) + [annals.org](http://annals.org/aim/article-abstract/2578450/do-sugar-sweetened-beverages-cause-obesity-diabetes-industry-manufacture-scientific)
+1.7.7.17.2. Pro: Scientific research is largely funded by federal grant money. While a scientist applying for funding may or may not be political, the person who makes funding decisions is political.
+1.7.7.17.3. Con: -> See 1.7.2.3.
+1.7.7.17.4. Con: Resources that have been framed as wielding political influence over science might also be influenced by scientific values.
+1.7.7.17.5. Pro: Even though many scientists aim to be unbiased and apolitical, a variety of political processes take place at various steps in the overall scientific process, e.g. creation of funding programs, proposal evaluations, hiring and promotions, publication reviews, science metrics, choice of citations, etc. These effect science in countless and complex ways. No scientist can completely avoid these processes.
+1.7.7.17.6. Pro: Most scientific research is publicly funded, which results in local politics defining the focus of research. It is not random, for instance, that health sciences are so predominant.
+1.7.7.17.7. Pro: Some government-funded research in Canada, for example, stipulates whether scientists are free to discuss their work with media outlets. [cbc.ca](http://www.cbc.ca/news/canada/nova-scotia/scientist-silencing-continues-for-federally-funded-research-1.2538273)
+1.7.7.18. Pro: Anyone can do science and disprove experts so Science is inherently anti-authoritarian.
+1.7.7.19. Pro: Participants in science are often rewarded for not compromising or even synthesizing
+1.7.7.20. Pro: Some social scientific disciplines simplify complex, social phenomena. By favoring certain forms of knowledge at the expense of social complexity, these social sciences can advocate positions that benefit some over others.
+1.7.7.21. Pro: It has been argued that in some fields, scientific findings may be accurate measures of prevailing biases. [journals.plos.org](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+1.7.7.22. Pro: Science is based on consensus of evidence. This means that while one scientific study may support the argument that A is true, another may show evidence saying A is false.
+1.7.7.23. Pro: Communications among scientists are often directed to and evaluated by relatively homogeneous in-groups
+1.7.7.24. Pro: Scientists want to develop influence and power within the scientific community, for example, by amassing citations of their work.
+1.7.7.25. Pro: The funding of scientific research is very often to prove or solve a desired outcome. Therefore, more scientific research happens where funding exists... funding is inherently political. [discovermagazine.com](http://discovermagazine.com/2007/oct/sciences-worst-enemy-private-funding)
+1.7.7.26. Pro: Scientists are human beings with egos and ambitions. They compete with each other for recognition, awards, research grants and promotions, e.g., professors and researchers in universities obtain tenure, promotion or awards if they have a good track record of publications in prestigious research journals. These are political activities.
+1.7.7.27. Con: Social scientists often actively police themselves to project a neutral stance to human participants. They do this for the comfort of their participants, but also to create a context where participants will feel free to honestly share their own perspectives.
+1.7.7.27.1. Con: It may not be possible to project a completely neutral stance. It may not even be clear what that would be.
+1.7.7.27.2. Con: Some critical social scientists make their subjective stance as researchers apparent to their participants and a key aspect of their scholarly contributions. See, for example, the work of [Dolores Delgado Bernal](http://www.sjsu.edu/people/marcos.pizarro/courses/215/s0/Using-a-Chicana-Feminist-Epistemology-in-Educational-Research.pdf).
+1.7.7.27.3. Pro: Scientific writing, at the technical level, seeks at all costs to eliminate the author from the work, specifically in its usage of the second person. The politics of science come from the interpretation of these results.
+1.7.7.27.4. Pro: The blind peer-review process makes sure that the focus of evaluation rests on the content rather than the author.
+1.7.7.27.4.1. Con: Studies have shown that single-blind peer review processes can favor prestigious authors over less prestigious ones. [jamanetwork.com](https://jamanetwork.com/journals/jama/article-abstract/2556112)
+1.7.7.27.4.2. Con: While double-blind review is generally acknowledged as the most effective approach to mitigate biases in the review process, scientists acknowledge that unconscious biases are both difficult to detect and influential in science. [nature.com](https://www.nature.com/articles/nchembio.1785.pdf?origin=ppub)
+1.7.7.28. Pro: Science is hypothesis driven. Scientists select a hypothesis to test before subsequently interrogating and refining the hypothesis.
+
+There are finite scientists with finite resources, meaning scientists must prioritise hypotheses to test.
+
+Which hypotheses do they prioritise? At times, the ones with the greatest political value. Therefore, popular hypotheses will often be tested at the expense of ones with less popular interest.
+1.7.7.29. Pro: The development of science can be held back for a time by politically powerful multinational corporations if they feel their business may be affected by the findings of scientists.
+1.7.7.30. Pro: Any time you try to divide up scarce resources, especially public resources, people will compete for these resources. This competition is politics.
+1.7.8. Pro: Scientific bias may not be intentional, but it exists.
+1.7.9. Pro: -> See 1.7.5.20.
+1.8. Pro: Some scientific discoveries and research programs have not only been influenced by political thought and political events but also found their raison d'être in politics.
+1.8.1. Pro: The space race was a scientific achievement generated by the politics of the era \([Kennedy's 1961 speech](https://history.nasa.gov/moondec.html)\). Moreover, the extraordinary cost of the science behind the space race was supplied by the political fabric.
+1.8.2. Con: Although scientific research programs can have political motivations \(e.g. rocket science\), these motivations do not bias particular scientific outcomes/results
+1.9. Pro: Some scientific paradigms are political.
+1.9.1. Pro: The Ptolemaic worldview is anthropocentric on the universal scale.
+1.9.2. Pro: The Copernican worldview argues the cosmological unimportance of humans.
+1.9.3. Pro: In the quantum world, causal antecedents are not the motor of physical phenomena, but in Newtonian physics "everything happens for a reason"
+1.9.4. Con: To claim that a scientific paradigm is political is to apply a political label, after the fact, to a scientific position that has been formed following objective consideration of facts and evidence.
+1.9.4.1. Pro: It was only through the research of scholars, like proponents of [critical theory](https://en.wikipedia.org/wiki/Critical_theory), that we learned that scientific paradigms do have political meaning.
+1.10. Con: -> See 1.7.5.19.4.

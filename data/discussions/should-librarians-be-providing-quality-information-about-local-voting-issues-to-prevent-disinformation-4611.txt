@@ -1,0 +1,71 @@
+Discussion Title: Should librarians be providing quality information about local voting issues to prevent disinformation?
+
+1. Should librarians be providing quality information about local voting issues to prevent disinformation?
+1.1. Pro: Many Libraries are already voting stations.
+1.1.1. Con: This is a reason why they should not act as information hubs. They must be perceived as being unbiased to ensure the integrity of the voting system.
+1.1.1.1. Con: Absolutely no polling location could be considered "unbiased", no matter if they provide information on voting or not. Suggested reading [gsb.stanford.edu](https://www.gsb.stanford.edu/insights/can-polling-location-influence-how-voters-vote)
+1.1.1.2. Con: "Integrity of the voting system" has many more faucets than poling location.
+1.1.2. Pro: This means that it would be quite easy to provide information to voters.
+1.2. Con: Is a dying profession that is being replaced by other information sources.
+1.2.1. Pro: E-books and internet databases are becoming more commonly used by the public.
+1.2.1.1. Con: E-books and internet databases aren't killing the library profession. On the contrary, libraries are driving these developments. Most online database retrievals are facilitated by a subscription purchased, at some level, by libraries. And the ebook market is [in decline](http://observer.com/2017/01/author-earnings-overdrive-amazon-kindle-overdrive-digital-book-world/) unless you factor in the earnings on circulation through Overdrive \(also facilitated by libraries\).
+1.2.1.2. Con: Much of the information online resides behind a paywall and so libraries represent access to that info for those who can't afford personal subscriptions \(or where personal subscriptions are not offered\).
+1.2.2. Con: The profession needs to change to remain relevant. This will enable the profession to remain relevant.
+1.2.3. Con: The Bureau of Labor Statistics projects [9% growth](https://www.bls.gov/ooh/education-training-and-library/librarians.htm) in the library profession over the next decade. It isn't a dying profession despite popular perceptions.
+1.2.4. Con: The 'dying' claim is usually associated with an image of print books as a dying medium. Beyond print books, libraries provide community space, teaching services, internet access, and curated collections designed to increase findability. These are benefits that the internet is not threatening to replace.
+1.2.5. Con: Regarding the future and relevance of print materials, much information is still in print-only, and even when the information is available online, [many people still prefer the print](http://www.pewinternet.org/2016/09/01/book-reading-2016/).
+1.2.5.1. Pro: [Some science](http://www.ore.org.pt/filesobservatorio/pdf/ReadingonPaperVsScreencomputerScreen.pdf) exists to justify that preference, suggesting that reading comprehension and reading speed are both stronger when using print versus digital.
+1.3. Pro: Librarians already work regularly with under informed populations. i.e. homeless, poor, [disadvantaged](https://www.theguardian.com/commentisfree/2017/oct/26/no-one-use-libraries-any-more-rubbish-sanctuaries--enrich-communities).
+1.3.1. Pro: It is particularly important to provide information to these groups so that they are able to participate in local elections.
+1.4. Pro: Maybe more representative of the community in views, demographics etc.
+1.4.1. Con: It is not clear that librarians do in fact represent a diverse range of views. Apart from living in different areas, it is possible that people who work as librarians are similar in many ways.
+1.4.1.1. Pro: Absolutely, I am sure the role of librarian attracts a certain personality type.
+1.4.1.2. Con: Even if they have similar personality traits that made them choose librarian as a profession, that doesn't mean they will all have the same political, economic, governance views.
+1.4.2. Pro: This is true in a regional sense compared to getting your information from the NYT when you live in nowhere Kansas. The information from your local librarian will have a higher chance of reflecting your communities views, needs, and ideals because they live there.
+1.5. Pro: They are trained to be information curators.
+1.5.1. Con: Librarians aren't trained in communication which is important to provide information to a wider public.
+1.5.1.1. Con: This may or may not be true, I can say by doing a quick search I saw alot of curriculum that used words like "media Delivery" and "enhance Information delivery"  [librarysciencedegree.org](https://librarysciencedegree.org/)
+1.5.1.1.1. Pro: Communication is a huge part of library training. Considering that public libraries offer services that are not socio-economically stratified, librarians have to be skilled in overcoming a variety of barriers in language, culture, and technological literacy.
+1.5.1.2. Pro: This would require new training to work with technology.
+1.5.1.2.1. Con: Librarians work with technology all the time - it is difficult to see how this will be a significant burden.
+1.5.1.2.1.1. Con: Training is needed. Liberians are constantly asked to do more. Take the State of Washington starting open data project that will require librarians be trained on how to use this information. [data-equity.org](http://data-equity.org/)
+1.5.2. Con: Local librarians help people find books on topics that they are interested in, not provide research distilling current issues.
+1.5.2.1. Con: Reference librarians are actually called on frequently to provide research assistance. Any library school graduate should be able to conduct a [reference interview](https://en.wikipedia.org/wiki/Reference_interview). Collection development librarians who are worth their salt also have to keep a finger on the pulse of current issues in order to purchase relevant and useful current non-fiction.
+1.5.3. Pro: Librarians are[highly](https://www.learnhowtobecome.org/librarian/) trained.
+1.6. Con: Could become a focal/flash point of competing sides. Think protests. Thus shifting the fundamental nature of libraries.
+1.6.1. Pro: This could be turned into hosted debates where debates and arguments are aired intellectually and fact checked.
+1.7. Con: Many libraries are under funded and this would add additional strain.
+1.7.1. Con: The government could invest more money into libraries to enable them to be used as this resource.
+1.8. Con: What is the definition of "quality Information" and should they be the ones to decide this?
+1.8.1. Pro: This a subjective concept.
+1.8.1.1. Con: Not necessarily. Quality information is a\) accurate in its content and conveyance, b\) salient in scope, c\) reliably sourced, and d\) presented without bias. Professional librarians are trained to deliver these goods through their collections as well as their reference interactions.
+1.8.1.1.1. Con: Libraries are indeed deeply involved with other municipal departments. As much as we would like it to be otherwise, libraries are usually in direct competition with public safety and schools for funding even though we are on the same team. Giving libraries any sort of official "leg-up" on information dissemination would alter the political landscape, giving the library more leverage over potential officials.
+1.8.1.1.2. Con: One could argue that because humans are involved; so too is their personal bias. Just because they are trained in being unbiased doesn't mean they will always be unbiased. Think about the conflict of interest brought up about funding.
+1.8.2. Con: The locations of polling places, the opening and closing of the polls, required forms of ID, and sample ballots are not up for debate. Either the information is correct or it is not. If providing the correct information is a function of a librarian's duties, then that person failing to do so is not so much deciding what is high quality or poor quality information, but failing in the appropriate discharge of their duties.
+1.8.2.1. Con: The quality of information matters greatly it is not as simple as true or false. Information can be half correct and come to incorrect or illogical conclusions, it can be marred by personal bias. The problem with the statement above is the word "Correct". Thus getting back to the original statement, are librarians responsible/trained/unbiased enough to provide quality information to inform voters.
+1.8.2.2. Con: Basic voting information \(times, locations, rules, etc.\) is not the issue. The "information" in question is more like what is the effect of a .08% tax raise in a small county and where will that money go to? How much does an average tax payer pay currently in that small community. Basically information to help one understand the proposals on the voting ballot that are otherwise very difficult for a busy voter to find.
+1.9. Pro: Librarians are dedicated to informing the public
+1.9.1. Pro: Public libraries don't profit from their usage. The money is invested back into the libraries and the staff necessary to run it.
+1.9.2. Con: Selling books does not inform people directly.
+1.10. Con: -> See 1.5.1.2.
+1.11. Pro: Librarians are already spread across the country to provide local information.
+1.11.1. Pro: The necessary infrastructure is already in existence.
+1.11.2. Pro: As they are already spread out across the community, the costs of setting up information hubs will be reduced.
+1.12. Pro: Involved with local politics
+1.12.1. Con: -> See 1.8.1.1.1.
+1.13. Con: Librarians could easily push personal agendas.
+1.13.1. Con: -> See 1.4.
+1.13.2. Pro: Think about the County Clerk \(Kim Davis\) issue when she would not enforce the law because of religious values. [nytimes.com](https://www.nytimes.com/2015/09/04/us/kim-davis-same-sex-marriage.html)
+1.13.2.1. Con: There is a significant difference between law enforcement and library services.
+1.13.3. Pro: It is difficult for people to be completely neutral when discussing politics, and therefore they're likely to present a slanted view which aligns with their own feelings.
+1.14. Con: Already too busy to add this extra responsibility
+1.14.1. Pro: Librarians would require a pay rise in recognition of broader responsibilities.
+1.14.1.1. Con: May even create the need for a whole position within Libraries
+1.14.1.2. Pro: May even create the need for a whole position within Libraries. This is a good thing. Considering the rise/prevalence of disinformation maybe we as a society should encourage more employment in this field.
+1.14.2. Pro: Books do already prevent disinformation. Selling them is sufficient
+1.14.2.1. Con: Anyone can write a book with any information. Books do not inherently "Prevent Disinformation".
+1.15. Pro: Libraries are[community hubs](http://www.pewinternet.org/2015/09/15/who-uses-libraries-and-what-they-do-at-their-libraries/).
+1.15.1. Pro: Would be a good place to have competing views debated.
+1.15.2. Con: -> See 1.6.
+1.15.3. Con: Libraries are being replaced with ebooks and internet in the home. As such, not as many people are attending libraries and for many they are not seen as community hubs.
+1.15.4. Pro: Libraries are community hubs as they attract people, hold many events every day, provide a safe haven for some populations, and actively engage the community for the public benefit.

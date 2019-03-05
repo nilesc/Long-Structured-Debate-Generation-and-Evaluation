@@ -1,0 +1,81 @@
+Discussion Title: Is C++ the ideal programming language to learn first for beginners?
+
+1. C++ is the ideal programming language to learn first for beginner programmers.
+1.1. Con: C++ is a very complex programming language aimed at large projects. Beginners need simplicity.
+1.1.1. Pro: In education, it's important to provide "quick wins" to motivate students, and C++ is not a good language for that.
+1.1.1.1. Pro: The amount of concepts and options provided by C++ can be intimidating to beginner programmers. Therefore, a more concise language would be preferable.
+1.1.1.2. Pro: Setting up a C++ development environment is arguably much more difficult than firing up a Python interpreter or testing a few lines of JS in a browser.
+1.1.1.3. Con: You can learn it without needing to know about objects so you learn flow control and basic programming quicker.
+1.1.1.4. Pro: Beginner programmers in general would benefit more from learning a much more readable and intuitive language, like Python.
+1.1.2. Pro: C is a very old language, and it would take much longer to learn than a newer, more simple language.
+1.1.2.1. Con: C++ is hardly any simpler than C.
+1.1.2.2. Con: Despite the fact that C is old, it's still a good language to start with when learning programming, because you can understand the most basic concepts of programming and how a computer works in genereal while not having to deal with more sophisticated concepts like object oriented programming.
+1.2. Pro: C++ teaches programmers to understand low-level concepts, which they will need in order to be effective and efficient programmers in the future.
+1.2.1. Con: The benefits of learning a low-level language like C++ are better taught with a lower-level language like C instead.
+1.2.1.1. Con: -> See 1.1.2.
+1.2.1.2. Con: C++ generally allows C functionality, e.g., char arrays. These concepts can be taught within a C++ environment just as easily as a C environment.
+1.2.2. Con: Low-level concepts are not needed at first to understand programming mechanisms. They can be learned later.
+1.2.3. Con: There's no consensus on what it takes to become or be an effective and efficient programmer.
+1.2.4. Con: A great majority of programmers do not know assembly while still being effective and efficient.
+1.2.4.1. Con: It's untrue that most developers are effective and efficient. It's the opposite. Because - most software is a failure in one way or another. Software development is a very costly endeavor and we're still figuring out how to do it well. Therefore, it could be that knowing assembly would be beneficial.
+1.2.4.2. Pro: [Tiobe](https://www.tiobe.com/tiobe-index/) lists assembly at rank 13 \(as of July 2018\).
+1.2.4.3. Pro: Coding in assembly is only useful in rare cases where raw CPU performance is essential. Today this is mostly relevant in the embedded system market but not for a majority of web, server or desktop apps. Thus there is no need for programmers to learn assembly.
+1.2.5. Con: This claim assumes that the goal of beginner programmers is to become "effective and efficient programmers," when in fact they may wish to be someone else—say, a statistician—with a skill that complements their main craft.
+1.2.6. Con: Programmers do not need to know how the computer works to write effective code, and should learn a more high-level language first instead.
+1.2.6.1. Pro: Modern compilers and VMs can do a lot of automatic optimization of inefficient code.
+1.2.6.1.1. Con: Not all programming languages use a compiler.
+1.2.6.1.1.1. Con: Even interpreted programming languages can feature lower-level optimisations similar to a compiled language \(Just-In-Time Compilation\).
+1.2.6.2. Pro: Developers don't need to worry about underlying concepts when using a high-level language like Ruby or Python.
+1.2.7. Pro: Understanding underlying concepts like buffers and what happens when they overflow allows for more secure programming.
+1.2.8. Pro: Understanding low-level concepts enables developers to more effectively optimize their code for runtime- or memory-complexity.
+1.2.8.1. Con: Low level optimization is basically useless in most of today's applications, as hardware is much cheaper than it was years ago and inefficient algorithms are still good enough in most use cases. Much more important is optimizing development time.
+1.2.9. Pro: Understanding how strings are represented in memory allows for a deeper understanding when using string abstractions in other languages.
+1.2.9.1. Con: String representation in C++ is fundamentally broken and does not support multi-byte character sets.
+1.2.9.2. Con: Strings are [mutable](https://www.interviewcake.com/concept/java/mutable), opening the opportunity for a serious security issue which ultimately means that 3rd party software libraries cannot be used and trusted in a C++ application.
+1.3. Pro: Object-orientation is a crucial concept to learn when programming, which C++ helps people to do.
+1.3.1. Con: C++ is not the only programming language with object-oriented features.
+1.3.2. Con: Object-orientation is just one among many possible ways of thinking about code. It is important but not fundamental.
+1.3.2.1. Con: Most software engineer job descriptions include a requirement for understanding of object-oriented principles. One could argue it's the single most important principle for a software engineer today.
+1.3.2.2. Pro: Modern programming languages \(or evolutions of old ones, see Python 3, Java 9\) incorporate ideas from the functional paradigm. Functional programming is being perceived by the software community a more and more important tool.
+1.3.3. Con: C++ doesn't express object orientation as well as some other languages.
+1.4. Pro: C++ is one of the oldest programming languages still widely used in the job market.
+1.4.1. Con: The widespread use of C++ does not necessarily make it a better starting point for beginners.
+1.4.1.1. Con: Teaching niche topics is rarely a good starting point. Look at the earliest years of primary school where children are taught 2+2. This is because it is a building block for many applications.
+1.4.2. Con: C++ has been [losing relevance](https://www.tiobe.com/tiobe-index/cplusplus/) for years now, as the market shifts towards high-level languages and web development. Therefore, beginner programmers should learn a language they would actually use productively later on.
+1.4.2.1. Pro: C++ is the 7th most popular language \([StackOverflow 2017 Survey](https://insights.stackoverflow.com/survey/2017)\).
+1.4.2.2. Pro: The popularity of C++ has decreased from 28% to 22% of the population since 2013 \([StackOverflow 2017 Survey](https://insights.stackoverflow.com/survey/2017#technology-languages-over-time)\).
+1.4.2.3. Pro: The concept of relevance is key here – people need to know that what they're learning will benefit them. This especially applies to people who don't program for a living, but may want to learn more about it to improve their other work.
+1.4.2.4. Con: If we sum C and C++ in the [Tiobe Ratings](https://www.tiobe.com/tiobe-index/), they will reach 14%, seven times more than Javascript, the highest web-oriented language in the ranking. Therefore, C++ still has a high relevance.
+1.4.2.5. Con: C++ is the 3rd programming language in [Tiobe Index](https://www.infoworld.com/article/3212970/application-development/java-and-c-hit-all-time-lows-in-tiobe-language-popularity-index.html), as of Nov. '17, behind C \(its ancestor\) and Java \(a sort-of evolution\).
+1.4.3. Pro: Its long-lasting popularity has given C++ time to mature into an effective tool.
+1.5. Con: The restrictive syntax of C++ is too complicated for new developers to learn.
+1.5.1. Con: Learning the underlying principles in how something is implemented \(e.g., a String is a char array\) is crucial to computer science.
+1.5.2. Con: Rigidity in syntax prevents programmers from getting too caught up in multiple ways to do the same thing, leading to a more direct learning path.
+1.5.3. Pro: Programming concepts are already hard enough to learn, and adding a complex syntax distracts from core concepts.
+1.5.4. Pro: The C++ syntax can be unnecessarily frustrating at times, and can dissuade would-be programmers from progressing.
+1.5.5. Con: The difficulty of C++ makes every additional language learned easier by comparison.
+1.6. Con: There is no "ideal" language for beginner programmers.
+1.6.1. Con: Learning to program isn't a matter of speed, but rather understanding how to solve problems with appropriate tools.
+1.6.1.1. Pro: In one case C++ might be the right tool, in other cases Python, and sometimes you want to use both. This depends on the problem you are trying to solve.
+1.6.2. Pro: Some will do better with C/C++, some will do better with Python. It largely depends on how slowly they need to be eased into things.
+1.6.3. Pro: The most important thing to understand are the concepts behind programming rather than language syntax. While a handful of languages may see more practical use than others, it's more important to pick one and stick with it to learn the underlying concepts.
+1.7. Con: There are other languages that are better first languages to learn.
+1.7.1. Pro: C++ is an awkward grafting of objected-oriented concepts onto a structured language. Java is a better object-oriented language, and C a better structured language. Either would be better than C++ as a first language.
+1.7.2. Pro: JavaScript is the ideal programming language to learn first for beginner programmers.
+1.7.2.1. Pro: Javascript is ubiquitous, runs on many platforms, can be used for standalone programs and web applications, is used as hosting platform for other languages and you can find it embedded in customizable applications.
+1.7.2.1.1. Pro: Runs on every modern browser.
+1.7.2.1.2. Pro: Is used by mongodb as its query language.
+1.7.2.1.3. Pro: Javascript data description sublanguage \(JSON\) is used as a de facto standard for configuration files and as data format in many internet protocols.
+1.7.2.1.4. Pro: Using Node.js you can build standalone desktop programs for linux, Mac and Windows. You can also create web servers.
+1.7.2.2. Con: It's a poorly designed and inconsistent language
+1.7.2.2.1. Con: Using "[use strict](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Strict_mode)" makes it consistent.
+1.7.2.2.2. Con: Newer versions like ES6 are already addressing these issues with new features that make the language more consistent.
+1.7.2.3. Pro: According to the [StackOverflow language survey](https://insights.stackoverflow.com/survey/2017), web developers are the most common type of developer, and JavaScript is the language of the web.
+1.7.2.4. Pro: JavaScript is more loved than C++ \([StackOverflow 2017 Survey](https://insights.stackoverflow.com/survey/2017)\).
+1.7.2.5. Pro: The only tool necessary to run Javascript is a web browser and everybody has a web browser.
+1.7.2.5.1. Pro: Javascript does not have to be compiled.
+1.7.2.6. Con: The concept of prototypal inheritance used by JavaScript is so unique that it is not a good language to learn first because if you learn another language using classical inheritance afterwards, you have to start all over again.
+1.7.2.6.1. Con: You encounter this problem only if your previous experience is in some object oriented language. Javascript is mainly a functional language and prototypes are the tools it uses to mimick the OO strategy. If your first language is Javascript you probably will adopt other approach \(extensive use of closures for example\) over the OO one.
+1.7.2.7. Con: As a first language to learn, it is better to learn a statically typed language to better understand how a computer handles data.
+1.7.2.8. Con: -> See 1.6.
+1.7.3. Pro: Python is a superior language for beginners as it is simpler and the practice of developing in the interpreter in Python is great for rapid testing and exploration, which is important for beginners.

@@ -1,0 +1,19 @@
+Discussion Title: Does One Vote Make A Difference?
+
+1. One vote [doesn't make a difference](https://en.wikipedia.org/wiki/Paradox_of_voting).
+1.1. Con: Voting works in aggregate, it's the sum of all its voices. The more voices, the more accurate the vote result. Just because one side does not win, does not mean the vote had no consequence. Losing by 2% versus 50% are vastly different messages, and one the winning party must take note of. The notion that our individual votes matter the most is an absurd one: you're voicing your opinion the same as everyone else. If you lose, look at by how much, and see what it tells you. Each vote counts.
+1.1.1. Pro: One vote is unlikely to be the tipping point in an election, yet each vote makes exactly the same difference. It counts as one vote. In a football game, you do not count points as useless just because of a large victory or loss.
+1.1.2. Con: In two-party systems the voting scenarios are binary decisions: you go with one or the other candidate/party, you either do or do not proceed down a particular path. Only winning matters, not the "degree" of winning.
+1.2. Con: There is never just one vote, just as there is never just one listener in voting campaign.
+1.3. Pro: Imagine that you can cast your vote as the last voter. All the votes have been already cast and even counted. You want to vote B. Party A got 15 million votes. Party B got 5 million votes. You can either cast or not cast the vote. It still won't make the difference.
+1.3.1. Con: This would be true if the outcome of all the tallied votes was made known to you. However, if the results are not made public knowledge, and the win or lose margin is your single vote, then you would in essence be deciding the outcome, whether or not you knew it at the time. Similar to [Schrodinger's Cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat), until the cat is observed, it is neither alive nor dead.
+1.4. Con: If every voter thought so, the elections wouldn't work.
+1.4.1. Pro: If everyone acted on this belief, no one would vote. If many acted against this belief, many would vote. This is a useless metric as it is basically a self-fulfilling prophecy for those who believe it.
+1.4.2. Pro: If millions of people thought their votes are worthless, their lack of votes combined would make a difference.
+1.4.2.1. Con: It wouldn't, because the proportion of political affiliations in this group would be the same as in those who vote. It would simply decrease the voters from every candidate making no difference in the outcomes.
+1.4.2.2. Con: One decision does not influence other's decisions. Every year the amount of not-voting citizens remains stable. Whether to vote or not is an individual's decision and will not make a difference.
+1.4.3. Con: Negative consequences of acknowledging the truth doesn't make it false.
+1.4.3.1. Con: It does if the factors in play requires the minimal participation in order to operate.
+1.5. Con: At the margin one vote makes a difference.
+1.5.1. Pro: In small constituencies an individual vote matters more.
+1.5.2. Con: This assumes that the margin of swing between the outcomes is small enough that one vote would matter. This may be true in small situations, eg in a room of twenty people one vote could be decisive for one or the other outcome. It is, however, highly unlikely that the margin of swing in any large situation \(city, regional, national\) is slim enough to be decided by one vote. Generally the issues that truly matter to society are decided at such levels, so individual votes have no effect there.

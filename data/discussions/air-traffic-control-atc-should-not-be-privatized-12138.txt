@@ -1,0 +1,17 @@
+Discussion Title: Air Traffic Control (ATC) should not be privatized.
+
+1. Air Traffic Control \(ATC\) should not be privatized.
+1.1. Con: Private actors are more likely to focus their investment into the most profitable ATCs.
+1.1.1. Con: Private companies will charge more to use ATCs with more expensive equipment which will motivate airlines to move to less safe ATCs.
+1.2. Con: Air lines are in favor of [privatization](https://www.thestreet.com/story/13741799/1/airlines-want-privatized-air-traffic-control-but-delta-remains-opposed.html).
+1.3. Con: The [Union of National Air Traffic Controllers](https://federalsoup.com/articles/2016/02/10/natca-backs-air-traffic-control-privatization-plan-rticle.aspx) is in favor of privatization.
+1.4. Con: Privatization of air control works in other countries, such as [Canada](https://federalsoup.com/articles/2016/02/10/natca-backs-air-traffic-control-privatization-plan-rticle.aspx).
+1.4.1. Pro: Territorially speaking, Canada is roughly the same size as the US.
+1.5. Pro: Safety remains the top priority
+1.6. Pro: The US leads the global ATC community in technology and procedure development.
+1.7. Pro: The US is the most complex AND safest air traffic systems in the world
+1.8. Con: Next generation technology deployment is not as quick as private sector.
+1.9. Pro: Government management of the air traffic system ensures all users are treated equally
+1.10. Con: Tax payer dollars partially fund private aviation activities
+1.11. Pro: The public funding of the National Airspace System \(NAS\) system has worked well for over 100 years
+1.12. Pro: The US Air Traffic System is so complex and integrated with multiple nodes within the global civil air ATS, that just the planning which would be involved in privatizing the entire system would take decades and cost hundreds of millions of dollars. The execution of the processes which would be required for privatization would cost even more than the planning, which would result in billions of dollars diverted from other ATS modernization priorities .

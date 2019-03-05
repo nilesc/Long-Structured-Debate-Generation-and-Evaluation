@@ -1,0 +1,48 @@
+Discussion Title: Governments all around the world should push for 100% Renewable Energy as fast as possible.
+
+1. Governments all around the world should push for 100% renewable energy as fast as possible.
+1.1. Pro: Climate change poses one of the greatest risk to our civilization and we should do everything we can to mitigate it.
+1.1.1. Pro: Rising sea levels, more frequent weather anomalies, rising temperatures in already dry areas, increased rainfall in already wet areas; and increasingly destructive storms are some of the direct effects that have already begun to affect people all over the world.
+1.1.2. Pro: Renewable energy sources such as hydro, wind and solar can be used to replace the "dirtiest" methods of energy generation immediately.
+1.1.2.1. Con: Ever growing demand for energy means that we will ultimately require a further breakthrough in order to supply everyone with energy from renewable sources.
+1.1.2.1.1. Con: Further breakthroughs being likely shouldn't prevent implementing currently sufficiently good renewable energy generation tech quickly.
+1.1.3. Pro: Renewable energy technology can help in achieving many of the United Nations Sustainable Development Goals. [worldfuturecouncil.org](https://www.worldfuturecouncil.org/100re-sdg/)
+1.1.4. Pro: The key to achieving this is to build capacity and cross-sectorial networks among policy-makers to improve legislative frameworks for climate protection, regenerative urbanisation and a future-just energy system based on 100% renewable energy.
+1.1.5. Con: If climate change has developed such that we can no longer reverse the effects, it is not worthwhile worrying about immediately moving to renewable energy.
+1.1.5.1. Con: A speedier movement toward renewables will help to alleviate the ill short-term effects of "dirty" energy sources. It will also decentralize power grids, which leads to increased efficiency, security, and natural crisis isolation.
+1.1.6. Pro: Even if we currently don't need to make everything run on renewable energy as the situation is not a death extreme dire situation, we should still consider the movements and work to make the future better for those that are coming after us so they don't have to live in the past's mistakes
+1.1.7. Pro: The moment any nation starts making big money through clean energy or any leader of the western world makes it mandatory to generate clean energy in his nation, other countries would follow.
+1.1.7.1. Con: Many countries have already made such mandates \(Paris Accord, etc.\) yet their success in achievement is limited due to the science and economics. It's not a matter of "will".
+1.2. Pro: Renewable energy technology is the cleanest way to generate energy without CO2 emissions.
+1.2.1. Con: Nuclear energy also provides a CO2 neutral way to generate electricity.
+1.2.1.1. Con: The problem of nuclear waste and the experiences drawn from events like Fukushima and Chernobyl show that clean does not equal safe.
+1.3. Con: Renewable energy is not economically competitive with fossil fuels. Large expenditures and coordination would be required to achieve this, which may not be feasible for a great many governments.
+1.3.1. Con: This isn't necessarily true, especially considering that fossil fuels are often heavily subsidized by tax dollars. In many cases RE is more affordable and the primary reason for switching to it.
+1.3.2. Con: Fossil fuel costs do not include the ecological damage they cause to our environment.
+1.3.3. Con: Market cannot be considered equally or more important than the environment, which is the basis of human existence.
+1.3.4. Con: [Swanson's Law](https://www.greentechmedia.com/articles/read/origins-of-the-solar-learning-curve) states that for every cumulative doubling of production volume, the cost of PV modules drops by an average of 20%.
+1.4. Con: We have not currently made all the technological advances necessary to rely solely on renewable energy.
+1.4.1. Pro: 100% RE would include the transport sector where innovation has not led to substantial changes yet.
+1.4.1.1. Con: Following a sustainable agenda would also mean governments strengthening their efforts to transform their societies into CO2 neutral economies. This includes substantial changes in the automotive industry.
+1.4.2. Pro: -> See 1.1.2.1.
+1.4.3. Con: Part of pushing for completely renewable energy as fast as possible will be funding further research into these technologies, while using those we already have to provide as much energy as it can.
+1.4.4. Pro: Doing it as fast as possible will stress the economy by obligating the incorporation of economically inviable technologies and will stress the population that is not prepared for the fast-paced transition.
+1.4.5. Pro: Significant development will be needed into the storage of the electricity, as renewable energy cannot be simply increased to meet consumers immediate demands.
+1.5. Pro: Renewable energy technologies work best in a decentralized structure, making them ideal for countries in the global south without sufficient energy infrastructure.
+1.6. Con: Pushing for 100% RE endangers jobs in many industries, ranging from oil to coal.
+1.6.1. Con: The educational agenda in many countries has to shift towards more sustainability based education at schools and universities. Especially engineers and technicians are much needed by the RE industry. The important thing is to keep people from pursuing a career in the fossil fuel based industries and thereby prevent job losses in the future.
+1.6.1.1. Con: Fossil fuels are building blocks for petrochemical products - fertilizer, concrete, and plastics to name a few - and education in these processes will be integral to modern economies.
+1.6.2. Pro: What coal miner wouldn't happily work in a career that was free of pulmonary diseases and a shortened life span? RE will still include a required job force, perhaps an even greater force than currently earmarked for fossil fuel.
+1.6.3. Pro: Job markets change with time. Understand that plenty of new jobs are to be had in renewable energy markets. When cars were built, people who drove horses complained there would be no jobs for them.
+1.6.4. Con: Only 100% renewable energy along all steps of the value chain will guarantee a sustainable economy. Electric cars for example will only be able to unfold their ecologically friendly potential when the electricity used during production comes from renewable sources.
+1.6.4.1. Con: Electricity can be produced much cleaner in a big oil energy plant. The standard car engines have an efficiency of about 30%, the rest just goes to waste. Meanwhile electrical engines have an efficiency of around 90%. So still better to have a big oil plant where we can actually generate power much more efficiently.
+1.6.4.2. Con: Renewable energy is not an all-or-nothing. Generally the more the better. So anyhow every tiny bit will count.
+1.6.5. Con: Governments have to pursue comprehensive programs to use the potential of jobs generated by further RE promotion.
+1.6.6. Con: The negative environmental and social consequences of continuing use of non-renewable energy sources will probably outweigh the short-term employment losses while world economies fully transition to renewables.
+1.7. Con: The existing electricity grids in many western countries are not made to support an RE based energy market.
+1.7.1. Con: A Renewable energy network produces more power where it is actually needed. \(e.g. solar cells on roof top of buildings\). Thus the RE based energy market doesn't require as many powerlines as the current energy distribution system.
+1.7.2. Pro: Using Renewable Energy Sources as the primary source of energy will require some heavy adjustments to many established western electricity grids and infrastructure. Especially there, where geographic factors do not allow the same amount of electricity generation in all places \(example: more wind near the shores\). Those given circumstances have to be factored in but in other places the decentralized nature of RE gives new opportunities for local energy generation and distribution.
+1.7.3. Con: The only real barrier to using existing electricity grids for renewables is wide availability of battery storage. If each household has their own battery storage managed by the grid it actually makes it [more stable.](http://theconversation.com/how-energy-storage-is-starting-to-rewire-the-electricity-industry-93259)
+1.8. Con: If you try to dive in too fast you run the risk of making your grid dependent on the technology where it stands and making massive costs to exchange later for more efficient tech.
+1.9. Pro: Renewable energy technologies give many people the opportunity to become "prosumers", consumers who generate their own energy and sell any excess.
+1.9.1. Pro: Having more distributed sources of power generation may allow for a more stable grid. Large power plants require greater security considerations. Energy being generated close to it's use sources helps reduce wasted energy due to losses along power transmission.

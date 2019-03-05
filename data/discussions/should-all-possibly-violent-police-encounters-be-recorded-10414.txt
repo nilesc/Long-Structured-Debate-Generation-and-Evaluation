@@ -1,0 +1,32 @@
+Discussion Title: Should all possibly violent police encounters be recorded?
+
+1. Law enforcement should be federally mandated to equip cameras in all public encounters involving possible use of force.
+1.1. Con: There is no authority for the federal government to make such a law.
+1.2. Con: The cameras are able to keep track of the evidence and statements but the public may see these cameras as an invasion of privacy.
+1.3. Pro: This would protect citizens as well as law enforcement.
+1.3.1. Pro: Cameras [improve](https://www.economist.com/blogs/economist-explains/2016/10/economist-explains-10) the behaviour of members of the public and reduce the number of bogus complaints brought against the police.
+1.3.2. Pro: [Footage](https://www.economist.com/blogs/economist-explains/2016/10/economist-explains-10) can be used to train law enforcement agents.
+1.3.3. Con: Civil rights activists have argued that police camera footage can lead to mass surveillance as well as privacy concerns.
+1.3.4. Pro: Just knowing their actions were being continuously monitored would serve as a stop-gap against unjust or disproportionate use of force.
+1.3.4.1. Con: Police officers are already aware that in today's world their actions are usually recorded. Body cameras are not a significant change in that respect.
+1.4. Con: In a deadly encounter, there may not be time to activate a camera. A federal mandate would be unfair to officers who had to choose between defending themselves and filming an attack.
+1.5. Pro: The entire justice system centers around evidence, and this would be substantial evidence to support \(or dismiss\) a criminal case.
+1.5.1. Con: Police body camera footage can be admissible as evidence in court. It must follow the same rules for admissibility as other photographic or video evidence. This means that it must be relevant and authentic. A lack of standardized body camera rules and protocols could mean that authentication could potentially be an issue in the future.
+1.5.2. Pro: It would put an end to the speculation about police shootings.
+1.5.2.1. Con: The existence of body cameras in many jurisdictions has not definitively put to rest concerns about police shootings.
+1.5.2.2. Pro: A [study](https://www.economist.com/blogs/economist-explains/2016/10/economist-explains-10) published at the end of September by researchers at the University of Cambridge and RAND Europe, a think tank, as well as police officers, suggests that body cameras can slash the number of complaints made about the police.
+1.5.2.3. Con: Recent public and media scrutiny of police activity has led to many departments across the country rushing to implement programs and failing to consider the myriad issues involved.
+1.5.3. Pro: In instances where officers use unnecessary force and commit crimes, this can lead to convictions. This unlike the status quo, where there often exists much uncertainty about what happened during an altercation.
+1.5.4. Pro: If the officer abides by the law, they can only benefit from having a camera, as the video evidence prevents them from being falsely accused.
+1.5.4.1. Con: Even video evidence is often an incomplete picture and subject to misunderstanding. It does not necessarily prevent false accusations.
+1.5.4.2. Pro: There is no logical reason not to have visibility on those we trust to carry lethal weapons and engage as an authority with citizens.
+1.5.4.2.1. Pro: As noted by the court in Emmons v. City of Escondido:
+
+“The body-worn camera provides a technological aide to better serve the community by protecting both police officers and citizens. An accurate depiction of the contacts between the police and community improves public safety, provides an objective means for evidence gathering, and serves as a valuable training tool for police officers.” \(168 F. Supp. 3d 1265 \(S.D. Cal., 2016\)\).
+1.5.4.2.1.1. Con: While the BWC CAN offer these advantages, the lack of a consistent universal policy makes jurisdictional usage impractical. [Usage of BWC's](https://www.bja.gov/bwc/pdfs/North-Carolina-District-Attorneys_Best-Practices-Committee_Body-Worn-Cameras-Concerns-and-Considerations.pdf), for example in large metro areas with multiple law enforcement areas, may vary widely in how officers are trained to use/manage acquired data.
+1.6. Con: It would be expensive to do this, and most likely fall to the taxpayer to cover the expense.
+1.6.1. Pro: Body cameras, the equipment required to store data and maintenance costs make this project extremely expensive. This can be a huge problem in [localities](http://content.time.com/time/nation/article/0,8599,1635439,00.html) where law enforcement is already underfunded.
+1.6.2. Con: Law enforcement is already making gigantic expenditures on dash cameras, city cams, this is just an extension of what they clearly believe to be a positive strategy.
+1.7. Con: People very well may not like what they see.
+1.7.1. Con: This is all the more reason to see it, instead of fooling ourselves.
+1.7.2. Con: Any sort of video or picture that includes violence, bodily harm and death can present this problem. That is no reason to not have this as possible evidence.

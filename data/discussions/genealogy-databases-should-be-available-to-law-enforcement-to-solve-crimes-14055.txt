@@ -1,0 +1,47 @@
+Discussion Title: Genealogy databases should be available to law enforcement to solve crimes.
+
+1. Genealogy databases like AncesteryDNA and 23andMe should be available to law enforcement to solve crimes.
+1.1. Con: Law enforcement could use the data to unfairly put family members or descendents of criminals under suspicion, purely based on their DNA.
+1.1.1. Con: Law enforcement would still be required to obtain supporting evidence of any criminal activity.
+1.2. Con: The government should be generally viewed with scepticism. As the NSA spying scandal showed, the government doesn't exclusively use data in the way it is supposed to. For instance, such data could be used to hunt down the family members of illegal immigrants.
+1.2.1. Pro: Laws regarding the use of dna obtained from commercial companies would assist individuals in a defense proceeding if results were illegally obtained.
+1.2.1.1. Con: There are laws against data collection which intelligence agencies just ignore, so once DNA data is available to them it is naive to assume any legal boundaries would make a difference.
+1.2.2. Con: If family members are in the USA illegally, this would be acceptable.
+1.2.3. Pro: The government would use those data to increase general social control.
+1.2.3.1. Pro: Giving access to information on citizens' DNA to governments might pave the way to more unethical practices, e.g. eugenetics or racial discrimination.
+1.3. Pro: Large databases of genetic information can be of immense use in medical research. Universities and research organisations can be given access to this data in an anonymized form.
+1.3.1. Con: Universities and research organizations can have access even if law enforcement lacks this access.
+1.3.2. Con: Maintaining sufficient data elements to make DNA data useful is challenging for companies.  Often times age, race, socioeconomic status are important factors in research.  De-identifying data is not an easy task for companies that do not make it a priority.
+1.3.3. Pro: Data requested for medical research typically is approved by an [Institutional Review Board](https://www.fda.gov/RegulatoryInformation/Guidances/ucm126420.htm) \(IRB\) process in which all data elements and the purpose of the data are clearly documented.  There is a "Paper trail" of the data use and exchange.
+1.3.4. Pro: [Big data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5331970/) sets could be very useful for future medical research.
+1.4. Pro: People voluntarily submit their DNA for genealogy testing thus giving up the rights to how it is used.
+1.4.1. Con: Consenting to allow a specific company use of personal data for a specific purpose is different from letting a government agency use it for unknown purposes.
+1.5. Con: DNA Handling by for profit genealogy companies is subject to error, tampering and misinterpretation.
+1.5.1. Pro: As the recent example of Facebook and Cambridge Analytica shows, private corporations are often ill-suited to protect users' personal data.
+1.5.1.1. Con: Facebook and Cambridge Analytica are not DNA sequencing companies. The main business model that makes Facebook money is selling data. A person's use of a DNA sequencing company is not mandatory to anyone and is voluntary. There are terms of service that inform a potential user of the use of their DNA data.
+1.6. Pro: Using these databases could prevent the harm of other people.
+1.6.1. Pro: The [Golden State Killer](https://www.nytimes.com/2018/04/27/health/dna-privacy-golden-state-killer-genealogy.html) was recently identified because his son submitted a test and police tracked relatives.  This was not a voluntary submission
+1.6.2. Con: Using such databases would allow law enforcement agencies to target specific ethnic groups.
+1.6.2.1. Pro: For example, the current mood in the USA would suggest that the government might be interested in finding people of Latin American descent.
+1.7. Con: The handling of an individual’s DNA must comply with the purpose of the test, otherwise there will be mistrust in the application \(and potentiallt wider mistrust\), and people will refrain from using it.
+1.8. Con: There are insecurities in the sampling procedure. A person could file their DNA under a different name than their own.
+1.9. Pro: They likely already are if need really be. This is good since it forces crime to evolve to a more white-collar level. Rapists and others dullards will surely always be caught.
+1.10. Pro: If you have done nothing wrong then surely you have nothing to worry about and it could help to solve crimes that otherwise could leave dangerous people in the public domain.
+1.11. Con: The Fourth Amendment protects us from unreasonable search and seizure- using DNA is just this.
+1.11.1. Pro: The US does not allow the use of evidence found through illegal searches in court. Using DNA evidence without consent is equivalent to an illegal search.
+1.11.1.1. Con: Using family DNA matches only narrows a suspect pool, police would still need obtain evidence through legal methods.
+1.11.2. Con: When a person abandons a DNA sample, law enforcement can use it legally. Such DNA evidence can include a thrown-out paper cup that has saliva, semen from a rape victim, or skin cells under a victim's fingernail.
+1.12. Pro: Innocent people could be exonerated if this data were to become an integral part of the law enforcement process.
+1.12.1. Con: If DNA evidence is degraded, innocent people could be accused based on false positives.
+1.12.1.1. Pro: A young man was [falsely accused](https://www.theatlantic.com/magazine/archive/2016/06/a-reasonable-doubt/480747/) and later sentenced based on DNA evidence that turned out to have been misinterpreted.
+1.12.1.2. Con: Law enforcement does not test the dna, but established companies who can easily know if the dna evidence is degraded.
+1.12.1.2.1. Con: Projects like the [Innocence Project](https://en.wikipedia.org/wiki/Innocence_Project) help overturn wrong convictions based on police misconduct or faulty evidence. This suggests that even established companies make mistakes.
+1.12.1.2.2. Con: An investigation revealed [gross misinterpretation](https://www.theatlantic.com/magazine/archive/2016/06/a-reasonable-doubt/480747/) of even basic DNA evidence by the Houston Police Department Crime Laboratory.
+1.12.2. Con: DNA samples can also be transferred [accidentally](https://www.scientificamerican.com/article/when-dna-implicates-the-innocent/) and implicate the wrong person.
+1.13. Con: Law enforcement could use results to profile or target specific groups of people.
+1.13.1. Con: One needs a matching DNA sample to make use of genealogical databses. The aquisition of DNA samples, not the availability of genealogical databses allows to target specific groups.
+1.13.2. Con: Specific groups are less likely to be convicted when the initial suspicion is shown false by a DNA sample comparison.
+1.14. Pro: Law enforcement would have additional tools to identify victims of homicide when other means are not available.
+1.15. Con: People may be less likely to submit DNA and potentially not uncover important medical conditions.
+1.15.1. Con: Individuals have the right to or not to utilize a dna sequencing company.  All of the companies have terms of service and often, detailed information about what they do with dna and who can or cannot view it.
+1.15.2. Pro: Such analyses may uncover potential diseases which may or may not affect the person in their lifetime. Knowing about this might lessen that person's quality of life for no reason.

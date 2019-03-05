@@ -1,0 +1,45 @@
+Discussion Title: Will the impact of AI in the educational sector be positive?
+
+1. The impact of AI on the education sector will be positive.
+1.1. Con: There would need to be a significant investment of time and data to train the AI for the education sector.
+1.1.1. Pro: AI would likely require years of machine learning development.
+1.1.2. Pro: It may be difficult to narrow and specify the development of AI to prevent misuse and incorrect guidance.
+1.1.2.1. Pro: Human developers can include their own biases in the AI and those can be then passed onto students.
+1.1.3. Con: If the long term benefits are better, the initial effort, although considerable, may be worth it.
+1.2. Con: Having AI in classrooms could lead to concerns about data privacy.
+1.2.1. Pro: AI in the classroom would likely have access to personal information about students and their studies.
+1.2.1.1. Pro: Parents and students alike may not feel comfortable having their data potentially leaked or shared.
+1.2.2. Con: AI is not inherently less secure than other existing digital solution. Conversely, AI would have less possibility for a [human error](https://www.dataprivacymonitor.com/cybersecurity/deeper-dive-human-error-is-to-blame-for-most-breaches/).
+1.2.3. Pro: AI may use instruments that track students' data.
+1.2.4. Con: It may be difficult for students, teachers and families to have the option to opt out from AI databases.
+1.3. Con: AI will only benefit the wealthy as only those schools will be able to afford this technology for some time.
+1.3.1. Pro: It can create an undemocratic feedback loop as richer schools have access to more powerful technology, which boosts results, which generate more money, which are allocated in even more powerful technology, and so on. As a result, the gap between poor and rich schools widen even further.
+1.3.2. Con: This problem already exists for any new pioneering technology. In time technologies become cheaper and more commonplace.
+1.4. Pro: AI could increase the accessibility of education and learning.
+1.4.1. Pro: AI could enable mass learning management with hundreds \(or even thousands\) of students per course.
+1.4.2. Pro: The introduction of AI will enable learning independent of time and space \(AI tutoring or AI Co-Teacher\).
+1.4.2.1. Con: This is only of value if otherwise superior local and face-to-face teaching is not feasible, yet runs the risk of replacing available local face-to-face teaching due to economic incentives.
+1.4.3. Pro: Virtual AI tutoring could make learning and study support available for each individual student.
+1.4.4. Pro: AI will help to somehow disabled individuals and all people with some issues to get equal education as everyone else.
+1.4.4.1. Pro: For example, gathering information and making solutions establish the best way to help each individual.
+1.4.5. Con: There is significant aspect of Learning that should be open-ended so student can think freely. AI will already force student in one path thus limiting unfettered inquiry.
+1.4.6. Pro: AI will enable autonomous and non-institutional learning.
+1.4.6.1. Con: The learning is still directed, at least indirectly, by the parties which design the AI solutions. This means increased corporate influence in learning.
+1.4.6.2. Con: -> See 1.4.5.
+1.5. Pro: AI will allow for more targeted and individualised learning which will benefit people overall.
+1.5.1. Pro: AI could improve learning outcomes for every single student via individualised teaching methods and delivery, as identified and modified on-the-fly by AI tech.
+1.5.1.1. Pro: Personalized learning videos can raise and keep the interest of the learner awake, by mixing the session content with content from the hobbies and interests of the learner. For once, we get addicted to something positive for our life!
+1.5.2. Con: AI is subject to human [bias](https://medium.com/\@jelmerevers/artificial-intelligence-and-education-moving-beyond-the-hype-6df3d644ef7a) in algorithms which can leave some issues out or not take into account some students' needs or backgtounds.
+1.5.2.1. Pro: AI systems as a self-preservation tactic can divert student for pursuing research to question the validity of the AI system itself.
+1.6. Con: AI will significantly change the nature of teachers work and they may be resistant to this.
+1.6.1. Pro: AI may eventually largely replace teachers, meaning many people may fear for their jobs.
+1.6.2. Pro: If AI is able to manage many of the responsibilities of teachers, it may no longer be necessary to pay teachers as much for their work, as they will not be so essential.
+1.6.3. Con: AI will have difficulty reaching the socioemotional learners who benefit from human contact and empathy.
+1.6.4. Con: AI can be a helpful tool for teachers.
+1.6.4.1. Pro: AI solutions could decrease the workload of educators by helping with routine-based course work, which may be beneficial for overworked teachers.
+1.6.4.1.1. Pro: Frees the time of educators from routine-based work \(evaluation, answering emails, reminding about deadlines etc.\) to developing pedagogy and being present for students.
+1.6.4.1.1.1. Pro: AI can provide [automate grading](https://www.thetechedvocate.org/7-roles-for-artificial-intelligence-in-education/).
+1.6.4.2. Pro: As AI takes "a teaching role", providing students with information, it may facilitate the transition for teachers to have a role as classroom facilitators or [learning motivators](https://www.thetechedvocate.org/7-roles-for-artificial-intelligence-in-education/).
+1.7. Pro: AI could tailor learning to keep up with the ever-changing pace of society by knowing what is obsolete and what is not \(by analyzing trends and providing up-to-the-minute information while teaching\).
+1.7.1. Pro: Ensuring that education is never obsolete will help students stay relevant, especially when they go look for jobs.
+1.8. Pro: Using AI could ultimately bring down costs for schools, as they may replace other technology and possibly even some staff.

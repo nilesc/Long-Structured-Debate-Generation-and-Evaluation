@@ -1,0 +1,22 @@
+Discussion Title: Is Platonism true?
+
+1. Is Platonism true?
+1.1. Pro: Platonism is not literally true in exactly the way stated by Plato, but aspects of this system remain the best way to describe certain features of metaphysics including universals and the relation of being to becoming.
+1.2. Pro: Numbers are objective, they have been found in many cultures and can be understood by all humans and computers alike, even animals count as we do.
+1.2.1. Pro: Numbers require their own independent existence to explain. This is why all cultures around the world find them.
+1.3. Con: Maybe mathematics is only part of our universe, 1+1=2 only holds true if there is something to count. If there would be no universe, there would be nothing to count.
+1.4. Con: Mathematics have been invented by humans to describe the nature.
+1.4.1. Pro: The classical example of adding apples shows that we may arbitrarily assign any number to the apples \(their masses, temperatures, surface areas, etc.\), so the mathematical interpretation will vary depending on perception.
+1.4.2. Pro: Physical phenomena cannot be fully described mathematicaly.
+1.4.3. Pro: [Gödel prooved](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) that logic is not self-consistent. As there are no known exceptions to physics, it's rational to conclude that logic and mathematics are flawed, but useful tools made for understanding the true reality.
+1.5. Pro: Numbers can't exist just in our minds, since the world clearly obeys to mathematical rules, which are the only supposedly "mental" products that seem to evoke obedience in the phisical world, not the contrary
+1.6. Pro: Physic can inspire new mathematical theories, so math is also "Discovered" empirically, in a way.
+1.7. Pro: If God exists, then Platonism might also be true and viceversa, because God is sometimes defined as Logos, which is the supreme collection of all abstract concepts and rationality. If we assume that Numbers exist objectively as Platonic Ideas, the Logos is the Supreme Ensamble or Algorithm
+1.8. Con: Platonism cannot be scientifically proven today
+1.8.1. Con: Philosophical arguments an be proven without scientific evidence.
+1.8.1.1. Con: This would make these philosophical arguments unfalsifiable.
+1.8.2. Pro: Metaphysical claims often go beyond the available physical evidence.
+1.9. Pro: Science supports Platonism: Physical Digitalism, Nick Bostrom's Simulation hypothesis and Tegmark's Mathematical Multiverse all point out to the fabric of reality being ultimately numbers. Quantum Mechanics also seems to indicate that our universe might work like a Quantum Computer based on Qubits \(particles\). M-Theory suggests that our Multiverse has an algorithmical nature.
+1.10. Pro: Mathematical Platonism is still considered one of the best Philosophies of Mathematics and it is widely considered as the "Winning side" of the Postulation Crysis, having very little criticism.
+1.10.1. Pro: Just as electrons and planets exist independently of us, so do numbers and sets. And just as statements about electrons and planets are made true or false by the objects with which they are concerned and these objects’ perfectly objective properties, so are statements about numbers and sets. [plato.stanford.edu](https://plato.stanford.edu/entries/platonism-mathematics/)
+1.11. Con: According to Kant the apparent Order in what we see \(including math\) can be attributed to how our mind orders data. Numbers don't exist, we just project them unto what we see to order our world.

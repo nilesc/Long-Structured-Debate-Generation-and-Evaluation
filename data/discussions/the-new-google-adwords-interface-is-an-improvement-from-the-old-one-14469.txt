@@ -1,0 +1,18 @@
+Discussion Title: The new Google AdWords interface is an improvement from the old one.
+
+1. The new Google AdWords interface is an improvement from the old one.
+1.1. Pro: Easier to navigate different levels of Adwords.
+1.2. Con: For new AdWords users it is more difficult to learn because there are not many Youtube tutorials as of now.
+1.2.1. Con: This is only a matter of time - tutorials and instructional blogs on the new interface will inevitably appear with time.
+1.3. Pro: The new ad suggestions feature helps to create higher performing ads.
+1.4. Pro: The new Audiences Page allows for better targeting.
+1.5. Pro: There is a clean new look and feel.
+1.6. Con: Not all existing features are available.
+1.7. Con: The new interface has no display planner.
+1.8. Pro: Better view on mobile.
+1.9. Pro: Easier to manage campaigns in bulk.
+1.10. Con: Any change is disruptive. They should give the option of the old interface for years to come.
+1.10.1. Con: Over time, this would result in consumers being on a range of different versions which would make it impossible for Google to manage updates.
+1.11. Con: Its still in the beta version and crashes often.
+1.11.1. Con: This is only temporary - by definition.
+1.12. Pro: Increased focus on the metrics that matter.

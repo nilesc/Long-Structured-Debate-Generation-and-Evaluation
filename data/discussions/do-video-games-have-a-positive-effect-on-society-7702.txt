@@ -1,0 +1,94 @@
+Discussion Title: Do video games have a positive effect on society?
+
+1. Video games have a positive impact on society.
+1.1. Con: Video games negatively influence sexist attitudes.
+1.1.1. Con: Games can negatively influence sexist attitudes, but this can also be said for television, cinema, literature and so on. It is not about the media itself, but those who produce content for it.
+1.1.2. Pro: [Female characters](https://www.thetalko.com/14-big-problems-with-the-portrayal-of-females-in-video-games/) in video games tend to be attractive, dressed provocatively, and generally have limited roles. This paints an objectified and sexualised image of women that warps how they are seen in real life.
+1.1.3. Pro: According to [a study](http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00466/abstract) of more than 13,000 adolescents, researchers found a significant link between video game exposure and sexism.
+1.1.4. Con: This is indicative of a problem surrounding video games and within gaming communities, not with the games themselves.
+1.1.4.1. Pro: These problems likely stem from the gender division of toys and the original marketing decision to place games in the "boys" section of old toy aisles.
+1.1.4.2. Con: Gaming communities are a product of video games. Problems that are prevalent in these communities are therefore also a product of video games.
+1.1.4.2.1. Con: Issues arise when people who already have problematic views or exhibit or have the tendency to exhibit toxic behavior join these communities- this is the case with any community, and is not particular to video game communities themselves.
+1.2. Pro: Video games can contribute to the development of multiple cultural narratives. Their authors can communicate their worldviews and, following the community of practise framework, players may also form their own stories and common references.
+1.3. Pro: Videogames can offer a positive escape from reality.
+1.3.1. Pro: People can experiment in a safe environment by creating challenges physically impossible to implement in the real world [\(Reality is broken\)](http://www.iftf.org/our-work/featured-books/reality-is-broken/)
+1.3.2. Pro: Video games keep kids off the streets in gang infested areas.
+1.3.3. Pro: Video games act as a way to relieve stress.
+1.3.3.1. Pro: Video games have great escapism value, allowing people to get away from any stress in their lives.
+1.3.3.2. Con: While this is occasionally true for single player games, competitiveness in PVP video games is often [toxic](http://jultika.oulu.fi/files/nbnfioulu-201706022379.pdf) in a way that not everyone can cope with.
+1.4. Pro: Video games can be educational.
+1.4.1. Pro: Video games improve the ability to make [faster decisions](https://www.city.ac.uk/news/2016/march/video-games-improve-decision-making) without loss in accuracy.
+1.4.2. Pro: Video games improve hand eye coordination and sensorimotor skills. Skills which are vital for everyday human functions.
+1.4.2.1. Pro: Video games have been [shown](https://www.psychologytoday.com/gb/blog/ulterior-motives/201608/video-game-play-benefits-coordination) to increase hand eye coordination.
+1.4.3. Pro: Playing video games that involve shooting [improve people's capacity](http://www.apa.org/news/press/releases/2013/11/video-games.aspx) to think about objects in three dimensions, just as much as academic courses to enhance these same skills.
+1.4.4. Pro: Cooperative multiplayer games such as MMORPGs can foster teamwork, leadership, and people managing skills.
+1.4.5. Pro: Even non-educational games are a highly effective way of learning language.
+1.4.5.1. Pro: Video games tend to repeat the same commands throughout the game, making it easier to learn these words and phrases without too much effort.
+1.4.6. Pro: [Minecraft](https://education.minecraft.net) offers educational activities to help students learn simple concepts at a young age.
+1.4.7. Con: The fact that they can, on occasion, have educational elements does not outweigh the overall negative effect that the videogame industry has on society.
+1.4.7.1. Con: There have been [no proven negative effects](https://theconversation.com/its-time-to-end-the-debate-about-video-games-and-violence-91607).
+1.4.7.2. Con: Under that same logic, movies, books and music should be treated in the same way. A media format cannot be judged in the same way the works done on it are.
+1.4.8. Pro: Video games are increasingly gaining traction in providing training, improving skills, and being used in analyses in fields such as economics and psychology. For example, there is an [economic study regarding World of Warcraft transactions](https://journals.tdl.org/jvwr/index.php/jvwr/article/viewFile/869/634).
+1.5. Pro: Video games can solve real world problems.
+1.5.1. Pro: Some examples include [fold.it](https://fold.it/portal/) and the in-game mini-games of [eveonline.com](https://www.eveonline.com), specifically [project discovery](https://www.eveonline.com/discovery/).
+1.5.1.1. Pro: The pandemic incident in World of Warcraft \([Corrupted Blood](https://allthatsinteresting.com/corrupted-blood)\) is another good example of video games helping solve real world problems. It gave epidemiologists an opportunity to study human behaviour in global crisis.
+1.6. Pro: Video games support the economy.
+1.6.1. Pro: The video games industry is [high growth](http://www.theesa.com/wp-content/uploads/2014/11/VideoGames21stCentury_2014.pdf); from 2009 to 2012, the U.S. video game industry increased by over 9%.
+1.6.2. Pro: Video games drive technological development and innovation.
+1.7. Con: Video games cause violence.
+1.7.1. Con: it was never showed an evident correlation between the two. [Quite the contrary ​](https://www.engadget.com/2018/03/07/video-game-violence-trump-meeting-esa-nra/?guccounter=1)
+1.7.2. Pro: Games promote violence.
+1.7.2.1. Con: Violent video games are rated for more mature audiences. It is up to parents to ensure their children are playing age appropriate games, just as they should with violent movies.
+1.7.2.1.1. Con: Parents may not understand the rating system or may be naive to the fact modern video games have violence in them, given the fact their generation did not have these.
+1.7.2.2. Con: The ability for somebody to act out a violent fantasy in a game such as GTA V, as a form of fulfilment and relief, may prevent them from actually committing a similar act in real life.
+1.7.2.2.1. Con: If video games can become a behavioral addiction, and also are susceptible to a diminished returned effect in the reward center of the brain, this could lead to video games no longer providing an outlet of violence for these people, and could lead them to carrying the acts out in real life in order to satisfy those fantasies.
+1.7.2.3. Con: [Scientists found](http://www.telegraph.co.uk/science/2017/03/08/violent-video-games-like-grand-theft-auto-do-not-make-players/) that the levels of aggression and capacity for empathy in people were the same, regardless of whether or not they play violent games.
+1.7.2.4. Pro: A [meta-analytic review](http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00366) of the research literature on video games shows that violent video games increase aggressive behaviour in children and young adults.
+1.7.2.5. Pro: [A study](http://www.telegraph.co.uk/news/uknews/1337971/Computer-games-make-children-anti-social.html) found that computer games do not promote complex enough thought processes to stimulate crucial areas of the brain, which leads to underdevelopment and consequent behavioural problems such as violence.
+1.7.2.5.1. Con: This study has been [widely dismissed](https://www.newscientist.com/article/dn2538-video-game-brain-damage-claim-criticised/) as no direct evidence for lasting damage was found.
+1.7.3. Pro: Video games desensitize people to violence.
+1.7.4. Con: Violence was present long before video games were even a thought.
+1.7.5. Con: A good deal of video games do not promote violence, nor encourage it, at all.
+1.7.6. Pro: Games may promote anger among players and other people in the society we live in.
+1.7.6.1. Con: This anger, commonly known as rage which leads to "rage quitting" from a game is temporary and is no different from the anger you have while driving and someone cuts you off.
+1.7.6.2. Con: -> See 1.4.7.1.
+1.7.7. Con: There is a [negative correlation](https://www.forbes.com/sites/erikkain/2012/04/19/as-video-game-sales-climb-year-over-year-violent-crime-continues-to-fall/#10e3866c4507) between video game sales and violent crime.
+1.7.7.1. Con: [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) , the increment in video game sales and violent crime could not be directly related.
+1.8. Con: While acceptable in moderation, video games are a waste of one's energy that could be used productively elsewhere.
+1.8.1. Con: Like any medium, video games can act as a vehicle for communication of ideas. As such, one’s worldview might be informed by a particularly impactful story in a game, making games not a waste of time but actually a productive use of time.
+1.8.2. Con: In the modern age, video games have a lot of potential for personal vocation.
+1.8.2.1. Pro: Video games act as a gateway for an interest in computers and computer science.
+1.8.2.1.1. Con: Video games are a small fragment of the overall IT field and do not represent the mass majority of IT type of work related company needs in IT. Very few gain employment or experience towards IT work from anything video game related.
+1.8.2.2. Pro: They have become a viable career path, making or playing them.
+1.8.2.2.1. Pro: If the time invested ends up making the player good enough to be in a professional league and then live from it, then it's not time lost.
+1.8.2.3. Con: Vocation in other career areas should be promoted, as these provide more benefits to society.
+1.8.2.3.1. Con: Video games are a form of art, which usually has inherent social value.
+1.8.2.3.2. Con: Individuals also have a right to enjoy themselves. Video games are an avenue through which they do so.
+1.8.3. Pro: Video games promote procrastination.
+1.8.4. Con: Multiple forms of engaging entertainment, including puzzles or challenging books, could be subject to the same complaint.
+1.9. Con: Video games are addictive.
+1.9.1. Con: No game is addictive, it is the player who is addicted to it.
+1.9.1.1. Con: The word 'addictive' means causing addiction. So if a game causes its players to get addicted, then the game is by definition addictive.
+1.9.1.2. Con: This is like saying "No drug is addictive, it is the user who is addicted to it."
+1.9.2. Con: The American Psychiatric Institution [does not recognise](https://en.wikipedia.org/wiki/Video_game_addiction) video games as an addiction.
+1.9.3. Pro: Video games act as a platform for underage gambling.
+1.9.3.1. Con: "Lootbox" and "microcurrency" mechanics are relatively new additions to video games and are not intrinsic to the nature of video games.
+1.10. Pro: Games act as a social platform.
+1.10.1. Pro: VR and AR video games can be a form of exercise.
+1.10.1.1. Pro: With the development of new ways of gaming such as VR or AR, game developers invest thousands of dollars in sports games, such as tennis world, that help anti-social people or busy ones exercise in their apartment.
+1.10.1.2. Con: A [study](https://arstechnica.com/gaming/2017/11/study-pokemon-go-led-to-increase-in-traffic-deaths-accidents/) suggested that the AR video game phenomenon Pokemon Go may have been responsible for a significant rise in road traffic accidents, vehicle damage, injuries and even deaths in 2016.
+1.10.1.3. Pro: Handicapped members of society and people generally not good at sports, are able to enjoy and participate in sport competitions by playing computer games, something that they would otherwise not be able to experience.
+1.10.2. Pro: Video games are a great way to meet new people.
+1.10.3. Pro: Video games are a form of entertainment. Entertainment is an important part of society.
+1.10.4. Con: Games are a means of maintaining deficient social relationships, which inevitably replace real, face-to-face relationships with other humans.
+1.10.4.1. Con: Events such as E3, Gamescom or other types of events such as League of Legends Championship are a modern way of socializing as gamers get together and talk about games or other things that interest them. That leads to the creation of new relationships.
+1.10.5. Pro: Video games such as [Minecraft](https://www.newscientist.com/article/mg23030713-100-how-is-helping-children-with-autism-make-new-friends/) can be a helpful way for people with autism to make friends.
+1.10.5.1. Pro: Stuart Duncan \(aka The Autism Father\) has done an amazing job at helping people with autism through Minecraft. [TED talk](https://youtu.be/n5AUjQyFAaw).
+1.10.6. Con: Most games only have social contact by text or voice.
+1.10.6.1. Con: This makes video games no different from any of the social media sites.
+1.10.6.2. Pro: [Roughly 60-80%](http://open.lib.umn.edu/communication/chapter/4-2-types-of-nonverbal-communication/) of all communication is nonverbal, leaving roughly 20-40% for words, tone of voice, speech patterns, inflection, etc. It is widely believed that roughly 7-10% accounts for words alone. Given these facts, video games are not an adequate platform for true social engagement.
+1.11. Con: Video games have a negative influence on people who play them.
+1.11.1. Con: Playing video games has been shown to [increase grey matter](https://www.sciencedaily.com/releases/2017/12/171206141648.htm) in the brain. It is being considered as a way of combating Alzheimer's disease.
+1.11.1.1. Pro: -> See 1.4.2.
+1.11.2. Pro: Video games [lower impulse control](https://drdouglas.org/GSLK_PPMC2012.pdf) and frustration tolerance and encourage seeing others as problems that will disappear when solved.
+1.11.3. Pro: [This article](https://www.cnn.com/2017/12/13/health/virtual-reality-vr-dangers-safety/index.html) claims that VR can cause the brain to store what the viewer sees at real events. If video games for VR develop real-life graphics, the brain could store these instances as real-life events, and this could cause trauma or violent behavior.

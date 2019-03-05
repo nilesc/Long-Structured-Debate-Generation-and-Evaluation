@@ -1,0 +1,24 @@
+Discussion Title: Agile certifications do not advance Agile thinking
+
+1. Agile certifications do not advance Agile thinking
+1.1. Con: Certifications can be a way for those who are new to Agile to quickly cover a lot of ground.
+1.1.1. Pro: Following a set curriculum makes it easy to know where to start and what core material need to be covered.
+1.2. Pro: Certifications support and are built on current ways of thinking.
+1.3. Pro: Certification programs exist to make money for the training companies, not to encourage new thinking.
+1.3.1. Con: There is no evidence that can prove this is the only motivation for training companies.
+1.4. Con: Certifications force people to think deeply about the material, which can lead to new ideas along the way.
+1.4.1. Con: Certifications are usually obtained through learning, not through thinking. Quite the opposite: 'thinking' may lead to 'wrong' answers in the final exams.
+1.4.2. Pro: Certifications force people to read and reflect a lot to be able elaborate their own positions. This certainly benefits thinking.
+1.5. Pro: Certifications are not difficult to obtain.
+1.5.1. Con: That depends on the certification and the person's existing capacity and knowledge.
+1.5.2. Pro: Many certifications are designed in a way that \(just\) require learning as opposed to understanding.
+1.6. Con: Certifications prove you are serious about your craft and willing to take the time to learn and improve.
+1.6.1. Con: This may be useful as a sign to employers, but does not necessarily advance the skill.
+1.6.2. Con: While Certifications are a sign that someone has taken some time to learn, they don't necessarily denote seriousness about a craft. There may be many other motivations to obtain such sign.
+1.7. Pro: Certifications lock you into one way of thinking/methodology \(Scrum, Kanban, etc\) and not how Agile applies across multiple methodologies.
+1.8. Pro: Experience counts for way more than training.
+1.8.1. Pro: Agile is a practice, it's a practical approach to building software. As such, it is only through practical application that such a practice can be mastered.
+1.8.2. Con: Even if this is true, that does not prove that certifications don't advance agile thinking, just that they are not the most effective way of doing so.
+1.8.3. Con: It is impossible to get experience without first understanding some basics.
+1.8.4. Con: Some certifications require practical experience, even if within the context of the certification.
+1.9. Pro: Certifications reward those who are good at taking tests.

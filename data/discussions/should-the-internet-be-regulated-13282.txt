@@ -1,0 +1,107 @@
+Discussion Title: Should The Internet Be Regulated?
+
+1. The internet should not be regulated.
+1.1. Con: Internet infrastructure is predominantly run by nation states, which are governed by law.
+1.1.1. Pro: If physical hardware and its maintenance is subject to law, so is the space it makes possible.
+1.1.2. Con: The internet is a tool invented thanks to United States taxpayer funded research and should be used in any way that benefits those taxpayers the most.
+1.2. Con: Internet use and services provided online by government or business should be subject to regulations.
+1.2.1. Pro: Regulations can improve consumer protections against self-interested service providers.
+1.2.2. Pro: The financial sector's online activities should be regulated.
+1.2.2.1. Pro: There have already been many issues relating to the financial sector, failing to police the Internet will allow more issues to arise. Bitcoin is a good example of this, as it is widely used by criminals to complete illicit transactions.
+1.2.2.1.1. Pro: For cryptocurrency such as Bitcoin to function like money, it has to be regulated online like any other monetary establishment.
+1.2.3. Pro: Government actions online should be regulated.
+1.2.4. Con: This leaves out a substantial portion of the internet unregulated.
+1.2.4.1. Con: The government provides most of the necessary infrastructure, such as fiber optic cable, the internet needs to operate.
+1.2.4.1.1. Con: This is not the case in the UK, where [BT provides](https://en.wikipedia.org/wiki/Openreach) the infrastructure for nearly all homes and businesses.
+1.2.4.2. Con: Private spaces in the physical world, such as somebody's bedroom, cannot be regulated either.
+1.3. Con: The internet should be regulated insofar as the government should prohibit and combat illegal activity.
+1.3.1. Con: Regulating will undoubtedly increase the amount of hackers and criminal acts to obtain access.
+1.3.1.1. Con: This criminal increase would be due to legal gray zones that come about by making something criminal that wasn't before, not necessarily that more people will intentionally commit crimes.
+1.3.2. Con: Allowing governments and business the right to restrict the internet gives them the ability to make more money off of a system of communication that should be free.
+1.3.2.1. Con: Without the government putting regulations on the internet, like [anti-trust laws](https://en.wikipedia.org/wiki/United_States_antitrust_law) or [Net Neutrality](https://en.wikipedia.org/wiki/Net_neutrality), you increase the potential for businesses like Internet Service Providers to restrict the accessibility of information between the users, either by allotted bandwidth or price gouging.
+1.3.2.1.1. Pro: Data Brokers also stand to benefit from price per bandwidth roll-outs by ISP's.
+1.3.3. Pro: It is the duty of the government to protect its people. Prohibiting activity online is therefore a necessary priority in the age of the internet.
+1.3.4. Con: Government can combat illegal activities by letting criminals convict themselves online.
+1.3.4.1. Pro: Internet with no regulation provides criminals with more space to publish materials fully or partially convicting them. In terms of: You can tell who is who if he has space to expres himself.
+1.3.4.2. Con: Allowing criminals to convict themselves would create an influx of red herrings and criminals "tying up loose ends" by getting their accomplices, or witnesses to their crimes, convicted.
+1.4. Pro: Regulating the internet restricts communication between humanity.
+1.4.1. Pro: Social media platforms would be limited in the freedom and format one has to interact with others across the globe.
+1.4.2. Pro: Any restrictions on communication can interfere with connections between families living in different locations.
+1.4.3. Con: It can also be assumed that it regulating the internet can make communication safer and more enjoyable.
+1.4.3.1. Con: Typical approach to regulation is to deny everything that's not produced for profit in the local market. This prevents most of the safe approaches to global internet communication, and attempts to produce monopoly power to existing market participants.
+1.4.4. Con: Regulations, like [net neutrality](https://www.washingtonpost.com/news/the-switch/wp/2014/01/14/a-fema-level-fail-the-law-professor-who-coined-net-neutrality-lashes-out-at-the-fccs-legal-strategy/?utm_term=.f0789943a075), promote the accessibility and ease of use of communication between users.
+1.4.4.1. Pro: Regulations such as [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation), [Net Neutrality](https://en.wikipedia.org/wiki/Net_neutrality), [Anti-cyberbullying](https://en.wikipedia.org/wiki/Cyberbullying#Legislation), [Anti-trust](https://en.wikipedia.org/wiki/United_States_antitrust_law) and [Right to be Forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten) are examples of legislation that benefit the public as a whole.
+1.5. Pro: Regulating may restrict valuable information from the public.
+1.5.1. Con: Without regulations, a company or service provider could restrict valuable information from the public.
+1.5.2. Pro: [Right to forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten) laws could potentially wipe information of arrest records, or alleged wrongdoings, of potentially violent or unstable individuals.
+1.5.3. Con: This is only the case for badly implemented regulation.
+1.5.3.1. Pro: Most societies rely on systems which could be damaging if abused \(eg policing, security, and surveillance\), but we still need them.
+1.5.3.2. Pro: Potential for abuse is not reason to avoid something, rather it is a reason to ensure it is done correctly.
+1.5.4. Pro: Repressive governments have shut down the Internet during protests or revolutions to prevent them from disseminating information.
+1.5.5. Pro: Regulations can limit the availability of educational information for students who use online resources for school.
+1.5.6. Con: Restrictions can be put in place to limit the amount of potentially harmful information.
+1.5.6.1. Pro: Child blocks and age restrictions on sites can restrict harmful internet content from young children.
+1.5.6.1.1. Con: Parental controls are operated at the discretion of the parent.
+1.5.6.2. Con: What is considered harmful is subjective at the parental, state, and federal level. Therefore, what is harmful for one group may be just fine for another.
+1.5.6.3. Con: Restrictions on harmful information do not preclude restrictions on valuable information - the former has no relevance to objections rooted in the latter.
+1.5.7. Pro: Parties may use regulations to limit and manipulate communication to their own benefit.
+1.6. Pro: It is impossible to enforce laws online.
+1.6.1. Pro: There is no unified "online police force".
+1.6.1.1. Con: [Law Enforcement Online](https://catalog.data.gov/dataset/law-enforcement-online) is such a system within the FBI that shares criminal and unjust data at the local, state, and federal level.
+1.6.1.1.1. Con: The FBI is a US-American institution, whose authority is limited to US targets.
+1.6.1.2. Con: Whether there presently exists a 'unified online police force' can not establish that it is impossible for one to exist nor whether it is impossible to enforce laws.
+1.6.1.3. Con: A country's laws apply in cyberspace, just as well as in the real world. And the platforms and criminals will be held responsible for criminal activities perpetrated online.
+1.6.2. Pro: In order to enforce laws online, a system of laws would have to be agreed with all nations which participate in the internet agree to. Something which would likely require a huge amount of time and resources.
+1.6.2.1. Pro: The UN has specified common core [human rights](https://en.wikipedia.org/wiki/Human_rights?wprov=sfla1). These can be used as common rules and applied to activities occurring via the internet.
+1.6.2.2. Con: Difficulty does not imply impossibility.
+1.6.2.3. Con: Definitely not, there are many nation-/region-specific laws that Internet platforms have to adhere to, or risk being prosecuted.
+1.6.2.3.1. Con: Most social media platforms primarily enforce U.S. laws. [Confirmation bias](https://en.m.wikipedia.org/wiki/Confirmation_bias?wprov=sfla1)
+1.6.2.3.1.1. Pro: Facebook primarily enforces U.S. laws. [CNBC: Facebook changes terms of service.](https://www.cnbc.com/2018/04/18/new-eu-privacy-law-facebook-is-changing-terms-of-service.html)
+1.6.2.3.2. Pro: EU GDPR privacy regulation hit all platforms world-wide and they all comply or geo ip block, like the LA times, all of Europe, fearing the penalties associated with non-compliance.
+1.6.2.3.3. Pro: German anti-hate speech laws forced Facebook to employ over 1200 German-speaking "censors" that deal with reported comments and posts. [Guardian](https://www.theguardian.com/world/2018/jan/05/tough-new-german-law-puts-tech-firms-and-free-speech-in-spotlight)
+1.6.2.3.4. Pro: European "right to be forgotten" laws force Google to delete [millions](https://gizmodo.com/google-says-its-received-2-4-million-takedown-requests-1823347633) of links.
+1.6.3. Con: Child porn, for instance, is actually banned and prosecuted somewhat successfully.
+1.6.4. Con: Plenty of laws, like e.g. GDPR or anti-bullying laws are being rigorously enforced online.
+1.6.5. Pro: The internet is not a physical space, so no law can govern it.
+1.6.5.1. Con: There is no reason why a law cannot govern a non-physical space. In some respects laws already govern non-physical spaces like Intellectual Property law, which deals with ideas.
+1.6.5.1.1. Con: Thought cannot be restricted by law.
+1.6.5.1.1.1. Con: Maybe thoughts can't be regulated, but actions can. When someone posts on the Internet, offers a service, or takes some other action, it may very well fall under an applicable law for the jurisdiction within which that person, company, or organization resides.
+1.6.5.1.2. Pro: Laws clearly also apply to cyberspace.
+1.6.5.2. Con: Whether something is possible or not has no bearing on whether it is better or not.
+1.6.5.3. Pro: The Internet does not have borders like nation states.
+1.6.5.3.1. Con: [The internet](https://www.kaspersky.com/blog/amazing-internet-maps/10441/) has many kinds of [borders](https://en.m.wikipedia.org/wiki/Internet_protocol_suite?wprov=sfla1), including borders between [nation states](https://en.wikipedia.org/wiki/Country_code_top-level_domain?wprov=sfla1). But crossing the borders is much easier and faster \([measured](https://en.m.wikipedia.org/wiki/Ping_%28networking_utility%29?wprov=sfla1) in milliseconds\).
+1.6.6. Con: Automated enforcement of laws regarding automated processing of information on the internet can be implemented in software. [List of RFC's \(wikipedia\)](https://en.wikipedia.org/wiki/List_of_RFCs?wprov=sfla1)[RFC1281: Guidelines for the secure operation of the internet](https://www.ietf.org/rfc/rfc1281.txt)[RFC3365: Strong security requirements for IETF standard protocols](https://tools.ietf.org/html/rfc3365)
+1.6.6.1. Con: Laws in different countries are different. But the internet is global. Enforcement of laws on the internet needs to consider the variance in details of laws.
+1.6.6.2. Pro: Security features of technical solutions on the internet protect the systems connected to the internet.
+1.7. Pro: Anonymized networks are already lawless spaces.
+1.7.1. Pro: It is not possible to locate servers on the onion network, for example, making it impossible to enforce national laws.
+1.7.1.1. Con: Servers on onion networks are successfully targeted by law enforcement agencies, compromised and their users deanonymized and prosecuted. \([Hansa](https://www.wired.com/story/hansa-dutch-police-sting-operation/)\) \([Playpen](http://www.bbc.co.uk/news/technology-39844265)\) \([Onymous](https://www.wired.com/2014/11/operation-onymous-dark-web-arrests/)\) \([Alphabay](https://www.wired.com/beyond-the-beyond/2017/07/alphabay-described-fbi/)\) \([Silk Road](https://www.wired.com/2015/04/silk-road-1/)\)
+1.7.2. Pro: It is unclear how national jurisdictions operate online. Sites can be hosted in different locations or mirrored in multiple nations.
+1.7.2.1. Con: Doesn't matter where the servers are, what law enforcement agencies are after are their operators, which are citizens of countries and physically reside somewhere on planet Earth.
+1.7.3. Con: Whether anonymized networks presently are lawless spaces is irrelevant to whether they should be lawless spaces.
+1.7.3.1. Pro: All spaces were lawless until the need for laws presented itself. The same is true for internet regulation.
+1.7.4. Con: Laws may often not be enforceable in the darknet, but when criminals are deanonymized they will be prosecuted.
+1.7.4.1. Pro: -> See 1.7.1.1.
+1.8. Pro: -> See 1.6.5.
+1.9. Con: The internet has become a public space, so it should be regulated.
+1.9.1. Pro: Facebook provides multiple services which need regulation.
+1.9.1.1. Con: Facebook primarily provides service to advertisers. [News report of Facebook CEO Mark Zuckerberg about Facebook business model](https://www.bluefountainmedia.com/blog/senator-we-sell-ads-mark-zuckerberg-faces-congress/)
+1.9.1.2. Pro: Individual privacy should be protected online.
+1.9.1.2.1. Con: Users should act responsibly and not reveal their personal data online.
+1.9.1.2.1.1. Con: Sharing personal data online is not irresponsible. It is necessary for transactions, communication, and employment in some cases.
+1.9.2. Pro: -> See 1.4.4.1.
+1.9.3. Pro: [Hacktivist](https://en.wikipedia.org/wiki/Hacktivism) groups have used online public spaces for political protest.
+1.9.3.1. Pro: Some [activists](https://en.wikipedia.org/wiki/Hacktivismo#The_Hacktivismo_Declaration) argue that DDOS attacks, a frequently used protest tool, limits the other party's freedom of speech and should not be used.
+1.9.3.1.1. Con: DDOS attacks are the online equivalent of a [sit-in](https://en.wikipedia.org/wiki/Sit-in).
+1.9.3.1.2. Con: DDOS is an expression of [free speech](https://www.dailydot.com/layer8/ddos-attack-political-protest/).
+1.9.4. Pro: The internet is basically a means of contact between people, and the safety of people should be protected regardless of how it is threatened.
+1.9.4.1. Con: There are many parts of the internet that are not a means of contact, but rather a platform for information. Regulation of these spaces is not necessary in this case.
+1.9.4.1.1. Con: When information is shared, communication is made, whether actively or passively.
+1.9.4.1.2. Con: Many such spaces share information on bomb-making, how to perpetrate violence, how to manipulate other people. Such spaces should be regulated.
+1.9.5. Con: The internet is not like physical public space, where regulations keep people from being physically harmed.
+1.9.5.1. Con: There are laws concerning public spaces which are not concerned with physical harm, such as slander, harassment, and discrimination.
+1.9.6. Pro: Many public spaces, like a marketplace or town square, are not completely regulated.
+1.9.6.1. Pro: While people generally observe societal norms, they are not physically prevented from behaving any way they like.
+1.9.6.1.1. Con: If people break laws in a physical space the police can arrest them.
+1.9.6.2. Con: Peer pressure is a form of control that forces people to adjust their behavior to local norms and customs.
+1.9.7. Pro: Without regulations, people with greater power, access, or knowledge could impose their will on the vast majority of users.

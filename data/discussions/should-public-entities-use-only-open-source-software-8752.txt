@@ -1,0 +1,104 @@
+Discussion Title: Should public entities use only open source software?
+
+1. Public entities should only use open source software.
+1.1. Con: Huge amounts of hardware would also need to be replaced, as lots of equipment relies on closed source software.
+1.1.1. Pro: Law Enforcement technology needing replacing would include [Phones, Communication Relays, Push to Talk systems](https://www.officer.com/command-hq/technology/communications/article/12350627/police-radios-and-other-law-enforcement-communication-equipment), [Emergency call tracking](https://www.officer.com/command-hq/technology/communications/product/12344361/nice-systems-inform-elite-incident-intelligence-for-emergency-communications-centers), and [License Plate Readers](https://www.eff.org/pages/automated-license-plate-readers-alpr).
+1.1.2. Pro: All government access control systems \([eg](http://www.matrixsys.com/security-solutions/government-security.html) swipe passes/keypads\) would need replacing.
+1.1.3. Pro: Every printer used by public entities would need to be replaced, as printer manufacturers are unlikely to allow the creation and use of alternative OSS firmware over their own.
+1.1.4. Con: If a government did declare it was going fully open source, many manufacturers would release open source versions to ensure they continued making money from government procurement.
+1.1.4.1. Con: If only one government made the change, it may be in the interest of the manufacturers to just leave that country, as there would be no way to stop other countries who haven't mandated OSS from taking the open source versions and no longer paying for the corporate versions.
+1.2. Pro: When drones and robots are fully autonomous I think we all deserve and want to know what logic they are going to use when deciding to engage and kill.
+1.3. Con: The available open source software may not meet the needs of the government.
+1.3.1. Pro: Private enterprise may not be willing to create the software needed unless they are free to sell it to others, or be forced to charge the full amount of development and future maintenance to a single government agency.
+1.3.1.1. Con: Not only private enterprise is able to generate software.
+1.3.1.2. Con: By definition, open software is free to be sold or modified.
+1.3.1.3. Con: There are many [business models that work with open source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software).
+1.3.1.4. Pro: It's difficult to coordinate multiple organizations to fund one open source project, even if it would be beneficial for all.
+1.3.2. Con: Goverment may pay programers to work in a open project, as some companies have [done](https://www.techrepublic.com/article/why-microsoft-and-google-are-now-leading-the-open-source-revolution/).
+1.3.2.1. Con: This may incur increased public spending when compared to simply purchasing an off the shelf product
+1.3.2.2. Pro: Governments paying locals to create software would have a positive economical impact for their geography.
+1.3.3. Con: Because this software is open source, it can be changed to meet the needs of the government.
+1.3.4. Pro: Some public entities require secrecy.
+1.3.4.1. Con: Secrecy and closed source are not synonymous: anything that needs to be secret should be saved as encrypted data and the keys can be kept secret.
+1.3.4.1.1. Con: If the function of the code is the secret, then encrypting it causes it to not really be open source any longer.
+1.3.4.1.2. Con: The data about cases can be encrypted and kept secret. Open source does not pertain to data, it pertains to code.
+1.3.4.2. Con: Using existing open source software instead of company-owned software does not imply that all software produced by the government needs to be open sourced itself. \(External software *must* be open source and internal software *can* e open source\)
+1.3.4.2.1. Con: However proposing that "public entities can *only* use open source software" would mean they are also unable to produce any more internal closed source software, as they would not be allowed to use it.
+1.3.4.3. Pro: Security services such as the USA's NSA, or UK's GCHQ require secrecy about what actions they are taking.  Open sourcing all code would reveal those actions.
+1.3.4.3.1. Pro: Writing implants/malware would not be possible in open source.
+1.3.4.3.1.1. Con: This is only true if the public organisation needs to keep the implant/malware secret.  Government organisations have a moral duty to responsibility release the software flaws they find.
+1.3.4.3.1.1.1. Pro: Open sourcing all public entity implant/malware development would ensure that everything is legal and appropriately authorized.
+1.3.4.3.1.1.2. Con: Government organisations have [legal and moral grounds for keeping things secret](https://www.telegraph.co.uk/news/uknews/law-and-order/9202957/Some-secrets-must-be-kept-and-no-one-needs-to-apologise-for-that.html).
+1.3.4.3.1.2. Pro: Patches for the malware would be released, meaning the security service/other government entity can not exploit the flaw.
+1.3.4.3.1.3. Pro: Existing hooks into bad guys' computing systems would be discoverable, and they would clean the infection/move to different computers.
+1.3.4.3.1.4. Con: Things that are not mandated by the public can be hidden in closed source and open source. Some backdoors and bugs have been planted in open source precisely because not enough people practice open source. Governments being forced to use open source can change this.
+1.3.4.3.2. Pro: Revealing the working of the [surveillance software used](https://www.telegraph.co.uk/news/uknews/crime/11114937/More-than-25000-people-caught-viewing-child-porn-online.html) would allow people to avoid surveillance.
+1.3.4.3.2.1. Con: It would also encourage people to avoid doing the thing that they are being surveilled for, especially if the working reveals that the surveillance is pervasive.
+1.3.4.3.3. Con: -> See 1.3.4.1.2.
+1.3.4.3.4. Con: This could be a good thing if you side with whistleblowers \(eg Snowden/Wikileaks\), as it would have revealed the governments actions sooner.
+1.3.4.3.4.1. Pro: In the case of the NSA it would reveal they are writing massive database systems, and systems which tap ISP cables and telephony networks. If this code was always open source, people would know roughly what the NSA was doing \(although not the specific data/companies they worked with\).
+1.3.4.3.5. Con: These services, alongside at least 3 more \(the so-called [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)\), have an internal "government open source" program.
+1.3.4.3.5.1. Pro: This allows code to stay classified, but also gives other members of the intelligence community access to make changes.
+1.3.4.3.5.2. Con: This gives none of the transparency or accountability benefits of regular open source.
+1.3.4.3.5.3. Con: This service is fairly under-utilized, as the most important code has sensitivities which means it cannot be open sourced even within the intelligence community.
+1.3.4.4. Pro: The police needs secret software to catch bad guys, for example child pornography users.
+1.3.4.4.1. Pro: -> See 1.3.4.3.2.
+1.3.4.4.2. Con: If the software and its functioning is secret, then bad guys can also use it and nobody would know.
+1.3.4.4.2.1. Con: This relies on someone leaking the software, and the software not requiring access to wider government-only services and datasets to function.
+1.3.4.4.2.2. Con: Bad guys stealing software and using it to catch child pornography users could be considered a crime for a greater good.
+1.3.4.4.2.3. Con: If software is open source bad guys can still use it and nobody would know if/who was using it. We would just know that the codes function is possible/available.
+1.3.4.4.3. Con: Even if the methods used are made public, details of active investigations would not, limiting the damage done.
+1.3.4.4.4. Pro: The software for [police phone cracking technology](https://motherboard.vice.com/en_us/article/aekqkj/us-state-police-have-spent-millions-on-israeli-phone-cracking-tech-cellebrite) would not have been possible if open source was required, because exposure of the methods used would have resulted in those flaws being patched.
+1.3.4.4.4.1. Con: Police/security services [should not be allowed](https://patch.com/us/across-america/should-police-be-allowed-hack-your-phone) the ability to hack people's phones.
+1.4. Con: There is often no direct contact with a helpdesk possible.
+1.4.1. Con: Commercial support is available for almost every Open Source project and can be provided by smaller and local businesses
+1.4.2. Con: As the code is visible, goverments can generate their own HelpDesk
+1.4.2.1. Con: This would mean each government or public institution funding, training and employing its own help desk for a number of different software packages.
+1.4.2.1.1. Con: Public instititutions forming and paying profesionals to resolve a public problem is a good thing
+1.4.2.2. Con: The typical help desk would gain little help from source code access, since most help desk requests are about how-to instructions, user-level troubleshooting and data inconsistencies.
+1.5. Pro: You can look at the code and see what is doing.
+1.5.1. Con: -> See 1.3.4.
+1.5.2. Pro: You can find bugs and contribute to a fix.
+1.5.3. Pro: This could let people fix software, since many times software created for public entities is useless because it is underdone or badly implemented.
+1.5.4. Con: Most users don't know how to read computer code.
+1.5.4.1. Con: Users don't need to look at the code. Profesional developers hired by the institutions Do
+1.5.5. Con: There is already more source code than what can ever be read.
+1.6. Pro: Sometimes proprietary software is not funded and may not get updated.
+1.6.1. Pro: Many government agencies, like the NHS in the UK, still use computers running Windows XP, which can cause massive security [vulnerabilities](http://www.businessinsider.de/why-the-uk-government-stopped-paying-for-windows-xp-2017-5?r=UK&IR=T).
+1.6.2. Pro: Proprietary software cannot be easily updated by those who are not copyright holders, and it may even be illegal in some jurisdictions.
+1.7. Pro: Open source software is often free or cheaper.
+1.7.1. Pro: In the Munich [LiMux project](https://en.wikipedia.org/wiki/LiMux), authorities are now [switching back to Windows](https://www.techrepublic.com/article/end-of-an-open-source-era-linux-pioneer-munich-confirms-switch-to-windows-10/) which costs many millions of euros. It would have been much cheaper to keep open source software.
+1.7.1.1. Con: The migration from closed source to open source also cost Munich millions. They'd have saved more by not doing the migration to open source in the first place rather than spending money to migrate away and them more money to migrate back.
+1.7.1.1.1. Con: The cost of such a migration is the cost of peoples' time plus the cost of the software. Free software comes with no cost, and everyone eats and spends the same, so the migration to free software would've necessarily been cheaper, had there been a free market in its support.
+1.7.2. Con: Developing new open software may be more expensive than contracting/buying existing software
+1.7.3. Pro: The costs of open source software can be distributed among all participating entities in a way much more transparent than privative software development.
+1.7.4. Pro: Funds used by each public entity can go to the issues that matter most to them, providing the most value for the cost.
+1.7.4.1. Con: This is not unique to open source software, and is the way things currently happen.
+1.7.5. Con: There may be fields where it is hard to find experts that would contribute their expertise as open source.
+1.7.5.1. Pro: -> See 1.3.4.3.1.
+1.7.6. Con: Some closed source software [charges per use](https://www.engadget.com/2018/04/13/police-iphone-cracker-graykey/).  This method of monetisation would not be possible with open source, so companies writing the code would have to charge huge amounts upfront to make the same amount of money overall.
+1.8. Pro: Transparency between the requirements and the delivered product would provide for better auditing and easier finding of political embezzlement.
+1.9. Pro: Open source software leads to more participative democracy.
+1.9.1. Con: There is no direct link between democratic participation and software.
+1.10. Pro: With proprietary software, the consumer cannot contribute a feature \(that may be useful also to others\) if that is not in the company's interests.
+1.10.1. Pro: This ensures job creation by forcing users to keep on reinventing the same features.
+1.10.2. Pro: This ensures that the pace of technology is slowed down long enough for everyone to catch up.
+1.11. Pro: Public documents should not be published in closed formats.
+1.11.1. Con: The vast majority of public records are released either in a document or pdf format, both of which  can be opened by open source software \(software like Open Office\) which removes the necessity of the person accessing them to purchase the software it was created in.
+1.11.1.1. Con: Open Office has a very large filesize, meaning those without internet access of reasonable speed will miss out if it is published in a format not readable by stock OS programs.
+1.12. Con: Some proprietary software is better for some specialized tasks.
+1.12.1. Pro: Proprietary software is needed when security is an issue.
+1.12.1.1. Con: [Security by obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) is not security. It is well known that if a security measure if not open for anyone to look at, it is going to fall victim to loopholes no one saw.
+1.12.1.2. Con: Many open source programs are perfectly safe.
+1.12.1.3. Con: It is impossible to tell whether a mechanism is safe if you cannot see and audit it.
+1.12.1.4. Pro: Revealing completely how a system works makes it easier to find possible exploits.
+1.12.1.4.1. Con: Making exploit hunting more difficult also makes it difficult for unpaid security researchers. Since cyber-criminals typically stand to profit \[more\], they can tolerate a more difficult analysis process.
+1.12.1.4.2. Con: If a company has in-house security auditors or hires 3rd party ones to whom they reveal the systems function, it gives those auditors a significant efficiency advantage over cyber-criminals.
+1.12.2. Con: Open software has the same potential as proprietary software, it just needs to be developed.
+1.12.2.1. Con: Redeveloping proprietary software would be costly, and require a lot of expert work, which could be avoided.
+1.12.2.2. Con: Proprietary software is covered by intellectual property rights, and often patents.  This can make it impossible to legally copy that software, especially if the software is specialist/unique \(eg [a proprietary toolset to manage a specific manufactures networking equipment](https://software.cisco.com/) \).
+1.13. Con: Open source software sometimes is not funded and may not be updated.
+1.13.1. Con: Governmental software programs would still be funded, but they would also be open source.
+1.13.2. Con: Proprietary software can also lose its funding and no longer be supported. In addition to this, you cannot ask someone else to support it or do it yourself.
+1.13.3. Con: If a piece of software gets stale, the public entity could commission someone to update it \(with the funds used for support\)
+1.13.4. Pro: Public entities such as government entities should not expect private citizens to maintain public infrastructure without compensation.

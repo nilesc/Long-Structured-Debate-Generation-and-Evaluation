@@ -1,0 +1,522 @@
+Discussion Title: Is Morality Objective?
+
+1. Morality is objective.
+1.1. Pro: Morality is about different ways for people to live among one another and use space. There will be objectively better or worse ways for groups of people to behave, so moral judgements about the way people ought to behave are objective.
+1.1.1. Pro: Continued discussion is the epistemology by which our understanding develops or changes. It does not indicate that the best way to behave, i.e. morality, is itself changing.
+1.1.1.1. Con: To meaningfully speak of 'objective morality' it must be accessible to human reason. Human reasoning, over history, has not progressed towards greater consensus, but rather fractures as societies change, indicating human reason will never be able to discover objective moral truths.
+1.1.1.1.1. Con: Bodily Autonomy and Consent lie at the center of human morality. These are objectively definable, and inform every human right. If something violates a person's bodily autonomy without consent, it is immoral. I.e., murder, rape, theft, all generally agreed to be highly immoral actions.
+1.1.1.1.1.1. Con: There are moral frameworks like [utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism) or [consequentialism](https://en.wikipedia.org/wiki/Consequentialism), which allow for violation of autonomy and consent.
+1.1.1.1.1.1.1. Pro: As exemplified in the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem), utilitarian ethics can justify killing without consent, as long as the murder saves more lives than it costs.
+1.1.1.1.1.1.2. Con: [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism) or [Consequentialism](https://en.wikipedia.org/wiki/Consequentialism) only allow for violation of consent and bodily autonomy in order to protect these rights for more human beings.
+1.1.1.1.1.2. Con: Slavery is breaking these two values. But most civilisations in the world did practice slavery and found it morally acceptable.
+1.1.1.1.1.2.1. Con: Civilisations that practiced slavery were mistaken.
+1.1.1.1.1.2.1.1. Con: The previous claim was saying that we can easily detect when something is immoral, as long as “something violates a person's bodily autonomy without consent.”. However, civilizations practiced slavery for millennium and [even find it morally good](https://en.wikipedia.org/wiki/Natural_slavery). On one side, people should naturally know when particular actions are immoral, and on the other side, morals rules of other civilization allowed said actions. Therefore, the first claim is erroneous.
+1.1.1.1.1.3. Con: Part of our definition of consent is that a person must fully understand the terms of consent, this poses a severe contradiction to human nature in nurturing: a child consenting to parental authority without full understanding of the consequences of parental actions, deprives them of bodily autonomy, meaning that child care is inherently immoral.
+1.1.2. Pro: Morality is about moral systems that have interlocking sets of values, virtues, norms, practices, identities, institutions, technologies, and evolved psychological mechanisms that work together to suppress or regulate self-interest and make cooperative societies possible. - Jonathan Haidt.
+1.1.2.1. Con: As Jonathan Haidt [states](https://theindependentwhig.com/haidt-passages/haidt/morality-defined/): "This is a functionalist definition. It's about what morality does, rather than by specifying what content counts as moral." Just because this is what morality is, does not mean it's what morality ought to be.
+1.1.3. Pro: It is formed when one kind of society comes into existence. Morals are the wellbeing of a certain society via the communication of its citizens, and so it becomes objectified.
+1.1.4. Con: There are not objectively better and worse ways to use space together.
+1.1.4.1. Pro: While the economic productivity of immigration can be measured and the effects compared objectively, it is impossibly to objectively assess whether society 'ought' to prioritise existing citizens or those seeking better opportunities abroad.
+1.1.5. Con: Talking about "better" or "worse" ways to use space presupposes the existence of normative truths about which states of affairs are better or worse. Using this to prove the existence of an objective morality therefore begs the question.
+1.1.5.1. Con: We can say that a society is "better off" if the subjective preferences of each and every one of its members are better satisfied. This does not presuppose the existence of objective moral truths.
+1.1.5.1.1. Con: This conception of "better off" is very weak, since it only allows [Pareto improvements](https://en.wikipedia.org/wiki/Pareto_efficiency). Any stronger or more substantive notions of "better off" require weighing tradeoffs between different people's wellbeing, which requires a belief in the existence of normative truths.
+1.1.5.1.1.1. Pro: Under this very weak notion of "better off," barely any moral truths would exist. The vast majority of changes to society would leave at least *someone* worse off, so morality would not provide any useful day-to-day life.
+1.1.6. Con: While some ways of using space lead to outcomes that all group members would consider better or worse, other choices involve trade-offs between competing goods which different group members value more or less highly.
+1.1.7. Pro: Morality, like law or etiquette, is a form of shared social practice. Shared social practices exist objectively, independently of individual agents' subjective perceptions of them. Therefore, morality exists objectively, even if it varies from one social group to another.
+1.1.7.1. Con: Morality rarely admits of the kind of innocuous variation that can be observed in social customs. Within a given culture, etiquette and similar shared social practices admit of subtle regional variations, like dialects. Different moral viewpoints, on the other hand, profoundly contradict one another, and are inherently divisive because unlike etiquette or pronunciation, morality pertains to fundamental existential questions about what it means to be a person.
+1.1.8. Con: Objective morals were developed in a world where a smaller group of people got to decide what our moral rights and duties to each other were- so they appeared objective but were just those people agreeing and only seeing one way. In a heterogenous society morals are subject to our contexts.
+1.1.8.1. Con: The history of morals does not dictate objectivity of morals. They could have changed a million times or 0 times, we could have agreed that murder and rape are the highest values \(i.e. we got it wrong\), but that would say nothing about whether or not they are objective.
+1.1.9. Pro: Morality is a practical concern with the goal of finding tools for how people can interact with other people \(both personally and on the level of institutions\) in a mutually beneficial way. It is possible to discuss the goals and tools of morality in a testable and falsifiable way, and a system of morality that is developed in that way is objective in the same way that science is objective \(even though it is never final\).
+1.1.9.1. Con: The "goals" are themselves subjective, there is no inherent goal to society, and no objective measure of mutual benefit.
+1.1.9.2. Con: "Beneficial" requires a moral lens. One must have already established what sits in the category of beneficial for this to be objective. It is ONLY testable and falsifiable once beneficial has been defined.
+1.1.10. Pro: In order for morality to perform its function it must be treated as objective. Thus while morality is a social construct we must construct it to be objective.
+1.1.10.1. Con: Although one has to act like morality was objective to perform socialization and virtue, the burden of proof always remains with the moralist. The moralist must convince or carry the risk of the underlying morals.
+1.1.10.2. Pro: Morality is objective because the contrary creates chaos, anarchy and disorder.
+1.1.10.3. Con: A social construct is defined and redefined constantly by our actions and by public discourse. If morality is a social construct, it's impossible to be constructed to be objective.
+1.1.11. Con: Even if an objective measure for morality can be constructed, choosing the moral system you adhere to is an inherently subjective act. A specific moral system might be objective, but morality overall is subjective.
+1.1.12. Con: The very fact that "groups" exist makes morality subjective, intragroup-valid only.
+1.1.12.1. Pro: If we consider that groups tend to be hostile, not cooperative \(after all, if they cooperated, they would be talking of themselves as being the same group in the sense of the morality governing their cooperation\), we should be careful with assuming the existence of cooperation between alien groups.
+1.1.12.2. Con: The existence of groups and social clustering says nothing about morality.
+1.1.13. Con: If morality is defined by people's ability to live among one another and use space, one must determine an objective measure of that within society, but this too is subjective.
+1.1.14. Con: The idea of living among one another is begging the question, as this is what the argument is supposed to prove, so we cannot assume it beforehand.
+1.1.15. Con: This implies that if only one person existed, there would be no morality. But this is false.
+1.1.15.1. Con: Even if no people at all existed, conditional claims about the best ways to share space if people did exist could still be true. These conditional claims are moral claims.
+1.1.16. Con: "Better ways" requires a moral lens of interpretation. Once you have determined a measure of "better" there is a way to optimize it, but for morality to be objective there must be a prior origin of that measure of better.
+1.1.16.1. Pro: A society of people that murder one another is presumably not the 'best behaved' society, but this claim must be substantiated. For morality to be objective it requires making a statement about where to get measures of best, better, worse, and worst.
+1.2. Pro: Moral values are rooted in the nature and character of divine beings. Their standards do not depend on human standards.
+1.2.1. Pro: Many religions provide moral guidance in the form of divine revelation.
+1.2.1.1. Pro: Direct revelation, in the form of religious texts such as the Quran, provide a series of rules and values through which to live a good life.
+1.2.1.1.1. Con: Rules are interpreted by religious leaders and so are not static and fixed.
+1.2.1.1.2. Con: A record of a direct revelation is indirect.
+1.2.1.2. Con: No religion can objectively prove that their particular revelation is divine or should be valued over any other religious revelation.
+1.2.1.2.1. Con: Religions have many morals in common and so can be seen as different ways of framing the same moral.
+1.2.1.3. Con: Religions only provide moral guidance in the form of testimonies of divine revelation, and these are unprovable, fabricatable, and subject to degradation of memory over time.
+1.2.2. Con: Moral values in religions are communicated narratively, and then amass a contemporary discourse that connects them to our everyday lives. Therefore they are in constant flux.
+1.2.2.1. Con: It is possible for the interpretation of moral actions to change without objective morality changing.
+1.2.2.1.1. Pro: We could keep slaves for thousands of years and then one day determine that was immoral. But it does not become immoral the moment we declare it so, only our recognition changes.
+1.2.2.1.2. Pro: The square root of 2 was irrational prior to our recognizing that to be true.
+1.2.3. Con: This reasoning only holds if you believe in divine beings. As religion is based on faith rather than arguments, this cannot be proven and does not apply for non-religious persons.
+1.2.3.1. Con: If religion is based not on arguments, then there should be no arguments for the existence of a divine being, and yet there are. Surely to provide justification for those beliefs, and so it would be too quick of a move to say that religion is based on faith, whatever faith is.
+1.2.3.2. Con: If a supernatural or divine being exists then their imposition of morality holds sway over believers and non-believers alike. In this scenario, morality does apply to non-religious persons.
+1.2.3.3. Con: -> See discussion #10223: Faith and Science Can Co-exist
+1.2.4. Con: Divine beings do not exist.
+1.2.4.1. Pro: An objective morality requires the existence of a supreme being. But no such supreme being exists. Therefore, morality is not objective.
+1.2.4.1.1. Con: Objective morality does not require the existence of a supreme being according to [secular humanism](https://www.secularhumanism.org/index.php/articles/5640).
+1.2.4.2. Pro: One cannot verify that an omnipotent being is not undetectably present. This claim will, however, always remain [unfalsifiable](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/178/Unfalsifiability). There is no indication which advises us to consider divine beings as real.
+1.2.4.3. Con: -> See discussion #2629: [God](https://en.wikipedia.org/wiki/Classical_theism) exists.
+1.2.5. Con: We cannot tell the difference between an omnipotent liar and an omnipotent deity. Therefore, no religion can provide truly certain guidelines for morals.
+1.2.6. Pro: Morality is objective because there is a God who sets a universal moral standard, independent of any individual subjective human opinions.
+1.2.7. Con: The [Euthyphro Dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma) implies that if moral authority must come from the gods it doesn't have to be good, and if moral authority must be good it does not have to come from the gods. Therefore, objective morality cannot be based on the command of a divine being.
+1.2.7.1. Pro: If morally right things are morally right just because a divine being commands that they are right, then moral rightness is an arbitrary property.
+1.2.7.2. Pro: If a divine being commands that certain things are morally right because they are morally right, then moral rightness is a property that preexists and does not rely upon the divine being.
+1.2.7.3. Con: The Euthyphro Dilemma assumes that 'goodness' and 'god' are separable concepts, whereas many monotheist religions hold them to be inseparable. If god is by nature good, and goodness is defined by god's nature, there is no dilemma.
+1.2.7.4. Con: This is a straw man. No one has claimed this is based on the command of a divine being. The only thing that derives from a command is obligatory force, but we are not discussing obligatory force, but moral content, which is indeed dependent upon a divine being.
+1.2.8. Con: Referencing the divine origin of morality presupposes the existence of a divine entity, for which there is insufficient evidence.
+1.2.8.1. Con: The question of the existence of god is well beyond the scope of this argument, and has been previously addressed on Kialo, this debate should not be continued in this context. The claim wasn't that god defines morality, but refuting the claim that intuition is the only way to determine morality, with god as a counter-example.
+1.2.8.2. Con: -> See 1.2.4.3.
+1.3. Pro: Certain moral truths are inherent to human nature and transcend cultures and time.
+1.3.1. Con: If human nature is inherently immoral, then the perceived morality of humans reoccurring is not evidence of objective morality.
+1.3.2. Pro: There are moral standards that are the same across time and societies such as the [incest taboo](https://en.wikipedia.org/wiki/Incest_taboo).
+1.3.2.1. Con: The article cited in the above argument itself demonstrates the subjectivity of the incest taboo. It [states](https://en.wikipedia.org/wiki/Incest_taboo), "However, different norms exist among cultures as to which blood relations are permissible as sexual partners and which are not."
+1.3.2.1.1. Pro: There are many examples of societies that didn't consider incest as immoral behaviour, such as the Ancient Egyptian monarchies.
+1.3.2.2. Con: Commonly shared moral standards can result from necessary functionalistic purposes, like the necessity to prohibit incest to avoid genetic decay and promote [inter-tribe relations](https://en.wikipedia.org/wiki/Claude_Lévi-Strauss#Anthropological_theories). It does not give them any moral value, they are simply necessary to the existence and/or perpetuation of society. That does not make them "good".
+1.3.2.3. Con: One example of a consistent moral doesn't indicate that all other morals are similarly consistent.
+1.3.2.3.1. Pro: There are also a lot of values that are not the same across time and societies, such as the moral status of homosexuality.
+1.3.2.3.1.1. Con: Perhaps a great many things are actually cultural traditions that are confused for objective morals.  However, this confusion does not mean that there does not exist an actual, independent morality.
+1.3.2.4. Pro: There are always like to be a few historical exceptions to any given example, but the fact the vast majority of people view something as immoral demonstrates that there is an objective basis that people base this judgment on, even if some choose to ignore it.
+1.3.3. Pro: Whether or not societies align their belief systems to these moral truths is irrelevant.
+1.3.4. Con: Designating a few values as fundamental and others as transient is bound to result in cherry-picking those values that suit the given comparison.
+1.3.4.1. Con: And yet being cherry picked has no bearing on its truth value.
+1.3.5. Pro: The vast majority of people and human societies have viewed killing innocent civilians in peacetime as wrong.
+1.3.5.1. Con: This is an appeal to popular opinion fallacy. Many people believing that something is moral does not imply that it is moral.
+1.3.6. Con: This fact is perfectly explainable without a "sensus moralis": without us having the beliefs we do in virtue of some epistemic access to moral facts. The explanation is to be given in evolutionary terms. For some reason or other \(and this is a heated dispute\), it was advantageous to each and every member of the Homo genus to have specific false beliefs about morality. The beliefs thus generated could be reasonably uniform, even though they would all be false.
+1.3.6.1. Con: Evolutionary stories can explain why we hold many of our beliefs. This does not necessarily undermine the epistemic justification of those beliefs.
+1.3.6.1.1. Con: The fact that evolution influenced our beliefs about \(for example\) scientific facts does not undermine our justification for those beliefs, since it would have been evolutionarily advantageous to have true scientific beliefs. By contrast, the evolutionary value of moral beliefs is likely independent of the truth of those beliefs, so evolution is likely to have caused us to have false beliefs about morality.
+1.3.6.2. Con: The discussion is not how we came to know or believe a proposition, but what the nature of the proposition is. Let us not confuse epistemology with ontology. I can tell you I learned math from a teacher, but discovering how I learned it does not explain whether the belief in some math proposition is true or not. This is probably a genetic fallacy.
+1.3.6.2.1. Pro: I can tell you I learned 2+2=3 from my school; we must not assume that a given source is a reflection of the truth. What people have come to believe through evolution does not necessarily represent what is right.
+1.3.7. Pro: Out of everyone who has ever lived, there are very few people who would disagree that torturing innocent children for no reason is moral.
+1.3.7.1. Con: Aztecs and others sacrificed children to appease the gods. It can be assumed that they thought they were doing good.
+1.3.8. Pro: Societies have often disagreed about the correct way to carry out or weigh certain values, but many values are universally recognised to be important to some degree.
+1.3.8.1. Pro: What it means to be 'polite' varies vastly between societies, but the idea that being rude to someone that has caused no harm to you is widespread.
+1.3.8.2. Pro: The [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/) has been approved by many countries, although each country upholds the shared values through different policies and cultural practices.
+1.3.9. Pro: -> See 1.1.1.1.1.
+1.3.10. Con: There is no objective morality, just new moral systems forming over generations. All morals develop through trial and error.
+1.3.10.1. Con: -> See 1.2.2.1.
+1.3.10.2. Con: What this argument describes is the free market of ideas; which is one way to achieve objectivity.
+1.3.10.3. Con: The trial and error of different systems is bringing humanity closer to an objective moral peak.
+1.3.10.4. Pro: Throughout 10,000 years of culture we progressively saw societies develop looser and better moral systems, with regressive and conservative returns every once in a while.
+1.3.10.4.1. Pro: Cultures learn from one another. They look to what they think was the best of the previous culture and judge what they believe \(rightly or wrongly\) destroyed the other cultures.
+1.3.11. Pro: The very idea of morality is drawn from the concept that other people have an intrinsic value, and thus must be treated in a manner that respects that intrinsic value.
+
+While applying this concept may be complex, it is nevertheless the universal truth at the heart of morality, and all systems which claim to be moral may be judged by their adherence to this principle.
+1.3.11.1. Pro: -> See 1.1.1.1.1.
+1.3.12. Pro: Memes, such as restraint in Taoist and Christian frameworks, demonstrate certain moral lynch pins reoccur despite separate recognition. For example [turning the other cheek](https://www.biblegateway.com/passage/?search=Matthew+5%3A38-40&version=NIV), and a desire to [avoid war](http://www.taoistic.com/taothemes/tao-war.htm) if at all possible.
+1.3.13. Pro: Humans have many shared properties to support an objective moral system \(for example, aspects of our psychology which encourage cooperation, or make us capable of sympathy\).
+1.3.13.1. Con: The shared properties of humans support objective morality, rather than undermine it.
+1.3.13.2. Pro: Many images evoke near-universal emotions of sympathy in humans - for example, vulnerable children.
+1.3.13.3. Pro: Basic psychological properties that humans possess, like negative reactions to cheaters, encourage cooperation.
+1.3.13.4. Con: Organisms that cooperate have more reproductive success, so most organisms cooperate on Earth. That says nothing about whether cooperation fundamentally should occur.
+1.3.14. Con: "Human nature" doesn't exist as an objective thing that can be solidly defined or referenced over time. It in itself is socially constructed.
+1.3.14.1. Pro: The growth of [individualism](http://science.jrank.org/pages/9784/Individualism-Reformation-Aftermath.html) after the Reformation in Western and Central Europe increased respect for personal freedom, and therefore affected how people understood the nature of the individual.
+1.3.15. Pro: If morality were subjective, there would be no justification \(no standard\) to prevent an 'evil' act such as rape or murder. As we evolve and become more conscious, our ability to 'recognize' is greater and leads us to 'realize' \(understand\). The objective recognition leads to the subjective realization.
+1.3.15.1. Con: Arguing for objective morality by referring to a moral judgement is [begging the question](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/53/Begging-the-Question). The statement "subjective moral can't prevent 'evil' acts" presupposes that acts can be objectively good or evil.
+1.3.16. Pro: The meaning of life is to realize your potential. Human rights such as food, wealth and quality of life are prequisites for realizing your potential, which makes them objective values/moral truths.
+1.3.16.1. Con: There is no objective reason to assume that realizing your potential is the meaning of life. In fact, there are philosophies, that propose different meanings \(e.g. [Hedonism](https://en.wikipedia.org/wiki/Hedonism)\) or insist on life being [meaningless](https://en.wikipedia.org/wiki/Nihilism).
+1.3.16.1.1. Pro: If someone does not care about well-being, or cares only about their own and not about the well-being of others, there is no way to argue that he is wrong from the point of view of science.
+1.3.16.1.1.1. Con: This perfectly describes a sociopath, which science has demonstrated leads to socially unhealthy behavior.
+1.3.16.1.1.1.1. Con: Socially healthy behavior is still a subjective value. A society of sociopaths might not value socially healthy behavior at all.
+1.3.16.1.1.2. Pro: Just because science can measure objective facts such as the well-being of people or creatures or that we can help or do good things for others, it does not necessarily provide objective truths as to whether we should care for others and do good things. We can conjur our moral values from objective facts or truths, but ultimately they are subjective by nature.
+1.3.16.1.1.3. Con: Morality is traditionally a branch of philosophy, not science. Just because Sam Harris's belief that "morality is about well-being" cannot be refuted by science, does not mean it cannot be refuted by philosophy.
+1.3.16.1.1.3.1. Pro: Just one example of a moral that is not about well-being will raise some serious doubt about Sam Harris's beliefs.
+1.3.16.1.1.3.1.1. Con: If someone were to say, "Science is about evidence" and someone else were to say, "No, here is an example of someone doing science without evidence." That would not be proof that science is not about evidence, it might just be bad science. Same applies to morality.
+1.3.16.1.1.3.2. Pro: "Thou shalt have no other gods before Me" — Exodus 20:3. This does not appear to be about well-being.
+1.3.16.1.1.3.2.1. Con: According to Sam Harris's philosophy then: if this statement doesn't improve well-being then it is an objectively bad moral to hold.
+1.3.16.1.1.4. Con: All this shows is that morality wouldn't be a scientific claim, not that it doesn't exist.
+1.3.16.1.2. Pro: Whether one realizes one's own potential does not matter when the person is only a mass of matter and will inevitably die.
+1.3.17. Con: It is possible for human intuitions, which result from human nature, to be wrong due to our use of [heuristics and biases](https://en.wikipedia.org/wiki/Intuitive_statistics#Heuristics_and_biases). If our natural intuitions can be wrong then they do not constitute objective truth, and therefore human nature cannot be used as a measure of moral objectivity.
+1.3.18. Pro: Morality is merely a byproduct of empathy. Empathy being intrinsic to most human beings would mean it is objective.
+1.3.18.1. Con: Not all human beings have a sense of empathy;sociopaths are an example of this.
+1.3.18.2. Con: Empathy can result in the wrong moral decision. For example, it is more easy to feel empathy for someone like you as opposed to someone different \([ingroup bias](https://en.wikipedia.org/wiki/In-group_favoritism)\).
+1.3.18.3. Con: This would mean that monkeys could be moral beings which is scientifically impossible.
+1.3.19. Pro: Humans make the mistake of excluding other species from the morality debate. If morality is universal, it is universal in all manner of life.
+1.3.19.1. Pro: Young male elephants, without a patriarchal figure in their life, will indiscriminately kill other species of animals [for sport](https://www.cbsnews.com/news/the-delinquents/).
+1.3.19.2. Pro: The play of rats follows a moral framework, where if the bigger rat doesn't let the smaller rat win a certain amount of times the smaller rat won't pursue play with the bigger rat anymore. This replication in other species shows there's more to it than us.
+1.3.19.2.1. Con: Cooperative character traits across cultures or among social species are more indicative of cooperation being evolutionairy advantageous.
+1.3.20. Pro: There are aspects of morality that can be objectively defined. Morality is determined by logical reasoning and empathy, rather than arbitrary rules. It is something that must be philosophically explored in order to understand it with certainty. Similar to how philosophy can be used to understand the truth about nature \(science\), and the truth about truth \(logic\), the truth about morality can be figured out through study, argument and thought.
+1.3.21. Pro: Morality in one word is justice. Morality is the set of values or principles by which human beings guide themselves in order to be just. And justice requires objectivity in order for us to be able to construct a system of life. There are aspects of morality that can be relative and subjective, but certain moral principles are simply and incontrovertibly objectively just.
+1.4. Con: Moral statements are expressions of emotion or commands, and thus not objective.
+1.4.1. Pro: When we say that something is morally wrong, we are really expressing our distaste, disapproval or disgust towards that thing.
+1.4.1.1. Pro: Language is a creation of human-beings: words do not have meaning outside of the people who speak that language. To call something 'wrong' is therefore just to say 'this accords with a word we have created'.
+1.4.1.1.1. Con: Language is a human creation, but every human language is simply a representative of the inherent human experience, which is why we are able to translate ideas and feelings so easily from one language to another. Sometimes it is difficult, due to cultural contexts, but on the whole, the human experience is similar, suggesting the existence of universal human truth, and thereby, an objective morality.
+1.4.1.2. Con: Very few people would claim a foul odor or art they find displeasing is immoral so it goes much deeper than expressing disgust or disapproval.
+
+For most reasonable people, at the heart of the statement that an action is immoral is an observation of how that action hurts others/does not respect their intrinsic value.
+
+Thus self centered and/or sadistic actions are commonly labeled as immoral, while bad decisions or disagreements in taste that don't hurt anybody rarely are.
+1.4.2. Con: The position that moral statements are just expressions of emotions is inconsistent with how we commonly view moral statements.
+1.4.2.1. Pro: If moral statements are just expressions of emotion, then moral disagreement does not make sense - two people advocating contradictory moral positions are really just expressing contrary emotions. But moral disagreement does make sense, so moral statements must not be expressions of emotion.
+1.4.2.1.1. Con: The fact that moral disagreement is so intractable and cannot seem to be resolved through rational argumentation, indicates that moral disagreements are a reflection of fundamentally contrary emotional attitudes, rather than intellectual disagreements over facts.
+1.4.2.1.1.1. Con: Disagreement about any topic does not mean there is no objective truth about the matter.
+1.4.2.1.1.1.1. Pro: We could disagree about the colour of the moon, for example, and it would not make it less objective.
+1.4.2.1.1.1.1.1. Con: No statement can be truly proven.
+1.4.2.1.1.1.1.1.1. Pro: [Descartes' evil demon thought experiment](https://en.wikipedia.org/wiki/Evil_demon) creates a minimum uncertainty for all statements.
+1.4.2.1.1.1.1.1.2. Con: No statement can be proven to 100%. But proving to 95% confidence that it’s 99% true is useable.
+1.4.2.1.1.1.1.1.3. Con: Science claims a degree of objectivity. Not absolute objectivity.
+1.4.2.1.1.1.1.1.4. Con: Any statement that claims a statement cannot be proven is unproven by its own logic.
+1.4.2.1.1.1.1.1.5. Con: Even if no statement can ever be proven, it does not prove that there is not an underlying objective fact.
+1.4.2.1.1.1.2. Pro: Many questions have objective answers and yet are hotly debated, such as the airplane on a treadmill problem. Just because people have trouble figuring out the answer has no bearing on whether or not there is an answer.[blog.xkcd.com](https://blog.xkcd.com/2008/09/09/the-goddamn-airplane-on-the-goddamn-treadmill/)
+1.4.2.2. Pro: If moral statements are expressions of emotion, then simple arguments like:
+"1. If murder is wrong, then the assassination of JFK was wrong.
+2. Murder is wrong.
+3. Therefore, the assassination of JFK is wrong"
+are totally unintelligible, since expressions of emotion cannot serve as premises in an argument.
+1.4.2.3. Pro: Emotivism leads to a form of [moral nihilism](https://en.wikipedia.org/wiki/Moral_nihilism), because no human statement can have normative value. Moral nihilism is deeply unattractive as it violates a common instinct that there must be better and worse ways to live.
+1.4.2.3.1. Con: The frequency of occurrence of a belief is not a reliable measurement for the validity of that belief. Whether people want a metric for moral lifestyles to exist or not; it has no impact on the validity of moral nihilism.
+1.4.3. Pro: Moral claims are more simply explained as a set of mental states conveying attitudes, dispositions or emotions. When someone says "abortion is wrong," then they are not making a truth-evaluative statement, they are rather stating something similar to "Boo abortion!"
+1.4.4. Pro: -> See 1.4.2.1.1.
+1.4.5. Con: When we say something like "murder is wrong", we don't view ourselves as saying something comparable to "chocolate tastes bad". The latter is a representation of our subjective attitudes, but the former is not.
+1.4.5.1. Con: Intuiting that a moral statement has more weight than an emotional feeling is a product of a desire to lend the statement more argumentative weight and certainty, not a reflection of its objective status.
+1.4.6. Pro: Moral claims are [performative](https://en.wikipedia.org/wiki/Performative_utterance), not constative.
+1.4.7. Pro: Moral statements are abstractions and rooted in emotional centers of the brain. Scientists have [decreased activity](https://www.npr.org/templates/story/story.php?storyId=125304448) in a certain area of the brain that thereby inhibited moral reasoning in subjects.
+1.4.7.1. Con: Moral behavior presupposes certain brain functions, but so does all behavior, including immoral behavior. Consequently, brain-dependency adds nothing to the argument on either side.
+1.4.7.1.1. Pro: A human with no brain would have no behavior. Therefore, a brain is a necessary and sufficient prerequisite to any behavior.
+1.4.7.1.1.1. Con: Having a brain is clearly a necessary condition for all behavior, but the preponderance of people failing to act on rational knowledge in their possession \(e.g., procrastinators, victims of PTSD, drug addicts, etc.\) strongly suggests that having a brain is not a sufficient condition for behavior.
+1.4.7.2. Con: The ability to turn off moral reasoning with transcranial magnetic stimulation does no more to prove that morality is not objective than the ability to turn off physics intuitions would prove that physics is not objective.
+1.4.8. Pro: "Right" and "wrong" do not measure anything physical or real but express preferences.
+1.4.9. Pro: Morality is the distinction between what is good and what is bad. Something that is good is simply something that is desired and approved of, and something bad the opposite. As what is desired or approved of is dependent on individual opinion, morality must also at its core be dependent on individual opinion. Due to the nature of genetics, all individuals are fundamentally unique, therefore causing anything derived of individual opinion, in this case morality, to be inherently relative.
+1.5. Con: Morals only relate to a particular society at a particular time.
+1.5.1. Con: The concept of moral relativism, which states that morality is subjective and based on the culture/country you live in \(and that you cannot/should not impose your morals onto those with different morals\) is a self-defeating concept. It is self-defeating because you would have to advocate for moral relativism to those who do not currently adhere to it, which goes against the core principle of moral relativism.
+1.5.1.1. Con: In order to advocate for moral relativism, it is not necessary to say that other people *ought* to adhere to moral relativism; it is sufficient to say simply that moral relativism is true. It is therefore not self-defeating to advocate for moral relativism.
+1.5.2. Pro: Moral truths exist only relative to a specific cultural framework.
+1.5.2.1. Con: This claim about the status of moral truth purports to be true across all possible frameworks.
+1.5.2.1.1. Con: A fact about the relativity of other facts can be objective. For example, it is an objective fact that taste is subjective.
+1.5.2.2. Pro: -> See 1.1.2.
+1.5.2.3. Pro: The philosopher [Gilbert Harman](http://www.filosoficas.unam.mx/docs/545/files/Harman.pdf) argues that moral judgements about a person only make sense if they are made with reference to a collective agreement which that person is a part of. This "collective agreement" is usually a society's standard of morality.
+1.5.2.3.1. Con: [Gilbert Harman](http://www.filosoficas.unam.mx/docs/545/files/Harman.pdf) does not appear to clearly explain why we should care about such collective agreements—why these agreements are the basis of "morality."
+1.5.2.3.2. Con: Gilbert Harman appears to assert that there is an objective moral formula, process, or concept: that at least some forms of morality are relative to agreements. This is asserted across cultures, situations, etc. making it an objective principle.
+1.5.2.4. Con: Even if moral truth is relative to a specific cultural framework, it is possible that, in relation to that framework, some moral truths are objective. And all human action takes place in relation to at least one cultural framework. Therefore, for any human purpose, objectivity in relation to a cultural framework is still objectivity.
+1.5.2.5. Con: Moral relativism is self-defeating. When you say: "slavery is not objectively wrong", you are yourself making a moral judgement, namely, that slavery is not objectively wrong. \(This is according to Dworkin\)
+1.5.2.5.1. Con: Under the assumption that morality can't be objective, the statements "slavery is objectively wrong" and "slavery is not objectively wrong" are both self-contradictory. A moral relativist could only claim something like: "slavery is objectively wrong, if you value wellbeing of all humans".
+1.5.3. Pro: Morality is the systematic product of social and cultural influences on empathetic individuals, and is thus contingent on a particular social environment.
+1.5.3.1. Pro: Behaviour is explained by [classical](https://en.wikipedia.org/wiki/Classical_conditioning) and [operant conditioning](https://en.wikipedia.org/wiki/Operant_conditioning). How each person is conditioned depends upon their subjective experience and subjective biology, therefore there is no objective standard for which a person can be motivated and morality is not objective.
+1.5.3.1.1. Con: While some of our motivations do depend upon our subjective experience and subjective biology \(such as favourite food\), some motivations depend on the objective quality of conscious. For example, we all share the motivation to be veracious by virtue of being conscious. From these non-contigent motivations can a framework of morality be determined that gives a justification for why one should accord to an objective morality and why it does exist.
+1.5.4. Pro: We should be tolerant of moral difference because no moral truth can supersede any other.
+1.5.4.1. Con: The question of whether morality is or is not objective is different to that of how best to tolerate ethical difference in society. Even if practicing tolerance of different ethical decisions is a politically wise decision, this does not imply an objectively correct moral system does not exist.
+1.5.5. Con: The most basic [virtues](https://plato.stanford.edu/entries/ethics-virtue/) that promote human flourishing transcend culture.
+1.5.5.1. Pro: Virtues like honesty, kindness, and truthfulness are universally effective at allowing human societies and individuals to live good and flourishing lives.
+1.5.5.2. Con: Even if certain virtues promote human flourishing, there is no objective reason for us to pursue flourishing.
+1.5.5.2.1. Con: The 100 billion or so humans that came before us would possibly disagree. The untold number yet to be born would almost certainly take issue. Pleasure and pain are undeniable aspects of the conscious experience and are almost universally sought or eschewed, respectively, by conscious creatures. In the presence of a suitable metric, say a net pleasurable existence, we have an obligation to set conditions for future generations to come into existence and thrive.
+1.5.5.3. Con: -> See 1.3.19.2.1.
+1.5.6. Pro: There are two levels to think about objectivity on. First, there is the psychological subjectivity level. That we can't escape our subjective experience of the world. Second is about the degree of agreement between moral agents' model of morality. Morality is not some thing out there that we can glimpse. It is a human construct. Certain values have wide intercultural appeal \(e.g. against murder\), but that doesn't make the construct objective.
+1.5.7. Con: Ideas of morality vary, but only within a certain spectrum. This suggests that there are certain underlying ideas that everyone shares.
+1.5.7.1. Con: Even if every single human agreed about a determined value \(e.g. killing is immoral\), that value would still be subject to human thought/opinion, not objective.
+1.5.8. Pro: Even within the same group, previous moral beliefs have been abandoned or changed depending on time and place. Very religious people, such as Christians, have persecuted witches, tortured heretics, and decimated native peoples all in the name of God. Since modern Christians have abandoned these practices, this demonstrates that morality is not objective.
+1.5.8.1. Con: It is conceivable that Christianity or humanity is converging closer to objective morality. In this case, changes in morality would not be in conflict with the existence of objective morality.
+1.5.9. Pro: The universe is indifferent to right and wrong. It only contains rules regarding what is possible or impossible.
+1.5.9.1. Pro: The universe is not a medium in which "guidelines" exist. Only completely-enforced rules exist in it. Exceptions will always be definable and explainable, given enough scientific advancement.
+1.5.9.2. Con: There are purely theoretical constructs, that allow for objectively true or false statements. It is conceivable that morality might belong to this category.
+1.5.9.2.1. Pro: The rules of mathematics and formal logic are purely theoretical constructs that allow for objectively true and false statements.
+1.5.10. Pro: Every foundation ever has been denied with no objective effect. For every god there are people \(the majority, actually\) who deny it. For every nation, there are people \(the majority, actually\) who are outsiders. And finally, for every aim that morality is supposed to deliver, there are people, the majority, actually, who want to apply it only to their group. Morality is subjective because people apply moral frameworks selectively to favour their in-groups.
+1.6. Pro: Morality is about values. Values are a type of fact about the well-being of conscious creatures. The well-being of conscious creatures is discoverable by science. Scientific facts are objective. -[Sam Harris, The Moral Landscape](https://www.youtube.com/watch?v=Hj9oB4zpHww)
+1.6.1. Con: Ethics is a subset of philosophy, which as a field is defined by a uniquely high standard for accepting ideas. Other fields, in fact, usually avoid this problem by pointing to a field of philosophy as the answer to these kinds of questions. For example, science presumes the validity of empiricism, an answer to the questions of epistemology. But within philosophical discourse, the nuances of empiricism are permanently open to new critique.
+1.6.2. Con: Even if we did agree to grant “well-being” primacy in any discussion of morality, it is difficult or impossible to define it with rigor. It is, therefore, impossible to measure well-being scientifically. Thus, there can be no science of morality. 
+\(The Measurement Problem\)
+1.6.2.1. Con: Difficulty of measurement doesnt argue against the idea of well-being as a scientific basis per se.  Plenty of science is hard to measure, but we do it anyway with what precision we can achieve at this time.
+1.6.2.2. Con: By the same logic, there can't be an objective Science of Health since we cannot define with absolute rigor what is "healthy".
+1.6.2.2.1. Pro: What it means to be "healthy" is open-ended, yet it doesn't mean there are no truths to be known about Nutrition or Biology for example. The same goes with the concept of "well-being".
+1.6.3. Con: -> See 1.3.16.1.1.
+1.6.4. Con: There is no scientific approach that can determine if we should value well-being.
+1.6.4.1. Pro: It is conceptually possible for anyone to value anything. Even if the only thing that someone valued was the number of blades of grass they had stepped on, there is no way we could scientifically prove to them that they are wrong about what to value.
+1.6.4.1.1. Con: Maximizing the well-being of conscious creatures is the only thing we can reasonably value.
+1.6.4.1.1.1. Con: Some reasonably value adherence to the Will of God, without regard to the well-being of anyone or even against their well-being \(e.g. fasting\).
+1.6.4.1.1.2. Con: We value art, and an artist might care little for their well being in order to fully dedicate themselves to their art.
+1.6.4.1.1.2.1. Con: If it truly harms the artist's wellbeing, and doesn't have a concomitant redeeming factor, then under this paradigm this kind of act is immoral.
+1.6.4.1.1.3. Con: Some value the wellbeing of abstractions, like "humanity" or "the environment", in ways that are not completely reducible to the well-being of creatures.
+1.6.4.1.1.3.1. Con: The well-being of 'humanity' is subsumed by caring about the wellbeing of creatures \(so long as you consider humans to be creatures\).
+1.6.4.1.1.3.2. Con: Valuing the wellbeing of abstractions can only be done by a conscious creature. Actions that affect the abstraction also affect the creature that values it.
+1.6.4.1.1.3.2.1. Pro: If someone values the environment and someone else does something to harm the environment, then that action hurts the person who values the environment.
+1.6.4.1.1.3.2.2. Pro: E.g. There is a star out there that is exploding right now, and no one knows or cares about it. It doesn't care about itself either, it has no capacity to do so. If that star turned out to be our own, however, we would definitely care, and the wellbeing of our own start would become valuable because of the creatures that rely on it.
+1.6.4.1.1.4. Pro: There is no alternative source of value beyond the wellbeing, or potential wellbeing, of conscious creatures. All other philosophical efforts to describe morality in terms of duty, fairness, justice, or some other principle draw upon wellbeing.
+1.6.4.1.2. Con: If it doesn't pertain to well-being, in any way, shape or form, then it's amoral, as in it doesn't have anything to do with morality.
+1.6.4.2. Pro: Not all values have to do with the well-being of conscious creatures. It is possible to, and some do, value things that are not directly related to anyone's well-being.
+1.6.4.2.1. Con: Values \(judgements on goodness or badness\) are only relevant to conscious \(capable of experience/preference\) beings.
+1.6.4.2.2. Con: If one values something it is obviously directly related to one's \(perceived and possibly ill-perceived\) well-being, otherwise they wouldn't value it.
+1.6.4.2.2.1. Con: One can value the wellbeing of others.
+1.6.4.2.2.1.1. Con: Self-less acts can be ends on themselves as they offer pleasure or satisfaction as reward to the doer.
+1.6.4.2.2.1.1.1. Pro: This is called instrumental kindness. [And the same reward centers are activated in the brain when someone acts out of instrumental kindness as true altruism.](https://www.sussex.ac.uk/news/research?id=46037)
+1.6.4.3. Pro: We cannot scientifically discover moral truths. Science discovers descriptive facts about the world \(facts about what "is"\), and it is impossible to move from facts about what "is" to facts about what "ought to be".
+1.6.4.3.1. Con: To the degree that it is in our power to produce the worst possible misery for everyone in this universe, we can say that if we don’t want everyone to experience the worst possible misery, we shouldn’t do X.
+1.6.4.3.1.1. Pro: It is good to avoid behaving in such a way as to produce the worst possible misery for everyone.
+1.6.4.3.1.1.1. Pro: A state of the universe in which everyone suffers as much as he or she \(or it\) possibly can would be bad.
+1.6.4.3.1.1.2. Pro: A universe in which all conscious beings suffer the worst possible misery is worse than a universe in which they experience well-being.
+1.6.4.3.1.2. Con: This is an example of a subjective reason \(a reason that is based on the fact that we want something\), rather than an objective reason \(a reason which holds whether or not we care about it\).
+1.6.4.3.2. Pro: The goal of science is to understand the processes at work in the universe. We cannot justify this goal scientifically.
+1.6.4.4. Con: Well-being is necessary for our survival and consciousness, and therefore is pragmatically valuable.
+1.6.4.4.1. Con: There is not objective value to our survival and consciousness.
+1.6.4.4.1.1. Pro: The universe will be just as well regardless of whether humans live on a planet in it.
+1.6.4.5. Con: The demand for radical justification cannot be met by any branch of science.
+1.6.4.5.1. Pro: All science rests, eventually, on some assumption that is not scientifically verifiable - for example, the assumption that the external world really exists.
+1.6.5. Con: Even if some concepts about morality could be based on science or facts we should remember that science works with dynamic paradigms and it could change with time.
+1.6.5.1. Con: Dynamic paradigms in science don't necessarily conflict with objectivity of science or objectivity of morality. The scientific method is a way to approximate reality. Observable, reproduceable facts don't change. Interpretation of these facts may change, but with every change scientists get closer to reality.
+1.6.6. Con: Wellbeing is a subjective value in itself. It might be the highest common denominator, but defining morality by refering to wellbeing is inherently subjective.
+1.6.6.1. Pro: The standards for wellbeing are subjective. Even if basing morality on wellbeing were objective, conclusions would still be subjective.
+1.6.6.1.1. Con: Moral statements can be objective when based on our current understanding on how they relate to human well being. Objective in this case must mean: universally applicable \(to all people in similar circumstances\) to the best of our understanding \(at that point in time\), but since our understanding improves, so should our moral intuitions.
+1.6.6.2. Pro: Accepting wellbeing as the only value for morality is a subjective action in itself, in the same way that accepting a deity as arbiter of morality is a subjective action.
+1.6.6.3. Con: The claim "morality is about well-being" is either objectively true of objectively false. [We know this because it is subject to reason and criticism.](http://beginningofinfinity.com/interview)
+1.6.6.3.1. Pro: The claim "morality is about well-being" can be criticized by finding just one real example of a moral that is not about well-being.
+1.6.6.3.2. Pro: The claim "morality is about well-being" can be criticized by showing that it contains no explanation. Why should I believe that morality is about well-being and not, say, unicorns?
+1.6.6.3.3. Con: Maybe only some moral principles refer to well-being, while others refer to other important things. Then, morality would be only sometimes about well-being.
+1.6.6.4. Con: -> See 1.6.6.1.1.
+1.6.7. Pro: We can scientifically measure the suffering of conscious creatures.
+1.6.7.1. Pro: Human and animal well-being are natural phenomena. As such, they can be studied, in principle, with the tools of science and spoken about with greater or lesser precision.
+1.6.7.1.1. Con: The foundations of science are rotten with bias—sexist, racist, imperialist, Northern, etc..
+1.6.7.1.2. Pro: Human flourishing requires social order and embeddedness.
+– Jonathan Haidt
+1.6.7.2. Con: These facts, if they exist, are difficult to discover and nothing has been established in this field yet.
+1.6.7.2.1. Con: This does not mean these facts do not exist.
+1.6.7.2.2. Con: There is a difference between answers in practice and answers in principle.
+1.6.7.3. Pro: Well-being is like the concept of physical health, in that it is difficult to define but still measurable and observable.
+1.6.7.3.1. Pro: There is reason to suggest that certain measures have trended towards well-being globally \([ourworldindata.org](https://ourworldindata.org/happiness-and-life-satisfaction) It implies that we must explore these measurements with increasing precision, similar to the advancement of other systems in metrology.
+1.6.7.3.2. Pro: The difference between a healthy person and a dead one is about as clear and consequential a distinction as we ever make in science. The differences between the heights of human fulfillment and the depths of human misery are no less clear, even if new frontiers await us in both directions.
+1.6.7.3.3. Con: Emotional health is nearly impossible to observe or measure. It can be inferred based on brain chemistry or behavioral observations, but without the ability to actually read people's thoughts, one can only infer, which leaves the results uncertain and vague.
+1.6.8. Con: Values are subjective.
+1.6.8.1. Pro: It is not clear that values actually are a type of fact. Term "value" is really hard to define, but it is more similar to "goal" than "fact".
+1.6.8.2. Con: This is begging the question.
+1.6.9. Con: Facts cannot contradict each other, and are certain. Values are uncertain and can vary between persons. Values are not facts.
+1.6.9.1. Con: One can be uncertain about what counts as a fact. Also, certainty is an epistemic category, which needs conscious beings. But facts are those which do not need conscious beings. The speed an asteroid goes is a fact even though we are uncertain about it, and even if no one existed to discern it.
+1.6.10. Con: Scientific facts are not objective. They depend on the terms and measures used which presuppose certain theory. For example \(suggested by Habermas\) to observe a basic fact like the existence of a full glass of water it is not only necessary to know what the terms glass, water or full in this context mean but also that the observed thing meets the criteria of being a full glass of water. This fulfillment has then to be checked again by observations that again depend on terms and measures.
+1.6.11. Pro: Morality is the measure of how social systems enhance the well-being of conscious creatures. While difficult to completely define, "well-being" and "consciousness" can be completely subsumed within psychology and neurology which are already established branches of biology and health science. Morality may be mysterious, but it can be explored, debated and understood through all the existing tools: brain scans, self reporting, and other physical health metrics.
+1.7. Pro: Certain moral frameworks provide objective morals.
+1.7.1. Con: Morality is not just about values \(ends\), it is also about the means to best bring about those ends, that is, moral virtues. However, the study of virtue is notoriously conflicted by fundamental disagreements about what defines and delineates particular virtues, and the type of acts subsumed by each. We all talk about courage, perseverance, etc. but we often disagree about whether or not some action is an instance of some particular virtue. If science can help, there is much work to do.
+1.7.2. Pro: A [utilitarian](https://plato.stanford.edu/entries/consequentialism/) approach to morality is correct and objective.
+1.7.2.1. Pro: -> See 1.6.
+1.7.2.2. Pro: That which supports well-being is good.
+1.7.2.2.1. Pro: All notions of value will bear some relationship to the actual or potential experience of conscious beings.
+1.7.2.2.2. Pro: -> See 1.6.4.3.1.1.
+1.7.2.3. Pro: -> See 1.6.4.1.1.
+1.7.2.4. Con: Utilitarian approaches to morality produce many results which conflict with widely held moral intuitions. This casts doubt on their objectivity.
+1.7.2.4.1. Pro: For example, utilitarianism implies that it is ethical to torture and kill an infant in order to save two people's lives.
+1.7.2.4.1.1. Con: Not if having definite limits on what is permissible ultimately shows a better outcome in the well-being of society, than saving 2 lives.
+1.7.3. Pro: Kant's first formulation of [categorical imperatives](https://en.wikipedia.org/wiki/Categorical_imperative) allows us to objectively determine the morality of a given action.
+1.7.3.1. Con: Under Categorical Imperatives, when the Nazis come to your house where you are hiding Anne Frank you must tell them you are hiding her if they ask.
+1.7.4. Pro: The moral framework of [contractualism](https://plato.stanford.edu/entries/contractualism/), which seeks to determine what sorts of rules of behaviour rational people would ideally consent to, provides an objective test for determining whether a moral rule is true or not.
+1.7.5. Con: Even the people who should be experts about morality - professional philosophers - disagree widely about morality, with [no more than 30%](https://philpapers.org/surveys/results.pl) of professional philosophers supporting any particular moral theory.
+1.7.5.1. Con: Completely irrelevant. Agreement does not produce truth. [Arugmentum ad populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum)
+1.7.6. Con: Moral frameworks may allow for objective assessments, but only if a certain series of premises are accepted as supreme \(e.g the [categorical imperative](https://plato.stanford.edu/entries/kant-moral/) or that outcomes [matter more](https://plato.stanford.edu/entries/consequentialism/) than intent\). The frameworks themselves do not justify the supremacy of those premises.
+1.7.6.1. Pro: Multiple moral frameworks that allow for objective assessments exist and are in conflict with each other. Hence, the quality to allow for objective assessments can't be a sufficient criterion for objective morality.
+1.7.6.1.1. Pro: As example, consequentialism or utilitarianism could argue to kill one human to save ten. But according to the categorical imperative, this would not be permitted.
+1.7.7. Pro: There are attributes of human existence which we can quantify, and it's possible to establish a moral code based on those facts. We can plainly see the self-evident truths of nature that we have natural rights \(moving around, having property\) and that there's no articulable reason that any person should have more or less rights to such things. Therefore, on this objective basis, we can establish morality and ethics.
+1.7.7.1. Con: The possibility of moving around and having property does not indicate the moral right of doing those things.
+1.7.7.2. Con: Rights do not exist naturally, they are a concept created by humans. If rights do exist naturally, then it is hard to distinguish where natural rights end and unnatural ones begin.
+1.7.7.2.1. Pro: It is naturally possible to kill other creatures, this then means that it is a natural right to kill those creatures, and that same right applies to killing human creatures. Which means killing humans is a natural right and moral good.
+1.7.8. Con: One cannot determine which, if any, of the various suggested moral frameworks are correct without using pre-given objective morals. Therefore, moral frameworks cannot provide a solution.
+1.7.8.1. Con: There is no reason given to think you need pre-given objective morals to determine which is correct. It seems we can just do it by reason. This is too quick of a dismissal.
+1.7.8.1.1. Con: If reason can determine what belief systems are right and what systems are wrong, it is already a framework for moral decisions.
+1.7.8.2. Con: Saying "moral frameworks cannot tell you which moral framework to choose" is absolutely correct. In the same way that reason cannot tell you that reason is reasonable. But that does not stop us from using reason. Rather than rely on reason to prove reason, we rely on evidence that reason works. In the same way, we must use external evidence to enter the 'moral doorway'; objective morals only exist inside it. This thesis ignores the possibility that this moral doorway could be discovered.
+1.7.9. Pro: The objectivity of ethical reasoning derives from clearly stating premises and facts and applying universal logic, such that an argument can be scrutinized by anyone regardless of their subjective perspective.
+1.8. Con: The frequent presence of deep and intractable disagreement about morality indicates that no objective moral truths exist.
+1.8.1. Con: -> See 1.4.2.1.1.1.
+1.8.2. Pro: History is littered with discarded morals previously believed to be objective, but that we now believe to be incorrect. This indicates morality is subjective.
+1.8.2.1. Con: The notion of progress in morality implies that we are doing better now, and worse in the past. But better relative to what? What enables us to judge that things are better now? Only an objective moral reference frame can enable us to make sense of these judgements.
+1.8.2.1.1. Con: Changing ethical standards across history does not imply that history is progressing towards a more moral society.
+1.8.2.1.1.1. Pro: The tendency to measure previous societies against current ethical standards is common throughout history, which is evidence for the fact such measurements are a product of historical circumstances and not objective judgment.
+1.8.2.2. Con: The very notion of historical progress depends on objective morality. This moral ideal gives us a frame of reference to measure our progress against.
+1.8.2.2.1. Con: -> See 1.8.2.1.1.
+1.8.2.3. Con: Science, unlike other branches of thought, discovers objective truths on which we can base morality. As more objective truths are discovered, morality will become more certain, producing an ethical framework that is not determined by historical trends.
+1.8.2.3.1. Con: -> See 1.6.4.3.
+1.8.2.3.2. Con: This is wrong to the core of what science is. Science NEVER claims objective truth, merely [falsifies](https://en.wikipedia.org/wiki/Falsifiability) previous claims/theories.
+1.8.2.4. Pro: We shouldn't forsake our own ability to create values for ourselves that enable us to create a meaningful life in our unique circumstances.
+1.8.2.5. Pro: Ways of thinking are historically specific: the ability for people to reason ethically is dependent on the modes of thought available to them. It is these shifting modes that determine what is considered moral, not an objective truth.
+1.8.2.5.1. Pro: As philosophy was studied as theology, and the Catholic Church was central to every aspect of life, the ability to reason outside of a Christian context in medieval Europe was constrained by the fact no atheist mode of thought was meaningfully available.
+1.8.2.5.2. Pro: If a moral system makes no sense to someone, because it is alien to any mode of thought that that person is familiar with, then that moral system can have no significance or motivating force to that individual.
+1.8.2.5.3. Pro: -> See 1.1.1.1.
+1.8.2.6. Con: Changing views on a subject does not indicate that the subject itself has changed. For example, human have changed their view about whether we are at the center of the universe. This does not mean that the question of whether we are at the center of the universe is subjective.
+1.8.3. Pro: In any field where objective truths exist - for example, in science - both the general population and experts have experienced a gradual convergence in opinion towards the truth. The same is not true for morality.
+1.8.3.1. Pro: -> See 1.7.5.
+1.8.3.2. Con: There have been many periods of history where science made very little progress, or progressed towards false conclusions. This is not evidence that scientific propositions cannot be true or false.
+1.8.4. Pro: Reasonable moral disagreement under ideal circumstances seems possible. That is, it is possible for two people, each with access to perfect information and in a fully calm deliberative state, to reasonably disagree about a moral proposition. This indicates that no objective truth about that proposition exists.
+1.8.4.1. Con: We cannot conceive of what it would be like to have perfect information and be in a perfect deliberative state. It may well be that if we were in such a state, the objective truth about morality would become completely obvious.
+1.8.4.1.1. Con: -> See 1.1.1.1.
+1.8.5. Con: The pervasiveness of moral disagreement can be explained through the existence of a variety of social, historical, and biological factors. An inability to agree on moral precepts does not prove that morality is not objective.
+1.8.6. Pro: Different moral objective truths can sometimes compete, and they often do. Objective moral truths are then more like the keys on a piano: we not only have to have them all in place, but know which one to play when.
+1.8.6.1. Pro: Is the last son of a single mother more obligated to go to war to fight for his country, or to stay home to take care of his mother? Both are objectively moral and legitimate demands.
+1.8.7. Con: It only indicates that morality is not absolute \(independent of context or consequences\).
+1.8.8. Pro: Objectivity is unobtainable in almost all circumstances, including morality.
+1.8.8.1. Con: Standpoint epistemology proposes that, even though individual perceptions of the social world are always rooted in particular standpoints, collective discussion incorporating all relevant social standpoints can produce objective \(or comparatively objective\) accounts of society. Therefore, if morality is social in nature, then a properly inclusive collective discussion could produce objectively true moral statements.
+1.8.8.1.1. Con: For something to be objective does not mean that it is unchanging, or that it is the consensus, just that it exists outside of our minds. Therefore agreement does not indicate objectivity.
+1.8.8.2. Con: Objectivity is actually obtainable. Objectivity is where a truth condition can be met independent of the observant's individual biases or interpretation.
+1.8.8.3. Pro: If quantum mechanics and the Heisenberg uncertainty principle are correct, the most fundamental levels of matter and energy are not deterministic but probabilistic. If the nature of reality itself is probabilistic, nothing can be truly objective.
+1.8.8.3.1. Con: Objectivity need not be "attained," it simply needs to exist. The fact that we cannot "objectively know" that the world around us exists \(rather than being some simulation machine, for example\) does not mean the world around us does not exist; it only means that we can't know whether it exists or not. 
+Thus, our understanding of something does not affect the objective existence/non-existence of that thing.
+1.8.8.3.1.1. Con: The existence of a real or false objectivity does not change the fact that our understanding of our perceived world can only be accessed through our imperfect perception of reality. While scientific tools can aid our objective understanding of reality, the continuous revision/advancement of science suggests that we only approach objectivity, not attain it. Without a perfect understanding of our 'objective' reality, real or not, we cannot have a perfect understanding of an objective morality.
+1.8.8.3.1.1.1. Con: Again, the issue at hand is not whether we can attain objectivity, but rather, whether or not objectivity exists. 
+
+For comparison with science: although we think it exists, we can not be 100% sure that gravity exists. However, the reality of gravity is objective: either gravity does exist or it does not exist. 
+Our inability to objectively know whether it exists does not mean its existence is subjective.
+1.8.8.3.2. Con: This is a common misconception of the nature of Quantum physics. The quantum realm is probabilistic, but the physical [reality](https://www.nature.com/news/quantum-physics-what-is-really-real-1.17585) is deterministic. The two are related but fundamentally distinct, explaining why nothing physical "randomly vanishes".
+1.8.8.4. Pro: Collective discussion is analysed by an individual and results from a debate by individuals - therefore prone to perspective, deception, interpretation and high error margins, no matter the sample size. Objectivity cannot be attained, merely a collection of subjective/individual perceptions that indicate a trend.
+1.8.8.4.1. Con: -> See 1.8.8.3.1.
+1.8.8.5. Pro: All human perception is based on senses, and perception through any sense is clouded by a subjective evaluation through processing of sensory activity. Agreements between humans on what is true are reached through agreeing on what one understands from the communication of the other about the other's claim, and not what one really perceives through sensory action. One cannot really read another's sensation, only decipher their transmission of it.
+1.8.8.5.1. Con: To say that perception is "clouded" by subjective evaluation suggests that the object of perception nonetheless exists objectively, above the clouds of subjectivity .
+1.8.8.5.1.1. Con: Its existence is not empirically provable due to subjective bias. To suggest it exists, the burden of proof lies on the proposal, not the counter.
+1.8.8.5.2. Con: -> See 1.8.8.3.1.
+1.8.8.6. Pro: Only a small minority of fields approach objectivity.
+1.8.8.6.1. Con: The small number of fields that approach objectivity includes the field of morality.
+1.8.8.6.2. Pro: Objectivity is attainable but is limited to specific academic fields like mathematics, chemistry, etc.
+1.8.8.6.3. Con: Almost all everyday statements are covered by fields which are presumably the ones that approach objectivity, like scientific fields.
+1.8.8.6.3.1. Pro: The majority of everyday statements are factual statements about the world, which rest on scientific knowledge.
+1.8.8.7. Con: -> See 1.8.8.3.1.
+1.8.8.8. Pro: Objectivity is a linguistic concept with no evidence of corporeal existence, especially as we cannot know for sure anything except our own expereince, as argued by Descartes. Moreover, the lack of truth in empiricism, due to the problem of induction, highlights the truly ephemeral, subjective nature of our reality. Ergo, morality, along with everything else, is a subjective illusion, along with reality, as far as we know.
+1.8.8.9. Pro: Objectivity does not exist.
+1.8.8.9.1. Con: Scientific facts are as close to objectivity as we can get. They give us some degree of confidence in the veracity of our claims.
+1.8.8.9.1.1. Con: -> See 1.6.10.
+1.8.8.10. Con: When we discuss morality, even if we disagree about it, we are using some principle of reason to discuss them. Reason is objective. So morality is objective.
+1.8.9. Con: We have deep, intractable disagreements about the use of language, but that doesn't mean that particular words or conventions don't exist. Just because we cannot come to a consensus does not mean that objective morals don't exist. Just because we cannot ever find the means of discovering that moral truth, even, does not mean it does not exist.
+1.8.10. Con: If so, then it also shows disagreements in math have no real answer.
+1.9. Con: Moral judgments can also be aesthetic judgements. However neither subjective or objective categories alone adequately define an aesthetic morality.
+1.10. Con: Morality derives from subjective sources, and thus can never be objective.
+1.10.1. Pro: Morality hinges on untestable values, rendering it non-objective.
+1.10.1.1. Pro: If moral facts existed, they would be abstract objects that do not interact causally with the world. It is difficult to explain how we can come to have justified beliefs about objects that we cannot interact with.
+1.10.1.2. Con: The fact that morality is not empirically testable does not necessarily make it non-objective. For example, the facts of mathematics are not empirically testable, but they are still objective.
+1.10.1.2.1. Con: Mathematical facts and objects [do not exist objectively](https://plato.stanford.edu/entries/nominalism-mathematics/) - they are merely useful constructs.
+1.10.1.2.1.1. Pro: Mathematical concepts do not have an independent existence apart from human consciousness.
+1.10.1.2.1.2. Pro: Like languages, the existence of mathematical concepts cannot be discovered empirically; rather, languages and mathematics are concepts created by human expression.
+1.10.1.2.1.3. Con: Mathematical facts and objects are [indispensable](https://plato.stanford.edu/entries/mathphil-indis/) to our best scientific theories of the world. We should believe in the existence of anything which is vital to our scientific understanding of the world.
+1.10.1.2.1.3.1. Con: Language is also vital for us to express everything, but being vital does not entail objective existence.
+1.10.1.2.2. Pro: There are scientific facts and phenomena that we know objectively exist, but we do not yet have the tools to measure or test. The current lack of human capacity does not change the objectivity of the facts.
+1.10.1.2.2.1. Con: There is a difference between a fact not being testable empirically because of current natural constraints, and a fact that it is conceptually impossible to empirically test. Moral facts fall into the latter category, and are therefore not objective.
+1.10.1.2.3. Con: If you take a bucket of two apples and add two additional apples, the bucket never fails to have four apples. Basic math is empirically testable if perception is trustworthy \(if it is not, then mathematical facts cannot be ascertained, so math is either empirically proven or unknowable\), and more complicated math is always based on the empirically testable basics.
+1.10.1.3. Pro: Given conceptions of basic moral facts, such as when a human life begins, are both undefinable and crucial components of moral questions, morality cannot be objective.
+1.10.1.3.1. Con: Although the point at which human life begins is not a factual question, the point at which a foetus can feel pain or can survive independently can be determined, enabling objective moral judgments to be made on the basis of reasoned conclusions on when human life ought to be said to begin.
+1.10.1.4. Pro: To claim morality is objective, one would need to first identify an innate human quality which properly identifies the moral value of any action. This faculty would be quite unlike any faculty of perception that we know humans have, so it is unlikely that we could find one.
+1.10.1.4.1. Con: Morality is a value set. Value sets are expressions of human psychology. Human psychology is the observable behavior of a living organism capable of valuing. Observations are *of something in reality*. The real, is the objective. Therefore, morality is objective.
+1.10.1.4.1.1. Con: If morality hinges on human psychology \(and different human beings have different value sets\) it is therefore subjective, not objective.
+1.10.1.5. Pro: People's values are based on their individual perceptions and judgements, which are subjective and widely varying.
+1.10.1.6. Con: Moral propositions are not untestable. They can be tested against our moral intuitions and moral reasoning.
+1.10.1.6.1. Con: An individual's intuition and judgement can be influenced by too many forces to be a reliable test of a proposition's "truth."
+1.10.1.6.1.1. Pro: A person's moral intuitions often [change](https://www.theguardian.com/commentisfree/2015/nov/03/do-we-become-more-conservative-with-age-young-old-politics) over their lifetime.
+1.10.1.6.1.1.1. Con: The fact that older people are more likely to be conservative doesn't necessarily imply that people's moral beliefs change over time; this phenomenon is [partially explainable](http://nymag.com/daily/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html) by the fact that poor people tend to die younger.
+1.10.1.6.2. Con: Moral intuition and moral reasoning vary among individuals and also across cultures.
+1.10.1.7. Pro: [Empiricism](https://en.wikipedia.org/wiki/Empiricism) assumes that human's sensory experience of the world should be the basis of knowledge. Given the way that people experience things is subjective and dependent on their own values, 'facts' are not a different category of experience to values.
+1.10.1.7.1. Pro: Appealing to an "is" implicitly appeals to the values of empiricism and logic.
+1.10.1.7.1.1. Con: An expletive verb in no way automatically demonstrates empiricism. E.g.: A raven is like a writing desk.
+1.10.1.7.1.2. Con: "Is" doesn't imply logic, it's the terms "is" combines that imply logic. For example, "H20 is water" is logical. However, "The elephant is blue" is false doesn't imply any value of logic or empiricism. "He is nice" is subjective. "Cruelty is wrong" expresses your preference for kindness.
+1.10.1.7.2. Con: Science is based on logical induction and deduction, which in themselves don't contain any "oughts".
+1.10.1.8. Pro: The existence of objective morality presumes the existence of a 'god's eye view', i.e. an objective world that is correct in comparison to differing sensory experiences of it. No such objective reality exists.
+1.10.1.8.1. Con: This claim presumes that the existence of an objective reality must be integrally, innately tied in some sort of a priori relationship to a human being, so that unless objective truth is handed to us on a platter as some kind of a given there is no objective truth. What a small, self-centric understanding of reality! Truth exists, it owes us nothing, we must humbly join in it's existence by taking a step of faith and going on for the ride. The alternative is self imposed paralysis.
+1.10.1.9. Pro: Almost. As is the case in math, you need to accept very basic assumptions \(axioms\), from which you can \(potentially\) derive a system in an objective way. One of those could be "it's wrong to hurt others without sufficient reason." These axioms aren't objective themselves, though.
+1.10.1.10. Con: The implicit claim that objective things must be testable is itself untestable in the same way morality is untestable. It is here proposed both claims are accepted by faith inside of a human being at the most basic level.
+1.10.1.11. Con: Different moral structures \(civilizations\) can be testable against each other on their capacity to provide fundamental human needs.
+1.10.2. Pro: Ontologically, something is objective only if it exists independently of the minds of sentient beings. Something that exists only in the minds of sentient beings is ontolologically subjective. Meaning is ontologically subjective. Morality is a form of meaningful conduct. Therefore morality is subjective because it is made up of subjective stuff.
+1.10.2.1. Con: If things with meaning cannot be objective, then nothing can be objective because humans imbue everything with meaning. In fact, just using words to describe an event would strip it of its objectivity since it has been 'reduced' to a meaningful statement.
+1.10.2.2. Pro: To be objective, morality would need to exist without \(or at least independently from\) humans or any other living thing for that matter, known or unknown.
+1.10.2.2.1. Con: This thought can't exist independently from humans therefore by it's own logic it cannot be an objective thought. It cannot be an objective statement about reality.
+1.10.2.2.1.1. Con: Although our thoughts do not exist independently from us \(they are subjective\), they can be about facts of reality that exist independently \(facts that are objective\).
+1.10.2.2.2. Con: Formal logic and mathematics exist only in our minds and are considered to be objective nonetheless.
+1.10.2.3. Con: By this logic all claims are subjective. To make a claim about how reality works is to make an objective claim, to make an objective claim is to presuppose objective claims can be held in the minds of sentient beings. This claim is no more objective or subjective than other claims about morality by other sentient beings.
+1.10.2.3.1. Con: Such logic would not objectively disprove the claim if all claims are subjective.
+1.10.2.4. Con: "Objective" can be defined as "[independent of individual thought and perceptible by all observers](https://www.merriam-webster.com/dictionary/objective)". According to this definition, as long as all possible individual minds draw the same conclusion, said conclusion is objective.
+1.10.2.4.1. Pro: -> See 1.10.2.2.2.
+1.10.2.5. Con: That would make science subjective too, since it only exists in the minds of sentient beings.
+1.10.2.6. Pro: -> See 1.8.2.
+1.10.2.7. Con: This succumbs to the problem of [\(hard\) solipsism](https://en.wikipedia.org/wiki/Solipsism). I.e. we cannot know that everything doesn't just exist within our minds.
+1.10.3. Con: A proper morality is something that arises from a human individual's natural function.  Success at fulfilling one's natural function is one's natural good \(or "well-being"\), and this forms the standard of evaluation of virtues and values.  If you are a human being, then "objective" morality applies to you.  Objective morality in this sense means morality that serves your life and existence as a human being.
+1.10.3.1. Con: If morality is subject to a human being's "natural function" \(whatever we establish that to be\), it cannot be objective \(i.e. independent\), unless you bend the meaning of the word.
+1.10.3.2. Con: [Appealing to nature](https://en.wikipedia.org/wiki/Appeal_to_nature) is considered a fallacy in moral debates. As such, it shouldn't be used to define objective morality as well.
+1.10.3.3. Con: Whether something can be objectively "proper" depends on whether morality is objective.
+1.10.3.4. Pro: For example, it is natural for women to produce children, therefore it is moral to prohibit them from taking jobs which would distract from their natural duties of childbirth and care.
+1.10.3.4.1. Con: It is natural for primates to forcefully copulate, that does not make rape morally acceptable. This is the fallacy of [appeal to nature](https://en.wikipedia.org/wiki/Appeal_to_nature).
+1.10.3.4.1.1. Con: The appeal to nature fallacy is just an opinion that appealing to nature is a poor argument, it's not a true fallacy. This claim simply states the opinion that rape is not morally acceptable, and then the opinion that appeals to nature aren't valid, neither of which represents an objective statement.
+1.10.3.4.1.1.1. Con: It is possible for natural processes to differ wildly from moral intuitions, therefore nature should not be invoked to substantiate a moral claim.
+1.10.3.4.1.1.1.1. Pro: In many ways, morality is the codification of divergence from natural processes and the avoidance \(or restructuring\) of natural incentives.
+1.10.3.4.1.1.1.1.1. Pro: Police officers, and sheriffs before them, are the invocation of 'unnatural' incentives to prevent outcomes that people may consider to be immoral. E.g. a sheriff in a town prevents theft and rampant murder, things that townspeople did not want.
+1.10.3.4.1.1.1.2. Con: Moral intuitions can change wildly. Therefore they should not be used as the gold standard of what constitutes morality.
+1.10.3.4.1.1.1.2.1. Con: Moral intuitions \(i.e. opinions on what constitutes morality\) are all we have for understanding morality. They always supercede the natural \(or current\) state.
+1.10.3.4.1.1.1.2.1.1. Pro: A heuristic for a developed society is the degree to which they have abandoned their primitive \(natural\) state.
+1.10.3.4.1.1.1.2.1.1.1. Con: A society could get less primitive and less moral simultaneously, therefore proving that the level of societal development doesn't say anything about its moral state.
+1.10.3.4.1.1.1.2.1.2. Con: The claim that moral intuitions are all we have presupposes that nature cannot be used to judge morals. Rather, a claim could be made that nature is all we have to judge morals by, as nature was created by God, and God is inherently moral.
+1.10.3.4.1.1.1.2.1.2.1. Con: -> See 1.2.7.
+1.10.3.4.1.1.1.2.1.3. Pro: Only some moral actions are natural. Many moral actions are unnatural.
+1.10.3.5. Con: What is considered a human's "natural function" is itself subjective and the common view has changed in recent years, such as with homosexuality being considered "unnatural," gender roles and identity, etc.
+1.10.3.6. Con: -> See 1.10.3.4.1.1.1.
+1.10.3.7. Con: -> See 1.10.3.4.1.1.1.2.1.3.
+1.10.4. Pro: Gödel's Incompleteness Theorem shows that there is no objective set of "correct" arithmetic axioms because it is not possible to determine if the set of axioms is consistent, using those self-same axioms. By analogy, morality cannot be deduced from any objective source \(e.g. "sky hooks"\). Instead, our values must be constructed bottom-up from our own intuition. It's for the same reason that there is no such thing as eternal "common sense".[Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/Gödel%27s_incompleteness_theorems)
+1.10.4.1. Con: Being consistent to the degree that an axiomatic system in Mathematics is, is not a common criteria for objectivity.
+1.10.4.2. Con: A moral system need not necessarily contain arithmetic or comparably strong axioms, therefore Gödel's Incompleteness Theorem does not hold for all moral systems, leaving open the possibility that a moral system may be consistent. An example would be the very simplistic system "If possible, do not kill humans", this is a fully consistent moral system, if not very useful.
+1.10.5. Con: This claim is blind to its own unearned self exception. If morality derives from subjective sources then so does the claim, "morality derives from subjective sources".
+1.10.5.1. Con: "Morality derives from subjective sources" is not a moral statement. It is an epistemological one. As such, it does - not - commit a circular logic or self excemption fallacy.
+1.10.5.2. Con: If the claim supposes that all statements derive from subjective sources and are unsupported, then statements regarding its paradoxical nature are also derived from subjective sources and are unsupported.
+1.10.5.2.1. Con: The claim in question itself doesn't presuppose that there are subjective sources. It's a reduction ad absurdum argument showing that the logic of the claim it is responding to is paradoxical. It's a non sequitur.
+1.10.5.3. Con: If morality derives from subjective sources then that would be a fact. Not a moral claim. Therefore, morality need not be invoked to prove itself.
+1.10.6. Pro: Moral theories rely on, and are constructed around, our intuitions. Self-consistent moral theories are superseded by appeals to intuition; moral "facts" aren't out there to be discovered; they're inside us. Reference to objective elements of moral theories, namely psychological claims, does not bypass the subjectivity of the intuitions that form the core of all moral theories and claims.
+1.10.6.1. Con: Moral beliefs may derive from subjective sources, but this doesn't show that morality derives from subjective sources. That a belief about something derives from or depends upon a subjective source is no good evidence that the belief concerns a subjective matter. Moral beliefs should not be confused with moral facts \(and certainly one shouldn't trade on that confusion in an argument that morality is subjective\).
+1.10.7. Con: "Subjective sources of morality" are merely reflections of the objective morality that was in place at the time of writing.
+1.10.7.1. Con: Subjective morality changes too much over time to be based on something unchanging like objective truth.
+1.10.8. Pro: The only true goal in nature is survival, so what is valid is what objectively gives continuity to your species. As different cultures both achieve this goal with different moral codes, one could say that morality is a social construct and is, therefore, subjective.
+1.10.9. Pro: Any man-made moral system is based on some subjective axioms that can either be accepted or rejected. Hence, without the appeal to a universal objective arbiter, morality is subjective.
+1.10.10. Pro: -> See 1.1.11.
+1.10.11. Pro: Morality is a convention, an agreed set of ideals that favour a desired outcome.
+1.10.11.1. Con: The metric of measuring what constitutes 'desired' is what is of central import. Morality as conceived by a populace could be influenced by convention and still have an objective underpinning.
+1.10.12. Pro: Morality is only meaningful in the context of behavior. If morality were objective, there could be moral and immoral behaviors without any creatures to behave morally or immorally, which is an oxymoron.
+1.10.12.1. Con: There are objective theoretical frameworks that could very well exist without any conscious being existing, e.g.: formal logic or mathematics.
+1.10.12.2. Con: Counter-example: Language does not exist outside of the human mind, but that does not mean that we cannot make objective statements about language.
+1.10.13. Con: Reductio: As far as we know, every description of the universe is based on the perspective of humans. Therefore, every description of the universe derives from subjective sources, and thus can never be objective.
+1.10.13.1. Con: This is, in fact, true. No truly objective knowledge of the universe exists.
+1.10.14. Con: Many scientific results also come from subjective observations but through a process of peer review they attain an 'almost objective' status that allows further research of the topic to build on 'proven' hypotheses etc. Claiming that something cannot be 'objective' because of a subjective sourcing is therefore not a valid argument. Most of our science today is built on rather subjective sources, that doesn't mean it is not 'more or less' objective \(peer-reviewed, consensus reached\).
+1.10.14.1. Con: This just makes science subjectively agreed upon by a large number of individuals. This doesn't make it objective.
+1.10.15. Pro: Morality is "intersubjective" - groups of people must subjectively agree on it's existence for it to exist. For example, law: without people to agree that a law exists as a representative of morality, the law disappears - it only exists mentally.
+1.10.15.1. Con: Language is also intersubjective. That does not mean that there are not objectively correct ways to speak English. We can evaluate the semantic and syntactic elements of a sentence to evaluate correctness despite it only existing mentally.
+1.10.15.1.1. Pro: "aousnth aousnthsntassners oteuht antersnahrcs asnetrc qnace as nsj ateh as cc,sa" is an objectively bad English sentence.
+1.10.15.1.1.1. Con: As this sentence wasn't made with an intention of communicating any idea, it is arguably not an example of using language.
+1.10.15.1.1.1.1. Con: It is impossible to evaluate whether a string of letters is a form of language if one is not adept in the language.
+1.10.15.1.1.1.1.1. Con: The [information](https://arxiv.org/pdf/0803.1695.pdf) [content](https://pdfs.semanticscholar.org/107c/67bd106686312aa516dd4b33c38daf7b0f61.pdf) of a string of letters can be measured, which can serve as a reasonable estimate of the likelihood that said string is randomly generated.
+1.10.15.1.1.1.1.1.1. Con: Even a string of random letters could serve as a language if the length of the random string was used to indicate meaning.
+1.10.15.1.1.1.1.1.2. Con: A string must be more than non-random to pass as language. A high measure of Shannon entropy proves that the content of a string is not language, but a low measure does not prove the opposite.
+1.10.15.1.2. Con: The rules of grammar, syntax, morphology and the use of words in all languages change over time.
+1.10.15.1.2.1. Pro: This is even true for constructed languages like Esperanto, where the use of [stative verbs](https://en.wikipedia.org/wiki/Modern_evolution_of_Esperanto) increased over time.
+1.10.15.1.2.2. Con: A changing language still has an objectively correct and incorrect form. One can say that Old English is now poor or incorrect Modern English, this does not change the objective fact that it was once correct.
+1.10.15.1.2.2.1. Pro: Similarly, if a chair was once in the dining room and is now in the kitchen it is objectively true to say "the chair was there and is now here". Changes to state do not change the objectivity of state.
+1.10.15.1.2.2.2. Con: The levels of "correctness" are not 0 and 1. For [example](https://forum.wordreference.com/threads/for-whom-who-for.2366684/) in English, it is colloquially correct to say "Who are these books for?", but it is "more correct" to say "For whom are these books?"
+1.10.15.1.3. Pro: "Esto es un frase en español. Pero, no es ingles." is an objectively bad English sentence.
+1.10.15.1.3.1. Con: By this logic, a cat is a bad dog. However, a cat is neither a good dog, nor a bad dog. It is just not a dog. It is a cat. It can, however, be a good cat, or a bad cat.
+1.10.15.1.3.1.1. Con: By any logic, a cat is a terrible dog. If there exists a conception of what is 'dogness' then deviation from that conception is to be bad at 'dogness'. That conception of dogness could be weakly defined \(dogs have tails that wag\) or strongly defined \(dogs have this specific ancestor or dna characteristics\). The stronger the definition the more confidently we can say "a cat is a bad dog".
+1.10.15.2. Con: Morality is objective in the sense that it is intersubjective. Like the "reasonable person" standard in the law, a consensus can be met by reasonable people who, in the case of morality, understand the spectrum of conscious experience extends from the greatest misery for every living creature to the greatest possible bliss for each and every one. The universe doesn't care, but conscious creatures inherently do--and that's an objective fact that forms the basis of a universal morality.
+1.10.16. Con: An objective science of subjective claims is possible.
+1.10.16.1. Pro: If someone claims that they have pain in their back we can test their responses to stimuli and use that to determine they are likely experiencing pain.
+1.10.16.2. Pro: Medical professionals frequently use subjective reports of patient experience to make decisions.
+1.10.16.2.1. Con: Subjective reports of experience could be faulty - for example due to misreporting, lying, bad incentives, etc.
+1.10.16.2.1.1. Con: There are classes of subjective reports that can be trusted more than others.
+1.10.16.2.1.1.1. Pro: For example, a patient taking a vision test has every incentive to be truthful with what they can and cannot see so that they get the right prescription. Contrast that with pain report patients that may want to refill their opiate prescription. It is not just the report that matters, but also the context of the report and the incentives of the reporter.
+1.10.17. Pro: If all moral claims are subjective, this makes morality subjective.
+1.10.17.1. Con: Everything is subjective. Even gravity as a phenomenon is viewed and experienced by a subject with their own personal and independent interpretation. That does not mean that we cannot triangulate our experiences and other people's experiences in order to understand the objective attributes of a phenomenon.
+1.10.17.1.1. Pro: Some phenomena have a subjective origin of the evidence, and some are embedded in a subjective substrate fundamentally. The first could be an objective phenomenon \(like chemistry\), the second is definitely not. So the thing to understand is NOT the origin of the evidence for morality \(it's always going to have a subjective origin\), but rather the consistency of the evidence for what constitutes morality. That's what would tell us whether it's objective or not.
+1.10.17.1.2. Con: The relevant kind of subjectivity is mind-dependence. Morality doesn't exist externally to human minds. By contrast, physical phenomena like gravity or chemistry do exist mind-independently.
+1.10.17.1.2.1. Con: -> See 1.10.12.2.
+1.10.18. Pro: The discordance between the "least harm" and the "most good" demonstrates that there is no absolute answer.
+1.11. Con: -> See 1.8.8.
+1.12. Pro: The very nature of morality lies in providing certain truths and requirements regarding duty that we must follow universally. A subjective moral system makes morality practically useless, and is itself nothing more than a set of euphemisms that you don’t have to follow.
+1.12.1. Con: A subjective moral system is useful by allowing for objective conclusions based on subjective values. As long as a society agrees on certain core values \(e.g. a constitution or human rights\), subjective morality can still define duties and virtues.
+1.12.2. Con: Proving objective morality by disproving subjective morality would be a [false dichotomy](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/94/False-Dilemma). It is conceivable, that both are inconsistent or a different consistent type of morality exists.
+1.12.3. Pro: -> See 1.3.15.
+1.12.4. Con: Rather than "providing certain truths" most people arguing morality provide baseless claims and opinions. For example people often claim different religious texts provide inherent "moral truths", but different moral theories all have different ones.
+1.13. Pro: Morality is objective, if and only if there is an absolute moral authority to define it. An absolute moral authority must exist.
+1.13.1. Con: Even if we accept that having an authority is a necessary condition for the objectivity of morality, it doesn't follow from this that having a moral authority is a sufficient condition for objectivity. In order to be able to say that morality is objective, one's moral theory needs to provide clear and testable guidance for actual moral problems that reasonable people can agree on.
+1.13.2. Pro: Innate morality transmitted genetically was either programmed or naturally selected. Natural selection is subject to environmental changes and specific lineage, therefore objective morality can only be achieved through genetic programming.
+1.13.2.1. Con: Natural selection chooses traits that most improve a descendant's chance at survival, in no way do better survival skills imply morality.
+1.14. Con: Only physical laws can be objective and not moot. A law that doesn't change the behavior of particles of matter is nominal, never knowable, and, it can be debated, doesn't really exist. The universe does not contain a disobey-able rule.
+1.14.1. Con: This statement is not a physical law. So it is not objective, and being non objective has no real relevance to the discussion.
+1.14.2. Con: The laws of logic and mathematics do not change the behaviour of physical particles, but they are objectively true, discoverable, and debatable.
+1.14.3. Con: Objective truths are not laws. If you are sitting in a chair, it is not a law that you sit in that chair, but it is an objective fact.
+1.15. Pro: All things that exist, even things in the mind, have some physicality \(quarks, gluons, etc.\). Things that are physical are objective, therefore morality is objective.
+1.15.1. Con: In physics there is the concept of a "virtual particle" which is a particle which exists but can be said to have no physicality, as it cancels with other local particles.
+1.15.2. Con: Things which exist in the mind of one person may be real to that person, but false in the mind of another person, which points towards a subjective morality.
+1.16. Pro: Objective morality would imply that there is innate value to life, which implies innate value to existence, even for matter. However it is even harder to explain why morality and meaning exist as concepts if they are illusions -- it implies all living things are delusional for valuing their own lives, which itself discredits the claimant.
+1.16.1. Con: Objective morality does not imply innate value to life in that you can claim an objective morality which does not value life, such as "life is inherently immoral, therefore the moral thing is to end life as much as possible".
+1.16.1.1. Con: This is similar to claiming there is an economy built on devaluing all currency as worthless. Morality requires consciousness, consciousness implies life, the act of living denotes a value of living, therefore it is impossible for morality to devalue all life.
+1.16.1.1.1. Con: Objective morality does not require consciousness by definition.
+1.16.1.1.2. Con: Whether consciousness requires life is at least uncertain, as the possibility of artificial general intelligence is a much debated topic currently.
+1.16.2. Con: Living things can be deluded in valuing their lives, when in fact their life has no value. This does not discredit a subjective morality.
+1.16.2.1. Con: Claiming that their life has no value is a subjective moral evaluation of their life. The existence of subjective morality does not rule out the existence of objective morality.
+1.16.3. Con: The illusion of morality exists because natural selection enforced that behavior in human beings for better survival. A concept does not exist simply because natural selection determined that the belief it exists provides benefits to survival.
+1.16.3.1. Con: A concept's benefit to survival does not prove that concept was arbitrarily invented for that purpose. If living things cannot accurately perceive some truth about their world, they cannot adapt, and do not survive. Survival inherently motivates a connection to truth and removal of illusion.
+1.16.3.1.1. Con: [Heuristics](https://en.wikipedia.org/wiki/Heuristics_in_judgment_and_decision-making) guide behaviour, and heuristics can obscure truth and result in illusions in order to achieve faster and better responses in decision making. This is antithetical to seeking the most direct connection to truth.

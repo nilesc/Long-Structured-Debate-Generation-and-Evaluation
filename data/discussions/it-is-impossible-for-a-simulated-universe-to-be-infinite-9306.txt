@@ -1,0 +1,47 @@
+Discussion Title: It is impossible for a simulated universe to be infinite.
+
+1. It is impossible for a simulated universe to be infinite.
+1.1. Con: Time may not exist in a simulated universe and therefore there is no such thing as infinite time.
+1.1.1. Pro: If the simulated universe contains no objects in motion, but only empty space, then there would indeed be no time.  Time is a measure governed by motion.
+1.1.2. Con: If the simulated universe contains kinetic matter of any form, there must be time. The space between and speed of objects moving toward or away from each other cannot be formulated without a measure of duration.
+1.2. Con: There are simple mathematical universes that are infinite, e.g. set of all natural numbers. These can be simulated using computer if they can nonetheless be described in finite way.
+1.2.1. Con: A computer can never implement an infinite computation.
+1.2.1.1. Con: Infinite computations aren't required, what we are talking about here are simulated infinite space, and possibly time.
+1.2.1.1.1. Con: Its parent claim was talking about natural numbers being infinite, with reference to simulating universes. Computations are not far removed from the subject of discussion.
+1.2.2. Pro: Software design or analysis modelling can be used to model infinite structures. Any finite approximation of such structures can be computed during execution of the program.
+1.2.2.1. Con: Memory space or time resources will be exhausted before all results of potentially infinite computation are produced.
+1.2.2.2. Pro: For an infinite universe it would be impossible to simulate or compute more than a finite subset of the universe. However this is not necessary for such model or computation to be useful.
+1.2.3. Con: Mathematical models are not actual representations of physical phenomena.
+1.2.3.1. Con: Mathematical models are the best available models that can be used to predict behaviour of physical phenomena.
+1.3. Con: If there is something powerful enough to simulate our universe, we do not have the ability to comprehend whether it is also capable \(or not\) of being infinite. Thus, we cannot prove that this sentence is true or false.
+1.4. Pro: A simulation is data. It is impossible to store "infinite" data.
+1.4.1. Con: A simulation can be procedurally generated without relying on data per se.
+1.4.1.1. Con: A procedurally generated simulation has limitations that we do not observe in our “reality”. It is possible to distort and destabilize the entire simulation by altering the course of one character. Therefore it is not truly infinite.
+1.4.1.1.1. Con: Altering one object does not necessarily destabilise the entire simulation.
+1.4.1.1.2. Con: Even if altering one object destabilises the entire simulation, this doesn't mean it's not still infinite.
+1.4.2. Con: Parts of the universe could repeat themselves, thereby using the same data over and over again.
+1.4.2.1. Con: Data repeating itself \(i.e. overwriting\) can exist in finite or infinite circumstances.
+1.4.3. Con: In an infinite universe that keeps on expanding it is possible to store infinite amounts of data
+1.4.4. Con: Simulation may not need to store infinite amount of data even if the constructs simulated are potentially infinite. E.g. computations on natural numbers are possible in finite space even if the set of all natural numbers is infinite.
+1.5. Pro: You would need infinite power for this act. There is no end to infinity, so you could not possibly do this, not now or ever.
+1.6. Con: A simulation can be infinite if the Simulator is within an infinite universe.
+1.6.1. Con: To simulate infinity, one would need an infinite simulator. An infinite simulator would mean the simulator is everything. This would also imply that the simulator and the simulation created themselves. This is not a logical possibility.
+1.6.1.1. Con: "Natural numbers" are infinite.
+"Natural even numbers" are infinite.
+
+"Natural even numbers" are entirely included in the "natural numbers" set, without filling it.
+1.6.1.1.1. Con: Natural even numbers cannot be entirely included in a set which is not also infinite.
+1.6.1.1.1.1. Con: Whether infinity could fit in a finite set is irrelevant because we have been referring to a world which was infinite, discussing whether an infinite machine would fill it.
+1.6.1.1.2. Pro: There is an isomorphism between all even natural numbers and all natural numbers, defined as division by 2.
+1.6.1.2. Pro: A finite simulator can not simulate a truly infinite universe \(I.e. without looping data\). Such a simulation would require limitless computing capabilities
+1.7. Con: It is possible for a simulated universe to be infinite if ours is the simulated world instead of the simulating world, because the universal laws of a world external to ours are not necessarily the same as the laws of the world we exist in.
+1.8. Pro: Outside the simulation that possesses the infinite, it would seem that a creator of the proposed simulation must also occupy a place or within a presence of the infinite. The math for the philosophy of size, would not allow a creation of something infinite out of your own finite abilities, space, or knowledge .
+1.9. Pro: In a simulated infinite universe, there could technically be a dimension where an infinite simulated universe is impossible. This is an internal contradiction and a paradox.
+1.9.1. Con: The root claim isn't that it contains everything possible, just that the dimensions of the simulated universe are unbound. Hence, this claim is irrelevant.
+1.10. Con: It is possible to make the space of a simulation loop-able and thus infinite.
+1.10.1. Con: Although infinity can be mimicked with a loop, it is not true infinity as one will eventually \(depending on the sophistication of the loop\) repeat the same experiences.
+1.10.2. Con: Loops can be finite. Just because the simulation is looped doesn't mean it is infinite.
+1.11. Pro: A simulated universe would need to be generated within Simulator. Infinity suggests not being bound by any laws as anything is possible. However, it is impossible for a simulation to exist outside the Simulator.
+1.11.1. Con: For the purposes of this discussion, If we allow that our universe is a simulation, we must also assume it was created by an intelligence which far exceeds our own. Based on this assumption, there could be technology and forces at work beyond our grasp or comprehension; If the infinite universe is the simulator, then the simulator itself would be infinite.
+1.12. Con: Within a simulated finite universe, it is possible for the Simulator to create the laws of that universe, which dictate that an infinite simulated universe is theoretically possible.
+1.13. Con: In an infinite simulated universe it is both possible and impossible, at the same time, for an infinite simulated universe to exist. Even if the statement is true in our dimension, we could still be within an infinite universe where the opposite of the statement is also true.

@@ -1,0 +1,140 @@
+Discussion Title: Should police adopt a reactive service model used by other public safety services?
+
+1. Police departments in the U.S. should adopt a reactive service model used by other public safety services.
+1.1. Con: A more visible police presence deters crime.
+1.1.1. Con: [Random patrols](http://whatworks.college.police.uk/Research/overview/Documents/WW_overview_Visible_patrol.pdf) have shown no impact on reducing crime.
+1.1.1.1. Con: Normal patrol operations are not random.  Patrolling should emphasize problem locations.
+1.1.2. Pro: [Several researchers](https://daily.jstor.org/do-police-deter-crime/) compared US cities and found that more cops on the street led to declines in serious felony crime rates.
+1.1.3. Pro: [A study](http://www.fsu.edu/news/2005/06/24/more.cops/) showed that, when additional officers were on duty during high terror alter days, there was a 15% reduction in crime in the district where the White House is.
+1.1.3.1. Con: The study states that street crime in the immediate area went down, but fails to address the probability that it increased by an equal or greater amount in areas where police presence had been reduced.
+1.1.3.2. Con: The study fails to address what would happen if that was the normal policing levels for that area.This renders it ineffectual as evidence that increasing police levels in the long term creates a change in criminal behaviour.
+1.1.4. Con: The [Kansas City preventive patrol experiment](https://en.wikipedia.org/wiki/Kansas_City_preventive_patrol_experiment) in the early 1970s revealed patrol resources could be diverted without making citizens feel less safe.
+1.1.4.1. Con: This study did not eliminate variables between the control group and the areas receiving modified numbers of patrols.
+1.1.4.1.1. Pro: Crime is impacted by population density, local history, businesses in the area, and many other factors that have nothing to do with the frequency of patrols.
+1.1.4.2. Con: It's more important to actually prevent crime than to simply make citizens feel safe.
+1.2. Con: Without police working to prevent crime, personal gun ownership will likely increase.
+1.2.1. Con: This is not necessarily a bad thing, if it will make communities more protected.
+1.3. Pro: Some budgetary problems for local law enforcement would be alleviated by removing proactive policing duties from the officer's mission.
+1.3.1. Con: Following this logic to its conclusion, budgetary problems for law enforcement could be solved by not enforcing laws at all.
+1.3.1.1. Con: There is no reason to continue following this logic further than is viewed to be beneficial, per the rest of this discussion.
+1.3.2. Pro: The U.S. collectively invests [$100 billion annually](https://www.forbes.com/sites/niallmccarthy/2017/08/07/how-much-do-u-s-cities-spend-every-year-on-policing-infographic/#4d722608e7b7) on policing, mostly owing to large-city budgets, representing an increase in percentage of budget over three decades.
+1.3.3. Pro: [96 percent of police and corrections spending](https://www.urban.org/policy-centers/cross-center-initiatives/state-local-finance-initiative/state-and-local-backgrounders/police-and-corrections-expenditures) goes toward operational costs, including law enforcement salaries and benefits.
+1.3.4. Pro: [State spending largely goes toward state-operated prison facilities or highway patrol](https://www.urban.org/policy-centers/cross-center-initiatives/state-local-finance-initiative/state-and-local-backgrounders/police-and-corrections-expenditures), while local government spending goes toward assets such as local sheriffs’ offices, police departments, and county jails.
+1.3.5. Con: [Per capita spending on policing is uneven](https://www.urban.org/policy-centers/cross-center-initiatives/state-local-finance-initiative/state-and-local-backgrounders/police-and-corrections-expenditures) across the country, suggesting budget help from reactive service would not help all departments equally.
+1.3.6. Con: There is no guarantee that the 6 percent of the government budget currently invested in police and corrections would remain intact if policing services were cut.
+1.3.7. Pro: Since [vehicles come offline around 100,000 miles](https://www.dailyrecordnews.com/members/cost-of-a-cop-what-is-the-price-to-equip/article_9f740160-b647-11e5-bac4-73fb1dac98d2.html), less use means they will last longer.
+1.3.7.1. Con: Vehicles do not necessarily come offline around 100,000 miles.  Different agencies vary widely on this point.
+1.3.7.2. Con: Out of service patrol cars are sometimes sold to smaller departments.  This reduces the budgetary impact that a reduction in driving could have.
+1.3.8. Con: Other than vehicle operations, [most of the costs associated with patrol are still needed](https://www.dailyrecordnews.com/members/cost-of-a-cop-what-is-the-price-to-equip/article_9f740160-b647-11e5-bac4-73fb1dac98d2.html) to maintain officer readiness to respond to a range of incidents.
+1.3.9. Con: There isn't an inherent difference in dealing with crimes that the police discover and dealing with crimes that other people discover.  Selecting one group of crimes to simply ignore is an odd way to save money.
+1.3.10. Con: Proactive traffic enforcement generates revenue \(through both grants and fines\). Police departments are primarily funded by taxes, but removing the one part of the department that sometimes makes money would not alleviate budget problems.
+1.4. Pro: Many controversial practices by police are tied to proactive prevention.
+1.4.1. Con: Conflict between the police and the public does not justify prohibiting the police with initiating contact with members of the public.
+1.4.1.1. Con: This conflict has cost numerous lives. The death of innocent people, some minors, is certainly a justification for an intervention into how things are done.
+1.4.2. Con: Officers who identify themselves as mostly proactive are [three times as likely](http://www.justice.gc.ca/eng/rp-pr/cj-jp/yj-jj/discre/org/styles.html) to almost always consider softer informal action with minor offences \(54% vs. 13%\)
+1.4.2.1. Pro: Many controversies involve police overreaction.
+If more police officers instead use softer informal action there may be fewer controversies
+1.4.3. Pro: Police are often accused of [racial profiling](http://www.ohrc.on.ca/en/under-suspicion-concerns-about-racial-profiling-police), given searches on the street are predominantly targeted at non-white citizens.
+1.4.3.1. Con: Inhibiting proactive policing would do nothing to remove racist officers from the force, and would not prevent them from misusing their authority after someone called them. Those problems needs to be dealt with directly.
+1.4.3.1.1. Pro: The answer to a potentially racist police form is internal reform, rather than avoiding police-civilian contact.
+1.4.3.1.2. Con: Reducing the number of police-public interactions reduces the negative impact systemic bias has on society.
+1.4.3.1.2.1. Con: Isolating law enforcement in this way would reduce positive interactions between the police and the community, and would diminish both groups' ability to cooperate with each other.
+1.4.3.1.2.2. Con: Reducing law enforcement services might not reduce the impact of systemic bias at all, because it would only be treating a symptom without addressing causes.
+1.4.3.1.2.2.1. Pro: Systemic bias is not a problem that originates with law enforcement, but is a reflection of biases formed elsewhere.
+1.4.3.2. Con: This assumes that only police officers experience racial bias. If bias is endemic, then racial profiling would continue even under a reactive service model.
+1.4.3.2.1. Con: Biases may still exist, but racial profiling—a discriminatory practice where officials target individuals for suspicion of crime based on the individual's demographics—is most closely associated with patrol.
+1.4.3.2.1.1. Pro: In [Sacramento](http://www.sacbee.com/news/investigations/the-public-eye/article148187399.html), although just 13% of the city’s driving-age population is black, 32% of Sacramento police traffic stops involved black drivers.
+1.4.3.2.1.2. Pro: [A study](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0141854) found that the probability of being black, unarmed, and shot by police is about 3.49 times the probability of being white, unarmed, and shot by police on average.
+1.4.3.2.1.3. Pro: A study in [San Francisco](http://sfdistrictattorney.org/sites/default/files/Document/BRP_report.pdf) found racial disparities regarding  stops, searches, and arrests, particularly for Black people.
+1.4.3.2.1.4. Con: Racial profiling is already illegal, and can be punished directly.
+1.4.3.2.1.5. Con: Patrol is the most visible point of contact between the police and the community, so biased actions by patrol officers may be easier to see, but there is no other reason to believe that patrol is inherently more prone to bias than other parts of the police department.
+1.4.3.3. Pro: -> See 1.4.3.2.1.2.
+1.4.3.4. Pro: According to the [Bureau of Justice Statistics](https://www.bjs.gov/index.cfm?tid=702&ty=tp), a higher percentage of black drivers \(13%\) than white and Hispanic \(10% each\) drivers were stopped by police.
+1.4.3.4.1. Con: A 3% increase is not enough to substantiate accusations of racial profiling, especially where other variables can not be eliminated.
+1.4.3.5. Pro: Minorities are ticketed and arrested more often, and [police apply a lower bar to justify a search](https://www.mercurynews.com/2017/06/19/police-stop-black-and-latino-drivers-more-often-than-whites-stanford-study-finds/) with minority drivers than with white drivers.
+1.4.3.5.1. Pro: A [lower percentage of white drivers stopped by police](https://www.bjs.gov/index.cfm?tid=702&ty=tp) in 2011 were searched \(2%\) than black \(6%\) or Hispanic \(7%\) drivers.
+1.4.3.5.2. Con: Accurate statistics for who is searched and why are impossible to find, since most of these searches are not tracked in any database.
+1.4.3.5.3. Con: Even if minorities are ticketed or searched more often than white drivers, this may not be a result of racial profiling by the police.
+1.4.3.5.4. Con: The linked study claims that "If, for example, an officer has a 20 percent suspicion that a white driver has contraband, drugs or weapons in the person’s vehicle, they would conduct a search. But for a minority driver, that threshold of suspicion could be as low as five percent."  Given that neither the police nor the courts track suspicion in terms of percentages, and police do not necessarily report every search conducted, it is impossible for the study to honestly arrive at this conclusion.
+1.4.3.5.5. Con: Police officers are individuals.  Even if some police officers engage in biased practices, this does not imply that the police in general do so.
+1.4.3.6. Con: According to the [US Census Bureau](https://www.census.gov/quickfacts/fact/table/US/IPE120216) and the [Bureau of Justice Statistics](https://www.bjs.gov/content/pub/pdf/htus8008.pdf), Blacks make up 13.4% of the US population, but commit 52.5% of all homicides. Whites make up 76.6% of the US population and commit 45.3% of all homicides. The BJS also notes that 53.2% of homicides are committed by young men between the ages of 18 and 24. Using those statistics to concentrate police efforts on areas with a lot of young, black men is not racist. It is using statistical information wisely.
+1.4.3.7. Con: Just because officers are accused of racial profiling does not make it true.
+1.4.3.7.1. Pro: Police departments deny any accusations of racial profiling.
+1.5. Pro: Almost [half of all police-public contacts](https://www.bjs.gov/content/pub/pdf/pbtss11.pdf) are initiated by the public, which suggests that the public is already comfortable with a reactive service model.
+1.5.1. Pro: This suggests that departments already have protocols and training to be responsive.
+1.5.2. Con: The fact that the public does call the police doesn't necessarily mean that the public wants to be responsible for initiating every police action.
+1.5.3. Con: The other \>50% are just as likely to be comfortable with proactive policing
+1.5.4. Pro: One in 8 U.S. residents age 16 or older \(31.4 million people\) [requested assistance from police at least once](https://www.bjs.gov/index.cfm?ty=pbdetail&iid=4780) in 2011.
+1.5.5. Con: Police respond to most calls while on patrol.
+1.5.5.1. Pro: The “[closest car concept](http://www.hendonpub.com/resources/article_archive/results/details?id=1633)” has been used widely for a couple decades to require officers who are closest to the dispatch location to respond, regardless of patrol duties.
+1.5.5.1.1. Pro: Technology like [GPS](http://www.hendonpub.com/resources/article_archive/results/details?id=1633) has made awareness of the locations of incidents and officers much more accurate.
+1.5.5.2. Con: Particularly in rural communities, where populations are less dense and departments have fewer officers, patrol beats can cover large areas.
+1.5.5.3. Con: Patrols serve purposes other than reducing response times by already being in the field.
+1.5.5.3.1. Pro: Patrols offer more direct interaction with the community being served, to build and strengthen relationships.
+1.5.5.3.2. Pro: Familiarity with regular patterns of neighborhood behavior allows officers to recognize when something is wrong.
+1.5.5.3.3. Pro: Many departments allow patrol officers to be autonomous, to determine where to go within a beat and to self-dispatch to reported incidents.
+1.5.6. Con: Many of the protocols and training police have in place would have to be fundamentally redesigned.
+1.5.6.1. Pro: Since the protocols and training police currently have lead to the current results, they need to be fundamentally redesigned.
+1.5.6.1.1. Con: Not all of the status quo needs to be changed.
+1.5.6.1.2. Con: There are other factors besides current police training and protocols that contribute to our current situation.
+1.5.6.2. Con: One of the motivations of adopting a purely reactive service model is to change both the focus and content of existing training.
+1.5.6.2.1. Con: The focus and content of existing training can be changed without placing unnecessary restrictions on when the police may contact other members of the public.
+1.6. Pro: Fire and Emergency Medical Services \(EMS\) response times are usually quick enough to be address the incident.
+1.6.1. Pro: Average EMS response time is [seven minutes](https://www.medicalnewsbulletin.com/response-time-emergency-medical-services/).
+1.6.2. Con: EMS response times in rural areas are [14 minutes](https://www.medicalnewsbulletin.com/response-time-emergency-medical-services/), or double the overall average.
+1.6.3. Con: [Geography](https://www.autoinsurancecenter.com/emergency-response-times.htm), time of year, and hour of the day can all factor into emergency response times for fatal traffic accidents.
+1.6.4. Pro: Half the time, fire departments can respond to an alarm to arrive on the scene in [5 minutes](http://www.govtech.com/public-safety/Five-Minute-Response-Time-For-Local.html).
+1.6.5. Pro: Fire departments responded to [33 million calls in 2015](https://www.nfpa.org/News-and-Research/Fire-statistics-and-reports/Fire-statistics/The-fire-service/Fire-department-calls/Fire-department-calls), up threefold since 1980.
+1.6.5.1. Con: False alarms comprise about [8% of all calls.](https://www.nfpa.org/News-and-Research/Fire-statistics-and-reports/Fire-statistics/The-fire-service/Fire-department-calls/Fire-department-calls)
+1.6.6. Pro: In U.S., the National Fire Protection Association \(NFPA\) recommend that [a response time of under 5 minutes](https://www.firehouse.com/home/news/10544675/how-nfpa-1710-and-1720-affect-fire-service-ems) to turnout and arrive at scene of emergency should be achievable at least 90 percent of the time.
+1.6.6.1. Con: This is a standard for professional firefighter departments. For volunteers, the [expected response times are longer](https://www.nfpa.org/Codes-and-Standards/ARCHIVED/Safer-Act-Grant/NFPA-1720).
+1.6.7. Con: Crime is not the same as a fire, medical emergency, or a disaster.
+1.6.7.1. Pro: Police also needs to deter minor misdemeanors that normally should not involve 911 or a court order. For example traffic offenses.
+1.6.7.2. Pro: Having medical personnel on patrol would not prevent medical emergencies, but having police on patrol can prevent specific incidences of crime.
+1.6.7.2.1. Con: There is a survival benefit when the EMS response time is [within four minutes](http://www.jems.com/ems-insider/articles/2012/02/response-time-realities-the-scientific-evidence.html?c=1), for patients with intermediate or high risk of mortality.
+1.6.7.2.2. Pro: EMS personnel usually have no way of predicting where a medical emergency will occur, so patrolling would not reduce response time. Police officers can emphasize problem areas while on patrol.
+1.6.8. Con: Crime usually needs much faster response rates then fires.
+1.6.8.1. Con: Due to a change in building and furnishing materials, newer houses [burn much faster](https://www.today.com/home/newer-homes-furniture-burn-faster-giving-you-less-time-escape-t65826) than older houses.
+1.6.8.2. Con: Not all criminal reports are especially urgent. Nonviolent property crimes or reports of crimes that are no longer in progress conceives wait for hours while the police are occupied with more immediate problems.
+1.6.9. Pro: Even with patrols, law enforcement [responds to violent crimes](https://www.bjs.gov/content/pub/pdf/cvus/current/cv08107.pdf) in less than 11 minutes only 58.6% of the time.
+1.6.9.1. Pro: For domestic violence, two officers usually respond to the call with an average response time of [19 minutes](https://www.bjs.gov/index.cfm?ty=pbdetail&iid=3685).
+1.7. Con: Minor traffic offenses would be nearly unenforceable under a reactive service model.
+1.7.1. Pro: When the police receive a call of a traffic violation, by the time they arrive there is usually insufficient evidence to either identify the offender or prove that a violation occurred because all involved parties have left the area.
+1.7.2. Con: Automated systems, both external \(cameras, radar, tracking\) and internal \(speedometer, camera, and GPS logging within the car itself\) would catch far more minor offenses than law enforcement personnel can, and those systems will become ubiquitous soon anyway.
+1.7.3. Con: Minor traffic offenses are inconsistently enforced and already cause much friction between the police and citizens.
+1.7.3.1. Con: Friction between the police and the people they take enforcement action against is not by itself a good reason to stop enforcing the law.
+1.7.3.2. Con: Minor traffic offenses are enforced more heavily in densely populated areas, where they are more likely to cause harm.
+1.7.3.3. Pro: Traffic laws are so extensive and so universally violated that it is impossible for all violations to be ticketed.
+1.7.3.4. Pro: Some jurisdictions strictly enforce traffic laws primarily as a source of revenue.
+1.7.3.5. Pro: Many traffic offenses are based on equipment violations, which are far more likely to happen to those with older cars or less money for upkeep.
+1.7.4. Con: Minor traffic offenses are not worth the cost of enforcement.
+1.7.4.1. Con: Enforcement of minor traffic offenses leads to the discovery of more serious crimes.
+1.7.4.1.1. Pro: Timothy McVeigh was [arrested](https://www.policeone.com/police-history/articles/8527487-Police-History-How-Trooper-Charlie-Hanger-caught-the-Oklahoma-City-bomber/) after being stopped for not displaying a license plate.
+1.7.4.1.2. Con: Philando Castile, stopped for a broken tailight, was [shot seven times and killed](https://www.nytimes.com/2017/06/21/us/video-police-shooting-philando-castile-trial.html) trying to comply with the officer's request for identification.
+1.7.4.1.2.1. Con: Whether Castile was complying with orders is in dispute.  Officer Yanez was acquitted in this shooting.  [nytimes.com](https://www.nytimes.com/2017/06/16/us/police-shooting-trial-philando-castile.html)
+1.7.4.1.2.1.1. Con: Acquittal of officers in police shootings is common, due to [Graham v Connor](http://caselaw.findlaw.com/us-supreme-court/490/386.html) \(the "reasonableness" clause\) and [Tennessee v Garner](http://caselaw.findlaw.com/us-supreme-court/471/1.html).
+1.7.4.1.2.1.1.1. Con: Acquittal of officers is common because their guilt would need to be proven beyond reasonable doubt just like anyone else's.  [Graham v Connor](http://caselaw.findlaw.com/us-supreme-court/490/386.html) and [Tennessee v Garner](http://caselaw.findlaw.com/us-supreme-court/471/1.html) did not change this standard.
+1.7.4.1.2.1.2. Con: Shootings that are deemed justified may still have been avoidable.
+1.7.4.1.2.1.2.1. Con: Just because a justified shooting is avoidable doesn't mean that it's the police officer's responsibility to avoid it.  The suspect could also avoid the shooting by not fighting with the police, not fleeing from the police in circumstances that present the appearance of being armed and dangerous, or by complying with the police officer's orders on high-risk stops.
+1.7.4.2. Con: Many traffic fatalities are caused by minor traffic offenses.
+1.7.4.2.1. Pro: 37,461 lives were lost on U.S. roads in 2016, or [1.18 deaths per 100 million vehicle miles](https://www.nhtsa.gov/press-releases/usdot-releases-2016-fatal-traffic-crash-data) traveled. This is a 5.6 increase over the previous year and the highest since 2008.
+1.7.4.2.2. Pro: Traffic patrols of minor offenses can help people outside the vehicles, as 33% of crash fatalities occur to [pedestrians](https://www.nhtsa.gov/press-releases/usdot-releases-2016-fatal-traffic-crash-data).
+1.7.4.2.2.1. Pro: Pedestrian fatalities increased in 2016 to their [highest numbers since 1990](https://www.nhtsa.gov/press-releases/usdot-releases-2016-fatal-traffic-crash-data).
+1.7.4.2.2.1.1. Pro: 6 percent of crashes due to ignoring traffic signs result in a pedestrian fatality, and [21% of those deaths are children](http://www.slate.com/articles/technology/future_tense/2017/11/the_six_main_causes_of_car_crashes.html).
+1.7.4.2.3. Pro: The [biggest factors involved with fatal crashes](https://www.driverknowledge.com/car-accident-statistics/) are alcohol \(40% of fatal crashes\), reckless driving \(33%\), and speeding \(30%\).
+1.7.4.2.3.1. Pro: 12.3 percent of drivers involved in fatal crashes had [too much alcohol or drugs](http://www.santarosa-lawyer.com/causes-of-car-accidents/) in their system.
+1.7.4.2.4. Con: Patrols can't prevent all factors contributing to fatal car crashes.
+1.7.4.2.4.1. Pro: Up to 30 percent of all crashes involve [hitting a car from behind](http://www.slate.com/articles/technology/future_tense/2017/11/the_six_main_causes_of_car_crashes.html).
+1.7.4.2.4.2. Pro: 21 percent of all fatal crashes involve drowsy drivers.
+1.7.4.2.4.2.1. Pro: 37 percent of all [drivers have fallen asleep](https://aaafoundation.org/prevalence-drowsy-driving-crashes-estimates-large-scale-naturalistic-driving-study/) while driving at least once in their lives, including 11% in past year and 4% in past month.
+1.7.4.2.4.3. Con: If they prevent those that are preventable, then they are already a preferable option to not having patrols.
+1.7.4.2.5. Pro: 8.5 percent of fatal crashes were due to [veering into another lane](http://www.santarosa-lawyer.com/causes-of-car-accidents/).
+1.7.4.2.6. Pro: 4 percent of fatal crashes each year are due to [failure to obey traffic signals](http://www.santarosa-lawyer.com/causes-of-car-accidents/).
+1.7.4.2.7. Con: Independently of traffic patrol, technology improvements in cars and safety programs, such as those to increase seat belt use and reduce impaired driving, have [substantially lowered the number of traffic fatalities](https://www.nhtsa.gov/press-releases/usdot-releases-2016-fatal-traffic-crash-data) over the past decade.
+1.8. Con: Large events with many people in close proximity will become less safe if police have to wait to respond.
+1.8.1. Con: Even for other public safety services that are typically reactive \(e.g., ambulances\), large events are exceptions that require additional resources.
+1.9. Pro: A free society shouldn’t keep its citizens under constant surveillance by armed agents of the state.
+1.9.1. Con: Civilians are much more under surveillance due to CCTV and online tracking than they are by police presence.
+1.9.2. Pro: The fourth amendment to the U.S. constitution was ratified to protect individuals from unwarranted investigation.
+1.9.2.1. Con: The fourth amendment is a guarantee against unreasonable search and seizure, not a guarantee against any and all search and seizure.
+1.9.3. Con: Police officers on patrol do not amount to constant surveillance of citizens.

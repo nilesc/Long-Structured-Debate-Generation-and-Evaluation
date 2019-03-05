@@ -1,0 +1,54 @@
+Discussion Title: Should business organizations conduct decision-making discussions in writing?
+
+1. Business organizations should conduct decision-making discussions in writing.
+1.1. Pro: It improves the quality of the discussion.
+1.1.1. Pro: Written conversations offer more time to reflect and counter an argument that sounds good superficially but feels flawed intuitively.
+1.1.2. Pro: Written conversations help reduce spur-of-the-moment emotional reactions to perceived slights.
+1.1.3. Con: Relationships of trust required to come to a comfortable agreement are hard to build with the written word.
+1.1.3.1. Con: As the original proposal is only for significant decisions, we can assume pre-existing trust relationships. We don't aim to build trust from scratch through the written word.
+1.1.4. Pro: The group decision-making process \(via meetings\), rather than aligning with actual competence, habitually falls for messy proxies of expertise.
+[Why our brains fall for false expertise, and how to stop it](https://www.strategy-business.com/article/Why-Our-Brains-Fall-for-False-Expertise-and-How-to-Stop-It)
+1.1.5. Pro: Verbal discussions are now-a-days often conducted over audio/video calls with "poor quality" participation as brought out brilliantly by this video.[dms.licdn.com](https://dms.licdn.com/playback/C4E05AQHrwj0peOkqCQ/00398770005e4f99a4beb8a7f87460a6/feedshare-mp4_500/1479932728445-v0ch3x?e=1526320800&v=beta&t=alTtq4WY2djLxPZIRVbaB6A15F4NH8JKz-JwO_693hg)
+1.2. Pro: It improves traceability and auditability of decision making, contributing directly to the quality of decision making.
+1.2.1. Pro: As all discussions are archived centrally, the burden on individuals to identify their contributions often in archived emails is reduced.
+1.3. Con: Political and business negotiations are most effective when done orally.
+1.3.1. Pro: "Don't write anything you can phone. Don't phone anything you can talk. Don't talk anything you can whisper. Don't whisper anything you can smile. Don't smile anything you can nod. Don't nod anything you can wink."
+1.3.2. Pro: The bulk of information conveyed in a face to face interaction is non-verbal.
+1.3.2.1. Con: That's a myth.
+See [Mehrabian myth](http://www.publicwords.com/2009/07/23/debunking-the-debunkers-the-mehrabian-myth-explained-correctly/)
+1.3.3. Con: That's beside the point. Group decision-making happens before or after negotiations \(during breaks\), seldom during F2F negotiations between two delegations.
+1.4. Pro: It has the potential to improve accountability for decisions.
+1.4.1. Con: This could dissuade employees from taking bold decisions, for fear of retribution.
+1.4.2. Pro: Accountability is likely to promote responsibility, which will improve the quality of the decisions being taken.
+1.5. Pro: Decision-making processes in writing afford greater participation.
+1.5.1. Pro: Being asynchronous, it allows for greater participation than synchronous mechanisms such as meetings.
+1.5.1.1. Con: It is also less engaging. People like to converse with immediate feedback.
+1.5.1.2. Pro: Companies such as[Slack](https://slack.com/lp/two?cvosrc=ppc.bing.slack&cvo_campaign=&cvo_campaign=&cvo_crid=%7bcreative%7d&Matchtype=e&utm_source=&utm_medium=bing&utm_campaign=brand_hv&c3api=5542,%7bcreative%7d,slack&cvosrc=ppc.bing.slack&cvo_campaign=&cvo_crid=%7bcreative%7d&Matchtype=e&utm_source=bing&utm_medium=ppc&c3api=5523,%7bcreative%7d,slack&gclid=CMnuzOubg9oCFczkfgodK6sPkA&gclsrc=ds&dclid=CIGd1-ubg9oCFcRufgodY6QP3w) and [Wrike](https://try.wrike.com/ns/all-in-one-collaboration-and-project-management/?utm_source=msn&utm_medium=cpc&utm_campaign=\(ROI\)+Branded+-+All+EN&utm_content=Wrike+App&utm_term=wrike&utm_creative=e&utm_device=c) compensate for the disparity in time zones with organized conversations around projects and plans.
+1.5.1.3. Pro: Travel to meetings is cost prohibitive in global organizations. While dial in meetings are sleep prohibitive because of time zones.
+1.5.2. Pro: It scales better in cases where there is a large circle of input for a decision.
+1.5.2.1. Pro: Limited scalability of verbal discussions is sometimes cited as a reason to restrict contributors. This makes the discussion less inclusive and people feel left out.
+1.5.3. Pro: It allows competent but slower thinkers to participate effectively.[sivers.org](https://sivers.org/slow)
+1.5.4. Pro: Given that English is the language of business, non-native English speakers are at a greater disadvantage in spoken communications than written. This is described here: [nautil.us](http://nautil.us/issue/30/identity/the-strange-persistence-of-first-languages) Extract: "When a bilingual person tries to articulate a thought in one language, words and grammatical structures from the other language often clamor in the background, jostling for attention."
+1.5.4.1. Pro: Deliberating in writing thus creates a more level playing field and furthers the corporate mission of having a diverse workforce.
+1.6. Con: Organizational inertia against deliberating in writing makes it unrealistic except in pockets.
+1.6.1. Con: Executive sponsorship can overcome inertia. That's what change programs are for.
+1.6.2. Con: Dedicating a resource as a "scribe" could address this challenge. Just like the note taker in meetings to jot down minutes.
+1.6.2.1. Con: But then, contributors would have to review/agree on wording. Interpretation could dilute and add burden on the process.
+1.6.3. Con: Inertia has been overcome in other, similar business practices that required additional work in writing.
+1.6.3.1. Pro: It is doable. For example, Amazon works with a policy of no slide decks at staff meetings.[businessinsider.in](https://www.businessinsider.in/A-2004-email-from-Jeff-Bezos-explains-why-Powerpoint-presentations-arent-allowed-at-Amazon/articleshow/48258641.cms)
+1.6.3.1.1. Con: This is a special case of when the CEO throws his weight behind a practice. Can't use this example to justify the general thesis.
+1.7. Con: It will slow down decision making.
+1.7.1. Con: Take Reddit for example. If Reddit could succeed in generating an active conversation, I suppose, Kialo could do just as well in generating active participation on a topic leading to consensus and conclusions.
+1.7.1.1. Con: Motivations and dynamics are different when participants belong to an org hierarchy.
+1.7.1.2. Con: Active participation is not necessarily what companies need to optimise for.
+1.7.1.3. Con: This does not speak to the speed with which decisions are made.
+1.7.2. Pro: Business require quick decisions to keep up with constantly changing market conditions; a lengthy written decision-making process could cost a business their window of opportunity.
+1.7.3. Con: That may be worthwhile, if the decisions made are more effective for the company.
+1.7.4. Con: Businesses often need to decide things quickly, and a verbal discussion is generally best. But the most important decisions deserve the kind of clarity that only writing can bring. Those decisions are best made after reviewing written opinions from stakeholders, so that all stakeholders are heard, not just the most vocal at meetings.
+1.7.5. Con: Not necessarily. Verbal discussions often stretch over several meetings for want of all the required participants and a clear owner. Written form allows contributors to chime in whenever they have a few minutes during the day. Discussion owners can timebox discussions to say, a week.
+1.8. Con: Because writing lacks non-verbal cues, it is more subject to misinterpretation than speech, thus reducing effectiveness of discussions.
+1.8.1. Con: Spoken English may be even more subject to misinterpretation in a multi-cultural setting with people having varying levels of: 
+- English vocabulary & fluency \(they may use the wrong words or stay silent\)
+- Grasp of idioms, irony etc. \(they may misunderstand what they hear\)
+By contrast, there is opportunity to re-read and lookup what's written.
+1.8.2. Pro: -> See 1.3.2.

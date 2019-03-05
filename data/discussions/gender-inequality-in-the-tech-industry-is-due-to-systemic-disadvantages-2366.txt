@@ -1,0 +1,129 @@
+Discussion Title: Gender inequality in the tech industry is due to systemic disadvantages
+
+1. Gender inequality in the tech industry is due to systemic disadvantages, not biological differences.
+1.1. Con: It can't be systemic: Being good at coding is mostly lots of practice gained in your room by yourself on hobby projects. Support communities and documentation are available anonymously online, so there is simply no systemic barrier to entry. There should be many more excellent female coders \(like artists, authors, etc\) if it were a systemic/cultural issue.
+1.1.1. Con: Negative stereotypes and workplace discrimination discourages one from even trying to pursue such a career; additionally, there is then the [wage disparity](https://www.recode.net/2018/4/4/17188712/women-tech-salary-job-pay-gap-hired) endemic in the tech industry.
+1.1.2. Con: While your statement is true, that there is a lot of coding available online and a lot of anon forums as well, that doesn't mean anything when your name is female on the resume. There are preconceived notions that a woman is not as smart or as logical or as good as a male coder.
+1.2. Pro: There are about ~20% women in technology classes, but when looking at increasing ranks of seniority in the tech industry the number falls drastically. This implies that there is an inherent bias/no support system for female workers in tech industry. If the female brain was inherently not suited for technical work, then the number would remain the same \(~20%\), beyond graduating. We need to create an environment/support system which enables women to perform just as easily as men.
+1.3. Con: [Data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153857) coming out of countries with higher levels of gender equality shows that as you remove the "systemic disadvantages" the participation of women in STEM doesn't increase at the level we see in men.
+1.3.1. Con: From the paper: "Further, although relatively more mothers work in STEM fields in more developed countries, these parents valued, on average, mathematical competence more in their sons than their daughters."
+1.4. Pro: Ada Lovelace, Grace Hopper, Radia Perlman, Hedy Lamarr, Sister Mary Kenneth Keller to name only a few. If it were biological then none of these women would have set us up to be having this conversation on the medium we are having it on today.
+1.5. Con: This gender gap isn't worse than in other areas.
+1.5.1. Con: This isn't relevant to the question of whether there are disadvantages in the tech industry. Women may be disadvantaged in tech, media, and finance. Indeed, since these three industries collaborate, a disadvantaged position in one of them probably tends to reinforce disadvantages in the other two.
+1.5.1.1. Con: It is relevant if the central thesis is that has specific disadvantages not present in other industries.  This needs to be clarified.
+1.5.2. Pro: Strong systemic disadvantages should have also kept women out of [medicine](http://www.medicalwomensfederation.org.uk/about-us/facts-figures) and [law](http://www.sra.org.uk/solicitors/diversity-toolkit/diverse-law-firms.page), yet those fields are fairly gender-balanced.
+1.5.2.1. Con: The differences are found in [seniority](http://www.sra.org.uk/solicitors/diversity-toolkit/diverse-law-firms.page), insofar as law firms; female partners in law firms only make up around 29% of the industry.
+1.5.2.2. Con: Female doctors are nevertheless vastly underrepresented in certain fields \(including surgery\), as senior clinicians, and in medico-political roles.
+1.6. Con: Women and men have different abilities because they had different roles throughout evolution.
+1.6.1. Con: There is no scientific basis for that statement. In many native cultures there is no such division. It's arguable that it is our western culture that persuaded us to believe this
+1.6.2. Con: With regards to programming, the differences between male and female performance, if present, are very small, can disappear with training and are not consistent across cultures.
+1.6.2.1. Con: "Very small" is not "nonexistent". If performance differences exist, then some \(not all\) disadvantages are performance-based, not prejudice-based.
+1.6.2.2. Con: "Can disappear with training" means "costs money to alleviate". It's not inherently prejudiced to value something less if it requires expense to be brought up to speed.
+1.6.3. Pro: Women are more neurotic.
+1.6.3.1. Con: If women were especially neurotic, we ought to expect the disparity in tech to be shared in most other industries but it isn't.
+1.6.3.2. Con: The average difference between men and women is [not so big](https://www.ncbi.nlm.nih.gov/pubmed/9200973) that we should expect such a large gender disparity.
+1.6.3.3. Con: The same studies have also shown men to be[as much more psychotic as women are more neurotic](https://www.ncbi.nlm.nih.gov/pubmed/9200973). Surely psychoticism is also a problematic trait for tech companies.
+1.6.4. Pro: A job in tech doesn't fit easily with maternity and pregnancy.
+1.6.4.1. Pro: Many women want to be mothers and would take maternity leave. This costs companies money.
+1.6.4.1.1. Con: This applies to all companies and therefore does not show any particular mismatch between tech and maternity.
+1.6.4.2. Pro: Most companies work on a campus and encourage employees to be there all day. This doesn't work for women who are primary caregivers.
+1.6.4.2.1. Con: Men can be primary caregivers just as much as women can, this has nothing to do with gender.
+1.6.4.3. Con: The tech industry has a greater ability than others to work digitally. This could enable them to allow more flexible hours or working from home but they choose not to. This implies that this is not a necessary feature of the tech industry, rather a manifestation of systemic disadvantage.
+1.6.5. Pro: Women are more interested in being social and interacting with people than men.
+1.6.5.1. Con: Interacting with people and understanding how they think is critical to writing good software for people to use.
+1.6.6. Pro: Gendered interests are [predicted](https://beta.theglobeandmail.com/opinion/no-the-google-manifesto-isnt-sexist-or-anti-diversity-its-science/article35903359/?ref=http://www.theglobeandmail.com&) by exposure to prenatal testosterone.
+1.6.6.1. Pro: Girls with congenital adrenal hyperplasia, who are exposed to high levels of testosterone in the womb, [prefer](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2005.00843.x/abstract) male-typical toys.
+1.6.6.1.1. Con: Given the amount of confounding factors involved in creating such a study, such as deciding who makes the call on what a "male typical toy" should be or whether the subjects were from diverse cultures or only western,  I doubt this research is unbiased and accurate.
+1.6.6.2. Con: This prediction is not binary "all girls like this / all boys like that", but rather a small \(but predictable\) deviation from a "perfectly even" normal distribution.
+1.6.6.2.1. Con: A small, but predictable biologically-based deviation in interest, could correlate to a small but predictable biologically-based deviation in career choices, which means a small, but real, part of inequalities are biological and not prejudicial.
+1.6.7. Con: -> See discussion #1570: Gender \(the [concept](http://www.med.monash.edu.au/gendermed/sexandgender.html) of masculinity and femininity\) is a social construct.
+1.6.8. Pro: Damore's claims are backed by the majority of evolutionary psychology and modern personality psychology literature.
+1.6.8.1. Con: Sex discrimination existed throughout history. If men have been oppressing women for thousands of years it stands to reason that we'd have a historical record of that opression in our roles throughout history. Your argument is moot
+1.6.8.2. Con: Until very recently, psychology as a field has been dominated by males. Diagnoses based on clinical standards written from that perspective could easily be unfairly negative against women without realizing it.
+1.6.9. Pro: Autism, which has been called the "extreme male phenotype" is more prevalent in males than females. 
+
+High-functioning autism is associated with cognitive traits well suited to tech \(and STEM more broadly\), such as hyper‐systemising & obsessiveness.
+1.6.9.1. Con: The evidence for this claim is based on research that was conducted during a period when the diagnostic criteria used to identify autism were not properly set up to detect females with autism. Those presenting as female need better representation in the medical literature and the diagnostic criteria need to be reviewed.
+1.6.9.2. Con: The male brain hypothesis is vulnerable to attack precisely because sex discrimination in our culture is so prevalent that one cannot argue nature is responsible for the way women are with any certainty.
+1.6.10. Con: Interests are not biologically predetermined by [gendered neurology](https://theconversation.com/how-neurosexism-is-holding-back-gender-equality-and-science-itself-67597).
+1.7. Pro: Women face sexual harassment in the tech industry.
+1.7.1. Pro: Susan Fowler [wrote](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber) about women being propositioned for sex at Uber without consequences.
+1.7.2. Pro: Former Tinder marketing VP Whitney Wolfe [filed](https://www.theatlantic.com/technology/archive/2014/07/here-are-the-texts-that-sparked-the-sexual-harassment-lawsuit-against-tinder/373780/) a sexual harassment lawsuit against Tinder.
+1.7.3. Con: Women face sexual harassment in all industries. This is not unique to tech.
+1.7.3.1. Con: And yet does this harrassment not weigh in on the issue? For that matter does it not seem possible that if harrassment is prevalent in all industries it will be more prevalent in more male dominated industries? Which came first? The male dominance or women's avoidance thereof?
+1.8. Pro: Female founders are less likely to get funded.
+1.8.1. Pro: Startups by men are [86% more likely](https://www.theguardian.com/media-network/2015/aug/06/women-entrepreneurs-venture-capital-funding-tech-startups) to get venture capital investments.
+1.8.1.1. Con: The source also states that women are more likely to self-fund, suggesting that fewer women seek venture capital investment.
+1.8.2. Con: The mere existence of an inequality between men and women does not imply this inequality is caused solely by systemic disadvantages.
+1.8.2.1. Con: The existence of disparities in influence over governance is what creates that impression. If women ruled the world as equals in high office maybe we could doubt that men have more influence than women....but so long as women do not have equal votes in all places of power me thinks the gentleman doth protest too much...
+1.9. Pro: Some products have gender bias coded into them.
+1.9.1. Pro: [Voice recognition software](https://makingnoiseandhearingthings.com/2016/07/12/googles-speech-recognition-has-a-gender-bias/) developed and tested only by men has difficulty understanding female voices.
+1.9.2. Pro: Virtual reality technologies disproportionally impose [motion sickness on women](https://www.kitguru.net/components/vr/jon-martindale/virtual-reality-motion-sickness-more-of-a-problem-for-women/).
+1.9.3. Pro: Many websites ask for users' gender, and limit the options to two. This probably sends the message that gender-nonconforming people are not completely welcome on the website, or at the company that made it.
+1.9.3.1. Pro: As a transperson I have frequently avoided spaces or services that do not provide inclusive options for me
+1.9.3.2. Con: The lack of non-binary gender options could be due to the creators being insufficiently exposed to the question of non-binary gender identities, rather than any malicious intent.
+1.10. Con: Women have different interests.
+1.10.1. Con: I was the first to pursue a degree in biochemistry as a young woman but due to our financial situation I was encouraged to study tourism instead. My brother on the contrary had the whole family pitch in to pay for his mechanical engineering degree
+1.10.2. Pro: Unlike many "tech bros" women are [less interested](https://www.bloomberg.com/view/articles/2017-08-09/as-a-woman-in-tech-i-realized-these-are-not-my-people) in spending their free time with work as well but rather pursue other interests.
+1.10.3. Con: While women might as a whole have different interests, many women are interested in technology, human variation far overtakes this, and the women that are interested may be more passionate about it.
+1.10.4. Con: Since the 80s, computers and gaming systems have been heavily [marketed](http://fourtwonine.com/2014/10/22/5334-how-marketing-in-the-80s-killed-computer-science-for-women/) for boys and men.
+1.10.4.1. Pro: There is a cultural stigma that computers are [toys for boys](https://qz.com/911737/silicon-valleys-gender-gap-is-the-result-of-computer-game-marketing-20-years-ago/), and this idea stuck until today.
+1.10.4.1.1. Pro: Every advert I ever saw as a child of the 90s for computers contained men as the knowledge giver and women as clueless ditzes
+1.10.4.1.2. Pro: This is based around the idea of the male nerd: Anyone interested in computers must spend 100% of their time around them.
+1.10.4.1.2.1. Con: This is not an inherently male concept.
+1.10.4.1.2.1.1. Con: However, it is [socially difficult](https://www.bolde.com/the-harsh-reality-of-being-a-female-nerd/) for women to be a 'nerd', and this may be enough to completely dissuade them.
+1.10.4.1.2.2. Con: Spending a lot of time working with things is a good way to become an expert at those things.
+1.10.4.1.3. Con: If boys and girls have differences that are not based solely on "the system", some things will be more interesting to boys than to girls in an entirely non-"systemic-disadvantage" way.
+1.10.4.2. Pro: Exposure to computers increases the likelihood of interest and knowledge about technology. Girls were less likely to have this exposure than boys because of marketing disparity. Many of those working in the tech industry grew up during this time.
+1.10.4.3. Con: The marketing disparity may be an effect of inherent differences in interests between genders rather than a cause.
+1.10.4.3.1. Pro: While marketing can shape perceptions of people over time, its primary purpose is to promote/sell something short-term. The market ensures it's at least somewhat efficient at identifying and exploiting existing differences. Therefore, marketing can be seen as more of a symptom of pre-existing gender differences \(whether biological or social\), and less of a cause of gender disparity in tech.
+1.10.4.3.2. Con: Prior to the 80' such marketing disparities were not as commonplace. You are arguing the effect of gendered marketing - the creation of the perception that genders prefer certain things - did not in fact succeed and yet you hold this perception of gendered preferences despite no research to back these ideas. I say they succeeded fantastically! Research the evolution of the perception of blue as a boy's colour...
+1.10.5. Con: This argument assumes that women's interests are a given, stable thing, and that differences of interest are not, themselves, partly due to systemic disadvantages.
+1.10.6. Pro: [Only 3% of open source contributors are women](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/), despite 22.6% of professional developers being women. There is no barrier to entry of open-source projects; indeed contributions can be made anonymously without revealing gender. Thus the disparity is likely due to a lack of interest.
+1.10.6.1. Con: Women like my partner who is an excellent coder are too busy surviving inequality to code leisure projects like open source software.
+1.10.6.1.1. Pro: Open source software projects are coded in one's free time as a hobby. Many women have less free time and cannot devote as much time to hobbies as men do
+1.10.6.1.1.1. Con: Women who face workplace discrimination earn less than their male peers. They also face challenges with disproportionate burden of childcare responsibility and care for elders and their healthcare is poorer.
+1.10.6.2. Con: One barrier to entry into open-source might be that women are less likely to gain acceptance in online communities of open-source coders.
+1.10.6.2.1. Con: It is hard to back this claim up with variables that can be linked to specific motives of discrimination.
+1.10.6.2.1.1. Con: This con would be forceful if the parent said "one barrier... _is_ that women are less likely to gain acceptance..." But the parent instead says "one barrier _might be_", and that's critical. The root claim's opponents allege that the "3%" datum is best explained by "women's \(natural\) interests." But the presence of an alternative, possible explanation — that open source has been, historically, hostile to women — undercuts the claim that "women's interests" are the obvious explanation.
+1.10.6.2.1.2. Con: We often act under the influence of sexist habits which often coexist with good intentions. So we don't need to prove malicious motives to argue that the norms of the open source world tilt in favor of men and tend to discourage women.
+1.11. Con: Only 20% of coders at big companies are women.
+1.11.1. Con: It's well known that big companies have the worst corporate culture for sex discrimination. Small businesses often have better values because individual leaders are more broad-minded in their management in those companies
+1.11.2. Pro: 82% of Uber's technical employees [are men](https://www.bloomberg.com/news/articles/2018-04-24/at-uber-men-hold-82-of-tech-jobs-as-women-make-meager-gains).
+1.11.3. Pro: These companies have a family-friendly ethos, and still women only make up a fifth of the workforce.
+1.11.3.1. Con: There are big differences between what women deem a "family friendly ethos" and what male leadership deems such
+1.11.3.2. Con: There are [several reports](https://www.theguardian.com/technology/2017/jun/06/uber-fires-employees-sexual-harassment-investigation) of technical women at Uber being subjected to sexual harassment and unfair treatment by male colleagues.
+1.11.3.3. Con: A family-friendly ethos does not mean that there has to be equal percentages of a workforce, rather that it must be more open to applicants.
+1.11.4. Con: Big companies are as much a part of the system as any others. They often dominate and perpetuate norms and practises that create systemic disadvantage. If there is systemic disadvantage, we ought to expect there to be a large disparity at big companies.
+1.12. Pro: -> See 1.10.4.
+1.13. Con: Gender inequality may in part be due to systemic disadvantages and in part to biological differences, not solely to one or the other.
+1.13.1. Con: There is no research to support gendered differences in global performance in certain fields that cannot be ripped to shreds with some quick examination of their biases, premises or the research methodology used.
+1.14. Pro: Under a capitalist system which glorifies and privileges the "virtue" of competitivity \(which men are generally inclined to have more of\) and punishes empathy \(which women are generally inclined to have more of\) inequality in the workforce \(and everywhere else\) is inherent.
+1.14.1. Con: How does one get a compiler to understand empathy? Women in software excel when they code well, something that most who really try do. It's not their empathy that gives them success, it's their hard work and skill. Perhaps, it's their distaste for the consequences of failure that makes those that are more affected by empathy than others, to avoid these situations, and so they choose other roles.
+1.14.2. Pro: [Studies](http://www.independent.co.uk/news/world/australasia/psychopaths-ceos-study-statistics-one-in-five-psychopathic-traits-a7251251.html) suggest that those with psychopathic traits are in higher concentration among CEOs. As being unemphatic is a key trait for identifying psychopaths, this may suggest a link between lacking empathy and workplace success.
+1.14.3. Con: Assuming that women are more empathetic while men are more competitive implies that the gender inequality is rooted in biology after all.
+1.14.4. Con: This systemic privileging of capitalism would be visible in all industries, not just tech. Ergo, this does not explain tech's specific gender inequality.
+1.14.4.1. Con: Tech and mathematics are exceedingly heavily associated with intelligence in the mind of the everyman. Since women are still viewed as stupid or "lesser vessels" to use an old humdinger from my religious upbringing, it stands to reason fields viewed as being for the intellectually capable or gifted should not be for women. It's this perception that causes girls to avoid STEM in general.
+1.15. Con: Few young women decide to study computer science.
+1.15.1. Pro: [Less than 20%](https://www.computerweekly.com/news/450433040/Computer-science-is-fastest-growing-subject-for-undergraduates) of computer science undergrads in the UK are women.
+1.15.1.1. Con: [This figure is growing](https://www.computerweekly.com/news/450433040/Computer-science-is-fastest-growing-subject-for-undergraduates): in three years there has been an 8.4% increase in female students.
+1.15.2. Con: [There are many factors](https://www.ncwit.org/resources/girls-it-facts) affecting young women's interests and perceptions about what computer science even is; girls often don't know what it means to have a tech career.
+1.15.3. Con: In India or Malaysia 50% of students in undergrad CS courses are women.
+1.15.4. Con: Because it is well known you will never be respected in this male dominated field and it will be harder to build a satisfying career
+1.15.5. Con: The only reason fewer women enter tech fields is because of cultural reasons, which are also chiefly systemic, not inherent to gender.
+1.15.5.1. Con: Only if gender roles are entirely due to systemic disadvantages. If gender roles have some component in biology, then choices based on roles based on biology are still biological. That may be an inherent disadvantage, but it would not be a systemic \(originating with the system\) one.
+1.15.5.2. Pro: Changing culture in computer science courses has led to [greater equality of graduates](http://www.npr.org/sections/alltechconsidered/2017/08/10/542638758/colleges-have-increased-women-computer-science-majors-what-can-google-learn). This supports the claim that culture, rather than inherent interest, drives women away.
+1.15.6. Pro: In countries where women have more freedom and opportunities to pursue their passions, enrolment in Computer Science courses are far lower than in countries where women do not enjoy equal rights. This is [hypothesized](https://uu.diva-portal.org/smash/get/diva2:971716/FULLTEXT01.pdf) to be because CS is a lucrative field and such an incentive compels women in poorer countries to pursue careers contrary to their interests.
+1.15.6.1. Pro: [Women enrolled in CS courses by country](https://www.oecd.org/norway/Closing%20the%20Gender%20Gap%20-%20Norway%20EN.pdf):
+UK: 16%
+USA: 14%
+Norway: 20%*
+Saudi Arabia: 59%
+
+* statistic shows female graduates \([OECD](https://uu.diva-portal.org/smash/get/diva2:971716/FULLTEXT01.pdf)\)
+1.15.7. Pro: Only 20% of girls in the UK choose to study computer science at GSCE level.
+1.15.7.1. Con: I would suggest this is because the UK has some of the worst opressive behaviour in the workplace towards female professionals
+1.16. Pro: Multiple studies have shown gender bias [plays a large role](https://www.google.com/amp/s/www.usnews.com/news/blogs/data-mine/2016/02/18/study-shows-women-are-better-coders-but-only-when-gender-is-hidden%3fcontext=amp) in STEM fields.
+1.16.1. Con: [Here](http://www.pnas.org/content/112/17/5360.full) is another study showing gender bias, but in favour of women in STEM academic hiring.
+1.16.2. Con: Some studies claiming to show gender bias have [severe methodological flaws](http://slatestarcodex.com/2016/02/12/before-you-get-too-excited-about-that-github-study/). For example, the above linked GitHub study misrepresents its own findings by cherrypicking and failing to control for obvious confounders.
+1.16.3. Pro: the same perception that women have of themselves contributes to this gender bias

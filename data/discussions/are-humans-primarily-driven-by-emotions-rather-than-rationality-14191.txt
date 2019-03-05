@@ -1,0 +1,22 @@
+Discussion Title: Are humans primarily driven by emotions, rather than rationality?
+
+1. Humans are primarily driven by emotions, rather than rationality.
+1.1. Con: Societies at large act rationally. This allows us to infer that the individuals that make up society are rational too.
+1.1.1. Pro: Macroeconomic developments, such as the [Phillips curve](https://en.wikipedia.org/wiki/Phillips_curve), follow rational expectations.
+1.1.1.1. Con: [Market anomalies](https://www.investopedia.com/exam-guide/cfa-level-1/securities-markets/market-anomalies.asp) exist, showing that many actions taken by market participants are irrational, affecting markets in micro and macro scale.
+1.1.2. Con: Decisions to go to war often involve emotional responses, such as invading Afghanistan after 9/11.
+1.1.2.1. Con: While the people may have supported the invasion due to an emotional/populist basis, the American government may have had a rational reason to invade, namely to bolster their geopolitical influence in the Middle East.
+1.1.3. Pro: Societal structure would collapse under purely emotional policy-making.
+1.1.4. Con: Humans are capable of rational thought but this does not demonstrate that we are not primarily driven by emotions.
+1.2. Pro: Rationality is judged subjectively, which makes the very definition of rationality untenable.
+1.3. Pro: We look back on a great number of our actions and decisions and realise we may have acted in a more rational way.
+1.3.1. Con: This reflective process suggests that humans privilege rational thinking over emotional thinking.
+1.4. Pro: Thought experiments repeatedly illustrate our decisions are swayed by emotional factors.
+1.4.1. Pro: Simple and classical test - [the trolley problem](https://en.wikipedia.org/wiki/Trolley_problem). In the classical example, when there are 5 strangers vs 1 stranger, the results are simple - save 5 strangers. But when the one person is a relative, most people change their mind and decide to kill the five.
+1.5. Pro: Humans are highly subjective to emotional rhetoric, \(e.g. Populism\) suggesting a tendency towards subconscious decision-making.
+1.5.1. Con: The fact humans are highly subjective to it, but not entirely driven by it in every instance, suggests that what is happening here is more a battle between rationality and emotionalism, whereby in the case of populism emotions win out. It does not, however, suggest rationality is non-existent.
+1.5.2. Pro: The manipulation of emotion, rather than rationality, in advertising is demonstrative of the market's acknowledgement that people make choices based more on emotion.
+1.6. Con: The great number of scientific revelations and breakthroughs  made worldwide would have been impossible without rational thought.
+1.6.1. Con: -> See 1.1.4.
+1.7. Con: We have evolved to become self-conscious, which is impossible to achieve with emotions alone.
+1.7.1. Con: -> See 1.1.4.

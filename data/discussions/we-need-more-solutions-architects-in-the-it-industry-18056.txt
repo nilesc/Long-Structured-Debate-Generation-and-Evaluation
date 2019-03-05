@@ -1,0 +1,13 @@
+Discussion Title: We need more Solutions Architects in the IT industry
+
+1. We need more Solutions Architects in the IT industry
+1.1. Pro: A good solution architect can act as a bridge in communication between IT and business teams within a project or company.
+1.2. Pro: Solutions architects are needed to balance business and technical requirements
+1.3. Pro: Solutions architects are needed to understand how a solution fits into a broader enterprise technical landscape
+1.4. Pro: Solution architects bring their experience from other projects to ensure better technical decisions are made
+1.5. Pro: Solutions Architects reduce risk on a project by identifying key technology risks and decision points
+1.6. Con: Solution architects create and addition layer of abstraction between the requirement and the solution
+1.7. Con: Solution architects and BAs should be combined to a single role
+1.8. Con: By putting all the technical decision-making power into a few people's hands, this increases the risk to a company
+1.9. Con: Good Solution architects are in short supply, increasing the risk of employing substandard Solution Architects
+1.9.1. Pro: One needs to have a background in IT and business to be a good solutions architect. This combination is fairly rare.

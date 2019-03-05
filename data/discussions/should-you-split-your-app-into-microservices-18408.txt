@@ -1,0 +1,58 @@
+Discussion Title: Should you split your app into microservices?
+
+1. Should you split your app into microservices?
+1.1. Con: Performance hit due to HTTP, \(de\)serialization \(and network\) overhead
+1.1.1. Con: Microservices don't have to communicate via text based protocols on top of HTTP.
+1.1.1.1. Pro: Binary transport protocols like Protobuf or GRPC are preferable to text-based serialisation like JSON.
+1.1.1.1.1. Pro: Type safe alternatives to JSON are preferable.
+1.1.1.1.2. Pro: Using binary serialisation protocols improves network performance.
+1.1.2. Con: Big and complex apps \(e.g. Netflix, Twitter, Spotify\) that use microservices don't have any user-facing performance issues.
+1.1.2.1. Con: Performance issues caused by microservices would mostly affect servers, not clients. Providers can maintain a smooth user experience by scaling up their infrastructure
+1.2. Con: Complex transaction safety
+1.2.1. Con: Safe transactions across a complex distributed system might not be necessary.
+1.2.1.1. Pro: Usually less strict consistency guarantees are sufficient for the whole system.
+1.2.1.2. Pro: If required transactional guarantees can be applied on an individual service level.
+1.3. Con: Service discovery required
+1.3.1. Con: Service discovery is a solved problem when using state-of-the-art orchestration platforms like Kubernetes.
+1.3.1.1. Con: Kubernetes is a sophisticated tool with a steep learning curve
+1.4. Pro: Failure segregation
+1.5. Con: Higher communication effort for interface negotiation between various services.
+1.5.1. Con: Clearly defined interfaces between independent components are also required in a complex monolith.
+1.5.1.1. Con: Communication within a monolith happens normally within the same team, so overhead is much smaller
+1.6. Con: Management overhead for eg. product owner to split out stories for individual teams
+1.7. Pro: Better separation of concerns
+1.7.1. Con: A well defined monolithic application can also have a clear separation of concern.
+1.8. Pro: Fine-grained scalability
+1.8.1. Pro: Individual components can be scaled out separately
+1.8.2. Pro: Individual components can be designed for different scalability.
+1.9. Pro: Improved observability of your running system
+1.9.1. Pro: Monoliths require application specific frameworks to inspect their runtime behaviour, with clear general purpose communication protocols \(like TCP\) it is easier to integrate tools that provide observability without touching the application itself.
+1.9.1.1. Pro: Service meshes like [Istio](https://istio.io/) provide observability on a network level regardless of the implementation of the application.
+1.10. Pro: High testability
+1.11. Con: More infrastructure automation overhead
+1.11.1. Pro: Each microservice should have their own CI/CD pipelines.
+1.11.2. Pro: Management of build artifacts becomes harder in an heterogeneous microservices environment.
+1.11.2.1. Con: Having a common code and binary distribution format like Docker images simplifies build artifact management.
+1.12. Pro: Independent tech stacks
+1.12.1. Pro: Dependency isolation
+1.12.2. Con: Bigger overall size
+1.12.3. Con: Introduces higher overall complexity if the whole system needs to be understood in total
+1.12.3.1. Con: A developer may be able to work without any knowledge on the internal working of other microservices
+1.12.3.2. Pro: Individual programming languages and/or products must be known in order to work on different microservices. So developers need a very broad skill set.
+1.12.3.2.1. Con: If many developers need to work on many different microservices, you lose the whole advantage of separating your development teams.
+1.12.4. Pro: Optimal tool for the job can be chosen \(eg. programming language, commercial product,...\) in order to reduce overall efforts
+1.12.4.1. Con: -> See 1.12.3.2.
+1.12.5. Con: Harder to find proficient developers across all used programming languages/stacks
+1.12.5.1. Con: Developers working on monolith applications don't always need to familiarize with all the different parts of the product to be able to work on it.
+1.13. Con: Large organizational changes might be needed.
+1.14. Con: Duplication of plumbing logic e.g. data access layers
+1.15. Pro: Versatile deployments
+1.15.1. Pro: Hot module replacement
+1.15.2. Pro: Shorter maintenance downtime
+1.16. Pro: Parallel development
+1.17. Con: Increased configuration management
+1.17.1. Con: Configuration management is a solved problem when using state-of-the-art orchestration platforms like Kubernetes.
+1.17.1.1. Pro: -> See 1.3.1.1.
+1.18. Con: Unsafe distributed communication
+1.18.1. Con: Any complex web application will eventually involve distributed networking.
+1.18.1.1. Con: Microservice architectures have distributed communication in their concept, so the complexity of unavailable "external" system is within their very base, while for monoliths it is "only" for "real" external systems.

@@ -1,0 +1,986 @@
+Discussion Title: Humans should act to fight climate change
+
+1. Humans should act to fight climate change.
+1.1. Con: We shouldn't fight climate change because it is natural.
+1.1.1. Pro: The climate is known to exhibit chaotic behavior \(in the mathematical/scientific sense\) and is very difficult to link effect with cause
+1.1.1.1. Con: Surface temperatures are only a part of the total energy measure.  The global temperature can seem to fluctuate independently of CO2 but it is simply not yet factoring in other methods of sequestering or releasing heat, such as deep sea water temperatures.
+1.1.1.2. Con: Meaningful and true claims and understandings can still be made about complex systems.
+1.1.1.2.1. Pro: There is a well-established mathematical/scientific field dedicated to the study of [complex systems](https://en.wikipedia.org/wiki/Complex_system).  Here's a simple example: though you can't predict how many connections any given member of a social network may have, it has been observed that the distribution of numbers of connections of all the members of the network will exhibit a power-law.
+1.1.1.2.2. Con: A generalist statement like this makes no disagreement to the claim at hand, because it is a generalistic statement about an unspecified system.
+1.1.1.3. Con: The "chaotic" nature of climate obtains in e.g. the prediction of the specific timing of ENSO events.  That doesn't mean that ENSO events have a random long-term effect.  The "chaos" in timing doesn't obscure our ability to determine that the atmosphere/ocean system is gaining energy, and that the cause is an increase in GHGs due to human combustion of fossil fuels.
+1.1.1.3.1. Pro: Moreover, AGW is amplifying the effects of natural causes such as [El Nino](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/aug/29/global-warming-is-intensifying-el-nino-weather).
+1.1.1.4. Con: Data shows clearly that atmospheric temperature correlate with atmospheric CO2 concentration: [3.bp.blogspot.com](http://3.bp.blogspot.com/-AvHDqDa2Wg0/UIxZFFt2OPI/AAAAAAAABQI/ZfeV13JtSD0/s1600/vostok-temp-vs-co2.gif)
+1.1.1.4.1. Con: This graph is over geological timescales, and does not necessarily correlate CO2 with Temperature - having CO2 as the cause for temperature rise. The reason for this is that the geological timescales present here and the rise and fall of global temperature are believed to be attributed to Milankovitch cycles NOT CO2 - where the sun and earth distance changes over time. [Milankovitch Cycles](https://en.wikipedia.org/wiki/Milankovitch_cycles) ..
+1.1.1.5. Pro: Climate predictions are not simply built on 'statistics'. The Earth's weather systems are far too complex to have enough data to draw statistical conclusions on future climate changes.
+1.1.1.6. Con: Earth climate is a physical system, so all changes must have a physical cause. We do not have perfect understanding, but we have substantial understanding of the causes: orbital changes, solar cycles, ocean current cycles, volcanoes, greenhouse gas changes, albedo changes, maybe even cosmic ray changes.
+1.1.1.7. Pro: Even the last 100 years has seen periods, between 1880-1910 & 1940-1980, where the surface temperatures do not correlate with CO2 rising.
+1.1.1.7.1. Con: The science of greenhouse gasses is well-understood, and there is no doubt that increasing CO2 has caused the climate to gain heat at a steadily-increasing rate.  Variations in rate at which surface temperatures have increased are understood to be the effect of fluctuations in heat uptake by the oceans \(which represent 99+% of the thermal mass of the system\).
+1.1.1.7.1.1. Con: The greenhouse effect is well known due to experiment in a test tube and also the study of other planets with runaway co2 based greenhouse effect. But on the surface of Venus there is a completely different pressure, and when you move away to the part of the atmosphere with the same atmospheric pressure as earth, the temperature is the same as earth.
+1.1.1.7.1.2. Con: Co2 levels lag behind temperature, yet Co2 is considered the driver. The two factors seems to correlate, but in the wrong direction to suggest causality.
+1.1.1.7.2. Con: With enough resolution, zooming in on any correlation can show small snippets that do not correlate
+
+[C02 to temperature correlation over 140 years](http://solar-center.stanford.edu/sun-on-earth/600px-Temp-sunspot-co2.svg.png)
+1.1.1.7.3. Con: The variations around the turn of the century and the mid/late 20th century are regular variations within the [1000 year climate development](https://en.wikipedia.org/wiki/Temperature_record_of_the_past_1000_years#/media/File:2000_Year_Temperature_Comparison.png). They are not 'chaotic' enough to explain the eventual outbreak to the top.
+1.1.1.7.4. Pro: Drops in global temperature can be seen in the Hadcrut data set [metoffice.gov.uk](https://www.metoffice.gov.uk/hadobs/monitoring/index.html)
+1.1.1.7.4.1. Con: There's an upward trend in all of the graphs in the referenced source
+1.1.1.7.5. Con: All things equal, there is a strong connection between carbon-dioxide levels and temperature change.
+1.1.1.7.5.1. Pro: Accurate measures of the increase in Earth's temperature are correlated with recent increases in CO2 levels.
+1.1.1.7.5.1.1. Pro: There is a very reasonable correlation between [CO2 concentrations and Earth temperature.](https://upload.wikimedia.org/wikipedia/en/1/13/Global-temp-and-co2-1880-2009.gif)
+1.1.1.7.5.1.2. Con: CO2 is not the only gas in question. Methane, for instance, traps heat far better than CO2, even if it only lasts a decade in the atmosphere. [ucsusa.org](http://www.ucsusa.org/global_warming/science_and_impacts/science/CO2-and-global-warming-faq.html#.WgyZ92hSyCg)
+1.1.1.7.5.1.2.1. Pro: Other greenhouse gasses, such as methane, are produced in abundance by natural processes.
+1.1.1.7.5.1.2.1.1. Con: "Natural" CO2 emissions are part of what is called the "closed cycle" of chemical distribution in the atmosphere. The closed cycle is CO2 and oxygen that is continuously used by the environment, i.e.: plants that absorb CO2 from the atmosphere. Additional CO2 emissions can not be absorbed by the closed cycle without massive increases in tree populations. As it is, [the closed cycle can only absorb ~40% of human emissions.](https://www.skepticalscience.com/human-co2-smaller-than-natural-emissions-intermediate.htm) The parent topic refers to climate change caused by humans.
+1.1.1.7.5.1.3. Con: Higher temperatures increases the degassing of oceans, and by that increase the levels of CO2 in the atmosphere.
+1.1.1.7.5.1.4. Con: The thesis suggests that linking changes in the climate with human activity is the hard part, not whether or not the climate is changing.
+1.1.1.7.5.1.4.1. Con: The linkage between changing climate and human activity is well-established.  Most of the natural "forcings" \(solar irradiance, Milankovitch, etc\) would be driving the climate slightly cooler, now, contrary to what is observed.  Changes in greenhouse gas concentrations are the result of human activity \(confirmed several different ways\), and the physics of GHG are well understood.
+1.1.1.7.5.1.5. Pro: [Human CO2 production exceeds the natural absorption of the global ecosystem by ~15 Gigatonnes per year](https://www.skepticalscience.com/human-co2-smaller-than-natural-emissions-intermediate.htm). This is enough to increase the CO2 in the atmosphere by 100 parts per million in the last 120 years. This change normally takes 5,000 to 20,000 years to occur.
+1.1.1.7.5.1.5.1. Con: CO2 is not only produced by humans.
+1.1.1.7.5.1.5.1.1. Con: -> See 1.1.1.7.5.1.2.1.1.
+1.1.1.7.5.1.6. Con: Correlation does not imply causation
+1.1.1.7.5.1.6.1. Con: The correlation of global temperatures and atmospheric constituents is directly measurable, predicted accurately through models, and is consistent with our physical understanding of the properties of these systems and constituents.  \(For example, we know the materials properties of why CO2 traps heat, which is consistent with these models and measurements.\)
+
+[scied.ucar.edu](https://scied.ucar.edu/molecular-vibration-modes)
+1.1.1.7.5.1.6.2. Pro: The correlation isnt straightforward - for example there is ample evidence of a slowdown or 'hiatus' in warming during the early part of the 21st Century. Clouds, albedo, snow and other phenomenon exhibit non-linear chaotic behaviour making it extremely difficult to predict or project climate change.
+1.1.1.7.5.1.6.2.1. Con: Current best estimates of the energy imbalance are on the order of 0.5 W/m^2.  There is no evidence for a "hiatus" in this forcing.  Fluctuations in average temperatures at the surface are understood to be the result of [vagaries of heat exchange](http://science.sciencemag.org/content/345/6199/897) with the massive [thermal inertia of the oceans](https://www.atmos-chem-phys.net/11/13421/2011/acp-11-13421-2011.pdf).
+1.1.1.7.6. Con: Predictions based on statistic are increasingly accurate with larger sample sizes.  Just like the weather, it may be difficult to predict a single \(rainy\) day - but predicting longer trends \(like summer is warmer\) is very easy.
+1.1.1.7.6.1. Con: This depends on the dynamics of the system, and not sample size. There are more observations of daily weather than there are of annual temperature, but the long run series is more predictable.
+1.1.1.8. Pro: Projected warming from rising CO2 levels by various IPCC reports in the past just have not matched actual temperature increases - the rate of warming seems to be quite low and the IPCC's projected warming much higher than actual temperature changes.
+1.1.1.8.1. Con: Projected warming of the [combined atmosphere-ocean system](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053262) has been very accurate.
+1.1.1.8.2. Con: Predictions of climate models from the past were [accurate](https://www.carbonbrief.org/analysis-how-well-have-climate-models-projected-global-warming).
+1.1.1.8.2.1. Con: This is nearly impossible because we do not have accurate records of 'past' climate.
+1.1.1.8.2.1.1. Con: Data for the past is available since the late [19th century](https://qz.com/1055629/why-does-all-our-climate-data-start-in-1880/).
+1.1.1.8.2.1.1.1. Con: The data includes just some of the data and mainly on the surface.
+1.1.1.8.2.1.2. Pro: No records exist for aerosols prior to the satellite era- an important component of determining historical atmospheric behaviour. Aerosols are a localised phenomonen.
+1.1.1.8.2.1.2.1. Pro: No records exist about humidity, wind, or water vapor prior to the satellite era.
+1.1.1.8.2.1.3. Pro: -> See 1.1.1.8.2.1.2.1.
+1.1.1.8.2.1.4. Pro: Records of ocean heat or temperatures are very scarce prior to the last 20 years - most were created from shipping routes, even these are dubious as the method for collecting temperature data was quite uncontrolled and [unscientific](http://www.google.ie/amp/s/www.carbonbrief.org/explainer-how-data-adjustments-affect-global-temperature-records/amp) \(throwing a bucket into the water and checking temperature\). It's for this reason the ARGO buoy network was deployed to measure ocean temperatures to a depth of 700m.
+1.1.1.8.2.1.5. Pro: Deep ocean heat and temperature records are non-existent. Scientists do not know the energy flows and movement of an important heat sink in the Earth's energy system - the ocean below depths of 700m.
+1.1.1.8.2.1.5.1. Con: We have had bathythermograph technology, which could reach depths of 285 metres, since the 1960s. Since the early 2000s we have 3,600 Argo floats which measure temperature and salinity to a depth of 2000 metres. Altogether they produce about 100,000 measurements per year.
+1.1.1.8.2.1.6. Con: We have multiple proxies that indicate past climate, including ice cores, coral growth, stalactites, pollen, tree rings and foraminifera.
+1.1.1.8.2.2. Pro: One of the earliest models by Sawyer in 1973 estimates a warming of 0.6C until 2000 and an atmospheric CO2 concentration between 375-400ppm \([Sawyer, p. 24/26](https://sites.fas.harvard.edu/~eps5/writing_assignment/CLIMATE_BKGD/Sawyer_Nature_1972.pdf)\). The CO2 concentration in 2000 was ~[370ppm](ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_annmean_mlo.txt) and the 5-year average temperature rise was about [0.5C](http://cdn.antarcticglaciers.org/wp-content/uploads/2012/07/Instrumental_Temperature_Record.png).
+1.1.1.8.2.3. Pro: The IPCC's projections have been quite accurate, and in some cases too conservative. [blog.ucsusa.org](https://blog.ucsusa.org/guest-commentary/how-accurate-are-future-projections-of-climate-change-a-look-at-past-ipcc-reports-236)
+1.1.1.8.3. Pro: Real Climate showing Hansen 1988 prediction vs actual temperature change diverging[Hansen 1988 vs GISTEMP](http://www.realclimate.org/images//hansen88.png)
+1.1.1.8.4. Pro: A scientific paper titled "Comparison of Low-Frequency Internal Climate Variability in CMIP5 Models and Observations" by [Cheung](http://web.science.unsw.edu.au/~matthew/Cheung_et_al_2017.pdf)  written in 2017 supports this claim.
+1.1.1.8.5. Con: There is a very reasonable correlation between CO2 and global temperatures, as shown in this graph from NOAA. The variations in the T trace are due to non - CO2 factors - solar, ocean currents, volcanoes and aerosols [upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/9/9e/Atmospheric_carbon_dioxide_concentrations_and_global_annual_average_temperatures_over_the_years_1880_to_2009.png)
+1.1.1.9. Con: The weather is scientifically chaotic. The climate is less so as the climate is an averaging of weather over long periods of time. 
+
+[www.newscientist.com](https://www.newscientist.com/article/dn11641-climate-myths-chaotic-systems-are-not-predictable/)
+1.1.1.9.1. Con: The article linked states ""To account for the influence of chaos, climate scientists run the models repeatedly, with slightly different starting conditions. The difference in outcomes gives scientists an indication of the uncertainty in any given prediction, of the range of possible outcomes."" - and this method has produced climate projections so far proving difficult to marry with actual climate records - the climate just has not warmed as fast as predicted - therefore, this method is flawed.
+1.1.1.10. Pro: The [IPCC](https://www.ipcc.ch/ipccreports/tar/wg1/504.htm) states "The climate system is particularly challenging since it is known that components in the system are inherently chaotic; there are feedbacks that could potentially switch sign, and there are central processes that affect the system in a complicated, non-linear manner. These complex, chaotic, non-linear dynamics are an inherent aspect of the climate system."
+1.1.1.10.1. Con: The report continues to state that this means that "surprises" are not predictable; it is not questioning if climate change is predictable or takes place.
+1.1.1.10.1.1. Con: The claims above dont question if climate change exists, but more about how accurately it can be measured or predicted.
+1.1.1.10.1.2. Pro: It is better to work on assumptions of a current trajectory than to hope for surprises that humanity won't be affected by climate change.
+1.1.1.11. Pro: Notes from a climate science course indicate climate exhibiting chaotic behaviour. [Course](https://history.aip.org/climate/chaos.htm)
+1.1.1.11.1. Pro: The main conclusion of the linked piece is this "consensus developed that the climate system was unlikely to jump into an altogether different state. The most likely future was one of gradual change, with low odds for an abrupt catastrophe"
+1.1.1.11.1.1. Con: The linked piece says this: "Under some circumstances a fairly small change in conditions, even something that seemed so slight as an increase of greenhouse gases, could nudge climate into a seriously different state."
+1.1.1.11.2. Con: The referenced notes conclude that for all the variability of the system, climate change is no longer in doubt. 
+
+"What was no longer in doubt was the most important insight produced by the half-century of computer experiments......The climate looked less like a simple predictable system than like a confused beast, which a dozen different forces were prodding in different directions. It responded sluggishly, but once it began to move it would be hard to stop."
+1.1.1.12. Con: The fact that the climate system exhibits chaotic behavior makes it more important, not less, to avoid changing input conditions such as atmospheric greenhouse gas levels.
+1.1.1.13. Con: Regardless of whether the climate changes due to chaotic behaviour or predicable causes we are still advised to take measures to not suffer the consequences.
+1.1.1.13.1. Pro: For instance, a driver with a popped tire does not need to know what popped the tire in order to repair it.
+1.1.1.13.2. Pro: In cases where a potential existential risk is perceived \(i.e. where one's very existence is at possibly stake\), the degree of certainty required about the veracity of the threat should necessarily be far less than absolute before risk mitigation can be attempted.
+1.1.1.14. Con: Even in seemingly chaotic systems a tendency can be observed, which in this case is that climate is becoming less suitable for humans \(increased rate of desertification, global temperature rising, weather extremes more often, etc.\).
+1.1.2. Pro: Current Climate and the rate of change are nothing out of the ordinary for the Planet when considering its past, so regardless of the actual cause behind recently witnessed warming, the conditions are not out of favourable climate for the planet.
+1.1.2.1. Pro: A large scientific research on the temperatures of the Medieval Climate Anomaly \(1000-1200AD\) suggest much of the Earth was as warm or warmer than current climate. This bringing into question the causes, severity and necessary response due to modern warming. [Medieval Climate Anomaly Map](https://www.researchgate.net/project/Mapping-the-Medieval-Climate-Anomaly)
+1.1.2.1.1. Con: The "[Medieval Warming Period](https://en.wikipedia.org/wiki/Medieval_Warm_Period)" is a conventional term to refer to a loose collection of localized events.  There was no increase in global average temperature on the scale of what is observed today, nor does the WMP invoke any doubt about the causes or severity of modern warming.
+1.1.2.1.1.1. Con: The idea of pre industrial rapid climate change cannot be directly tested due to lack of records, but on balance, from indirect methods it is believed to exist and is widespread. It is a significant challenge to AGW and always has been, thats why for many years it was discounted. Now an impossible parameter \(no direct record\) is being applied. This is easier than challenging premise 1, climate change has occurred but never at this speed, the speed of change can only be due to industry.
+1.1.2.1.2. Con: Global temperature reconstructions [nature.com](https://www.nature.com/articles/ngeo1797) show there was no globally synchronous warming during the medieval period and current temperatures are higher than at any time in the past 2000 years.
+1.1.2.2. Pro: The Earth's climate has natural cycles of warmer and colder temperatures, the recent changes are simply a part of this natural cycle as we are between two ice ages.
+1.1.2.2.1. Con: The recent changes are largely due to anthropogenic emmissions of non-biogenic greenhouse gasses through forest destruction and fossil fuel burning. We cannot control natural cycles, but we can control our own emissions.
+1.1.2.2.1.1. Con: Future climate projection is unreliable.
+1.1.2.2.1.1.1. Pro: There is competing evidence about the amount and severity of warming caused by man-made CO2. The scientific community has produced a wide range of Equilibrium Climate Sensitivities for the doubling of CO2, ranging from fractions of a degree to 8c, and current satellite temperature records indicate a warming rate lower than 0.15c per decade. The climate system is so complex, even the IPCC have declared that future climate projection is too difficult.
+1.1.2.2.1.1.1.1. Con: The models that are doing the best job of matching ongoing observations are also the ones that predict greater ECS [phys.org](https://phys.org/news/2017-12-more-severe-climate-accurate.html)
+1.1.2.2.1.1.2. Pro: Air bound particles do not only have a green house effect on the earth but also reflect sunlight back into the sky.
+1.1.2.2.1.1.3. Pro: With warmer weather there will be more clouds. These work like traditional ice blocks and reflect sunlight.
+1.1.2.2.1.1.3.1. Con: Dessler has shown that the net effect of cloud is a [small positive feedback effect](http://science.sciencemag.org/content/330/6010/1523), i.e. they warm the Earth.
+1.1.2.2.1.1.3.2. Con: [Recent studies](https://phys.org/news/2017-12-more-severe-climate-accurate.html) suggest that the cooling effect of light-reflecting aerosols \(clouds\) is lower than was expected by many models, so the models that predict higher warming \(from the combination of all factors\) are more likely to be correct.
+1.1.2.2.1.1.4. Con: -> See 1.1.1.8.2.
+1.1.2.2.1.1.5. Pro: [Guy Mcphersons](https://www.theguardian.com/commentisfree/2016/aug/18/ice-scientists-arctic-ice-disappearing-reduce-emissions-peter-wadhams) argues that there is no precedence in planetary history for events unfolding today. As a result, relying on prior events to predict the near future is unwise.
+1.1.2.2.1.1.5.1. Con: We may be doomed, but that doesn't mean we can't still influence the degree of our doom.  [www.climatecentral.org](http://www.climatecentral.org/news/ipcc-predictions-then-versus-now-15340)
+1.1.2.2.1.2. Pro: -> See 1.1.1.7.5.1.
+1.1.2.2.1.3. Con: -> See 1.1.2.2.1.1.1.
+1.1.2.2.2. Pro: If we do not act and change the climate we may face a new ice age.
+1.1.2.2.2.1. Pro: Warming temperatures disrupt vital [ocean currents](https://science.howstuffworks.com/environmental/green-science/question7801.htm), such as the Gulf Stream, which transport warmth to otherwise cooler regions. As a result, the average temperatures in the affected regions will significantly drop, what potentially triggers ice ages.
+1.1.2.2.2.1.1. Pro: [Studies suggest](https://cosmosmagazine.com/climate/1200-year-mini-ice-age-was-caused-by-global-warming) that a collapse of the Gulf stream had once caused a short ice age in the Northern hemisphere roughly 12.000 years ago.
+1.1.2.2.2.1.2. Con: These are changes that affect transfer of heat into the oceans and across the surface of the earth. They don't concern transfer of heat beyond the atmosphere. Thus, the system would continue to gain heat due to the greenhouse effect. In fact, reducing transport of heat into the deep ocean would increase warming in avg global temperatures measured at the surface.
+1.1.2.2.2.2. Con: Currently we are warming incredibly fast. This is not a time to be worrying about an ice age.
+1.1.2.2.2.3. Con: The cooling effect of a grand solar minimum would not override the effect of our enhancement of the greenhouse effect. [skepticalscience.com](https://www.skepticalscience.com/grand-solar-minimum-mini-ice-age.htm)
+1.1.2.2.2.4. Con: Our planet has so many climate inputs that the system is far too complicated and our understanding is far too limited to even begin to predict when we will approach a cold/warm phase in the future. The suggestion that the planet will reach a cold phase in the future seems irrelevant as we understand that the planet cycles through cold and warm phases over huge geological time periods. This discussion concerns the role humans have on short to medium term change.
+1.1.2.2.2.5. Con: Scientists do not expect the next ice age for [at least 50,000 years](http://science.sciencemag.org/content/297/5585/1287.full).
+1.1.2.2.2.6. Pro: Humanity has thrived with a warmer world provided by the Holocene and the Holocene Climate Optimum where temperatures were much warmer.  There are past cold periods that bring disease, death and famine for humanity - the last such period was the Little Ice Age, a time when the Thames river in London froze. Therefore suggesting somehow that we need to return to a arbitrary temperature without taking into consideration the geological past seems short-sighted
+1.1.2.2.2.6.1. Con: Our food production systems have evolved in relative climate stability over many thousands of years. The unprecedented pace of change caused by human carbon emissions is greater than our current ability to adapt agriculturally. It's not an arbitrary temperature but the one at which we can produce the most food.
+1.1.2.2.2.6.1.1. Con: this doesnt seem to be borne out of the observed upward trends in food production.
+1.1.2.2.2.7. Con: That very article says "As for the future of the glacial cycle, that remains unclear, Lee says. It's difficult at this point to predict how human contributions to Earth's greenhouse gas concentrations might alter the future of Earth's ice ages."
+1.1.2.2.2.8. Con: Ice ages are temporary. If we fight an ice age with greenhouse gasses, we will experience devastating and uncontrolled warming at the end of the ice age.
+1.1.2.2.3. Pro: There are too many examples of climate shifts like today, to even list in here. From the HCO to the MWP \(when oceans were 0.5 sometimes 0.9c warmer than today's!\) to the Roman Warming period, the Little Ice Age..
+1.1.2.2.3.1. Con: Your implication is that the current shift in climate is no different from others that have happened in the past.  But \(let's say "if"\) there is evidence in support of the claim that the present changes are different from those past events, then simply pointing out the past events fails to engage the evidence.  It's like arguing that there have been forest fires before humans, so humans couldn't be responsible for a present one.
+1.1.2.2.3.1.1. Con: -> See 1.1.1.8.2.
+1.1.2.2.3.2. Con: The Holocene climatic optimum \(HCO\) has been proven to be caused by changes in the earth's orbit, and it is known that this is not the cause of recent warming.[ncdc.noaa.gov](https://www.ncdc.noaa.gov/global-warming/mid-holocene-warm-period)
+1.1.2.2.3.3. Con: The Medieval Warm Period \(MWP\) saw unusually warm temperatures in some regions, but globally the planet was cooler than current conditions.[\[1\]](https://www.skepticalscience.com/medieval-warm-period-intermediate.htm)
+1.1.2.2.4. Con: it has been demonstrated that recent shifts in climate do not follow \(even closely\) the previous natural cycles of climate change. It is anomalous and directly correlates with human industrial activity.
+1.1.2.2.4.1. Con: If it were entirely a man-made CO2 driven climate effect,  you wouldnt have the flattening out of warming / no warming events that you have recorded in the temperature record.
+1.1.2.2.4.1.1. Con: The climate system is complicated and natural variation can temporarily mask anthropogenic warming under some circumstances. However, the trend remains warming. [Video explanation of trend vs variation](https://www.youtube.com/watch?v=e0vj-0imOLw)
+1.1.2.2.4.2. Con: -> See 1.1.2.2.3.
+1.1.2.2.4.3. Con: An example of temperature shifts in the past, unrelated to anthropogenic climate change [Sea Surface Temp Variability](http://science.sciencemag.org/content/290/5494/1145)
+1.1.2.2.5. Con: The earth is warming "roughly ten times faster than the average rate of ice-age-recovery warming."  [earthobservatory.nasa.gov](https://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php)
+1.1.2.2.5.1. Con: It is true but also irrelevant that the current warming is 10x faster than ice-age recovery. Ice-age recovery is due primarily to orbital forcing changes which happen over thousands of years. This does not mean other climatic shifts have happened in the past over much shorter timescales. Even in the current Holocene times there's plenty of records of much faster and larger climatic shifts. [Holocene Climate Variability](https://www.sciencedirect.com/science/article/pii/S0033589404000870)
+1.1.2.2.5.1.1. Con: The referenced article refers to extremely short time periods - blips on the geological radar. They are irrelevant to this discussion.
+1.1.2.2.5.1.2. Con: The article refers to periods with polar cooling - irrelevant to the present situation where we have polar warming.
+1.1.2.3. Pro: This article suggests altering the Paris Accord's baseline pre-industrial definition to be in the context of the previous 100,000 years since there is so much recent research indicating much warmer times in the past.  [Paleoclimatological Context](https://www.frontiersin.org/articles/10.3389/feart.2017.00104/full)
+1.1.2.3.1. Pro: Temperature Variability in the [South Pacific](http://science.sciencemag.org/content/290/5494/1145) from the 18th to the 21st century was unrelated to humans.
+1.1.2.3.2. Pro: -> See 1.1.2.2.4.3.
+1.1.2.3.3. Con: The linked article concludes "Notably, re-definition of the temperature baseline does not affect the upper temperature ceiling of the 2° target because it corresponds to the high temperatures of the last interglacial." i.e. the absolute temperature target adopted in Paris still stands; the value of the baseline is purely academic. Exceeding this target will exceed natural historical temperature variations.
+1.1.2.4. Con: Natural causes are still in play today, but their influence is too small or they occur too slowly to explain the rapid warming seen in recent decades[earthobservatory.nasa.gov](https://earthobservatory.nasa.gov/Features/GlobalWarming/page4.php)
+1.1.2.5. Con: -> See 1.1.2.2.5.
+1.1.2.6. Pro: CO₂ is beneficial to plant life.
+1.1.2.6.1. Pro: CO2 levels in the atmosphere are currently sub optimal for [plant growth](https://fifthseasongardening.com/regulating-carbon-dioxide).
+1.1.2.6.1.1. Con: The link is about growing plants in a \(temperature-controlled\) greenhouse, where CO2 levels of 1500ppm increase growth by 30%. This ignores the heating that would result from 1500 ppm in the atmosphere. This heating is a critical factor in discussion of levels of CO2 in the atmosphere.
+1.1.2.6.1.2. Con: CO2 is only one of the many factors that can limit plant growth. While some areas of the globe could benefit from increased leaf cover due to increased CO2 fertilisation, this would probably be cancelled out by desertification in other areas due to increased heat and water stress.
+1.1.2.6.1.2.1. Pro: Climate change has profound and negative impact on nature.
+1.1.2.6.1.2.1.1. Pro: Ecosystems are under threat as a result of climate change.
+1.1.2.6.1.2.1.1.1. Con: Melting Ice Caps has happened periodically for millions of years as the Earth warms and cools. Its disruption to Ecosystems is nothing new for the Earth.
+1.1.2.6.1.2.1.1.2. Con: Studies show that corals are unaffected by pH variations . Lucy Georgiou, James Falter, Julie Trotter, David I. Kline, Michael Holcomb, Sophie G. Dove, . . . Malcolm Mcculloch. \(2015\). PH homeostasis during coral calcification in a free ocean CO2 enrichment \(FOCE\) experiment, Heron Island reef flat, Great Barrier Reef. Proceedings of the National Academy of Sciences, 112\(43\), 13219
+1.1.2.6.1.2.1.1.3. Con: Literature indicates Acidification of the Ocean is well within bounds of normality - +/- 0.2pH units for parts of the Earth studied - both on small and large geological timescales
+1.1.2.6.1.2.1.1.3.1. Pro: "Seawater pH around the UK is highly variable, both spatially \(in three dimensions\) and temporally \(y2y, seasonally and on shorter time-scales\); Surface seawater pH in sub-tropical regions of the open North Atlantic is much less variable decreasing at a rate primarily determined by the rate of rising CO2 in atmosphere. in the open North Atlantic, unexpected changes have occurred, with y2y pH decreases being more rapid than anticipated in some regions:" [oceanacidification.org.uk](http://www.oceanacidification.org.uk/Oarp/media/images/PDF/UKOA-Variability_Trends.pdf)
+1.1.2.6.1.2.1.1.3.1.1. Con: The [oceanacidification.org.uk](http://oceanacidification.org.uk) link given above states that measurements and models indicate a decline in *global* pH of 0.1 units in surface waters, which means "potentially serious consequences for many marine ecosystems ".
+1.1.2.6.1.2.1.1.3.2. Pro: "[oceanacidification.org.uk](http://www.oceanacidification.org.uk/Oarp/media/images/PDF/UKOA-Variability_Trends.pdf) -\> Time series have been started in Antarctic waters. The three years of coastal data collected so far show large seasonal and interannual variation in ocean pH, with strong influence of seasonal ice cover"
+1.1.2.6.1.2.1.1.3.3. Pro: Historical plot of ocean pH since 1689 in tropical South Pacific showing variation well beyond 0.1pH change. [nature.com](https://www.nature.com/articles/s41467-018-04922-1/figures/2)
+1.1.2.6.1.2.1.1.3.4. Pro: The pH level for corals of the mid-late Holocene from the South China Sea varied significantly by [22.2‰ to 25.5‰](https://www.sciencedirect.com/science/article/pii/S0016703708007266).
+1.1.2.6.1.2.1.1.3.5. Con: There has been an unusually large decrease in pH level for Great Barrier Reef of Australia during the past [60 years](https://www.sciencedirect.com/science/article/pii/S0016703709000969) \(compared to a 200 year period\).
+1.1.2.6.1.2.1.1.3.6. Con: Generalised reference to past conditions is often not relevant the present time. Changes to present conditions are our concern here, with our specific conditions of solar activity, greenhouse gases, land use, and above all our vulnerable civilisation.
+1.1.2.6.1.2.1.1.3.7. Con: There is an ongoing acidification with the average Ocean pH predicted to reach [7.8](http://www.epoca-project.eu/index.php/what-is-ocean-acidification.html) by the end of this century.
+1.1.2.6.1.2.1.1.3.7.1. Con: Daily/monthly and short term local fluctuations of pH levels far, far outweigh the impact of additional anthropogenic CO2. In summary, ecosystems have adapted to much greater pH changes.[Reefs CO2](https://biopixel.tv/reef-fish-co2/)  [Geological record of pH](http://droyer.web.wesleyan.edu/Honisch_et_al_2012_Science_ocean_acidification.pdf)
+1.1.2.6.1.2.1.1.3.7.2. Pro: Acidification threatens marine ecosystems.
+1.1.2.6.1.2.1.1.3.7.2.1. Pro: One well-known effect is the lowering of calcium carbonate saturation states, which impacts shell-forming marine organisms from plankton to benthic molluscs, echinoderms, and corals. Many calcifying species exhibit reduced calcification and growth rates in laboratory experiments under high-CO2 conditions, [www.annualreviews.org](https://www.annualreviews.org/doi/full/10.1146/annurev.marine.010908.163834)
+1.1.2.6.1.2.1.1.3.7.2.1.1. Con: -> See 1.1.2.6.1.2.1.1.2.
+1.1.2.6.1.2.1.1.3.7.2.2. Con: A recent peer reviewed survey of Acidification experts & their opinion reveals mixed results; Only 4 of 23 experts with knowledge in the issue area agree to \>0.98 that acidification will result in a loss of biodiviersity. - the study also reveals the disparity in opinion among the 'experts' at present - indicating the science is far from having reached consensus[Gattuso, J.-P., Mach, K. & Morgan, J., 2013. Ocean acidification and its impacts: an expert survey. Climatic Change, 117\(4\), pp.725–738](https://cedmcenter.org/wp-content/uploads/2017/10/Ocean-acidification-and-its-impacts-an-expert-survey.pdf).
+1.1.2.6.1.2.1.1.3.7.2.2.1. Con: The authors " find a relatively strong consensus on most issues related to past, present and future chemical aspects of ocean acidification: non-anthropogenic ocean acidification events have occurred in the geological past, anthropogenic CO2 emissions are the main \(but not the only\) mechanism generating the current ocean acidification event, and anthropogenic ocean acidification that has occurred due to historical fossil fuel emissions will be felt for centuries".
+1.1.2.6.1.2.1.1.3.7.2.3. Pro: Although impacts on the long run are still to be well studied, the rate of the process may be too fast for several species to adapt to, with a consequent threat on the current equilibrium. [www.epoca-project.eu](http://www.epoca-project.eu/index.php/what-is-ocean-acidification.html)
+1.1.2.6.1.2.1.1.3.7.2.4. Pro: The acidification can be catastrophic for calcifying organisms which play a vital role in the maintenance of biodiversity. [Introduction to the subject.](https://ocean.si.edu/ocean-life/invertebrates/ocean-acidification)
+1.1.2.6.1.2.1.1.3.7.2.4.1. Con: -> See 1.1.2.6.1.2.1.1.2.
+1.1.2.6.1.2.1.1.3.7.2.4.2. Pro: The structure of coral reefs cannot grow as quickly anymore because the higher acid degree doesn't allow to bind calc.
+1.1.2.6.1.2.1.1.3.7.2.5. Con: Stone corals have a calcification rate that [peaks](https://www.nap.edu/read/12904/chapter/6#62) at a higher sea level temperature. An increase in global temperature could thus be offset by the initial increase in growth.
+1.1.2.6.1.2.1.1.3.7.2.5.1. Con: [Coral growth rates have plummeted 40 percent since the mid-1970s.](https://www.sciencedaily.com/releases/2014/09/140917121225.htm) The scientists suggest that ocean acidification may be playing an important role in this perilous slowdown.
+1.1.2.6.1.2.1.1.3.7.2.5.2. Con: [An experiment in alkalinisation of living coral](https://thinkprogress.org/ocean-acidification-is-slowing-coral-reef-growth-7867fbb15176/) found that growth rates decreased in more acidic conditions.
+1.1.2.6.1.2.1.1.3.7.2.5.3. Con: [Coral calcification rates decrease significantly along a natural gradient in seawater pH](https://news.ucsc.edu/2013/06/calcifying-corals.html)
+1.1.2.6.1.2.1.1.3.7.2.6. Con: The evidence indicating harm to ecosystems due to a shift in pH is poorly understood.
+1.1.2.6.1.2.1.1.3.7.2.6.1. Con: The core science is well understood. Observed rises in atmospheric CO2 will certainly diffuse into the oceans, where they must reduce the alkalinity of the ocean. Already a 0.1 decrease in pH has been observed.
+1.1.2.6.1.2.1.1.3.7.2.6.2. Con: The [Precautionary Principle](http://Precautionary Principle) demands that the onus of proof should shift onto polluters to show that they are not doing harm.
+1.1.2.6.1.2.1.1.3.7.2.6.3. Pro: Research on the decrease in calcification rates at the [Great Barrier Reef](http://science.sciencemag.org/content/323/5910/116) failed to determine the exact role of ocean acidification and rise in temperature.
+1.1.2.6.1.2.1.1.3.7.2.6.3.1. Con: Since CO2 increases cause both acidification and temperature rises, the exact contribution from each factor is of academic importance, but should not hold us back from addressing the cause.
+1.1.2.6.1.2.1.1.3.7.2.6.4. Pro: Different species studied can react differently. This makes it difficult to determine the exact impact.
+1.1.2.6.1.2.1.1.3.7.2.6.5. Pro: Calcification rates are affected by other factors, such as carbonate chemistry or pollution.
+1.1.2.6.1.2.1.1.3.7.2.6.5.1. Con: Calcification rates *are* carbonate chemistry.
+1.1.2.6.1.2.1.1.3.7.2.6.6. Con: Here's some empirical evidence.  Ocean vents bubble CO2 through a marine ecosystem, allowing comparison with nearby systems not affected in the same way, and controlling for temperature.  \(Note, however, that the actual anticipated scenario is decreased pH plus increased temperature.\)  [www.nature.com](https://www.nature.com/articles/nclimate1122)
+1.1.2.6.1.2.1.1.3.7.2.6.7. Con: Researchers from the University of Sydney discovered a direct correlation between changes in ocean pH and coral growth [theconversation.com](https://theconversation.com/ocean-acidification-is-already-harming-the-great-barrier-reefs-growth-55226)
+1.1.2.6.1.2.1.1.3.7.2.6.8. Con: Any human being that has operated a home aquarium of any size successfully has learned the effect of carbon dioxide \(carbonic acid\) levels on marine life.  There are many scientific papers examining the effects of pH on species and ecosystems.
+1.1.2.6.1.2.1.1.4. Pro: -> See 1.1.2.6.1.2.1.1.3.7.2.
+1.1.2.6.1.2.1.1.5. Pro: The melting of glaciers can damage the current local ecosystems, can affect flora and fauna posing threats to exhisting biodiversity, and more, can lead to huge and possibly destructive floods. [www.aljazeera.com](http://www.aljazeera.com/indepth/features/2010/11/20101115135254194232.html)
+1.1.2.6.1.2.1.1.5.1. Con: on the whole, glaciers reduce biodiversity because most organisms require temperatures where water is liquid, to survive.
+1.1.2.6.1.2.1.1.5.2. Con: many glaciers have melted in the past and Earth's habitat has adapted - the extent of glacier coverage was much higher before the Holocene Climate Optimum for example, when huge glaciers covered Northern Europe and Northern America.
+1.1.2.6.1.2.1.1.5.3. Pro: Glaciers act as water stores, ensuring a relatively constant flow in glacier derived rivers
+1.1.2.6.1.2.1.1.5.4. Con: Less glaciers means more area for flora and fauna to live.
+1.1.2.6.1.2.1.1.6. Pro: The melting of the polar ice caps due to increased temperatures are interfering with natural habitats.
+1.1.2.6.1.2.1.1.6.1. Con: Just because something is "Not natural" is not in itself a compelling reason to halt it. Melting of Ice Caps can have many benefits for Society and for the Earth - more land to grow crops and live further North, smaller winters and longer crop growing cycles for example
+1.1.2.6.1.2.1.1.6.1.1. Con: Regardless of the natural/unnatural debate melting ice caps will cause catastrophic global climate change that we simply have no tools to deal with it would be foolhardy to intentionally warm the planet knowing the damage it will cause.
+1.1.2.6.1.2.1.1.6.2. Pro: NASA reports that globally in 2017 there was less sea ice that any time since satellites began continously tracking in 1979. [www.nasa.gov](https://www.nasa.gov/feature/goddard/2017/sea-ice-extent-sinks-to-record-lows-at-both-poles)
+1.1.2.6.1.2.1.1.6.3. Pro: NASA reports that the Arctic’s sea ice maximum extent has dropped by an average of 2.8 percent per decade since 1979. [www.nasa.gov](https://www.nasa.gov/feature/goddard/2017/sea-ice-extent-sinks-to-record-lows-at-both-poles)
+1.1.2.6.1.2.1.1.6.4. Pro: A domino effect of sea-ice melting on terrestrial animals could happen through a disruption in the food chain. From sea-ice algae and sub-ice plankton, to wolves and arctic foxes. [www.sciencedaily.com](https://www.sciencedaily.com/releases/2013/08/130801142317.htm)
+1.1.2.6.1.2.1.1.6.5. Pro: For some species, ice loss likely will increase population mixing, reducing genetic differentiation, and could promote mixing of pathogen communities that previously were isolated. [www.sciencedaily.com](https://www.sciencedaily.com/releases/2013/08/130801142317.htm)
+1.1.2.6.1.2.1.1.6.6. Con: Melting ice caps is nothing 'unnatural' and has happened frequently in the past.
+1.1.2.6.1.2.1.1.6.6.1. Pro: Geological records show that polar caps have melted and interfered with natural habitats prior to human civilization so an interference with natural habitats does not automatically mean human caused.
+1.1.2.6.1.2.1.1.6.6.1.1. Con: Regardless of if it is human caused or not it will cause significant damage to our ecosystem. Shouldn’t we take any means to keep our ecosystem stable for our own safety and longevity?
+1.1.2.6.1.2.1.1.6.7. Con: Melting of Ice only increases habitats - the number of species that can live on Ice is extremely limited.
+1.1.2.6.1.2.1.2. Pro: Climate change could increase the number of extreme storms and droughts causing billion of dollars of damage every year in about 4 years from now
+
+[citeseerx.ist.psu.edu](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.4963&rep=rep1&type=pdf)
+[nytimes.com](https://www.nytimes.com/interactive/2017/09/15/climate/does-climate-change-cause-hurricanes-drought.html?mcubz=1&_r=0)
+1.1.2.6.1.2.1.3. Con: Humanity is unable to stop climate change and therefore should save its ressource to cope with the effects.
+1.1.2.6.1.2.1.3.1. Pro: Humans lack the tools necessary to fight climate change.
+1.1.2.6.1.2.1.3.1.1. Con: [This article on the official energy use spaghetti chart](https://www.vox.com/energy-and-environment/2017/4/13/15268604/american-energy-one-diagram) and comparison with charts from previous years show a current strong trend of increasing use of solar and wind for electricity generation.
+1.1.2.6.1.2.1.3.1.2. Con: The fight against climate change is already on through various sustainable development initiatives.
+1.1.2.6.1.2.1.3.1.2.1. Pro: This fight is only just beginning; it is held back at present by the climate change denial lobby, epitomised by Trumpism, but when that collapses, the world can unite and move ahead in the fight against climate change.
+1.1.2.6.1.2.1.3.1.3. Con: [Geoengineering](https://www.technologyreview.com/s/604081/the-growing-case-for-geoengineering/) [shows promise](https://www.wired.com/story/why-climate-change-skeptics-are-backing-geoengineering/) in moderating the greenhouse effect, and is completely untried. That means we still have an ace in the hole.
+1.1.2.6.1.2.1.3.1.3.1. Con: [A recent study](https://www.nature.com/articles/s41586-018-0417-3) suggests that the widely-considered notion of geoengineering with sulphate aerosols is a dead end, as far as agricultural productivity is concerned.
+1.1.2.6.1.2.1.3.1.3.2. Con: Geoengineering presents a "moral hazard": by ameliorating the immediate perception of threat from rising greenhouse gasses, geoengineering would remove the incentive to stop emitting additional gasses.
+1.1.2.6.1.2.1.3.1.4. Con: We have the tools and technologies: energy conservation, solar, wind, wave, geothermal storage etc. It is the political will that is lacking.
+1.1.2.6.1.2.1.3.1.4.1. Pro: It is technically feasible that the world's energy production is completely powered by renewable energy sources.
+1.1.2.6.1.2.1.3.1.4.1.1. Con: -> See discussion #6182: Nuclear power is desirable for sustainable energy production
+1.1.2.6.1.2.1.3.1.4.1.2. Pro: [Geothermal energy](https://www.renewableenergyworld.com/articles/2010/09/geothermal-energy-is-the-solution-for-the-future.html), CO2-free and safe, could cover the world's energy needs if the technology is developed enough and becomes cost-effective
+1.1.2.6.1.2.1.3.1.4.1.3. Pro: Deep-sea [wind farms](https://www.independent.co.uk/news/science/wind-farm-world-renewable-energy-green-deep-sea-india-electricity-power-north-atlantic-a7991326.html) could produce power with a form of clean and renewable energy.
+1.1.2.6.1.2.1.3.1.4.1.4. Con: While it may be technically feasible, it also needs to be financially feasible - otherwise there is no point.
+1.1.2.6.1.2.1.3.1.4.1.5. Pro: We need to capture and use one 10,000th part of the total incoming solar radiation to satisfy our present energy needs. [www.energy.gov](https://www.energy.gov/articles/top-6-things-you-didnt-know-about-solar-energy) This can be visualised as an area the size of Britain occupying the Sahara desert - a tiny proportion of that desert.
+1.1.2.6.1.2.1.3.1.5. Pro: Humans created all the tools that cause climate change. We may struggle to fight climate change with tools, but we could significantly reduce the use of those that make it worse.
+1.1.2.6.1.2.1.3.1.6. Con: -> See 1.1.2.6.1.2.1.3.1.4.1.
+1.1.2.6.1.2.1.3.1.7. Pro: The way human society is organized it is hard to tackle a planetary problem spanning over generations.
+1.1.2.6.1.2.1.3.1.7.1. Con: Trying to tackle a planetary problem, while difficult, is still better than not doing anything at all and dooming future generations.
+1.1.2.6.1.2.1.3.1.7.2. Con: That a problem is 'difficult' entails not that it should be ignored entirely.
+1.1.2.6.1.2.1.3.1.7.3. Con: Humans are capable of changing the way our society is organised. With focus on long term effects, sacrificing short term gains this might be possible.
+1.1.2.6.1.2.1.3.1.7.4. Pro: The economic model doesn't allow for transformative change.
+1.1.2.6.1.2.1.3.1.7.4.1. Con: Economic model can, and should change in such case.
+1.1.2.6.1.2.1.3.1.7.5. Pro: Societies depend on charismatic leaders rather than long-term thinkers.
+1.1.2.6.1.2.1.3.1.7.6. Pro: The global community is fragmented preventing comprehensive change.
+1.1.2.6.1.2.1.3.1.8. Con: Development of the necessary tools is a way of fighting climate change.
+1.1.2.6.1.2.1.3.1.9. Pro: At present, there is no accurate measure of the success/failure of human action in terms of its impact on climate change.
+1.1.2.6.1.2.1.3.1.9.1. Con: Gt CO2 equivalent / yr is a pretty good metric.
+1.1.2.6.1.2.1.3.1.10. Pro: There is no technically feasible replacement, globally, for the vast amounts of fossil fuel use currently within the energy mix.
+1.1.2.6.1.2.1.3.1.10.1. Con: The claim is nonsense: fossil fuels are currently used because it is easier to extract them and burn them than the alternatives, which is changing: [for instance, this claim](https://www.kialo.com/humans-should-act-to-fight-climate-change-4540/4540.0=4540.1+4540.786+4540.258+4540.566/+4540.566). Internal combustion engines are a matter of convenience, and they can run on alchohol or vegetable oil just fine.
+1.1.2.6.1.2.1.3.1.10.2. Con: [Bill Nye says we can get off of fossil fuels using existing technology](https://www.facebook.com/georgehtakei/videos/1366280610074061/)
+1.1.2.6.1.2.1.3.1.10.3. Con: -> See 1.1.2.6.1.2.1.3.1.4.1.1.
+1.1.2.6.1.2.1.3.1.10.4. Con: "wood liquor" byproduct of [biochar](https://en.wikipedia.org/wiki/Biochar#Energy_production:_Bio-oil_and_Syngas) should be possible to refine into gasoline with a small team of competent petrochemists tasked with the problem, for internal combustion engine purposes. Also those can run on vegetable oil or alcohol.
+1.1.2.6.1.2.1.3.1.11. Con: -> See discussion #8337: Climate change can be reversed.
+1.1.2.6.1.2.1.3.1.12. Con: Technological change will solve the problems climate change brings.
+1.1.2.6.1.2.1.3.1.12.1. Pro: [Biochar](https://en.wikipedia.org/wiki/Biochar) can remove atmospheric carbon sequestered in trees and therewith reduce CO2.
+1.1.2.6.1.2.1.3.1.12.2. Con: So we will be busy applying technology to attempt to mitigate the self-inflicted damage caused by climate change instead of making real progress.
+1.1.2.6.1.2.1.3.1.12.3. Con: Technology cannot remedy a profound loss of biodiversity.
+1.1.2.6.1.2.1.3.1.12.4. Con: Technological advancement is unpredictable [\[1\]](http://www.upworthy.com/11-ridiculous-future-predictions-from-the-1900-worlds-fair-and-3-that-came-true), unreliable and constrained by physical laws. After many decades of research and development, we still don't have a cure for cancer, viable nuclear fusion or a foothold on any plant other than earth. To assume we can ignore climate change because "technology will fix it" is absurdly optimistic.
+1.1.2.6.1.2.1.3.1.12.5. Pro: The Planet has already had over 1c of warming since industrialisation. Humans have adapted well to these changes.
+1.1.2.6.1.2.1.3.1.12.5.1. Con: Our ability to adapt to temperature increases is not linear. Another degree or so is a big deal. See [climate.nasa.gov](https://climate.nasa.gov/news/2458/why-a-half-degree-temperature-rise-is-a-big-deal/) for instance.
+1.1.2.6.1.2.1.3.1.12.6. Pro: Farming technology has contributed to record crop yields. The trend is not reversing.
+1.1.2.6.1.2.1.3.1.12.7. Pro: Technology is going very fast. Fighting climate change can be a motivator to indirectly improve/innovate industries.
+1.1.2.6.1.2.1.3.1.12.7.1. Pro: Governments and businesses are successfully investing billions in accelerating new technologies and innovations.
+1.1.2.6.1.2.1.3.1.12.7.1.1. Pro: The Tesla roadster performance are measured to be equal or better than expensive supercars:
+"even at the not insignificant sum of $200,000 the Roadster will actually be comparatively cheap for its performance levels. The Porsche 918 Spyder, for instance, cost about £780,000 when new, while the Bugatti Chiron costs about £2.5m."
+[Tesla Roadster: nine things we know about the 'smackdown to gasoline cars](https://www.theguardian.com/technology/2017/nov/17/tesla-roadster-electric-supercar-elon-musk-fast)
+1.1.2.6.1.2.1.3.1.12.7.2. Con: Climate Change stifles true innovation - through mechanisms like cap & trade, ETS and carbon taxes, the only industry receiving innovative support is low emissions technology - leaving all the other industries unsupported & damaged with such a measure due to higher running costs.
+1.1.2.6.1.2.1.3.1.12.7.2.1. Con: By internalizing costs that would otherwise be external, carbon pricing forces innovation to be applied where it is needed.  The higher CAPEX/OPEX that motivates innovation would otherwise remain an unaddressed and escalating social cost.
+1.1.2.6.1.2.1.3.1.12.7.2.2. Con: A [recent MIT study](https://globalchange.mit.edu/news-media/jp-news-outreach/study-carbon-tax-win-win-win-americas-future) suggests that an emission tax, with proceeds plowed into energy R&D and social programs is actually a win-win-win.  "But with the carbon tax there are virtually no serious tradeoffs."
+1.1.2.6.1.2.1.3.1.12.7.2.3. Con: Market forces put a very low price on CO2 \(ETS market\), between [4 and 10€/tCO2](http://markets.businessinsider.com/commodities/co2-emissionsrechte) in 2017.
+1.1.2.6.1.2.1.3.1.12.7.2.4. Con: Fossil fuel companies are benefitting from global subsidies of $5.3tn \(£3.4tn\) a year, [equivalent to $10m a minute every day,](https://www.theguardian.com/environment/2015/may/18/fossil-fuel-companies-getting-10m-a-minute-in-subsidies-says-imf) in order to support societies current dependency on fossil fuels.
+
+If reliance on fossil fuels lessens, that money would not be needed to be wasted.
+1.1.2.6.1.2.1.3.1.12.7.3. Pro: Car batteries from Tesla are now at the tipping point of being cheaper and more efficient than combustion engines.
+1.1.2.6.1.2.1.3.1.12.7.4. Pro: Instead of polluting the environment by burning fossil carbon, we should create work by more actively stimulating the renewable energy sector.
+1.1.2.6.1.2.1.3.1.12.7.4.1. Pro: Countries can become independent of oil and gas prices and make their own energy
+1.1.2.6.1.2.1.3.1.12.7.4.1.1. Con: Wind and Solar only make up a tiny % of the world's energy mix - approximately 4.3% [World Energy Consumption](https://en.wikipedia.org/wiki/World_energy_consumption). It has not moved dramatically in the last 20 years. It doesnt look like it will be any significant percentage anytime soon.
+1.1.2.6.1.2.1.3.1.12.7.4.1.1.1. Con: ["From the end of 2004, worldwide renewable energy capacity grew at rates of 10–60% annually for many technologies."](https://en.wikipedia.org/wiki/Renewable_energy)
+1.1.2.6.1.2.1.3.1.12.7.4.1.1.2. Con: No matter how small the renewable energy is right now, the point is to push to use more of them and less of CO2 emitter type.
+1.1.2.6.1.2.1.3.1.12.7.4.1.1.3. Pro: Since the climate debate is centered around where we will be in 100 years, its important to put into context the reality of how quickly humanity can change various industries and commercial entities. This is why pointing out the miniscule change in green renewables as a % of mix of total energy consumption is important; tackling climate change may just not happen, and adaptation may be a better strategy.
+1.1.2.6.1.2.1.3.1.12.7.4.1.2. Con: Energy policy should not be a reason why Humans should act to fight climate change - energy policy should be about providing inexpensive, reliable power to citizens.
+1.1.2.6.1.2.1.3.1.12.7.4.1.2.1. Con: Energy consumption is the cause of climate change so it made sense to change policies to address the problem
+1.1.2.6.1.2.1.3.1.12.7.4.1.3. Pro: Renewable Energy like Wind and Solar is becoming cheaper per KW.
+1.1.2.6.1.2.1.3.1.12.7.5. Pro: The countries which invest early in climate change fighting technology will likely become the experts in their fields and make a lot of money from selling their ideas and designs in the long run.
+1.1.2.6.1.2.1.3.1.12.7.5.1. Con: Wind and solar energy do not show a first mover advantage. Even though Denmark and Germany do invest a lot in green technology it is [Chinese companies](http://www.renewableenergyworld.com/ugc/articles/2010/06/top-10-ten-largest-solar-pv-companies.html) that dominate the market.
+1.1.2.6.1.2.1.3.1.12.7.5.2. Pro: For example, China's investment in solar technology has allowed them to [dominate the market](https://www.scientificamerican.com/article/why-china-is-dominating-the-solar-industry/), and given them opportunities for new markets.
+1.1.2.6.1.2.1.3.1.12.7.6. Pro: Solar and Wind power are now cheaper than fossil fuels. That could make fighting climate change into a profitable form of business for energy companies. \(source: [independent.co.uk](http://www.independent.co.uk/environment/solar-and-wind-power-cheaper-than-fossil-fuels-for-the-first-time-a7509251.html)\)
+1.1.2.6.1.2.1.3.1.12.7.7. Pro: -> See 1.1.2.6.1.2.1.3.1.12.7.1.1.
+1.1.2.6.1.2.1.3.2. Pro: Tackling climate change requires quick and strong action now. Our current economic, social and technological systems within society might not be able to cope with this change without deep behavioural change and public acceptance.
+1.1.2.6.1.2.1.3.2.1. Con: Dealing with the effects of climate change in the future would be much more complicated than dealing with them now
+1.1.2.6.1.2.1.3.2.1.1. Pro: The [Stern Review](http://webarchive.nationalarchives.gov.uk/20130123161956/http://www.hm-treasury.gov.uk/d/Executive_Summary.pdf), which assessed the impact of climate change on the economy, human life, and animal life, concluded that "the benefits of strong, early action on climate change outweigh the costs".
+1.1.2.6.1.2.1.3.2.1.1.1. Con: The Stern review was written 11 years ago, and is outdated.
+1.1.2.6.1.2.1.3.2.1.1.2. Con: The Stern report has sharp criticism for its [discount rate](https://theconversation.com/ipcc-report-shows-stern-inflated-climate-change-costs-25160) being over-inflated when compared to the IPCC's.
+1.1.2.6.1.2.1.3.2.1.1.2.1. Con: Discount Rate is based on subjective judgments about \(in the present case\) how people assess value of the quality of life enjoyed by succeeding generations in terms of today's money.
+1.1.2.6.1.2.1.3.2.1.1.3. Con: The Stern report has sharp criticism for the fact it was never truly 'peer reviewed' or [scientific](http://theconversation.com/ipcc-report-shows-stern-inflated-climate-change-costs-25160).
+1.1.2.6.1.2.1.3.2.1.2. Con: We've been trying to deal with climate change for the last 30 years and it has costed in the order of hundreds of billions of dollars. Our current technologies are not sufficiently progressing the energy mix towards green renewables
+1.1.2.6.1.2.1.3.2.1.2.1. Con: Renewable sources of energy are nowdays a viable option in therms of efficiency and economic costs. These solutions are not applied because of the monopoly that fossil-fuel companies mantain.
+1.1.2.6.1.2.1.3.2.1.2.1.1. Pro: Records of solar production stand at $29.10 per MWh in Chile and of onshore wind production at  $30 per MWh in Morocco \([UNEP, p. 11](http://fs-unep-centre.org/sites/default/files/publications/globaltrendsinrenewableenergyinvestment2017.pdf)\)
+1.1.2.6.1.2.1.3.2.1.2.2. Pro: Global investment into reneweables stood at $241.6 billion in 2016 \([UNEP, p. 11](http://fs-unep-centre.org/sites/default/files/publications/globaltrendsinrenewableenergyinvestment2017.pdf)\).
+1.1.2.6.1.2.1.3.2.1.2.3. Con: Global subsidies for fossil fuels are in the order of magnitude of 5000 billion USD per year. This includes the hidden cost of health problems as well as cash subsidies. [theguardian.com](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2017/aug/07/fossil-fuel-subsidies-are-a-staggering-5-tn-per-year)
+1.1.2.6.1.2.1.3.2.1.2.3.1. Pro: The IMF, one of the world’s most respected financial institutions, [said](https://www.theguardian.com/environment/2015/may/18/fossil-fuel-companies-getting-10m-a-minute-in-subsidies-says-imf) that ending subsidies for fossil fuels would cut global carbon emissions by 20%.
+1.1.2.6.1.2.1.3.2.1.2.4. Con: Investing in clean technology cannot be expected to have any effect on climate change, unless it causes an absolute reduction in CO2 emissions. Hence, it cannot be said that we "have been trying to deal with climate change" on a practical level.
+1.1.2.6.1.2.1.3.2.1.3. Pro: Taking action on climate change will not cost the economy very much.
+1.1.2.6.1.2.1.3.2.1.3.1. Pro: Climate change requires incremental emissions reductions rather than an overnight shift in the whole economy.
+1.1.2.6.1.2.1.3.2.1.3.1.1. Pro: In order to meet longer term goals of meeting large reductions in greenhouse gas emissions, nations can set interim goals. This was done in the [Paris Agreement](http://unfccc.int/paris_agreement/items/9485.php) and is reflected in targets set in domestic legislation such as the [UK's Climate Change Act](https://www.theccc.org.uk/tackling-climate-change/the-legal-landscape/the-climate-change-act/).
+1.1.2.6.1.2.1.3.2.1.3.1.2. Pro: Adjustments to meet initial changes are likely to make future changes more simple. For example, policies that have encouraged the development of solar power have made solar panels [much cheaper](https://blogs.scientificamerican.com/plugged-in/the-price-of-solar-is-declining-to-unprecedented-lows/) in the last decade.
+1.1.2.6.1.2.1.3.2.1.3.2. Pro: The costs of putting prices on carbon emissions are affordable for consumers.
+1.1.2.6.1.2.1.3.2.1.3.2.1. Pro: A proposed carbon tax in Canada of $50 per ton would translate to [11 cents per liter of gasoline](https://globalnews.ca/news/3464739/carbon-tax-cost-households-heat-gas-driving/) at the pump if all costs were passed down to the consumer.
+1.1.2.6.1.2.1.3.2.1.3.3. Pro: Some measures to reduce greenhouse gas emissions will [save money](https://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/a-cost-curve-for-greenhouse-gas-reduction). A good example is energy efficiency measures such as building insulation or smart grids.
+1.1.2.6.1.2.1.3.2.1.3.4. Pro: There are a number of [low-cost options](https://www.mckinsey.com/business-functions/sustainability-and-resource-productivity/our-insights/a-cost-curve-for-greenhouse-gas-reduction) to reduce carbon emissions, including reforestation and nuclear power.
+1.1.2.6.1.2.1.3.2.1.3.5. Con: The cost is not low even in relation with Earth GDP. The cost to reduce greenhouse gas emmissions is expected to be [200 billion USD per year](http://forestindustries.eu/content/fighting-climate-change-might-cost-300-billion-usd-year-2020).
+1.1.2.6.1.2.1.3.2.1.3.5.1. Con: Comparing the projected future cost of reducing GHGs against current GDP is bad methodology.  The proper comparison \(ignoring social costs\) is against future losses in GDP.  The reference assumes at least $100B/year will be needed to mitigate damages from climate change already incurred.
+1.1.2.6.1.2.1.3.2.1.3.5.2. Con: Earth GDP is [$75 trillion.](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?) Your quoted cost is 0.26% of this, so the cost is low.
+1.1.2.6.1.2.1.3.2.1.3.6. Con: Private benefits of fossil fuels are likely higher than the social cost of carbon, see for example [this working paper](https://www.sussex.ac.uk/webteam/gateway/file.php?name=wps-07-2017.pdf&site=24).
+1.1.2.6.1.2.1.3.2.1.3.6.1. Con: The working paper assumes that SCC is a continuous function over time \(e.g. 3% reduction in today's GDP, projected forward\).  But climate science anticipates discontinuities:
+["Many estimates do not account for the possibility of large-scale singular events and irreversibility, tipping points and other important factors, especially those that are difficult to monetize, such as loss of biodiversity."](http://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full_wcover.pdf)\(p 79\)
+1.1.2.6.1.2.1.3.2.1.3.6.2. Con: As the article admits, it is really measuring the value of energy, which can be created without carbon emissions. So although the article states that it provides a private value of carbon over $400/ton, this doesn't provide the marginal private value of carbon over and above carbon-free electricity generation. [This paper](https://www.lazard.com/media/450337/lazard-levelized-cost-of-energy-version-110.pdf) suggests that the marginal cost of changing to renewables is lower than the social cost of carbon.
+1.1.2.6.1.2.1.3.2.1.4. Pro: Positive feedback loops caused by human induced changes can take us to a point of no return with more self-reenforcing and accelerated warming, such as [Albedo](https://en.m.wikipedia.org/wiki/Albedo).
+1.1.2.6.1.2.1.3.2.1.4.1. Pro: Accelerating feedbacks such as forest fires and permafrost melt and emission of greenhouse gases by permafrost are already starting.
+1.1.2.6.1.2.1.3.2.1.5. Pro: Effects from projected anthropogenic climate change might   "adversely affect agricultural production, access to safe water, and worker productivity" according to [this](https://www.sciencedirect.com/science/article/pii/S2214999615012242#!) study.
+1.1.2.6.1.2.1.3.2.1.6. Con: Weather prevision is getting better worldwide. Prevision is key to limiting impacts of climate events. Therefore it is unlikely that climate events will have more impact in the future.
+1.1.2.6.1.2.1.3.2.1.6.1. Con: Even if we can predict bad weather like hurricanes they will still do extensive damage that could be avoided or minimized by fighting climate change.
+1.1.2.6.1.2.1.3.2.1.7. Con: By the end of the century the human societies will be so rich that coping with the effects of climate change will be easy.
+1.1.2.6.1.2.1.3.2.1.7.1. Con: If the climate continues to change as it does today we will need to reinforce many of our current buildings to be able to handle more storms
+1.1.2.6.1.2.1.3.2.1.7.1.1. Pro: -> See 1.1.2.6.1.2.1.2.
+1.1.2.6.1.2.1.3.2.1.7.2. Con: -> See 1.1.2.6.1.2.1.3.2.1.1.
+1.1.2.6.1.2.1.3.2.1.7.3. Pro: [GDP](https://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=100) is expected to grow under common climate change predictions.
+1.1.2.6.1.2.1.3.2.1.7.4. Pro: With higher GDP human health improves.
+1.1.2.6.1.2.1.3.2.1.7.4.1. Con: Biodiversity is particularly threatened in countries with high GDP, so health will be too.
+1.1.2.6.1.2.1.3.2.1.7.4.2. Pro: -> See 1.1.2.6.1.2.1.3.2.1.7.3.
+1.1.2.6.1.2.1.3.2.1.7.4.3. Con: Health levels are sometimes higher in countries with lower GDP than in countries with higher GDP.
+1.1.2.6.1.2.1.3.2.1.7.4.3.1. Pro: GDP per capita in Chile is four times lower than in the USA, but the [life expectancy](https://www.google.de/search?client=opera&q=life+expectancy+chile&sourceid=opera&ie=UTF-8&oe=UTF-8) is higher in Chile than in the USA.
+1.1.2.6.1.2.1.3.2.1.7.5. Con: Increased wealth does not negate the fight against climate change. It simply changes the timeline and the financial impact.
+1.1.2.6.1.2.1.3.2.1.7.6. Con: According to the IPCC, under BAU scenario, the global mean temperature will rise up to +12°C warming in artic regions, cf. Figure SPM.7 in AR5[Summary for policymakers](http://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf) \(mean +4,8°C\). This will lead to a collapse of human society.
+1.1.2.6.1.2.1.3.2.1.7.6.1. Pro: Increased carbon dioxide in the atmosphere lowers the protein content of food crops, as rapidly growing plants are more sugar. \(source: piece on NPR radio attributing bee die-offs to lower protein content in pollens; see also [www.nature.com](https://www.nature.com/scitable/knowledge/library/effects-of-rising-atmospheric-concentrations-of-carbon-13254108) and similar more alarming media\)
+1.1.2.6.1.2.1.3.2.1.7.6.2. Con: The IPCC cannot be considered an independent source for information.
+1.1.2.6.1.2.1.3.2.1.7.6.2.1. Con: The scientific community agree with the IPCC and accept it as a reliable source
+1.1.2.6.1.2.1.3.2.1.7.6.2.1.1. Con: The scientific community has to make their research IPPC acceptable in order to have it presented. This is connected to funding, and this is what keeps the scientists going. This is about freedom. For example artists in the soviet union were free to make art in any way that they wanted. But in order to receive funding they had to make socially acceptable art. The rules are laid out. You can accept them and thrive, or go against them and starve. Of course you are free to starve.
+1.1.2.6.1.2.1.3.2.1.7.6.2.2. Pro: The IPCC is paid for by government to produce policy detail.
+1.1.2.6.1.2.1.3.2.1.7.6.2.2.1. Con: Hundreds of experts are involved on a [voluntary basis](http://www.ipcc.ch/organization/organization_structure.shtml).
+1.1.2.6.1.2.1.3.2.1.7.6.2.2.2. Pro: The [US](https://www.cnsnews.com/news/article/us-taxpayers-cover-nearly-half-cost-un-s-global-warming-panel) provides about half of the IPCC' budget.
+1.1.2.6.1.2.1.3.2.1.7.6.2.3. Pro: The IPCC has a remit of explaining AGW but not to question if it exists.
+1.1.2.6.1.2.1.3.2.1.7.6.2.4. Pro: The IPCC does not do their own research but collates independent research, but also whip it into shape for presentation. On the fence research is rewritten by the IPPC working teams to make sure it represents the positive case for AGW.
+1.1.2.6.1.2.1.3.2.1.7.6.2.5. Pro: Professor Pielke criticised the IPPC for representing his views with a certainty about climate prediction in 95 that he did not believe was justified. [pielkeclimatesci.files.wordpress.com](https://pielkeclimatesci.files.wordpress.com/2011/08/receipes-0011.jpg)
+1.1.2.6.1.2.1.3.2.1.7.6.2.5.1. Con: Despite his criticism of the prediction being presented with certainty , the prediction as proved to be correct.
+1.1.2.6.1.2.1.3.2.1.7.7. Con: An increasingly wealthy planet only means that wealth is concentrated within the hands of a few. It doesn't mean that everyone has the power to better adapt to climate change.
+1.1.2.6.1.2.1.3.2.1.7.7.1. Con: Having inequalities is good.
+1.1.2.6.1.2.1.3.2.1.7.7.1.1. Pro: Poverty is the problem, not inequality. The income divide between someone earning $300.000 and someone earning $ 3 million is likely to cause only minor problems.
+1.1.2.6.1.2.1.3.2.1.7.7.1.1.1. Con: The sample numbers represent only a small segment of inequality. As long as there is scarcity of resources, inequality will always correlate with some degree of poverty.
+1.1.2.6.1.2.1.3.2.1.7.7.1.1.2. Pro: Inequality does not create poverty in [itself](https://mises.org/blog/inequality-doesnt-create-poverty).
+1.1.2.6.1.2.1.3.2.1.7.7.1.1.2.1. Con: Competing studies indicate that the effects are [not linear](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/3876.pdf), at best, and [the main cause](http://www.epi.org/blog/inequality-main-persistent-poverty/), at worst.
+1.1.2.6.1.2.1.3.2.1.7.7.1.1.2.2. Con: The question isn't whether inequality "creates poverty," but rather whether it exacerbates the effects of poverty in the allocation of scarce resources.
+1.1.2.6.1.2.1.3.2.1.7.7.1.2. Con: Inequality can lead to political turmoil \([MacCulloch, p. 109](http://www.jstor.org/stable/10.1086/426881?seq=1#page_scan_tab_contents)\).
+1.1.2.6.1.2.1.3.2.1.7.7.1.2.1. Con: Whether economic inequality leads to political turmoil depends highly on measurements of both \([Giskemo, p. 6](https://www.cmi.no/publications/file/4379-exploring-the-relationship-between-socio-economic.pdf)\). MacCulloch's study makes use of public opinion surveys that only measure a positive attitude to revolution. This is hardly indicative as to whether people will engage in actual political turmoil.
+1.1.2.6.1.2.1.3.2.1.7.7.1.3. Con: Income inequality is linked to [health problems](https://www.ncbi.nlm.nih.gov/books/NBK43780/).
+1.1.2.6.1.2.1.3.2.1.7.7.1.4. Pro: Income inequalities work as incentives for hard work.
+1.1.2.6.1.2.1.3.2.1.7.7.1.4.1. Con: Whether inequality incentivizes hard work depends on the degree of inequality. At a certain point, inequality has the opposite effect and disincentivizes hard work \([Bertelsmann Stiftung. p. 2](http://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/Impulse___2015-05_income_inequality_and_growth.pdf)\).
+1.1.2.6.1.2.1.3.2.1.7.7.1.4.1.1. Con: This is only at the very extremes of income inequality and not applicable to any practical setting. In one of the most unequal countries, [South Africa](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html), employees still show intrinsic motivation and are motivated by rewards \([Nujjoo & Meyer, p. 6](https://www.sajhrm.co.za/index.php/sajhrm/article/viewFile/442/532)\).
+1.1.2.6.1.2.1.3.2.1.7.7.1.4.2. Con: When the inequality is fuelled by underpinning genetic disadvantage, incentivising hard work misses the entire point.
+1.1.2.6.1.2.1.3.2.1.7.7.1.4.3. Con: How people respond to hard work could also be genetically enhanced. We could edit out extreme laziness.
+1.1.2.6.1.2.1.3.2.1.7.7.1.5. Con: Economic inequality is [generally assumed](https://www.weforum.org/agenda/2015/06/why-income-inequality-is-bad-for-growth/) to be bad for economic growth, first and foremost because it reduces educational opportunities.
+1.1.2.6.1.2.1.3.2.1.7.7.1.5.1. Con: Innovations create inequalities by inventors or entrepreneurs becoming rich. Thus, economic inequality is a by-product of economic growth.
+1.1.2.6.1.2.1.3.2.1.7.7.1.5.1.1. Con: This is only one, marginal, contributor to inequality.
+1.1.2.6.1.2.1.3.2.1.7.7.1.5.1.2. Con: The evidence on the contribution of innovation to inequality is at best contested. There is a persuasive line of reasoning that the disruptive nature of innovation actually leads to [less wealth inequality](https://salon.thefamily.co/a-valley-divided-do-startups-widen-the-inequality-gap-7bb783237eb8#.txpplfyjg).
+1.1.2.6.1.2.1.3.2.1.7.7.1.6. Con: Wilkinson and Pickett show that income inequality is associated with many kinds of social and medical problems [The Spirit Level](https://www.equalitytrust.org.uk/resources/the-spirit-level)
+1.1.2.6.1.2.1.3.2.1.7.8. Con: The increase of economic wealth implies the emission of more greenhouse gases, which worsens the global warming and makes its effects harder to cope with
+1.1.2.6.1.2.1.3.2.1.8. Con: -> See 1.1.2.6.1.2.1.3.1.12.
+1.1.2.6.1.2.1.3.2.1.9. Pro: It is more difficult for trees to grow when the climate heats up.
+1.1.2.6.1.2.1.3.2.1.9.1. Pro: When temperatures get too high \(over 45-50°C \(113-122F\) \), they struggle to grow. If the heating climate kills the forests, their CO2 will add to greenhouse effect and the planet will warm more.
+1.1.2.6.1.2.1.3.2.2. Con: -> See 1.1.2.6.1.2.1.3.1.12.7.4.1.
+1.1.2.6.1.2.1.3.2.3. Con: Successfully changing people's behavior and generating public acceptance for drastic changes, is part of tackling climate change. That this is required is not an argument against the need to tackle climate change.
+1.1.2.6.1.2.1.3.2.4. Con: Behavioural change and public acceptance is not necessary for large energy companies to switch production from coal to solar/wind/hydro/nuclear.
+1.1.2.6.1.2.1.3.3. Pro: It will be much cheaper to "adapt" to climate changes, than to "fight" climate change.
+1.1.2.6.1.2.1.3.3.1. Pro: Reinforcing buildigns against natural desaster can save tremendous amount of money. Hurrican Catherina caused damages of [$180bn](http://globalblog.posco.com/takes-build-natural-disaster-proof-house/).
+1.1.2.6.1.2.1.3.3.2. Con: Economists in the [Economists' Statement on Climate Change](https://en.wikipedia.org/wiki/Economists%27_Statement_on_Climate_Change) agree that "preventive steps are justified" and that "the total benefits outweigh the total costs".
+1.1.2.6.1.2.1.3.3.3. Con: Tornado proof homes cost around [20-30%](https://www.sciencedirect.com/science/article/pii/S1687404815000395) more than regular homes. Given the construction expenditure in the US of [$1.23 trillion](https://www.bloomberg.com/news/articles/2018-02-01/u-s-construction-spending-rose-in-2017-by-least-in-six-years) in 2017 this is around $250 bn for the US and for Tornados alone.
+1.1.2.6.1.2.1.3.3.4. Pro: Approximately $300billion per year for the last 4 years has been spent to reduce annual emissions, yet the world's energy is still only 3-4% from wind/solar.[Clean Energy Investment](https://about.bnef.com/blog/runaway-53gw-solar-boom-in-china-pushed-global-clean-energy-investment-ahead-in-2017/)
+1.1.2.6.1.2.1.3.3.4.1. Con: The reference says "Typical utility-scale PV systems were about 25% cheaper per megawatt last year than they were two years earlier."  Apparently, the investments are producing phenomenal results.
+1.1.2.6.1.2.1.3.3.4.2. Con: Humanity spent a hundred billion dollars on reprogramming software for Y2K Readiness fearing the Y2K bug \([Pinker, p. 294](https://en.wikipedia.org/wiki/Enlightenment_Now)\). Thus, spending in this dimensions are nothing extraordinary on a global scale.
+1.1.2.6.1.2.1.3.3.4.3. Pro: It's not only this bad. If you consider how long humanity has been trying to change energy to renewables, it is at a snail pace - it would take 200 years to convert to full renewables at this rate.
+1.1.2.6.1.2.1.3.3.4.4. Pro: One cannot even replace all energy production with wind/solar. There is not enough sun shining and wind blowing to do this at suitable sites around the globe.
+1.1.2.6.1.2.1.3.3.4.4.1. Pro: With the exception of hydro power, most alternative energies produce power at highly variable and unpredictable levels.   You might be able to produce \(at great expense\) as much power from wind and solar as from nuclear, but only until the sun goes down or the wind slows.   Once it does, if you don't have without a stable/controllable source like nuclear, coal, etc., you just have to huddle in the dark.
+1.1.2.6.1.2.1.3.3.4.4.1.1. Con: Biogas plants provide steady and reliable energy production.
+1.1.2.6.1.2.1.3.3.4.4.1.2. Con: Batteries can be used to bridge periods of variable energy production.
+1.1.2.6.1.2.1.3.3.4.4.1.3. Con: A vast grid network can transport energy from sources that have preferable condition at any moment in time.
+1.1.2.6.1.2.1.3.3.4.4.1.3.1. Pro: As [Desertec](https://en.wikipedia.org/wiki/Desertec) envisioned, solar energy could be transported to Europe from the Sahara.
+1.1.2.6.1.2.1.3.3.4.4.1.3.2. Pro: The [North Sea Offshore Grid](https://en.wikipedia.org/wiki/North_Sea_Offshore_Grid) serves to bring Norwegian hydroelectric power to central Europe.
+1.1.2.6.1.2.1.3.3.4.4.1.4. Con: Energy storage technologies will cover the intermittency challenge.
+1.1.2.6.1.2.1.3.3.4.4.2. Pro: Hydroelectric technology has some negative impacts on the environment.
+1.1.2.6.1.2.1.3.3.4.4.2.1. Pro: [Hydroelectric power](https://www.newscientist.com/article/dn7046-hydroelectric-powers-dirty-secret-revealed/) produces very large amounts of greenhouse gases when land is dammed and vegetation rots.  The [worst](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources#2014_IPCC.2C_Global_warming_potential_of_selected_electricity_sources) hydro plants produce more than twice as much greenhouses gases as the worst coal plants.
+1.1.2.6.1.2.1.3.3.4.4.2.1.1. Con: While this is ultimately unavoidable in areas where reservoirs are created anew and thus much vegetation is flooded, it is controllable in magnitude and finite in duration: reservoirs do not grow and grow, and decaying vegetation cannot release greenhouse gases forever.
+1.1.2.6.1.2.1.3.3.4.4.2.2. Pro: The construction of dams has an enormous impact in the coast of a country, with the lack of sand reaching the sea causing a massive raise in the levels of marine abrasion.
+1.1.2.6.1.2.1.3.3.4.4.3. Con: Current global energy demand is ~14 TW.  Conceivably, this could triple to 45 TW by 2100.  It would take about 1/2 of 1% of the mid-lattitude land area, covered with 10%-efficient solar-electric panels, to produce 45 TW.  [www.sandia.gov](http://www.sandia.gov/~jytsao/Solar%20FAQs.pdf)
+1.1.2.6.1.2.1.3.3.5. Pro: It would be more beneficial to society in general if we put efforts into adaptation, because other climate change \(not caused by humans\) can happen - so we solve two problems in one go \(human induced climate change, and non-human induced climate change\).
+1.1.2.6.1.2.1.3.3.6. Pro: -> See 1.1.2.6.1.2.1.3.2.
+1.1.2.6.1.2.1.3.3.7. Con: Extinction and disrupted ecosystems cannot be "adapted".
+1.1.2.6.1.2.1.3.3.7.1. Con: Distinction and species disruption happen consistently throughout the history of the Earth. It is a part of nature.
+1.1.2.6.1.2.1.3.3.7.2. Pro: Scientists predict a massive biodiversity extinction \(the 6th in roughly 540 million years\) as a consequence of this climate change. [Source](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/bix125/4605229)
+1.1.2.6.1.2.1.3.3.7.2.1. Pro: Climate change inevitably changes the living conditions in the habitats of many species on Earth. Some species can migrate or adapt \(e.g. hares and foxes in Europe\), but studies \([Example](https://www.nature.com/articles/nature02121)\) have shown that as many as 15-37% of species will face extinction in the face of climate change.
+1.1.2.6.1.2.1.3.3.7.2.2. Pro: Among the "nine planetary boundaries" discussed by the [Stockholm Resilience Centre](http://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html), that of genetic diversity \(linked to biodiversity\) is one of the only three boundaries for which we have crossed the "zone of uncertainty", meaning that we are dealing with an extreme - and possibly existential - risk. Climate change alone is thought to threaten [a quarter or more](https://chge.hsph.harvard.edu/climate-change-and-biodiversity-loss) of the species alive today.
+1.1.2.6.1.2.1.3.3.7.2.3. Con: Biodiversity loss is caused by "land use changes, exotic species invasions, nutrient enrichment", in addition to climate change, as reported by Nature. Thus, it's our resource-intensive consumption lifestyle that is threatening biodiversity directly, and not just climate change, as explained by [Nature](https://www.nature.com/scitable/knowledge/library/causes-and-consequences-of-biodiversity-declines-16132475)
+1.1.2.6.1.2.1.3.3.7.2.3.1. Con: It doesn't follow that because there are many factors causing biodiversity loss that some of those factors should not be addressed.  All factors effecting biodiversity loss should be addressed to the best of human ability, including climate change.
+1.1.2.6.1.2.1.3.3.7.2.4. Con: The current climate trajectory is nothing out of the ordinary for the climate of the Earth in geological timescales of 100,000 years, so it doesnt logically make sense that a mass extinction would occur due to recent Climate Change.[Vostok Ice Core Records](https://en.wikipedia.org/wiki/Ice_core#/media/File:Vostok_Petit_data.svg)
+1.1.2.6.1.2.1.3.3.7.2.4.1. Con: It is the [rate of change](https://www.kialo.com/argument/4540.462) that is the problem. It is too fast to allow species to adapt.
+1.1.2.6.1.2.1.3.3.7.2.4.2. Con: Even if the trajectory is normal it still means that many species will die when the trajectory is kept.
+1.1.2.6.1.2.1.3.3.7.2.4.2.1. Con: Nature is brutal, another reason why humans should adapt to climate change instead of try and prevent it.
+1.1.2.6.1.2.1.3.3.7.2.4.2.1.1. Con: Humans were able to take out much of the brutality from nature.
+1.1.2.6.1.2.1.3.3.7.2.4.2.1.1.1. Pro: Humans used to much more brutal in the way they punish and treat each other.
+1.1.2.6.1.2.1.3.3.7.2.4.2.1.1.2. Pro: Humans steer nature's brutality through innovation and process management.
+1.1.2.6.1.2.1.3.3.7.2.4.3. Con: There is evidence that the current climate trajectory is out of the ordinary for the climate: [earthobservatory.nasa.gov](https://earthobservatory.nasa.gov/Features/GlobalWarming) "As the Earth moved out of ice ages over the past million years, the global temperature rose a total of 4 to 7 degrees Celsius over about 5,000 years. In the past century alone, the temperature has climbed 0.7 degrees Celsius, roughly ten times faster than the average rate of ice-age-recovery warming.".
+1.1.2.6.1.2.1.3.3.7.2.5. Con: Claiming a 6th mass extinction is just false hysteria. Extinction requires a huge destruction of oceanic species as they're highly mobile. While there may be a steady loss of biodiversity as a result of multiple reasons, claiming Climate Change is causing a mass extinction is not backed by scientific evidence.[6th Extinction Maybe Not](https://www.realclearscience.com/blog/2016/02/is_there_really_a_sixth_great_extinction_maybe_not.html)
+1.1.2.6.1.2.1.3.3.7.2.5.1. Con: There is evidence of alarming biodiversity loss with the most extreme scenarios leading to the sixth mass extinction in the history of the earth [\(Bellard et al. 2012\)](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2011.01736.x/full)
+1.1.2.6.1.2.1.3.3.7.2.5.2. Con: Oceanic species might be highly mobile, but they can't escape ocean acidification: [ocean.si.edu](http://ocean.si.edu/ocean-acidification)
+1.1.2.6.1.2.1.3.3.7.2.5.3. Con: The article referenced above considers the percent of species lost in the past one hundred years, however, mass extinction events take much longer.
+
+"However, the group at MIT improved they way they collect and analyze these mineral isotopes in the lab—their radiometric dating of the uranium and lead in the zircons show that the extinction event spanned 60,000 years, plus or minus 48,000 years. "
+
+[www.smithsonianmag.com](https://www.smithsonianmag.com/science-nature/how-long-mass-extinction-180949711/)
+
+12,000-108,000 years is very fast, geologically speaking.
+1.1.2.6.1.2.1.3.3.7.2.6. Con: even the IPCC's documentation from the 5th Assessment Report make no mention of a 'Mass Extinction' [IPCC 5AR](https://www.ipcc.ch/report/ar5/)
+1.1.2.6.1.2.1.3.3.7.2.6.1. Con: It doesn't make any mention of healthy biodiversity predictions either.
+1.1.2.6.1.2.1.3.3.7.2.6.2. Con: From the AR5 Report: "A large fraction of species faces increased extinction risk due to climate change during and beyond the 21st century, especially  as  climate  change  interacts  with  other  stressors  \(high  confidence\).... Future risk is indicated to be high by the observation that natural global climate change at rates lower than current anthropogenic climate change caused significant ecosystem shifts and species extinctions during the past millions of years. "
+
+[www.ipcc.ch](https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf)
+1.1.2.6.1.2.1.3.3.7.2.7. Con: Every ecosystem can adapt and climate changes are very slow. Not to mention the climate change brings also a lot of benefits to mankind and the rest of nature. See for example the [article](https://www.spectator.co.uk/2013/10/carry-on-warming/).
+1.1.2.6.1.2.1.3.3.7.2.7.1. Con: Normally, natural climate changes are slow, and mostly allow for species and ecosystems to adapt to changing circumstances, but anthropogenic climate change is different, as it's very fast in nature. A big percentage of the species on earth is expected to disappear.
+1.1.2.6.1.2.1.3.4. Con: Many countries already made target to going 0 GHG emmission in a near future and are able to keep on pace to date without hurting their economy [\(Germany as an exemple\)](https://www.cleanenergywire.org/factsheets/germanys-greenhouse-gas-emissions-and-climate-targets). Dealing with consequences  will likely be a lot more expensive in money and lives \(human and nature\) while making the changes might even be beneficial for the economy
+1.1.2.6.1.2.1.3.4.1. Con: Germany fell [significantly](http://foreignpolicy.com/2017/11/13/germany-is-a-coal-burning-gas-guzzling-climate-change-hypocrite/) behind its desired targets.
+1.1.2.6.1.2.1.3.4.2. Con: Much of Germany's 'Energiewende' is focused on eliminating the climate neutral nuclear power and replacing it with Coal and Gas power plants.
+1.1.2.6.1.2.1.3.5. Con: Humanity is unable to stop climate change, that is true. But we can stop anthropogenic climate change. Anthropogenic climate change is the issue, not natural climate change. If we can create it, we can stop it. By definition, it is anthropogenic, meaning we can stop whatever it is we are doing that causes it.
+1.1.2.6.1.2.1.3.5.1. Con: The earth's climatic systems amplify the effects of climate change even without the input of humans.
+1.1.2.6.1.2.1.3.5.1.1. Pro: -> See 1.1.1.
+1.1.2.6.1.2.1.3.5.1.2. Pro: -> See 1.1.2.2.
+1.1.2.6.1.2.1.3.5.2. Con: Just because we are starting something does not mean that we can stop it.
+1.1.2.6.1.2.1.3.5.2.1. Con: Humans can and should slow down, stop and even reverse climate change. We simply need to reduce GHG emission drastically. If we can't completely reverse it we can at least stop changing it further
+1.1.2.6.1.2.1.3.6. Con: Even if humanity is unable to stop anthropogenic climate change, that does not effect humanity's ability to choose how much worse those climatic changes are going to be by modifying current behaviors.
+1.1.2.6.1.2.1.3.7. Con: Fighting against climate change does not inherently mean stopping it.
+1.1.2.6.1.2.1.3.7.1. Pro: Fighting against climate change can at least slow it down, which will be a good thing \(it would give more time for the life on it to adjust\).
+And we shouldn't give up hope about stopping it.
+1.1.2.6.1.2.1.3.8. Con: There are already signs that human fight against climate change have achieved some success.
+1.1.2.6.1.2.1.3.8.1. Pro: The ozone hole is recovering: [nasa.gov](https://www.nasa.gov/feature/goddard/2018/nasa-study-first-direct-proof-of-ozone-hole-recovery-due-to-chemicals-ban).
+1.1.2.6.1.2.1.3.8.2. Pro: The forests are expanding in developed countries: [un.org](http://www.un.org/apps/news/story.asp?NewsID=37845#.WmXl4nMo_qB)
+1.1.2.6.1.2.1.3.9. Con: -> See 1.1.2.6.1.2.1.3.1.11.
+1.1.2.6.1.2.1.4. Pro: Even a small rise in mean global temperature has [been](http://www.bbc.co.uk/news/science-environment-35566151) [predicted](http://www.ecifm.rdg.ac.uk/climate_change.htm) to threaten farming and fishing.
+1.1.2.6.1.2.1.4.1. Pro: Climate change could harm global food production
+
+A lot of the plants we grow to feed ourselves and feed the animals that we raise to feed ourselves can only live within a specific average temperate range, when the temperature of the earth increases this will shift where what food can be produced
+
+For example: In the last century wine production has shifted from France to the UK
+
+[Source](http://www.ciesin.columbia.edu/docs/004-138/004-138.html)
+1.1.2.6.1.2.1.4.1.1. Pro: Warmer winters allow pests to flourish, with potentially [damaging consequences](https://www.washingtonpost.com/national/health-science/a-bugged-life-warm-winter-could-mean-more-insects/2012/03/07/gIQA5b033R_story.html?utm_term=.3e2cc55dec2b&noredirect=on) for farmers.
+1.1.2.6.1.2.1.5. Pro: Climate change will increase the occurrence of extreme weather events, favoring [flooding, storms, heatwaves and wildfires.](http://www.wri.org/blog/2017/09/extreme-weather-whats-climate-change-got-do-it)
+1.1.2.6.1.2.1.6. Con: The Earths climate is well within the bounds of the current [Holocene](http://science.sciencemag.org/content/339/6124/1198), which is a time of Earth's history that humans have thrived in, suggesting that although the climate may be changing or has changed, it isnt necessarily bad.
+1.1.2.6.1.2.1.6.1. Con: Even if the earth is in the Holocene, the changes are still detrimental to nature.
+1.1.2.6.1.2.1.6.2. Con: [Here](http://www.realclimate.org/images/Marcott.png) is Marcott's \(author of the linked paper\) final product, linked to modern temperatures \(in red\). Note the extremely rapid rate of change. And here is the [background to the composite graph](http://www.realclimate.org/index.php/archives/2013/09/paleoclimate-the-end-of-the-holocene/)
+1.1.2.6.1.2.1.6.3. Con: Per that same link, "Current global temperatures of the past decade have not yet exceeded peak interglacial values but are warmer than during ~75% of the Holocene temperature history. Intergovernmental Panel on Climate Change model projections for 2100 exceed the full distribution of Holocene temperature under all plausible greenhouse gas emission scenarios."
+1.1.2.6.1.2.1.7. Pro: -> See 1.1.2.6.1.2.1.1.3.7.
+1.1.2.6.1.2.1.8. Con: Nature is neutral. It does not prefer one life over the other. Nature will remain, whatever forms survive.
+1.1.2.6.1.2.1.8.1. Con: Nature is not neutral. Humans and the animal kingdom are of a special quality to nature. Therefore intelligent species should strive to preserve a nature where these species thrive.
+1.1.2.6.1.2.1.8.2. Pro: The Earth, which is so much bigger and older than the human species, will still survive.
+1.1.2.6.1.2.1.8.2.1. Pro: If the purpose of fighting climate change is to preserve the earth then humans do not need to fight climate change.
+1.1.2.6.1.2.1.8.2.2. Con: Just because the earth will be fine in the long run does not mean it will be conducive to life. so, in order to preserve and cultivate earth's life-giving properties, humans should fight climate change.
+1.1.2.6.1.2.1.8.2.2.1. Con: Because of CO₂ there will be a warmer cimate which benefits life on Earth.
+1.1.2.6.1.2.1.8.2.2.1.1. Pro: Expansion of crop production into areas not previously suitable.  As previously cold areas warm, they become suitable for a new range of crops such as [www.agr.gc.ca](http://www.agr.gc.ca/eng/science-and-innovation/agricultural-practices/agriculture-and-climate/future-outlook/impact-of-climate-change-on-canadian-agriculture/?id=1329321987305)
+1.1.2.6.1.2.1.8.2.2.1.1.1. Con: The expectation is that changing climate, even accounting for rising CO₂, will result in a net loss of agricultural production. \(See [this](https://www.researchgate.net/publication/6150195_Predicting_the_impact_of_changing_CO2_on_crop_yields), or [this](http://science.sciencemag.org/content/360/6386/263).\)
+1.1.2.6.1.2.1.8.2.2.1.1.2. Con: Existing crop areas are likely to become unsuitable, requiring large scale planning changes and major economic and food disruptions.
+1.1.2.6.1.2.1.8.2.2.1.1.3. Con: There is strong evidence to suggest that such greening will cause the expansion of pests into new areas, causing major damage to both crops and wildlife. [science.time.com](http://science.time.com/2013/09/02/a-warmer-world-will-mean-more-pests-and-pathogens-for-crops/)   [www.nature.com](https://www.nature.com/news/crop-pests-advancing-with-global-warming-1.13644)
+1.1.2.6.1.2.1.8.2.2.1.1.4. Con: The link given above also mentions that droughts, storms, pests and weeds would act against the expansion in arable areas
+1.1.2.6.1.2.1.8.2.2.1.2. Pro: Much of the Earth is in a climate zone that is too cold for human life. Humans are able to survive in warm climates, but freeze to death quickly in very cold climates.
+1.1.2.6.1.2.1.8.2.2.1.2.1. Con: Extreme heat can also render a location uninhabitable.
+1.1.2.6.1.2.1.8.2.2.1.2.1.1. Pro: [Heatwaves](https://news.nationalgeographic.com/2017/08/south-asia-heat-waves-temperature-rise-global-warming-climate-change/) already kill large numbers of people and it is predicted that this will only get worse as the climate warms.
+1.1.2.6.1.2.1.8.2.2.1.2.2. Pro: The Earth is still considered to be within an 'ice age', with 10-20% of the Earth permanently covered in ice/permafrost, rendering that part of the Earth virtually uninhabitable. A warmer Earth means greater areas for flora, fauna and humans to migrate to - Especially in unlocked areas such as Northern Canada, Alaska and Siberia.
+1.1.2.6.1.2.1.8.2.2.1.2.2.1. Con: The Earth is not considered to be in an Ice Age. It is in an Interglacial.
+1.1.2.6.1.2.1.8.2.2.1.2.2.2. Con: The above claim is based a misconception that compares a warmer \(regional\) climate with a warmer \(global\) climate. We humans often like to seek out a warmer region in the winter, but this has little relation to what happens when a whole planet warms.
+1.1.2.6.1.2.1.8.2.2.1.2.2.3. Con: I don' think climate change will  create more nice areas for humans. We are very likely to see destructive extreme weather with very high heatwaves and extremely heavy rains and hurricanes. Large areas could become inhabitable beacause of extreme heat, and storms, huge rains and hurricanes would make life dangerous on the whole Planet.  Especially huge storms are exepcted in the Arctic.
+1.1.2.6.1.2.1.8.2.2.1.2.3. Pro: If extreme heat were always a cause for human suffering, then humans would not migrate to the warmest parts of the globe - which they have.
+1.1.2.6.1.2.1.8.2.2.1.2.3.1. Con: Extreme heat does cause human suffering and may soon render many [cities](http://time.com/4087092/climate-change-heat-wave/) uninhabitable.
+1.1.2.6.1.2.1.8.2.2.1.3. Con: Warmer weather is not necessarily better for instance, warmer winters can cause beneficial insects to come out of hibernation too quickly, only to starve due to the lack of flowering plants.  [www.washingtonpost.com](https://www.washingtonpost.com/national/health-science/a-bugged-life-warm-winter-could-mean-more-insects/2012/03/07/gIQA5b033R_story.html?utm_term=.3e2cc55dec2b)
+1.1.2.6.1.2.1.8.2.2.1.3.1. Pro: -> See 1.1.2.6.1.2.1.4.1.1.
+1.1.2.6.1.2.1.8.2.2.1.4. Con: The rising temperature will cause parts of currently habitable land to become uninhabitable due to rising ocean level and desertification. The sea level [is projected to rise by 65 cm](http://www.pnas.org/content/early/2018/02/06/1717312115) until the end of this century.
+1.1.2.6.1.2.1.8.2.2.1.5. Pro: Life in tropics far outweighs life in polar regions. [tropics life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4320694/)
+1.1.2.6.1.2.1.8.2.2.1.5.1. Con: [The literal "tropics" correlate with bands of desert around the globe.](https://upload.wikimedia.org/wikipedia/commons/f/f4/Mercator_projection_SW.jpg)
+1.1.2.6.1.2.1.8.2.2.1.5.1.1. Con: The deserts are a creation of the tropical climate conditions.
+1.1.2.6.1.2.1.8.2.2.1.5.1.1.1. Pro: [Tropical circles of latitude](https://en.wikipedia.org/wiki/Circle_of_latitude#Tropical_Circles) cause a particular dry climate.
+1.1.2.6.1.2.1.8.2.2.1.6. Con: There is little doubt that a warming climate will be generally harmful to humanity.  Most models anticipate degraded agricultural output, among other serious problems.  Heat and disrupted precipitation do not "bring life".
+1.1.2.6.1.2.1.8.2.2.1.7. Con: The hypothesis of climate change contrarians is that "Humans can enhance Earth's Greenhouse Effect indefinitely without compromising the security of our present civilisation". This hypothesis is false.
+1.1.2.6.1.2.1.8.2.2.1.7.1. Pro: This hypothesis is refuted by consideration of [the chain of causation of AGW.](https://www.kialo.com/argument/18139.24)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1. Pro: The Greenhouse Effect is a simple physical fact. Earth temperature T is +15C. Without Greenhouse Effect T = -15C.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1. Pro: CO2 is a Greenhouse Gas \(GHG\), a physical fact based on its atomic structure. CO2 is responsible for 9-36% of the total Greenhouse Effect \(GHE\).
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1. Pro: We have increased the concentration of CO2 by 33% from pre-industrial levels, and are on course to doubling those levels sometime around 2075.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1. Pro: The effect on Earth Temperature \(T\) of doubling CO2 levels lies somewhere between 1.5 and 4.5 C, with the most likely figure in the 2.5-3C range.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1. Pro: +2C for doubling is interesting because it lies at the higher end of the range agreed by AGW contrarians/skeptics, and at the lower end of the range accepted in the climatology community. Therefore it can be seen as a super-consensus figure.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1. Pro: Already, at +1C above pre-industrial levels of CO2 we are able to discern serious effects on weather events. [www.theguardian.com](https://www.theguardian.com/environment/2012/jul/10/extreme-weather-manmade-climate-change) [www.worldweatherattribution.org](https://www.worldweatherattribution.org/about/)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1. Pro: If the effect of a +2C increase in T would be mild, as contrarians claim, we would not be able to observe any changes at +1C. Since we are able so to do, the contrarian hypothesis is refuted.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.1. Pro: The 2C rise on doubling of CO2 levels is only a step on the way. If CO2 continues to be added to the atmosphere - Temperatures will continue to increase. [Here are the full expected effects of temperature rise.](https://www.theguardian.com/environment/2016/apr/21/study-reveals-greater-climate-impacts-of-2c-temperature-rise-heatwaves)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2. Pro: Each extreme weather event that can be attributed to man-made climate change is a further refutation of the climate contrarian hypothesis.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.1. Pro: Arctic warming has produced waves in the Northern polar Jet Stream which brings cold weather southwards [www.theguardian.com](https://www.theguardian.com/uk/2012/jul/08/summer-unending-rain)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.2. Pro: Studies have linked AGW with 4 extreme events: record temperatures, coral bleaching, droughts in Africa, and wildfires in the USA [www.nytimes.com](https://www.nytimes.com/2017/12/14/climate/climate-extreme-weather-attribution.html)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.3. Pro: The contrarian hypothesis predicts that the probability of heatwaves will not be increasing at a situation where CO2 is only 33% increased over pre-industrial levels. This prediction is refuted by the facts.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.3.1. Pro: [It is very likely that human influence doubled the probability of the European heatwave of 2003](https://www.nature.com/articles/nature03089.epdf?referrer_access_token=QVA8BxgtrUzF8BF3L9GrTtRgN0jAjWel9jnR3ZoTv0OnBzxb7ThjtOwH-zBjavvOmrkXK6aC-FB24MdRTE0LLfa-zguqGzxxAQuopWzTHQfBwMQnaU_8GSzyLoJBTmjd-v9BBhj7s7ojfQWqxWOaEAfnLYhdWP0ajQkbqD3ZNjnqdcL-h31Tc1czghhovav5giH0xx4HevK4PYYaJmFc3_fijjEj_EDDusGniIsm_3o2j706sZ6sl2dvBql64EKm&tracking_referrer=www.carbonbrief.org)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.3.2. Pro: NOAA finds that human-caused climate change made the [heatwaves of 2015 more likely](https://www.noaa.gov/media-release/scientists-strong-evidence-human-caused-climate-change-intensified-2015-heat-waves)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.3.3. Pro: [Extreme heat is defining climate change](http://www.climatecentral.org/news/extreme-heat-climate-change-19641)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.4. Pro: Here is a page showing a [large number of extreme weather events that are linked to AGW](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world) - as well as those that are not.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.5. Pro: The contrarian hypothesis predicts that the probability of flooding will not be increased by a 33% increase of CO2 levels. This prediction is falsified by studies.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.5.1. Pro: A study shows that man-made changes to climate [increased the probability of the floods in England and Wales in 2000](https://www.nature.com/articles/nature09762)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.5.2. Pro: Observed increased [rainfall intensity in the latter half of the twentieth century cannot be explained by estimates of natural climate variability - human influences must be considered](https://www.nature.com/articles/nature09763)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.5.3. Pro: It is certain that extreme rainfall is increasing. This is easily measurable in rain gauges. In a simple but elegant study, [Seth Westra of the University of Adelaide looked at 8000 rain gauges from 1900 to 2009](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00502.1), and concluded that for every 1C rise in temperature, there will be a 7% increase in extreme rainfall intensity. This is in line with theoretical projections, since warmer air can hold more moisture.
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.6. Pro: Contrarian hypothesis predicts that man-made climate change cannot make hurricanes more intense. Their hypothesis is refuted by the facts
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.1.2.6.1. Pro: Climate change [increased the rainfall of Hurricane Harvey](https://news.nationalgeographic.com/2017/12/climate-change-study-hurricane-harvey-flood/)
+1.1.2.6.1.2.1.8.2.2.1.7.1.1.1.1.1.1.1.2. Pro: Some [extreme heat events in 2016 would not have been possible without AGW](https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/abstract/)
+1.1.2.6.1.2.1.8.2.2.1.8. Con: -> See 1.1.2.6.1.2.1.8.2.2.1.2.2.2.
+1.1.2.6.1.2.1.8.2.2.2. Pro: Regardless of whether nature is neutral, WE are not.  A planet consisting only of cockroaches and one human is not an acceptable scenario.
+1.1.2.6.1.2.1.8.2.3. Con: The economic cost of climate change may be higher than the cost of preventing climate change; if so, whatever the fate of the earth, climate change is worth preventing.
+1.1.2.6.1.2.1.8.2.3.1. Pro: -> See 1.1.2.6.1.2.1.3.3.2.
+1.1.2.6.1.2.1.8.2.4. Con: Planets are outside the domain of sympathetic creatures that can be "fine" or not.
+1.1.2.6.1.2.1.8.2.4.1. Con: "Fine" isn't limited to sympathetic creatures -- for instance, fine silk or fine platinum. One might ask, if Earth can't support life as we know it any more because the atmosphere has too much CO2 in it, is "fine for termites, who will no longer need to live in mounds" an acceptable outcome?
+1.1.2.6.1.2.1.8.3. Con: -> See 1.1.2.6.1.2.1.8.2.2.2.
+1.1.2.6.1.2.1.9. Pro: -> See 1.1.2.6.1.2.1.3.3.7.2.
+1.1.2.6.1.2.1.10. Pro: Sea levels are projected to rise as a result of climate change.
+1.1.2.6.1.2.1.10.1. Con: Sea level changes have only been approximately 1.5mm per year, culminating in only [20cm](https://link.springer.com/article/10.1007%2Fs10712-011-9119-1) sea level rise since 1880.
+1.1.2.6.1.2.1.10.1.1. Con: -> See 1.1.2.6.1.2.1.8.2.2.1.4.
+1.1.2.6.1.2.1.10.2. Pro: -> See 1.1.2.6.1.2.1.8.2.2.1.4.
+1.1.2.6.1.2.1.10.3. Pro: An increase in the water temp causes expansion as it does in all liquids. The oceans are large. So is the amount of expansion.
+1.1.2.6.1.2.1.10.4. Pro: [this HuffPo article](https://www.huffingtonpost.com/entry/runaway-climate-change-2030-report_us_5b8ecba3e4b0162f4727a09f) contains projected rises in sea levels.
+1.1.2.6.1.2.1.10.5. Pro: If we don't limit the temperature increase, the sea level could rise by over 1m by 2100 \[[NASA](https://climate.nasa.gov/effects/)\] \[[CSSR](https://science2017.globalchange.gov/)\] .
+1.1.2.6.1.2.1.10.5.1. Con: The IPCC's projections are not 1 metre. According to the IPCC reports -   "Estimates for the 20th century show that global average sea level rose at a rate of about 1.7 mm yr" - [IPCC](https://www.ipcc.ch/publications_and_data/ar4/wg1/en/faq-5-1.html)
+1.1.2.6.1.2.1.10.5.1.1. Con: Sea level rise may be accelerating. Per that same link, "Satellite observations available since the early 1990s provide more accurate sea level data with nearly global coverage. This decade-long satellite altimetry data set shows that since 1993, sea level has been rising at a rate of around 3 mm yr–1, significantly higher than the average during the previous half century'
+1.1.2.6.1.2.1.10.5.2. Pro: This would greatly affect those living by the sea both directly and indirectly \(i.e. via the increased risk and frequency of floods, clearly linked to sea level rise\).
+1.1.2.6.1.2.1.10.6. Pro: The poles melting will free a lot of water.
+1.1.2.6.1.2.1.10.6.1. Con: The extend of the damage to the volume Antarctica's ice structures seems insignificant.
+1.1.2.6.1.2.1.10.6.1.1. Con: Antartica is still a treat to our coastal cities in the long run: "The sheet has been of recent concern because of the real, if small, possibility of its collapse. If the sheet were to break down, ocean levels would rise by several metres in a relatively geologically short period of time, perhaps a matter of centuries." [en.wikipedia.org](https://en.wikipedia.org/wiki/Antarctica)
+1.1.2.6.1.2.1.10.6.1.1.1. Con: You can't fight nature, even not in the long run. Sun will collapse earth one day, not our \(humans\) fault, we have to fight the sun?
+1.1.2.6.1.2.1.10.6.1.2. Con: This study suggests an order of magnitude issue. 3 Trillion tons have melted from 1992 to 2017. 40% of this was within the last 3 years which suggests rapid acceleration.[Antarctica Ice Melt](http://fortune.com/2018/06/13/antarctica-ice-melting-rate-tripled-in-last-decade/)
+1.1.2.6.1.2.1.10.6.1.3. Con: Meanwhile, the Arctic is losing ~[280 Billion tonnes per year](http://psc.apl.uw.edu/wordpress/wp-content/uploads/schweiger/ice_volume/BPIOMASIceVolumeAnomalyCurrentV2.1.png) \(~300 km^3\), and accelerating due to [positive feedback from the greater ability of the darker exposed water to absorb heat.](https://en.wikipedia.org/wiki/Ice–albedo_feedback) How much remaining? "The year 2017 finished out with an annually averaged sea ice volume that was the lowest on record with 12,900 km^3 , below 2012 for which the annually averaged volume was 13,500 km^3"
+1.1.2.6.1.2.1.10.6.1.4. Con: It's not about saving the ice, it's about the lives, cities, time, food and money that could be lost in floods and storms. The water added to the oceans from polar ice increases this risk.
+1.1.2.6.1.2.1.10.6.2. Pro: An increase in temperature from CO2 as documented by the IPCC is projected to affect mostly high lattitude areas closer to the Arctic circle - this is because of the water vapor effect in the tropics already consuming most/all of the outgoing long-wave radiation emitted by the Earth.[regional projections IPCC](https://www.ipcc.ch/publications_and_data/ar4/wg1/en/figure-spm-6.html)
+1.1.2.6.1.2.1.10.6.2.1. Con: Even if the actual increase in temperature will be higher near the poles, people living in areas near the equator will still suffer more from the increase since the starting temperatures in these areas are higher.
+1.1.2.6.1.2.1.10.6.3. Con: Less ice caps can benefit humanity.
+1.1.2.6.1.2.1.10.6.3.1. Pro: Trade routes can become accessible.
+1.1.2.6.1.2.1.10.6.4. Pro: -> See 1.1.2.6.1.2.1.1.6.
+1.1.2.6.1.2.1.10.7. Con: "Results challenge perceptions of island loss, showing islands are dynamic features that will persist as sites for habitation over the next century, presenting alternate opportunities for adaptation that embrace the heterogeneity of island types and their dynamics."[nature.com](https://www.nature.com/articles/s41467-018-02954-1)
+1.1.2.6.1.2.1.10.8. Pro: Climate change has been leading to the melting of glaciers
+1.1.2.6.1.2.1.10.8.1. Pro: -> See 1.1.2.6.1.2.1.1.5.
+1.1.2.6.1.2.1.11. Pro: -> See 1.1.2.6.1.2.1.10.8.
+1.1.2.6.1.2.1.12. Pro: -> See 1.1.2.6.1.2.1.8.2.2.1.3.
+1.1.2.6.1.2.1.13. Pro: "As temperatures rise, mass coral bleaching events and infectious disease outbreaks are becoming more frequent. Additionally, carbon dioxide absorbed into the ocean from the atmosphere has already begun to reduce calcification rates in reef-building and reef-associated organisms by altering seawater chemistry through decreases in pH"- [NOAA](https://oceanservice.noaa.gov/facts/coralreef-climate.html)
+1.1.2.6.1.2.1.14. Con: The problems of climate change could be averted with [climate engineering](https://en.wikipedia.org/wiki/Climate_engineering).
+1.1.2.6.1.3. Con: Plants like CO2, but they don't like excessive heat \(not to mention drought or floods\). [www.researchgate.net](https://www.researchgate.net/publication/6150195_Predicting_the_impact_of_changing_CO2_on_crop_yields)
+1.1.2.6.1.3.1. Con: The globe has greened due to [CO2 fertilisation](https://en.wikipedia.org/wiki/CO2_fertilization_effect); This can be seen from satellite evidence. This is happening while extra 'heat' is being added.
+1.1.2.6.1.3.1.1. Pro: Factorial simulations with multiple global ecosystem models of three long-term satellite leaf area index show that [70%](https://www.nature.com/articles/nclimate3004) of the greening effect are attributable to CO2 fertilization.
+1.1.2.6.1.3.2. Con: Living plant species have adapted to a much warmer climate in the past; they've all successfully lived through the last 100,000 years.
+1.1.2.6.1.3.2.1. Con: The article shows empirically that Oryza sativa \(rice\), benefits somewhat from gains in CO2, but that these gains are more-than-counteracted by losses due to simultaneous increases in heat.  This plant was domesticated ~10k years ago and currently feeds ~4 billion people.   [www.researchgate.net](https://www.researchgate.net/figure/6150195_Relationship-between-percentage-of-filled-spikelets-with-10-or-more-germinated-pollen)
+1.1.2.6.1.3.2.2. Con: There is evidence to suggest that increased carbon dioxide levels will cause crops to become less nutrient dense, leading to nutrient deficiencies in humans. [www.scientificamerican.com](https://www.scientificamerican.com/article/does-global-warming-make-food-less-nutritious/)
+1.1.2.6.1.3.2.3. Con: Future harvests of wheat, soybeans and corn could drop by 22 to 49 percent, mostly due to water stress. [www.scientificamerican.com](https://www.scientificamerican.com/article/u-s-crop-harvests-could-suffer-with-climate-change/)
+1.1.2.6.1.3.3. Con: Tropical rainforests - located in the hottest areas of Earth, contain the most complex and diverse ecosystems on the planet. Global warming extends the tropics.
+1.1.2.6.1.3.3.1. Con: Climate change may not extend the tropics but instead turn the existing rainforests into dry savana. "With modelling studies projecting a warmer and drier environment for the Amazon, climate change paints a bleak future for the region – a future where both people and biodiversity stand to lose." [wwf.panda.org](http://wwf.panda.org/what_we_do/where_we_work/amazon/amazon_threats/climate_change_amazon/)
+1.1.2.6.1.3.3.2. Con: Deserts - located in the hottest areas of Earth, contain very little species diversity. Climate change threatens to extend deserts through a process called desertification. [climatica.org.uk](http://climatica.org.uk/desertification-land-degradation-changing-climate)
+1.1.2.6.1.3.4. Pro: One reason plants don't like heat or drought, \(assuming that they are not adapted to it\), is that those climatic changes can effect the life cycles of animals the plants depend on for pollination or seed dispersal.[blog.ucsusa.org](https://blog.ucsusa.org/science-blogger/timing-pollinators-and-the-impact-of-climate-change)
+1.1.2.6.1.4. Con: 1500 ppm in the atmosphere implies significant changes in [temperature](http://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf) \(see fig SPM.5\(b\)\) and [water-availability](https://www.gfdl.noaa.gov/wp-content/uploads/files/user_files/pcm/milly_et_al_2005.pdf), affecting plant-growth \(as supported in [another claim](https://www.kialo.com/humans-should-act-to-fight-climate-change-4540/4540.0=4540.1-4540.1025+4540.354+4540.772-4540.897/-4540.897)\).
+1.1.2.6.1.4.1. Pro: Assuming an Equilibrium Climate Sensitivity of 2, \(which is very conservative, since the more broadly agreed figure is 3\) 1500 ppm of CO2 implies a T of 6C above pre-industrial levels, a condition that would be [extremely disruptive to the planetary ecosystem.](https://climatenewsnetwork.net/mass-extinction-forecast-with-6c-temperature-rise/)
+1.1.2.6.1.5. Con: Increasing CO2 has adverse effects on ocean acidity and climate. Therefore the phrase "good thing" is inappropriate.
+1.1.2.6.1.5.1. Pro: -> See 1.1.2.6.1.2.1.1.3.7.2.
+1.1.2.6.2. Con: There was no wheat, rice, maize, sorghum, barley, millet, or yams, in the Carboniferous Era, and many staple crops that exist now would not prosper in a return to those conditions \(see [Bunce](https://www.researchgate.net/publication/283812688_The_Impact_of_Enhanced_Atmospheric_CO2_Concentrations_on_the_Responses_of_Maize_and_Soybean_to_Elevated_Growth_Temperatures), or [Schlenker](http://www.pnas.org/content/106/37/15594), or [Burke](https://web.stanford.edu/~mburke/climate/historical.php)\). The plants of that era took millions of years to evolve. The path toward a return to similar conditions puts [huge numbers of humans at risk](https://openknowledge.worldbank.org/bitstream/handle/10986/28723/9781464811555.pdf).
+1.1.2.6.3. Pro: For example the Carboniferous period had CO₂ levels over [1500ppm](https://fifthseasongardening.com/regulating-carbon-dioxide) - a time when the Earth was covered in plants/trees.
+1.1.2.6.3.1. Con: Levels of CO2 in the Carboniferous were about 1500ppm, and they fell to 350ppm in the late period, giving a mean level of 800ppm. Early Carboniferous temperatures were around 22C, and they fell to about 12C in the late Carboniferous. [CO2 levels](https://en.m.wikipedia.org/wiki/File:Phanerozoic_Carbon_Dioxide.png). [Temperatures](https://en.m.wikipedia.org/wiki/File:All_palaeotemps.png)
+1.1.2.6.3.2. Con: Sea levels at the beginning of the Carboniferous were 120m higher than present, falling to today's levels, then rising to 80m higher [than today](https://www.ncbi.nlm.nih.gov/pubmed/18832639).
+1.1.2.6.3.3. Con: -> See 1.1.2.6.2.
+1.1.2.6.3.4. Con: The fauna of the Carboniferous was mainly invertebrate, with giant insects, some fish, amphibians, and reptiles. No mammals. No humans.
+1.1.2.6.3.5. Con: Humans aren't concerned about climate change because we feel plants need more help - humans are concerned about our ability to live and maintain our civilization.
+1.1.2.6.3.6. Con: A small study of levels of CO2 in an office environment showed a [reduction of strategic thinking at 1000 ppm](https://newscenter.lbl.gov/2012/10/17/elevated-indoor-carbon-dioxide-impairs-decision-making-performance/).
+1.1.2.6.4. Con: -> See 1.1.2.6.3.2.
+1.1.2.6.5. Con: -> See 1.1.2.6.3.5.
+1.1.2.6.6. Pro: -> See 1.1.2.6.1.3.1.
+1.1.2.6.7. Con: Modern plants have symbiotic relationships with animals. Animals need to breath oxygen and are adapted to breathing oxygen at current levels.
+1.1.2.6.8. Con: -> See 1.1.2.6.1.2.
+1.1.3. Con: The human cause of climate change has been determined to be very likely by the IPCC \(2007\). [ipcc.ch](http://www.ipcc.ch/publications_and_data/ar4/syr/en/spms2.html)
+1.1.3.1. Pro: Scientific claims are based on evidence and meticulous study.  [The intergovernmental report on climate change](https://www.ipcc.ch/) should be considered true until you can disprove it with serious scientific evidence.
+1.1.3.1.1. Con: The IPCC reports actually explicitly state that both projecting future climate scenarios, and modelling the atmosphere / complex climate processes is almost impossible.  "The climate system is particularly challenging since it is known that components in the system are inherently chaotic" [IPCC - chaotic behaviour](https://www.ipcc.ch/ipccreports/tar/wg1/504.htm)
+1.1.3.1.1.1. Con: "Challenging" does not means "Impossible"
+1.1.3.1.2. Con: There are numerous peer reviewed studies that disagree with the Equilibrium Climate Sensitivity used by the IPCC. Eg Otto 2012, [Lewis & Curry 2014](https://link.springer.com/article/10.1007/s00382-014-2342-y).
+1.1.3.1.2.1. Con: Those papers rely on the range of uncertainty in the cooling effect of aerosols \(clouds\).  Lewis and Curry say ["Uncertainty in aerosol forcing is the dominant contribution to the ECS and TCR uncertainty ranges."](https://link.springer.com/article/10.1007/s00382-014-2342-y)  They clung to the extreme low-end of the range.  More recent work, matching climate models with observation \([Brown and Caldera 2017](https://www.nature.com/articles/nature24672)\), indicates that the low-end of the range must be revised upward by ~0.5C.
+1.1.3.1.2.2. Con: The evidence indicates that the low-end of the ECS needs to be revised upward:  "A value below 2°C for the lower end of the likely range of equilibrium climate sensitivity now seems less plausible"  \([royalsociety.org](https://royalsociety.org/~/media/policy/Publications/2017/27-11-2017-Climate-change-updates-report.pdf)\)
+1.1.4. Con: Even if it is natural, humans should act to avoid detrimental effects.
+1.1.4.1. Pro: The data clearly indicates pronounced detrimental changes in the climate since the industrial revolution
+1.1.4.1.1. Con: The data on human-caused climate change is not definitive
+1.1.4.1.1.1. Pro: Several non-IPCC researchers are publishing data that shows no sign of particular climate change with respect to past centuries \(see e.g. [non-hockey stick graphs review](http://notrickszone.com/2018/03/22/200-non-hockey-stick-graphs-published-since-2017-invalidate-claims-of-unprecedented-global-scale-warming/#sthash.T7AElZn8.dpbs)\).
+1.1.4.1.1.1.1. Con: The link is a collection of figures snipped from papers, with minimal context.  Several of the captions point out that it was warm in the Roman Warm Period, and during the so-called Medieval Warm Period.  These ideas might be attractive to denialists, but they do nothing to contradict the well-established facts regarding the modern rapid increase in global average temperature due to human activity.
+1.1.4.1.1.1.2. Con: The sources shows graph from some particular regions. Yes there is places in the world that are not warming and even cooling. That's climate change. But, this is misleading because the global trend does indicate a rapid warming.
+1.1.4.1.1.1.3. Con: Those result will simply be included in the next IPCC if they are relevant
+
+[The number of sources cited in the Fifth Assessment Report will total many thousands. This is an indication of the extensive literature base on which IPCC reports and their conclusions are built.](http://ipcc.ch/news_and_events/docs/factsheets/FS_ipcc_assess.pdf)
+1.1.4.1.1.1.4. Con: In the last 2 years we saw numerous heat records and hundreds of floods caused by heavy rains. Many of these events are unprecendented in the human history and we might see even stranger things \(see for example: [public.wmo.int](https://public.wmo.int/en/media/press-release/state-of-climate-2017-%E2%80%93-extreme-weather-and-high-impacts) or [public.wmo.int](https://public.wmo.int/en/media/press-release/state-of-climate-record-heat-and-weather-extremes)\)
+1.1.4.1.1.2. Pro: A panel \(the IPCC\) whose existence is based on the postulate that climate change is real should not be taken as the only reference point for climate change studies. Actions against climate change may be based on the wrong assumptions.
+1.1.4.1.1.3. Con: Nothing in science is exactly definitive. The point is to come to a reasonable conclusion based on current and known information.
+1.1.4.1.1.4. Con: All fields of knowledge will continue to have questions. The concept in question is not about absolute or definitive knowledge, which is never complete, but rather conclusions based on the data that is available so far. The scientific community is in consensus about certain factors of climate change, including that [recent climate change is predominantly cause by human influence.](https://en.wikipedia.org/wiki/Scientific_opinion_on_climate_change)
+1.1.4.1.2. Pro: -> See 1.1.1.7.5.1.
+1.1.4.1.3. Con: -> See 1.1.2.2.
+1.1.4.1.4. Con: A greater concentration of CO₂ is preferable for life on Earth
+1.1.4.1.4.1. Con: It is the change that is the problem. Ecosystems are a competition for resources, the dominant species are those best adapted to the current conditions. Changing the conditions doesn't simply mean existing species doing better or worse. They can be wiped out by invading species better adapted to the new conditions. These transitions can result in the extinctions. An example is the evolution and expansion of grasslands after the Oligocene climate change event [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0960982207023445#!)
+1.1.4.1.4.2. Con: -> See 1.1.2.6.1.2.1.8.2.2.1.1.1.
+1.1.4.1.4.3. Con: [A 17-year experiment](http://www.sci-tech-today.com/news/Climate-Test--Future-Not-Very-Green/story.xhtml?story_id=012000O8D32C) found that more nitrogen, not more CO₂ or heat, made plants grow healthier. Climate change is also projected to [exacerbate deficiencies](http://www.pnas.org/content/pnas/early/2017/02/14/1611576114.full.pdf) in micronutrients like zinc and selenium.
+1.1.4.1.4.4. Con: A climate with higher CO₂ will increase the threat of [Heat waves](https://www.independent.co.uk/environment/carbon-emissions-climate-change-europe-heatwave-paleogene-global-warming-a8470436.html), [Tsunamis](https://www.sciencedaily.com/releases/2018/08/180815141444.htm) and more intense [Hurricanes](https://www.scientificamerican.com/article/was-the-extreme-2017-hurricane-season-driven-by-climate-change/).
+1.1.4.1.4.5. Pro: -> See 1.1.2.6.1.2.1.8.2.2.1.
+1.1.4.1.4.6. Con: An increase in CO2 necessarily means a warmer Earth, other things being equal. It is difficult to imagine daily life in a world that is 4C warmer. [Here is a helpful 14 minute video that helps overcome that difficulty](https://www.youtube.com/watch?v=__Kt_oU9iss)
+1.1.4.1.4.7. Con: There are very sound economic studies on this issue. This includes Yale university's recent work showing that well over 90% of World GDP would suffer, while selected countries would benefit from higher GHG concentrations. Net for all the planet, it is clear that climate action is imperative. [www.nature.com](https://www.nature.com/articles/s41586-018-0071-9)
+1.1.4.1.4.8. Con: There is research to suggest that elevated CO₂ levels reduce the nutrient content of crops: [Increasing CO₂ threatens human nutrition](https://www.nature.com/articles/nature13179)
+1.1.4.1.4.9. Pro: CO₂ levels have been on average far greater for the last 600million years than present levels. [CO₂ Levels](https://www.nature.com/articles/ncomms14845/figures/4)
+1.1.4.1.4.9.1. Con: Most of the geological past of Earth , humans have not been around. Homo sapiens emerged about 305,000 years ago - around 0.008% of Earth time.
+1.1.4.1.4.9.2. Con: Past conditions are irrelevant. This discussion is about what humanity should do about our present situation with its rapidly changing greenhouse effect.
+1.1.4.1.4.9.3. Con: The abstract of the linked article contains these words "If CO2 continues to rise further into the twenty-third century, then the associated large increase in radiative forcing, and how the Earth system would respond, would likely be without geological precedent in the last half a billion years"
+1.1.4.1.4.9.4. Con: The link shows that if we continue to burn carbon, CO2 levels are projected to rise to levels that last obtained 200 million years ago.
+1.1.4.1.4.9.5. Con: Average sea levels have been 200 metres higher as well during that period at their maximum.[Past sea level](https://en.wikipedia.org/wiki/Past_sea_level#cite_note-2)
+1.1.4.1.4.9.6. Con: During this geological time-frame the Earth's climate and weather was drastically different than it is today, and almost-certainly could not support our civilization without massive human die-off.
+1.1.4.1.4.9.6.1. Pro: -> See 1.1.2.6.1.2.1.8.2.2.1.1.1.
+1.1.4.1.4.9.6.2. Pro: -> See 1.1.2.6.2.
+1.1.4.1.4.9.6.3. Pro: In the past, the [Sun was significantly weaker,](https://www.skepticalscience.com/co2-higher-in-past-intermediate.htm)so the high levels of CO2 that existed then would be very problematical for us today.
+1.1.4.1.4.10. Con: The generally agreed upon climate is the pre-anthropocene climate because it is best for humans.
+1.1.4.1.4.10.1. Con: Pre-anthropocene would imply climate before human intervention in climate - this is the climate encompassing the whole Holocene - and temperature variations within the Holocene are substantially larger than the perceived changes in temperature due to man-made CO2 increases.
+1.1.4.1.4.10.2. Pro: The pre-industrial climate has never changed as rapidly \(in such a short time frame\) as it is changing now. [Graph of T over last 10,000 yrs](http://www.everythingconnects.org/uploads/7/0/3/5/7035190/6631661_orig.jpg)
+1.1.4.1.4.10.2.1. Con: The Little Ice Age - part of this supposed 'ideal climate' led to mass starvation, disease and poverty plus huge amounts of human casualties and deaths throughout Europe.
+1.1.4.1.4.10.2.2. Con: The idea of a stable pre industrial climate period is false and based on a statistical artefact, in fact the climate is probably in a state of constant change. The period in which it is claimed human activity tipped the balance is from the 1970s. Cold war monitoring of changes in temp, led to a switch from inaccurate data to accurate data. All data undergoes homogenising, the less reliable data undergoes greater averaging and this smooths extremes.
+1.1.4.1.4.10.2.3. Pro: [This article](https://arstechnica.com/science/2012/03/ocean-acidification-could-become-worst-in-at-least-300-million-years/) includes covers times when rapid global warming has occurred in the past. They have never been as rapid as present warming, and even so, they have often been accompanied by mass extinctions.
+1.1.4.1.4.10.3. Pro: Human biology, culture, agriculture, and technology have evolved within the constraints of the pre-industrial atmospheric composition. There is no reason to believe that a different climate would be better for humans, and a large risk in experimenting with our only planet.
+1.1.4.1.4.11. Con: -> See 1.1.2.6.1.2.1.
+1.1.4.1.4.12. Pro: -> See 1.1.2.6.
+1.1.4.1.5. Con: According to the IPCC, temperatures have only increased approximately 0.85° in 130 years \([IPCC, p. 2](https://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full.pdf)\). While there has been a change, and much could be attributed to man-kind, it isnt that significant.
+1.1.4.1.5.1. Con: Since about the '50s, changes in many extreme weather and climate events have been observed. [www.ipcc.ch](https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_All_Topics.pdf) p.53
+1.1.4.1.5.1.1. Con: Advances in recording and distributing news make us more aware of extreme weather and climate events
+1.1.4.1.5.1.1.1. Pro: To fully understand the change in the climate you need to read intensive scientific paper All the proof are out there but they are complicated.
+1.1.4.1.5.2. Con: According to comprehensive climate models, surface temperature is projected to rise over the 21st century under all assessed emission scenarios. \(scenarios include a stringent mitigation scenario, two intermediate scenarios, and one with very high greenhouses gas emissions\). [www.ipcc.ch](https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_All_Topics.pdf) p.56
+1.1.4.1.5.3. Con: The same source shows the vast majority of that change happening since 1970. So at that rate the change could reach multiple degrees within a few decades, which is very significant.
+1.1.4.1.6. Pro: -> See 1.1.2.6.1.2.1.3.3.7.2.4.3.
+1.1.4.2. Con: -> See 1.1.2.
+1.1.5. Con: Natural causes of climate change would be observable so if the current warming was caused by natural events there'd be evidence supporting this.
+1.1.5.1. Pro: Solar output data shows it isn't responsible for the recent warming [nasa.gov](https://www.nasa.gov/topics/earth/features/energy-budget.html)
+1.1.6. Con: That something is natural doesn't mean we shouldn't fight, help, or push it further.
+1.1.6.1. Pro: Forest fires, cancer, deadly virus and floods all occur naturally. Most people would agree that those should be prevented or stopped if possible.
+1.1.7. Con: -> See discussion #18139: The science of human-induced climate change is largely settled.
+1.2. Con: It is not business interest to act against climate change, because it decreases profit. Human interest is business interest, because every human is interested in gaining money. Thus, it is not in the interst of humans to act against climate change. Thus, humans should not act against climate change.
+1.2.1. Con: Human interest is not solely about gaining money. Therefore human interest is not business interest.
+1.2.1.1. Pro: Humans are motivated by fame and prestige.
+1.2.1.2. Pro: Humans are motivated by reproduction.
+1.2.1.3. Pro: Soldiers are motivated to die for their country for glory and national reputation.
+1.2.2. Con: Climate change will impede economic growth. Disasters, droughts or floods will increase. Especially developing countries will be hit, bringing global growth to a stop. A homo oeconomicus would therefore try to avoid these losses.
+1.2.2.1. Con: -> See 1.1.2.6.1.2.1.3.2.1.7.3.
+1.2.3. Con: Market forces indicate humans should fight climate change.
+1.2.3.1. Pro: -> See 1.1.2.6.1.2.1.3.1.12.7.
+1.2.3.2. Con: -> See 1.1.2.6.1.2.1.3.1.12.7.2.
+1.2.3.3. Con: -> See 1.1.2.6.1.2.1.3.1.12.7.2.3.
+1.2.3.4. Pro: -> See 1.1.2.6.1.2.1.3.1.12.7.2.4.
+1.2.3.5. Con: 'Market forces' don't play in 'climate change'. GHG emissions are not priced \('exogenous'\), and many different existing regulations influence the market \(from subsidies to fossil & renewable producers, to energy network tariffs, state run/owned power firms, and international gov. agreements.
+1.2.3.6. Pro: The costs of fighting climate change are smaller than the damages it causes. [report.ipcc.ch](http://report.ipcc.ch/sr15/pdf/sr15_spm_final.pdf), [www.nature.com](https://www.nature.com/articles/s41586-018-0071-9)
+1.2.3.7. Pro: [New Climate Economy, a 2018 report shows](https://newclimateeconomy.report/2018/executive-summary/) that tackling climate change could create $26Trillion in economic benefits by 2030, create 65 million new low carbon jobs and save 750,000 premature deaths compared to business as usual.
+1.2.3.8. Pro: The 'climate change' industry has created many jobs in diverse industries \(e.g. solar, wind, automotive, etc.\).
+1.2.3.8.1. Pro: -> See 1.1.2.6.1.2.1.3.1.12.7.5.
+1.2.4. Pro: -> See 1.1.2.6.1.2.1.3.1.12.7.2.
+1.2.5. Con: "When the last stream is polluted, and the last tree is cut down, then we will understand that we cannot eat money". Money is a social construct. Human needs and business interests can sometimes conflict.
+1.2.6. Pro: Climate taxes on agriculture could lead to more food insecurity than climate change itself. [sciencedaily.com](https://www.sciencedaily.com/releases/2018/07/180730120348.htm)
+1.2.6.1. Con: Quote from the linked paper: "Climate mitigation efforts are vital. Instead, the research shows the importance of "smart," targeted policy design, particularly in agriculture. ... "The findings are important to help realize that agriculture should receive a very specific treatment when it comes to climate change policies," says Hasegawa...Mitigation in agriculture should instead be integrated with development policies."
+1.2.7. Con: -> See 1.1.2.6.1.2.1.3.1.12.7.1.
+1.2.8. Con: The mortgage-lending collapse that started in 2007 was an example of business choosing short-term gains over self-interest. Looking back on the collapse, Alan Greenspan said, ["I made a mistake in presuming that the self-interests of organisations, specifically banks and others, were such that they were best capable of protecting their own shareholders and their equity in the firms".](https://www.theguardian.com/business/2008/oct/24/economics-creditcrunch-federal-reserve-greenspan)
+1.3. Pro: -> See 1.2.3.
+1.4. Con: Global climate is a dynamic system that corrects itself when interfered with.
+1.4.1. Con: This is only true to a certain extent, it doesn't appear to have corrected itself in the past 50 years. [here's a map of temperature change across the world from 1965 to 2014](https://www.economist.com/sites/default/files/imagecache/640-width/images/2015/11/blogs/graphic-detail/20151128_wom917.png), note how it does not contain any blue that would correct the average temperature. And here's a [map showing co2 output for countries around the world](https://ourworldindata.org/grapher/cumulative-co-emissions)
+1.4.2. Con: Temperatures could remain the same or rise for centuries even when after carbon emissions would stop cold turkey
+
+[nature.com](https://www.nature.com/articles/nclimate2060)
+1.4.3. Con: Even if we consider the risk of the system not correcting itself as low, the severity of the outcome is extreme. We may not want to take that gamble.
+1.4.4. Con: This idea of a self-correcting system was prevalent in climatological circles in the 1940s, but has been superseded by scientific progress. See "Basic Ideas, Right and Wrong", here, in [Spencer Weart's Discovery of Climatology.](https://history.aip.org/climate/simple.htm)
+1.5. Con: -> See 1.1.4.1.4.
+1.6. Pro: Climate change is predicted to cause extensive human suffering. [ipcc_ar5](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi81f-yk-_YAhUHTKwKHcwsBkYQFggnMAA&url=https%3A%2F%2Fwww.ipcc.ch%2Freport%2Far5%2F&usg=AOvVaw1lJv66ooHbiskY7W_ToeuB)
+1.6.1. Con: The harnessing of energy responsible for climate change has caused unprecedented human flourishing.
+
+[www.brookings.edu](https://www.brookings.edu/research/the-unprecedented-expansion-of-the-global-middle-class-2/)
+
+Products that result in climate change provide comfort and extend human lives \(plastics, refrigerants, refined metals, etc.\)
+1.6.1.1. Con: We can continue to have these benefits by powering the tools we use from fuels that do not produce CO2.
+1.6.2. Pro: Climate change will affect food security globally. This will even affect some rich countries ability to feed their polulations.
+1.6.2.1. Pro: Countries such as the UK that rely on imports of food could face real difficulties feeding their populations in a time of both worsening global security and decreasing global food supply.[UK stats showing food import dependency](https://www.gov.uk/government/publications/food-statistics-pocketbook-2017/food-statistics-in-your-pocket-2017-global-and-uk-supply)
+1.6.2.2. Con: -> See 1.1.2.6.
+1.6.2.3. Pro: -> See 1.1.2.6.1.3.
+1.6.3. Pro: Climate change will enhance unequal distribution of wealth.
+1.6.3.1. Pro: Small farmers in Uganda see a decline of fertile land because of wheather extremes; droughts, floods, salinization of their ground. This affects their income and forces them to migrate to the city and give up their primary source of income
+1.6.4. Pro: Climate change is likely to cause political unrest and consequent violence in poor countries.
+1.6.4.1. Pro: Climate change is likely to cause famine in poor countries.
+1.6.4.1.1. Pro: Decreasing food supply in countries that already have food shortages will lead to wide spread starvation. Marginalised group may become desperate leading to unrest.
+1.6.4.1.2. Pro: Food prices in poor countries are likely to rise beyond what many can afford.
+1.6.4.1.2.1. Pro: Food production in poor countries is likely to decrease significantly.
+1.6.4.1.2.1.1. Pro: Poor countries lack the infrastructure and financial resources to quickly adapt their agricultural practices.
+1.6.4.1.2.1.2. Pro: Scientists expect climate change will make existing agricultural practices less effective.
+1.6.4.2. Pro: Climate change is likely to cause drought in poor countries.
+1.6.4.2.1. Pro: Climate change is likely to exacerbate weather-related damage to private property, infrastructure, and clean water supplies.
+1.6.4.2.1.1. Pro: Climate change is likely to cause increased flooding during storms.
+1.6.4.2.1.2. Pro: Increased flooding will increase damage to private property, infrastructure, and clean water supplies.
+1.6.4.2.2. Pro: Poor countries, having scare financial resources, will find it particularly difficult to recover from damage to their clean water supplies.
+1.6.4.3. Pro: Coastal regions may become less habitable under changing climatic conditions.
+1.6.4.3.1. Pro: The current most severe victims of the negative effects of climate change are [the poorer countries around the equator](https://www.theguardian.com/global-development/2013/sep/27/climate-change-poor-countries-ipcc). We in the more rich and able countries are obliged to do everything to prevent further hardship for these people.
+1.6.4.3.1.1. Con: Increasing the cost of energy by moving away from cheap energy sources will hurt the poor / 3rd world, whose energy bills make up a greater share of their income.
+1.6.4.3.1.1.1. Con: The price of fossil fuels will increase exponentially as it becomes harder and harder to come by, while renewable energy sources are [rapidly becoming cheaper](https://blogs.scientificamerican.com/plugged-in/the-price-of-solar-is-declining-to-unprecedented-lows/) every year. Thus, making a transition to renewable energy sources will prove to be cheaper in the long run.
+1.6.4.3.1.1.1.1. Con: If you look at fossil fuel reserves \(coal/gas/oil\) its estimated there's over 150 years left in those reserves [Fossil Fuel Reserves](https://knoema.com/infographics/smsfgud/bp-world-reserves-of-fossil-fuels), and thats just proven reserves. The same was said about Oil in the 1960's and 'Peak Oil' \(check out Hubbert's curve\).
+1.6.4.3.1.1.2. Con: Where power grids are not existing decentralized green energy sources provide better electrification to remote areas.
+1.6.4.3.1.1.2.1. Con: By far the most prevalent non-grid energy source is diesel / petroleum. Unfortunately solar will not power your generator at night time. a diesel generator is a fraction of the cost of a solar panel and can be operated 24/7 regardless of wind, rain or weather or sunshine.
+1.6.4.3.1.1.2.2. Pro: The EnDev project in Ghana contain a scheme to offer solar irrigation systems in rural communities that couldn't connect to the power grid \([Ruralec, p. 10](https://ruralelec.org/sites/default/files/productive_use_of_energy_final_web_0.pdf)\).
+1.6.4.3.1.1.2.3. Pro: [Energie Douce](http://www.energiedouce.com) is a company specialized in providing solar panels to off-the-grid communities.
+1.6.4.3.1.1.2.4. Pro: To power mills with conventional fuel a community needs tansportation routes. This makes supply uncertain.
+1.6.4.3.1.1.3. Pro: This is why Coal and Gas and Wood are the primary fuel sources for energy creation in China, India, S/E Asia.
+1.6.4.3.1.2. Con: China, Russia and India make up the lions share of the CO2 emissions - these are not 'Rich' countries.
+1.6.4.3.1.2.1. Pro: China isn't a "rich" country by any means, per capita. Yet it is the biggest polluter.
+1.6.4.3.1.3. Con: -> See 1.1.2.6.1.2.1.10.6.2.
+1.6.4.3.2. Con: Climate Change does not directly cause places to become less habitable. It completely depends on the location and change in temperature/rainfall/weather.
+1.6.5. Pro: -> See 1.1.2.2.2.
+1.6.6. Pro: Climate change will negatively affects human health
+1.6.6.1. Pro: Climate change affects [factors](http://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health) that are necessary for a healthy life by reducing air quality and the availability of clean drinking water.
+1.6.6.2. Pro: A warmer climate positively contributes to the spread of infectious diseases.
+1.6.6.2.1. Pro: Warmer climate allows for longer transmission seasons of important vector-borne diseases.
+1.6.6.2.2. Pro: Warmer climate allows for a [wider](https://climatenexus.org/climate-issues/health/climate-change-and-vector-borne-diseases/) spread of vector-borne diseases.
+1.6.6.3. Pro: The WHO expects [250 000 additional deaths](http://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health) per year between 2030 and 2050.
+1.6.6.4. Pro: There is high confidence among scientists that: in the short term, already existing health problems will be exacerbated; in the long term, it is expected to occur an increase in ill-health in many regions \(especially in developing countries with low income, as compared to a baseline without climate change\). [www.ipcc.ch](https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_All_Topics.pdf) p.69
+1.6.6.5. Con: There is scant evidence of humans suffering to any noticeable degree due to climate change - the idea of exacerbated health problems is only present in computer models and simulations about the future.
+1.6.6.5.1. Con: Already we can identify [increasing incidence of diarrhoea, heat stress and malnutrition in relation to temperature](https://unfccc.int/news/climate-change-impacts-human-health)
+1.6.6.6. Con: Income and wealth are the main drivers to human health, not climate. Moreover, all IPCC scenarios rely on GDP growth hypotheses
+1.6.6.6.1. Pro: -> See 1.1.2.6.1.2.1.3.2.1.7.4.
+1.6.7. Con: The IPCC only predicts negativity in the future. Over $1 trillion dollars has already been spent 'fighting climate change' globally in the last 4 years. Yet there is extensive human suffering NOW that could be helped if that money was directed towards more substantative humanitarian causes.
+1.6.7.1. Con: The number of people facing hunger is drastically reducing making hunger a problem that is soon solved automatically.
+1.6.7.1.1. Pro: Undernourishment has constantly declined since [1991](https://ourworldindata.org/hunger-and-undernourishment).
+1.6.7.1.2. Pro: Underdeveloped countries are [catching up](https://ourworldindata.org/hunger-and-undernourishment) with the developed world in terms of the number of people facing undernourishment.
+1.6.7.1.3. Pro: [Famine deaths](https://ourworldindata.org/famines) reduce drastically over time.
+1.6.7.1.4. Pro: [Yields](https://ourworldindata.org/yields-and-land-use-in-agriculture) are exponentially growing.
+1.6.7.2. Con: To prevent the negative effects of climate change in the future, 82% of current fossil fuels must be left underground[\[Guardian 8.01.2015\]](https://www.theguardian.com/sustainable-business/2015/jan/08/new-study-urges-leaving-fossil-fuels-in-the-ground-whats-the-impact-for-business). The spending of millions per year to find new reserves is a waste of capital. We should therefore divert this capital towards other humanitarian causes, and leave climate change spending intact.
+1.6.7.3. Con: Many humanitarian organizations solve human suffering temporarily and not permanently. Politics can do better than just providing money in temporarily alleviating human suffering.
+1.7. Pro: As a result of climate change national and international migration could rise.
+1.7.1. Pro: Climate change is likely to increase migratory fluxes from poorer countries, often more exposed to the impacts of climate change and less capable of dealing witth it, like the [Time](http://time.com/4024210/climate-change-migrants/) shows might already be happening between Africa and Europe.
+1.7.1.1. Pro: For this reason, organisations like the [Climate and Migration Coalition](http://climatemigration.org.uk) are already working to improve migration policies as a way to better adapt to climate change.
+1.7.1.2. Con: This claim about the war in Syria is unsubstantiated, see for example [this publication](https://lup.lub.lu.se/search/publication/cf330065-4901-4a41-b97c-9c2b9664b467) or [this comment](https://phys.org/news/2017-07-syria-climate-war-links-drought.html).
+1.7.2. Pro: Climate change has already caused refugee crises. [A severe drought](https://news.nationalgeographic.com/news/2015/03/150302-syria-war-climate-change-drought/) that was at least exacerbated by climate change pushed Syrian farmers into the cities prior to the current civil war.
+1.7.2.1. Con: A severe drought possibly exacerbated by a change in climate doesn't equate to a refugee crisis caused by climate change. The refugee crisis in Syria is primarily caused by politics and war.
+1.7.2.1.1. Pro: Migratory movements are often the case due to Civil War and other political instability, such as in South Sudan or Syria.
+1.7.2.1.2. Con: A severe drought possibly exacerbated by climate change can possibly end up in a migration process, as people are forced to leave their homes because they are facing threat of death. According to the New York declaration "Some people who are displaced in the context of climate change and disasters may fall within the refugee definition". The international community is trying to address the issue. [www.unhcr.org](http://www.unhcr.org/protection/environment/5a12f9577/climate-change-disaster-displacement-global-compacts-unhcrs-perspectives.html)
+1.7.2.2. Con: The Syrian conflic can only be traced back to the last 15 odd years, which would see a tiny 0.15 approximate increase or change in temp, its not possible to draw conclusions that the drought is caused or exacerbated by climate change based on this.
+1.7.2.2.1. Con: In any given 15 year period the climate doesn't change substantially. One has to take the long term developments into effect.
+1.7.2.3. Con: William Briggs, one of the forefathers of modern statistics \(ie. he writes university statistics subject text books \) -has written extensively about how absurd it is to link climate change to refugee influxes[Briggs on Refugee And Climate Change](http://wmbriggs.com/post/23581/)
+1.7.2.4. Con: -> See 1.7.1.2.
+1.7.3. Con: There aren't any strong cases for claiming refugee crisis is simply due to climate change.
+1.7.3.1. Con: This is a Straw Man fallacy. No one claims that climate change is the *sole* driver of migration.
+1.7.3.2. Pro: -> See 1.7.2.1.1.
+1.7.3.3. Con: Increasing global food prices caused by climate change were an important factor in the Arab Spring, and the Syrian Civil War.
+1.7.3.3.1. Con: The Syrian civil war mainly resulted out of power competition between different domestic and foreign groups.
+1.7.3.3.1.1. Con: But climate change contributed to an [11-year drought which drove farmers into towns, exacerbating social tensions](https://www.kialo.com/argument/4540.301)
+1.7.3.3.2. Pro: ["A proximate factor behind the unrest \[triggering the Arab Spring\] was a spike in global food prices, which in turn was due in part to the extreme global weather in 2010–2011."](https://cdn.americanprogress.org/wp-content/uploads/2013/02/ClimateChangeArabSpring.pdf)
+1.7.3.3.3. Pro: ["water shortages in the Fertile Crescent in Syria, Iraq, and Turkey killed livestock, drove up food prices, sickened children, and forced 1.5 million rural residents to the outskirts of Syria's jam-packed cities—just as that country was exploding with immigrants from the Iraq war."](https://news.nationalgeographic.com/news/2015/03/150302-syria-war-climate-change-drought/)
+1.7.4. Pro: [The Pentagon](https://www.theguardian.com/environment/2014/oct/13/pentagon-global-warming-will-change-how-us-military-trains-and-goes-to-war) has already incorporated climate change into their war games since they believe it will worsen old conflicts and possibly provoke new ones.
+1.7.4.1. Con: [Trump](https://www.politico.com/story/2018/07/22/pentagon-trump-impulsive-decrees-defense-701532) is changing the Pentagon's policy.
+1.7.4.1.1. Con: The Pentagon is [still concerned about CC](https://www.militarytimes.com/news/your-military/2017/09/12/pentagon-is-still-preparing-for-global-warming-even-though-trump-said-to-stop/), in spite of Trump.
+1.7.5. Pro: -> See 1.6.4.
+1.7.6. Pro: There is migratory pressure because inhabitable land reduces.
+1.7.6.1. Pro: -> See 1.1.2.6.1.2.1.10.
+1.7.6.2. Pro: If humans fail to mitigate the worst effects of climate change, significant areas of the earth may be rendered [uninhabitable](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) by humans.
+1.7.6.3. Pro: -> See 1.6.4.3.
+1.8. Pro: Climate change is putting increasing pressure on political governance and if not acted upon soon this could lead to growing strains on international peace organisations \(eg. NATO, WHO, EU etc\).
+1.8.1. Pro: -> See 1.7.3.3.
+1.8.2. Pro: -> See 1.6.4.
+1.9. Con: Our attempts to purposefully alter our climate may backfire. Any drastic measures taken in such a high stakes game may have dire consequences.
+1.9.1. Con: It is unlikely that we will have any "drastic" effects on the greenhouse effect in the short term. We can hope to arrest the current increase in GHGs, which will mainly be of benefit to succeeding generations of humans.
+1.10. Pro: -> See 1.1.2.6.1.2.1.3.2.1.
+1.11. Pro: Fighting climate change is a moral obligation, as those who will suffer are those who are unable to prevent it.
+1.11.1. Pro: -> See 1.1.4.1.4.7.
+1.11.2. Pro: Future generations will suffer due to the current degradation of the environment.
+1.11.2.1. Con: Future generations will suffer from the huge capital loss wasted on fighting global warming today.
+1.11.2.1.1. Con: -> See 1.1.2.6.1.2.1.3.2.1.7.3.
+1.11.2.2. Pro: Future generations will have [less biodiverse](https://www.theguardian.com/environment/2018/mar/23/destruction-of-nature-as-dangerous-as-climate-change-scientists-warn) in their Earth than we have currently.
+1.11.2.3. Pro: Climate change is [negatively affecting](https://www.takingcharge.csh.umn.edu/enhance-your-wellbeing/environment/our-global-environment/why-global-environmental-health-important) people's health.
+1.11.2.4. Pro: The Earth is being damaged at a rate [faster than we](https://news.vice.com/article/humans-are-destroying-the-environment-at-a-rate-unprecedented-in-over-10000-years) can attempt to rectify it.
+1.11.2.5. Pro: People will become displaced as [rising waters](http://www.theworldcounts.com/stories/Impact-of-Ecosystem-Destruction) destroy previously habitable land.
+1.11.2.6. Pro: [Food shortages](http://www.theworldcounts.com/stories/Impact-of-Ecosystem-Destruction) will become more prevalent.
+1.11.3. Pro: As humans, we have the unique ability to act upon probable future events as well as a sense of right and wrong. This gives us the responsibility to protect other species of lesser intellect by acting in a way that does not cause probable extinction of them
+1.11.3.1. Pro: In addition, the existence of many wild species is vital for the survival of the human species, or might become vital in the future for reasons that we yet do not understand.
+1.11.4. Pro: -> See 1.6.4.3.1.
+1.11.5. Con: The moral obligation to fight climate change is trumped by the right to development in developing countries.
+1.11.5.1. Con: If the right of development  is incompatible with fighting climate change, it should not be a right.
+1.11.5.1.1. Pro: Helping developing countries to be sustainable, as well as restructuring developed countries to be sustainable, is more important than development itself.
+1.11.5.2. Pro: It is immoral to expect developing nations to adhere to a lesser standard of life because of the faults of developed nations.
+1.11.5.2.1. Pro: It is false to assume that one emergency \(climate change\) must be taken over another \(imminent hunger and poverty\) when survival requires both.
+1.11.5.3. Con: The resulting obligation is for developed nations to assist developing nations to develop in a sustainable manner, not to ignore the issue.
+1.11.5.4. Con: If we assist developing nations to develop fossil fuel-based economies, we are setting them up for failure, as climate change makes this path unsustainable.
+1.11.5.5. Con: Developing countries will be severely damaged if projected anthropogenic climate change continues, the changes might  "adversely affect agricultural production, access to safe water, and worker productivity". See this [study](https://www.sciencedirect.com/science/article/pii/S2214999615012242#!) for reference.
+1.12. Pro: -> See 1.1.2.6.1.2.1.
+1.13. Con: -> See 1.1.2.6.1.2.1.3.1.
+1.14. Con: The money necessary to fight climate change can be used to better ends.
+1.14.1. Con: -> See 1.1.2.6.1.2.1.3.3.2.
+1.14.2. Con: Changing our energy system away from fossil fuel will save money and be good for economy. [en.wikipedia.org](https://en.wikipedia.org/wiki/Cost_of_electricity_by_source)
+1.14.3. Con: Fighting climate change could [create](https://www.huffingtonpost.co.uk/entry/runaway-climate-change-2030-report_us_5b8ecba3e4b0162f4727a09f) 65 million new jobs globally.
+1.14.4. Con: In many cases, the values that sustainable development and climate change adaptability prioritize are in broad alignment with efforts to improve quality of life. Money used to fight climate change is also money used to improve health and wellness \(both mental and physical\), happiness, even economic health. See Charles Montgomery's [Happy City](https://thehappycity.com/the-book/) for more.
+1.14.5. Con: The insurance industry is taking climate change seriously
+1.14.6. Con: -> See 1.2.3.6.
+1.14.7. Pro: -> See 1.1.2.6.1.2.1.3.3.
+1.14.8. Pro: -> See 1.1.2.6.1.2.1.3.
+1.14.9. Pro: There are far more pressing issues to sort out for Humanity at present such as Energy and Water shortage, Wars, Famine, Poverty, Inequality, Disease, Nuclear Threat, potential Meteor strikes, potentially fatal volcanic eruptions, tsunami's and hurricanes.
+1.14.9.1. Con: -> See 1.6.
+1.14.9.2. Con: -> See 1.7.
+1.14.9.3. Con: -> See 1.1.2.6.1.2.1.
+1.14.9.4. Con: -> See 1.8.
+1.14.9.5. Con: With the exception of meteor strikes, tsunamis and volcanoes, all the other problems listed above will come about if we continue to increase Earth's GHE.
+1.14.9.6. Con: Lots of the problems mentioned are directly or indirectly linked to climate change. Consequences or causes of those issues can be intensified or boosted due to climate change. Have a look here for example: [www.unhcr.org](http://www.unhcr.org/climate-change-and-disasters.html)
+1.14.9.6.1. Pro: USAID speaks of environmental peace building to smoothen the effects of environmental change on conflict \([USAID, p. xii](https://www.usaid.gov/sites/default/files/documents/1866/ClimateChangeConflictAnnex_2015%2002%2025%2C%20Final%20with%20date%20for%20Web.pdf)\).
+1.14.9.6.1.1. Con: Many poor countries have poor fossil fuel resources and high levels of solar energy. Therefore development of solar energy will help countries to meet their energy needs.
+1.14.9.6.2. Con: In the short and medium term, melted glaciers increase water supplies in the areas they are located in.
+1.14.9.6.2.1. Con: -> See 1.1.2.6.1.2.1.1.5.
+1.14.9.6.2.2. Con: According to [nsidc.org](https://nsidc.org/cryosphere/glaciers/questions/located.html"Most) "most of the world's glacial ice is found in Antarctica and Greenland". These areas are inaccessible for freshwater harvest and the fresh water from these glaciers will simply go into the ocean.
+1.14.9.6.2.3. Pro: -> See 1.1.2.6.1.2.1.10.8.
+1.14.9.6.3. Pro: For any chronic issue, it is usually more efficient to deal once for all against the cause of the issue, rather than deal forever with the consequences.
+1.14.9.6.3.1. Con: It is quite wrong to say that climate change is the "cause" of all the listed issues. It may \(or may not\) make them worst, but all those issues existed well before "climate change".
+1.14.9.6.4. Con: Access to energy  has proven to be a good way to tackle many of the listed problems \(poverty, famine, disease, etc.\). And that energy was and still is mainly fossil fuels.
+1.14.9.7. Con: Meteor strikes, volcanic eruptions and tsunamis are beyond human control, so the fact that these risks exist should not prevent us from dealing with the issues that are within our control. Anthropogenic Climate change is within human control.
+1.14.9.7.1. Con: Meteor strikes can be prevented by destroying the meteorite. Volcanic eruptions can be prepared for, so can tsunamis.
+1.14.9.7.1.1. Pro: Meteroites can be deflected.
+1.14.9.7.1.1.1. Pro: [Gravity tractors](https://www.youtube.com/watch?v=hGuMPj5bajA&t=7s&list=PL_qffRVV3oS1hjplHZvsF08bFI0tMftOD&index=6) influence the path of the meteroite.
+1.14.9.7.1.1.2. Pro: [Laser ablation](https://www.youtube.com/watch?v=hGuMPj5bajA&t=7s&list=PL_qffRVV3oS1hjplHZvsF08bFI0tMftOD&index=6) can alter the direction of a meteroite.
+1.14.9.7.1.1.3. Pro: [Kinetic impactors](https://www.youtube.com/watch?v=hGuMPj5bajA&t=7s&list=PL_qffRVV3oS1hjplHZvsF08bFI0tMftOD&index=6), such as a rocket, can destroy or alter the path of a meteroite on collission course.
+1.14.9.7.1.2. Pro: [Tsunami warning systems](https://en.wikipedia.org/wiki/Tsunami_warning_system) are in place around the world.
+1.14.9.8. Con: There is no reason that dealing with issues such as war, famine, poverty, inequality and nuclear threat is mutually exclusive with addressing climate change.
+1.14.9.8.1. Con: Of course they are mutually exclusive - humanity only has so many resources and funds to fight battles to survive.
+1.14.9.8.2. Pro: Having limited resources does not mean you can only deal with one issue at a time.
+1.14.9.9. Con: With renewable energy achieving grid parity with fossil fuels [\[1\]](https://qz.com/871907/2016-was-the-year-solar-panels-finally-became-cheaper-than-fossil-fuels-just-wait-for-2017/) addressing energy shortages will no longer be mutually exclusive with addressing climate change.
+1.14.9.10. Con: "No known asteroid poses a significant risk of impact with Earth over the next 100 years" - NASA \([nasa.gov](https://www.nasa.gov/planetarydefense/faq)\)
+1.14.10. Con: Climate change is an existential threat to human civilization, and perhaps even human life on this planet.  Because of this, there is no higher priority to spend our money on \(except, perhaps, other existential threats\).
+1.14.10.1. Con: -> See 1.14.9.
+1.15. Pro: Scientists advocate to fight climate change.
+1.15.1. Con: Many respected scientists have come out saying they don't believe that humans are the cause of climate change
+1.15.1.1. Con: The vast majority of the community of climatology scientists agree that humans cause the recent climate change.
+1.15.1.1.1. Pro: Here is [yet more evidence of the strength of scientific consensus around man-made global warming](https://skepticalscience.com/global-warming-scientific-consensus-intermediate.htm) about man-made climate change. There are seven studies, using different methods, showing majorities of 91-100% agreeing that warming is influenced by humans. Also, agreement is stronger in scientists who have more publications in the field.
+1.15.1.1.2. Pro: According to [Cook et al. \(2013\)](http://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024), 97% of peer-reviewed climatological papers taking a position on the matter endorsed the position that humans contribute to global warming.
+1.15.1.1.2.1. Con: Other studies disagree with the 97% claim. See the below study from the American Meterological Society. [AMS Study Climate Change](https://gmuchss.az1.qualtrics.com/CP/File.php?F=F_cRR9lW0HjZaiVV3)
+1.15.1.1.2.1.1. Con: The survey concludes that "a large majority of AMS members agree with the consensus". More specifically, 81% believed that humans were causing somewhere between 100% to 50% of the warming seen over the last 50 years. Only 6% think it is caused largely or entirely by natural events.
+1.15.1.1.2.1.2. Con: Furthermore, the scientific papers coming from the dissenting ~3% are [all flawed](https://qz.com/1069298/the-3-of-scientific-papers-that-deny-climate-change-are-all-flawed/).
+1.15.1.1.2.2. Pro: -> See 1.15.1.1.2.1.2.
+1.15.1.1.3. Con: There is a chance that outsiders are correct.
+1.15.1.1.3.1. Con: -> See 1.15.1.1.2.1.2.
+1.15.1.1.3.2. Con: Anything in life is possible, but the accumulation of overwhelming evidence should outweigh reasonable dissent in this area.
+1.15.1.1.3.3. Con: The hypothesis of the "outsiders" - that we can alter Earth's energy budget without suffering any adverse consequences - is false. [kialo.com](https://www.kialo.com/the-science-of-human-induced-climate-change-is-largely-settled-18139/18139.0=18139.1+18139.34)
+1.15.1.1.4. Pro: Naomi Oreskes found [no rejection of AGW in a survey of 928 papers](http://science.sciencemag.org/content/306/5702/1686.full) on climate change.
+1.15.1.1.5. Pro: [Doran and Zimmerman](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2009EO030002) 2009 showed that the level of agreement that human activity was significant in raising mean global temperatures rose with the level of expertise, from about 57% in the general population to 97.4% in the case of scientists who published frequently in peer-reviewed climate journals.
+1.15.1.1.6. Pro: [Anderegg et al 2010](http://www.pnas.org/content/early/2010/06/04/1003187107) show that support for AGW is highest among climatologists with the greatest expertise
+1.15.1.1.7. Con: None of the studies linked here are about recent climate change being caused by humans- they are all just about consensus studies proving "humans cause climate change"a very subtle but big difference - it could be 1%, 5% or 100% of recent climate change if it is not quantified.
+1.15.1.1.7.1. Con: [Bray and von Storch](https://ourchangingclimate.wordpress.com/2016/06/22/new-survey-of-climate-scientists-by-bray-and-von-storch-confirms-broad-consensus-on-human-causation/amp/?__twitter_impression=true) find that 87% of climatologists accept that most of the recent/near future warming is man-made. The consensus they find is on a growing trend.
+1.15.1.1.8. Pro: The proportion of heating caused by human activity \(as opposed to natural forcing from solar variation\) is [about 93%](http://www.ipcc.ch/publications_and_data/ar4/syr/en/figure-2-4.html)
+1.15.1.1.8.1. Pro: That number was from 2007. Those numbers now appear to have overestimated the cooling effect of aerosols. In addition, we've dumped sigfnificant additional CO2. As a result, humans are now held to be responsible for [about 98%](http://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full_wcover.pdf) of the heating of the climate \(Sec 1.2.1., p44\)
+1.15.1.1.9. Pro: -> See 1.15.1.1.7.1.
+1.15.1.2. Pro: [Notable scientists](https://en.wikipedia.org/wiki/List_of_scientists_opposing_the_mainstream_scientific_assessment_of_global_warming) that do not agree in man-made climate change.
+1.15.1.2.1. Con: Few scientists on this WP list are climatologists.
+1.15.1.2.2. Con: Many on this list are questioning the accuracy of IPCC climate projections and "They may not conclude specifically that the current IPCC projections are either too high or too low, but that the projections are likely to be inaccurate due to inadequacies of current global climate modeling." So this is no source of comfort, if the projections may be too low.
+1.15.1.2.2.1. Con: none of the listed scientists are verified to have the belief the climate modelling underestimates warming. Spot checking most of the scientists in this list \(Lindzen, Curry, Moore, Stot, Dyson\) its obvious the list is really scientists who believe climate modelling by IPCC overestimates warming.
+1.15.1.2.3. Con: Many of the scientists on this list "... have said that no principal cause can be ascribed to the observed rising temperatures, whether man-made or natural." This is very different to actually refuting man-made climate change.
+1.15.2. Pro: Scientists who are experts on the matter should be trusted until proved otherwise by equal experts on the matter.
+1.15.2.1. Con: Scientists often lack the understanding of political constraints.
+1.15.2.1.1. Con: Political constraints should not be taken into account when humanities future is at stake.
+1.15.2.2. Pro: Experts have spend most of their careers dealing with the subject. Non-experts do not have an equally deep understanding.
+1.15.2.2.1. Con: -> See 1.1.2.2.1.1.
+1.15.2.3. Con: Experts do socialize in similar circles. This can blur their perceptions of each other.
+1.15.2.3.1. Con: Independent scientific experiments should ultimately clarify any such blurred perceptions.
+1.15.2.3.2. Pro: They might be friends and fear about their collegue's career.
+1.15.2.3.3. Pro: Scientific practice in an academic environment creates political influence and incentives.
+1.15.2.3.3.1. Pro: Dissemination in science \(e.g., peer-review publication\) is a socially mediated process that is influenced by the current political climate.
+1.15.2.3.3.1.1. Con: Scientists however make their names from paradigm-disrupting results. To the extent a political, or any other bias, shapes research towards preconceived results there is any equally powerful incentive to prove those results incorrect.
+1.15.2.3.3.2. Pro: Many areas of science depend on financial or other resources to make progress, and these resources are often controlled by political processes.
+1.15.2.3.3.3. Pro: Participants in science are often rewarded for not compromising or even synthesizing
+1.15.2.3.3.4. Pro: Communications among scientists are often directed to and evaluated by relatively homogeneous in-groups
+1.15.2.3.3.5. Con: Social scientists often actively police themselves to project a neutral stance to human participants. They do this for the comfort of their participants, but also to create a context where participants will feel free to honestly share their own perspectives.
+1.15.2.3.3.5.1. Con: It may not be possible to project a completely neutral stance. It may not even be clear what that would be.
+1.15.2.3.3.5.2. Pro: The blind peer-review process makes sure that the focus of evaluation rests on the content rather than the author.
+1.15.2.4. Con: Social pressure and research funding incentives has made it difficult for climate scientists to speak out against strong claims about human-caused climate change
+1.15.2.4.1. Con: A scientist must report his results accurately if he wants to keep his job, no matter what the social pressure is.
+1.15.2.4.2. Con: Scientifics have been warning society about climate change since over 25 years while facing strong anti-climate change pressure.
+1.15.2.4.3. Pro: -> See 1.15.2.3.3.
+1.15.2.4.4. Con: Scientists generally try to study what goes against social consensus as this helps their reputation as groundbreaking scholar.
+1.15.2.4.4.1. Con: Not all scientific research is groundbreaking, in fact 99% of it is just furthering existing knowledge - and such is the case with the climate science community.
+1.15.2.4.5. Pro: Judith Curry, a widely acclaimed climate scientist has been vilified and threatened personally  simply because of her skeptical views.  As a result she decided to end her career in climate science [Curry resigns: Integrity Vs. Career Suicide](http://joannenova.com.au/2017/01/judith-curry-resigns-battle-of-scientific-integrity-versus-career-suicide/)
+1.15.2.4.5.1. Con: Judith Curry was arguing that climate scientist should be more open to skeptical view. She wasn't skeptical herself other than she claimed the prediction on climate was more uncertain that the IPCC would let know. There is no evidence of her being vilified and threatened.
+1.15.2.4.6. Con: the vocal scientists that lean one way or another are a minority of scientists. Generally scientists do not "speak out" about much. they just gather data, do their research, and submit papers.
+1.15.2.4.7. Con: The market capitalization of the fossil fuel industry is around [$5 trillion](https://about.bnef.com/blog/fossil-fuel-divestment-5-trillion-challenge/) , and climate change puts this value at risk; There should be plenty of funding for scientists who can disprove climate change and preserve this value.
+1.15.2.4.8. Con: With the current state of journalism, if a scientist were to find concrete evidence against climate change, the media would quickly publicize it for the sheer spectacle.
+1.15.2.4.9. Pro: Scientists are vulnerable to groupthink and dissenting scientists have been vilified.
+1.15.2.4.9.1. Pro: [Ignaz Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis) was trying to introduce the obligation to sterelize hands for doctors but, even though his findings prooved him correct, the scientific community rejected him and his findings.
+1.15.2.4.9.1.1. Con: The medical community that the great Semmelweis was opposing was not scientific in any modern sense, but we're just defending the professional status quo, much as the contrarian movement is defending our addiction to carbon.
+1.15.2.4.9.2. Con: It is a myth that dissenting scientists have been vilified, or even that that are dissenting opinions. In 2004, Naomi Oreskes performed a survey of all peer reviewed abstracts on the subject "global climate change" published between 1993 and 2003. The survey failed to find a single paper that rejected the consensus position that global warming over the past 50 years is predominantly anthropogenic.[science.sciencemag.org](http://science.sciencemag.org/content/306/5702/1686.full)
+1.15.2.4.9.3. Pro: There is much evidence suggesting group think, poor scientific practice and unsubstantiated scientific conclusions about the Earth's future climate regime and its impacts. If someone questions Climate Science these days they are subjected to all sorts of negativity or name calling.
+1.15.2.4.9.3.1. Con: The scientific consensus on future climate includes ranges of estimates that account for uncertainties in theory and data.  Alternative hypotheses that don't fit the facts don't deserve equal standing.  It's irresponsible to blame this on "group think" or lack of integrity in the scientific community.
+1.15.2.4.9.3.1.1. Con: Scientific consensus once agreed in the steady state theory that plates of the earth didn't move and that there is an invisible substance that filled space so that light could travel. All now proven false.
+1.15.2.4.9.3.2. Pro: For some further reading about this, check Donna Laframboise's work called "The Delinquent Teenager Who Was Mistaken For The World's Top Climate Expert" which as Richard tol says "[shines a hard light on the rotten heart of the IPCC](https://www.goodreads.com/book/show/12908271-the-delinquent-teenager-who-was-mistaken-for-the-world-s-top-climate-exp)".
+1.15.2.4.9.3.3. Pro: Rajendra Pachauri, the former IPCC Chairman, has repeatedly made false claims about climate change. These false claims have never truly been reversed or corrected.    [Rajendra And Greenpeace](https://www.amazon.com/Into-Dustbin-Rajendra-Pachauri-Climate/dp/1492292400)  [Delinquent Teenager Book](https://www.amazon.com.au/Delinquent-Teenager-Mistaken-Worlds-Climate-ebook/dp/B005UEVB8Q)
+1.15.2.4.9.3.3.1. Con: The IPCC has 3 working groups. That each have different standards for peer reviewed source material [reviewipcc.interacademycouncil.net](http://reviewipcc.interacademycouncil.net/report/Chapter%202%20-%20Evaluation%20of%20IPCC%E2%80%99s%20Assessment%20Processes.pdf). Working group 1, the scientific basis, requires most source material to be peer reviewed. 
+Working group 2, where the Himalayan claim was made, does have a policy that allows some non-peer reviewed source material. 
+So without citation it is unclear how Rajendra Pachauri lied about this as it's a widely known policy.
+1.15.2.4.9.3.3.2. Con: The error was highlighted by [Graham Cogley](http://news.bbc.co.uk/2/hi/8387737.stm) who is a contributor to the IPCC report.  We can be confident in the conclusions of the report because of the self-correcting nature of science.
+1.15.2.4.9.3.3.3. Pro: Many scientists have resigned from the IPCC after their research was misrepresented to have a certainty that they never intended to suggest
+1.15.2.4.9.3.3.3.1. Con: The IPCC report  involved "Experts from more than 80 countries ... More than 830 lead authors ... 1000 contributors. About 2,000 expert reviewers." [ucsusa.org](https://www.ucsusa.org/global-warming/science-and-impacts/science/ipcc-backgrounder.html#.Wv13NojRAuU) Criticism of the report is inevitable, given it's importance, and there are 1000s of scientists who support the IPCC conclusions.
+1.15.2.4.9.3.3.3.2. Con: This claim is completely unsupported and isn't consistent with the how scientists contribute to the IPCC on a volunteer basis.
+1.15.2.4.9.3.3.3.2.1. Con: A person can [resign](http://www.habitat21.co.uk/energy151.html) from a voluntary position.
+1.15.2.4.9.3.3.4. Pro: An example of Rajendra's false claims about the whole of the IPCC work being 'peer reviewed' can be found here -\> [Rajendra Interview](http://www.rediff.com/news/2007/jun/05inter.htm)
+1.15.2.4.9.3.3.5. Pro: [Rajendra](http://business.financialpost.com/opinion/book-excerpt-conspiracy-of-silence) also falsely claims IPCC lead authors and all the contributors are 'top of the field' yet this cannot be further from the truth for a big section of them.
+1.15.2.4.9.3.3.6. Pro: Rajendra Pachauri has repeatedly made false claims about both the peer reviewed nature of the IPCC's source material.
+1.15.2.4.9.3.3.7. Pro: Rajendra Pachari has pushed climate alarmist notions such as Himalayan glaciers melting by 2035.
+1.15.2.4.9.3.3.7.1. Con: The Himalayan glaciers melting by 2035 is believed to be a typo [news.bbc.co.uk](http://news.bbc.co.uk/2/hi/8387737.stm) not a fundamental flaw in the science.
+1.15.2.4.9.3.3.7.2. Con: The IPCC revised its prediction of the melting of the [Himalayan glaciers](https://www.nature.com/news/2010/100202/full/463596a.html) after criticism.
+1.15.2.4.9.3.3.7.2.1. Con: Irrefutable evidence will be accommodated by the IPCC. All new evidence will therefore be absorbed but the organisation cannot challenge the theory of AGW as its remit is to explain it, not refute it.
+1.15.2.4.9.3.3.7.2.1.1. Pro: Scientific disciplines will form a '[protective belt](http://people.loyno.edu/~folse/Lakatos.html)' by incorporating unfitting knwoledge without altering the core assumptions.
+1.15.2.4.9.3.4. Con: One or two examples do not discredit the whole scientific community.
+1.15.2.4.9.3.4.1. Con: The climate science community does not create the IPCC reports. The IPCC reports are created by a handful of 'lead authors' who take contributions and decide the narrative and make a call on what should be in the report and what should not.
+1.15.2.4.9.4. Con: Scientist are the least likely group of society to be affected by group thinking as they have high incentive to report accurate result.
+1.15.2.4.9.5. Con: Scientists who bring serious evidence that proves others wrong will likely become famous.
+1.15.2.4.9.5.1. Con: -> See 1.15.2.4.9.1.
+1.15.2.4.9.5.2. Con: Future climate projections cannot be proven 'false' because they're in the future. Therefore the projections are not falsifiable - a fundamental pillar of scientific rigor.
+1.15.3. Pro: The [Union of Concerned Scientists](https://www.ucsusa.org/global-warming#.WlpfxEtrzok) warns of climate change.
+1.15.3.1. Con: The Union of Scientists by reaching consensus is invalid since science is not meant to be driven by consensus.
+1.15.3.1.1. Con: There is no sceptical principle; only a [sceptical movement](https://en.wikipedia.org/wiki/Skeptical_movement) or [philosophical scepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) that advocates as such.
+1.15.3.1.2. Con: It is not true that "science is all about doubt". It is true that technically, the best status that a scientific hypothesis can achieve is not "proven", but "not-yet-disproven". Science tries to disprove a hypothesis, looking at it from all possible angles. [See Consilience](https://en.wikipedia.org/wiki/Consilience). The hypothesis may be modified in the light of testing, and may fall if it does not match data in a significant way. But if it survives disproof, the hypothesis may be adopted as a usable theory by the scientific community.
+1.15.3.1.3. Con: If scientists lose their scientific credibility if they advocate a position, then medicine is not a science, because medics frequently advocate for changes in government policy; for instance with such things as smoking, seat belts, and junk food advertisements to children. But medicine is a science, therefore the claim above is not correct.
+1.15.3.1.4. Con: There is a difference between using scientific understanding to inform response to a dire situation \(which is perfectly reasonable\), and using consensus to determine truth. The UCS article does the former.
+1.15.4. Con: -> See 1.15.2.4.
+1.15.5. Con: It's not the role of scientists to advocate for or against a public policy. Scientists must remain policy neutral to not lose public trust.
+1.15.5.1. Con: Scientists have an obligation to advocate for or against public policy because their word has weight
+1.15.5.1.1. Pro: Having a degree in a certain field makes people trust in your skills because of the trust they have towards the issuing institution.
+1.15.5.2. Con: -> See discussion #3615: Science is political.
+1.15.5.3. Pro: The correct thing for scientist to do is apply the sceptical principle whatever the outcome. Scientists do not need to take a moral position, just a logical one. To explain to the average joe, the IPPC has decided not to accept any sceptical or negative research. This distorts the sceptical principle and devalues the whole theory. 
+Statements of AGW included ideas like"most scientists believe it to be true" but this is based on using only supporting research, this is not scepticism.
+1.15.5.3.1. Con: -> See 1.15.3.1.1.
+1.15.5.3.2. Con: There is no singular climate change theory but a host of different models and calculations.
+1.15.5.3.2.1. Con: The core theory of climatology is \(1\) the Greenhouse Effect is real \(2\) CO2 is a major greenhouse gas \(3\) progressive alteration she of the GHG composition will have adverse effects on human civilisation.
+1.15.5.3.3. Con: Sceptical research is accepted by the IPPC.
+1.15.5.3.3.1. Pro: -> See 1.15.2.4.9.3.3.7.2.
+1.15.5.3.3.2. Con: The IPCC has a [remit](http://www.ipcc.ch/news_and_events/docs/factsheets/FS_what_ipcc.pdf) to explain AGW. If it engages with sceptical research it is only to modify it and make it fit the consensus view.
+1.15.5.3.3.2.1. Pro: -> See 1.15.2.4.9.3.3.7.2.1.1.
+1.15.5.4. Con: A scientist suggests a theory then does all she can to disprove it. If she cannot then she publishes it. She then invites others to disprove it in the form of peer review. Advocating 'FOR' an idea contracts this core principle.
+1.15.5.4.1. Con: Science is not only theoretical but also has an application aspect attached. This application needs some work 'for' something.
+1.15.5.4.1.1. Pro: Researching robotics doesn't build a robot. Scientists needs to be in favor and executing the construction of one.
+1.15.5.4.1.2. Con: Application of science is in itself a subject for Scientists to address if they wish. they are the author of their research and may have an opinion on its end outcome. But a scientists should not hold a positive position for a theory. They should be attacking their own theory, and be testing it to destruction. Advocating a theory goes against this sceptical principle.
+1.15.5.4.1.2.1. Con: Implementing a theory in practice is the best test for a theory.
+1.15.5.4.1.2.1.1. Pro: When reality turns out to be different the theory can be revised.
+1.15.5.4.1.2.1.2. Con: There are several competing theories of [flight](https://www.telegraph.co.uk/news/science/science-news/9035708/Cambridge-scientist-debunks-flying-myth.html) yet we build airplanes.
+1.15.5.4.2. Con: Scientists are people too. They don't exclusively do scientific research, they can do other things such as advocate for a certain topic.
+
+And sometimes they learn something that, as a person, they would want to advocate for or against.
+1.15.5.5. Con: Medicine is a science, and medics continually advocate policy changes in the form of public health measures. Notable examples are legislation to restrain smoking, and to promote seat belt usage.
+1.15.5.6. Con: Many policy-makers [trust scientists and academia](https://www.theregreview.org/2018/03/13/pasachoff-curious-push-evidence/) when [making decisions about climate change](https://www.epa.gov/research-grants/climate-change-research-grants).
+1.15.5.6.1. Pro: Many policy makers do have a scientific background, such as [Angela Merkel](https://en.wikipedia.org/wiki/Angela_Merkel) who holds a PhD in quantum physics.
+1.15.5.6.2. Pro: The government [gives grants](https://www.epa.gov/research-grants/climate-change-research-grants) to researchers.
+1.15.5.7. Con: Medical scientists have fought many times to change public policy e.g. seat belts, smoking.
+1.15.5.8. Con: Scientists have a duty to maintain neutrality regarding hypotheses and data, but not regarding policy implications of the resulting theory.
+1.15.5.9. Con: Contrarians also criticise the IPCC because it is composed of non-scientists. So if scientists are not allowed to advocate decarbonisation, and non-scientists are not allowed to advocate decarbonisation, no-one is allowed to advocate decarbonisation. Which is unreasonable.
+1.15.6. Pro: 15 000 scientists just co-signed an [article](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/bix125/4605229) calling for extreme and aggressive effort to slow down or reverse the trend of climate change before it's too late. It is the second warning of this scale, the other was 25 years ago.
+1.15.6.1. Con: There are approximately 7 million scientists globally. So arguing from a suggested consensus or majority and producing a number of 15,000 seems alarming on the surface but when one looks at the facts, it is almost meaningless.[UNESCO count of scientists globally](https://en.unesco.org/unesco_science_report/figures)
+1.15.6.1.1. Con: 15 000 co-signature is the highest number of co-signature a paper got, making this highly meaning full.
+1.15.6.1.2. Con: The number of scientists who sign a document does not prove or disprove the science of climate change.  The truth of a statement is not dependent upon the number of people who claim that statement to be true.  Truth depends upon evidence that particular claim is true.
+1.15.6.1.3. Con: The authors of the article believe that 15K represents the most co-authors of any article in history.
+1.15.6.2. Con: Science has always known that certain technologies have harmful side effects. The actual problem is the economic and societal systems set up to reward short-term thinking, which requires a more psychological and political solution. This has relatively little to do with climate science and thus climate scientists are not qualified to comment on how possible, or difficult, such a solution might be.
+1.15.6.2.1. Con: The scientists made no claims about the difficulty or possibility of the economic/social solution.
+1.15.6.2.2. Con: Short term thinking is a generic problem in the political sphere, and refusal to do anything about man-made climate change is one specific example of short term thinking.
+1.15.6.3. Pro: While 15,000 scientists co-signing an article may seem a small number in relation to a possible 7 million total scientists on the planet, it is wrong to deduce that the remainder do not agree with the position. Co-signing is a serious and coordinated act, by people with knowledge in the area.
+1.15.6.3.1. Pro: -> See 1.15.6.1.3.
+1.15.6.4. Pro: The position taken in the article co-signed by 15,000 scientist is validated by the lack of an equally-supported article in opposition.
+1.15.6.4.1. Con: Getting a large group of people to co-sign a claim is not the only way for a group of people to express skeptisism. The lack of a similar action by climate skeptics does not imply that there are fewer scientists who believe it, only that climate change believers are more vocal.
+1.15.6.4.2. Con: 31487 American scientists \(skeptics\) signed a similar petition [www.petitionproject.org](http://www.petitionproject.org)
+1.15.6.4.2.1. Con: The Oregon petition has been debunked - for instance, most of the signatories were not climate scientists.  [m.huffpost.com](https://m.huffpost.com/us/entry/243092)
+1.15.6.4.2.1.1. Con: the Huffington Post article only outlines that most of the signatories are not 'Climate Scientists' yet the vast majority of scientists working in the climate science field \(especially when the petition was signed\) are in fact not Climate Scientists.  In addition, The Huffington Post article cites a handful of signatories as unverifiable. This doesn't discredit the 30,000 signatories.
+1.15.6.4.2.1.2. Con: the 15,000 co-signed petition in the parent claim arent Climate Scientists either
+1.15.6.4.2.2. Con: The Oregon petition contains the names of fictitious characters as signatories.    [www.mediamatters.org](https://www.mediamatters.org/research/2006/02/14/700-club-anchor-touted-global-warming-skeptics/134878)
+1.15.6.4.2.3. Con: It is not possible to verify the credentials of the Oregon petition signatories because place of employment is not provided. [www.mediamatters.org](https://www.mediamatters.org/research/2006/02/14/700-club-anchor-touted-global-warming-skeptics/134878)
+1.15.6.4.2.4. Con: The Oregon petition is over two decades old. Scientific consensus has changed a lot in that time. The following quote is over a decade old:  "When the magazine Scientific American reached out to a random sample of 30 names on the list in 2006, it found "six said they would not sign the petition today, three did not remember any such petition, one had died, and five did not answer."".        [www.politifact.com](http://www.politifact.com/punditfact/statements/2017/sep/08/blog-posting/no-30000-scientists-have-not-said-climate-change-h/)
+1.15.6.4.3. Pro: Science is furthered by debate, but in this case there is none. If a similar number of scientists have different data, or believe that 15,000 of their peers are simply wrong, they would have joined together to co-signed an article in opposition.
+1.15.6.4.3.1. Con: -> See 1.15.1.
+1.15.6.5. Con: -> See 1.15.6.1.2.
+1.15.6.6. Con: The co-authored article is including more topic areas, such as poverty or freshwater. This indicates that the number of signatories includes scientisits that might not have strong beliefs in climate change but other issue areas.
+1.15.6.6.1. Con: If a scientist signs a document, it can be assumed the scientist has a strong belief about the document.
+1.15.6.7. Con: Scientists are not necessarily the ones who should say what humans should do
+1.15.6.7.1. Con: -> See 1.15.2.
+1.15.6.8. Con: -> See 1.15.2.4.9.
+1.15.7. Con: We can trust that climatologists are experts at determining whether climate change is occurring and what its long-term effects on the environment will be, but they are not experts on the economic or political consequences or costs of action are.
+1.15.7.1. Con: -> See 1.1.2.6.1.2.1.3.3.2.
+1.16. Con: Climate change policy has become politicised; it is a pretext used by politicians to further their own goals. This politicisation has clouded true debate and sensible answers on what to do about Climate Change
+1.16.1. Pro: The science behind "climate change" is why more people are skeptical of scientists - they have become political scientists instead of real ones.
+1.16.1.1. Pro: -> See 1.15.5.2.
+1.16.1.2. Con: [Polls show that people do not realise how united scientists are upon the science of climate change.](https://www.scientificamerican.com/article/big-gap-between-what-scientists-say-and-americans-think-about-climate-change/)
+1.16.2. Con: The process of collating, rewriting and achieving consensus for AGW is a necessarily political act. Governments fund the IPCC to develop policy data supporting the theory. Scientists will always be free to be skeptical, but their research will be ignored or rewritten by the IPCC working groups. The politicising of AGW goes against the fundamental principle of skeptical reasoning that underpins all of science.
+1.16.3. Pro: Many politicians deny climate change to help their donor from the fossil fuel industry, especially in the U.S. [priceofoil.org](http://priceofoil.org/fossil-fuel-industry-influence-in-the-u-s/)
+1.16.4. Con: This claim is meaningless. Policy is by its nature political.
+1.16.5. Con: Whether or not individuals use a policy as a pretext to further their own goals does not prove that those policies have no value or should not be enacted.
+1.16.5.1. Pro: Policies have value if carried out correctly. Knowing this, politicians must find ways to make policies that are robust and grounded in scientific principles in order to be effective.
+1.16.6. Pro: Some politicians have renewable energy companies in their constituency.
+1.16.6.1. Con: Many politicians have fossil fuel companies in their constituency.
+1.16.6.2. Con: This is irrelevant. Politicians also have pet stores in their constituencies. Unless you can show a direct collusion, renewable energy companies exist just like non-renewable ones and ever other constituent. Correlation is not causation.
+1.16.7. Pro: Obama tweeted about the 97% consensus and gained popularity because of his support for taking action on climate change
+1.16.7.1. Con: The fact that a politician supported a view and was then elected does not prove that the view was merely a 'pretext'.
+1.16.7.1.1. Pro: Politicians can share, and motivate people based on, facts.
+1.16.8. Pro: Kevin Rudd won the 2007 Australian Federal Election and one of his cornerstone policies was about the "[greatest moral challenge of our time, climate change](https://www.youtube.com/watch?v=CqZvpRjGtGM)".
+1.16.8.1. Con: Kevin Rudd both [ratified the Kyoto Protocol](http://www.smh.com.au/news/environment/rudd-signs-kyoto-deal/2007/12/03/1196530553203.html) and [introduced climate change legislation](https://www.theguardian.com/environment/2009/nov/24/australia-climate-reform-deal) into the Australian Parliament. He was not using climate change as a pretext but genuinely tried to take action on the issue.
+1.16.8.2. Con: The fact that a politician supported a view and was then elected does not prove that the view was merely a 'pretext'.
+1.16.9. Con: -> See 1.1.4.1.
+1.16.10. Pro: Politicians are incentivized to take actions in order to show leadership and be re-elected, so they have a natural bias toward action. That makes them more likely to err on the side of taking climate action \(i.e., passing laws\) even if those laws are unnecessary or worse, harmful.
+1.16.10.1. Con: Just because bad politicians occasionally use actions on climate change to get re-elected, that doesn't mean that actions on climate change are bad. It just means that good politicians need to propose good solutions to climate change that we can choose over the bad ones.
+1.17. Con: -> See 1.1.2.6.1.2.1.3.2.1.7.
+1.18. Con: -> See 1.1.2.6.1.2.1.8.2.
+1.19. Pro: Fighting climate change could unify humanity.
+1.19.1. Pro: Climate change affects the entire Earth, where Humans live, and as such makes an excellent common enemy to organize and battle against.
+1.19.1.1. Con: Black Death posed a similar existential risk to societies in the Middle Ages yet war prevailed.
+1.19.1.1.1. Con: Just because medieval societies did not take global collaborative action to effectively tackle the black death does not mean we cannot do so against Climate change today.
+1.19.1.2. Pro: Climate change is a common global problem and can only be solved by global collaborative actions. If we are to survive to any degree we must unite globally to face this challenge.
+1.19.2. Pro: As it is a global issue, a general "war on atmospheric carbon" could be the positive "common ground" beginning of cooperative world peace.

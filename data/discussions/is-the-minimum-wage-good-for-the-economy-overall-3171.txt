@@ -1,0 +1,45 @@
+Discussion Title: Is the minimum wage good for the economy overall?
+
+1. The minimum wage is good for the economy.
+1.1. Con: The minimum wage increases inflation.
+1.1.1. Con: Every time there was a minimum wage increase between 1980 and 1991 in the US, there was a correlation with [a decrease](https://medium.com/\@discomfiting/debunking-if-you-raise-the-minimum-wage-it-will-cause-inflation-c0db32f579f8) in the annual inflation rate.
+1.1.2. Pro: [Saving rates](http://www.businessinsider.com/chart-savings-rate-by-income-level-2013-3?IR=T) of low income households are very low while they are very high for richer segments of society. This means that more money will be spent rather than saved and cause inflation.
+1.1.2.1. Con: Spending does not cause inflation by itself.  Printing money can.
+1.1.3. Pro: Corporations are likely to raise prices to make up for the increased cost of human capital.
+1.1.4. Con: Only [22% of the time](https://medium.com/\@discomfiting/debunking-if-you-raise-the-minimum-wage-it-will-cause-inflation-c0db32f579f8) \(twice\) has an increase of the minimum wage in the US corresponded with an increase to the inflation rate.
+1.2. Pro: The minimum wage increases standard of living.
+1.2.1. Pro: A [cross-country study](https://scholars.org/brief/evidence-higher-minimum-wages-improve-economic-wellbeing) shows that regardless of the size of a country's economy, its current economic situation, or the time frame chosen, people lead better lives as the minimum wage increases.
+1.2.1.1. Con: This is a question to be answered through examination of economic principles not with messy empirical studies. Correlations  are by far the weakest sources of evidence.
+1.2.1.2. Con: The same correlation might be explained the other way around: as the standard of living increases, the governments rise the minimum wage to adapt.
+1.2.2. Con: Making a lower paying job illegal lowers the standard of living of thousands, as it leads to unemployment.
+1.2.2.1. Pro: The minimum wage increases unemployment.
+1.2.2.1.1. Con: Although opponents have warned of this since 1938, [data indicates](http://www.nelp.org/publication/raise-wages-kill-jobs-no-correlation-minimum-wage-increases-employment-levels/) it isn't so.
+1.2.2.1.2. Pro: [Recent](http://www.nber.org/papers/w23532) minimum wage increases have been shown to cause reduced employment in industries dominated by low-skilled labor.
+1.2.2.1.2.1. Pro: Jobs are [being automated](http://www.businessinsider.com/carls-jr-wants-open-automated-location-2016-3), due to the high cost of labour imposed by the government.
+1.2.2.1.3. Pro: The rate of [job creation](https://www.bls.gov/opub/mlr/2014/beyond-bls/determining-the-employment-effect-of-raising-the-minimum-wage.htm) is slowed by an increase of the minimum wage rather than jobs destroyed.
+1.2.2.1.4. Con: The UK has [doubled](http://uk.businessinsider.com/britain-doubled-minimum-wage-with-no-effect-on-unemployment-2017-10) its minimum wage since 2000 with no observable effect on unemployment.
+1.2.2.2. Con: Minimum wage policy goes along with welfare system, which still ensures that the standard of living is the same, even when people are unemployed.
+1.2.3. Pro: Workers unable to meet minimum standards of living are a drain on the economy.
+1.2.4. Con: According to recent studies done by UC Berkeley and Harvard, the minimum wage does the following: 1. Disproportionately Pushes small business out of the market, 2. Reduces employment growth by 1.3%, 3. Compresses the distribution of income making it harder for those without a job to find one. [Survival of the Fittest: The Impact of the Minimum Wage on Firm Exit](https://www.hbs.edu/faculty/Pages/item.aspx?num=52552)[Effects of a $15 Minimum Wage in California and Fresno](http://irle.berkeley.edu/effects-of-a-15-minimum-wage-in-california-and-fresno/)
+1.3. Pro: The minimum wage protects workers from unethical businesses who want to underpay their workers.
+1.3.1. Con: A minimum wage hides unethical business from prospective employees. Pay is one tool an employee can use to evaluate prospective employers.
+1.3.2. Con: If an employee agrees to work for the salary offered by the employer, then it is not an unethical exchange.
+1.3.2.1. Con: Employees may have no other employment opportunities, and are then forced to take jobs in which they are underpaid.
+1.4. Con: The minimum wage is unnecessary because the market will determine a fair, equilibrium wage on its own.
+1.4.1. Con: [The gap](https://www.epi.org/publication/ceo-pay-continues-to-rise/) between the highest pay rates and the lowest shows no sign of "fairness".
+1.4.1.1. Con: Depends on what you mean by fair. If an employee generates high added value, it is fair to pay her more. Unfortunately a single factory worker does not add as much value economically as a CEO.
+1.4.2. Con: Without regulation, owners of large businesses will continually undercut workers' wages regardless of harm to the replaceable workers and to smaller businesses in order to maximise their income.
+1.4.3. Pro: The standard of living has been increasing in the US since 1820, over 100 years before the first minimum wage law was passed.
+1.4.4. Pro: Price floors inherently reduce economic efficiency.
+1.4.4.1. Con: Price floors increase [economic equity](https://en.wikipedia.org/wiki/Equity_\(economics\)).
+1.4.5. Con: In an unregulated market, it is the biggest corporations with market power that set wage trends for entire industries.
+1.4.5.1. Pro: Small businesses already struggle to compete with the advantages that economies of scale grant the largest businesses, meaning they can't afford to pay more than them for labor.
+1.5. Pro: The minimum wage spurs economic growth by ensuring workers have money to spend.
+1.5.1. Con: One measure of an economy, Gross Domestic Product, can be calculated = Wages + Self-Employment Income + Rent + Interest + Profits + Indirect Business Taxes + Depreciation + Net Income of Foreigners [Resource Approach GDP](http://www.investopedia.com/exam-guide/cfa-level-1/macroeconomics/gross-domestic-product.asp#ixzz4wQdy3JVC) Increased wages come at the expense of either self employment income or profits. So whether Peter or Paul is robbed to pay Timmy, GDP remains the same.
+1.5.2. Con: Innovation, and the growth of businesses and technology are more important than consumption for economic growth in the long run.
+1.5.2.1. Pro: This is achieved largely when business can invest money in development. Taking that money and giving it to workers for consumption purposes only hurts growth.
+1.6. Con: -> See 1.2.2.1.
+1.7. Con: The minimum wage creates inefficiencies \([deadweight loss](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/ap-supply-demand-equilibrium/ap-deadweight-loss-tutorial/a/demand-supply-and-efficiency-cnx)\), as it works the same way as a price floor.
+1.8. Con: Minimum wage primarily distributes wealth from people making just over minimum wage, who do not receive wage increases when minimum wage goes up. Minor inflation erodes their buying power, to slightly increase the wealth of people on minimum wage. People with real assets tend to lose the least, while those just over the poverty line lose the most.
+1.9. Con: The minimum wage discourages new business ventures.
+1.9.1. Pro: A [Univ. of Washington paper concluded](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf): "employment losses associated with Seattle’s mandated wage increases are in fact large enough to have resulted in net reductions in payroll expenses  – and total employee earnings – in the low - wage job market."

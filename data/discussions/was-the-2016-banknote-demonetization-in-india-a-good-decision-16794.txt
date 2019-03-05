@@ -1,0 +1,23 @@
+Discussion Title: Was the 2016 banknote demonetization in India a good decision?
+
+1. The 2016 banknote demonetization in India a good decision.
+1.1. Pro: Demonetisation helped to run democratic elections in Uttar Pradesh by making access to misappropriated government funds more difficult.
+1.1.1. Con: Demonetization has largely [failed](https://www.ft.com/content/7dbe0e14-8d8a-11e7-a352-e46f43c5825d) to reduce "black money".
+1.2. Pro: Encouraged digital transactions.
+1.2.1. Pro: Increased awareness that cash transactions create black money.
+1.2.2. Con: Not everyone in India has access to digital transactions.
+1.3. Con: SMEs and businesses that are dependent on cash, went through a disastrous period.
+1.3.1. Con: SMEs could have avoided negative consequences by switching to digital transactions.
+1.3.1.1. Con: -> See 1.2.2.
+1.3.1.2. Pro: They could have used online wallets for digital transactions
+1.3.1.3. Pro: They could have avoided a disastrous period if they simply give their account number for major transactions.
+1.4. Con: The size of the new Rs. 2000 notes required ATMs to be [reconfigured](https://www.livemint.com/Politics/AgH1JmfGr56uYx8JextWVL/Arun-Jaitley-says-taking-time-to-reset-ATMs-for-new-bank-not.html). This took time and affected distribution of new notes causing public inconvenience.
+1.5. Pro: It recapitalized the banks.
+1.5.1. Con: This was followed by [massive write-off of NPAs](https://timesofindia.indiatimes.com/business/india-business/public-sector-banks-wrote-off-rs-2-41-lakh-crore-loans-in-over-3-years/articleshow/63599781.cms). A cause-effect relation can be inferred here.
+1.5.2. Pro: Demonetization resulted in [99.3%](https://www.thehindu.com/business/Economy/993-of-demonetised-currency-returned-to-banks-rbi/article24808160.ece) of demonetised currencies returned back to banks.
+1.5.3. Con: Over [99%](https://indianexpress.com/article/business/economy/demonetisation-99-per-cent-banned-notes-back-rbi-report-5331825/) of demonetized notes came back to RBI. So it failed to recover 'black money', as claimed by the PM.
+1.6. Pro: Has greatly increased tax compliance as can be seen by the recent \(Q3'2018\) tax collection figures. [\[reference\]](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183178)
+1.7. Pro: Has facilitated [lower inflation](http://www.mbauniverse.com/group-discussion/topic/business-economy/demonetisation).
+1.8. Con: Around [100 people lost their life](https://www.forbes.com/sites/timworstall/2016/12/08/indias-demonetisation-kills-100-people-apparently-this-is-not-an-important-number/#2660eeba237a) to get access to their own hard earned money.
+1.9. Con: -> See 1.1.1.
+1.10. Con: New currencies of large denominations \( Rs.2,000\) are helpful to hoard cash.

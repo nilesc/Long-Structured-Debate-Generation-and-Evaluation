@@ -1,0 +1,41 @@
+Discussion Title: Is digitalization good for healthcare?
+
+1. Is digitalization good for healthcare?
+1.1. Con: Implementation costs can be too prohibitive, especially for publicly-funded systems.
+1.1.1. Con: It means prioritising digitalisation, if that is considered to be the next frontier in medical care, and budgeting for it where necessary.
+1.1.2. Pro: Money would be better spent researching actual treatments, rather than streamlining an already operable system.
+1.2. Pro: Digitization can lead to better health outcomes.
+1.2.1. Pro: Digitisation allows for ultimate exchange of information and solutions; ultimately, the health outcomes are going to be better.
+1.2.2. Con: Ultimately, people's decisions to live a healthier lifestyle are the only things that will lead to better health outcomes.
+1.2.2.1. Con: This doesn't mean that digitalization would interfere with that. People's decisions to live a healthier lifestyle can by any means coexist with digitalization, probably even better thanks to the methodical categorization of risk factors and patient parameters, while other conditions on which people's decision have little to no impact \(i.e. congenital/hereditary diseases\) can be treated undoubtedly more efficiently
+1.2.3. Pro: Patients can share experiences and recommend both treatments and practitioners that are known to be higher quality.
+1.2.4. Pro: Practitioners can get comprehensive patient backgrounds very easily and make more tailored, specific healthcare plans for their patients.
+1.2.4.1. Pro: Access to patient backgrounds would allow practitioners to be aware of crucial information which could not be directly communicated by a patient in an emergency intervention, such as current drug prescriptions, allergies or pre-existing medical conditions.
+1.3. Pro: Digitization can lead to more effective treatments.
+1.3.1. Pro: Some complex operations can be conducted with supervision from international specialists.
+1.3.2. Pro: With easy data exchange, the efficacy of treatments tested worldwide can be more easily assessed.
+1.3.3. Pro: Accessing complex treatments could be easier, as capacity in hospitals or wards can be found online, along with more detailed data specific to the patient.
+1.3.4. Con: Although it may be easier to coordinate resources, it is not going to affect the basic standard of medication or medical intervention.
+1.4. Con: Current systems are missing digital health literacy.
+1.5. Pro: Digization of patient data provides the opportunity for machine learning, or other automation, to analyse patterns or correlations that no human expert could handle manually. While opportunities for abuse exists, there is also potential for great good.
+1.5.1. Pro: [Computers Match Accuracy of Radiologists in Screening for Breast Cancer Risk](https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/computers-match-human-accuracy-in-screening-for-breast-cancer-risk)
+1.6. Pro: Digitalization with live access improves accountability and reduces the chance that medical records will be altered, incorrect or tampered with.
+1.6.1. Pro: Free services like [HealthVault](https://www.healthvault.com/en-us/) put patients in control of their health records which allow them to share them with practitioners anywhere and any time they wish.
+1.7. Con: Digitization may be difficult to achieve due to outdated infrastructures in hospitals and GP offices.
+1.7.1. Pro: Digitization needs coordinated change management from all affected branches, which is challenging to manage.
+1.7.2. Con: All hospitals and surgeries will need to update their systems periodically; digitalisation is just another strand of such updates.
+1.7.3. Con: Patients seeking the convenience of digitized records will migrate to service providers offering the service.
+1.8. Con: Digitization challenges the status quo.
+1.8.1. Con: Status quo healthcare workers, such as doctors or nurses, can use digitalization to strengthen their services.
+1.8.1.1. Pro: Doctors can do video consultations and therewith filter out unprofitable patients.
+1.8.1.1.1. Con: One would hope that 'profitability' is not a doctor's primary concern.
+1.8.1.2. Pro: Nurses can coordinate their schedules and procedures more effectively.
+1.8.2. Pro: A system change would affect authority positions in the medical profession, as patients can question their doctors' diagnoses.
+1.8.2.1. Pro: Patients have easy access to information independent of the doctor.
+1.8.2.2. Pro: Digital reviews put pressure on doctors to perform proper services.
+1.8.2.3. Con: This also means patients could wind up self-diagnosing, incorrectly, based on online symptoms. Doctors are invariably better at diagnostics than an individual on the Internet.
+1.8.3. Con: This is no sense a bad thing; no medical service is perfect.
+1.9. Pro: The ability to share health data opens new possibilities for both patients and practitioners.
+1.9.1. Pro: Cross border health care delivery becomes easier \(Dutch citizen retired and living in Hungary goes to ski to Austria, gets injured, needs her/his original eHR from home, and his more recent data from Hungary too\)
+1.9.2. Con: There is a potential issue of safety and security of personal information when it is all held online.
+1.9.3. Pro: -> See 1.2.4.

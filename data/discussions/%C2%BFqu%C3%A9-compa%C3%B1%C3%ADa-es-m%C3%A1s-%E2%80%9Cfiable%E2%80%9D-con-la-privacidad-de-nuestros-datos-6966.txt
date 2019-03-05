@@ -1,0 +1,17 @@
+Discussion Title: ¿Qué compañía es más “fiable” con la privacidad de nuestros datos?
+
+1. ¿Qué compañía es más “fiable” con la privacidad de nuestros datos?
+1.1. Google
+1.1.1. Con: Al igual que FB, Google gana dinero ofreciendo su ecosistema global a los anunciantes. Regala GB de almacenamiento y fotos ilimitadas a cambio de poder hacer con ellas lo que quiera.
+1.2. Apple
+1.2.1. Pro: Al ser un ecosistema bastante cerrado es más complicado que programas espías accedan a nuestros datos.
+1.2.2. Pro: Apple no necesita financiarse vendiendo nuestros datos, recupera su inversión y gana dinero con su ecosistema.
+1.3. Amazon
+1.3.1. Con: Su fuerte es acertar con la publicidad que nos ofrece. Conociéndonos mejor, seguro que eso lo consigue.
+1.4. Facebook
+1.4.1. Con: Su única fuente de ingresos es a costa de la publicidad, para ello necesita saber el máximo de información de sus usuarios para poder afinar su target publicitario.
+1.5. Microsoft
+1.5.1. Pro: Al igual que Apple, Microsoft no necesita exclusivamente de la publicidad por subsistir. Gana dinero con su ecosistema y sus licencias.
+1.5.2. Con: Al ser un producto bastante abierto, es fácil de piratear y que tus datos no estén seguros
+1.6. Samsung
+1.6.1. Con: Al confiar en Google está supeditada a seguir sus reglas y ofrecer los datos del usuario para su uso.

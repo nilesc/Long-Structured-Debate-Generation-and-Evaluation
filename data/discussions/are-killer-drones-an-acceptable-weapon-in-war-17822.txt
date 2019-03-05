@@ -1,0 +1,41 @@
+Discussion Title: Are "Killer Drones" an acceptable weapon in war?
+
+1. "Killer Drones" are an acceptable weapon in war.
+1.1. Pro: Killer drones provide an effective [deterrence](https://en.wikipedia.org/wiki/Deterrence_theory) weapon that is not extremely damaging for future generations.
+1.1.1. Con: Russia has [developed](https://www.newsweek.com/russia-drones-nuclear-weapons-pentagon-leak-781075) an underwater drone capable of carrying a 100-megaton nuclear bomb, which could be very damaging for future generations.
+1.1.1.1. Con: The problem there is not the "drone" part, but the nuclear part.
+1.2. Con: Killer drones will increase the number of fatalities in war.
+1.2.1. Pro: Drones allow for less accountability, and thus politicians will be more likely to authorize their use.
+1.2.2. Con: Drones allow selection of more specific targets, decreasing loss of life as a result of collateral damage or an invading force.
+1.2.2.1. Pro: Drones are fairly cheap and therefore operators are more willing to loose them.
+1.2.2.2. Pro: The maneoverability of drones allows them to get close to the target.
+1.3. Pro: Countries with superior technology are at an advantage.
+1.3.1. Con: With great power comes great [responsibility](https://quoteinvestigator.com/2015/07/23/great-power/).
+1.3.2. Pro: The majority of [countries](https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle#Users) with operational armed drones are mostly \(but not exclusively\) wealthy.
+1.3.3. Pro: Throughout history, civilizations with superior technology were also the civilizations that were also more advanced in terms of human rights. The more valuable the human life is, so more valuable is the human sacrifice and labour, therefore the need of scientists and engineers to advance the technology rises.
+1.4. Con: This kind of warfare could stoke a global drone arms race.
+1.5. Con: Countries with inferior technology are at an disadvantage.
+1.5.1. Con: Countries with inferior technology are always at a disadvantage, and yet they often find ways of beating a superior force.
+1.5.1.1. Pro: The most [high-tech solution](https://www.theatlantic.com/magazine/archive/2018/07/william-langewiesche-b-2-stealth-bomber/561719/) is not always the best solution in warfare.
+1.5.2. Pro: Countries with inferior technology often lose to superior technology.
+1.5.3. Con: Drones are [cheaper](http://theconversation.com/drones-are-cheap-soldiers-are-not-a-cost-benefit-analysis-of-war-27924) than most other high tech military options and cost much less than employing soldiers in the long term.
+1.5.3.1. Pro: Soldiers with debilitating physical or psychological injuries could need care for the rest of their lives, paid for by the government.
+1.6. Pro: Countries that place a higher value on human life are at advantage.
+1.6.1. Pro: With this advantage, countries that value human life would be more likely to win wars, and thus spread their values to more places, raising the value of human life around the world.
+1.6.2. Pro: Using technology to fight other technology instead of people would reduce the number of battlefield deaths. This would be positive for you and your allies.
+1.7. Con: Seen as "cowardice" by some cultures.
+1.7.1. Con: The use of arrows and firearms was also seen as cowardice.
+1.7.1.1. Pro: In [Japan](https://www.washingtonpost.com/archive/entertainment/books/1979/08/12/the-samurai-the-sword-and-the-gun/9735f156-7368-4665-a138-43bfe984a081/?noredirect=on&utm_term=.e2f74a11028f) it was considered bad form for samurais to abandon the use of the sword when firearms were introduced.
+1.7.2. Con: Subjective cultural understandings of a given weapon should not determine the global acceptability of its use.
+1.7.3. Pro: Drone operators face no danger during missions.
+1.7.3.1. Con: Studies have shown that drone pilots frequently experience [psychological trauma](https://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real), suggesting that using a drone does not diminish the reality or ethical significance of their actions.
+1.8. Con: By making drone warfare very similar to video games, drone warfare makes combat too easy by diminishing ethical decisions.
+1.8.1. Con: -> See 1.7.3.1.
+1.8.2. Pro: Since no soldiers of the aggressor country are at risk, they risk nothing other than metal parts built in a factory. Thus it is easy to "just do a drone strike" since no life can be lost on the side of the aggressor.
+1.8.3. Pro: With distance from the ethical implications, it's very easy to enter into gratuitous use of drones.
+1.8.3.1. Pro: This could potentially lead to a distinct increase in "potential combatant" casualties, a path leading to increased civilian causalities.
+1.9. Pro: Drones exercise pressure on terrorist organizations: as drones can constantly survey terrorists' movements from the sky, the terrorists' training and operations are seriously hindered.
+1.9.1. Con: Drones are a poor way of combatting terrorism.
+1.9.1.1. Pro: The use of drones has largely [replaced attempts](https://www.brookings.edu/blog/up-front/2013/10/10/captures-vs-drones/) to capture individual terrorist leaders, meaning they can no longer be interrogated for useful information.
+1.9.1.2. Pro: Terrorist organisations use drones strikes and the associated harm to civilians as a [recruitment tool](https://www.theatlantic.com/international/archive/2013/08/how-drones-create-more-terrorists/278743/).
+1.9.1.3. Con: Using drones puts fewer soldiers' lives at risk.

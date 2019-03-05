@@ -1,0 +1,35 @@
+Discussion Title: Is Bitcoin's Worth Entirely Speculative?
+
+1. Bitcoin's worth is entirely speculative.
+1.1. Con: Bitcoin's price is rising steadily.
+1.1.1. Con: That doesn't imply its intrinsic value or its usefulness for society is rising. Moreover, speculative assets tend to have their price rise.
+1.1.2. Con: This is factually untrue. Bitcoin's [value](https://www.coindesk.com/price/) has seen massive crashes and is notoriously [volatile](https://www.investopedia.com/articles/investing/052014/why-bitcoins-value-so-volatile.asp).
+1.2. Con: The blockchain technology makes Bitcoin valueable.
+1.2.1. Pro: The value of Bitcoin lies in its ability to hold and transfer value, features provided by the blockchain technology.
+1.2.2. Con: [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology is not [exclusive](https://www.blockchain.com/) to bitcoin and is used in other crypto-currencies as well as having other applications.
+1.2.2.1. Con: Just because other cryptocurrencies use a blockchain does mean Bitcoin's blockchain does not possess inherent value
+1.3. Con: Bitcoin has a number of features which make it a valuable alternative to traditional currencies. A significant enough proportion of bitcoin's value can be attributed to these applications that its value is not entirely speculative.
+1.3.1. Pro: Bitcoin can function as a [store of wealth](https://financial-dictionary.thefreedictionary.com/Store+of+Wealth) that is superior to traditional currencies because it cannot be [counterfeited](https://www.emperitas.com/cryptocurrency-will-kill-cash/) or destroyed because of blockchain technology.
+1.3.2. Pro: Bitcoin can be used to encourage ethical business practices. As blockchain technology makes it possible to track every transaction with complete transparency, it is easier to hold businesses to [account](https://www.theguardian.com/sustainable-business/2016/sep/07/blockchain-fish-slavery-free-seafood-sustainable-technology) for unethical practices.
+1.3.3. Con: Bitcoin's [volatility](https://www.investopedia.com/articles/investing/052014/why-bitcoins-value-so-volatile.asp) makes it unsuitable for many of its more practical applications. If users cannot be assured that there is some level of stability in the value of their bitcoins, there is little point in possessing them for any reason other than speculating on their value for profit.
+1.3.4. Pro: Bitcoin can function as a superior store of wealth for certain users because it is [harder](https://www.ccn.com/government-struggle-seize-bitcoin/) for government agencies to track and regulate large sums of money that are held in bitcoin, as opposed to depositing that money in a bank.
+1.3.5. Pro: Bitcoin gives people the power to withdraw their money from government control. People will want to use it, because no-one can take it away from them, due to it being completely anonymous. Higher and higher taxes will lead to wealthy people trying to escape the government's budget by keeping their money below the radar.
+1.3.5.1. Con: Yet being out of the control of regulatory mechanisms also means more risks and volatility.
+1.3.5.2. Con: Converting all regular money to Bitcoin can have disastrous consequences if Bitcoin is no longer used, for example.
+1.3.5.3. Pro: Bitcoin's current value is reflecting the value people allocate to it. It is not like fiat currency, a mandatory medium of value exchange controlled by institution business and nationality wise. It is a very important if not the last bastion of the long ongoing revolution. Cryptocurrency is not created to substitute fiat currency, it is just a digital decentralized alternative one can use in a digital era, but not have to.
+1.3.5.4. Pro: Fiat currencies have value because governments say it has value. Bitcoin has value because people say it has value.
+1.3.5.4.1. Con: The opinion of the people is more fickle than the government monetary law. People could decide tomorrow that bitcoin no longer has value.
+1.4. Pro: Bitcoin are mined simply for the purpose of creating money; a real currency keeps up with the people's wealth in an economy.
+1.4.1. Con: Bitcoins are mined as a way to reward people for maintaining and securing the entire system. The purpose is to validate the transactions in a decentralised system and avoiding double expenses.
+1.4.2. Con: Bitcoin has the advantage, as gold, to have a limited supply. Fiat currencies can be printed by the governments as they please or need and that creates hyper inflation. Such a concept  simply does not exist with Bitcoin.
+1.4.3. Con: Fiat money can also be created, producing inflation.
+1.5. Pro: Bitcoins Blockchain-technology is easily recreatable, Ethereum and its currency, the Ether, are far more advanced.
+1.5.1. Con: Being recreatable does not provide inherent economic value.
+1.5.2. Pro: The additional features and applications of competing crypto-currencies such as [Ethereum](https://www.huffingtonpost.com/ameer-rosic-/ethereum-vs-bitcoin-whats_b_13735404.html) include increased security, better money management systems and improved payment times. Since the element of bitcoin's value that is non-speculative is based on future real-world applications, if other crypto-currencies are more likely to succeed in achieving widespread real-world use, more of bitcoin's value can be said to be speculative.
+1.6. Pro: Bitcoins have no intrinsic value, they are simply valuable for the reason that they are rare and that there is a finite amount of them.
+1.6.1. Pro: Money can be printed to an almost infinite amount. Gold or Bitcoin are capped at a certain threshold. As such, they cannot inflate, which is a problem in an actual currency.
+1.6.1.1. Pro: A small level of inflation is [good for economies](https://www.investopedia.com/ask/answers/111414/how-can-inflation-be-good-economy.asp). If bitcoins were to become widely used, the [controlled supply](https://en.bitcoin.it/wiki/Controlled_supply) of the currency would lead to a deflationary effect which could lead to negative economic impacts.
+1.6.2. Con: Copies of the Bitcoin blockchain can, and have been created \(Bitcoin Cash\), instantly doubling the number of Bitcoin-like coins in distribution. Granted, under a different name, and its own blockchain; yet, for all intents and purposes, it appears and is used as the same.
+1.7. Con: Bitcoin is not purely speculative. It requires energy to produce them.
+1.7.1. Pro: Producing bitcoin has a cost.
+1.7.2. Con: The energy that is put into the creation of bitcoins, otherwise known as the cost of creating a bitcoin, does not indicate the value of a bitcoin. The value of bitcoin is whatever people are willing to pay for it. The amount of work that has gone into its creation has nothing to do with that price.

@@ -1,0 +1,85 @@
+Discussion Title: Is There A Need For Testing on Lab Animals in Research?
+
+1. There is a need for lab animals to be used in research.
+1.1. Pro: Animal testing is not only important in the development of human-saving drugs, it is also crucial in making all kinds of new lifesaving treatments, that help save endangered species and millions of other animals on a yearly basis.
+1.2. Con: If research requires you to sacrifice a test subject, there is no reasoning that could justify the continuation of that research.
+1.2.1. Con: Sometimes it is required to sacrifice an animal to help more people and animals in the long run.
+1.2.1.1. Con: Maybe sometimes it is, but often it's not, and for those times we should invest in searching for more ethical alternatives, even if they are more expensive or slow at the beginning.
+1.2.2. Pro: No matter how much it could help people in the future, there is no justification to hurt or kill something.
+1.2.2.1. Con: Your body naturally breaks that ethical judgement by way of your immune system killing parasites.
+1.2.2.2. Con: The vast majority of science rests on the foundation of animal research, which if we did not have we would be fumbling around in the dark. You cannot merely study cadavers as models for biological systems and you cannot justifiably kill humans for the sake of science. Animals make a well-appreciated and much needed sacrifice for the good of mankind.
+1.2.2.2.1. Con: Animals do not make a "sacrifice", they have no choice in the matter.
+1.2.2.2.2. Con: The vast majority of science does not rest on animal research. Biology is only one branch, and even then there are plenty of other methods.
+1.2.2.2.3. Con: We used to "kill humans for the sake of science" before that practice became unacceptable. There may come a time when animal research would be viewed equally abhorrent.
+1.2.2.3. Con: [Utilitarian ethics](https://en.wikipedia.org/wiki/Utilitarianism) i.e. the greatest good for the greatest number proffers that as long as that goal is achieved the means to which it is accomplished is morally justifiable. Organisations at a societal scale often utilise this system of moral judgement e.g. Hiroshima/Nagasaki, allocation of public funding in health systems.
+1.2.3. Con: Your claim indicates that all testing and research automatically means the "sacrifice" of the subject, which is not the case. Serious research strives to reduce possible damage to subjects, human as well as non-human.
+1.2.4. Con: If the specimen was 'created' for the purpose of being sacrificed in a scientific experiment, it's sacrifice is by definition justified.
+1.3. Con: Physiological reactions to drugs vary enormously from species to species
+1.3.1. Con: Drug tests are done on animals that most closely resemble human biological systems. Researchers know how to account for differences.
+1.3.1.1. Con: Even animals that closely model human physiology [cannot reliably be used for predictive purposes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642860/)
+1.3.1.1.1. Con: This is why after animal testing, drugs are tested on humans before they are available to the general pharmaceutical market.
+1.3.1.1.1.1. Con: If you agree that animal tests are non predictive and that human testing needs to be done anyway, then it follows that there is no need for animal testing.
+1.3.2. Pro: Medical testing, even on our closest biological relations, cannot account for the disparity between species. Although Thalidomide was extensively tested on a wide range of animal subjects in the 1950s/1960s, it did not exhibit itself as a serious teratogen in any other species yet resulted in over 10,000 birth defects and thousands of fetal deaths.
+1.3.2.1. Con: That testing may not have been conducted entirely above board. Some tests in the 1950's were rushed and bribed.
+1.3.2.1.1. Pro: Standards of testing has improved significantly since the 1950s, so the same rushed results are unlikely to occur today.
+1.3.2.1.1.1. Con: There is significantly more involvement from the pharmaceutical industry today that could lead to biased research. In addition, academics are under much more pressure to publish. In combination it is debatable that scientific rigour has increased
+1.3.2.2. Con: The researchers [failed](http://broughttolife.sciencemuseum.org.uk/broughttolife/themes/controversies/thalidomide) to properly analyse the potential risk of birth defects on pregnant animals. If they had done so, they would have discovered the problems.
+1.3.2.3. Con: Using a single instance of a failure to determine that a method is bad is forfeits learning from mistakes and errors. Human studies should have lasted longer and been more thorough. The issue isn't whether animal models are perfect, but are they good.
+1.3.3. Con: Because of this variance, an enormously large test groups of animals are needed before human testing should proceed.
+1.3.3.1. Con: Not true. Statistics will allow researchers to keep their sample size relatively low. All studies require repetition or it is invalid, so even tests on humans require many subjects. With animals it is important to get powerful numbers from statistics without using too many animals which is wasteful. [How to select sample size](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3826013/)... “enormous" is not quite right. Think more like 6-10 animals per group.
+1.3.4. Con: The point of animal studies is to develop an animal model that appropriately relates to humans. This is entirely possible and extremely useful. For instance, one can study fast-twitch muscle in rats using invasive surgeries to study oxygen delivery and consumption. This process would be slow, painful, and expensive if done in human subjects. However using a comparable mammal system can give an exceptional molecular model for comparison.
+1.3.4.1. Con: This is an appeal to authority. There is a evidence to suggest that no such "comparable mammal systems" exist and in fact "[when one empirically analyzes animal models using scientific tools they fall far short of being able to predict human responses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642860/)."
+1.3.5. Pro: Because physiological reactions vary greatly between species we miss out on the development of potentially vital drugs because of adverse reactions in other animals.
+1.4. Pro: Testing on humans would subject the most vulnerable of our society to testing.
+1.4.1. Pro: Testing drugs on people without any knowledge of how it functions in a model organism could result in countless deaths, as some potential medications may turn out to be lethal.
+1.4.2. Pro: Patient volunteers in clinical trials would be subject to testing drugs with reduced/unknown success probability due to the lack of animal testing prior to human trial.
+1.4.3. Pro: As scientific tests are complicated, and the risks are often unknown before clinical trials, even if people consent to the trial, they will not be able to understand all the risks of taking the drug. As such they will not be able to fully consent as is required in the field of medicine.
+1.4.4. Pro: If there is monetary compensation available for trials, it is likely that it will be more acceptable to those who are under financial pressure.
+1.5. Con: There is no need for animal testing with the availability of cell cultures.
+1.5.1. Pro: If we did research on humans the same way we do on animals, there would be significant developments too, but ethically we can't. We should apply the same ethics to animals, and then we could find other research methods like stem cells.
+1.5.2. Con: Cell cultures are not always capable of testing interactions. Sometimes you need a full model organism in order to see the real results.
+1.5.2.1. Pro: A drug can cure a disease and kill bacterial cultures, but the drug must be tested on a live animal to make sure it will not harm the patients the drug intends to save.
+1.5.2.2. Pro: Certain drugs can help with the disease of one bodily system but it can negatively affect others. This can only be discovered with live subjects.
+1.5.3. Pro: It is morally preferable to use cell cultures over a living animal.
+1.5.3.1. Con: It is simply not possible to study physiology in cell cultures. You can only study microbiology and biochemistry. You cannot study the intricacies of organ systems with microbes.  You need the organs themselves to study the whole picture.
+1.5.3.1.1. Pro: This is a great example of using both in sequence. First study on cell cultures and then on organisms with more complex physiology and then humans. Each step is an effort to reduce the harm done to the next group and more accurately determine the impacts of what ever is being studied.
+1.5.4. Con: A full living organism is required to test the effects of various drugs and medical devices.
+1.5.5. Con: These tests typically require something like rat liver enzyme or other animal products to function, suggesting their death either way.
+1.5.6. Con: Complex physiological systems are not well modeled by cell cultures.
+1.5.6.1. Pro: Cell cultures cannot represent the digestive system, which is required by any medication administered by pill.
+1.6. Pro: Removing animal testing would mean increased research & development time as well as higher overall costs.
+1.6.1. Pro: Financial benefactors will not consider avenues of research and development that are not profitable. The process of creating a medically endorsed product can already take more than a decade of trials requiring funding. Abolition of animal testing would severely restrict the capacity of medical research.
+1.6.2. Con: The idea that keeping overall costs low is somehow more important than an animals life is immoral and inherently capitalistic.
+1.6.2.1. Con: There is nothing inherently immoral about capitalism, nor about preserving the lives of short-lived and insignificant life forms like mice.
+1.6.3. Pro: It is relatively cheap to acquire and keep lab animals.
+1.6.3.1. Con: It may be relatively inexpensive to keep animals such as mice. However, chimpanzees and other animals are far more expensive to look after in a laboratory.
+1.6.4. Pro: Model organisms help us better understand interactions and functions in other organisms that would otherwise be unavailable or impossible to study.
+1.6.5. Pro: Until a better way is discovered, animal testing is the most reliable method of determining the safety of medical / pharmaceutical technologies as well as advancing biological research we have to date.
+1.7. Pro: Animal testing has resulted in significant developments in medicine for humans.
+1.7.1. Pro: Animal testing reveals unexpected toxicities of new drugs and products, validates biological hypotheses and is a legal requirement of any new drug product as mandated by the FDA. I [Example FDA Guidelines](https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm070924.htm)[Testing summary for Biologics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881251/)have provided two starting points of research for anyone that wants to follow up. Read, and then follow the cited references, or browse the FDA website for further clarification.
+1.7.2. Pro: It has also increased our knowledge of animal medicine, biology, ecology and much more and will help us go sustainable and to eventually live in harmony will all life on earth
+1.7.3. Pro: Animal testing has resulted in discoveries to help treat [many](http://newsroom.ucla.edu/stories/animal-generates-new-treatments-45057) different conditions, including: breast cancer, Parkinson's disease and tuberculosis.
+1.7.3.1. Con: This is selection bias. Animal testing has been involved in a number of research avenues that have led nowhere. In addition, all of the animal testing that did lead to discoveries also involved humans.
+1.7.4. Pro: -> See 1.6.4.
+1.7.5. Pro: Medical discoveries and innovations made with the help of animal testing saves millions of human lives.
+1.8. Pro: We need them to model research instead of using humans.
+1.8.1. Con: Admitting you do not want to perform the same techniques or procedures on humans shows that one is aware of the immorality.
+1.8.1.1. Con: That is a matter of perspective. Any animal \(humans are animals too\) will value their lives and that of their own kind over those of other species. From the human perspective, a human life is more valuable and it would be immoral to sacrifice another human life rather than another species'.
+1.8.1.2. Con: One can study oxygen consumption in rats by looking at molecular dynamics in the beating heart. The surgery is invasive and would cause pain and distress if the animal were to wake up and “recover” after. It is more ethical to euthanise the rat, than to let it wake up and suffer. It is more ethical to perform the study in a rat than in a human because it is invasive and for knowledge, not treatment.
+1.8.2. Pro: Human life takes precedence over animal life. If you agree with that, than new drugs and technologies should be tested on animals first to protect human life from the unknown effects of new drugs and technologies as they are being developed.
+1.8.3. Con: Although many animal models provide a valid platform for exploring human physiology, many are poorly understood and do not translate at all. In many cases computer or simulated tissue models would provide a more valid \(and animal-sparing\) approach.
+1.9. Con: It is unethical and immoral to use animals.
+1.9.1. Pro: Animals are capable of feeling fear and pain. Any discoveries found are found using torture.
+1.9.1.1. Pro: Animals are sentient beings. Therefore they are aware of the pain they suffer as a result of trials.
+1.9.1.2. Pro: Ethicist Peter Singer [argues](http://www.animal-rights-library.com/texts-m/singer03.htm) that just because animals cannot communicate pain in a manner similar to humans does not mean that animals cannot experience pain.
+1.9.2. Pro: Scientific experimentation denies animals the opportunity to live a happy life.
+1.9.3. Con: Real and honest medical research that use animals are always under ethics commissions rules and supervision.
+1.9.4. Con: Humans are capable of feeling fear and pain, as such they should not be used for research either.
+1.9.4.1. Con: If this was the case, then no tests would be undertaken at all resulting in no advances in medicine and resulting in greater human suffering due to potentially treatable diseases and conditions.
+1.9.4.1.1. Con: This proves the point that animal testing is, in fact, the better alternative.
+1.9.5. Pro: No one has the right to play with other's lives like a god. Animals should be treated with respect. If this cruelty was left in the past, science would find a way to get through this change in their workstyles.
+1.9.5.1. Con: It is not possible to harvest a live human brain for neurological research. As such, if we can’t use animals, then we can’t use anything. That will get us nowhere.
+1.9.6. Con: Animal testing is heavily regulated.
+1.9.6.1. Con: Regulation still implies that animals suffer and are born only to serve as testing object and killed. So it stay immoral.
+1.9.7. Pro: Terminating lab animals has a negative effect on the researchers doing it.
+1.9.7.1. Con: It's an expected part of the job. If they can't handle it, they can change jobs.

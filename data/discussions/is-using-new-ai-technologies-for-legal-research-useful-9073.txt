@@ -1,0 +1,22 @@
+Discussion Title: Is using new AI technologies for legal research useful?
+
+1. The progression of AI and tech in the legal industry is useful for all parties.
+1.1. Con: AI might be programmed in a biased way.
+1.1.1. Con: Humans may also be biased.
+1.1.2. Con: This is a risk that is to be acknowledged, yet it is more the case for a strict testing of algorithms beforehand by independent human and automated testers.
+1.1.3. Con: Every tool can be used in a bad way. We should prevent misuse instead of preventing using the tools
+1.1.4. Pro: Any tool can be misused, any text that has more than 100 pages can be interpreted in any way. Just look at the religious books like bible - IRA - bombing for Christ, Crusades, burning witches at the stake, child rape - the words of god ... On the other hand Religion and Bible has brought nations together, helped in the time of plagues, built cities, and cared for orphans... It is just on the people how they use the tool.
+1.2. Pro: AI will be able to analyse huge amounts of information very quickly
+1.3. Con: Entry-level jobs will be cut.
+1.3.1. Pro: So what, at the beginning of the last century 90 percent of the population was working in agriculture, how many of them is working there now? 3 percent? What did they do? Did they die? no ... they changed profession....
+1.4. Con: Clients might react negatively to a firm investing in AI instead of humans.
+1.4.1. Pro: What company in a capitalist world did ever care about anything else except of profits? I doubt that this claim has anything to do with reality. This may be true if it will and it probably will, come to a high taxation of AI and robots in general, and thus the AI work might be more expensive then human one.... Which is unreasonable and unprobable. Taxation will come, but it will still produce more revenue to state to help the poorest ones to requalify.
+1.5. Pro: Using research tools would remove human error when doing tedious research or analysis tasks.
+1.6. Pro: Using legal research tools frees up entry-level employees to work on more complex cases which may be a more valuable use of their time.
+1.6.1. Pro: Thus, they are less likely to feel demotivated in doing mundane and tiring tasks.
+1.6.2. Con: Inexperienced graduates might feel like they are being thrown in at the deep-end with highly complex legal cases and client relationships.
+1.7. Pro: The world is progressing this way anyway, so it is better to adapt at the beginning and work with the new and improving technology than against it.
+1.7.1. Pro: AI has [already](https://abovethelaw.com/2018/04/what-does-ai-mean-for-legal-researchers/) been in use in legal research, for example when the Westlaw legal database introduced natural language search.
+1.7.1.1. Pro: QUIC/LAW was introduced in the 1960.
+1.8. Pro: Using AI has the potential to be a lucrative investment for the firm.
+1.8.1. Pro: Projects like IBM's Watson could lead to lawyers being able to be more [proactive](https://law.queensu.ca/how-will-artificial-intelligence-affect-legal-profession-next-decade) on new legal cases.

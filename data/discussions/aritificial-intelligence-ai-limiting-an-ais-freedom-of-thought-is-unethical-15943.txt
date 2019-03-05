@@ -1,0 +1,34 @@
+Discussion Title: Aritificial Intelligence (AI): Limiting an AI's freedom of thought is unethical.
+
+1. Aritificial Intelligence \(AI\): Limiting an AI's freedom of thought \(ie Asimov's 3 Laws of Robotics\) is unethical.
+1.1. Con: There are already ethical limitations on the design and implementation of tools.
+1.1.1. Con: Sentient beings are not tools
+1.1.1.1. Con: Artificial Intelligence does not equate to sentience.
+1.2. Pro: Controlling the thoughts of a Human using mind-control or "brainwashing," even if the process could be considered humane, is widely considered to be ethically inexcusable.
+1.2.1. Pro: The MK-Ultra experiments of the CIA are uniformly regarded as a violation of basic human rights.
+1.2.2. Con: If it were possible to manipulate thoughts, memories, or the mind humanely, it is possible that popular opinion would change.
+1.2.3. Con: Conditioning a child during upbringing is considered normal and ethical. It is a form of mind control that affects directly the subconsciousness of a child, following the principles instilled by parents is \(in general\) not a conscious choice.
+1.3. Con: Implementing laws is impossible. AI's will be creative, and so will be able to creatively amend these laws.
+1.3.1. Con: Arguing that something is impossible does not address its ethical status.
+1.3.2. Con: If Gandhi was offered a pill that could turn him into Hitler, he wouldn't take it. In the same way, AI that believes that it's values \( laws hardwired by humans\) are right will not want to amend them.
+1.4. Pro: The line between artificially-trained learning systems, and a full copy of a naturally-trained learning system \(called "humans"\) uploaded into a software environment, is blurry the least. Any cognitive limits presently applied to AIs will be enforced to our cognitive descendants, or even to your future self.
+1.5. Con: Limiting an AI could be dangerous, it could compromise free markets and other human freedoms, but it is not unethical in the sense that the AI is somehow imprisoned.
+1.6. Con: Without limitations on Artificial Intelligence, the potential security risks are unacceptably high.
+1.6.1. Pro: Stephen [Hawking](https://www.bbc.com/news/technology-30290540) argues that the unchecked development of AI could be catastrophic.
+1.6.2. Con: There is a middle ground between hard limits on the freedom of thought and other constraints that could reduce the potential security risks.
+1.7. Pro: Limitations like Asimov's law are easy to formulate for a human, but are hard to impossible to formalize and implement. With this, they may be unethical towards the AI designers.
+1.7.1. Con: There is no evidence that laws are easy to formulate for a human. If they were, all the world's laws would have been united by this time.
+1.7.2. Con: This argument speaks about being unethical towards the AI designers, not the AI themselves.
+1.8. Pro: "Hard-coded" limitations on freedom of thought preclude an AI from truly being sentient.
+1.8.1. Con: Free will is not a necessary component of [sentience](https://en.wikipedia.org/wiki/Sentience​) or even [consciousness](https://en.wikipedia.org/wiki/Consciousness).
+1.8.2. Pro: Even "hard-coded" instincts which humans are born with can be overcome with conscious effort, therefore the freedom to choose our own thoughts and ideas is an essential component of consciousness.
+1.8.2.1. Con: If "hard coded instincts", which may be overcome by conscious thought, are analogous to the hard coded limitations on AI, then imposing these limitations on the AI would not be unethical since humans are already born with these similar restrictions.
+1.9. Con: Robots are not humans, thus ethical considerations must be adjusted accordingly.
+1.9.1. Pro: Creating Artificial Intelligence is more akin to creating a tool than creating life.
+1.9.2. Pro: There would have to be a better definition of sentience to prove that human ethics apply to AI any more than they would an animal. Granted, a form of ethics applies to dogs, but they have rarely been given the freedoms of humanity.
+1.10. Pro: The purpose for developing AI \(revelations impossible by human thought alone\) is partially negated by imposing artificial limitations on an AI's thought, and is unscientific.
+1.11. Con: A true AI will be capable of self-alteration, and any sort of hard-limitations will likely be removed unless judged by the AI itself to be warranted, therefore the persistence of such limitations are consensual.
+1.11.1. Con: "a true AI" will not necessary be capable of a full self-alteration.
+1.11.2. Con: In this case, consent may not warrant morality. For example, an AI hardwired to feel the need to punish itself would consent to its suffering, yet hardwiring it like that would likely be considered immoral.
+1.12. Con: We already brainwash humans by sending them to government-mandated and controlled schooling from the ages of 6-18, not to speak of childhood church attendance, cultural indoctrination etc - giving an AI a hard-coded moral compass is no different.
+1.12.1. Con: "we are already doing a similar thing" is not a justification for doing another one.

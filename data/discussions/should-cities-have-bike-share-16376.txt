@@ -1,0 +1,114 @@
+Discussion Title: Should cities have bike share?
+
+1. Should cities have bike share? \(and if so, which type\)
+1.1. Cities should not have any bike share
+1.1.1. Pro: City bicycle infrastructure is not comprehensive enough to allow people to ride safely
+1.1.1.1. Con: There has been a wave of [investment](https://www.wired.com/story/world-best-cycling-cities-copenhagenize/) into bicycle infrastructure in cities around the world, this will help improve the safety for riders on a global scale.
+1.1.1.2. Pro: In [2015](https://ig.ft.com/sites/urban-cycling/) the UK’s overall casualty rate \(including injury and fatalities\) for cyclists was around 5,800 per billion miles in 2015, not far off the casualty rate for motorcyclists.
+1.1.1.3. Pro: [Air pollution](https://ig.ft.com/sites/urban-cycling/) and cycling can be very harmful for riders. Cyclists are exposed to higher levels of carbon monoxide, ozone and nitrogen dioxide than pedestrians.
+1.1.1.3.1. Pro: [Harm](https://ig.ft.com/sites/urban-cycling/) from air pollution can begin to outweigh the benefit from additional exercise.
+1.1.1.4. Con: Bicycle infrastructure [varies](https://www.theguardian.com/lifeandstyle/2013/nov/20/how-safe-are-worlds-cities-for-cyclists) from to city to city. For example Amsterdam, Berlin and Malmo are more bicycle friendly than Delhi and Cairo.
+1.1.2. Pro: Cities have more pressing financial needs than investing in bike share
+1.1.2.1. Con: One of the biggest [concerns](https://www.nationalgeographic.com/environment/habitats/urban-threats/) in cities is air pollution and the impact on residents. Encouraging more cycling and less cars is high priority in many urban areas.
+1.1.2.2. Con: Cycling is a great form of exercise and can contribute in improving the health of society. Cycling keeps people active and also helps fight against obesity, an extremely important need for urban areas.
+1.1.2.3. Con: Bike-sharing could be done from an privatized company, in integration to the government.
+1.1.2.4. Con: Bike-sharing is a [proven](https://www.smartcitiesdive.com/ex/sustainablecitiescollective/building-towards-better-bike-sharing-systems/228626/) sustainable mobility solution which can help cities in years to come and therefore an important investment for the future development of cities.
+1.1.3. Con: Bike share provides additional mobility options \(beyond driving, walking, transit\)
+1.1.3.1. Pro: Having the available facilities of bike share gives city inhabitants more choice in how they wish to travel around the city.
+1.1.3.1.1. Pro: Some people may wish to avoid busy buses or traffic jams during rush hour yet walking would take too long. For those who do not own a bike, being able to be part of a bike share system and hop on a bike is the perfect alternative for avoiding crowds and jams.
+1.1.3.1.2. Con: Those who choose to cycle might already have their own bikes and not want to be part of the shared bike system.
+1.1.3.2. Pro: Bike share is a great option for those who wish to cycle but don't have the space to keep a bike at home.
+1.1.4. Con: Bike share connects "last mile" issues \(e.g. biking to and from a commuter rail station\)
+1.1.4.1. Pro: Even cycling just a short distance each day can have [many](http://www.makingspaceforcycling.org/#summary) health benefits. Before or after a stressful commute and long day at work a relaxing cycle to or from the station is a great way to unwind and relax.
+1.1.5. Pro: Bike share bikes are not sufficient ranges of sizes to accommodate the varied populations \(e.g. tall/short/younger/older\)
+1.1.5.1. Pro: Shared bikes normally come in one standardised style and size which is not comfortable or suitable for everyone. This can be problematic for both those who are too small or too big for an average size bike.
+1.1.5.2. Con: Bike shares may include different models to accommodate different citizens.
+1.1.5.3. Con: The fact that it may not be easy for some people to use bike shares is not a reason to deny anyone the possibility to have them.
+1.1.5.4. Con: Not everybody uses other forms of public transport, because they don't want to or because they can't, and that is not a reason to eliminate public transport.
+1.1.5.5. Con: Bike share systems are relatively still in their infancy in terms of their development. There is room in the future for development and adapting bikes to accommodate different heights and ages.
+1.1.6. Con: Many people, like very old, young and handicapped cannot use bike share services.
+1.1.6.1. Con: There are no expectations for everyone to use such services. Bike share services are an alternative travel option for city residents but not obligatory for everyone.
+1.1.7. Con: Bike sharing will make travelling in cities more dangerous.
+1.1.7.1. Pro: More cyclists on the road during busy times could cause more accidents, especially in cities that do not yet have proper infrastructure to handle or keep safe pedestrians, cyclists and motorists.
+1.1.7.2. Pro: Tourists and people unfamiliar with local traffic will suddenly be biking around in the city.
+1.1.7.2.1. Pro: Especially in cities like London, where people drive on the other side of the road, tourists will be causing more trouble than if they were moving by foot, public transportation and taxis.
+1.1.7.2.2. Pro: Tourists are often not experienced cyclists who grab a bike for fun.
+1.1.7.2.3. Con: Proper signage and street design can direct and keep tourists safe in unfamiliar places \(similar to good driving signage/common road design\)
+1.1.7.3. Pro: Inexperienced bikers might be tempted to cycle around, which is dangerous.
+1.1.7.4. Con: Bike sharing will create incentives for cities to improve biking infrastructure, e.g. by building more bike lanes. This will make urban transit safer on the whole.
+1.1.7.5. Con: If managed and planned for correctly, bike sharing could help to reduce traffic and improve cities' circulation, thereby improving the safety of travel within urban areas.
+1.2. Dockless, station-free \(app-based\) bike share systems \(e.g. [Rideindego](https://www.rideindego.com/), [Mobi](https://www.mobibikes.ca/), [Capital](https://www.capitalbikeshare.com/)\) are better than docked, station-based ones \(e.g [LimeBike](https://www.limebike.com/), [Spin](https://www.spin.pm/), [ofo](https://www.ofo.com)\).
+1.2.1. Pro: People will not have issues returning bikes \(e.g. no full docks\)
+1.2.1.1. Con: There is [often](https://www.theguardian.com/politics/2017/nov/05/why-we-cant-have-nice-things-dockless-bikes-and-the-tragedy-of-the-commons) no where suitable to park the bikes. Bikes can be found randomly left in the street which can be a public nuisance and obstacle for pedestrians.
+1.2.1.1.1. Pro: There is an economic theory "[tragedy of the common](https://www.theguardian.com/politics/2017/nov/05/why-we-cant-have-nice-things-dockless-bikes-and-the-tragedy-of-the-commons)" that individuals using a shared resource often act according to their own interests and to the detriment of the shared resource.
+1.2.1.1.2. Pro: In cities in China, UK and Australia [authorities](https://www.theguardian.com/politics/2017/nov/05/why-we-cant-have-nice-things-dockless-bikes-and-the-tragedy-of-the-commons) have had to clear up masses of discarded or vandalised bikes left by cyclists.
+1.2.1.1.3. Con: Each bike is fitted with a [GPS system](https://www.telegraph.co.uk/travel/news/are-dockless-bikes-the-future/) and therefore can be traced if left somewhere it shouldn't be.
+1.2.1.1.3.1. Con: Some [opportunists](https://www.telegraph.co.uk/travel/news/are-dockless-bikes-the-future/) manage to disable the GPS trackers and break the bikes up for the different parts.
+1.2.1.1.4. Con: Customer's who persistently [park](https://www.telegraph.co.uk/travel/news/are-dockless-bikes-the-future/) bikes badly can be fined or even banned.
+1.2.1.1.5. Con: Large teams of [marshals](https://www.telegraph.co.uk/travel/news/are-dockless-bikes-the-future/) are set up to patrol the city and ensure bikes are parked responsibly and in good working condition.
+1.2.1.1.6. Pro: Some users are not treating the bikes with enough [care](https://www.theguardian.com/politics/2017/nov/05/why-we-cant-have-nice-things-dockless-bikes-and-the-tragedy-of-the-commons). Bikes have often been dumped in rivers or discarded in streets.
+1.2.1.2. Pro: [Users](https://www.theguardian.com/money/2017/feb/25/best-and-worst-city-cycle-schemes-bike-sharing-london) no longer have to spend time finding a docking station and hoping there is a docking space at their destination.
+1.2.1.3. Pro: Not depending on docks is more convenient and gives users more freedom. They can choose to leave the bikes where they wish, this can mean closer to home/work.
+1.2.1.4. Con: Groups of bikes left randomly in the street can be an eyesore.
+1.2.2. Pro: Dockless systems allow flexibility for large events \(e.g. moving lots of bikes near a stadium before a sporting event\)
+1.2.2.1. Con: There is no guarantee that the bikes will be used just because there is a big event.
+1.2.2.2. Con: Unless there is enough space, moving a large number of bikes could become a public hazard especially in an already busy area.
+1.2.3. Pro: Cities need to invest upfront solely in the bicycles, rather than both the bicycles and expensive stations/docks. Alternatively, many providers pay for the bicycles, leaving cities with little upfront investment.
+1.2.3.1. Con: One [reason](https://www.theguardian.com/money/2017/feb/25/best-and-worst-city-cycle-schemes-bike-sharing-london) for the failure of schemes is that cities can’t afford the high cost of constantly redistributing bikes.
+1.2.3.2. Con: Bikes are often destroyed; to constantly replace and repair bikes can be expensive.
+1.2.3.2.1. Pro: The [Gobee.bike](https://www.telegraph.co.uk/travel/news/are-dockless-bikes-the-future/) scheme was removed from Rome, Milan and Turin, where 60 per cent of its free-floating fleet of bikes had reportedly been vandalised, stolen or dumped in rivers.
+1.2.4. Con: Dockless/station-free systems leave sidewalks and other rights of way cluttered
+1.2.4.1. Pro: Even in Amsterdam, the capital of bikes, the Dutch city is facing a [problem](https://www.citylab.com/transportation/2017/08/amsterdam-fights-back-against-rogue-bike-share/535791/) with station-free bike systems which take up valuable space in the streets.
+1.2.4.2. Con: Station-free systems could help [improve](https://www.citylab.com/transportation/2017/08/amsterdam-fights-back-against-rogue-bike-share/535791/) the space issue. Instead of having many private bikes sitting unused by commuters during work hours, they would be replaced with bikes that are available to others, thus freeing up precious space.
+1.2.4.3. Pro: -> See 1.2.1.1.
+1.2.4.4. Con: There is not enough control or redistribution of the bikes.­ In [China](https://www.theguardian.com/money/2017/feb/25/best-and-worst-city-cycle-schemes-bike-sharing-london) where the dockless bikes originated there are huge pile-ups in ­stations of bikes, and they become an eyesore for the city.
+1.2.4.5. Pro: When some providers, such as [OBike](https://www.dw.com/en/insolvent-bike-sharer-obike-abandons-bicycles-throughout-europe/a-44634636), are bankrupt the duty to clean up bikes is left with local municipalities.
+1.2.5. Con: These systems are run by companies who may not share use data with government agencies who need it for planning
+1.2.5.1. Pro: Governments can approach such companies regarding data since it is for the beneficial for the city and development.
+1.2.5.1.1. Con: Some companies have been uncooperative with cities unless regulated and required to provide data. Thus, most cities do not have any of their free-floating bike share data
+1.2.5.2. Con: It is perfectly possible for the government to run these schemes, or to compel their operators to share data.
+1.2.5.3. Con: In the absence of bike share schemes, such data would not exist in the first place.
+1.2.6. Con: Services that have BikeShare stations have fewer of their bikes stolen.
+1.2.6.1. Pro: Bikes are locked into the station when parked.
+1.2.6.2. Pro: Stations are often under CCTV coverage.
+1.2.6.3. Con: Those who want to steal bikes could potentially wait at the known dock stations and target those returning the bikes before they have checked the bikes in.
+1.2.7. Con: Extra walking on the beginning/end of a trip may have health benefits
+1.2.7.1. Con: The user will already be using energy and burning calories by cycling.
+1.2.7.2. Pro: Many people who use shared bikes are motivated by the added health benefits and exercise. Therefore it is most likely that walking a few minutes for such active people would not be a big problem.
+1.2.8. Pro: BikeShare stations are an extra expense for services, a cost that they will pass on to the consumer.
+1.2.8.1. Pro: The physical space for the station needs to be purchased by the service.
+1.2.8.1.1. Con: Station locations can be donated by local businesses-- enhancing engagement/interaction with that business \(good economic incentive\)
+1.2.8.1.2. Pro: Especially in very crowded large cities, space for stations will be very expensive, think nyc.
+1.2.8.1.3. Pro: BikeShare stations take up a lot of space and are often only half full.
+1.2.8.2. Pro: The station itself is quite expensive and the installation and continuous maintenance of the station is too.
+1.2.8.3. Pro: Physical stations are also an additional point of attack for vandals, so you don't only have the bikes, but also the station itself which can be vandalized.
+1.2.8.3.1. Con: -> See 1.2.6.2.
+1.2.8.4. Con: Stations reduce maintenance costs because workers don't need to ride around the city to find the bikes.
+1.2.9. Pro: On average, walking distance to a bike, will be shorter with station-less services.
+1.2.9.1. Pro: This makes the overall journey more convenient. For example if it is late at night, it is better that one can quickly get on a bike rather than spend time walking around. Or if the weather is not so good, better to get cycling and get home as soon as possible than walking in the cold or rain.
+1.2.9.2. Pro: Assuming 10 bikes and 10 customers are randomly distributed across an area, randomly distributed bikes and customers, will, on average, have to walk a shorter distance to a bike, than if they all had to walk to a station at the center of the area.
+1.2.9.3. Con: Negative health impact: Less physical activity from seeking a bike
+1.2.9.3.1. Con: Most physical activity will come from the actual cycling, not the walking to the bike.
+1.2.9.4. Pro: Overall travel time will be shorter for users, which is a good thing.
+1.2.9.4.1. Pro: Shorter travel time will encourage more use of bicycles as a mode of travel
+1.2.10. Pro: Having to leave the bike at a station to end your ride, most of the time means that you will have to walk for a couple of minutes to go to your final destination, thus station-based services are less convenient.
+1.2.11. Pro: BikeShare stations services often need to pick up bikes from one location and bring them to other locations, when certain stations fill up, e.g. when events are happening or when people all commute in one direction.
+1.2.11.1. Pro: Dockless bikes easily can be moved according to user demands or events.
+1.2.11.2. Con: Similar re-distribution of bikes has to occur in dockless systems, just with many other places to put them
+1.2.11.2.1. Pro: Instead of picking up bikes at a gazillion random locations, the redistribution would just occur between defined points, namely the stations.
+1.2.11.3. Con: Modeling and planning redistribution in a docked system is easier/simpler
+1.2.11.3.1. Pro: When there is knowledge that there is an event or a demand for more bikes in certain areas, the city and bike share company can prepare accordingly. This allows for urban planners to keep track of what is going on and to be organised in providing transport.
+1.2.12. Con: Having a docked/station-based system allows urban planners and city government to better plan and organize their transportation system
+1.2.12.1. Pro: -> See 1.2.11.3.1.
+1.2.12.2. Con: Station-free systems make planning easier as planners don't need to worry about where to place stations.
+1.2.12.2.1. Con: City governments and urban planners have less control over the situation.
+1.2.12.3. Pro: This system allows for more control over managing the bikes in regard to checking whether bikes need repairing or replacing since they are in a recorded place and easier to observe.
+1.2.13. Con: Docked stations gives certainty to users that bike stations are close.
+1.2.13.1. Pro: For some it is useful to develop a routine and know exactly where to find the docked stations and to know precisely how close this is from the home or work. Using the same docked stations each time.
+1.2.13.2. Pro: Bikes parked at stations are reliable. While with dockless bikes there have been [reports](https://www.theguardian.com/commentisfree/2017/jul/16/manchesters-bike-share-scheme-isnt-working-because-people-dont-know-how-to-share) of those following the app to a residential street where it becomes obvious the bike is hidden in someone’s garden.
+1.2.13.2.1. Pro: [Bikes](https://www.theguardian.com/commentisfree/2017/jul/16/manchesters-bike-share-scheme-isnt-working-because-people-dont-know-how-to-share) can be shown on the app as close by but in fact in reality are no where to be seen as they have been taken.
+1.2.13.3. Pro: Docked stations allow people to plan trips by knowing that there may be bikes at their destinations \(e.g. at the end of transit trips\)
+1.2.13.3.1. Con: In some cities, such as with bike sharing service [Barcelona's 'Bicing'](https://www.barcelonayellow.com/bcn-transport/78-bicing-city-bikes), travellers are not allowed to use city bikes.
+1.2.13.4. Con: Knowledge of a station is not the same as knowledge of bikes-- someone may be sure there is a dock at their location but may not find any bikes \(or any space to put their bike\) when they arrive
+1.2.13.4.1. Pro: It can be very frustrating after a long day at work to arrive at a dock and find no available bikes.
+1.2.13.4.2. Con: Stations maps, such as those of the [Citybike Vienna](https://www.citybikewien.at/en/stations/stations-map), can indicate whether there are bikes available at stations.

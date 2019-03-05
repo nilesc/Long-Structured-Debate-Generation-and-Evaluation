@@ -1,0 +1,12 @@
+Discussion Title: Golang vs. Java: Which is better for development?
+
+1. Golang vs. Java: Which is better for development?
+1.1. Pro: Golang is popular among developers because of its simple design.
+1.2. Pro: [Golang development](https://www.itechart.com/development/web/go/) is also better for the QA process as it includes a built-in error checking feature.
+1.3. Con: Golang has a small community
+1.4. Pro: Go has incredibly simple and straightforward design, which allows new team members to start building production software faster.
+1.5. Con: Golang is still being built
+1.5.1. Con: Java is still evolving too.
+1.6. Pro: Go was designed with concurrency in mind.
+1.7. Pro: Speed is one of the greatest benefits of Golang.
+1.8. Pro: We know this is not a direct technical advantage. But, Go is designed and supported by Google. Google has one of the largest cloud infrastructures in the world and it is scaled massively.

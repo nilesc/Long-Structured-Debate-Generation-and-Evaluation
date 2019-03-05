@@ -1,0 +1,14 @@
+Discussion Title: Werden deutsche Literaturübersetzer*innen von der EU-Urheberrechtsreform proftieren?
+
+1. Werden deutsche Literaturübersetzer*innen von der EU-Urheberrechtsreform proftieren?
+1.1. Con: Es gibt bessere Möglichkeiten, Urheberrechte zu schützen und Urheber*innen für die Nutzung ihrer Werke zu entschädigen.
+1.2. Pro: Die Reform verbessert die Situation von Urheberrechtsinhabern, indem sie Urheberrechtsverstöße erschwert.
+1.3. Pro: Insbesondere große Plattformen wie Google und Facebook werden durch die Reform künftig daran gehindert, von Usern hochgeladene urheberrechtlich geschützte Inhalte ohne eine angemessene Bezahlung der Urheber zu verwerten.
+1.4. Con: Der Reformvorschlag gefährdet die Vielfalt im Netz, da die darin enthaltenen Anforderungen für kleinere Anbieter nur sehr schwer umsetzbar sind, während etablierte, größere Internetplattformen sich die Umsetzung leisten können.
+1.5. Pro: Stichwort Plattformverantwortung: Für die Sicherung der Urheberrechte ist es wichtig oder sogar unverzichtbar, die Verantwortung für die Einhaltung der Urheberrechte von den Nutzern einer Plattform auf deren Betreiber zu verlagern.
+1.6. Con: Zur praktischen Umsetzung der Reform würden technische Strukturen entstehen \(zum Beispiel so genannte Upload-Filter\), die ohne viel Aufwand als Zensurinstrumente missbraucht werden könnten.
+1.6.1. Pro: Für große Plattformen wie Facebook sind die in der Reform formulierten Anforderungen nicht ohne automatisierte Filtermachanismen umsetzbar.
+1.6.2. Pro: Der immense technische Aufwand für den Einsatz von Upload-Filtern kann nur von großen Unternehmen getragen werden. Somit würde die Reform die Position von Google und Facebook sogar noch stärken und ihnen Mittel und Rechtsgrundlage für eine globale Internet-Zensur zur Verfügung stellen.
+1.6.3. Con: Bei der EU-Urheberechtsreform handelt es sich lediglich um eine Richtlinie. Diese erlaubt für viel Gestaltungsspielraum bei der Implementierung auf nationaler Ebene.
+1.7. Con: Der Vorschlag lässt zu viele Punkte im Ungewissen; seine Auswirkungen sind zu wenig kalkulierbar und könnten sich für etliche Internetnutzer und -anbieter sehr nachteilig auswirken, allein schon durch die zu erwartende Rechtsunsicherheit.
+1.8. Con: Es gibt bereits jetzt ausreichend wirksame Möglichkeiten, Urheberrechtsverstöße zu verhindern und/oder zu ahnden.

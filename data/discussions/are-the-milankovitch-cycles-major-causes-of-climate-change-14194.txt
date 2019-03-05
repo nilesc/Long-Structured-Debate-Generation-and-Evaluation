@@ -1,0 +1,24 @@
+Discussion Title: Are the Milankovitch Cycles major causes of climate change?
+
+1. The Milankovitch Cycles are major causes of climate change.
+1.1. Con: The variations of Milankovitch cycles aren't large enough to explain the recent spike in global temperature.
+1.1.1. Pro: [Satellites](http://www.climatecentral.org/library/faqs/how_do_we_know_it_is_not_a_natural_cycle) have been monitoring the Sun since the 1970s — when the fastest warming has been taking place — and the brightening isn't there.
+1.2. Con: Anthropogenic climate change is much faster. We warm the Earth in 100 years as it naturally happens in 41000 years.
+1.2.1. Pro: Several reports suggest that manmade warming could even accelerate in the next 10 years.
+1.3. Pro: The sun is the major influence on climate.
+1.3.1. Con: The discussion is about climate change and the Sun's influence on climate change depends on the time frame. Over the course of a solar cycle, the Sun has a small influence on the climate and over 100s millions of years, the gradual warming of the Sun, has a larger influence. However, over the last million years the Sun has had little or no influence. The Milankovitch cycle then man-made CO2 are the major cause of climate change.
+1.4. Con: You introduce the Cycles as a poorly understood contributor \(which I agree with\) to claiming they are the primary cause \(which I don't agree with\). Poor consistency in your submission.
+1.5. Con: The cycles change over thousands of years.
+1.6. Pro: It is recognised that the cycles caused the present Quaternary ice age to start.
+1.6.1. Con: Geologically we are on the way into a new ice age but temperatures are increasing; so are taking the opposite direction.
+1.6.2. Con: Milankovitch cycles are insufficient to explain the full range of Quaternary climate change.
+1.7. Con: Other factors caused the Quaternary to begin.
+1.7.1. Con: It is unclear what other factors this refers to, which makes it too vague to stand.
+1.8. Pro: For the past 800 thousand years the Earth has moved from glacial to inter-glacial periods consistently in line with the periods of the Milankovitch cycles.
+1.9. Con: The correlation is not precise and could be coincidence.
+1.9.1. Pro: It should be proved by scientific evidence
+1.9.1.1. Con: Not everything can be proved by science.
+1.10. Pro: The present way of measuring the changes in the sun's radiative output, Total solar Irradiance \(TSI\), is overly simplified and not a reliable guide.
+1.10.1. Con: This does not prove that it is the milankovitch cycles causing climate change.
+1.11. Con: TSI is the best measurement we currently have.
+1.11.1. Con: It is unclear what TSI stands for - could it be clarified?

@@ -1,0 +1,20 @@
+Discussion Title: Is Preferential Voting a more effective system for ensuring fairer election outcomes?
+
+1. Is Preferential Voting a more effective system for ensuring fairer election outcomes?
+1.1. Pro: It prevents [tactical voting](https://en.wikipedia.org/wiki/Tactical_voting), in which people doesn't vote for their most sincere preference when their favorite candidate is not likely to win.
+1.1.1. Con: [Arrow's Impossibility Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) proves that no ranked-choice voting system can prevent tactical voting.
+1.2. Con: It isn't [precinct-summable](https://wiki.electorama.com/wiki/Summability_criterion).
+1.3. Con: It appears to be [non-monotonic](https://en.wikipedia.org/wiki/Monotonicity_criterion), where increasing support for a candidate can sometimes cause that candidate to do worse, and vice versa.
+1.4. Pro: When Preferential Voting is used, the successful candidate requires an absolute majority before they can be declared to have won.
+1.4.1. Con: Every voting system has the potential to eliminate candidates and therefore won't produce true majorities but only majorities from the possible selection
+1.4.1.1. Con: While IRV may not elect true majorities, it does however passes the Condorcet loser criterion. A voting method passes this criterion if it will never elect a candidate that would have lost in a head to head runoff with every other candidate in the race. So this means that in instant runoff voting, the winner is always at least preferred by a majority of voters to at least one other candidate in the race.
+1.5. Pro: The allocating of preferences allows voters the opportunity to have other selections and opinions taken into account.
+1.6. Pro: Allows parties and candidates with like minded policies and philosophies to except preferences in order to increase their chances of winning.
+1.7. Pro: Prevents gerrymandering.
+1.8. Con: System is more complex thus voters find ballots more difficult to complete.
+1.9. Con: The process of counting and recounting votes is time consuming.
+1.9.1. Con: Even if this process is time consuming, it's not a waste of time because the benefits will last for the next few years. If the system succeed to elect the most efficient and productive candidate, we will save years of time in the state politics.
+1.10. Con: Higher occurrence rate of informal or 'donkey' voting.
+1.11. Con: Promotes a Two Party System that is detrimental to minor parties.
+1.11.1. Con: It allows for more accurate voting along preferred lines. It doesn't always lead to two party rule, as the third or fourth party can syphon away votes if the two primary left-right parties become unpopular.  [This is for single transferable vote](https://www.youtube.com/watch?v=l8XOZJkozfI). [This is for alternative voting.](https://www.youtube.com/watch?v=3Y3jE3B8HsE)
+1.11.2. Con: First-past-the-post is much more favourable to two-party systems, as third parties run the risk of vote-splitting and allowing the election a "worse" candidate. Preferential voting permits casting votes for third parties knowing that if that candidate is not successful, your vote will go to a second or subsequent choices, encouraging third-party voting.

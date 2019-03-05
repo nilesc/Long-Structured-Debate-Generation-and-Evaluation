@@ -1,0 +1,28 @@
+Discussion Title: MacOS and Windows should sandbox all apps
+
+1. MacOS and Windows should sandbox all apps
+1.1. Con: There is already [existing software](https://www.maketecheasier.com/best-sandbox-applications-windows10/) that allows you to sandbox any application running on your system.
+1.1.1. Con: The operating system should provide this functionality transparently. Users do not have the expertise to investigate issues with sandboxed applications so are likely to disable a sandbox instead of debugging permissions.
+1.2. Pro: Users who want to restrict rights can do so.
+1.3. Pro: With a good sandbox you can be less worried about which apps you can trust.
+1.3.1. Con: It's hard to judge how good a sandbox is, which can give a false sense of security.
+1.4. Pro: Sandboxes apps can't spy on you through your camera or mic without your permission
+1.5. Pro: Sandboxed apps can't read files that don't belong to that app or which the user has not given them permission to read
+1.6. Con: Many system and developer level apps may need to be re-written to ask for permissions
+1.6.1. Con: The permission can be asked when the application first accesses the feature in question, in a transparent way.
+1.6.2. Con: If that improves overall security for users it is a worth investment of efforts, money and time from a consumer's perspective.
+1.7. Con: If giving an app all permissions is an option most apps will ask for all permissions and users will just click "Okay" so no actual safety will be added
+1.7.1. Pro: If permissions are asked for on demand like most mobile OSes this is probably a non-issue.
+1.7.2. Con: Users are constantly trained to click "Yes" on permissions requests.  To most users that is just "what you do to make the computer work".  They do not consider it as them making a decision about security ramifications.
+1.7.2.1. Pro: The EU data protection efforts have resulted in many website promting users to accept a popup in order to use the site.
+1.7.2.2. Con: That can be improved with better pop-up messages that clearly explains the ramifications of the decisions, even to really clueless users.
+1.7.3. Pro: When Windows introduced their "app x wants to do this, do you want to allow this" dialog, users basically always clicked yes.
+1.7.3.1. Pro: They are unable to evaluate the security implications of their choice.
+1.7.3.2. Pro: It's tedious and they just want to get the job done, in this case, launching or installing a specific app.
+1.7.4. Con: This is a failure of the user and not of the system. Just as the user can refuse those permissions, he can also demand to know why a calculator needs to read his emails, give bad reviews on those grounds, and call the creator a scammer..
+1.8. Con: Apps running in a sandboxes are often slower than non sandboxes apps.
+1.8.1. Con: When all applications are sandboxed and thus performance baseline is normalised \(such as with mobile OSs\) this distinction is invisible to users and does not affect their experience
+1.9. Pro: Sandboxed apps can't install key loggers or rootkits
+1.10. Con: Getting asked for permissions by various apps \(can I access the camera, can I read you photos, can I send you notifications, can I get your location, etc...\) is annoying.
+1.10.1. Pro: Mobile users seem to be okay with getting asked for permissions on demand, why would desktop users be any different?
+1.10.2. Pro: If it only asks for permission the first time and then remembers the answer then you don't have to answer often, only when the app is first installed, or when a new function is being used, which is when it is most easy to understand if the permission request is warranted or not.

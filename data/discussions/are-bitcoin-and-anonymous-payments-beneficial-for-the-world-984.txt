@@ -1,0 +1,776 @@
+Discussion Title: Are Bitcoin and Anonymous Payments Beneficial for the World?
+
+1. Assuming that a flawless system for [anonymous](http://pastebin.com/ABSzKUV2) payments \(APs\) were to exist, anonymity, as an [attribute](http://pastebin.com/ABSzKUV2) of this system, would be beneficial.
+1.1. Con: Criminals greatly benefit from APs.
+1.1.1. Pro: Buying and selling illegal goods would become much easier.
+1.1.1.1. Pro: APs are likely to undermine the fight against [child](http://www.bloomberg.com/news/articles/2014-10-09/bitcoin-payments-by-pedophiles-frustrate-child-porn-fight) pornography.
+1.1.1.1.1. Con: The existence of child pornography probably doesn't stem from a gap in the market that criminals would fill by producing and selling child porn material for a living. Instead it stams out of some people's sexual drives toward children — child porn would exist regardless of financial gains behind it. While anonymous payment technology may play a role in facilitating these criminal activities it doesn't address the underlying causes.
+1.1.1.2. Pro: Drugs are much easier to purchase online, using APs.
+1.1.1.2.1. Pro: [Silk Road](https://en.wikipedia.org/wiki/Silk_Road_%28marketplace%29) only became a billion USD operation, because APs in the form of Bitcoin transactions, existed.
+1.1.1.2.1.1. Con: It is a [mistake](https://bitcoin.org/en/you-need-to-know) to think Bitcoin is an AP.
+1.1.1.2.1.2. Con: Cryptocurrencies are a government's dream come true. They create a permanent, public record of all transactions and are not anonymous in any meaningful sense, and addresses can be tracked and monitored by both state and private actors.
+1.1.1.2.1.2.1. Pro: If a government wanted totalitarian control of an economy, and to totally eliminate privacy, it would do well to encourage the adoption of cryptocurrencies.
+1.1.1.2.1.2.2. Con: The above claim about crypto-currencies is true. Blockchains are not anonymous. But the original discussion was "APs done right". If APs are eventually anonymous, then the above claim is not applicable to this specific discussion.
+1.1.2. Con: This is already possible using cash, should we ban cash too?
+1.1.2.1. Con: With less cash in society there would likely be less cash-related crime \(robberies, muggings, pick-pocketing, etc\).
+1.1.2.1.1. Con: And more state sponsored crimes: Taxation, inflation, censorship, loss of freedom and choice.
+1.1.2.2. Pro: A common argument against crypto $ as currency is that the anonymous nature of this money will fuel criminal behavior.  While it's true that new types of criminal behavior will arise due to crypto $, the same argument could be said for cash.  At least with crypto $ there is public ledger to follow transactions as they occur.
+1.1.2.3. Con: The argument at hand is that AP benefits criminals more than the current system. In this case cash. Currently, transferring cash in anonymous ways through the internet is hard.
+1.1.3. Con: It's not a matter of whether criminals benefit from AP's or whether they do not, because money is a citizen's property. Crime is to be judged after the fact, not prior, and money is too universal to simply outlaw privacy with because it has the potential for being on the side of criminality.
+1.1.3.1. Con: If at the end of the road criminals have more benefit from AP's, than non-criminals have benefit from them, you *can* argue they are not beneficial for the world.
+
+By the same reasoning, gun-ownership is controlled in Europe, because the harm to society is estimated to be greater than the benefit. Even though owning a gun would not necessarily cause you to shoot someone.
+1.1.4. Con: Even if criminals use AP's, there are many other ways to fight crime.
+1.1.5. Con: AP's are still worthwhile if society as a whole benefits.
+1.1.6. Pro: Laundering proceeds from criminal activities would become unnecessary as the money could not be traced regardless of how it is spent.
+1.1.6.1. Pro: You could immediately use the proceeds from illegal activities without having to launder them, as the source of an AP used for legal purchases would be unknown.
+1.1.6.1.1. Con: You still need to launder money, as white money can be traced back to a legitimate transaction, which has nothing to do with anonymity.
+1.1.6.1.1.1. Pro: White money is what laundering is about, not paying for an other illegal endeavor with black money.
+1.1.6.1.1.2. Pro: In order to use money legally, you have to explain its whereabouts and how you got it.
+1.1.6.1.1.2.1. Con: Buying something does not require this information.
+1.1.6.1.1.2.1.1. Pro: The seller of an apartment or a car is not interested in how the money was created as long as there is no suspicion of illegality.
+1.1.6.1.1.2.1.2. Con: Tax authorities can of course demand to know with which funds you paid for something that you own.
+1.1.6.2. Con: -> See 1.1.6.1.1.
+1.1.7. Pro: APs could make it a lot easier for international terrorists to fund and plan assaults.
+1.1.7.1. Con: Problematic terrorist groups are not the only groups that would benefit in this way. Freedom fighters and campaigners against corrupt and oppressive states would enjoy the same benefits. At best, this feature of anonymous payments would be neutral, providing benefits to some net-negative organisations and some net-positive organisations.
+1.1.7.1.1. Pro: Freedom fighters and terrorists are often the same. Just the labeling reflects which side you are on.
+1.1.7.1.1.1. Pro: Until today there is a dispute of whether to label [An Jung-gun](https://en.wikipedia.org/wiki/An_Jung-geun) who shot [Ito Hirobumi](https://de.wikipedia.org/wiki/It%C5%8D_Hirobumi) in 1910 a [freedom fighter](http://time.com/2609/104-years-later-a-chinese-train-station-platform-is-still-the-site-of-anti-japanese-rancor/) like China and Korea  or as a [terrorist](http://www.bbc.com/news/world-asia-25808437) as Japan.
+1.1.7.1.1.2. Pro: The Taliban were first labelled as freedom fighters by Reagan but are considered terrorists now. [1\)](http://www.businessinsider.com/reagan-freedom-fighters-taliban-foreign-policy-2013-2)
+1.1.7.1.1.3. Con: From a German perspective the difference between freedom fighters and terrorists is pretty clear, it is just unclear when you are looking at it from a global perspective or comparing different countries' perspectives on the same entity.
+1.1.7.1.2. Con: The benefit of APs in supporting freedom fighters in some far away country are minuscule, compared to the threat of better funded terrorists.
+1.1.8. Pro: Many criminal activities became much easier once bitcoins entered the mainstream.
+1.1.8.1. Pro: Silk Road would not have been possible without bitcoins.
+1.1.8.2. Pro: DDOS and hacking attacks on corporations become much easier to profit from after victims were able to pay via bitcoins.
+1.1.8.2.1. Pro: -> See 1.1.1.2.1.
+1.1.8.2.2. Pro: DDOS service are for [hire](http://krebsonsecurity.com/2016/09/israeli-online-attack-service-vdos-earned-600000-in-two-years/) for as little as $30 per month.
+1.1.9. Pro: Tax fraud would become much easier.
+1.1.9.1. Pro: Freelancers could just receive \(partial\) payment for their services via APs and nobody would know.
+1.1.9.1.1. Pro: Today most freelancers get paid via wire transactions to theirs bank accounts which the tax authorities can just query and compare to the stated incomes.
+1.1.9.1.2. Pro: One can easily exclude payments received via APs from one's tax declaration, as there is no way for tax authorities to query for those, as there is with bank accounts.
+1.1.9.1.2.1. Pro: That makes taxes in effect voluntary.
+1.1.9.2. Pro: Big ticket purchases would be partially paid for via APs to avoid taxes.
+1.1.9.2.1. Pro: This was eg customary in Greece, where, when you bought a house, often a part of the sum was paid in cash to avoid real estate taxation on the house price.
+1.1.9.2.2. Pro: Any purchase that is big and where the price is negotiable, eg jewelry, could have a mixed payment, partly credit card, partly AP, in order to avoid paying VAT on it.
+1.1.9.3. Pro: -> See 1.1.9.1.2.
+1.1.9.4. Pro: Since AP payments cannot be tracked, people would purchase from illegal marketplaces which would not include VAT. \([investopedia](http://www.investopedia.com/ask/answers/100314/what-are-advantages-paying-bitcoin.asp)\)
+1.1.9.5. Pro: By allowing you to transfer money around the globe without leaving any traces, individuals could transfer money into foreign bank accounts and circumvent the tax authorities this way.
+1.1.9.5.1. Pro: Today, banks have records of those transfers and need to report transfers above certain limits. [1\)](https://en.wikipedia.org/wiki/Currency_transaction_report)
+1.1.10. Pro: APs make stealing of money much easier.
+1.1.10.1. Pro: There is no way to trace where the money went.
+1.1.10.2. Pro: There is no way to see when the stolen money is being used via APs.
+1.1.11. Pro: Certain criminal activities in cyberspace become much easier when using APs.
+1.1.11.1. Pro: -> See 1.1.1.2.1.
+1.1.11.2. Pro: Online extortion is much more likely, when APs are available.
+1.1.11.2.1. Pro: [You’re infected—if you want to see your data again, pay us $300 in Bitcoins](http://arstechnica.com/security/2013/10/youre-infected-if-you-want-to-see-your-data-again-pay-us-300-in-bitcoins/)
+1.1.11.2.2. Pro: [CryptoLocker's crimewave: A trail of millions in laundered Bitcoin](http://www.zdnet.com/cryptolockers-crimewave-a-trail-of-millions-in-laundered-bitcoin-7000024579/)
+1.1.11.2.3. Pro: [Encrypted email provider ProtonMail caves in to extortion, hands over $6000](http://Encrypted email provider ProtonMail caves in to extortion, hands over $6000)
+1.1.11.2.4. Pro: [Armada Collective blackmails Swiss Hosting Providers](http://www.govcert.admin.ch/blog/14/armada-collective-blackmails-swiss-hosting-providers)
+1.1.11.3. Pro: For example, [the Assassination Market](http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/) allows people to  contribute Bitcoins to place a bounty on major government figures.
+1.1.12. Pro: APs make black market labor much easier.
+1.1.13. Pro: APs enable criminals to very easily transfer huge amounts of money anonymously. This is very hard to do otherwise.
+1.1.14. Pro: Paying for criminal activities would become much easier via APs.
+1.1.14.1. Pro: Instead of having to physically bring cash to the criminal, you could just AP it to him, thus never even having to meet in person.
+1.1.15. Pro: Corruption would become much worse.
+1.1.15.1. Con: It would not be any worse than in a society that uses cash
+1.1.15.2. Pro: People in positions of power are especially careful and sensitive to money being traced to them, thus APs would make sending and receiving bribes much easier for them.
+1.2. Con: Ordinary citizens do not need APs for everyday life.
+1.2.1. Pro: Ordinary citizens are used to having most of their monetary in- and outflows tracked and are ok with this.
+1.2.1.1. Pro: Otherwise they would have long-time ago rebelled against using banks and wire transfers, which has not been the case.
+1.2.1.2. Pro: Every legally employed person receives his salary by wire transfers.
+1.2.2. Pro: In Sweden, 80% of all transactions in the retail industry are paid using credit cards and the active amount of cash in circulation has steadily been decreasing. This was driven by consumers themselves wanting to advance to a cashless age. [1\)](http://ecommercenews.eu/sweden-worlds-leader-cashless-trading/) [2\)](http://www.sciencealert.com/sweden-is-on-track-to-become-the-world-s-first-cashless-society)
+1.2.3. Pro: Ordinary citizens do not care about anonymity, but about privacy and security.
+1.2.4. Pro: APs will rarely enhance the anonymity of ordinary citizens' transactions and are thus of little benefit to them.
+1.2.4.1. Pro: APs are useless for purchases of physical goods as the delivery could just as easily be tracked.
+1.2.4.1.1. Pro: When purchasing goods or services in person you are present and thus, in today's age of video surveillance, next to no transaction is anonymous. At the very least the seller sees your face.
+1.2.4.1.1.1. Con: You can deny of having been there as long as there is no prove in form of a CCTV
+1.2.4.1.1.1.1. Con: Most shops today have some form of CCTV.
+1.2.4.1.1.1.1.1. Pro: CCTV kits today are very cheap and thus no problem to install.
+1.2.4.1.1.1.1.1.1. Pro: CCTV systems have become cheap because any webcam or cellphone can be used to this end.
+1.2.4.1.1.1.1.2. Con: Your face would be seen, thus it would not be anonymous anymore.
+1.2.4.1.1.1.1.2.1. Con: He may recognize your face, but he would not know private information such as your address, birthdate, etc.
+1.2.4.1.1.1.1.2.1.1. Con: But if you are purchasing something dodgy or illegal he could identify you later on or put a picture of you having been made by a CCTV on the Internet.
+1.2.4.1.1.1.1.2.1.1.1. Con: Most small kiosks do not have CCTV since the installation is expensive and they opened before CCTV became widespread
+1.2.4.1.1.1.1.2.1.1.1.1. Pro: Because kiosks are very small and cramped more CCTVs are necessary which increases the price.
+1.2.4.1.1.1.1.2.1.1.1.1.1. Con: -> See 1.2.4.1.1.1.1.1.
+1.2.4.1.1.1.1.2.1.1.1.1.2. Con: Typically the first thing shop owners do is put a camera at the cashier.
+1.2.4.1.1.1.1.2.1.1.1.1.3. Con: Putting CCTVs in a small shop is much less effort than in a big shop.
+1.2.4.1.1.1.1.2.1.1.1.2. Con: -> See 1.2.4.1.1.1.1.1.
+1.2.4.1.1.1.1.2.1.2. Con: Already seeing your face, means that you are not anonymous anymore.
+1.2.4.1.1.1.1.2.2. Con: That nice guy sees so many faces everyday. If you just go there once he will not remember you the next day in the evening.
+1.2.4.1.1.1.1.2.2.1. Pro: If you ever worked somewhere where there are tons of anonymous customers entering you have an idea that remembering an individual face is too much if it does not feature certain characteristics
+1.2.4.1.1.1.1.2.2.2. Con: He would, especially if you had an odd request for him to receive a parcel for you.
+1.2.4.1.1.1.1.2.2.3. Con: You would at least have to see him twice, once to organize it and the second time to pick it up.
+1.2.4.1.1.1.1.2.2.4. Con: He might not be able to draw it out of memory, but he  would remember your face if he had to pick it in a lineup.
+1.2.4.1.1.1.1.2.2.5. Con: If the recipient were an easy to remember person, he would for sure be remembered. Whichever system we use will have to work for everybody in order to be considered anonymous.
+1.2.4.1.1.1.1.2.2.5.1. Pro: Celebrities' faces would be remembered.
+1.2.4.1.1.1.1.2.2.5.2. Pro: Disfigured faces would be remembered.
+1.2.4.1.1.1.1.2.2.5.3. Pro: Strikingly beautiful faces will be remembered.
+1.2.4.1.1.1.1.2.2.5.3.1. Con: Ugly faces have more unique features which make them easier to remember.[1\)](http://www.sciencedaily.com/releases/2014/02/140204101714.htm)
+1.2.4.1.1.1.1.2.2.5.3.1.1. Con: The brain triggers a feeling of reward when watching a beautiful face. This helps remembering better. [1\)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2962707/)
+1.2.4.1.1.1.1.2.2.5.3.2. Con: Beautiful faces are all quite similar since they follow certain patterns of symmetry. [1\)](http://www.telegraph.co.uk/news/science/science-news/3343640/Symmetrical-human-faces-are-more-beautiful.html)
+1.2.4.1.1.1.1.2.2.5.3.2.1. Pro: All [Miss Korea](http://gawker.com/plastic-surgery-blamed-for-making-all-miss-korea-contes-480907455) candidates look same.
+1.2.4.1.1.1.1.2.2.5.3.2.2. Pro: Even in the Miss Germany contest most candidates had symmetrical faces; even though they did not look alike. [1\)](http://missosology.info/forum/viewtopic.php?f=1&t=284391)
+1.2.4.1.1.1.1.2.2.5.3.2.3. Pro: Symmetry is connected to good health. That is why we think symmetric faces are attractive.[1\)](http://www.economist.com/node/21562896)
+1.2.4.1.1.1.1.2.2.5.3.2.3.1. Con: There is [no connection](http://www.theatlantic.com/health/archive/2014/08/theres-more-to-life-than-facial-symmetry/378807/) between having a symmetric face and good health.
+1.2.4.1.1.1.1.2.2.5.3.3. Con: Consumers are constantly bombarded with beautiful faces in the media. This makes them less special and thus more difficult to remember.
+1.2.4.1.1.1.1.2.2.5.3.3.1. Con: Consumers are constantly bombarded with ugly faces in the media, eg TV, too.
+1.2.4.1.1.1.1.2.2.5.3.3.2. Con: Celebrities, who mostly are way above average looking, have no problem being remembered.
+1.2.4.1.1.1.1.2.2.5.3.3.2.1. Con: Celebrities are remembered for their acting, singing, performance, public appearance, etc.
+1.2.4.1.1.1.1.2.2.5.3.3.2.2. Con: Also [ugly celebreties](http://pophitz.com/15-of-the-worlds-most-ugly-and-famous/6/) have no problem being remembered.
+1.2.4.1.1.1.1.2.2.5.3.4. Pro: -> See 1.2.4.1.1.1.1.2.2.5.3.1.1.
+1.2.4.1.1.1.1.2.2.5.3.5. Con: When speaking to attractive women men do lose their [minds](http://www.telegraph.co.uk/news/health/news/6132718/Men-lose-their-minds-speaking-to-pretty-women.html).
+1.2.4.1.1.1.1.2.2.5.3.5.1. Pro: We are disturbed by our emotions when seeing a beautiful face and thus have a harder time remembering it. [1\)](http://www.ncbi.nlm.nih.gov/pubmed/24406982)
+1.2.4.1.1.1.1.2.2.5.3.6. Pro: Because they are seldom, by definition.
+1.2.4.1.1.1.1.2.2.5.3.6.1. Con: Consumers are constantly bombarded with beatiful faces in the media. This makes them less special and thus more difficult to remember.
+1.2.4.1.1.1.1.2.2.5.3.6.2. Con: The same could be said about strikingly ugly faces.
+1.2.4.1.1.1.1.2.2.5.3.7. Pro: Because most people feel attracted or intimidated, depending on your sexual preferences.
+1.2.4.1.1.1.1.2.3. Pro: -> See 1.2.4.1.1.1.1.2.2.5.
+1.2.4.1.1.1.1.3. Pro: Insurers require it, if you do not have CCTV the insurance premium increases dramatically.
+1.2.4.1.1.2. Pro: -> See 1.2.4.1.1.1.1.2.
+1.2.4.1.2. Pro: For all physical goods that you purchase online, you would still require a shipping address.
+1.2.4.1.2.1. Con: You can name the address of friends
+1.2.4.1.2.1.1. Con: Your friends know you, thus this is not anonymous.
+1.2.4.1.2.1.1.1. Con: It would still be anonymous towards the company where you purchased the goods, that is the anonymity that counts.
+1.2.4.1.2.1.1.1.1. Con: Your friends will reveal who the package was for, when law enforcement comes knocking at the door. Thus this is not a truly anonymous transaction.
+1.2.4.1.2.1.1.1.2. Con: You can do the same with non-AP methods of payments, you just let a friend purchase something for you.
+1.2.4.1.2.1.2. Con: You would get your friends into trouble.This is not a nice thing to do.
+1.2.4.1.2.1.2.1. Con: Not if it's a legal purchase \(having in mind sex toys, etc.\)
+1.2.4.1.2.1.2.1.1. Con: If you feel so shy about it telling your friend is probably especially embarrassing since you will see that person more often than any anonymous third person
+1.2.4.1.2.1.2.1.1.1. Con: As long as your friend does not know what is inside the purchase, he/she will not hesitate to receive it for you.
+1.2.4.1.2.1.2.1.1.1.1. Con: Unless you are going on vacation, your friend would wonder why you would want to have something sent to him/her.
+1.2.4.1.2.1.2.1.1.1.1.1. Pro: Today there are parcel stations to which you can have parcels delivered without any additional cost and where you can pick your parcel up whenever you want.
+1.2.4.1.2.1.2.1.1.1.1.2. Con: Friends will take it even though I refuse to tell that person because they trust me
+1.2.4.1.2.1.3. Con: If you do not want your identity to being associated with receiving certain packages, neither would your friend.
+1.2.4.1.2.1.3.1. Con: -> See 1.2.4.1.2.1.2.1.1.1.
+1.2.4.1.2.2. Con: You can make use of a P.O. box
+1.2.4.1.2.2.1. Con: Which has to be registered to a name too, thus  it would not be anonymous.
+1.2.4.1.2.2.2. Con: The registration person has to be done in person.
+1.2.4.1.2.2.2.1. Pro: -> See 1.2.4.1.1.1.1.2.
+1.2.4.1.2.3. Con: A vacant house can be used as address.
+1.2.4.1.2.3.1. Con: It would arouse a lot of suspicion if someone were to wait outside the house or flat for a lengthy period, people would notice and remember you, maybe even call the cops. Alternatively you would have to break into the address and wait inside, also a bad choice.
+1.2.4.1.2.3.2. Con: The delivery guy would require you to sign for the package, thus the transaction would not be anonymous.
+1.2.4.1.2.3.2.1. Con: You could just sign in a different way than your signature
+1.2.4.1.2.3.2.1.1. Con: Handwriting analysis can be used to identify you even if you use a fake signature. Thus it would not be anonymous.
+1.2.4.1.2.3.2.1.1.1. Con: The delivery guy does not care what you note down on his machine.
+1.2.4.1.2.3.2.1.2. Con: -> See 1.2.4.1.1.1.1.2.
+1.2.4.1.2.3.2.1.3. Pro: No one cares particularly much about the signature anyway. Thus hardly anyone will notice
+1.2.4.1.2.3.2.2. Pro: Sometimes they even ask for an ID if the delivery is particularly expensive.
+1.2.4.1.2.3.2.2.1. Pro: Also when ordering age restricted goods \(movies, certain music, video games, etc.\) an ID Check because of age restrictions needs to be done in person.
+1.2.4.1.2.3.2.3. Pro: -> See 1.2.4.1.1.1.1.2.
+1.2.4.1.2.3.3. Con: No normal person has the time or interest  to wait in a house during the  2-3 day delivery window, even with delivery tracking 1 day window, for the delivery guy to appear.
+1.2.4.1.2.4. Con: Telling the nice guy at the next kiosk you would be too busy to pick up the packet and let him take it for you.
+1.2.4.1.2.4.1. Con: Normally you would just ask a neighbor, whether he could receive a parcel for you and he too would know you again.
+1.2.4.1.2.4.2. Con: -> See 1.2.4.1.1.1.1.2.
+1.2.4.1.2.4.3. Con: -> See 1.2.4.1.2.1.2.1.1.1.1.1.
+1.2.4.1.2.5. Con: Take a random house as address and wait in the hallway until the delivery guy comes. Put you name-tag on an empty apartment if necessary.
+1.2.4.1.2.5.1. Con: -> See 1.2.4.1.2.3.1.
+1.2.4.1.2.5.2. Con: -> See 1.2.4.1.2.3.2.
+1.2.4.1.2.5.3. Con: -> See 1.2.4.1.2.3.3.
+1.2.4.1.3. Con: Anonymous Physical Object Delivery \([APOD](http://www1.cs.columbia.edu/~elli/papers/APOD_PETS09.pdf)\) is possible.
+1.2.4.1.3.1. Pro: An anonymous bitcoin based parcel service that has untrusted carriers to deliver products to buyers might work.
+1.2.4.1.3.2. Pro: Post can be delieverd by mini-drones, like amazon plans it. The drone would not witness the person the package is sent to.
+1.2.4.1.3.2.1. Con: Drones have cameras and transmit data back.
+1.2.4.1.3.2.2. Con: Drones can be tracked.
+1.2.4.1.3.3. Con: It would only be possible if it were permitted and this would only be permitted, if the governments knew that nothing illegal was being transported via those means.
+1.2.4.1.3.3.1. Pro: It is forbidden today too to transport weapons, money, drugs etc via normal post, the same would be the case with an anonymous parcel delivery service.
+1.2.4.1.3.4. Con: Contrarily to TOR, you cannot encrypt the contents that are being routed through the onion network, so everybody who handles the package can in theory look inside and check what it is. Thus it is not at all as anonymous as TOR and cannot be relied upon for anonymous delivery.
+1.2.4.1.3.4.1. Pro: Even if the first delivery service does not know who the final recipient is, they can look inside and see that it is pornographic materials, which is not possible with TOR.
+1.2.4.1.3.4.2. Pro: There is no way to make physical objects as unreachable and not understandable as encrypted data.
+1.2.4.1.3.5. Con: No insurance company would be willing to insure anonymous parcel deliverers as the risk of getting sued by the recipients, who receive dangerous or illegal materials and thus getting prosecuted by the police, would be too high.
+1.2.4.1.3.6. Con: Unlike TOR servers which can be operated by anyone having access to a PC, delivery services actually require a huge infrastructure to operate and are thus within full reach of the law.
+1.2.4.1.3.6.1. Pro: TOR operators often reside outside of the jurisdiction of the crime that is being committed, whilst delivery services, by definition, have to be in the jurisdiction and can thus be prosecuted for delivering illegal substances.
+1.2.4.1.3.6.1.1. Pro: A physical good being transported has to be transported by some sort of vehicle, which itself will cost something and will be owned by someone in that jurisdiction.
+1.2.4.1.3.6.2. Pro: Operating TOR servers is actually a grey zone in most countries.
+1.2.4.1.3.7. Con: If anonymous parcel delivery were allowed, then most problems of criminals smuggling and distributing illegal goods, would be solved and it would be disastrous.
+1.2.4.1.3.7.1. Pro: Silk Road sellers used the "anonymous" US Postal System to send drugs via letters and parcels to buyers.
+1.2.4.1.3.7.2. Pro: The physical delivery is, next to the payment, the biggest problem of many purchases of illegal goods.
+1.2.4.1.3.7.3. Pro: To blow somebody up, you would just have a bomb delivered to him and have him personally sign.
+1.2.4.1.3.7.4. Con: Many criminal enterprises would go bankrupt, because instead of having to go through them, the local suppliers, people could just directly order from the original source.
+1.2.4.1.3.7.4.1. Pro: The cost of shipping illegal goods would fall tremendously, because it would become so easy.
+1.2.4.1.3.7.4.1.1. Pro: Smuggling across borders would become a risk-free business.
+1.2.4.1.3.7.4.2. Pro: Instead of buying drugs from local dealers, you would buy them uncut from the original producers. So in the case of Cocaine you would just order it from the FARC rebels in Colombia and have it shipped to your doorsteps.
+1.2.4.1.3.7.5. Pro: -> See 1.2.4.1.3.7.4.1.
+1.2.4.1.3.7.6. Pro: -> See 1.2.4.1.3.7.4.1.1.
+1.2.4.1.4. Pro: Even if it were possible to operate an Anonymous Parcel Delivery, it would never be allowed to operate such a service.
+1.2.4.1.4.1. Pro: -> See 1.2.4.1.3.5.
+1.2.4.1.4.2. Pro: -> See 1.2.4.1.3.6.
+1.2.4.1.4.3. Pro: -> See 1.2.4.1.3.7.
+1.2.4.1.4.4. Pro: Whilst the number of criminals might drop, the amount of crime will increase, something that governments will hardly accept.
+1.2.4.1.4.4.1. Pro: -> See 1.2.4.1.3.7.4.1.
+1.2.4.1.4.4.2. Pro: Money laundering would be much less required as you could purchase most goods illegally and have them delivered in a very convenient fashion.
+1.2.4.1.4.4.2.1. Pro: Today when purchasing goods, with non-AP and a shipping address, the company knows who the customer is and keeps that in its records, for tax authorities to view and correlate with your income. With APs and anonymous delivery tax authorities would have nothing to become suspicious about.
+1.2.4.2. Pro: Using AP whilst being tracked by or actively using services that know your identity, as most people constantly do, is senseless.
+1.2.4.2.1. Pro: Users using APs in their normal browser windows will not be anonymous.
+1.2.4.2.1.1. Pro: Users are constantly being tracked via cookies of social media sites like FB.
+1.2.4.2.1.2. Pro: Ad networks are tracking and correlating data across the whole Internet.
+1.2.4.2.1.3. Pro: [Browser fingerprinting](https://panopticlick.eff.org/) allows for very accurate tracking of users.
+1.2.4.2.1.4. Pro: History list fingerprinting of browser is also very good to uniquely identify users. [1\)](http://www.cnet.com/news/your-web-browsing-history-is-totally-unique-like-fingerprints/) [2\)](http://arstechnica.com/security/2015/10/unpatched-browser-weaknesses-can-be-exploited-to-track-millions-of-web-users/)
+1.2.4.2.2. Pro: Users should never share their purchases with anyone. Their purchases have to be completely siloed off.
+1.2.4.2.2.1. Pro: Sharing with friends that are not anonymized would automatically endanger one's anonymity.
+1.2.4.2.2.2. Pro: When sharing with friends that are anonymized, the more anonymized friends users share with, the higher the chances that at least one of those anonymized friends make an operational security mistake, and thus compromise users own anonymity.
+1.2.4.3. Pro: Using APs to purchase digital goods is complicated and requires a lot of effort, discipline and IT skills.
+1.2.4.3.1. Pro: The accounts which you use in order to purchase goods may never be associated with your real identity, this is quite hard to do.
+1.2.4.3.1.1. Pro: You have to make an extra account with each merchant you already have an account with and access that special account solely using Tor and a private browsing tab.
+1.2.4.3.1.2. Pro: Users have to use Tor and private browsing tabs, is complicated and people make mistakes, like browsing for goods using the wrong browser tab or before the Tor connections is properly established.
+1.2.4.3.1.3. Pro: If users ever used another account or web browser that could be somehow tied back to you, via cookies, usage patterns or IPs, theirs real identities might very well be exposed.
+1.2.4.3.2. Pro: There are limitations to what kind of digital products they will be able to purchase and use.
+1.2.4.3.2.1. Pro: No Voice over IP services, like Skype or Google Hangouts.
+1.2.4.3.2.1.1. Pro: Tor reduces the available bandwidth, increases the network latency and jitter, tremendously.
+1.2.4.3.2.1.1.1. Pro: All the data has to be routed through several randomly distributed servers, around the globe.
+1.2.4.3.2.1.1.2. Pro: Tor does not have enough bandwidth to deliver the same service as everyone's home ISP.
+1.2.4.3.2.2. Pro: No video or conference calls, like Skype or Google Hangouts.
+1.2.4.3.2.2.1. Pro: -> See 1.2.4.3.2.1.1.
+1.2.4.3.2.3. Pro: No proper video streaming, thus Youtube, Netflix and the likes will not be usable.
+1.2.4.3.2.3.1. Pro: -> See 1.2.4.3.2.1.1.
+1.2.4.3.2.4. Pro: Most top-notch games will not be playable, as they require good and low latency server connections or even VoIP in order to speak to the other players. \(some of the titles that are unplayable: SC, HoTS, LoL, COD, BF, WOW\)
+1.2.4.3.2.4.1. Pro: -> See 1.2.4.3.2.1.1.
+1.2.4.3.3. Pro: Even as users will experience a very slow web browsing experience, they will have to tolerate it and not just for a second go and use non-Tor-protected quicker means.
+1.2.4.3.3.1. Pro: -> See 1.2.4.3.2.1.1.
+1.2.4.3.3.2. Pro: -> See 1.2.4.3.1.3.
+1.2.4.3.4. Pro: It is hard and functionality-reducing to browse using [tor](http://xordern.net/ip-leakage-of-mobile-tor-browsers.html) on a mobile device.
+1.2.4.3.5. Pro: Depending on your view of the world, Tor might not be secure enough, in which case you would have to use public hotspots that are not under video surveillance.
+1.2.4.4. Pro: Users who use APs to purchase goods or services in person, naturally, will not be anonymous either.
+1.2.4.5. Pro: Ordinary citizens already have the option of paying in an anonymous fashion by paying with cash.
+1.2.4.6. Con: Unless someone knows your unique wallet identifier, or some way of triangulating it, anonymity is definitely enhanced as compared to traditional forms of electronic payment.
+1.2.5. Con: Buying marijuana, a relatively speaking harmless drug, which cannot yet be bought legally in Germany, would not be purchasable anymore, if only non-APs were allowed.
+1.2.5.1. Con: You could barter with the dealer something legal that he would want, with your non-AP money, instead of paying him with AP money.
+1.2.5.1.1. Con: Which is much more cumbersome than just transferring payment using an AP.
+1.2.5.1.1.1. Con: The cumbersome part is having to deal with a dealer. The handing over of a bottle of vodka, for some marijuana, instead of 20 bucks, is the much lesser problem.
+1.2.5.2. Con: Which is not a problem as it is an illegal activity and would thus only make pursuing an illegal activity more difficult.
+1.2.5.3. Con: If you were to purchase these drugs from the black market, you would yourself become part of a criminal transaction, which most people do not want to.
+1.2.5.4. Con: This would finally put enough pressure on the public and the politicians to fix the laws so that they represent the will of the majority of the Germans.
+1.2.5.4.1. Pro: That is how democracy is supposed to work, the public votes and the politicians do the public's bidding. If the public wants Marijuana legalized, then the politicians should do everything possible to abide by the public's wishes.
+1.2.5.4.2. Con: If it were the will of the majority then political parties would have been more eager to push for legalization in order to gain more votes.
+1.2.5.4.2.1. Pro: Political mainstream parties follow the [median](https://en.wikipedia.org/wiki/Median_voter_theorem) voter to get to power.
+1.2.5.4.2.1.1. Con: They would only do so, if one of the other parties were to support marijuana legalization, until then all parties together can ignore the issue.
+1.2.5.4.2.1.2. Con: Political parties are dragged towards the extremes by [political activists](http://press.uchicago.edu/ucp/books/book/chicago/W/bo11315021.html).
+1.2.5.4.3. Pro: The German organisation ['Deutscher Hanfverband'](https://www.facebook.com/hanfverband) has as many Facebook likes indicating that there is widespread support for it.
+1.2.5.4.3.1. Con: [The National Democratic Party \(NPD\)](https://www.facebook.com/npd.de) has more likes but we do not say their ideas have widespread support, let alone the support of the majority.
+1.2.5.4.4. Pro: There are demonstrations in favor of legalization across the country with a significant group of followers and \(presumably\) with little public resistance. [1\)](http://en.hanfparade.de/) [2\)](https://en.wikipedia.org/wiki/Global_Marijuana_March)
+1.2.5.4.5. Pro: A significant amount of the German population is consuming marijuana. We can deduce that they would be in favor of a legalization.
+1.2.5.4.5.1. Pro: [18%](http://www.dw.com/en/study-german-youths-increasingly-consuming-cannabis/a-18715340) of those between 18 and 25 are smoking marijuana.
+1.2.5.4.5.2. Pro: There are around 3 million regular marijuana smokers and 14 million occasional [marijuana](http://www.dw.com/en/law-professors-demand-cannabis-legalization/a-17559144) smokers in Germany.
+1.2.5.4.5.3. Con: There are around 3 million regular and 14 million occasional [smokers](http://www.dw.com/en/law-professors-demand-cannabis-legalization/a-17559144) of marijuana in Germany. Thus even if they would favor a legalization, they are still a minority and if they wish to change legislation they should elect the parties who support marijuana legalization.
+1.2.5.4.5.4. Con: There is also a significant amount of people owning an even more significant amount of weapons, with latest tendencies speaking of a boom with getting armed. [1\)](http://www.zeit.de/2014/04/waffen-deutschland) [2\)](http://www1.wdr.de/studio/dortmund/themadestages/boom-bei-gaswaffen100.html) 
+For good reasons nobody deduces that they would be in favor of a wider legalization of arms and weapons.
+1.2.5.4.6. Con: There are parties, which openly stand for a legalization of cannabis. If this topic would be so important for huge numbers of the population, they would vote for those parties.
+1.2.5.4.6.1. Con: Those parties are not taken seriously.
+1.2.5.4.6.1.1. Con: The German Green Party stands for legalization of cannabis and is a party that is been taken seriously.
+1.2.5.4.6.2. Con: You do not vote for a party that is running for a single issue.
+1.2.5.4.7. Con: Introducing AP would make legalization of marijuana less likely as the government could not hope for extra tax income.
+1.2.5.4.7.1. Con: When Marijuana is legalized, it will be sold in regular kiosks and thus nobody would require APs to buy it anymore. And the kiosks would just sell it for their own markup. The taxes would have already been applied at the wholesale level, e.g. during important, by customs.
+1.2.5.4.7.1.1. Pro: Adding specific taxes to "unhealthy" but accepted goods, is widely accepted in society. See alcohol and cigarette taxes.
+1.2.5.5. Con: -> See 1.2.5.4.7.
+1.2.5.6. Pro: Since marijuana is in fact illegal, eliminating APs would dry out the drug market, reduce drug consumption and its harm to society.
+1.2.5.6.1. Con: -> See 1.2.5.1.
+1.2.5.6.2. Pro: Fighting drug trafficking uses a substantial part of the police force, which thus has fewer resources for other crimes.
+1.2.5.6.3. Pro: Even if Marijuana is relatively harmless, the users are still criminalized and regarded as [heavy drug abusers](http://www.mittelbayerische.de/bayern-nachrichten/csu-bremst-gruenen-cannabis-vorstoss-21705-art1300214.html), in parts of Germany, e.g. Bavaria, thus the lives of those would be de-stigmatized.
+1.2.6. Con: When buying certain goods, citizens would feel better if they could use APs.
+1.2.6.1. Pro: Some people would prefer buying sex toys using APs online.
+1.2.6.1.1. Con: -> See 1.2.4.1.2.
+1.2.6.1.2. Pro: If you are a sexually uptight person, you would feel really uncomfortable and embarrassed if someone else knew you were ordering a sex toy, medication for genital herpes or Viagra.
+1.2.6.1.2.1. Con: There are sexually uptight persons now and they are ordering these products already
+1.2.6.1.3. Pro: In our society there are still many people with prejudice towards certain sexual preferences or diseases. Some people want to keep their HIV or Hepatitis infection a secret or the fact they like to use a butt plug or gag ball, so others will not condemn them for it.
+1.2.6.1.3.1. Pro: HIV tests are typically anonymous
+1.2.6.1.4. Con: When you pay with today's means of non-anonymous methods of payment, the payment service does not see what exactly you bought, rather they see a total amount of money that needs to go from A to B. So APs would not increase the anonymity of the transaction.
+1.2.6.2. Pro: Some people would prefer buying STD \(e.g. Herpes, HIV\) medications using APs online.
+1.2.6.2.1. Con: -> See 1.2.4.1.2.
+1.2.6.2.2. Con: You would still require a prescription to buy it legally. So either you are buying it illegally, where you also would not know what you would receive, given it would be from some dubious drug reseller or you it would not be anonymous, as you still would have to see a doctor to get a prescription.
+1.2.6.2.2.1. Pro: -> See 1.2.5.3.
+1.2.6.2.3. Pro: -> See 1.2.6.1.2.
+1.2.6.2.4. Pro: -> See 1.2.6.1.3.
+1.2.6.2.5. Con: -> See 1.2.6.1.4.
+1.2.6.2.6. Con: Citizens normally hand in receipts to their health insurances, in order to get reimbursed and are thus voluntarily de-anonymizing an anonymous transaction.\(paying with cash today\)
+1.2.6.2.6.1. Pro: These drugs are expensive, nobody wants to waste money, and forego the reimbursement by their health insurance.
+1.2.6.3. Pro: Some people would prefer buying Viagra using APs online.
+1.2.6.3.1. Con: -> See 1.2.4.1.2.
+1.2.6.3.2. Con: -> See 1.2.6.2.2.
+1.2.6.3.3. Pro: -> See 1.2.6.1.2.
+1.2.6.3.4. Pro: -> See 1.2.6.1.3.
+1.2.6.3.5. Con: -> See 1.2.6.1.4.
+1.2.6.3.6. Con: -> See 1.2.6.2.6.
+1.2.6.4. Con: Ordinary citizens do not buy Viagra, sensitive medication or sex toys
+1.2.6.4.1. Pro: Roughly half of the German population is [not interested](http://de.statista.com/statistik/daten/studie/2359/umfrage/lust-auf-noch-nicht-ausprobierte-sexspielzeuge-nach-geschlecht/) in trying sex toys.
+1.2.6.4.2. Con: [STD's](http://www.euroclinix.de/geschlechtskrankheiten.html) are increasing, thus more ordinary citizens will need these goods.
+1.2.6.4.3. Con: The porn and sex toy business would not be booming, if only "freaks with special preferences" were buying these products. These days porn and sex toys are a common product in ordinary citizens' households. [1\)](http://www.alternet.org/sex-amp-relationships/what-15-billion-sex-toy-industry-tells-us-about-sexuality-today)
+1.2.6.4.3.1. Pro: Nearly half of [Germans](http://www.thelocal.de/20120328/41607) like sex tools and gadgets.
+1.2.6.4.3.2. Pro: 59% of Germans between 33 and 45 have [experience](http://www.spiegel.de/international/germany/a-day-in-the-life-what-makes-the-average-german-tick-a-550107-11.html) with sex toys.
+1.2.7. Con: Ordinary citizens have a human right to privacy — [even if there is no particular reason for a transaction to be secret](https://medium.com/\@FabioAEsteves/i-have-nothing-to-hide-why-should-i-care-about-my-privacy-f488281b8f1d) — both in real life and online. APs enable this by allowing 2 people to engage in a private transaction.
+1.2.8. Con: No one has the right to decide what an ordinary citizen "needs" except for that citizen, who has a right to liberty and the pursuit of happiness as he or she sees it, so long as they are not infringing on the equal rights and freedoms of others.
+1.2.9. Con: For "ordinary citizens" in an oppressive society \(China, North Korea, Syria, etc.\) anonymity can be of great value.
+1.2.10. Pro: Ordinary citizens have no problems using debit and credit cards and do not mind having their purchases monitored as a result.
+1.2.11. Pro: Otherwise they would have a problem participating in all the bonus systems, like payback, where everybody knows that they track and analyse all your purchases.
+1.2.11.1. Con: Some people are not aware that this is the case and would change it if they knew so.
+1.2.11.1.1. Con: Payback user can just read the terms & conditions on the webpage and thus are either too lazy or do not care about their data being collected.
+1.2.11.1.2. Con: You have to have lived behind the moon not to have heard about Payback's business model.
+1.2.11.1.2.1. Con: People use a lot of things where they have no idea how they or the corresponding business models work.
+1.2.11.1.2.2. Pro: There has been a huge amount of press about [Payback](https://en.wikipedia.org/wiki/Payback_%28loyalty_card%29), especially when they received the Big Brother Award in 2000.
+1.2.11.1.3. Con: You have to be very naive to think that you are getting something for nothing.
+1.2.12. Con: No ordinary citizen needed the Internet before it arrived, but has become essential since it arrived. The same would happen with the advent of mass scale AP.
+1.2.12.1. Con: The Internet from the beginning enabled new applications that were not there before, whilst there are no new applications being envisioned that can only be realized using APs.
+1.2.12.1.1. Con: There are a huge number of new applications being envisioned that require APs. A lot of these apps are have everything to do with security and privacy and ownership and control of one's own data.
+1.2.12.2. Con: Cash, one sort of AP, has been around for millennia.
+1.2.12.2.1. Con: The creation of cash lead to major advancements of society, such as breaking down goods in small amounts or making wealth moveable. In this sense online AP might open a similar perspective as did cash in the last millennia.
+1.2.13. Pro: The most expensive item the average person buys are appartments but they cannot be bought anonymously. To do so requires a public notary.
+1.2.14. Pro: A study found that Bitcoin users are usually not "[ordinary citizens](http://www.wired.co.uk/news/archive/2015-08/03/bitcoin-users-criminals-computer-programmers-study)".
+1.2.14.1. Pro: With only 5.5 million Bitcoin Wallets on the globe it is surely not the everyman but a certain group of individuals. [1\)](https://blockchain.info/charts/my-wallet-n-users?timespan=180days)
+1.2.14.2. Con: The legitimacy of a payment system is not grounded in the normality of its users.
+1.2.14.3. Con: Bitcoin is a very specific form of AP. The most common AP - cash - however, is used by "ordinary citizens" in their everday lives.
+1.2.14.4. Con: It is very early days for Bitcoins, how they would be used if they were widely adopted remains to be seen.
+1.2.14.4.1. Con: Increases in Bitcoin transactions are flattened in the last two years indicating that the market for APs is completely supplied. [1\)](https://en.wikipedia.org/wiki/History_of_Bitcoin#/media/File:BTC_number_of_transactions_per_month.png)
+1.2.14.4.2. Pro: Bitcoin is growing in importance for ordinary citizens
+1.2.14.4.2.1. Pro: Since 2014 it is possible to pay tution fees at the University of [Nicosia](http://www.unic.ac.cy/digitalcurrency).
+1.2.14.4.2.2. Pro: Since 2012 the number of merchandizes that accept Bitcoins increased from roughly [1000](http://www.americanbanker.com/issues/177_176/bitpay-signs-1000-merchants-to-accept-bitcoin-payments-1052538-1.html) to [7500](https://coinmap.org/#/world/52.16045456/131.48437500/2) today.
+1.2.14.4.2.3. Con: Bitcoin has gained so much adoption since late 2016 that it is now bogged down to the point of slow confirmations and high transaction costs. This is because Bitcoin has not implemented a scaling solution to promptly accommodate the influx of transactions.
+1.2.15. Con: Citizens want fraud protection which is impossible with AP, due to no party knowing the other party nor any 3rd party knowing both parties.
+1.2.15.1. Pro: Both parties know what the other is doing in APs. A third party doesn't know what the two involved in the transaction are doing.
+1.2.15.2. Pro: 2-party trustless escrow systems can be used with APs to prevent fraud. [Mutually Assured Destruction](https://en.wikipedia.org/wiki/Mutual_assured_destruction) \(MAD\) is a military strategy used by 2 parties in a negotiation to ensure both act in the best interest of the other \(ie: nuclear weapons\). [MAD](https://github.com/particl/whitepaper/blob/master/decentralized-private-marketplace-draft-0.1.pdf) can theoretically be used in a P2P transaction of money and goods through a dual-party trustless escrow.
+1.2.15.2.1. Pro: This would eliminate 3rd party fees in ecommerce or trade.
+1.2.15.2.2. Con: Both buyer and seller need to put additional money in the transaction \(between 0-100%\) for MAD to work.
+1.2.15.2.2.1. Pro: Sellers will do this if it is guaranteed that their additional money will be returned to them as opposed to a portion of the sale going to a 3rd-party who has nothing to do with the negotiation except be available for moderation.
+1.2.15.2.2.2. Pro: Buyers will do this if they can ultimately get a better deal on a product due to the seller not have additional markups to cover 3rd party fees.
+1.2.15.2.2.3. Con: Sellers won't do this. Why would a person selling an item also add some of their own money to the sale \(up to 100% match\)?
+1.2.15.2.2.4. Con: Currently there is no working model of MAD transactions in ecommerce.
+1.2.15.2.2.5. Con: Buyers wouldn't do this. Online shoppers are looking for \(1\) the best deal on an item and \(2\) free shipping. A buyer won't match up to 100% of the cost of an item versus paying a small fee to a 3rd party to get the item quicker
+1.2.16. Pro: For centuries, citizens had to go about their lives and purchases, without any APs, so clearly, APs are not required for societies to blossom, nor did citizens miss them.
+1.2.16.1. Pro: Nobody was complaining about a lack of APs.
+1.2.16.2. Pro: No easy to use general purpose APs for ordinary citizens exist until today.
+1.3. Con: -> See 1.2.4.
+1.4. Con: APs have harmful side effects beyond their use as currency.
+1.4.1. Pro: The most popular implementations \(Bitcoin, Ethereum, etc\) aren't designed solve wealth inequality, and are exacerbating the global problem
+1.4.1.1. Con: A currency is a store of value. There are no currencies \(that I'm aware of\) that claim to solve wealth inequality. This is not a good argument against crypto-currency and could be applied to any "store of value" asset.
+1.4.2. Pro: [AP/Cryptocurrencies](http://coinmarketcap.com) like Bitcoin consume vast amounts of electric power. It makes no sense to promote such a product when the world is in an energy crisis.
+1.4.2.1. Con: A lot of cryptocurrencies do not use Proof of Work but Proof of Stake, which does not consume large amounts of energy.
+1.4.2.1.1. Con: Cryptocurrencies that use Proof-of-Stake represent a tiny minority of AP market share, and their existence does not invalidate the first-to-market Proof-of-Work ones that do consume exponentially large amounts of energy.
+1.4.2.2. Pro: By July 2019, the bitcoin network will require more electricity than the entire United States currently uses. By February 2020, it will use as much electricity as the entire world does today.[grist.org](https://grist.org/article/bitcoin-could-cost-us-our-clean-energy-future/)
+1.4.2.3. Con: This electricity is more likely to be renewable since [the hardware can be located optimally in the world](https://www.theguardian.com/world/2018/feb/13/how-iceland-became-the-bitcoin-miners-paradise).
+1.4.3. Con: Every technology has potential side effects. Regulations can and should be adopted to minimize those effects.
+1.4.3.1. Con: Regulations are not needed to address side effects. Consumer choice works just fine.
+1.4.4. Pro: In some cases, it is important to be able to establish that funds did not originate from blacklisted parties.  Acceptance of even a single anonymous payment makes blacklist conformity impossible. 
+APs and Blacklists are incompatible.
+The lost benefits of Blacklisting must be counted as a downside to APs.
+1.5. Pro: APs put less control in the hands of banks and governments and more freedom in the hands of ordinary citizens.
+1.5.1. Con: There is no recourse for an ordinary citizen who loses control of their bitcoins.
+1.5.1.1. Con: Though true of bitcoin and other crypto-currencies, there are teams working on ways to build in recourse to regain control of hacked "coins". This is a possible feature of [EOS](https://eos.io/).
+1.5.1.2. Con: Just as there is no recourse when they loose their cash. This is no counter argument to the claim that it offers more freedom to citizens.
+1.5.2. Pro: Taxation forces individuals to fund programs and solutions that they might find morally reprehensible \(I.e. war for example\). The current system of representation, in the US, has proven to be insufficient. A new system of funding government with individual consensus should be explored and people able to refuse to pay taxes could possibly force the issue to the forefront.
+1.5.3. Con: Putting less control in the hands of banks and governments \(I assume in terms of tracking transactions?\)  is not necessarily beneficial for the world.
+1.5.4. Con: Putting more freedom in the hands of citizens \(in terms of being allowed to make AP's\) is not necessarily beneficial for the world.
+1.6. Pro: The ecosystem of cryptocurrencies that constitutes of so-called "alt-coins" may provide more efficient and cost effective means of transacting and personal energy usage free from third party charges e.g [iota.org](https://iota.org/)
+1.7. Pro: AP would result in better data privacy and protection for ordinary citizens.
+1.7.1. Pro: There are plenty of innocuous reasons why ordinary citizens would want to make anonymous payments. For example they may want to give to charity or a political party in an anonymous fashion, or purchase surprise gifts.
+1.7.2. Pro: Privacy is a fundamental human right!
+1.7.3. Pro: APs ensure that the government can't spy on your entire monetary life; a requirement for a free nation. We should not be spied on in the manner of which we use our own property in a free state.
+1.7.3.1. Pro: In this day an age with the NSA and many other data harvesting giants, the less amount of data you give out, the better.
+1.7.4. Pro: The anonymity would protect the vast majority of legitimate actors from having their information gathered without their permission or often without their full understanding of the implications of such information gathering.
+1.7.4.1. Pro: When purchasing items online you give out a lot of data: names, addresses, phone numbers, date of birth, gender, emails, etc. But you don’t actually see where your data goes, if the informations are sold to a third party, etc. Thus, protection of data privacy - by giving out less data - is a positive step and makes sense for the citizens.
+1.7.4.1.1. Con: Where and to whom the goods would be shipped to could still be shared.
+1.7.5. Con: -> See 1.1.1.2.1.2.
+1.7.6. Pro: Blockchain ecosystems are based on trust and transparency. Cooperating with the ecosystem is rewarded and cheaters lack incentive because cheating requires too many external resources \(electrical power for example\)
+1.7.7. Pro: Blockchain and cryptocurrencies create impartial rules based on value as an incentive. All participants in the game know how the wealth is distributed in the platform and nobody can "break the rules" because transactions and benefits are fully automatised.
+1.7.8. Con: In times of social media people share their purchases openly via social media. Having paid anonymously for something and sharing the fact a purchase has been made publicly seems absurd.
+1.7.8.1. Con: People still have the choice to post and share. It is not an order, nobody is forced to do so.
+1.7.8.2. Con: Just because a younger generation seems to be into sharing stuff online, this does not mean that the majority of people \(through all ages\) does so.
+1.7.8.2.1. Con: Not only young people are using social media.
+1.7.8.2.1.1. Pro: Many young users are leaving Facebook, which has become a platform for grown-ups to hang out. [1\)](https://www.washingtonpost.com/news/the-intersect/wp/2015/02/21/why-teens-are-leaving-facebook-its-meaningless/)
+1.7.8.2.1.2. Pro: At least [half](http://jetscram.com/blog/industry-news/social-media-user-statistics-and-age-demographics-2014/) of all Facebook users are 35 or older.
+1.7.8.2.1.3. Con: 42% of Tumblr users are under 25 years of age making it a predominantly young social media platform. [1\)](http://www.statista.com/statistics/446407/age-structure-of-tumblr-visitors-germany/)
+1.7.8.2.1.4. Pro: Adults use work-related social networks such as LinkedIn / XING.
+1.7.8.2.2. Con: Younger people do not share personal information. They use programms like snapchat, where uploads delete automatically after somebody reads/sees it. So it is less the classic "sharing" but more like a quick "look" \(snap\) into the situation the poster is. [1\)](http://www.cnet.com/news/why-teens-are-tiring-of-facebook/) [2\)](https://www.washingtonpost.com/news/the-intersect/wp/2015/02/21/why-teens-are-leaving-facebook-its-meaningless/) [3\)](http://business.time.com/2014/01/15/more-than-11-million-young-people-have-fled-facebook-since-2011/)
+1.7.8.2.2.1. Con: Snapping is just another subversion of sharing
+1.7.8.2.2.1.1. Pro: In both cases online media is used to give others personal information.
+1.7.8.2.2.1.2. Pro: The only difference is that in one case the shared information will be deleted while in the other case it remains visible
+1.7.8.3. Pro: People that buy expensive products as conspicuous consumption have an interest to display their products
+1.7.9. Con: -> See 1.2.4.1.
+1.7.10. Pro: Bitcoin purchases are discrete. Unless a user voluntarily publishes their Bitcoin transactions, their purchases are never associated with his personal identity, much like cash-only purchases, and cannot be traced. In fact, the anonymous Bitcoin address that is generated for user [purchases changes with each transaction](http://www.investopedia.com/ask/answers/100314/what-are-advantages-paying-bitcoin.asp).
+1.8. Con: APs would lure some people with borderline criminal tendencies to engage in immoral or criminal activities because they believe that they are acting anonymously.
+1.8.1. Pro: The decision of perpetrating a crime, like every decision, depends on costs and benefits. The costs are determined by the potential punishment and the probability of getting caught. For crimes where there is a monetary transaction, the anonymity of APs, decreases the likelihood of getting caught, ergo the cost of the crime. Therefore, the people sitting on the fence, too afraid of getting caught before, will be more likely to perpetrate crimes in a world with APs.
+1.8.2. Pro: When thinking that nobody could tie an action to them, people do things that they would normally never do.
+1.8.2.1. Pro: People's behavior on the Internet is proof, that people act differently when they feel they are anonymous and that their actions cannot be traced back to them.
+1.8.2.1.1. Pro: People prank ordering pizza for someone.
+1.8.2.1.2. Pro: [Cybermobbing](http://www.polizei-beratung.de/themen-und-tipps/gefahren-im-internet/cybermobbing.html), especially among teenagers.
+1.8.2.1.2.1. Pro: On the Internet, people start mobbing you, whom you do not even know. For example, after a post that you made on FB or Twitter that incensed some people's feelings.
+1.8.2.1.2.2. Con: The people who are being mobbed on the Internet are often mobbed by the same people in real life. That means that this form of mobbing is not triggered by anonymity, but that it is just a different form of mobbing by the same people.
+1.8.2.1.2.2.1. Con: -> See 1.8.2.1.2.1.
+1.8.2.1.3. Pro: Internet Trolls and Haters in social networks.
+1.8.2.1.3.1. Con: Internet trolls very often happen to be psychopaths. I made a network for battered women, and many of their ex-husbands are stalking them and other women by trolling. Politically these men are promoting hatred against women. There is a clear connection between domestic abuse, hatred against women and internet trolling behavior' see [www.psychologytoday.com](https://www.psychologytoday.com/blog/your-online-secrets/201409/internet-trolls-are-narcissists-psychopaths-and-sadists),  [www.theglobeandmail.com](https://www.theglobeandmail.com/opinion/why-trolls-love-to-pick-on-women/article34336855/), and [time.com](http://time.com/4457110/internet-trolls/).
+1.8.2.1.3.2. Con: Many of the Trolls are actually guided by foreign intelligence services
+1.8.2.1.3.2.1. Pro: [Russia](http://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=1) has its own troll [agency](http://money.cnn.com/2015/09/03/news/russia-troll-factory-putin/).
+1.8.2.1.3.2.2. Con: This only applies to Trolling on platforms under a political context \(e.g. under certain articles regarding foreign policy or other fields of politics\). Aside of this there are all kinds of other Trolls trolling for the sake of trolling or pretending to deliver some kinds of messages or just being childish \(e.g. Lulzsec, 4chan, hiddenlol, etc.\).
+1.8.2.1.4. Pro: Hate comments below entries on panels, online articles and blogs.
+1.8.2.2. Pro: Prank calls, you only do them, when you are sure that nobody can see your telephone number.
+1.8.2.3. Pro: [Swatting](https://en.wikipedia.org/wiki/Swatting) is another example of something that is only done, if you think that it will not be traced back to you.
+1.8.3. Pro: Keeping an AP-enabled "currency" hidden from everybody would be much simpler than non-AP-enabled currencies, especially if it were digital.
+1.8.4. Con: Not using APs does not prevent this. US dollars are the most common criminal currency.
+1.8.5. Con: Catching borderline criminals, tempted by AP's anonymity, would be beneficial to society.
+1.8.5.1. Con: Many people who have been convicted of a crime, become more likely of perpetrating another crime.
+1.8.5.1.1. Pro: There is a stigma and once you have been stigmatized, the fear of becoming stigmatized is not holding you back anymore.
+1.8.5.1.2. Pro: In prison you will get introduced and will have to deal with and even make friends with other criminals and will thus get new ideas and meet people with whom you can execute those ideas.
+1.8.5.1.3. Con: People not been convicted of a crime, do commit crimes more often, because they think they can get away with it.
+1.8.5.1.3.1. Con: If a person has experienced jail life once, \(s\)he has learned a lot techniques for future crimes. This makes repeated offending more likely.
+1.8.5.1.3.2. Pro: One [third](http://www.forskningsradet.no/en/Newsarticle/High_number_of_Norwegian_onetime_offenders/1253965582124) of Norwegian youth is committing a crime but learn once convicted.
+1.8.5.1.3.3. Con: In the UK, a total of 510,000 offences were committed in 2009 by criminals within a year of them completing a previous sentence. [1\)](http://www.telegraph.co.uk/news/uknews/law-and-order/8852705/Repeat-offenders-responsible-for-half-a-million-crimes.html)
+1.8.5.2. Con: Many criminals are not caught, thus, the fewer you have in the first place, the better.
+1.8.5.3. Con: Criminals getting caught and convicted, often does not undo the damage that they have done to the victims.
+1.8.5.3.1. Pro: Rape victims often never fully recover from the trauma.
+1.8.5.3.2. Pro: A stolen good that already got sold and cannot be retrieved.
+1.8.5.3.3. Pro: Somebody killed, cannot be resurrected.
+1.8.5.3.4. Pro: Criminals are not being put in jail in order to undo their crime, but because like this, the convicted person is not a threat to society anymore.
+1.8.5.4. Con: Most people could probably be tempted to commit a crime, society thus tries to increase the cost of crime \(probability of getting caught and punishment\) wherever it can, in order to keep its members on the right path, as it otherwise would implode.
+1.8.5.4.1. Pro: -> See 1.8.1.
+1.8.5.4.2. Pro: Throughout history, humans have formed societies without legislative and executive branches, but none of those forms of society have survived or thrived, as the ones with law and order were superior.
+1.8.5.4.2.1. Pro: You need at least a certain modicum of law and order in order for a society to function, the ones that did, grew bigger and dominated the ones that did not. Natural evolution on a inter-societal level.
+1.8.5.4.2.1.1. Con: Monopoly of force can create order. No need for legislative or executive
+1.8.5.4.2.1.2. Con: This natural selection was done primarily on biological grounds, i.e. the availability of food. Societal order and law was just a product of this availability, according to [Diamond](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
+1.8.5.4.2.2. Pro: North Korea and Swaziland, being some of the very few surviving societies of that that form, have abysmal living standards and cannot, by today's standards, be considered advanced societies.
+1.8.5.4.2.3. Con: Organizational units that emphasis religious unity over a division of power, such as the IS, are prevalent and partly successful in modern times.
+1.8.5.4.3. Con: Strict prison systems increase the rate of recidivism. Thus a decrease in the costs of crime in the form of lighter punishment is overall more effective.
+1.8.5.4.3.1. Pro: Finland offers prison systems that are quite nice, e.g. [here](http://www.pri.org/stories/2015-04-15/finlands-open-prisons-inmates-have-keys), to decrease .
+1.8.5.5. Con: Incarcerating citizens who have committed a crime versus having citizens that only fantasize about a crime is not beneficial for society.
+1.8.5.5.1. Pro: Many people fantasize about many illegal things, that does not make them bad members of our society.
+1.8.5.6. Con: Crime is bad, thus the government tries to eliminate it and attempts to deter its citizens from engaging in any sort of criminal activity.
+1.8.5.6.1. Pro: -> See 1.8.5.4.2.1.
+1.8.6. Pro: A payment method that induces \(usually law-abiding\) citizens to engage in illicit activities is not beneficial for our society.
+1.8.6.1. Pro: -> See 1.8.5.4.
+1.8.6.2. Pro: -> See 1.8.5.2.
+1.8.6.3. Pro: -> See 1.8.5.5.
+1.8.6.4. Pro: -> See 1.8.5.1.
+1.8.6.5. Pro: -> See 1.8.5.3.
+1.8.6.6. Con: Cash, as a method pf payment, is well accepted in society although it is being widely used for criminal activities.
+1.8.6.6.1. Con: If we today had a credit card only society and somebody came along with the idea of cash, the government would not allow it, given that it is great for crime and ordinary citizens do not require its AP characteristic.
+1.8.6.6.1.1. Pro: -> See 1.1.
+1.8.6.6.1.2. Pro: -> See 1.2.
+1.8.6.6.1.3. Con: Cash has advantages over credit cards
+1.8.6.6.1.3.1. Pro: When paying with cash you do not have to worry about interest rates or paying off a balance each month. Once the purchase is made, it is complete and there are no hidden fees.
+1.8.6.6.1.3.2. Pro: One of the major controversies surrounding credit cards is the increased potential for identity theft. Using cash does not require you to hand over your personal information every time you make a purchase or make you nearly as vulnerable to scammers.
+1.8.6.6.1.3.3. Con: Often it is cheaper to buy goods online. Cash does not suffice here.
+1.8.6.6.1.3.3.1. Con: When buying products online you often have to pay a delivery fee.
+1.8.6.6.1.3.4. Con: One major disadvantage of cash is that you have to go to a bank, withdraw it and then carry it around with you all the time, which is time-consuming and cumbersome.
+1.8.6.6.1.3.4.1. Con: However, needing to return to the ATM to withdraw more money will discourage many people from over-shopping.
+1.8.6.6.1.3.4.2. Pro: Especially when you are in a foreign country, one has to pay the withdrawal fees. It is cheaper to pay with credit/debit card instead.
+1.8.6.6.1.3.4.2.1. Con: Some accounts allow to withdraw money for free
+1.8.6.6.1.3.4.2.1.1. Pro: Dutch or Austrian banks do not charge fees when withdrawing in Euro currency
+1.8.6.6.1.3.4.2.1.2. Pro: A DKB account allows to withdraw money for free in non-Euro currency
+1.8.6.6.1.3.4.2.2. Pro: Even in the same country it costs a lot of money, when you have to withdraw from a bank that is not yours. People always have to find their bank first, before they get cash. They use credit/debit card instead.
+1.8.6.6.1.3.5. Con: Contrary to cash, where, at the end of the month you do not know how you spent your money, many credit / debit card bills have the advantage of providing you with a detailed list  including categorization of your expenditures.
+1.8.6.6.1.3.6. Con: There are many intelligent [spending apps](https://www.dailyworth.com/posts/2815-7-of-the-best-money-management-apps) that provide very detailed accounts where and how you spent your money and which, contrary to cash, do not only show you how much you have left till your next paycheck.
+1.8.6.6.1.3.6.1. Con: For these to work smoothly you need to connect them with your banc account and thus share sensitive data. With cash you do not need to do this
+1.8.6.6.1.3.6.1.1. Pro: If they do not connect to your bank account you have to fill in each purchase manually which is quite tiresome
+1.8.6.6.1.3.7. Con: The fees for credit and debit cards are, nearly everywhere, covered by the merchant.
+1.8.6.6.1.3.7.1. Con: To issue these cards costs money regardless if they are used or not.
+1.8.6.6.1.3.7.1.1. Con: There are free credit card providers, such as DKB
+1.8.6.6.2. Con: Ordinary citizens do not condone crime and thus would prefer cash that would not be usable by criminals.
+1.8.6.6.2.1. Pro: Most citizens do consider law and order important aspects of a civilized society.
+1.8.6.6.2.2. Con: Cash can always be used for criminals. There is no way to make it unusable.
+1.8.6.6.2.2.1. Pro: Even though cash is theoretically traceable due to its unique number black markets have no problems accepting it.
+1.8.6.6.3. Con: Cash is accepted for historic reasons, given that it was until recently the only way to pay.
+1.8.6.6.3.1. Pro: Nowadays the use of cash is slowly declining as new payment methods have appeared.
+1.8.6.6.3.1.1. Con: Not new payment methods have appeared, but new ways of consuming, like internet shopping. People use cards more often because they cannot pay stuff they ordered in the internet via cash.
+1.8.6.6.3.2. Con: Today, cash is not accepted for historic reasons anymore, but cash is popular for practical reasons \(mindful spending, no data breaches or fees unlike with credit cards, etc.\).
+1.8.6.6.3.2.1. Pro: -> See 1.8.6.6.1.3.1.
+1.8.6.6.3.2.2. Pro: -> See 1.8.6.6.1.3.2.
+1.8.6.6.3.2.3. Con: -> See 1.8.6.6.1.3.3.
+1.8.6.6.3.2.4. Con: -> See 1.8.6.6.1.3.4.
+1.8.6.6.3.2.5. Con: -> See 1.8.6.6.1.3.5.
+1.8.6.6.3.2.6. Con: -> See 1.8.6.6.1.3.6.
+1.8.6.6.3.2.7. Con: -> See 1.8.6.6.1.3.7.
+1.8.6.6.4. Pro: Criminals prefer [cash](https://www.europol.europa.eu/content/cash-still-king-criminals-prefer-cash-money-laundering) for money laundering.
+1.8.6.6.5. Con: Just because something is 'accepted' does not mean that it is automatically beneficial for society.
+1.8.6.6.5.1. Pro: -> See 1.8.6.6.3.
+1.8.6.6.5.2. Pro: Smoking and drinking is accepted and legal. However, regarding their effects on health they are not beneficial.
+1.9. Con: APs make governments' operations more complicated and costly.
+1.9.1. Pro: APs mean less economic data for the government. This makes it more difficult to create the right or efficient economic policy for the country.
+1.9.1.1. Pro: Wrong economic policy tightens economical crises and make it difficult to fight them or find a proper solution.
+1.9.1.1.1. Pro: Constant economical crises leads to poverty in huge parts of the population.
+1.9.1.2. Pro: It would make governmental accounting and finance systems more difficult.
+1.9.1.2.1. Pro: Governmental services such as ALG 2, BAföG, etc. would need a conceptual overhaul, since income conditions of relevant persons \(oneself, parents, e.g.\) could not be estimated properly.
+1.9.1.2.1.1. Con: Applications, just as today, would include a field in which the applicant pledges that all information included is correct. APs would not change anything in this.
+1.9.1.2.1.1.1. Con: APs would change it, because for "incomebased" services such as ALG 2 or BaföG \(to a certain extent, there are other factors as well\) the origins of every income have to be traceable to be counted properly. If anonymous those payments would be put into interpretation of the caregiver and depending on that the acceptance or denial of those services would be put up to arbitrariness of the caregiver instead of facts.
+1.9.1.2.1.2. Con: Unlikely, as they seem to work fine today already with all the cash \(an imperfect AP\), in use.
+1.9.1.2.2. Pro: It reduces the oversight of the BaFin and thus increases market failures.
+1.9.1.2.2.1. Pro: Allowing financial institutions to make use of untraceable currencies in their interaction among each other makes it more difficult to detect market failures
+1.9.1.2.2.2. Pro: Given the crises of the last years, BaFin is already at its limits by monitoring the financial sector, anonymous payments would be too much workload.
+1.9.1.2.2.2.1. Con: BaFin would not be able to aggregate APs, thus there would be no additional work.
+1.9.1.2.3. Con: The government would not see the APs and would thus, just like today with the black market economy, understate the GDP, etc. That is not a catastrophy.
+1.9.2. Pro: Governments would suffer from AP's use in criminal activities.
+1.9.2.1. Pro: Child and youth protection would be a problem.
+1.9.2.1.1. Con: Child and youth protection would not be a problem as these sectors could easily be forbidden by governments to accept APs as payment, unless a proper age check is done additionally.
+1.9.2.1.2. Con: Many convicts of child pornography are not busted because of the payments they make. With AP not much would change. [1\)](http://www.hawaiinewsnow.com/story/30496101/im-busted-convicted-child-predator-admits-to-new-crimes) [2\)](http://www.nydailynews.com/news/national/n-authorities-bust-daycare-center-child-porn-ring-article-1.1844217) [3\)](http://www.cbc.ca/news/canada/toronto/child-pornography-bust-spanning-17-countries-leads-to-41-arrests-1.3063106)
+1.9.2.1.3. Pro: Certain kinds of businesses \(e.g. the retail sales video games, music, movies, etc.\) would have huge problems to enforce youth protection laws.
+1.9.2.1.3.1. Con: This only applies to digital APs, with cash there is already a mechanism in retail, it is called ID check.
+1.9.2.1.3.1.1. Con: Checking someone´s ID makes the payment, be it cash or digital, not anonymous.
+1.9.2.1.4. Con: Child and youth protection are a problem anyway. This will not change much anyway.
+1.9.2.1.4.1. Pro: Regardless of political or economic systems, throughout human history humanity has always known child prostitution.
+1.9.2.2. Pro: The government often has less or no tax income on AP transactions.
+1.9.2.2.1. Pro: The black labor market does not pay for income taxes, nor for healthcare insurance or pensions.
+1.9.2.2.2. Pro: Contraband, like illegally smuggled cigarettes, are bought in cash and at a reduced price as the tobacco tax is not included.
+1.9.2.2.3. Pro: Illegal drugs, that are purchased using cash, are sold without VAT.
+1.9.2.3. Pro: Protecting citizens from crime will be requiring a bigger effort.
+1.9.2.3.1. Pro: -> See 1.1.
+1.9.3. Pro: A globally used AP system would be the end of governments based on taxation.
+1.9.3.1. Pro: -> See 1.1.9.
+1.9.3.2. Con: Goverments do tax income on APs already. Thus, governments are already used to operating with them. [1\)](http://techcrunch.com/2013/08/19/germany-recognizes-bitcoin-as-private-money-sales-tax-coming-soon/) [2\)](http://www.forbes.com/sites/greatspeculations/2013/12/03/the-tricky-business-of-taxing-bitcoin/#2715e4857a0b49e44ebc7e47) [3\)](http://www.coindesk.com/german-government-relieves-capital-gains-tax-on-bitcoin-positions/)
+1.9.3.2.1. Pro: Governments already operate by taxing cash transactions, which are anonymous unless reported.
+1.9.3.2.2. Con: -> See 1.1.9.1.2.
+1.9.3.3. Con: The government would not know of AP transactions, just like today. And would try continuing to catch those who do not pay their taxes.
+1.9.3.4. Con: Taxing consumption rather than income will become easier as it can be taken directly on payment.
+1.9.4. Con: The government operations hindered by tools of individual freedom are destructive to individuals and to society as a whole.  Centrally controlled and monitored systems of communication and payment chill free speech, free association, and open collaboration.
+1.9.5. Con: Keeping the current way of operating for a government and allowing APs would render things costly. Integrating government and APs will simplify things.
+1.9.6. Con: Apart from Monero or ZCash, blockchain transfers can be viewed by anyone. Once governments have the technology to investigate the history of a blockchain it would be a field day for them. The accidental or deliberate omission of reported income for tax purposes may effectively cease.
+1.9.7. Pro: -> See 1.9.1.2.1.
+1.9.8. Pro: It would be antithetic to the whole concept of "public" \(Öffentlichkeit\) and detract responsibility of one´s actions.
+1.9.8.1. Con: APs do not affect my ability to join in public discussions, thus it cannot be completely antithetical.
+1.10. Pro: Funding anti-establishment actors that keep the elites in check is greatly helped by APs.
+1.10.1. Pro: A lot of Wikileak's funding was only possible via the extensive use of Bitcoins.
+1.10.1.1. Con: Many people before the credit card companies were ordered to not process any donations in the name of Wikileaks anymore, used Visa, Mastercard or Paypal. So they did not care whether the payment was anonymous or not, it's just that bitcoin could not be stopped.
+1.10.1.2. Pro: When there were no alternatives most donations were made in [Bitcoins](http://www.coindesk.com/bitcoin-litecoin-source-wikileaks-donations/).
+1.10.1.3. Con: You can always setup proxy organisations that will accept donations on behalf of the boycotted party.
+1.10.1.4. Pro: Bitcoin is a secure and anonymous digital currency that cannot be easily tracked back to the donator, so Bitcoins are a safer and faster alternative to other donation methods.
+1.10.1.5. Con: Wikileaks was not beneficial to society.
+1.10.1.5.1. Pro: Revelations of Wikileaks endangered soldiers on the ground
+1.10.1.5.1.1. Con: There is also no question that WikiLeaks’ disclosures — particularly the first batch, which it did not redact to remove informants’ names — have the potential to put lives in danger.  But: as the government itself has admitted, there is no evidence that anyone has actually been harmed as a result of the disclosures. [1\)](http://www.mcclatchydc.com/news/special-reports/article24602194.html)
+1.10.1.5.1.1.1. Pro: And WikiLeaks has reformed its practices since the first release.
+1.10.1.6. Con: Cryptome.org, by John Young, has been operating for over a decade without the funding requirements of Wikileaks and has published loads of revealing materials.
+1.10.1.6.1. Pro: It is basically a one-man show and the cost of hosting a web server.
+1.10.2. Con: Bitcoins are more prominent in democracies than in non-democracies. Thus they fail to support anti-establishment actors where truly needed. [1\)](https://blockchain.info/)
+1.10.2.1. Con: [China](https://www.cryptocoinsnews.com/america-china-bitcoin-transactions/) accounts for 80% of Bitcoin transactions.
+1.10.2.2. Pro: Most places that accept Bitcoins are located in the [Western](https://coinmap.org/#/world/7.18810087/55.19531250/2) world.
+1.10.3. Con: Many anti-establishment actors are negative to society because they are violent or break laws.
+1.10.3.1. Pro: Right wing groups such as the National Democratic Party \(NDP\) are known to be [violent](http://www.spiegel.de/international/germany/germany-launches-new-bid-to-outlaw-far-right-npd-party-a-937008.html).
+1.10.3.2. Pro: [Red Help](https://www.verfassungsschutz.de/en/fields-of-work/left-wing-extremism/figures-and-facts-left-wing-extremism/left-wing-extremists-efforts-2014) is acting against the constitution and aims to free violent criminals.
+1.10.3.2.1. Pro: Red Help was a recruiting ground for Red Army Faction \([RAF](https://books.google.co.kr/books?id=xomqmgS2sgEC&pg=PA238&lpg=PA238&dq=rote+hilfe+left+wing+extremist&source=bl&ots=r1aC8J065d&sig=GNIxVDcG0nKzogfqUayUYEjk0ZE&hl=ko&sa=X&ved=0ahUKEwis3POzuKHKAhXGn5QKHQkpB_wQ6AEILTAD#v=onepage&q=rote%20hilfe%20left%20wing%20extremist&f=false)\) terrorists.
+1.10.3.2.2. Con: In a country with the rule of law, violent criminals who are locked up have legal rights. Thus providing support in getting legal and financial assistance is not something that should be considered against the constitution, especially not from a meanwhile more than questionable agency such as the Federal Office for the Protection of the Constitution \(Bundesamt für Verfassungsschutz\).
+1.10.3.2.2.1. Pro: Law firms do provide the same assistance to companies that violated laws and this is not considered anti-constitutional.
+1.10.4. Pro: In the US for example, the government manipulates the money supply by introducing new money to pay for things it can't actually afford \(i.e. deficit spending\) this drives inflation which devalues the USD and steals buying power from each and every citizen bit by bit every year, which is why we keep having to raise the minimum wage.  Cryptocurrencies aren't subject to this kind of manipulation and therefore are inherently inflation proof.
+1.10.5. Con: To keep an institution in check is a form of accountability. Accountability, however, stands in a direct trade off with efficiency. So increasing the power to keep other actors in check reduces their efficiency
+1.10.5.1. Pro: Command structures that cannot be questions, such as in the military enhance efficiency. The [UNGA](http://www.un.org/en/ga/) is the opposite. Here everyone has an equal say and it works highly inefficient.
+1.10.5.2. Pro: The accountability mechanism of the World Bank \(the World Bank Inspection Panel\) worked in terms of accountability as it stopped the project but in the process required lots of funds that eventually were spend on nothing. [1\)](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2000/08/14/000094946_00072605392170/additional/820140748_200404141112417.pdf)
+1.10.6. Con: There are already ways to keep the elite accountable, elections for example. This makes them accountable to their constituency.
+1.10.6.1. Pro: In the principal-agent model they do what the constituency commands them to do
+1.10.6.2. Pro: Vertically the government is accountable by reporting to their constituency what they are doing
+1.10.6.3. Pro: Through electing a pluralistic body of politics \(i.e. different parties\) the government becomes horizontally accountable in the parliament
+1.10.6.4. Pro: Since the government is mostly a coalition it is also internally accountable to different ministries
+1.10.6.5. Con: This applies only to politicians. Important parts of the elite are bureaucrats and are not controlled or mandated by the public via elections, like for example the BND.
+1.10.6.5.1. Con: The BND can be changed by the politicians taking actions. Voters, simply have to select the right politicians.
+1.10.6.6. Pro: Another important aspect is the separation of powers into legislative, executive and judiciary. These three branches have independent and separate powers and control each others to prevent abuse of power and keep accountability for their actions.
+1.10.6.7. Pro: The German Constitution has to be abided by the elite as well. If they fail to do so, every citizen can impose a constitutional complaint.
+1.10.6.8. Pro: The press serves as an important means to keeping checks on the elite.
+1.10.6.9. Con: Companies are not accountable and lawsuits often depend on whistleblowers inside the companies to provide the information to have them prosecuted.
+1.10.6.9.1. Con: Companies are accountable to their constituency \(e.g. stockholders\) and to the managerial board.
+1.10.6.9.1.1. Con: But the shareholders only care about profits and often do not care about breaking or bending the law or behaving immorally.
+1.10.6.9.1.1.1. Con: Management is not measured by the morality of their actions, unless this puts the company's profits in danger by exposing them to lawsuits.
+1.10.6.9.1.1.2. Con: The [Volkswagen law](https://de.wikipedia.org/wiki/VW-Gesetz#Zwei-Drittel-Mehrheit_bei_Produktionsst.C3.A4ttenentscheidungen) enables the state of Lower Saxony to have a veto in case that factories are closed. This is clearly a moral intention of shareholders.
+1.10.6.9.1.2. Pro: The quality of work delivered by individuals within the board will be assessed by the other board members. This is also a form of accountability.
+1.10.6.9.2. Con: You can bring a lawsuit against a company. If this is not sufficient the government should change the rules; not the company its behaviour
+1.10.6.9.3. Con: Collecting tax data and then offer it for sale from Switzerland
+1.10.6.9.4. Con: Then again, against non-state actors, there are plenty of ways to provide whisteblowing materials, no Wikileaks is required.
+1.10.6.9.4.1. Pro: You can just drop the incriminating materials into a mailbox and mail them to a state attorney's or newspaper's office.
+1.10.7. Pro: Not only anti-establishment actors but also smaller political parties \(like for example the Pirate Party\) or NGOs \(red help and its counterparts on the right side, small foreign NGOs working in the Diaspora, etc.\) could benefit from it.
+1.10.8. Con: Anti-establishment actors are not beneficial for a society based on the rule of law
+1.10.8.1. Con: Wikileaks was and is beneficial for society.
+1.10.8.1.1. Pro: For the common citizen WikiLeaks proves to be a valuable tool in ensuring government transparency and providing citizens with classified government information, thereby allowing each citizen to analyze the long-held secrets of his or her government.
+1.10.8.1.2. Pro: Some of the leaks have contributed significantly to public and political conversations all around the world. [1\)](https://www.eff.org/deeplinks/2011/01/cablegate-disclosures-have-furthered-investigative)
+1.10.8.1.3. Con: -> See 1.10.1.5.1.
+1.10.8.1.4. Pro: Some in academia have started to use [Wikileaks](http://www.npr.org/2011/02/07/133334302/professors-differ-on-ethics-of-using-wikileaks-cables), therewith improving their seminars.
+1.10.8.2. Pro: If political decision making is rule based there is no need for interference. Any interference is disturbing as it costs the institution money and time to accommodate demands of civil society
+1.10.8.2.1. Pro: Interfering with rules that are legitimised in democratic processes only favors particular interest
+1.10.8.3. Pro: A degree of secrecy is necessary when negotiating with non-democracies
+1.10.8.3.1. Pro: Government secrecy is designed to protect sensitive information from external [enemies](https://www.fas.org/sgp/eprint/gibbs.html).
+1.10.8.4. Con: Greenpeace is and was beneficial for society.
+1.10.8.4.1. Pro: Greenpeace is working to ensure the ability of the Earth to nurture life in all its diversity and focuses its campaigning on worldwide issues such as climate change, deforestation, overfishing, commercial whaling, genetic engineering, and anti-nuclear issues. [1\)](http://www.greenpeace.org/international/en/about/faq_old/questions-about-greenpeace-in/)
+1.10.8.4.2. Con: It is already part of the establishment given its widespread prominence
+1.10.8.5. Con: The [EFF](http://https:/www.eff.org) is and was beneficial for society.
+1.10.8.6. Con: Amnesty International is and was beneficial for society.
+1.10.8.6.1. Pro: The stated objective of AI is "to conduct research and generate action to prevent and end grave abuses of human rights, and to demand justice for those whose rights have been violated." [1\)](https://www.amnesty.org/en/who-we-are/)
+1.10.8.6.2. Con: -> See 1.10.8.4.2.
+1.10.9. Con: -> See 1.10.1.6.
+1.10.10. Con: Nearly all anti-establishment actors, that are positive for society, have no problem raising funds via traditional means.
+1.10.10.1. Con: The [IRS targeting of conservative groups](https://en.m.wikipedia.org/wiki/IRS_targeting_controversy) is an example of why this is not a good claim.
+1.10.10.2. Pro: Amnesty International, Greenpeace, Reporters without Borders, etc have no problem receiving funding by non-AP means.
+1.11. Pro: Some business sectors would benefit from APs.
+1.11.1. Con: -> See 1.2.4.1.2.
+1.11.2. Pro: -> See 1.2.5.
+1.11.3. Pro: The cost per transaction is cheaper using APs. This would keep more profits for the business accepting them and result in cheaper products for consumers.
+1.11.4. Con: Compared to the damages by criminal activities the businesses that would profit are miniscule in revenue and profit.
+1.11.4.1. Pro: Consider the scale of global corruption, tax evasion and money laundering and  compare that to the profit of aforementioned corporations.
+1.11.4.2. Con: Banks under the current system already are big in the money laundering and finance criminal activities business. AP would not change much. [1\)](http://www.huffingtonpost.com/avinash-tharoor/banks-cartel-money-laundering_b_4619464.html)
+1.11.5. Pro: Affair services, such as Ashley Madison, would draw more customers because they could be sure not to become public.
+1.11.5.1. Pro: When Ashley Madison was hacked the hacker group threatened to publish credit card transactions. [1\)](http://www.sueddeutsche.de/digital/ashley-madison-hacker-erbeuten-nutzerdaten-von-seitensprung-portal-1.2573878)
+1.11.5.1.1. Con: Ashley Madison can still be hacked and private data about the members could still be revealed as well.
+1.11.5.1.1.1. Pro: Just because the membership payment was anonymous, there would still be tons of private data \(such as photos of oneself and one's sexual preferences\) that would become public.
+1.11.5.1.1.1.1. Pro: The worst thing that could happen is that people know one is having an affair via Ashley Madison. The excact price on how expensive that would be is not really relevant.
+1.11.5.1.1.1.2. Con: If made public everyone could claim to never have made use of this service despite entering his/her data. This would only be proven by payment.
+1.11.5.1.1.1.2.1. Con: No, somebody could have stolen your credit card details and used them, happens all the time.
+1.11.5.1.1.1.3. Con: Yes, but only in a pseudonymous fashion, meaning attached to a user, but not to a real world identity. \(besides the photo\)
+1.11.5.1.1.1.3.1. Con: Soon there will be face-matching services available for everyone.
+1.11.5.1.1.2. Con: -> See 1.11.5.1.1.1.2.
+1.11.5.1.1.3. Con: -> See 1.11.5.1.1.1.3.
+1.11.5.2. Con: These services come with negative effects and thus should not be supported.
+1.11.5.2.1. Con: A lot of people who were active on Ashley Madison in fact did not cheat on their partners, they just interacted with a computer programme. This makes the company not that bad. [1\)](http://www.pcmag.com/article2/0,2817,2490203,00.asp)
+1.11.5.2.1.1. Con: This is not an excuse, those people still visited the website with the intention of meeting "real" persons, whom they can have sex with.
+1.11.5.2.1.1.1. Con: For some people it is sufficient to have such a fantasy without actually turning it into practice
+1.11.5.2.1.1.2. Con: Intention itself is not enough to accuse someone, the thought has to be carried out.
+1.11.5.2.2. Con: There is no reason sexual desires should be suppressed.
+1.11.5.2.2.1. Con: Sexual desires should be suppressed in order to prevent someone from committing adultery.
+1.11.5.2.2.1.1. Con: Adultery can happen either way. Monogamy is more a social construct than an actual natural behaviour.
+1.11.5.2.2.1.2. Pro: Adultery is a danger to stable society.
+1.11.5.2.2.1.2.1. Con: A stable society in terms of a stable economy or politics would not be threatened by a polygamous way of living of its citizens.
+1.11.5.2.2.1.2.1.1. Pro: There are tribes in Africa, where a wife generally   considers it an economic advantage for her family to have additional co-wives, since the  women help each other in doing domestic chores and in caring for their animals. Thus stability is granted.
+1.11.5.2.2.1.2.2. Pro: It will leave families with deep wounds if a partner commits adultery. Happy citizens are better for a stable society than unhappy citizens.
+1.11.5.2.2.1.2.2.1. Con: People can be happy in stable but so-called "open" relationships, where each partner is allowed to have other sexual partners, if he / she desires so.
+1.11.5.2.2.1.2.2.2. Con: People find new partners, it happens all the time.
+1.11.5.2.2.1.2.2.2.1. Con: Children in such constellations very often report problems with their new 'father' after the mother married again.
+1.11.5.2.2.1.2.2.3. Con: You can be happy and without a partner.
+1.11.5.2.2.1.2.2.4. Pro: A lot of families that break up become unhappy
+1.11.5.2.2.1.2.2.4.1. Pro: Many fathers regret losing their children \(regular contact\) after breakup.
+1.11.5.2.2.1.2.2.4.1.1. Con: Many fathers do decide for themselves to end the contact in order to protect the child. [1\)](http://www.vaeter-aktuell.de/studien/Amendt_20040119.htm)
+1.11.5.2.2.1.2.2.4.1.1.1. Con: This does not mean that they do not regret this decision later on.
+1.11.5.2.2.1.2.2.4.1.1.1.1. Con: The joy of heroism created by the feeling to have done something good for the child is a powerful drive to not regret it
+1.11.5.2.2.1.2.2.4.1.1.1.2. Pro: Fathers will naturally miss being around their children, watching them grow up and teaching them to become an adult.
+1.11.5.2.2.1.2.2.4.1.1.1.2.1. Con: Men are more likely to take extra hours at work, when they get children, so they do not need to be around them all the time.
+1.11.5.2.2.1.2.2.4.1.1.1.2.1.1. Con: The reason for this phenomenon could be that they have the feeling they need to work more and make more money in order to provide for the child.
+1.11.5.2.2.1.2.2.4.1.1.1.2.1.2. Con: Not being around them all the time due to working hours is not comparable to not being able to see them at all.
+1.11.5.2.2.1.2.2.4.1.1.1.2.1.3. Pro: With growing globalization many men leave home to work in different countries which inhibits regular direct contact and is known as [Astronaut Family](https://en.wikipedia.org/wiki/Astronaut_family).
+1.11.5.2.2.1.2.2.4.1.1.1.2.2. Con: One totally has to give oneself up, when having children. They are really hard work and a full time job. Not everybody is willing to make that sacrifice.
+1.11.5.2.2.1.2.2.4.1.1.1.2.2.1. Pro: Mothers do regret having children sometimes.'Regretting motherhood' is a common term these days.[1\)](http://www.dailymail.co.uk/femail/article-2303588/The-mother-says-having-children-biggest-regret-life.html)
+1.11.5.2.2.1.2.2.4.1.2. Con: Parents separating does not necessarily mean, that the father loses contact to the children.
+1.11.5.2.2.1.2.2.4.1.2.1. Pro: Many parents split child custody.
+1.11.5.2.2.1.2.2.4.1.2.2. Pro: It is not that easy for a mother to gain sole custody of a child after a divorce.
+1.11.5.2.2.1.2.2.4.1.2.3. Pro: Even if the children live with their mother, the father can visit/ meet them regularly and keep a close relationship with them.
+1.11.5.2.2.1.2.2.4.2. Pro: -> See 1.11.5.2.2.1.2.2.2.1.
+1.11.5.2.2.1.2.2.4.3. Con: A lot of families become happy once they broke up.
+1.11.5.2.2.1.2.2.5. Pro: There will be distrust between the partners even if they stay together. This puts stress on both of them.
+1.11.5.2.2.1.2.3. Pro: It not only opens a person up to diseases and curses such as HIV, but it also creates unholy soul ties \(spiritual bondage between one person and another\), which can cause unclean \(demonic\) bondages to transfer from one person to the other.
+1.11.5.2.2.1.2.4. Pro: It causes marriages to divorce incurring costs to the public
+1.11.5.2.2.1.2.4.1. Con: If the partners had not had affairs some marriages would have ended way sooner.
+1.11.5.2.2.1.2.4.1.1. Con: It would have been better, if those realtionships would have ended sooner. Both partners would have had more time to search for a new partner and not waisted time and energy on a relationship, which was not meant to last.
+1.11.5.2.2.1.2.4.2. Con: [Adultery](http://www.yourtango.com/experts/yourtango-experts/top-causes-divorce-expert) is not among the top 10 reasons of divorce.
+1.11.5.2.2.1.2.5. Con: This seems highly unlikely given that humans are adulterous, but there seem to be stable societies around the planet.
+1.11.5.2.2.1.2.5.1. Pro: Being adulterous is a standard human desire, to which many, men and women, succumb.
+1.11.5.2.2.1.2.5.1.1. Pro: Many relationships, especially after a long time have no regular sex anymore.
+1.11.5.2.2.1.2.5.1.2. Pro: A specific individual might just be an object of lust and desire and even though one has no intention of leaving ones partner, one will give in and have an affair.
+1.11.5.2.2.1.3. Con: Our society is not entirely monogamous anyway. It can better be described as sequential monogamy.
+1.11.5.2.2.1.4. Con: -> See 1.11.5.2.2.1.2.5.1.
+1.11.5.2.2.1.5. Con: Adultery allows a couple to stay together, even if their sex life has become very unfulfilling.
+1.11.5.2.2.1.5.1. Con: There are better alternatives than adultery to making a couple's sex life again more eventful.
+1.11.5.2.2.1.5.1.1. Pro: Because adultery might result in separation less risky alternatives are better, e.g. trying out new sex practices or making use of counselling services
+1.11.5.2.2.1.5.1.1.1. Pro: Intensive Couples Sex Therapy Retreat, as one sort of counselling, have shown the positive effects. [1\)](http://www.couplestherapyinc.com/intensive-couples-sex-therapy-retreat-intimacy-sexuality/) [2\)](http://www.loveforcouples.com/de/retreats.html)
+1.11.5.2.2.1.5.1.1.2. Pro: Couples therapy can help a lot when it comes to sexual problems. If the relationship works better, the sex life is automatically improving as well.
+1.11.5.2.2.1.5.1.2. Pro: Involvement of both partners in sexual adventures, e.g. having an orgy or going to swinger clubs. This carries less risk of separation.
+1.11.5.2.2.1.5.1.3. Con: Some sexual desires cannot be fulfilled with the same partner.
+1.11.5.2.2.1.5.1.3.1. Con: If your sexual desires are not fulfilled by your partner, you could still separate. There is no need to do adultery.
+1.11.5.2.2.1.5.1.3.1.1. Con: By commiting adultery in these situations it is possible to attain both sexual desire and a healthy relationship
+1.11.5.2.2.1.5.1.3.2. Pro: Desire to have sex with a man is impossible to fulfill with a woman.
+1.11.5.2.2.1.5.1.3.3. Pro: Sexual desires for certain characteristics \(such as dark hair, blond hair, high cheekbones, dark skin, oriental eyes\) are impossible to combine with the same partner.
+1.11.5.2.2.1.5.1.3.4. Pro: Age is an unchangeable factor. Thus a partner desiring a younger/older partner is unlikely to gain this fulfillment with the same partner.
+1.11.5.2.2.1.5.2. Pro: Sex is not the most important element of a relationship.
+1.11.5.2.2.1.5.3. Con: Adultery is often the first step to divorce and should be avoided
+1.11.5.2.2.1.5.3.1. Con: Divorce is not only a bad thing but can be a fresh start for both.
+1.11.5.2.2.1.5.3.2. Con: -> See 1.11.5.2.2.1.2.4.2.
+1.11.5.2.2.1.5.3.3. Pro: One of the top reasons for divorce is [adultery](http://divorce.lovetoknow.com/Top_Reasons_for_Divorce).
+1.11.5.2.2.1.5.3.3.1. Con: It is likely that adultery is not the main reason for the divorce, just the reaction to the real problems that are going on in the relationship.
+1.11.5.2.2.1.5.4. Pro: Couples can relive their sexual desire without cutting the personal bonds they created.
+1.11.5.2.2.1.5.5. Pro: Sex is unrealted to personal feelings of trust, respect and interdependence.
+1.11.5.2.2.1.5.5.1. Pro: Polygamous couples can have a fullfilling partnership with children, a household and live-long bonds.
+1.11.5.2.2.1.5.5.2. Con: Some partners might loose those feelings once one in the relationship engages in adultery.
+1.11.5.2.2.2. Con: Sexual desires of pedophiles should be avoided / repressed. And women can have pedophile tendencies as well.
+1.11.5.2.2.2.1. Pro: Children are the most unprotected members of society, thus they need special protection, even if it implies strict measures for paedophiles.
+1.11.5.2.2.2.1.1. Pro: In some countries convicted paedophiles are forced to undergo chemical castration.
+1.11.5.2.2.2.1.1.1. Con: Chemical castration is ineffective for female offenders
+1.11.5.2.2.2.1.1.2. Pro: [South Korea](http://in.reuters.com/article/idINIndia-58423020110724) approved a law to castrate paedophiles.
+1.11.5.2.2.2.1.1.3. Pro: Poland also approved such law with the strong participation of Prime Minister Donald Tusk. [1\)](http://www.bbc.co.uk/news/10269055)
+1.11.5.2.2.2.1.1.4. Pro: On April 30, 2010, a man in the U.K., who was found guilty of attempting to murder a 60-year-old woman in order to abduct and rape her two granddaughters, agreed to undergo chemical castration as part of the terms of his sentence. [1\)](http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/8636891.stm)
+1.11.5.2.2.2.1.1.5. Pro: On March 6, 2012, [Moldova](https://en.wikipedia.org/wiki/Chemical_castration#Europe) legislated forcible chemical castration of child molesters; the law came into effect on July 1, 2012.
+1.11.5.2.2.2.1.1.6. Con: Human rights groups [object](http://in.reuters.com/article/idINIndia-58423020110724) to chemical castration.
+1.11.5.2.2.2.1.1.7. Con: There are [better ways](http://whyfiles.org/154pedophile/2.html), such as behavioral therapy or brain surgery.
+1.11.5.2.2.2.1.1.7.1. Con: Brain surgery is likely to be more health-risky than castration.
+1.11.5.2.2.2.1.1.7.1.1. Con: Even though more health risky men think brain surgeries are better because of [1\)](https://en.wikipedia.org/wiki/Castration_anxiety#Empirical_testing)
+1.11.5.2.2.2.2. Pro: Children are our future, so we need to try our best in protecting them from abuse.
+1.11.5.2.2.2.2.1. Con: Child abuses as understood today can have benefits for the children.
+1.11.5.2.2.2.2.1.1. Pro: Just like in ancient Greece potentially successful children could be taken by a protege who furthers the child's career in return for sexual favors.
+1.11.5.2.2.2.2.1.1.1. Con: You are describing sex trade here, not a real benefit for the child.
+1.11.5.2.2.2.2.1.1.1.1. Con: Ancient Greek benevolent tutoring entailed benefits in return for sexual favors. Sex trade, in contrast, does not produce benefits. Thus, the two are different.
+1.11.5.2.2.2.2.1.1.2. Pro: In art history this is nicely expressed in the different depictions of Ganymed by [Michelangelo and Rembrandt](http://www.akg-images.de/C.aspx?VP3=SearchResult&VBID=2UMESQ9VE0VF3) and Thomas Mann's 'Death in Venice'
+1.11.5.2.2.2.2.1.2. Con: There are no benefits for a child that is sexually abused. There is only pain as well as \(sometimes even life-long\) psychological and physical damage. [1\)](https://www.rainn.org/get-info/effects-of-sexual-assault/adult-survivors-of-childhood-sexual-abuse)
+1.11.5.2.2.2.2.1.2.1. Pro: Job disappointments, relocations, failed relationships, financial setbacks, etc. can be the result of unresolved childhood abuse issues. [1\)](http://www.asca.org.au/About/Resources/Impact-of-child-abuse.aspx)
+1.11.5.2.2.2.2.1.3. Con: [Child abuse](http://www.asca.org.au/WHAT-WE-DO/Resources/General-Information/Impact-of-child-abuse) violates the trust at the core of a child’s relationship with the world.
+1.11.5.2.2.2.2.1.4. Con: Children who do disclose abuse may be flooded with guilt, fear and feelings of betrayal or confusion. [1\)](http://www.secasa.com.au/pages/the-effects-of-childhood-sexual-abuse/the-child-sexual-abuse-accommodation-syndrome/)
+1.11.5.2.2.2.2.2. Pro: In light of the problems ahead children should focus on the problems of the future instead of being bothered with psychological effects of abuse.
+1.11.5.2.2.2.2.2.1. Pro: A physically and psychologically damaged child is most probably not capable of focussing on problems of the future.
+1.11.5.2.2.2.2.3. Pro: Children are inherently helpless and subordinate. They are small, dependent, and emotionally immature. Thus they need our protection.
+1.11.5.2.2.2.3. Con: 99% of the population should forego their natural desires because 1% is misbehaving, seems to be wrong.
+1.11.5.2.2.3. Con: According to Freud, sexual desire is a part of the id - the set of uncoordinated instinctual trends, which is the source of our bodily needs, wants, sexual and aggressive drives. As the id is unconscious, it means we can not control it and sexual desire, so it should be avoided in order to keep public order  [1\)](https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Id)
+1.11.5.2.2.3.1. Con: Freud's theories have been discredited.
+1.11.5.2.2.3.1.1. Con: They have been discarded. There is a difference
+1.11.5.2.2.3.1.2. Pro: Sigmund Freuds theories are [not relevant](http://www.spiegel.de/wissenschaft/mensch/150-jahre-sigmund-freud-der-ueberschaetzte-a-414462.html) any more.
+1.11.5.2.2.3.1.3. Pro: [Freud's notion that the child's relationship to the parent is responsible for everything from psychiatric diseases to criminal behavior has also been thoroughly discredited and the influence of such theories is today regarded as a relic of a permissive age in which "blame-the-parent" was the accepted dogma.](http://www.psychologistworld.com/psychologists/freud_1.php)
+1.11.5.2.2.3.1.4. Pro: [Why Freud Still Matters, When He Was Wrong About Almost Everything](http://￼http://io9.com/why-freud-still-matters-when-he-was-wrong-about-almost-1055800815)
+1.11.5.2.2.3.1.5. Pro: [For decades now, critics engaged in the Freud Wars have pummeled the good doctor’s theories for being sexist, fraudulent, unscientific, or just plain wrong. In their eyes, psychoanalysis belongs with discarded practices like leeching.](http://www.nytimes.com/2007/11/25/weekinreview/25cohen.html)
+1.11.5.2.2.3.1.6. Con: [Sigmund Freud](http://www.alternet.org/personal-health/12-things-sigmund-freud-got-right) discovered the unconscious.
+1.11.5.2.2.3.1.7. Con: Sigmund Freud identified sexuality as [major driver](http://www.alternet.org/personal-health/12-things-sigmund-freud-got-right) for human behavior.
+1.11.5.2.2.3.1.8. Con: [Sigmund Freud](http://www.alternet.org/personal-health/12-things-sigmund-freud-got-right) argued that speaking about a problem helps.
+1.11.5.2.2.3.1.9. Pro: [Sigmund Freud](http://www.nytimes.com/2007/11/25/weekinreview/25cohen.html?_r=1) is not taught widely anymore at psychology departments.
+1.11.5.2.2.3.1.9.1. Con: This is a shame, if Freud was taught more abundantly then more students would have a deep and wide frame of therapeutic uses in psychology.
+1.11.5.2.2.3.2. Pro: If that were the case there would be no public order in Western cultures.
+1.11.5.2.2.3.3. Con: If you think this theory is accurate, it could be said on the contrary that if people do not follow their sexual desires, this drive will surface on a different level, for example through criminal energy etc, which would be really bad for society.
+1.11.5.2.2.4. Pro: Sexual desire is very human in both females and males.
+1.11.5.2.2.5. Pro: Sexual practices are joyful and mentally rewarding. This helps to create a more stable society.
+1.11.5.2.2.6. Pro: Sex prevents depression naturally.
+1.11.5.2.2.7. Pro: Sex is very good for the immune system.
+1.11.5.2.2.8. Pro: Sex helps, in cases of stress.
+1.11.5.2.2.9. Pro: Sex helps you to sleep better.
+1.11.5.2.2.10. Pro: Sex has the same effect on your body like physical training.
+1.11.5.2.2.11. Con: Men are more likely to get a heart attack during sex with an extra-marital affair. [1\)](http://www.dailymail.co.uk/health/article-2108792/Men-likely-die-heart-attack-extra-marital-sex.html)
+1.11.5.2.2.12. Con: In our monogamous society, betraying your wife or your husband can be considered an immoral thing.
+1.11.5.2.2.12.1. Con: Monogamy is nothing more than a social construct. In fact polygamy is practiced in many more societies worldwide than monogamy. A restriction to monogamy in one society is also a restriction of human nature and may therefore not be made.
+1.11.5.2.2.12.1.1. Pro: Legislation ought to resemble lifestyle; not the other way round.
+1.11.5.2.2.12.1.2. Con: Monogamy emerged dominant for a reason and is thus more than just a social construct.
+1.11.5.2.2.12.1.2.1. Pro: A 2012 study from the University of British Comubia shows that, in polygamist cultures, "the intra-sexual competition that occurs causes greater levels of crime, violence, poverty and gender inequality than in societies that institutionalize and practice monogamous marriage". [1\)](http://www.sciencedaily.com/releases/2012/01/120124093142.htm)
+1.11.5.2.2.12.1.2.1.1. Con: The study only looked at what happens if you surplant polygamous marriages with monogamous ones. It does not speak about the reverse effects which could be completely different.
+1.11.5.2.2.12.1.2.1.1.1. Pro: Today's society has a high level of centralized force in an integral police force. This would prevent intra-sexual violence in the first place.
+1.11.5.2.2.12.1.2.1.2. Pro: Crime rates tend to be [higher](http://www.theatlantic.com/magazine/archive/2006/04/one-man-many-wives-big-problems/304829/) in polygynous societies.
+1.11.5.2.2.12.1.2.1.2.1. Con: These findings are situated in societies that lacked efficient crime prevention institutions, such as medieval Portugal or 19th century China.
+1.11.5.2.2.12.1.2.1.3. Con: Monogamous forms of living together did not evolve because of evolutionary problems but social habits.
+1.11.5.2.2.12.1.2.1.3.1. Pro: Monogamy proved best in cementing power relations between two families in medieval Europe and bourgeois industrialization.
+1.11.5.2.2.12.1.2.2. Con: This kind of argument could be used for anything. Society as a whole is changing constantly, thus it is also possible that monogamy is not suitable anymore.
+1.11.5.2.2.12.1.2.2.1. Pro: Modern working life requires a high degree of flexibility. Something that monogamy does not really provide
+1.11.5.2.2.12.1.2.2.2. Pro: Birth rates are low nowadays. This means there is less need for a stable decade long relationship.
+1.11.5.2.2.12.1.3. Con: But for prevailing sequential monogamous practices the legislation should allow for more flexibility in existing structures rather than adoption of entirely new categories.
+1.11.5.2.2.12.1.3.1. Pro: Most people still live monogamous, but just have changed partners. This makes them not polygamous, but just monogamous in a different way.
+1.11.5.2.2.12.1.4. Pro: There are many societies in which polygamy is [legal](https://de.wikipedia.org/wiki/Polygamie#/media/File:Polygamy_map.svg).
+1.11.5.2.2.12.1.5. Pro: Sexuality in general is just socially constructed. This includes the decision for monogamous or polygamous relationships.
+1.11.5.2.2.12.1.5.1. Pro: We put sexuality into legal concepts that are mutually exclusive, i.e. one is either man or women. This creates not only administrative categories but also shapes expectations of citizens. This ignores the existence of cases in between such as hermaphrodites
+1.11.5.2.2.12.1.6. Con: Every sexuality is created under social pressure and thus is a social construct. This does not automatically mean it is a restriction of human nature since then human nature would not exist given omnipresent restrictions.
+1.11.5.2.2.12.1.6.1. Pro: The only domain where there are little or no restrictions could be identified in white male's sex tourism to 'colored' countries because they act from a position of extreme power \(as seen by [Cynthia Enloe](https://books.google.co.kr/books/about/Bananas_beaches_bases.html?id=F32hQgAACAAJ&redir_esc=y)\). But even here we could argue that in such a space these men act balancing to the restrictions they experienced before and thus do not act out of a sense of pure 'human nature'.
+1.11.5.2.2.12.1.6.2. Con: Sexuality is a natural thing and therefore not socially created.
+1.11.5.2.2.12.1.6.2.1. Con: Sexual orientation is more a result of your gender than your physical sex because it ascribes certain behavioural practices. [1\)](https://www.apa.org/pi/lgbt/resources/sexuality-definitions.pdf)
+1.11.5.2.2.12.1.6.2.1.1. Pro: There are men who like men
+1.11.5.2.2.12.1.6.2.1.2. Pro: There are women that like women
+1.11.5.2.2.12.1.6.2.1.3. Pro: Queer people like other queer people
+1.11.5.2.2.12.1.6.2.1.4. Pro: [Gender](https://en.wikipedia.org/wiki/Social_construction_of_gender_difference) is socially constructed.
+1.11.5.2.2.12.1.6.2.1.5. Con: Gender is not the dominant factor that shapes sexual orientation
+1.11.5.2.2.12.1.6.2.1.5.1. Pro: Sexual orientation is by definition: "An inherent or immutable enduring emotional, romantic or sexual attraction to other people." There is no official interaction with the gender of a person. [1\)](http://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions)
+1.11.5.2.2.12.1.6.2.1.5.2. Pro: Gender and sexuality are often viewed as linked constructs, whereby the role of gender in an individual's life is informed by and impacts others' perceptions of their sexuality. [1\)](https://en.m.wikipedia.org/wiki/Gendered_sexuality)
+1.11.5.2.2.12.1.6.2.1.5.2.1. Pro: Both the male and female genders are subject to assumptions of heterosexuality.
+1.11.5.2.2.12.1.6.2.1.5.3. Con: Objectification can lead women to look at their bodies as objects to be 'toyed' with, rather than an entity which works to keep an individual alive. This distances women from their bodies and pressures them into certain sexual orientation
+1.11.5.2.2.12.1.6.2.1.5.3.1. Pro: In commercials women can often be seen not as full persons. Just certain body parts are being shown. That means that they are comparable to an object. Breast that are shown often without the head, for example, are not linked to a female person. They are the "person" instead.
+1.11.5.2.2.12.1.6.2.1.5.3.1.1. Pro: In commercials there is often no connection between the product and the female body part being shown.[1\)](https://www.frauenrechte.de/online/index.php/themen-und-aktionen/frauenfeindliche-werbung/der-zornige-kaktus-2015)
+1.11.5.2.2.12.1.6.2.1.5.3.2. Pro: Social role ascribed in gender will pressure the individual to have a certain sexual orientation
+1.11.5.2.2.12.1.6.2.1.5.3.2.1. Con: This would not be the real sexual orientation; just his/her pretended sexual orientation to fit in.
+1.11.5.2.2.12.1.6.2.1.5.4. Pro: There are more sexual orientations than there are gender. Thus we cannot ascribe one to the other
+1.11.5.2.2.12.1.6.2.1.5.4.1. Pro: Gender oscillates between male and female as two opposites. All gender categories are fluent between these two ideal types.
+1.11.5.2.2.12.1.6.2.1.5.4.1.1. Con: From a medical point of view one is either male or female. Or something in between. If there is a uncertainty about the gender, there is an official definition as well and not a fluency between male and female.
+1.11.5.2.2.12.1.6.2.1.5.4.1.1.1. Pro: Like having a gender [dysphoria](http://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions).
+1.11.5.2.2.12.1.6.2.1.5.4.1.1.2. Pro: Being transgender is not just a used term, but has an official definition from a medical point of view. [1\)](http://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions)[2\)](http://www.merriam-webster.com/dictionary/transgender)
+1.11.5.2.2.12.1.6.2.1.5.4.2. Pro: Sexuality has many dimensions and orientations including fetishism or polyamory. This is very diverse and probably every person is an own category.
+1.11.5.2.2.12.1.6.2.1.5.5. Con: -> See 1.11.5.2.2.12.1.6.2.1.5.3.2.
+1.11.5.2.3. Pro: The [suffering](http://www.itscheating.com/adultery/intimate-relationship-and-sexual-betrayal-can-lead-to-ptsd-symptoms/) of the cheated ones is similar to suffering from PTSD.
+1.11.5.2.4. Pro: -> See 1.11.5.2.2.11.
+1.11.5.2.5. Pro: -> See 1.11.5.2.2.12.
+1.11.5.2.6. Con: -> See 1.11.5.2.2.12.1.
+1.11.5.3. Con: -> See 1.11.5.1.1.1.
+1.11.6. Pro: Some drugs, such as Viagra, would be sold more because people would not fear being identified.
+1.11.6.1. Con: -> See 1.2.6.2.6.
+1.11.6.2. Con: -> See 1.2.6.2.2.
+1.11.6.3. Con: If you were to purchase these drugs from the black market, you would risk receiving fake or bad quality medication.
+1.11.6.4. Con: -> See 1.2.5.3.

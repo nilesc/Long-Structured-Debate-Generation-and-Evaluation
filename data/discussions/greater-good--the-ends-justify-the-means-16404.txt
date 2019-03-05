@@ -1,0 +1,93 @@
+Discussion Title: Greater Good:  The ends justify the means
+
+1. The ends justify the means.
+1.1. Pro: There is nothing that exists to give meaning to an action other than what it does. Justification for means cannot come from anything other than end results.
+1.2. Pro: Legally, the ends can justify the means.
+1.2.1. Pro: The "[Just War Theory](https://www.iep.utm.edu/justwar/#H2)" and "Jus ad bellum" have justified war as a legitimate method of last resort for millennia.
+1.2.2. Con: Consequentialist ethics say that the moral worth of an action is determined by its potential consequence, not by whether it follows a set of written edicts or laws.
+1.2.3. Con: Legality is not equivalent to morality.
+1.2.4. Con: Legally, the ends do not always justify the means.
+1.2.5. Pro: Self Defence is legal.
+1.2.5.1. Pro: [International law](https://en.wikipedia.org/wiki/Self-defence_in_international_law#Overview) allows for Self Defence.
+1.2.5.2. Pro: Legally: Self-defense is defined as the right to prevent imminent suffering force or violence through the use of sufficient, reasonable, and appropriate levels of counteracting force or violence. [¹](https://criminal.findlaw.com/criminal-law-basics/self-defense-overview.html) Federally: Deadly force may be justified only under conditions of extreme necessity, when all lesser means have failed or cannot reasonably be employed. [²](https://www.law.cornell.edu/cfr/text/10/1047.7) State: 24 States use the Stand Your Ground Law, 9 States use the Castle Doctrine, and 17 States use Duty to Retreat. [³](https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html) - Shoot to incapacitate.
+1.3. Pro: [Holism](https://en.wikipedia.org/wiki/Holism) \(that actions should be viewed as wholes\), is more correct than [Reductionism](https://en.wikipedia.org/wiki/Reductionism) \(that actions should be viewed as a collection of parts\).
+1.3.1. Pro: Holism allows for certain methods to be forgivable in pursuit of a higher goal; reductionism picks away at small methodological problems that can interfere with a loftier higher goals.
+1.3.2. Con: Breaking actions down into parts can make it easier to understand each individual action, as each may have its own reason.
+1.4. Con: The end never justifies the means because there is no end, only means.
+1.4.1. Con: If you’re using end as in beginning and end, then you’re conflating two uses of the word “end”. The word “end” here means goal, not ending.
+1.4.1.1. Con: Objective goals do not exist in the universe.
+1.4.2. Pro: Each individual action taken causes other decisions to be made, a chain reaction which may continue indefinitely.  Because the means taken to try to reach an end can indefinitely be affecting the world through this butterfly effect, the initial actor can never be sure how much more good than bad his action caused.
+1.5. Pro: We should care more about the total net good, rather than any good/bad on an individual level.
+1.5.1. Pro: [Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/) is an ethical theory which states that one ought to maximise the total net good.
+1.5.2. Con: This allows for potential abuses on an individual level that may have severe negative consequences; this cannot be considered acceptable.
+1.5.2.1. Con: No state can exist which prevents such abuses.
+1.5.3. Pro: Caring more about the total net good can result in public systems and services that impact more people, resulting in a greater societal benefit.
+1.5.3.1. Pro: Health care systems such like Obamacare are built on such principles as utilitarianism, as [his mission](https://libertycounselaction.org/blog/lca/PresidentObamaUtilitarianism) was heavily steeped in balancing by way of doing the best for the greater good.
+1.5.4. Con: This would mean that if a healthy person were in a hospital sleeping it would be justifiable to kill them for their organs to save five others.
+1.5.4.1. Con: The alternative would kill five people instead of one.
+1.5.4.2. Con: Killing a person is often considered much worse than failing to intervene and save someone.
+1.5.4.2.1. Pro: Anyone reading this has the ability to donate to charity and save a life this minute. However, not doing donating is not comparable to going outside and killing someone.
+1.5.4.3. Con: As the theoretical number of people saved gets higher, the act of murdering someone gets more likely to be a choice someone would take.
+1.5.4.3.1. Pro: The impossible/hypothetical situation of killing one person to save a billion seems like a good action to take.
+1.6. Pro: A society where no morally bad actions can ever be taken to achieve morally good actions would not function.
+1.6.1. Pro: In a society with no greater good, punishment \(prison\) would be illegal because it is immoral to lock up a human being against his or her will.
+1.6.1.1. Con: This assumes that imprisonment is an intrinsic moral evil. Unjust imprisonment \(taking freedom away from the innocent\) certainly is, however imprisonment itself is not.
+1.6.1.1.1. Pro: Imprisonment of criminals is comparable to holding back the fist of an aggressor so he may not strike his victim or sending a child to his room to "think about what he has done".
+1.6.1.1.2. Con: This then relegates imprisonment to the subjective opinion of whoever is doing the imprisoning. Morality needs to be more absolute, rather than changeable dependent on context.
+1.6.1.1.2.1. Pro: Good/bad is subjective, so the end can never absolutely justify means.
+1.6.1.1.2.1.1. Pro: There is no universal moral code defining Good/Bad.
+1.6.1.1.2.1.1.1. Con: While certainly subjective or socially driven \(for the vast majority\), there are certain universal norms or characteristics that can be found, such as not killing nor assaulting others.
+1.6.1.1.2.1.1.2. Pro: To compare good actions to bad actions, not only do acts need to be defined as good or evil, but they have to be ranked/score-able against each other.
+1.6.1.1.2.1.2. Pro: If two different groups/cultures can disagree on how bad the means are, or how good the ends are, it shows that the justification was not grounded on solid facts, and there is not a strong enough reason to have committed the bad acts as a means.
+1.6.1.1.2.1.3. Con: The ends can justify the means within a group if they share a moral code defining what is good and what is bad, for example a sovereign country.
+1.6.1.1.2.1.3.1. Con: This assumes that all those within the country agree. Despite what may be legal or not, or broadly considered moral, individuals can differ in their own convictions.
+1.6.1.1.2.1.4. Con: If your intention is striving for the most possible good, it doesn't matter if the result wasn't good overall.
+1.6.1.1.2.1.4.1. Pro: If you saw an infant being attacked by a dog, would you kill the dog if you had to if you wanted to save the infant? What if by doing so the owner of the dog committed suicide because the dog was all they had?
+
+You couldn't have foreseen the suicide, and you were rationally justified to act, so your action was a moral at the time you took it.
+1.6.1.1.2.1.4.2. Pro: -> See 1.5.
+1.6.1.1.2.1.4.3. Con: This can be used as an excuse when your result was, in retrospect, overall bad.
+1.6.1.1.2.1.4.3.1. Pro: It is a dangerous and abusable concept to have, and therefore should be discouraged as its own existence enables morally bad actions.
+1.6.1.1.2.1.4.3.1.1. Con: A sufficiently smart person could abuse any otherwise good concept.
+1.6.1.1.2.1.4.3.2. Con: A concept can still be considered good, even if it is abusable.
+1.6.1.1.2.1.4.3.2.1. Pro: Government policing and surveillance are considered good, but are very abusable.
+1.6.1.1.2.1.5. Con: Whether or not it's true, morality being subjective would also mean that the means can never 'absolutely' not be justified by the ends. This argument cannot sway the debate one way, but only make it collapse
+1.6.1.1.2.1.6. Con: "... an action is morally right if the consequences of that action are more favourable than unfavourable to everyone except the agent." [¹](https://www.philosophybasics.com/branch_altruism.html) "... altruism is applicable not to every morally motivated treatment of others, but more narrowly to what is done out of a concern for the good of others." [²](https://plato.stanford.edu/entries/altruism/#MixeMotiPureAltr) Additionally, the fields of applied \(Descriptive\) ethics and normative \(Prescriptive\) theory focus on what is moral, Metaethics focuses on what morality itself is. [³](http://www.iep.utm.edu/metaethi/) [⁴](https://philosophy.lander.edu/ethics/types.html)
+1.6.1.1.2.1.7. Pro: A greater good is typically defined by a majority. In Nazi Germany the majority agreed to exterminate the Jews, ie, the greater good. Therefore the ends can not be used to justify the means.
+1.6.1.1.2.1.7.1. Con: Incorrect. The Greater Good \(Summum Bonum\) is defined as: the principle of goodness in which all moral values are included or from which they are derived; highest or supreme good [¹](http://www.dictionary.com/browse/summum-bonum)  That idiom should not be confused with that of 'the Common Good' which means: that which benefits society as a whole, in contrast to the private good of individuals and sections of society. [²](https://www.britannica.com/topic/common-good)
+1.6.2. Con: This argument is circular It's judging the notion “actions should be judged by their consequences” - by its consequences. In short, it's saying “You shouldn’t do the right thing even if it leads to bad consequences, because then it would lead to bad consequences.”
+1.6.2.1. Con: Its not saying "You shouldn't do the right thing if it leads to bad consequences", rather it is saying "you should sometimes do the wrong thing, as it sometimes leads to consequences nessecary for society to function".
+1.6.3. Pro: In a society with no greater good it would be impossible for armed forces to shoot dead a terrorist, even if he/she was actively threatening civilians, as killing someone is morally wrong.
+1.6.3.1. Con: If you are narrowly looking just at the shooting, killing is a morally wrong action. However, looking broadly at the context of a terrorist act, the person may deserve to die. Therefore by looking at the wider picture, it's not a matter of a bad act achieving a greater good - It is simply a good act.
+1.6.4. Con: A 'noun' itself is only ever good or bad, but is never evil or non-evil. A 'verb' itself is never good, bad, evil, or non-evil. 'Intent' is either evil or non-evil, yet never good or bad. -- "Morally Bad Actions" \(Intent+Action\) do not exist. An action is simply an action, and intent cannot be bad. -- In short: noun+Intent together function as moral and/or immoral; verbs are amoral.
+1.7. Con: -> See 1.6.1.1.2.1.4.3.
+1.8. Con: People should not be valued only for their utility but instead they should be valued simply because they are human. People shouldn't be used as means to an end, even if it is purportedly for the greater good.
+1.8.1. Pro: Kantian philosophy [says](https://medium.com/\@firasd/human-beings-are-not-a-means-to-an-end-but-an-end-in-themselves-f989b7ee2518) "people should always be ends, never means".
+
+[In essence this means](https://forum.wordreference.com/threads/kantian-ethics-state-that-people-should-be-treated-as-ends-and-never-purely-as-means-to-the-ends-of-others.912452/) that you shouldn't treat people as objects, tools, or resources that are to be used to accomplish your goals. You should treat them as important in and of themselves, treating them as "ends" \(with intrinsic value\) rather than as "means" \(something that only has value because it helps you achieve your "ends."\).
+1.8.1.1. Con: When one must be sacrificed to save another, at least one person is guaranteed to die. The only remaining way to decide which should be saved is evaluating the utility of each individual.
+1.8.2. Pro: "Utility" is defined in various ways, usually in terms of the well-being of sentient entities.
+Jeremy Bentham, the founder of [utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism), described utility as the sum of all pleasure that results from an action, minus the suffering of anyone involved in the action.
+1.9. Pro: The ends can justify the means, but only if the mean to end ratio is the highest possible in the given situation.
+1.9.1. Con: In an urgent decision there is not enough time to evaluate all the possible actions, and so taking the perceived best action is morally just.
+1.9.1.1. Pro: In an urgent decision there is not enough time to evaluate all the possible actions, and so taking the perceived best action is morally just.
+1.9.1.2. Con: In most non-theoretical decisions, there is enough time to evaluate the options. Meaningful decisions like the laws in a society are not justified by urgency.
+1.9.2. Pro: If you have one bullet, and are facing two terrorists, you should choose to kill the one that is threatening to kill the highest number of people. Choosing the other one is immoral, as is choosing none.
+1.9.2.1. Con: Choosing to shoot either is an overall good action. Just because you did not choose the best course, does not mean your course was not good.
+1.9.2.1.1. Con: Reason does not support taking any path other than the single best option.
+1.9.2.2. Pro: If you are choosing to perform a bad action, it is your responsibility to choose the best action possible, otherwise you are not justified in aiming for the greatest possible good.
+1.9.2.3. Con: Choosing none is still valid, if you subscribe to the idea that the means cannot outweigh the ends; murder is a huge action to take, even if you believe it is for the right reasons.
+1.9.2.3.1. Con: If morals support the action, then morals cannot support one who chooses not to act.
+1.9.3. Con: It is impossible to verify, in full, what the end ratio would be. Even if it seems like a foregone conclusion, it's impossible to know.
+1.9.3.1. Pro: We cannot ever know the full ramifications of our actions.
+1.9.3.1.1. Con: [Perfectionism](https://en.wikipedia.org/wiki/Perfectionism_\(psychology\)) is never attainable, so we should make the best overall decisions we can, even if we cannot be right 100% of the time.
+1.9.3.1.2. Con: We can never know the full ramifications of our inactions either.
+1.9.3.1.2.1. Pro: Choosing inaction can be as morally bad a choice as choosing the wrong action.
+1.9.3.1.3. Con: -> See 1.6.1.1.2.1.4.
+1.9.3.1.4. Pro: We can only judge our actions by what is presently true: by the action we will make and by the objective it aims towards. Never by the results which have not \(and may never be\) achieved.
+1.9.3.1.5. Pro: Due to varying perspectives, doing something morally bad as a means can lead to revenge by someone else, who cannot see the ends you intended.
+1.9.3.1.6. Pro: We can never understand any situation to the degree required to truly say that this evil action will be outweighed by it's good results.
+1.9.3.1.6.1. Pro: The ends would justify the means if there are no other possible actions which achieve the same net good.  However, we can never know this to be true, so we cannot claim our ends will justify the means.
+1.9.4. Pro: In the situation of a murderer breaking into a family members room, you might have a taser and a gun available to stop the murderer. Choosing the lethal gun would be immoral, because you could achieve the same ends with the non-lethal taser.
+1.10. Con: -> See 1.6.1.1.2.1.
+1.11. Con: -> See 1.9.3.1.

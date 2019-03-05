@@ -1,0 +1,55 @@
+Discussion Title: Should Developed Countries Reduce The Working Year?
+
+1. Developed countries should reduce the working year.
+1.1. Pro: Working long hours is detrimental to one's health and encounters diminishing returns.
+1.1.1. Pro: Working over 39 hours a week was shown to have negative effects on [mental health](https://www.minnpost.com/second-opinion/2017/02/study-links-working-more-39-hours-week-poorer-mental-health).
+1.1.1.1. Pro: Working [5 hours](http://www.inc.com/marla-tabaka/the-5-hour-workday-how-to-increase-productivity-by-working-fewer-hours.html) a day instead of 8 hours or more has shown to increase productivity, performance, and increased happiness.
+1.1.1.2. Pro: After earning a certain level of income, increasing leisure time is better for health and well-being versus more work.
+1.1.1.3. Pro: There is an [increased chance](https://www.ncbi.nlm.nih.gov/pubmed/10618741) of smoking, depression, drinking, and weight gain for men and women who work 35 hours or more per week.
+1.1.1.4. Pro: Stress can have seriously negative psychological and physical [consequences.](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)
+1.1.2. Pro: Many workers stay in jobs with unhealthy working conditions due to a tight job market. A universal basic income can alleviate this stress.
+1.1.2.1. Pro: When workers are more able to leave bad jobs it leads to bad employers having persistently high turnover rates. This creates more effective pressure on the employer to deal with their problematic power dynamics and mitigate stressful working conditions.
+1.1.3. Pro: Working [80 hours](https://hbr.org/2015/08/the-research-is-clear-long-hours-backfire-for-people-and-for-companies) a week does not result in increased output. Thus, working long hours is unnecessary and at the expense of the employee.
+1.1.3.1. Pro: Overly long work hours [reduces productivity](https://www.weforum.org/agenda/2016/03/does-working-fewer-hours-make-you-more-productive/).
+1.1.3.2. Con: In many countries the limit by law is much less so I guess overworking is individuals choice.
+1.1.4. Con: Additional income isn't necessarily a motivator for people to work less. Some people want to earn as much money as possible no matter what.
+1.1.5. Con: Partly true, diminishing returns - this is only true for specific type of employees. For services and production the productivity is proportional to the time spent at work.
+1.1.6. Pro: The standard working week has in the past been reduced \(from 60 hours to 40 hours - see the reduction of hours in the Ford company in the early twentieth century\). This change boosted society wide productivity and happiness. Now that automation has reduced the amount of work that people need to do to keep society running, the time is ripe to reduce hours again. [citation for Ford company here](http://www.politifact.com/truth-o-meter/statements/2015/sep/09/viral-image/does-8-hour-day-and-40-hour-come-henry-ford-or-lab/)
+1.2. Pro: Increasing leisure time frees up total work hours for those without jobs, thereby reducing unemployment.
+1.2.1. Pro: There are potentially [1.9 million extra jobs](https://projecttimeoff.com/reports/state-of-american-vacation-2018/) available just from unused vacation days in the US.
+1.2.1.1. Con: Reducing normative work time will generate more overtimes thus more vacation days.
+1.2.2. Con: The hours freed up are from the least efficient end of the job, therefore the amount of extra work available is much less.
+1.2.3. Con: Some of the jobs wont find replacement from existing unemployment pool.
+1.3. Con: Salaries will reduce.
+1.3.1. Con: Increasing paid vacation days will not reduce salaries of those already working. The increased employee cost for employers can be passed through to consumers.
+1.3.2. Con: For a given national income and population, per capita salaries will be unchanged.
+1.3.2.1. Pro: Low income earners will have an easier time to earn better incomes because labor supply is short.
+1.3.2.2. Con: For reduced amount of workforce the cost of workforce must increase. Inflation will increase.
+1.3.3. Pro: If prices do not reduce along with salaries, purchasing power will reduce.
+1.3.4. Pro: Employeers have to pay to more in total wages \(e.g. a second person\) to get the same results.
+1.4. Con: If we limit the number of hours smart brains work we reduce the chances of new inventions that can create human progress.
+1.4.1. Con: Time spent at work is just one of many factors \(e.g. government policy, investment, collaborative networks\) which contribute to innovation.
+1.4.2. Pro: Time factor has little to do with invention or creativity.
+1.5. Pro: Increasing leisure time shares available paid work among citizens more evenly and reduces inequality.
+1.5.1. Con: Better paid job requires competences so sharing will be possible only for blue collars.
+1.6. Con: Many people do not want to work less hours.
+1.6.1. Pro: People may want to work due to difficult home lives.
+1.6.2. Con: People have freedom to work overtime, but baseline contractual hours are lower
+1.6.3. Con: A minority can still work long hours in the context of a reduced working year
+1.6.4. Pro: Some people genuinely enjoy their job.
+1.7. Pro: Extra free time would be economical stimulus for the service industry.
+1.7.1. Con: And that means a lot of vacancies in this sector without possibility to cover it.
+1.7.1.1. Con: Not necessarily; this could all but fix unemployment issues.
+1.8. Con: There should be no regulation about work time at all. This will make country's economy more flexible.
+1.9. Con: There are practical difficulties regarding sharing among several people what was previously one job.
+1.10. Con: You cannot stop people from voluntarily working longer than contracted hours.
+1.10.1. Pro: This is not a problem; some people enjoy their jobs and are very keen to work as much as possible.
+1.10.2. Con: A prominent reason for working long hours is the[fear of seeming replaceable](https://projecttimeoff.com/reports/state-of-american-vacation-2018/).
+1.10.2.1. Con: If employers are legally obligated to shorten working hours, they are less likely to give the impression that employees are replaceable when they work shorter hours.
+1.11. Pro: Increased leisure time means less time producing. This will reduce resource depletion and help to slow the negative effects of climate change.
+1.11.1. Con: From mowing the yard to traveling abroad, some activities in leisure time are more polluting than other working activities.
+1.11.2. Pro: [Ninety countries](https://www.theguardian.com/environment/2013/nov/20/90-companies-man-made-global-warming-emissions-climate-change) are responsible for 2/3rds of the world's global warming emissions; any measures possible need to be used to reduce their emissions, including a decrease in productivity.
+1.11.2.1. Con: Decrease on productivity must be correlated with decrease of consumption, otherwise goods prices will explode. That will cause low cost countries will start to produce and that might mean increase of greenhouse gases.
+1.11.3. Con: Measures to reduce greenhouse admissions should be targeted specifically to activities that contribute the most pollution. This creates an incentive for capital to invest in greener technologies, making tomorrow's economy just as productive but less destructive.
+1.12. Pro: Gradually reducing the work year \(e.g. start with 2 more vacation days a year\) gives time for the economy to adjust.
+1.12.1. Con: "Economy will stabilise" means some goods will simply be more expensive, and people will need to work more to buy them. That is the very possible outcome of this regulation.

@@ -1,0 +1,35 @@
+Discussion Title: Will cryptocurrencies replace fiat currencies?
+
+1. Cryptocurrencies will inevitably replace fiat currencies.
+1.1. Pro: Money is becoming more digitized by the moment, which is beneficial, as the demand for raw materials - [1](http://www.madehow.com/Volume-3/Paper-Currency.html), [2](https://www.azom.com/article.aspx?ArticleID=8088) required to produce money keeps going up and these resources could have better use.
+1.1.1. Con: Many cryptocurrencies rely on ridiculously inefficient "mining" algorithms to provide security of transactions and are consuming tens of terrawatt-hours of energy annually \[1\]\[2\]. This energy is burned to process a relatively small numbers of transactions or mint small numbers of coins that could, theoretically be processed on just a small number of machines without blockchain.
+
+\[1\] [Ethereum Energy Consumption Index](https://digiconomist.net/ethereum-energy-consumption)
+\[2\] [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
+1.1.2. Pro: Using resources is bad for the environment. The more we can avoid it, the better. Hence, digital money is better ecologically than physical money.
+1.1.3. Pro: Fiat currency notes require paper which in turn requires trees to be cut down. This is bad for the environment.
+1.1.4. Pro: Fiat currency needs to be transported from one place to another in the processes of production and distribution. This transportation causes carbon emissions that are bad for the environment.
+1.2. Con: The governments and bankers of nation states have no vested interest in ceding control of their local currencies to digitized forms of them, or to new cryptocurrencies completely beyond their control.
+1.2.1. Con: The beauty of blockchain is theoretically they are as unstoppable as the Internet, another decentralized infrastructure. So if we the people decide to use them then they cannot be stoped. All indications are that existing financial institutions and governments are mostly more than happy to embrace blockchain.
+1.3. Con: Cryptocurrencies are inefficient and slow.
+1.3.1. Pro: As such, key goals for a long-term currency such as low transaction cost and high throughput are not met.
+1.3.2. Con: Only some cryptocurrencies are inefficient and slow. Others offer low cost, low energy, high throughput models. Even existing cryptocurrencies such as [Bitcoin](https://lightning.network/) and [Ethereum](https://plasma.io/) can and will be retrofitted to avoid many these issues via off-chain and shared transaction support.
+1.4. Con: There are too many cryptocurrencies on a market that overlaps. Fiat currency has a monopoly on the markets they are in.
+1.4.1. Con: Blockchain technology can offer solutions so that various currencies are freely interchangeable in the way that fiat currencies are via international markets and credit transaction systems. A diversity of currencies is not an impediment but a strength.
+1.5. Con: With cryptocurrencies it is more difficult to conduct macroeconomic policies.
+1.5.1. Con: Macroeconomic policies are instituted by governments and may not have the support of the people it represents. Cryptocurrencies can allow voluntary measures such as variable inflation with support of the currency holders as defined by the governance structures of the currency.
+1.6. Pro: Bitcoin and other cryptocurriences will be so relevant, there will be no reason to have the fiat currencies.
+1.7. Pro: Cryptocurrencies cannot be manipulated quite as easily as fiat currency, largely due to their decentralized and unregulated status.
+1.7.1. Con: This might be true once cryptocurrency markets and operations are as strictly regulated as traditional ones. Unfortunately, while they remain utterly unregulated, they are strongly manipulated on a regular basis.
+1.7.2. Con: Theoretically, cryptocurrency handling is distributed world-wide.
+Practically, a few dozen exchanges process almost all of the trade volume.
+Which tempts the operators to collude with [wild west style pump & dump schemes](https://www.businessinsider.com/how-traders-pump-and-dump-cryptocurrencies-2017-11) which are forbidden in normal markets.
+1.7.3. Pro: Some countries are also exploring the idea of introducing government-backed cryptocurrencies, which would take them one step closer toward fiat-currency status.
+1.7.4. Con: Security is a major drawback facing the cryptocurrency community. It seems that every other month, there is some news of a major hack involving a Bitcoin exchange.
+
+When was the last time you heard of a gold depository being robbed? Not to mention the fact that most depositories have full insurance coverage.
+1.8. Pro: Cryptocurrencies could help to get rid of intermediaries in everyday transactions. This could cut costs for businesses and help out consumers.
+1.8.1. Con: This is not quite accurate. One still needs a network to verify and process the transactions. The existence of an adequate network will depend upon an appropriate incentive scheme for those providing it, be it miners or master node owners. The only way to pay these people without unbounded inflation is for network users to pay fees for transactions. This is already a reality for most cryptocurrencies.
+1.9. Con: Cryptocurrencies will eventually be the same as fiat currencies.
+1.9.1. Pro: A cryptocurrency is just a currency operating with a blockchain as its backbone. Just like we went from paper money to digital money \(same thing, just different tehcnology\), it is very possible that the blockchain technology \(maybe in a future, improved form\) will provide the next technical step for money to take.
+1.9.2. Con: It is possible to construct a cryptocurrency where a key aspect of fiat currency - central control by fiat government - is impossible. This is essentially the case for BitCoin and other existing cryptocurrencies. Therefore unless governments can persuade the people to adopt a specific cryptocurrency or currencies controlled by them this is false.

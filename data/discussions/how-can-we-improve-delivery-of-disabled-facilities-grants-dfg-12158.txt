@@ -1,0 +1,62 @@
+Discussion Title: How can we improve delivery of Disabled Facilities Grants (DFG)
+
+1. How we can improve delivery of Disabled Facilities Grants \(DFG\)
+1.1. The maximum limit of £30k should be replaced with a formula
+1.1.1. Con: Makes it more complicated to understand
+1.1.1.1. Con: A maximum limit gives an impression of arbitrariness if one doesn't receive the maximum limit.
+1.1.2. Pro: Can allow for regional variations in building costs
+1.1.3. Pro: Can take into account savings elsewhere in the health and care system
+1.1.4. Con: It will introduce a postcode lottery
+1.2. The existing means test should be aligned with the Care Act financial assessment
+1.2.1. Con: Care Act test takes into account disability benefits
+1.2.2. Pro: If you need both adaptations and care you should only have your resources assessed once
+1.2.2.1. Con: Means tests just take a snapshot.  If you have contributed to your care or adaptations your circumstances will have changed next time you get assessed
+1.2.3. Pro: Creates stronger links between care and adaptations
+1.2.3.1. Pro: More person centred
+1.2.3.2. Con: Can lose focus on adaptations when talking about care
+1.2.4. Con: It is not clear how we would translate a weekly contribution into a formula that gives us a capital contribution towards expenditure on adaptations.
+1.2.4.1. Pro: The current meanstest has a formula which translates a nominal weekly resource into a suggested loan over 5 or 10 years.  No reason why this mechanism may not be used in the single test.
+1.2.5. Con: Care Act is there for people of working age or older only.  How do we assess the means of households with disabled children?
+1.2.5.1. Pro: Retain passporting for children's adaptations
+1.2.5.1.1. Con: The proposed Formula for the Maximum Grant will cut across this passporting
+1.2.6. Pro: If a care cap is introduced spend on adaptations would count towards the cap
+1.2.6.1. Pro: Would encourage people to carry out adaptations
+1.2.6.1.1. Pro: If you live in a properly adapted house you would be more independent and need less care
+1.2.6.1.1.1. Pro: Savings on social care
+1.2.6.1.1.1.1. Con: We lack strong enough evidence to support the claim that major adaptations save acute heat and care costs.
+1.2.6.1.2. Pro: If you live in a well adapted home you're less likely to ever move into residential care
+1.2.6.2. Con: There are serious doubts about whether the political capacity and will exists to introduce a Care Cap
+1.2.7. Con: We do not know enough about the implications of such a change or indeed whether the Care Act Means Test itself will be changed as part of the proposed Green Paper
+1.2.8. Con: Would have to means test every case
+1.2.9. Pro: Means testing every case is what currently happens. Therefore little impact.
+1.2.9.1. Con: Most cases are passported
+1.3. DFG should be delivered by an integrated team that provides a wider range of services
+1.3.1. Pro: One customer journey with one point of contact
+1.3.1.1. Con: One person cannot possibly have the expertise to understand the range of options available to a person.  For that you need specialised knowledge
+1.3.1.1.1. Pro: Support the single point of contact with a decent central advice and information resource which might be national as well as local
+1.3.1.2. Pro: People using the system say  they get fed up with the number of people coming into their home asking the same or similar questions.
+1.3.1.2.1. Pro: A single point of contact supported by a robust and regularly updated National or Local Advice resource should be able to support people through a range of complex choices and systems.
+1.3.2. Pro: Data and information sharing should be facilitated by increasingly joined up IT and software platforms
+1.3.2.1. Con: Data protection is just another place where awkward people in awkward systems may inhibit change
+1.3.2.1.1. Pro: Properly joined up IT should include investment in the necessary safeguards against hackers and malware.  Some of these will be how we work these systems and who has access to what level.  Others will be about the right tech such as encryption and platform security monitoring.
+1.3.2.1.1.1. Con: The investment needed to build a safe resilient sustainable IT platform across Health, Care and Housing is beyond the resources of the system.
+1.3.3. Con: Separate teams of housing staff and occupational therapists have delivered DFG for nearly 30 years and it can work well
+1.3.3.1. Pro: There is more than enough evidence that the current system is unsustainable, bureacratic and full of steps that do not add value to the experience of the beneficiary of the grant.
+1.3.3.1.1. Pro: In a significant number of places these separate professionals have chosen to co-locate, agree information sharing protocols and take steps which do not add value to the service user out of the system.
+1.3.3.2. Pro: The lack of integration entrenches professional self-interest whether that lies with the Assessor \(usually an OT\), the Facilitator \(a HIA or Caseworker or advocate\) or the Enforcer \(Local Housing Authority Grants Officer or EHO\)
+1.3.3.2.1. Pro: Integration will allow us to focus professional expertise where it is needed most; on complex and high need cases and to provide clinical and technical supervision of the system as a whole.
+1.3.3.3. Con: The system respects professional strengths and expertise and facilitates the properly addressing people's needs rather their wants and ensures best value to the public purse.
+1.3.3.3.1. Pro: This relies on a very narrow definition of best value. It does not take into account the cost of operating the system or the prevention of greater expenditure elewhere in the system.
+1.3.3.3.2. Con: The role of the grants officer provides the best protection against fraud and abuse of a limited public resource
+1.3.3.3.3. Con: The role of the OT provides the best guarantee that appropriate adaptations are built which respond to the medium and long-term need of the beneficiaries
+1.4. Social Care and Housing should have joined up strategic oversight of home adaptations
+1.4.1. Pro: The Health and Social Care system has better local needs assessment tools
+1.4.2. Con: At the moment there is a governance deficit in the system which means there are too few drivers to ensure better join up between social care and housing.
+1.4.2.1. Con: The system is predicated on delivering services as cheaply as possible and within budget with little consideration of the effect of those spending decisions elsewhere.
+1.4.2.2. Pro: Clear guidance and templates can be issued to local authorities so they may set up an effective joint commissioning board able to acquire services across health, care and housing.
+1.4.3. Con: Housing has a mandatory duty to provide DFG and should take the strategic lead
+1.4.4. Con: Social care have statutory duties under the Care Act and should take the lead
+1.4.4.1. Con: Social Care systems function to restrict access to them by eligibility whereas access should be ensured at the point of need.
+1.4.5. Pro: A disabled person is likely to need adaptations and care and support - these need to be more joined up
+1.4.5.1. Pro: The Health and Care system is being integrated but the pressure is to take care of people at home so their housing needs to be part of that.
+1.4.6. Pro: Wellbeing will only be improved by better links between housing, health and social care

@@ -1,0 +1,38 @@
+Discussion Title: Should we consume coffee?
+
+1. Consuming coffee is beneficial.
+1.1. Pro: Eating or drinking coffee has a long tradition in many cultures, which should be conserved.
+1.2. Con: The coffee industry is harmful to the environment.
+1.2.1. Con: This is true for any item that is produced on farms, such as roses and other flowers, palm oil, soy, etc.
+1.2.2. Pro: Nespresso and other capsule producers cause a huge amount of trash.
+1.2.3. Pro: [Coffee wastewater](https://en.wikipedia.org/wiki/Coffee_wastewater), also known as coffee effluent, is a highly polluted byproduct of coffee processing.
+1.2.4. Pro: It takes about [140 liters of water](https://en.wikipedia.org/wiki/Coffee#Ecological_effects) to grow the coffee beans needed to produce one cup of coffee, and coffee is often grown in countries where there is a water shortage, such as Ethiopia.
+1.2.5. Pro: Coffee production is on [major driver of deforestation](https://www.conservation.org/NewsRoom/pressreleases/Pages/Future-Demand-and-Climate-Change-Could-Make-Coffee-a-Driver-of-Deforestation-.aspx).
+1.2.6. Con: Used coffee grounds may be used for composting or as a mulch. They are especially appreciated by worms and acid-loving plants such as blueberries.
+1.3. Con: The coffee industry exploits workers and coffee farmers.
+1.3.1. Pro: Fair trade is a growing system to make coffee production more transparent.
+1.4. Pro: Coffee has positive neurological effects.
+1.4.1. Pro: Caffeine promotes wakefulness and [enhances](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462609/) alertness.
+1.4.1.1. Pro: Caffeine increases dopamine levels, which means we feel less pain and more pleasure.
+1.4.1.1.1. Con: Rather than increasing it, caffeine slows down dopamine [reabsorbtion](https://science.howstuffworks.com/caffeine5.htm). Both heroin and cocaine have the same effect, albeit stronger.
+1.4.1.1.2. Con: This increase in dopamine is likely what causes caffeine addiction.
+1.4.2. Pro: Caffeine [boosts](https://hub.jhu.edu/2014/01/12/caffeine-enhances-memory/) long-term memory.
+1.4.2.1. Pro: In the study, researchers showed that caffeine reduces forgetting over 24 hours.
+1.4.3. Con: Because caffeine increases heart rate and blood flow, and generally tricks the body into a state of emergency, it also increases anxiety.
+1.4.3.1. Pro: People who already suffer from anxiety often develop [caffeine-induced anxiety disorder](https://en.wikipedia.org/wiki/Caffeine-induced_anxiety_disorder).
+1.4.3.2. Con: For those who naturally have a low heart rate and need a boost of activity, increasing the heart rate and state of emergency can be beneficial \(e.g for efficiency at work\). And as long as coffee is drunk with moderation, it won't have the negative effects.
+1.4.4. Con: Caffeine is a psychoactive drug that can cause a [physical dependence](https://en.wikipedia.org/wiki/Caffeine_dependence).
+1.4.5. Pro: Regular coffee-consumption in middle age has been shown to [reduce](https://www.ncbi.nlm.nih.gov/pubmed/20182054) the risk of dementia and Alzheimer's in later life.
+1.5. Con: Caffeine causes fertility problems.
+1.5.1. Pro: Caffeine [reduces muscle activity](https://www.wiley.com/WileyCDA/PressRelease/pressReleaseId-97298.html) in the Fallopian tubes, which carry an egg from the ovaries to the womb.
+1.5.2. Pro: Caffeine consumption by either partner the weeks before and after conception can [increase](https://www.nih.gov/news-events/news-releases/couples-pre-pregnancy-caffeine-consumption-linked-miscarriage-risk) the risk of miscarriage.
+1.6. Con: Coffee is bad for your health in general.
+1.6.1. Con: Coffee can help you get [motivated](https://www.si.com/edge/2017/02/07/caffeine-exercise-motivation-workout-effects) for a workout.
+1.6.1.1. Pro: Some research suggested that caffeine helps endurance when working out.
+1.6.1.1.1. Con: [This study](https://link.springer.com/article/10.1007/BF02386182)was not able to find any significant link between endurance and caffeine intake.
+1.6.2. Pro: Caffeine has adverse effects on [sleep](https://science.howstuffworks.com/caffeine5.htm) quality.
+1.6.2.1. Pro: Caffeine interacts with [adenosine](https://www.news-medical.net/health/What-is-Adenosine.aspx), an inhibitory neurotransmitter, which is necessary for deep sleeping.
+1.6.2.2. Con: The half-life of caffeine in your body is about six hours. If you only drink coffee in the morning, then staying awake during daytime is the desired effect. And when night comes the effects are dissipated.
+1.6.3. Con: Coffee can reduce the risk of [developing certain diseases](https://www.health.harvard.edu/blog/the-latest-scoop-on-the-health-benefits-of-coffee-2017092512429), such as cardiovascular disease, diabetes type 2, and gout, among others.
+1.6.4. Con: A 1993 Harvard [study](https://www.thecrimson.com/article/1993/11/2/can-coffee-help-asthma-sufferers-pcoffee/) showed that caffeine improves the quality of breathing.
+1.6.4.1. Pro: Caffeine acts as a bronchodilator, ie. it relaxes lung tissue and makes it easier to breathe for asthma sufferers.

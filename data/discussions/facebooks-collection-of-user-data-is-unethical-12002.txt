@@ -1,0 +1,55 @@
+Discussion Title: Facebook's collection of user data is unethical
+
+1. Facebook's collection of user data is unethical
+1.1. Pro: Facebook needs to fix their algorithm to prevent this from happening again.
+1.2. Pro: The fact that FB has allowed 50 million user profiles to be scraped by Cambridge Analytica demonstrates that they have a cavelier attitude towards personal data.
+1.2.1. Pro: If Cambridge Analytica was allowed, it means everyone was allowed. This is equitable.
+1.2.2. Con: The data that was collected was only the content that was visible to your friends. Truly personal data \(i.e. data that others can't see on FB\) was not scraped, and was much more closely protected. Perhaps instead of having a cavalier attitude towards personal data, FB instead just has a different definition of personal data than you.
+1.2.2.1. Con: Data that is visible to friends should not also be visible to Cambridge Analytica \(and therefore the world\). This should be considered at best a design flaw and at worst a security breach.
+1.3. Pro: Facebook scripts track you around the internet even if you are not logged in.
+1.3.1. Pro: This data can enable a visionary to suggest ways to improve the world in ways that most people can not yet imagine.
+1.3.2. Pro: This allows ads to be more targeted and hence less intrusive and more consensual.
+1.4. Con: Collecting data from users is how software works. Software that doesn't accept input is not often useful. There are many kinds of software that collect personally identifiable information: financial software, electronic health records, shopping sites.
+
+Collection of user data is not unethical, until the data is used for unethical purpose.  The issue is not that it was collected, but that it was then misused.
+1.4.1. Con: If collected expressly for the purposes of unethical use, then that collection in and of itself should be considered unethical.
+1.4.1.1. Pro: For example, if a company were to collect the ethnic background of clients specifically to deny service to certain populations, that collection itself would become unethical since it is clear how that collection will be used from the start.
+1.4.2. Con: All data collection is not equal. Collection of data that exceeds the utility of the service provided by the software for nefarious ends should be considered unethical since it exceeds the user's expectations and puts them at additional, unknown risks.
+
+Facebook collects far more data than its users know or expect, and therefore its collection exposes users to risks they do not agree to. Therefore, it must be considered an unethical risk.
+1.5. Con: Facebook is making public data available on an equitable basis. If this data was not available, only Facebook would have access to it and as such only Facebook would be able to benefit from it.
+1.5.1. Con: Facebook is not making its data available on an equitable \(i.e. appropriately open & ethical\) basis. If it did it would be better for everyone.
+1.5.2. Pro: Without the API's to access data, Facebook would become even more of a walled-garden, and would grow in power even more.
+1.6. Con: The FB business model \(of profiling users and selling ads\) is industry standard within the tech world
+1.6.1. Con: While this practice is widespread among technology companies, there are exceptions, such as Apple, Duckduckgo and IBM Quad9.
+1.6.2. Con: Being a standard does not make it ethical.  Slavery has been the industry standard, from time to time, but is not considered ethical.
+1.6.3. Pro: This allows advertising to be more targeted and therefore more relevant and useful in comparison to mass-market, blanket advertising.
+1.7. Pro: User data should be owned by users and not on a proprietary format by a private company.
+1.7.1. Pro: -> See 1.2.
+1.7.2. Con: There is no good technology to give a user ownership of their own data, without potentially allowing them to lock themselves out of their digital identity for good, or allowing someone else to take it over maliciously.
+1.7.2.1. Con: More decentralized social networks like Mastodon social instances, give users more of a say in who handles their data.
+1.7.2.2. Pro: Technologists and funders should be thinking about ways to design open protocols for information sharing. The problem is not that FB has all this data, it's that the data is stored in a proprietary format and cannot easily be imported into another, competitor service.
+1.8. Con: In general, your data is safer with big tech companies like Google and Facebook than it is with smaller companies, or hosted locally.
+1.8.1. Con: Given the long record of massive data loss by some of the largest commercial and government entities in the world, the claim that any data is safely contained by such organizations seems dubious.
+1.9. Con: Facebook is a private institution; therefore it has the right to use the data that its users provide on its platform.
+1.10. Pro: Facebook is too big and has too much of a monopoly on online advertising.
+1.10.1. Con: This allows small, well-funded minorities to gain undue influence over majorities.
+1.11. Con: People voluntarily choose to give over their data to Facebook, there is no coercion involved.
+1.11.1. Con: There is no coercion involved -- yes, i completely agree. But a big part of the population never even read any website's terms and conditions nowadays. Facebook should have a means to reeducate their users and express what they do with the data in layman's terms and not some gibberish that only lawyers would understand.
+1.12. Pro: Facebook needs to be regulated more strongly.
+1.12.1. Con: Regulating a social media platform that is used by millions of people worldwide is an immensely difficult task. Each country must have laws against it and those countries must coordinate together. Some countries do not have the resources or the motivation to enforce such regulations.
+1.12.1.1. Con: Industries like oil + gas, pharma, finance \(which all affect millions, if not billions of people\) have been regulated, so size should not be an issue.
+1.12.1.2. Con: We live in a globalized world, and in future there will continue to be many more cross-border companies and industries. This is no excuse for failing to regulate appropriately.
+1.12.1.3. Pro: Facebook has become a public service. As such it should be run like one.
+1.12.1.4. Pro: There are existing regulation regimes in a variety of countries that force social media companies to censor speech, and report on "terrorists" and "dissidents". This is part of the reason why Facebook is not accessible freely from China and Russia.
+1.12.1.4.1. Pro: Users in those countries simply use VPN's or other anonymizing technologies to circumvent the regulation.
+1.12.1.5. Con: Regulation for all countries is not necessary for some countries to enact regulation. It is quite reasonable for countries with the resources and means to regulate a global corporation to do so, and there are several such countries.
+1.12.2. Pro: Facebook provides a product many users are addicted to, so social media companies should be [regulated](https://www.theguardian.com/technology/2018/jan/24/facebook-regulated-cigarette-industry-salesforce-marc-benioff-social-media) like other industries.
+1.12.3. Pro: Facebook has access to sensitive information. What they can do with it, and how it can be used, should be regulated like it is with doctors, etc.
+1.12.4. Con: The best regulation is competition.
+1.12.4.1. Con: Facebook has grown so large that competitors are not in a position to actually challenge it.
+1.12.5. Pro: Facebook should be forced to split up into companies each operating in its own regime, governed and managed by a representative group of people in that regime who are not accountable to some central dictatorship.
+1.12.6. Pro: Facebook has interests that conflict with the public good \(profit, brand value, etc.\).
+1.12.7. Pro: Government regulation's purpose is to align incentives and penalties with the interests of the public.
+1.12.8. Pro: Facebook is currently not regulated in the US beyond standard corporate regulation and specific consent decrees.
+1.12.9. Pro: Facebook's recent actions and data misuse demonstrate that it is not prioritizing the public good. Regulation could correct that incentive structure.

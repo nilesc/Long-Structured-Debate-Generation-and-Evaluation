@@ -1,0 +1,31 @@
+Discussion Title: Reward or Dominate: What's the best method to train dogs? 🐾
+
+1. Positive Reinforcement is the best method to train a dog. 🐾
+1.1. Con: Dominance theory is not supported by science.
+1.1.1. Pro: Its most famous proponent, Cesar Millan, has been [criticized](https://www.livescience.com/5846-critics-challenge-dog-whisperer-methods.html) for the methods he uses.
+1.1.1.1. Pro: National Geographic channel even shows a warning at the beginning of Millan's show urging people to "not try this at home" without consulting a professional.
+1.1.1.2. Pro: Millan was under investigation for possible animal [cruelty](https://www.thedodo.com/cesar-millan-dog-pig-1647781916.html).
+1.1.2. Pro: The research that established dominance theory was done on captive wolves, and is based on behavior not observed in wild packs.
+1.2. Pro: Positive Reinforcement uses dogs' natural desires for training.
+1.2.1. Pro: Dogs want to please their humans, and want to earn their approval. Positive Reinforcement uses this instinct to reward wanted behavior.
+1.2.1.1. Pro: Rewarding behavior makes it more likely such behavior gets repeated. This principle is used by [zookeepers](https://medium.com/sciview/zookeepers-encourage-natural-animal-instincts-and-behavior-b28b998cd71d) to work with the animals they look after, and it even works in [humans](https://www.ishn.com/articles/102484-using-positive-reinforcement-for-success).
+1.2.2. Pro: As dogs are driven by food and play, these incentives work best for training.
+1.3. Con: Problem dogs can't be trained by Positive Reinforcement.
+1.3.1. Pro: Problem dogs often [need negative reinforcement](https://www.cesarsway.com/cesar-millan/cesars-blog/reinforcement) so they can be brought to a place where positive reinforcement will work; otherwise, the dog will run riot.
+1.3.2. Con: Negative reinforcement can make aggressive dogs even more aggressive; positive reinforcement [will not](https://www.thespruce.com/positive-reinforcement-dog-training-1118248).
+1.4. Con: Some dog breeds only react to strength and need their human to be the leader of the pack.
+1.4.1. Pro: Many people believe that some dog breeds are naturally more aggressive than others, and subsequently need a stronger hand to keep them under control.
+1.4.1.1. Pro: Pit Bulls and other terriers were bred for aggressive behavior such as fighting and driving prey.
+1.4.1.1.1. Pro: Pitbulls were [created](https://www.ukcdogs.com/american-pit-bull-terrier) in the 19th century by breeding terriers with bulldogs to combine their agility and strength.
+1.4.1.1.2. Pro: Pitbulls were often used for [bloodsports](https://en.wikipedia.org/wiki/Pit_bull#History) like bear-baiting and bull-baiting.
+1.4.1.1.3. Con: Pitbulls are very [loyal](https://www.petwave.com/Dogs/Breeds/American-Pit-Bull-Terrier/Personality.aspx) and playful dogs, who are closely attached to their human family.
+1.4.1.2. Con: [Research](https://www.smithsonianmag.com/smart-news/owners-not-breeds-predict-whether-dog-will-be-aggressive-180949962/) has shown that aggressive behavior can predicted by looking at the owner, rather than the dog. In other words, the way a person trains a dog says more about that dog's potential aggressive behavior that its breed.
+1.4.2. Con: Aggression in dogs is [often caused by](https://www.psychologytoday.com/us/blog/canine-corner/201403/dog-aggression-is-predicted-training-methods-and-breed) the training method used. Aggressive methods make dogs aggressive towards humans.
+1.4.2.1. Pro: A [study](https://positively.com/articles/aggressive-training-breeds-aggressive-dogs/) found that dogs trained using punishment and aversive training methods were twice as likely to be aggressive towards strangers and three times as likely to be aggressive towards family members.
+1.4.2.2. Pro: This makes dominance training not only a worse method, but one that should perhaps be outlawed as dangerous.
+1.5. Pro: Positive Reinforcement training is more successful.
+1.5.1. Pro: A [study](https://www.companionanimalpsychology.com/2012/07/positive-reinforcement-and-dog-training_11.html) among dog owners showed that reward-based training resulted in more obedient dogs with fewer problem behaviors.
+1.5.2. Pro: People who only use positive reinforcement [report](https://www.companionanimalpsychology.com/2012/07/positive-reinforcement-and-dog-training_18.html) their dogs are less attention-seeking, aggressive or fearful.
+1.5.3. Pro: -> See 1.2.1.1.
+1.5.4. Pro: [Guide Dogs for the Blind](https://www.guidedogs.com/meet-gdb/dog-programs/guide-dog-training) uses PR to train its dogs.
+1.5.4.1. Pro: USA guide dogs organization [reported](https://thehappypuppysite.com/the-evidence-for-positive-reinforcement-training-in-dogs/) an increase in pass rate from 50% \(the old rate\) to 80% in their dogs after switching to modern methods in 2005 in addition to a significant decrease in handler training time.

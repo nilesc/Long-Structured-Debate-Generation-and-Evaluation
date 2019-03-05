@@ -1,0 +1,35 @@
+Discussion Title: 3D Printer and Guns: Should Blueprints of 3D-Printed Weapons be Prohibited?
+
+1. Blueprints for 3D-printed firearms should be prohibited from publication on the internet.
+1.1. Pro: 3D Printing Makes Illegal Proliferation of Guns Conceivable. [Michigan State Law Review, 2014:187, p. 196.](https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1005&context=lr)
+1.1.1. Con: It is [notoriously](https://money.cnn.com/2015/06/19/news/guns-background-checks/index.html) easy to buy guns in America. 3D printing, on the other hand, is [difficult and expensive](https://edition.cnn.com/2018/07/19/us/3d-printed-gun-settlement-trnd/index.html). The publication of blueprints will not meaningfully change the access the average person has to firearms.
+1.1.2. Pro: With 3D Printers even indidividuals who wouldn't be eligible to purchase a gun can Access it.
+1.2. Pro: The opposition to 3D guns is based on the existing Undetectable Firearms Act, [18 USC Sec. 922](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap44-sec922.htm). [Administration Insists 3D Guns Are Against Established Law.](https://www.cnn.com/2018/07/31/politics/trump-3-d-printed-guns/index.html)
+1.3. Con: Banning 3D guns is unconstitutional.[Judge's Temporary Restraining Order on 3D Guns is Uncontitutional.](https://www.nationalreview.com/corner/federal-judge-issues-futile-restraining-order-blocking-3d-printed-gun-blueprints/)
+1.3.1. Con: The Supreme Court hasn't decided as to whether 3D-printed weapons are constitutional or not.
+1.4. Con: 3D printed plastic guns [don't even work.](https://youtu.be/7xjlqMw8FYE?t=46s)
+1.4.1. Con: Access to blueprints for early generations of 3D-printed firearms allows for crowd-sourced knowledge to develop and accelerate the improvement of prototypes into fully-functioning models.
+1.4.2. Con: Special ammunition has been designed to prevent the explosion of 3D-printed firearms. [bbc.com](https://www.bbc.com/news/av/technology-29941989/man-develops-bullets-to-stop-3d-printed-guns-exploding)
+1.4.3. Con: The ATF has carried out [tests](https://edition.cnn.com/2013/11/14/politics/3d-guns/index.html) in which 3D guns have successfully fired multiple lethal rounds.
+1.5. Con: Information, regardless of its nature, should always be accessible to all individuals rather than a few individuals.
+1.6. Pro: 3D Guns are untraceable, undetectable, and unstoppable. [Everything You Wanted to Know About 3D Guns.](https://www.cnn.com/2018/07/31/us/3d-printed-plastic-guns/index.html)
+1.6.1. Con: The attributes "untraceable", "undetectable" and "unstoppable" imply that any prohibition would be unenforceable.
+1.7. Con: It is protected under the 1st amendment, and this fact has been supported by the courts. In essence there is no difference between such blueprints and books like the 'anarchist's cookbook'.
+1.7.1. Pro: Banning a specific piece of knowledge \(as opposed to a criminal act\) is censorship, and clearly unconstitutional.
+1.7.1.1. Con: A digital file which can be directly used to create a weapon without a human even reading it is not 'knowledge' - it is a raw material. Materials which can be used to manufacture deadly weapons are [often](https://www.atf.gov/resource-center/fact-sheet/fact-sheet-illegal-explosive-devices) banned.
+1.8. Con: Even if prohibited, blueprints can find their way to 'users' just like other illegally circulated materials, such as pirated movies.
+1.8.1. Con: Removing the blueprints from [major distributors](https://edition.cnn.com/2018/07/31/us/3d-printed-plastic-guns/index.html) such as gun rights organisations could substantially limit the supply of such weapons, even if it does not stop them completely.
+1.8.2. Con: Pirating movies is not legal though, albeit not typically prosecuted, but is still rather frowned upon by society. Just the act of making it illegal will make it more difficult than doing nothing at all.
+1.9. Con: Access to information that may lead to nefarious activity does not commit any individual to follow through with illicit activity, and thus accessing blueprints is not a crime and shouldn't be regulated.
+1.10. Con: It is legal for one to build their own gun so 3d printing is just another medium for constructing a gun.[ATF FAQ on building a gun](https://www.atf.gov/firearms/qa/does-individual-need-license-make-firearm-personal-use)
+1.10.1. Con: While no license is required to build firearms for personal use, 3D-printed firearms--for personal use or intended for distribution--would not be detectable by metal detectors or x–ray machines and thus are explicitly prohibited. [atf.gov](https://www.atf.gov/firearms/qa/does-individual-need-license-make-firearm-personal-use)
+1.11. Pro: Similar to the control of chemical precursors necessary for illicit drug production, blueprints represent a key component that can be abused to generate dangerous materials, and therefore should be regulated to mitigate potential public safety risks.
+1.12. Con: Firearm blueprints \(digital or otherwise\) are legal to distribute freely. Traditional manufacturing equipment \(lathes, mills, etc\) are legal for private citizens to own. It is also legal for any \(non-prohibited\) citizen to manufacture a firearm for private use \(no sale or distribution\). The only aspect that has changed is new manufacturing technology. The same laws still apply.
+1.13. Pro: The digital nature of the blueprints, these files must be entirely prohibited because selective publication is essentially impossible and would compromise and future efforts to regulate these files.
+1.13.1. Pro: -> See 1.8.
+1.14. Con: Entirely prohibiting an individual to publish personally generated content is in its nature a suppression of this individual's right to freedom of speech.
+1.14.1. Con: Freedom of speech does not protect content that serves to create direct threats to individual or public safety.
+1.15. Con: While technical knowledge is required, these blueprints can be recreated independently by other individuals, and therefore prohibition of plans is pointless as it will not ultimately prevent the at-home manufacturing of firearms on 3D-printers.
+1.15.1. Pro: A computer with CAD software, an inexpensive 3D printer, and a cheap block of plastic, is able to create a working firearm. [Worlds Collide When 3D Printers Reach the Public, p. 197.](https://digitalcommons.law.msu.edu/cgi/viewcontent.cgi?article=1005&context=lr)
+1.15.1.1. Con: To create a CAD file from scratch requires an expertise in the mechanics of firearms and the nuances of using entirely plastic in their construction. Without this know-how, in spite of the the cost of the physical materials, the proliferation of 3D-printed firearms would remain limited.
+1.15.2. Pro: The more demand there is for 3D-printed weapons the more likely it is that a Company produces a complete 3D-printer set to make a gun without any additional Knowledge.

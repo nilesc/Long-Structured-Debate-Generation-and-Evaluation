@@ -1,0 +1,39 @@
+Discussion Title: Is there a Fundamental Need for Conflict between Groups of Individuals?
+
+1. There is a constant need for conflict between groups of individuals.
+1.1. Con: Population growth puts pressure onto communities to expand their borders .[fightaging.org](https://www.fightaging.org/archives/2005/02/superlongevity-without-overpopulation-1/)
+1.1.1. Con: -> See discussion #9226: Global overpopulation is a myth.
+1.1.2. Con: Societies are aging. They will not be able to wage war against each other as effectively.
+1.1.2.1. Pro: [Sheen Seong-ho](http://as.ucpress.edu/content/53/2/292) argues that the aging societies in East Asia cause a 'demographic peace'.
+1.2. Con: A need for conflict only arises as a function of competing individual interests in a particular ecology. If we manage to change our need for competing interests we may be able to eradicate conflict, and this is proving itself now: war has been steadily declining over the last 500 years \(Pinker, 2011\).
+1.2.1. Pro: Nearly all forms of violence have [declined](https://slides.ourworldindata.org/war-and-violence/#/3) over human history.
+1.3. Pro: Conflict prompts change. Such conflict does not have to be violent or undesirable; peaceful ways of resolving conflicts can equally lead to enhancement of potential, discovering new resources and better understanding of the self and others.
+1.3.1. Pro: Often, progress requires a synthesis of ideas. A synthesis of ideas is the outcome of two opposing concepts formed into one product \(neither the same as the previous concepts or entirely different\). Often the two opposing concepts are accompanied/ owned by respective groups of individuals. In such cases a synthesis can sometimes only be reached after conflict.
+1.4. Pro: The 20th century has seen the most extreme rise in both economic abundance and war-related deaths. Attempted utopias have historically produced more death and destruction for the populations they were destined for than peace and prosperity \(Marxism, Nazism\).
+1.4.1. Con: This doesn't mean that it's necessary, only that it has happened.
+1.4.2. Con: This seems more a response to modern developments than anything else; this doesn't mean conflict is necessary.
+1.5. Pro: Opinion polarization [\(def.\)](https://en.wikipedia.org/wiki/Polarization_\(politics\)) is inherent in humans, and this drives conflict.
+1.5.1. Pro: The attainment of ideologies or religions seem to occur repeatedly in human civilisations, even when seeming disparate.
+1.5.2. Pro: The development of polarisation is dangerous, as it generates a focus on differences rather than potential similarities, further driving conflict.
+1.6. Con: Conflict, historically, has been a prominent means of securing wealth; economic power was limited to natural resources, hence conquering land was vital. This is no longer the case.
+1.6.1. Con: Conflict doesn't only yield profit. Conflict can stimulate technological research \(such as found in the Cold War\) which would otherwise not have been readily available. Technology serves the needs of humanity in many ways. Technological progress could be seen as 'needing' conflict.
+1.6.1.1. Pro: Indeed, citizens of the United States have not doubted the necessity of moon travel when the Soviets made claims about such a project during the Cold War. Now it is seen as expensive \(although the budget of all of NASA is [a mere 0.5%](https://en.wikipedia.org/wiki/Budget_of_NASA) of the federal budget\)
+1.6.1.2. Con: Some aspects of scientific progress may be accelerated by conflict, but it does not necessarily follow that conflict is therefore 'needed'.
+1.6.1.3. Con: Conflict is just one way to accelerate scientific progress. Another driver is a competitive market: the competition for \(financial\) resources in an open competence hierarchy.
+1.6.2. Pro: Our present economy depends instead on service and production industries; as such, wealth is not limited by land, but grows indefinitely. War is therefore unprofitable and ultimately pointless.
+1.6.3. Pro: Historic lessons of violence are not applicable today because of a change in technology and society.
+1.6.3.1. Con: Yet thus far, there has been no cessation of conflict.
+1.6.3.2. Pro: The invention of the nuclear bomb helped to foster peace among the major powers during the Cold War.
+1.7. Pro: Evolution is propelled by competition for limited resources. Scarcity is what allows both human and nonhuman life to seek new solutions and grow.
+1.7.1. Con: The Western world appears sociologically beyond natural selection. Survival is not determined by classical evolutionary markers like strength or intelligence, but by sufficient wealth, now often even provided at a state level. Yet we continue needing to solve [endless new problems](https://www.forbes.com/sites/stevedenning/2017/11/30/why-the-world-is-getting-better-why-hardly-anyone-knows-it/#37ad2c387826). This may be because scarcity is the problem being solved, hence it is losing its importance.
+1.7.2. Pro: Conflict is a fundamental law of survival, since the cavemen and when the first human empires rose. Today, conflict rises from opinions and ideologies and it evolves into economical and political warfare. It is part of our instinct to attack other in order to gain or protect something. Simply put: it is just human nature.
+1.7.3. Pro: There is no historical indication of a link between abundance and social harmony. Outside the sphere of politics and the history of civilizations there is no way to assess degrees of abundance. Inside the same sphere the highest points of abundance were reached by the most advanced military powers in a certain place and time.
+1.7.3.1. Con: -> See 1.6.
+1.7.3.2. Pro: This is evidenced in the Roman Empire, the Aztec Empire, British Empire, the USA, et cetera.
+1.7.4. Con: Recent scientific and technological advancements change the ontological status of scarcity itself. In a different social and economic paradigm where these advancements would be uniformly dispersed - there would be no scarcity.
+1.7.4.1. Con: Conflict is not based on scarcity alone. Eliminating scarcity would not necessarily eliminate all conflict.
+1.7.4.2. Pro: Such advancements include 3D printers, nanotechnology, information technologies and genetic engineering.
+1.8. Con: Conflict can be mitigated.
+1.8.1. Pro: [Causal Reductionism](http://modelingcommons.org/browse/one_model/1390#model_tabs_browse_info) allows for the easy naturalization of conflict. However, from a top-down approach we see that conflict itself disappears \(as we start taking more and more into account the environment of the individuals\) and competition becomes interwoven with concepts like synergy, symbiosis and complexity dynamics.
+1.8.1.1. Pro: As pack animals, wolves are always competing for a limited resource but the resource itself is reacting and guiding their development as a group.
+1.9. Con: -> See 1.1.2.

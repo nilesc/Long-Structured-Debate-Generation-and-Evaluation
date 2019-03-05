@@ -1,0 +1,15 @@
+Discussion Title: Did the Mediterranean Sea desiccate 5.5 million years ago?
+
+1. The Mediterranean desiccated partially 5.5 million years ago, its level decreasing by more than 500 meters due to evaporation
+1.1. Con: Lago-Mare deposits of the latest MSC sequence suggest pan-Mediterranean brackish-water environments in areas topographically higher than the salt deposits. This points to a Mediterranean fully filled with low-salinity water before the restoration of open marine conditions.
+1.2. Con: The massive presence of salt does not require the desiccation or level drawdown of the sea. \(f.e., [Meijer 2006](https://www.sciencedirect.com/science/article/pii/S0012821X06004286), EPSL; [Garcia-Castellanos & Villaseñor, 2011](https://www.nature.com/articles/nature10651)\)
+1.2.1. Pro: Competing tectonics and erosion at the Gibraltar Arc could have regulated salinity.
+1.3. Pro: There are widespread erosion features buried under post-Messinian sediment and currently up to 2000 m below present sea level. [Lofi et al., 2010, MSC Atlas](https://ccgm.org/en/home/148-seismic-atlas-of-the-messinian-salinity-crisis-markers-2853630978.html).
+1.3.1. Pro: Canyons have been excavated at the main river mouths during the MSC, interpreted as the result of a sea level lowering. [Urgeles et al., 2011, Basin Res.](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2117.2010.00477.x/abstract)
+1.3.1.1. Pro: Evidence from the [Nile valley](https://pubs.geoscienceworld.org/bsgf/article-lookup/181/1/19) and the [Rhone valley](https://www.sciencedirect.com/science/article/pii/S1040618204000308) supports erosion by rivers flowing down to the abyssal plain.
+1.3.1.2. Con: Such canyons may be explained alternatively by submarine erosion related to high-density flows formed by the surface evaporation. [Roveri et al., 2014, AJS](http://www.ajsonline.org/content/314/3/751.short)
+1.4. Con: Desiccation would have caused so many effects on the geological record that it would be uncontestable today
+1.5. Pro: Geophysical data suggest an abrupt ending of the Messinian salinity crisis related to an abrupt reflooding event. This would imply a significantly lower level of the Mediterranean Sea relative to the Atlantic Ocean.[MIcallef et al., 2018, Sci. Reports](https://www.nature.com/articles/s41598-018-19446-3)
+1.5.1. Pro: Erosional features in the Gulf of Cadiz, Alboran Sea, and Malta escarpment are consistent with a very high energy flow putting an end to the MSC.
+1.5.2. Pro: Megaflood deposits have been described in the Ionian Sea
+1.5.3. Con: The end of the MSC may have been abruptly ended by pumping related to the density contrast between both sides of the Gibraltar Arc region. [Marzocchi et al., 2016, Geology](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/44/7/523/195188/mediterranean-outflow-pump-an-alternative?redirectedFrom=fulltext)

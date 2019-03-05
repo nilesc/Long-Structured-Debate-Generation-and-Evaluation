@@ -1,0 +1,120 @@
+Discussion Title: Should we have a single global language?
+
+1. We should have a single global language.
+1.1. Pro: International trade and cooperation would become easier, which would be beneficial for the global economy.
+1.1.1. Pro: Firms could save money on translators and interpreters, instead directing that money elsewhere.
+1.1.2. Pro: A single global language spoken in a diversified culture is analogous to a single technological standard compatible and understood across different market brands.
+1.1.3. Pro: Implementation would require collaboration globally and could lead to better interactions between countries, peoples and groups.
+1.1.4. Con: Assuming international cooperation would improve by speaking the same language is a fallacy; we all speak the same language in America and among certain other international trading partners, and we still will always have disagreements.
+1.1.5. Con: More international trade could mean more envrionmental impact.
+1.1.6. Pro: International communication will be faster, that means more time to invest in other activities.
+1.2. Con: There is no way to implement this idea without totalitarianism.
+1.2.1. Pro: The imposition of a majority language on minority peoples has been done over and over during the colonial period. It is, without exception, violent, coercive, and destructive. It created generational trauma that continues to be felt even today.
+1.2.2. Con: Actually, the creation of a new language would mean a lot of flexibility for it's creators and could involve the whole world. Something like an open source project. So as long as the owner would be everyone, you don't need to impose it, but just propose it as an alternative.
+1.2.3. Con: Social change often occurs without the intervention of authoritarian regimes.
+1.3. Pro: A universal language would lead to greater equality of opportunities around the world.
+1.3.1. Pro: In developing countries, it is normally only the rich who can afford to attend schools where languages such as English are taught well. As such, international opportunities are only available to the rich.
+1.3.1.1. Con: This would also be the case with a new, global language.
+1.3.2. Pro: The majority of global citizens do not have the resources to master undesigned colonial languages but they have a right to participate in global affairs.
+1.3.3. Pro: It is neither fair nor beneficial to the world that a Chinese Scientist, no matter how brilliant, will be wasted unless she speaks English. A better-designed bridge language could prevent this wastage.
+1.3.4. Pro: A single global language would curb the current advantage of native English speakers leveling the playing field in culture industry, business, academia, etc ...
+1.3.4.1. Pro: Current scientific knowledge is [biased](https://qz.com/874683/vws-announcement-shows-that-one-language-will-dominate-the-globe/) towards evidence published in English.
+1.4. Pro: Lives are lost due to translation errors in [air traffic control](https://www.smh.com.au/business/workplace/the-fatal-consequences-of-miscommunication-between-pilots-and-air-traffic-controllers-20160928-grq1d9.html),[emergency response](http://www.patientprovidercommunication.org/article_1.htm) and [medicine](http://www.k-international.com/blog/medical-translation-gone-wrong-4-devastating-examples/).
+1.4.1. Con: It is unclear how many lives are lost really due to translation errors. At least the first two examples point rather to imprecise communication, which also occurs within languages.
+1.5. Pro: With one global language, people will be able to communicate with each other regardless of their area.
+1.5.1. Pro: A single global language can lead to a higher understanding between different cultures, facilitating global peace.
+1.5.1.1. Pro: Empathy between humans happens through communication and [requires language](http://www.emory.edu/LIVING_LINKS/empathy/faq.html).
+1.5.2. Pro: A global language that is not subject to interpretation would make it easier for people to convey thoughts and solutions without being misunderstood by cultural context especially when solving extremely important technical issues or in emergencies that absolutely cannot be misinterpreted when lives are at stake.
+1.5.3. Con: One language may not eliminate all variance in what is or is not understandable. Within languages, regions, etc., there are area specialists who develop their specialized jargon suited to their needs, which is not easily understood by outsiders. So, it depends on which parts of language you want to unify.
+1.5.4. Pro: Local people will be able to talk to different tourists.
+1.5.5. Pro: International students would be able to study without any language barriers.
+1.6. Con: Creating a universal language and spreading its use worldwide is a disproportionate effort for something that doesn't represent a real problem.
+1.6.1. Con: It doesn't represent a "real" problem to the speaker because English is the language of privilege. The vast majority of \(non-English-speaking\) global citizens have every reason to disagree.
+1.6.2. Pro: Foster bilingualism through the continued spreading of English worldwide is easier and will preserve diverse cultures and languages better.
+1.6.3. Pro: Many widely spoken languages already overcome language barriers successfully.
+1.6.3.1. Con: The European Commission’s DG Translation costs [330 million euro per year.](http://termcoord.eu/2014/01/translation-in-the-european-union-facts-and-figures-2013/)
+1.6.3.2. Pro: English is already the dominant global language for international trade and cooperation, as well as research. Different languages have organically fulfilled this role over time, and having a single global language \(especially if coerced\) would interrupt the natural evolution of this.
+1.6.4. Pro: It is not practical to try to teach everyone in the world the same language, but instead would incur massive expenses.
+1.6.4.1. Con: Expensive language learning is already occuring as a perceived necessity. Introducing a simple-to-learn language language such as already existing Esperanto would greatly reduce the costs currently spent on teaching other languages for a number of practical purposes
+1.6.5. Con: People already make the effort of learning languages to comunicate internationally.
+1.6.5.1. Pro: It is worth considering how to give them the best return on investment for that time and money.
+1.6.6. Con: Spreading of popular languages and extinction of those unpopular is a current trend.
+1.7. Con: Technological advancements would vastly outpace any attempts to implement this globally.
+1.7.1. Pro: Technology is making the need for a universal language obsolete. In a few decades we may have instantaneous translation in real time, then the only thing we'd be doing is strangling the creativity of creating languages, which are also ideas.
+1.7.2. Con: A solution in our minds is better than a bought one, because of cost, patents, hacking and malfunctions.
+1.7.2.1. Pro: To reduce environmental impact, we should not employ gadgetry unnecessarily.
+1.7.3. Con: People who do not have access or can not afford the technology will not have the same access as a spoken language would allow.
+1.7.4. Pro: It is easier to make tech available and potentially free, than it is to adapt an existing language to be "universal".
+1.7.5. Con: There are [technical](https://www.degruyter.com/downloadpdf/j/llce.2017.4.issue-1/llce-2017-0005/llce-2017-0005.pdf) difficulties that machine translation is unable to solve.
+1.7.5.1. Pro: Translation may be a problem so complex that it cannot be solvable algorythmically in a reasonable time.
+1.7.5.2. Pro: There are too many languages in the world.
+1.7.5.3. Pro: Language is constantly changing.
+1.7.6. Pro: Machine-learning powered translation is developing so rapidly that this problem will quickly become redundant.
+1.8. Con: A global language would kill diversity of thought and culture.
+1.8.1. Con: The existence of a global language does not necessarily involve the eradication of others.
+1.8.1.1. Pro: Hundreds of African languages are used daily by people who also use an expensive colonial language less useful than universal Esperanto.
+1.8.1.2. Pro: The existing languages could remain as mandatory second languages in their respective countries \(Japanese would still have to learn Japanese etc.\)
+1.8.1.2.1. Con: Throughout history institutionalized bilingualism has only been a transitory phase toward the unilingualism of the dominant language.
+1.8.1.3. Pro: As Esperanto shows by example, a universal language does not have to replace national languages. To the extent that there is an Esperanto «ideology», it explicity rejects replacing or subduing national languages. On the contrary, it seeks to provide speakers of different languages a neutral ground, so that one national language does not dominate the other.
+1.8.2. Pro: Within a generation of implementation, vast amounts of culture and literature would be completely inaccessible. This would represent a massive and irreparable rupture with history.
+1.8.2.1. Con: They are already inaccessible today to those who do not speak the language.
+1.8.3. Con: Diversity in langauge is in itself divisive.
+1.8.3.1. Con: No, diversity is inevitable but deliberately embracing it prevents it being divisive, whilst trying to minimise it only raises the stakes.
+1.8.3.2. Pro: Language barriers create culture clashes
+1.8.4. Con: Eventually, local dialects of the global language would develop, bringing back diversity.
+1.8.4.1. Con: This defeats the purpose of having a global language in the first place.
+1.8.5. Pro: Language is used to partition reality into concepts. Different languages = different partitionings, which can be more or less suitable to solve thought problems.
+1.8.6. Con: Americans, British and Australians speak the same language, yet they have diversity of thought and culture.
+1.8.7. Pro: Using different languages teaches people [to think in different ways.](http://www.sciencemag.org/news/2015/03/speaking-second-language-may-change-how-you-see-world) Going to a single global language would harm the diversity of thought.
+1.8.8. Pro: A language is far more than just a collection of words or sounds to express a message. A language is identity, culture and is what makes our world so rich and diverse.
+1.8.9. Pro: This would lead to the homogenisation of society, whereby a single culture would win out over all others.
+1.8.10. Con: Culture is expressed in a myriad of ways - art, dance, architecture - which is not dependent on language.
+1.8.10.1. Con: In many cases, visual arts and language work in synergy to convey and build culture. It's incorrect to assume the introduction of a global language won't have any influence on the preexisting artistic expressions.
+1.8.10.2. Con: Most artistic forms are best described as acts of language in themselves, with the goal being slightly different. A conversation follows known and agreed upon rule set, Whereas a piece of poetry, a novel, or a screenplay will often seek to push past or redefine those rules. As for Dance, Architecture, visual art, etc., If all artists had to use only one agreed upon vocabulary of moves, this would severely limit what can be expressed.
+1.8.11. Con: A single global language would greatly benefit culture, as it would further encourage people from different cultures to interact and share ideas, so these ideas could be developed.
+1.9. Con: A global language to be understood by all would not succeed in its mission due to practical impossibilities.
+1.9.1. Con: It is easy to crystal-ball the failure of anything, it doesn't constitute an argument.
+1.9.2. Con: Esperanto is proof that an efficient, global language can be developed.
+1.9.2.1. Pro: Esperanto has 16 grammar rules, applied without exception, which makes it more simple.
+1.9.2.2. Pro: Esperanto has an ingenious system for constructing words from essential building blocks, which allows for complexity and rapid expansion of vocabulary.
+1.9.2.3. Pro: Esperanto's vocabulary is based on various existing language groups, making it relatable.
+1.9.2.4. Con: Esperanto is way too basic and doesn't convey complex ideas well.
+1.9.2.5. Pro: The League of Nations in 1924 unanimously recommended that countries support the language’s development, showing the feasibility of gaining support from a supernational body politic.
+1.9.2.6. Pro: Esperanto is already well-established: There are organized speakers of the language in 120+ countries, and the Universala Kongreso gathers on average 2000 esperantists every year.
+1.9.2.6.1. Con: This is almost nothing compared to the goal of having an universal world language.
+1.9.2.7. Pro: Esperanto has been used to translate The Bible, The Koran, The origin of Species, Shakespeare, Dickens and Tolkien. Tolkien was enthusiastic about Esperanto. Not likely if he had found it unsatisfactory.
+1.9.2.8. Con: Esperanto is proof that even if you develop a "better" language, it will probably remain niche.
+1.9.2.8.1. Con: Esperanto and other universal languages have remained niche as there is no push from large international institutions such as the UN to implement a constructed universal language.
+1.9.3. Pro: Even if you did create a global language and make it mandatory, not every member of the human race would be able or willing to learn it.
+1.9.3.1. Pro: Not all people would accept the imposition of the new language.
+1.9.4. Pro: Over time, you would get regional and social varieties of the global language, making its original purpose futile.
+1.9.4.1. Con: With constant control and education we could minimalize changes, which will lead to small differences, but wouldn't make it impossible to understand.
+1.9.4.2. Con: Esperanto has been in use for over a century and this has not happened.
+1.9.4.3. Pro: Geographical and social differences are what created different varieties of language in the first place.
+1.9.5. Pro: Words cannot translate perfectly across different populations, due to diversity of lived experience and lexical needs.
+1.9.5.1. Pro: There are lots of examples of words only existing in one language. For example; the word 'Hiraeth' in Welsh means a longing / nostalgia for someone/something/somewhere. It doesn't have an equivalent in any other language as far as I'm aware.
+1.9.5.1.1. Con: It would be great though, if the global language could introduce such words. Lots of english words are already used in other languages for this very reason.
+1.9.5.1.2. Con: There is saudade in Portuguese, which could be equivalent.
+1.9.5.1.3. Con: The question is what led to the creation of these words and would they not be created in one language?
+1.9.5.2. Pro: Some emotions are more emphasized by the phrasing of a language than another.
+1.9.6. Pro: A language is only universal if all people can use it universally. Deaf people use a visual manual language, sign language, and Blind people use a spoken language and Braille. It is not possible for a language to be universal for all because people use languages differently.
+1.9.6.1. Con: There is a braille alphabet for the international language Esperanto.
+1.9.6.2. Con: The global language could be a sign language. A sign language can be used by blind people also, by using tactile signing.
+1.9.7. Pro: The creation of a single global language is not possible, because it is too difficult to reach every individual with this concept.
+1.9.7.1. Con: This argument pedantically exaggerates what is meant by «single global language». If, say, 90% of the world’s population speaks it, we should consider the goal more than achieved.
+1.9.7.2. Pro: There is not yet free internet access all over the world and limited resources for travel and the distribution of learning books.
+1.9.7.3. Pro: Not all people are talking with each other. There is a lack of communication between different peoples that will not make it possible to have every individual in the world speak a same language.
+1.10. Con: Polyglots have a [greater capacity](https://www.sciencedirect.com/science/article/pii/S0093934X14001023) to learn and acquire new information and process information in different ways. We could lose a neurological function of the brain, which could lead to a lack of innovation and creativity.
+1.10.1. Con: -> See 1.8.1.
+1.10.2. Con: One simple global language, easily learned in addition to one's native tongue, would increase the chance of everyone having bilingual brains.
+1.10.3. Con: Although programming languages are not working exactly the same way as natural languages, they also help maintain these neurological functions. As information technologies are replacing conventional professions, maybe in the future programming languages will be at least partly responsible for keeping the brain fit.
+1.10.4. Con: We wouldn't lose it because we have historians and people who are passionate about learning extinct languages.
+1.10.4.1. Con: Attempts to resurrect near-extinct languages as living languages typically fail without significant motive beyond antiquarian interest \(i.e. Modern Hebrew\) and even in that case do not resurrect them as they once were.
+1.11. Pro: If we do not need to learn different languages but only one single language, we have the possibility to spend our time for more important activities.
+1.12. Pro: We could take advantage of this occasion to create a better language.
+1.12.1. Con: Any claim that one language or language feature is "better" than another is completely subjective.
+1.12.1.1. Pro: Any attempt to define criteria by which a new, artificial language could be "better" than all other languages would necessarily privilege some cultural patterns over others, and this privileging would inevitably be in favor of dominant economic powers, to the detriment of oppressed, marginalized, and endangered cultural groups.
+1.12.1.2. Con: It is possible for a language to be objectivley better. The main goal of a language is to convey thought and feeling. A language can be better or worse at this. Efficiency is another determining factor here.
+1.12.2. Pro: -> See 1.9.2.
+1.12.3. Pro: Languages have a variety of design features which objectively impact communicative efficiency including learning time.
+1.12.4. Pro: Old languages like mandarin are not even efficient enough to fit on a keyboard and are often miss translated on computers.

@@ -1,0 +1,18 @@
+Discussion Title: Vim vs Emacs
+
+1. Vim vs Emacs
+1.1. Vim
+1.1.1. Con: Knowing whether one is in "command mode" or "writing mode" is haphazard and confusing.
+1.1.2. Con: Vim is a much older editor compared to newer ones like Emacs.
+1.1.3. Pro: Requires fewer keys for simple tasks
+1.1.4. Pro: More active scripting community
+1.1.5. Pro: Central repository of scripts, plugins, color schemes
+1.1.6. Pro: Can be made portable
+1.2. Emacs
+1.2.1. Pro: Tramp-mode allows you to edit remote files over ssh. just like local files.
+1.2.2. Pro: Support for every language you will ever need.
+1.2.2.1. Pro: Everybody could have access to it.
+1.2.3. Pro: Built in terminal emulator\(term-mode\) so keep coding without switching between applications.
+1.2.4. Pro: Excellent support for GNU tools
+1.2.5. Pro: Non modal by default
+1.2.6. Pro: Powerful language for extending it \(elisp\)

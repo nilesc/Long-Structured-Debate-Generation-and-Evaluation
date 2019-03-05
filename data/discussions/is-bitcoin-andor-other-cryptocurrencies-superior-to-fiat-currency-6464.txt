@@ -1,0 +1,16 @@
+Discussion Title: Is Bitcoin (and/or other Cryptocurrencies) Superior to Fiat Currency?
+
+1. Bitcoin Is Superior to Fiat Currency.
+1.1. Con: Bitcoin does not have the ability to ease or tighten in times of economic turmoil.
+1.1.1. Con: Money "ease" or "tighten" by themselves in times of economic change, it's called the price mechanism. The government interventions destroy that mechanism and make crises longer and frequent.
+1.1.2. Con: This is a key feature of the currency, and helps eliminate one major source of inflation, namely a central government printing more currency.
+1.2. Pro: Bitcoin is more private for the user.
+1.2.1. Con: Cryptocurrencies like bitcoin can require users to be more sophisticated in how they handle their own banking and financial security, an amount of work the average user may not be willing to do.
+1.2.2. Pro: Bitcoin and other cryptocurrencies can be transferred quickly and \(mostly\) anonymously to anywhere in the world for fewer fees than traditional currency.
+1.3. Pro: Bitcoin can be used to buy illegal things like drugs.
+1.3.1. Con: Cash is able to buy illegal things as well.
+1.4. Pro: Bitcoin avoids taxes for the user.
+1.4.1. Con: The bitcoin blockchain is entire open to analysis by tax authorities. With regulatory Know Your Customer \(KYC\) controls increasing at many fiat to Bitcoin exchanges, tax authorities could pursue unlawful tax avoidance by tracing Bitcoin blockchain transactions to known persons.
+1.5. Pro: Bitcoin is more secure because no middle man or central authority can control it.
+1.6. Con: Bitcoin is risky.
+1.6.1. Con: Holding and using any currency carries risk proportional to the trust in the central authority printing and accepting it. Bitcoin's "central authority" is the completely transparent and well-reviewed open source code at the core of its existence.

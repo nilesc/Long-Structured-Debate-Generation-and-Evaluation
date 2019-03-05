@@ -1,0 +1,15 @@
+Discussion Title: How should one pronounce CentOS?
+
+1. How should one pronounce CentOS?
+1.1. sent-oss
+1.1.1. Con: OS is an initialism when used on its own. As such, when appended to CentOS, that portion of the name should remain an initialism.
+1.1.2. Pro: One of the founders is purported to have agreed with this
+1.1.3. Con: Most people in practice pronounce it differently than this.
+1.2. sent-oh-ess
+1.2.1. Pro: Visually it appears to be pronounced "sent-oh-ess" because the OS part is capitalized.
+1.2.2. Pro: Other, similarly written operating systems that end with capital "OS" are pronounced as the letters 'O' and 'S'.
+1.2.2.1. Pro: OS is an initialism on its own. As such, when appended to CentOS, it should remain an initialism.
+1.2.2.2. Pro: This makes sense because the OS stands for Operating System, which CentOS is.
+1.2.3. Con: The founders have a lot of weight since it was conceived of in their mind. So the one founder who pronounced it as "sent-oss" has a lot of weight.
+1.2.3.1. Pro: They are one person in a sea of people discussing the topic. Language is its own ocean that flows however it will. He's a drop in the bucket.
+1.2.3.2. Con: In communicating, you want to be understandable as universally as possible. And to do so you pronounce things as most people would understand the word.

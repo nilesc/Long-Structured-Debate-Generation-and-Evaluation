@@ -1,0 +1,240 @@
+Discussion Title: Are Cryptocurrencies And Blockchain Technologies The Next 'Industrial Revolution'?
+
+1. Cryptocurrencies and blockchain technologies are the next 'industrial revolution'.
+1.1. Pro: We can bypass large segments of the banking system thereby reducing our costs greatly.
+1.1.1. Pro: Money can be transferred quickly, without currency exchange fees and in total safety.
+1.1.1.1. Con: Any move between any currency attracts an [exchange fee](https://en.bitcoin.it/wiki/Comparison_of_exchanges) \(or commission/money gained somewhere by a bad exchange rate\), including any blockchain currency.
+1.1.1.2. Con: Most current coins [charge fees](https://bitinfocharts.com/comparison/transactionfees-eth-ltc-vtc.html#3m) for transferring money.
+1.1.1.3. Pro: As of late 2017, there exist ways of shopping with a TenX crypto debit card which converts cryptocurrency to local currency \(for example, EUR with zero exchange fees\) at the time of sale.
+1.1.1.3.1. Con: TenX [charges annually for the card](https://support.tenx.tech/hc/en-us/articles/115000986011-Are-there-any-fees-for-using-the-TenX-card-and-app-), instead of charing exchange fees. This is common in current money too, and means you are still essentially paying fees to exchange currencies.
+1.1.1.4. Con: There are numerous incidences of crypto fraud and theft.
+1.1.1.4.1. Pro: Crypto hacking is a [$200 million annual revenue industry](https://www.thenational.ae/business/markets/around-1-2bn-worth-of-digital-currencies-have-been-stolen-by-hackers-1.696696).
+1.1.1.4.2. Pro: Hacks involving cryptocurrencies like Bitcoin have cost companies and governments [$11.3 billion USD](https://www.thenational.ae/business/markets/around-1-2bn-worth-of-digital-currencies-have-been-stolen-by-hackers-1.696696) through lost potential tax revenue from coin sales and illegitimate transactions.
+1.1.1.4.3. Pro: The frequency and severity of thefts is [increasing](https://howmuch.net/articles/biggest-crypto-hacks-scams).
+1.1.1.4.3.1. Con: This is natural, as the volume and value of coins increases.
+1.1.1.4.4. Pro: The [most-heavily scrutinized smart contract in history](https://medium.com/\@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec) had a small bug that nobody noticed — that is, until someone did notice it, and used it to steal fifty million dollars.
+1.1.2. Pro: Microtransactions without associated fees is perfect for small shops and donations.
+1.1.2.1. Con: -> See 1.1.1.2.
+1.1.3. Con: Most important aspects of the banking system will remain unaffected, meaning the general population will continue to use banks.
+1.1.3.1. Pro: Loads and Credit are important areas of banking which people will not want to move away from.
+1.1.3.2. Pro: If users still need a bank account for some functions, it is less work for them to use the same bank for payments, than to adopt a second system \(crypto\).
+1.1.4. Con: Big banks and corporations have a huge interest in prohibiting this and will use masses of resources and influential relationships against it.
+1.1.4.1. Con: Good or revolutionary technology often proves itself resistant \(better, faster, stronger\) to traditional forms of regulation. As an example, it wouldn't have been possible to "prohibit" the internet, regardless of how much corporations would have liked to prohibit it.
+1.1.4.1.1. Con: The internet is regulated, and sometimes prohibited, by [internet censorship](https://en.m.wikipedia.org/wiki/Internet_censorship).
+1.1.4.2. Pro: Banks have already created private blockchain networks [\(Example: the R3 Consortium\)](https://www.reuters.com/article/us-r3-blockchain/bank-backed-r3-launches-new-version-of-its-blockchain-idUSKCN1C80MS) and are collaborating with blockchain companies such as Ripple.
+1.1.4.2.1. Pro: Arguably this is precisely the kind of cartel that could impede more decentralized, public blockchains from taking off. If they capture the value of blockchains faster than the public can, they might seriously impair growth.
+1.1.4.2.1.1. Con: Ultimately it is up to the users to decide; if there are good options they will be adopted but it is a concern.
+1.1.4.3. Pro: Switzerland announced plans for SIX \(the company that owns and operates the Swiss stock exchange\) to launch a [fully regulated cryptocurrency exchange](https://www.google.co.uk/amp/s/amp.businessinsider.com/swiss-stock-exchange-operator-six-launching-cryptocurrency-exchange-2018-7).
+The new SIX Digital Exchange will be overseen by the Swiss national bank and Swiss regulator FINMA,
+1.1.4.4. Pro: [Banks are already](https://cryptoslate.com/small-banks-looking-to-capitalize-on-cryptocurrency-customers/) making their own use of Crypto - bringing corporate control and regulation.
+Once controlled by banks and the financial industry, many of the potential benefits of cryptocurrency will be lost.
+1.1.4.4.1. Pro: If bank control of cryptocurrencies approaches [51%](https://www.investopedia.com/terms/1/51-attack.asp), their majority control breaks many blockchains security models.
+1.1.4.4.2. Pro: Many large banks are starting to [adopt Crypto](https://www.ft.com/content/dcb4b12e-26d8-11e8-b27e-cc62a39d57a0).
+1.1.4.4.3. Pro: If banks run blockchains, own and control exchanges, and influence developers, they will have as much control over the system as they have over the current financial world.
+1.1.4.5. Con: One of the strongest features is the inability to 'prohibit' as they are censorship resistance. It is as futile as trying to ban file sharing.
+1.2. Pro: The ability to control our own finances will be in our own hands.
+1.2.1. Pro: Blockchain puts user management in user’s hands. The system cannot make any action in someone’s name. Everything is transparent. Not only we control our finance, we also see everything happening behind.
+1.2.1.1. Con: User authentication \(not making actions in someone else's name\) and authorization \(not making actions you are not allowed to do\), is solved by systems like PKI, not blockchain.
+1.2.2. Pro: The decentralised and trustless model of Bitcoin's blockchain is revolutionary.
+1.2.2.1. Con: [Trust is broken when users use middlemen](https://medium.com/\@adaburrows/does-blockchain-generate-trust-5e96148ae597) wallet services.
+1.2.2.2. Con: Trust is important for a society, and should be encouraged not removed.
+1.2.2.3. Pro: The blockchain technology has transparency at its core, something we, as a society, are in desperate need of. It will change the way we relate to the world and to each other.
+1.2.2.4. Con: Some governance/centralisation will always be necessary. A fully decentralised system would suffer from an inability for developers and others in the ecosystem to agree on new standards, features and upgrades.
+1.2.2.4.1. Pro: The creator or Ethereum [Vitalik Buterin has said](https://techcrunch.com/2018/07/06/vitalik-buterin-i-definitely-hope-centralized-exchanges-go-burn-in-hell-as-much-as-possible/?sr_share=facebook&utm_source=tcfbpage) that everyone has different needs and it’s hard to live in a world where everything is centralized or decentralized.
+1.2.3. Pro: It’s the first time in history that the people are regulating their own currency since the gold standard.
+1.2.3.1. Con: This is unlikely to last long; governments are [already looking](http://uk.businessinsider.com/anti-money-laundering-cryptocurrencies-regulation-eu-uk-identity-2017-12) to regulate crypto.
+1.2.3.1.1. Pro: -> See 1.1.4.3.
+1.2.3.2. Pro: Cryptocurrencies are [difficult](https://www.digitaltrends.com/computing/dont-worry-about-bitcoin-regulation-it-cant-be-stopped/) to regulate.
+1.2.4. Con: The trustless nature of bitcoin is a regression as its ideal of transparency eviscerates privacy.
+1.2.4.1. Con: Trustlessness does not relate to privacy in this context. Trustlessness in decentralised networks refers to the fact that we don't have to trust any one part of the network in order for it to function honestly.
+1.2.5. Pro: Once we have a lightweight crypto marketplace for the common person it will take cryptocurrency to a whole new level of legitimacy and usability. [canya.io](https://canya.io/) is already making headway here, only a matter of time.
+1.2.6. Con: -> See 1.1.4.
+1.2.7. Con: Most people are happy trusting corporations, and do not understand or desire the decentralised trust of blockchain.
+1.2.7.1. Con: Until a bank mishandles their data, updates hidden charges or collapses.
+1.2.7.1.1. Con: The same problems exist for the infrastructure underpinning coin markets \(exchanges, digital wallets, mining companies, web host services, etc.\)
+1.2.7.1.1.1. Pro: Currencies themselves can fail - [nearly half](https://www.engadget.com/2018/02/24/nearly-half-of-2017s-cryptocurrencies-have-already-failed/) already have.
+1.2.7.1.1.2. Pro: Mishandling or fraud involving user data is common due to the lack of regulations.
+1.2.7.1.1.3. Pro: Complex, expensive, and hidden [fees](https://www.ccn.com/what-bitcoin-exchanges-wont-tell-you-about-fees/) are common when using any Exchange.
+1.2.7.1.2. Pro: If hosting your own wallet and not using any exchanges or crypto services, the only point of failure is the blockchain implementation itself, and these are very unlikely to fail, mislead, or leak user data.
+1.2.7.1.2.1. Con: In order to use Bitcoin without trusting a middleman for your wallet, [you have to be technically savvy.](https://bitcoin.stackexchange.com/questions/23700/can-i-make-and-host-bitcoin-wallet-in-my-own-website-to-get-rid-of-using-3rd-par)
+1.2.7.1.2.1.1. Con: Even in this case, you must still put absolute trust in [Certificate Authorities](https://searchsecurity.techtarget.com/definition/certificate-authority).
+1.2.7.1.2.1.2. Pro: Very few users have the technical ability to host and use their own blockchain wallet, or the time to maintain security updates.
+1.2.7.1.2.1.3. Con: Users can use a paper wallet to hold bitcoins without needing to be technically savvy.
+1.2.7.1.2.1.3.1. Con: Paper wallets are very hard to use, and practically [require using](https://bitcoin.stackexchange.com/questions/17618/how-do-i-send-bitcoin-in-paper-wallet-to-other-person/17656) another software wallet to send money.
+1.2.7.2. Pro: -> See 1.2.2.2.
+1.2.8. Con: A lack of middlemen has demonstrably proved to be a negative in many cases.
+1.2.8.1. Con: That claim is only valid to the current situation we are, as in "baby steps". With more dApps and evolving blockchain technology, these human mistakes will undoubtedly cease to exist.
+1.2.8.2. Pro: In the crypto universe, "owners" have no recourse to retrieve funds which have been stolen from them. E.g. if a private key is compromised and funds are stolen, then the owner has no right to those funds again. Therefore, the concept of ownership is naively defined as "that which you can defend".
+1.2.8.2.1. Pro: There are some illegal use cases for cryptocurrencies.
+1.2.8.2.1.1. Pro: There is little 'official' protection for persons who lose their funds to fraudulent actors.
+1.2.8.2.1.1.1. Pro: Protection will come from its transparency and a diverse community. Today 'official' abuse is not easily corrected, where in an open source environment both mistakes and abuse surfaces quickly to be discussed, validated and corrected if required \(read: supported\).
+1.2.8.2.1.1.2. Con: Neither do they with cash. The only protection you need comes from contract law, which is independent from the traded goods/currencies.
+1.2.8.2.1.2. Con: All legal problems derived from cryptocurrencies are present in traditional cash, and for the same reasons. This isn't specific to cryptocurrencies.
+1.2.8.2.1.2.1. Pro: If anything, using a cryptographic ledger would help with preventing illegal uses of money: one can monitor the exchange of assets and track where money goes on the ledger; this can't be done easily with physical cash.
+1.2.8.2.1.2.1.1. Pro: Blockchain creates a data structure with integrity - historical data cannot unknowingly be tampered with.
+1.2.8.2.1.2.2. Pro: The potential illegality should not be held as an argument against cryptocurrencies; there are illegal use cases for cash, as well as for less innovative things like a stone or a car. We don't ban cars, despite the possibility to cross the speed limit.
+1.2.8.2.1.2.2.1. Con: The issue is in how difficult it is to prohibit the illegal use of a given thing. By its design it is inherently difficult to stop the illicit use of cryptocurrency.
+1.2.8.2.1.2.2.1.1. Con: It is inherently difficult to make the illicit use of cash illegal too. We mostly don't ban things that are overwhelmingly useful because they can be used illicitly in a minority of cases.
+1.2.8.2.2. Con: Blockchains can [return stolen money using a Hard Fork](https://spectrum.ieee.org/tech-talk/telecom/internet/ethereum-blockchain-forks-to-return-stolen-funds).
+1.2.8.2.2.1. Con: This is not practical for anything but the largest thefts, so will never help regular users.
+1.2.8.3. Pro: If you send bitcoin to an incorrect \(or invalid\) address, there is literally no way to get it back. Banks provide guarantees against this kind of problem.
+1.2.9. Pro: Blockchain can remove the need to trust organisations.
+1.2.9.1. Pro: No other technology exists which can create distributed trust between users, without already trusting intermediaries.
+1.2.9.1.1. Con: Trust is foremost a human invention, an ethical concept.
+1.2.9.1.2. Pro: Blockchain technology ensures validity of data across persons that do not necessarily need to trust them.
+1.2.9.2. Con: Blockchain is not trustless, you’re trusting in the software \(and your ability to defend yourself in a software-driven world\), instead of trusting other people.
+1.2.9.3. Con: -> See 1.2.2.2.
+1.2.9.4. Con: -> See 1.2.2.4.
+1.2.9.5. Con: The only thing blockchain does, technically, is create a distributed trusted ledger. This is only useful for consumers when they do not trust any organisations, and are willing/technically capable enough to access the blockchain without any third party support.
+1.2.10. Con: The ability to control finances will be in the cryptocurrency industry's hands, because cryptocurrencies still rely on corporations to develop, maintain, and provide services.
+1.2.10.1. Pro: -> See 1.1.4.4.
+1.2.10.2. Pro: The level of security required for a successful widespread Blockchain implementation \(and supporting services like mobile apps\) requires highly skilled security engineers and penetration testers. These will need to be paid for by a crypto industry, as they won't continually give their labour away for free.
+1.2.11. Con: People already have the ability to control their own finances. There is nothing new in cryptocurrencies in this regard.
+1.2.11.1. Con: People in Greece and Cyprus had funds seized involuntarily. Money in a bank is not under your control. If you don't think this can happen where you live: [www.independent.co.uk](http://www.independent.co.uk/news/world/europe/customers-at-cyprus-biggest-bank-stung-by-60-raid-on-savings-8555078.html)
+1.3. Con: -> See 1.2.8.2.1.
+1.4. Con: There is no tangible value backing up the currency.
+1.4.1. Con: The value of goods you can purchase is giving bitcoin its value.
+1.4.1.1. Con: The number of retailers accepting cryptocurrency as a form of payment is [declining](http://uk.businessinsider.com/bitcoin-price-rises-but-retailers-wont-accept-it-7-2017?r=US&IR=T).
+1.4.2. Pro: Currencies which are not backed by a tangible asset are backed by the goodwill of those trading it; e.g., the US Dollar is backed only by the goodwill of the US government and no longer by the Gold Standard by which it once was supported.
+1.4.3. Con: Almost all fiats \(central bank money\) also lack value to back the currency. Thus, it is not important that there is nothing tangible.
+1.4.4. Pro: Bitcoin is based on credibility so we assign it actual value - some event or happening may remove the credibility thus removing the perceived value of bitcoins.
+1.4.4.1. Con: Bitcoin is more based on decentralised consensus than credibility.
+1.4.4.2. Pro: Before the speculative market, the black market and other anonymous transactions were the primary uses for BTC. However, the price of BTC has aligned with news that would be of interest to speculative investors. Good news results in a big rise in price, bad news with lower price. BTC is acting as a speculative market.
+1.4.5. Pro: Bitcoins are simply mined for the sake of it. They are not backed up by any economy the way traditional money is. If the money isn't tied to an economy it is only worth as much as people are willing to pay for it; there is no real value behind it. Bitcoin will fade away, but blockchain technology will have a huge impact and prevail.
+1.4.5.1. Con: Bitcoins are created as a result of massive consensus. This is something incredible that should not be under-estimated. This entire consensus means that it is literally backed by thousands and thousands of computers verifying every single move of every single account, in a transparent way. This actually is what most people need: transparency.
+1.4.5.2. Con: The 'blockchain but no Bitcoin' trope is frequently wheeled out by those with vested interests in it failing. Mining is absolutely not for 'the sake of it' - it is the oil that allows the BTC engine to run smoothly. It at once creates coins, processes transactions and rewards those who do whilst securing the network through game theoretic economic incentives and consensus.
+1.4.5.3. Con: Fiat currency is not based on anything either. Cryptocurrency is 'backed' more by [transformation ideas](http://www.newsbtc.com/2016/01/17/glenn-hutchins-you-cant-have-the-blockchain-without-bitcoin/) than tangibles; it is a new paradigm, but it is a mistake to think that blockchain can survive without BTC for now.
+1.4.5.4. Pro: [People don’t have insurance or a legal system](https://www.reuters.com/investigates/special-report/bitcoin-gox/) to complain to if their account gets hacked or they lose their details.
+1.4.6. Con: While most crypto is fiat-like in that the “coins” & “tokens” aren’t pegged to anything, projects like [CleanApp](https://CleanApp.io/Whitepaper) & \@[Littercoin](http://www.openlittermap.com) show that crypto’s “Killer app” is likely to be one that has “[commodity-backed](https://medium.com/\@cleanapp/cryptos-killer-app-is-litter-ally-under-our-feet-1-of-5-eb064a6ab215)” features.
+1.4.7. Con: Some coins are backed by assets. DGX for instance is backed by gold [DGX backed by physical gold.](https://cryptovest.com/news/digix-dao-dgd-mints-first-batch-of-gold-backed-tokens/)
+1.4.8. Con: The network itself is of value.
+1.4.8.1. Pro: Many digital cryptocurrencies are useful for new protocols, ie Ethereum good for executing rules, FileCoin will be good for paying for file storage, etc. In this way, they have strong guarantees of what they can be exchanges for, unlike fractional banking.
+1.4.8.2. Pro: For cryptocurrencies that are for real-world products, their value is backed by their issuer, making it more fair to scrutinize a specific coin issuer than the entire technology enabling it.
+1.4.8.3. Con: “The dollar itself is of value.”
+1.4.8.4. Pro: Many cryptocurrencies have intrinsic value based on their utility \(eg. Enjin Coin, Ethereum\).
+1.4.8.4.1. Pro: DLT makes it possible to create markets out of commodities and services that were previously [impracticable to monetize, such as reporting litter/hazards](https://medium.com/\@cleanapp/cryptos-killer-app-is-litter-ally-under-our-feet-3-of-5-3e895e7977fd).
+1.4.9. Con: Scarcity and demand define prices. Alternative value is of no use in currency, and it only increases its cost.
+1.4.9.1. Pro: Many cryptocurrencies are scarce and of finite nature. Supply and demand is important here too.
+1.4.10. Pro: Today's cryptocurrency is a bit like 1630's [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania): At the peak of the market, a person could trade a single tulip for an entire estate, and, at the bottom, one tulip was the price of an onion. This being said, no tangible value backs up any currency these days. Everything, from the first days of trading shells for beads, is based on perceived value.
+1.4.10.1. Con: Tulips didn't solve problems though. Crypto has the potential to transform many aspects of the world we live in. There is potentially a maniacal aspect, but it does not compare to tulips. Valuations are still in discovery phase. Some may be too high others may be too low.
+1.4.10.1.1. Pro: The final value of a given cryptocurrency will ultimately depend on its practicality and use in the future.
+1.4.11. Pro: [There hasn’t been mainstream adoption](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100) of any use beyond speculation and the illegal \(black markets and tax/regulation avoidance\).
+1.5. Con: Quantum computing may break the crypto-mechanism that ensures the integrity of the coins/blockchain.
+1.5.1. Con: Hashgraph, which seems similar but better than the tangle may help make these things quantum computer proof.
+1.5.1.1. Con: Hashgraph is an unknown; to all intents and purposes it is still just a theoretical concept.
+1.5.1.1.1. Pro: Hashgraph needs killer-app, or de-facto standards as proof.
+1.5.2. Con: Quantum computing will also break the traditional banking system. No relative disadvantage for blockchain.
+1.5.2.1. Pro: Indeed; if quantum computers come along that are able to break RSA encryption, cryptocurrencies will be the least of our problems.
+1.5.3. Con: There are various quantum resistant account strategies that can be implemented, and by allowing users to opt into new strategies as they like, \(the way [Ethereum plans to](https://blog.ethereum.org/2015/12/24/understanding-serenity-part-i-abstraction/)\), blockchains could evolve alongside quantum computers.
+1.5.4. Con: Quantum Computing will break modern cryptography \(meaning it will impact almost every technology\). Quntum computing would be the end of technology, internet and modern communication. But it won’t, as solutions exist and are being worked on, and it’s called Post-Quantum cryptography. And cryptography will become Quantum-Proof way before Quantum Computers will be able to cause any damage.
+1.5.5. Pro: While cryptocurrencies and blockchain could change the world, it would be even better to cut out the fake altcoins that already exist.
+1.5.5.1. Con: This may be true, but the 'fake' alts may be hard to identify. Some are patently fake but with others it is harder to see.
+1.5.5.2. Con: The market gets to decide that. What is useful will have longevity.
+1.5.6. Con: Quantum Computing has some way to go, and by then Bitcoin may also have evolved.
+1.5.7. Con: There are coins like IOTA which don't rely on blockchain and which are quantum secure.
+1.5.7.1. Pro: [IOTA](https://iota.org/) uses transaction verification to create new transactions. Quantum computing would speed up the hash function and increase the rate of transaction verification, ultimately helping the network.
+1.5.7.2. Con: Coordinator node exists until transactions reach a large volume.
+1.5.7.2.1. Con: The Coordinator node \(Coo\) has already been taken offline for several short periods of time to test the network. Once the network has grown, it will no longer need any sort of central authority.
+1.5.7.2.1.1. Con: So it is believed but this remains to be seen.
+1.6. Con: Blockchain doesn't solve any new problems; Everything blockchain does could be achieved in alternative ways.
+1.6.1. Con: -> See 1.2.9.1.
+1.7. Pro: Technologies that are based on Blockchain will have enormous impacts on trade and the economy. For instance, [Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7467408) will facilitate market interactions. Blockchain is not only Cryptocurrencies.
+1.7.1. Pro: A group of six banks has [trialled using Ethereum smart contracts](https://www.google.co.uk/amp/s/www.fintechist.com/ubs-five-banks-trial-ethereum-smart-contracts-counterparty-reference-data/amp/) to share information.
+1.7.2. Con: The [SWIFT](https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp) system already exists to allow banks to securely exchange information.
+1.7.2.1. Con: SWIFT [only provides instruction](https://www.google.co.uk/amp/s/gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/amp/), the actual movement of funds is done by debiting and crediting several accounts at each institution and relies on banks maintaining accounts with each other \(either directly or through intermediary banks\), which can be a manual process. This means it is not a cheap solution.
+1.8. Con: There are [other technologies](https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/) which are likely to have a much bigger impact, such as artificial intelligence, virtual/augmented reality, brain-computer interfaces, autonomous vehicles, etc.
+1.8.1. Con: The technologies you are enumerating are disruptive technologies, that are going to solve new kinds of problems, and create new kinds of activities and needs. Blockchain is seen as a revolution as it has the potential to be a fundamental technology, meaning it has the potential to become the foundation of how wealth is stored and exchanged \(as such, the foundation of society\), how trust is maintained between parties, etc.
+1.8.2. Pro: The [washing machine alone](https://www.theguardian.com/technology/2010/aug/29/my-bright-idea-ha-joon-chang), let alone the whole industrial revolution, was far more impactful than the information age will ever be. Blockchain and crypto will have next to no impact by comparison.
+1.8.2.1. Con: Even the article specifies that it's not the washing machine alone, and regardless, it can be argued that the internet had a really big impact on the way society works \(not only of communication, but also online shopping, advertising, etc\).
+1.8.2.2. Pro: Cryptos aren't really disrupting currency, they are primarily making transactions more efficient and secure. Efficiency gains are not revolutionary, they are standard innovation practice. Disrupting currency, ala a revolution, would require transforming the way we think about, measure, and communicate value in a complex, interconnected world.
+1.8.2.2.1. Con: BTC currently processes 7 transactions per second \(2017\) as opposed to [60,000 that Visa and MasterCard can process](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100).
+1.8.2.2.1.1. Con: There are cryptos that are rivals for these speeds. Ripple works as quick as cards. Waves NG seems pretty quick too and the Lightning network is also as fast as card payments.
+1.8.2.2.2. Con: It is one dimensional to look at it solely through the prism of currency. The true disruption with crypto is censorship resistance. The means of achieving distributed economic consensus game theoretically is revolutionary. This can further be applied to myriad fields outwith currency.
+1.8.2.3. Con: Even if the washing machine was more impactful than the information age, that still doesn’t stop crypto-currencies from being the next wave.
+1.8.3. Con: Decentralization is more than just a technology impact, it also leads to a social revolution.
+1.8.4. Con: Yes, but money makes the world go round.
+1.8.5. Con: This suggests that blockchain tech is further advanced than those outlined. The others may be important but seem likely to happen a little later \(with the exception perhaps of autonomous driving\).
+1.8.6. Pro: These are complementary as opposed to competing technologies. The IOT will need to be connected, crypto such as IOTA and Universa seem well placed for this.
+1.9. Con: People are skeptical of new technologies such as Bitcoin.
+1.9.1. Pro: People are sceptical with good reason. Bitcoin does seven transactions or so a second; for that reason alone, it can't be used as a regular currency.
+1.9.1.1. Con: Bitcoin is only one part of crypto, there are plenty that satisfy velocity needs and solutions are also coming to BTC too.
+1.9.2. Con: Just because Bitcoin cannot scale and make instant transactions, it doesn't mean there won't be better technologies later on such as Hashgraph.
+1.9.2.1. Con: It is arguably scaling right now with LN coming online and also Bitcoin Cash's bigger blocks solution.
+1.9.2.2. Con: -> See 1.5.1.1.
+1.9.3. Pro: Users may experience a steep learning curve on initial adoption.
+1.9.3.1. Con: Having a steep initial learning curve would still imply eventual success of the technology, so this does not seem like a point against the premise.
+1.9.3.2. Pro: This is will force innovation from developers.
+1.9.3.3. Con: People could lose funds.
+1.9.3.3.1. Con: Using a wire transfer without proper knowledge of the risks involved could cause one to lose their Fiat currency.
+1.9.3.3.2. Pro: This could teach people to be fiscally more responsible.
+1.9.4. Con: Cryptocurrency will become a widely known lexicon as it brings us closer to final stage evolution in transition from FIAT to Digital Goods. [HSBC performs first blockchain](http://www.businessinsider.com/r-hsbc-says-performs-first-trade-finance-transaction-using-blockchain-2018-5?IR=T) shows a current example of Banks making the transition into this step moving forward. [Sweden is already moving to become a cashless society](https://www.newsbtc.com/2017/10/16/sweden-cryptocurrency-technology-cashless/) [Japan passed a law called The Payment Services Act in April 2017](https://www.businessinsider.com.au/bitcoin-fiat-currencies-most-commonly-traded-2018-1)[G7 Countries are acknowledging weak FIAT against Cryptocurrency.](https://www.coindesk.com/2018-year-central-banks-begin-buying-cryptocurrency/)These links show us the direction our nations are going to.
+1.9.5. Con: Scepticism is normal towards new technologies. There was broad scepticism about the car, the train, the television and the Internet before they became mainstream.
+1.9.5.1. Pro: Not only are people sceptical about new technologies, adoption of said technologies can take time; this said, in this case it is not a bad thing. There are many adjustments that need to be made in most blockchain technologies, so the time it will take for public scepticism to clear will allow for the technology to properly scale to the appropriate size and functionality.
+1.9.6. Pro: Negative reports are more interesting to journalists than most of the positives and there are many such reports in crypto such as hacking, which are not in fact related to the technology but to human error, or to crypto-exchanges currently being centralised.
+1.9.7. Pro: Many people simply do not understand the intricacies of the system, as it is quite opaque to the uninitiated.
+1.9.8. Con: This is less and less the case every day as the technology is more generally accepted and widely used.
+1.10. Pro: A whole way for projects to raise funds through ICOs has been born.
+1.10.1. Con: Bad actors can trick people into giving money to bogus projects.
+1.10.1.1. Con: ICOs will have to verify their trustworthiness in the free market just like any other company.
+1.10.2. Pro: Projects can directly solicit funds from anybody whatsoever with money and an internet connection.
+1.10.3. Con: Some ICOs will be very greedy and ask for money they do not need.
+1.11. Pro: Anything with an intermediary can be disrupted. Every sector of human interaction will benefit from cryptocurrencies. There will be no more middlemen. No more gate keepers. The possibilities are endless.
+1.11.1. Pro: Disruption to a [wide variety](http://www.investcryptocurrency.info/19-industries-blockchain-will-disrupt/) of industrial sectors is possible.
+1.11.1.1. Pro: Storage and control over one's own cryptocurrency and without bank etc. involvement is liberating and in many ways more secure and easy than trusting such a third party.
+1.11.1.1.1. Con: -> See 1.2.7.1.2.1.
+1.11.2. Con: Current generation cryptocurrencies have led to many [more middlemen being created](https://bravenewcoin.com/news/can-bitcoin-actually-remove-the-middlemen-from-corporate-finance/).
+1.11.2.1. Pro: -> See 1.2.7.1.2.1.
+1.11.3. Con: -> See 1.2.2.4.1.
+1.11.4. Con: -> See 1.2.8.
+1.11.5. Con: Possibilities do not necessarily mean that we will find, or more importantly use, cryptocurrencies in anything other than it's current state.
+1.11.5.1. Con: The ''current state'' is changing daily. There are already use cases in flow that were not there last month. The possibilities are quickly becoming realities.
+1.11.6. Pro: Banks charge inordinate fees that bitcoin doesn’t yet.
+1.11.6.1. Con: It could be argued that the recent spike in Bitcoin fees are at a level commensurate or higher for personal use than banks.
+1.11.6.2. Con: -> See 1.1.1.2.
+1.11.6.3. Con: -> See 1.2.7.1.1.3.
+1.11.7. Pro: There are many laws that restrict the movement of money out of countries. Crypto helps the rich avoid those limits.
+1.11.7.1. Con: But it also makes the market more open, since today it is very expensive to transfer small amounts of money due to bank fees. Transferring cryptocurrency internationally is inexpensive in comparison, thus creating new business opportunities.
+1.11.7.2. Con: Restricting money movement is often a good thing, for example the international sanctions on Iran.
+1.11.8. Pro: Income can now be paid in cryptocurrencies, thus avoiding the need to pay tax \(and the government will have less money for infrastructure and welfare\).
+1.11.8.1. Con: Taxes must still be paid, and crypto use and storage can be tracked. There will be solutions for this.
+1.11.8.2. Con: A court ruled that the [IRS can force hosted wallet sites](https://www.businessinsider.nl/coinbase-must-give-bitcoin-customer-information-irs-taxes-2017-11/?international=true&r=UK) to reveal users that made transactions over $20,000 between 2013 and 2015, so that they can be taxed.
+1.11.9. Con: The mainstream public has yet to uptake the use of crypto-currencies in any form other than speculative investment and to avoid laws and regulations.
+1.11.9.1. Con: There are [tons of good blockchain projects](https://www.google.com/search?ei=OAROW8DzGuv06ASBs5moDA&q=blockchain+projects&oq=blockchain+projects&gs_l=psy-ab.3..0i71k1l8.110945.110945.0.111008.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.nz1_pV4mhOE) being developed that create cryptocurrencies as "utility tokens", which on the long run will change the "speculative" side of crypto.
+1.11.9.2. Pro: -> See 1.4.1.1.
+1.12. Con: Blockchain is not scaleable to be able to process enough transactions to work as a currency.
+1.12.1. Pro: The amount of data in a chain will becomes too big with more and more transactions.
+1.12.1.1. Pro: The more data there is, the more centralized the ledger will become. At some point, only certain entities with large amounts of storage will be able to hold the entirety of the ledger.
+1.12.1.2. Con: There are lots of scaling solutions in development and with [Moore's law](https://www.investopedia.com/terms/m/mooreslaw.asp) this should not be a major issue in any case, but it is a valid potential issue.
+1.12.2. Con: Second-level protocols should reduce this growing pain. E.g. Lightning Network.
+1.12.3. Pro: Operating them consumes far too much energy to allow them to gain widespread use
+1.12.3.1. Pro: Most of today's blockchains are too slow to support high-volume time-and-mission-critical enterprise operations. While it is possible that consensus mechanism based technologies will form the basis of Internet 4.0 \(for lack of a better term\), the ultimate winner may not be "blockchains" per se.
+1.12.3.1.1. Con: We are still experimenting with the technology, and as any new tech, it needs time to evolve. Also it depends on how people are using this ledger. People need to think wisely where to put data, what should be done on-chain and off-chain, and how to bufferize actions, instead of spamming the network. Differences in performances between Bitcoin and Ethereum are incredible. Imagine differences between Ethereum today and the next leader in 5 years.
+1.12.3.2. Con: This is changing as development is going full throttle to make things end-user friendly.
+1.12.3.3. Con: There are [wallets](https://blockgeeks.com/cryptocurrency-safe/) enabling you to send cryptocurrencies with the push of a button.
+1.12.4. Pro: Bitcoin will become too energy intensive to continue maintaining the ledger.
+1.12.4.1. Con: Hydroelectric and solar are coming [online for mining](https://steemit.com/bitcoin/\@jycloud9/china-builds-a-hydropower-plant-for-bitcoin-mining-2017622t4636806z).
+1.12.4.2. Con: Coins can move from proof of work to proof of stake \(this does not require intensive mining\). Some are already proof of stake and others such as Ethereum are transitioning.
+1.12.4.2.1. Pro: Something is at stake. Malicious behavior is punished by slashing/burning of the attackers stake. This makes attacks much more expensive \(in comparison to relatively cheap hash-rate [www.crypto51.app](https://www.crypto51.app/)\).
+1.12.4.2.2. Con: One issue with proof of stake systems is the ["nothing-at-stake" problem](https://en.wikipedia.org/wiki/Proof-of-stake#Criticism), wherein block generators have nothing to lose by voting for multiple blockchain histories, thereby preventing consensus from being achieved. Because unlike in proof-of-work systems, there is little cost to working on several chains
+1.12.4.2.3. Con: Proof of stake protocols give power to the wealthy.
+1.12.4.2.3.1. Con: It is better than proof of work where the power is in the hand of centralized mining pools.
+1.12.4.2.3.2. Con: Block selection methods do not only take number of coins into consideration, in order to avoid this problem. Options include selecting [randomly, or by coin age](https://en.wikipedia.org/wiki/Proof-of-stake#Block_selection_variants).
+1.12.4.3. Pro: [Cryptocurrencies are increasing their energy expenses](http://www.independent.co.uk/news/business/news/bitcoin-energy-use-coal-power-cryptocurrency-generation-server-farms-dirty-secret-china-mongolia-a8111666.html), which is a huge issue for miners from countries like China.
+1.12.5. Pro: -> See 1.8.2.2.1.
+1.12.6. Con: Blockchain can actually be scaled to handle much more than what current payment systems can. It's all about the efficiency of the algorithm used.
+Xrp for example currently advertise themselves as able to process 1500 tr/s and able to scale to visa scale of 50k tr/s
+1.12.7. Con: It will come. There are some chains that should scale just fine. Universa is promising thousand of transactions a second and IOTA gets faster with scale \(although it is not strictly a blockchain\).
+1.13. Pro: Developing nations have access to banking facilities with crypto.
+1.13.1. Pro: Unbanked populations often don't have access to financial systems due to location, lack of identification documentation or due to hyperinflation they can't afford to be a part of the system. The Dether app \(Dether.io\), which is launching next week, will allow locals to pay for goods and services with crypto and cash-in / out with cryptocurrency. It is a game changer for cryptocurrency. [Dether](https://dether.io/)
+1.13.2. Con: 'Mobile money' systems using [mobile phones for banking services](https://qz.com/1243637/mobile-money-is-key-to-growing-banks-in-africa/) are already [revolutionising African finance](https://qz.com/1039896/m-pesa-mtn-orange-others-lead-africas-mobile-money-revolution/).
+1.13.2.1. Pro: Blockchain is not needed to increase penetration of banking services - low cost devices and the internet is the driver for that.
+1.13.2.2. Pro: The ability for any cheap mobile phone \(not smartphones\) to be used for banking allows mobile money to spread to more people than blockchain could, because blockchain apps require smartphones.
+1.13.3. Con: Global smartphone penetration is not extensive yet.
+1.13.3.1. Con: The UAE has 80.6% [smartphone penetration](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration), which is fairly high. Sweden, Switzerland, South Korea and Taiwan also have over 70% penetration.
+1.13.3.2. Pro: Developing nations have very low [smartphone penetration](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration) in 2017 - 4% in Ethiopia/Uganda, and less than 30% in many developing nations.
+1.13.4. Con: Crypto currencies will most likely be adopted by the wealthy, and this will do little to help the impoverished majority who still rely on the broken legacy financial system.
+1.13.4.1. Pro: The poor are less likely to be able to afford smartphones.
+1.13.4.1.1. Pro: -> See 1.13.3.2.
+1.13.4.2. Pro: Impoverished often goes with low education levels, decreasing the likelihood that they will understand the benefits and drawbacks to using a cryptocurrency over country-backed money.
+1.13.5. Con: Cryptocurrencies may increase the power of despots in developing countries who could control these technologies, thus undermining standard mechanisms for reform though international financial systems like the IMF.
+1.13.5.1. Con: Cryptocurrencies generally speaking by their nature are not possible 'to control'. This is one of the strongest attractions of them. Many are inherently censorship resistant.

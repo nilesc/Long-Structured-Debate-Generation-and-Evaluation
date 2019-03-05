@@ -1,0 +1,469 @@
+Discussion Title: The US should adopt a better voting system (for single-winner elections)
+
+1. The US should change its voting system to...
+1.1. Alternative Vote \(aka Ranked Choice Voting, and Instant Runoff Voting\) 
+Shown here:  [en.wikipedia.org](https://en.wikipedia.org/wiki/Instant-runoff_voting)
+and here: [youtube.com](https://www.youtube.com/watch?v=3Y3jE3B8HsE&t=2s)
+1.1.1. Pro: Votes for a losing candidate aren't wasted, as long as a winning candidate is listed on the ballot.
+\(Wasted votes defined here: [en.wikipedia.org](https://en.wikipedia.org/wiki/Wasted_vote)\)
+1.1.1.1. Con: Lower preference votes for candidates who are eliminated in earlier rounds are wasted.  E.g., the second preference on a "2nd Place\>3rd Place\>Winner" ballot, which is never considered.
+1.1.1.2. Con: Voting for a losing candidate isn't a waste.  Participatory democracy is wholly dependent on submission to majority opinion, and depends on minority losers accepting the will of the majority.  They play an essential role in the process.
+1.1.2. Con: IRV is not [precinct-summable](http://wiki.electorama.com/wiki/Summability_criterion).
+1.1.2.1. Pro: Voting systems that are not precinct-summable take longer to count because all ballots must be physically moved to a central location.
+[Approval Voting versus IRV: Precinct Summability & Delay](https://electology.org/approval-voting-versus-irv)
+1.1.2.2. Pro: Voting systems that are not precinct-summable are more error-prone, since all ballots must be physically moved to a central location.
+[Summability criterion: Importance of summability](http://wiki.electorama.com/wiki/Summability_criterion#Importance_of_summability)
+1.1.2.3. Con: A precinct-summable voting system will be irrelevant if an open sourced automated counting system is implemented.
+1.1.2.3.1. Con: Many elections are held without electronic voting systems.
+1.1.2.4. Con: This is no less precinct summable than STAR; there are a finite number of categories that a ballot can fall into \(N! where N is the number of candidates\) which can be tallied locally, and the counts of various ballot types transmitted to the central tallying point.
+1.1.2.4.1. Con: But n! grows really fast. With 10 candidates, there are 10! \> 3,000,000 ways to cast the ballot, and that is ignoring the possibilities of not ranking every candidate.
+1.1.3. Pro: The alternate vote provides more opportunity for moderate candidates to be elected because the electorate can vote their first choice without fear of losing their vote.
+1.1.3.1. Pro: Candidates for existing parties will be incentivized to adopt more moderate policies because they will have to compete with moderate candidates more than polar opposites.
+1.1.3.2. Con: IRV favours [extremists over moderate](http://rangevoting.org/IrvExtreme.html) candidates. Additional sources: \[[1](http://leastevil.blogspot.co.uk/2012/02/irv-uniquely-poor-choice-for-centrists.html)\]\[[2](https://electology.org/center-squeeze-effect)\]\[[3](https://medium.com/\@jameson.quinn/no-instant-runoff-wouldnt-solve-spoiled-elections-7f6136f1d0ee)\]
+1.1.3.2.1. Con: The Republic of Ireland Uses ATV for it's presidential elections. And has consistently voted in nominees from parties close to the centre right and centre left, ie moderate [\[1\]](https://en.wikipedia.org/wiki/President_of_Ireland#List_of_Presidents_of_Ireland) This is real world data and should be weighted heavier than mathematical models.
+1.1.3.3. Con: AV could lead to people voting for more extreme candidates, rather than more moderate candidates.  There is no evidence that AV necessitates "middle of the road" candidates.
+1.1.3.4. Con: As your ideal favorite gets more popular it might cause your second choice to be eliminated and the election to be spoiled. Then you regret your vote and 2 party domination sets in.
+1.1.4. Con: IRV "neuters" third parties by giving their votes to mainstream parties, making them no longer a threat to the mainstream parties, who can get their votes without making concessions to their voters.
+Source: [The False Promise of Instant Runoff Voting](https://www.cato-unbound.org/2016/12/09/jason-sorens/false-promise-instant-runoff-voting)
+1.1.5. Con: -> See 1.1.3.2.
+1.1.6. Con: IRV is non-monotonic, meaning that increasing your support for a candidate can cause them to lose, and vice versa.  This is projected to occur in [at least 15% of 3-candidate elections, increasing with the number of candidates](https://link.springer.com/article/10.1007/s11127-013-0118-2).
+1.1.6.1. Pro: There is a video that demonstrates how [off the rails IRV](https://www.youtube.com/watch?v=-4FXLQoLDBA&feature=youtu.be&t=4m39s) can go.
+1.1.6.2. Pro: [IRV has a participation failure](http://rangevoting.org/Aus07.html) which means showing up to the polls can cause a voter's favourite to perform worse. This could hurt voter turnout, and is a part of why Australia had to resort to mandatory voting for its IRV elections.
+1.1.6.3. Pro: In Burlington Vermont in 2009, IRV resulted in electing a candidate for mayor when MORE voters marked their ballots that they preferred a different specific candidate \(the Condorcet winner\).  IRV failed on its promise to allow voters to vote sincerely without fear of electing the candidate they disliked the most.  IRV literally caused a spoiler candidate to change who the winner was.[Burlington IRV in 2009](http://rangevoting.org/Burlington.html)
+1.1.7. Con: The Alternative Vote leads to 2-party domination. [Theory](http://rangevoting.org/TarrIrv.html) [Example of Australia](http://scorevoting.net/AustralianPol.html) [Secondary Source](https://books.google.co.uk/books?id=RyiaCEb6iaIC&pg=PA112&lpg=PA112&dq=Instant%2BRunoff%2BVoting%2Btwo%2Bparty%2Bdomination&source=bl&ots=FFff9A2tOE&sig=tIBmw9brpP4buhPKhOgSfiPK9_E&hl=en&sa=X&ved=0ahUKEwi4h5_DvMrXAhXLWRoKHQ-vCqA4FBDoAQgnMAE#v=onepage&q=Instant%2BRunoff%2BVoting%2Btwo%2Bparty%2Bdomination&f=false)
+1.1.8. Pro: The Alternative Vote allows for the expression of a greater number of viewpoints to be expressed by candidates and alternative parties as they are less tied to two main parties which define themselves on narrow issues. Currently, [third-party and independent candidates are often discouraged from running as spoilers](https://www.pbs.org/newshour/politics/instant-runoffs-better-way-vote).
+1.1.8.1. Con: IRV's ballot evaluation only ever takes the \(current\) top preference into consideration, regardless of how expressive the ballot is as a whole.
+1.1.8.1.1. Con: This is an advantage as it ensures that by ranking lower choices they do not risk harming higher ranked candidates.
+1.1.8.1.1.1. Con: ...which leads to [favorite betrayal](https://wiki.electorama.com/wiki/Favorite_Betrayal_criterion), because of scenarios where your \(viable\) secondary choices can be eliminated before your \(non-viable\) primary choice\(s\).
+1.1.8.2. Con: Rankings preclude expression of "these are equivalent/comparable options" \(unless equal rankings are allowed\)
+1.1.8.2.1. Pro: Forcing voters to choose between candidates they are indifferent between lessens the validity of their ballots.
+
+[Maio, Roese, Seligman, Katz, 1996](https://www.researchgate.net/publication/233061022_Rankings_Ratings_and_the_Measurement_of_Values_Evidence_for_the_Superior_Validity_of_Ratings)
+1.1.8.3. Con: Ranked ballots destroy information about degree of preference.
+1.1.8.3.1. Pro: Psychologists have found that ratings give better predictive validity than rankings.  
+
+[Maio, Roese, Seligman, Katz, 1996](https://www.researchgate.net/publication/233061022_Rankings_Ratings_and_the_Measurement_of_Values_Evidence_for_the_Superior_Validity_of_Ratings)
+1.1.8.3.2. Con: Requiring voters to rate candidates forces an undesirable tactical decision on voters immediately in the voting booth.  How high should they rate their 2nd-choice candidate?  Too high will hurt their favorite or 1st-choice.  Insufficiently high will hurt their 2nd-choice against their 3rd-choice in the case that their favorite turns out not to be contending.
+1.1.8.4. Con: Third parties can become spoilers once they grow big enough to surpass the major parties. Then we get 2-party domination.
+1.1.9. Pro: The "[Spoiler Effect](https://en.wikipedia.org/wiki/Spoiler_effect)" is much less of a problem in AV than in FPTP.
+1.1.9.1. Pro: The US has seen an explosion of media which reduces the value of "Fame" when anyone can literally be an overnight viral video star.  Given a choice between Abraham Lincoln and John C. Breckenridge, maybe the newspapers only covered those two gentlemen. however it is clear that modern elections and modern media have a greater capacity for entrants to the field, and a higher consequence of 3rd/4th party entrants to "spoil" 1st and 2nd party candidates. \(eg: Green Party & Tea Party\)
+1.1.9.1.1. Con: The claim is not that third party candidates will be less frequent but that they are less likely to damage the main candidates if the do stand.  Even if a third candidate takes a large amount of votes from one candidate in the first round this will not prevent that main candidate from being elected because voters for the third candidate will give their lower preferences to whichever main candidate they would have voted for if there had not been a third party candidate.
+1.1.10. Pro: IRV could increase voter turnout.
+1.1.10.1. Con: Experience indicates that IRV has minimal impact on voter turnout, except for substantially reducing the participation gap between primary voters and general-only voters [\(Kimball 2016\)](http://www.umsl.edu/~kimballd/KimballRCV.pdf).
+1.1.11. Con: It wouldn't do enough to reduce the power of the two major parties, instead just giving them cover from "spoiler" candidates from the fringes.
+1.1.11.1. Pro: [Simulations](https://www.reddit.com/r/EndFPTP/comments/7dqe0u/my_simulations_suggests_instantrunnoff_voting_irv/) indicate it wouldn't even eliminate the spoiler effect
+1.1.11.1.1. Con: Even in these simulations based on unrealistic voting conditions of being the "last voter" with clairvoyance, who can make a difference with their decision, IRV voters see a 15% improvement in voting for their favorite candidate over FPTP \(79% vs 69% in these simulations\).
+1.1.12. Con: The Alternative Vote has a very high ballot error rate which excludes a large portion of the electorate [Spoilage Rates](http://rangevoting.org/SPRates.html) [Secondary Source](https://fullfact.org/news/does-av-lead-more-spoiled-ballots/)
+1.1.12.1. Pro: IRV's higher than FPTP spoilage rates would increase the likelihood of any given result being contested by lawsuit.
+1.1.13. Con: IRV has potential for a near-tie \(widely accepted as a bad thing\) every round. The crisis-potential inherent in IRV is much larger. Every time there is a near-tie among two no-hope candidates, we have to delay until we have the exact vote totals for each before we can decide which one to eliminate.
+1.1.13.1. Pro: Bush v Gore, Florida 2000, was officially decided by 537 votes, and this caused a huge lawsuit.
+1.1.13.2. Pro: Elimination order matters as it affects the results of future rounds in a repeatedly amplifying manner.
+1.1.13.3. Pro: Such occurrences could negate the cost savings provided by replacing primaries, and possibly delay vote certification
+1.1.13.4. Pro: -> See 1.1.12.1.
+1.1.13.5. Con: This isn't entirely true especially as phrased. 
+
+If we have viable candidates A,B,C and D and non viable candidates X and Y we can eliminate both X and Y at the same time as long as the number of supporters for X and Y combined is less than the min of A,B,C and D's number of voters.  With true no-hope candidates this will happen quite often.
+1.1.13.5.1. Con: This is not a reliable effect.  In [San Francisco's 2004 District 5 election](https://en.wikipedia.org/wiki/Instant-runoff_voting_in_the_United_States#2004_results), the votes to be transferred in each of 17 passes, the not-yet exhausted votes were enough to change the result of the next round.
+That type of distribution is fairly common, and may be seen in vote totals as more candidates attempt to run.
+1.1.14. Con: IRV ignores a lot of information on a user's ballot. Your second and third choice may never be counted! For instance, in the infamous Burlington 2009 election, many voters voted 1st Kiss or Wright, 2nd Montroll but those 2nd choice votes WERE NOT COUNTED because their first choices were elsewhere. Then Montroll and then Wright were eliminated. But the W\>M\>K votes did NOT transfer to M since Montroll was eliminated already! Meanwhile, OTHER people's 2nd choices WERE counted. Hmmm...
+1.1.15. Pro: IRV has a long history of successful use.
+1.1.15.1. Con: Except that its use has shown time and time again many problems like Spoilers and Two Party Domination. It is "tried-and-false".
+1.1.15.1.1. Pro: In Australia, in the years 2001, 2004, and 2007, the House of Representatives \(elected with IRV\) had zero third party wins out of 450. [www.rangevoting.org](http://www.rangevoting.org/AustralianPol.html)
+1.1.15.1.2. Pro: In the Burlington 2009 mayoral election, Wright was a spoiler for Montroll, and Montroll would have beat any rival in a head-to-head election \(judging by the ballots\).
+1.1.16. Con: There are multiple instances of IRV being repealed, implying it wouldn't last as a replacement for FPTP [list](https://electology.org/irv-repealed) [expanded list](http://rangevoting.org/BackSlide.html)
+1.1.16.1. Pro: When a voting reform is proposed and then repealed, it reduces momentum to adopt other reforms in the future.
+1.1.16.2. Pro: The Olympics switched temporarily to [IRV in 1995](http://rangevoting.org/OlympBonaly.html) causing embarrassment and outrage, and leading to the re-adoption of Range Voting.
+1.1.17. Con: Changing to AV would require electronic voting equipment where it is not already used, as well as resulting in other one-time costs
+1.1.17.1. Pro: "Alternative Voting" can be explained simply \(rank preference\), but generally requires automation/computers to determine a winner.
+1.1.17.2. Con: [Case studies](http://archive.fairvote.org/media/irv/actionkits/costsandsavings.pdf) have shown that it would not be significantly expensive to switch systems, nor more expensive for upkeep.
+1.1.17.3. Con: Burlington, VT did not need to buy new voting machines to implement IRV, and said the cost was "negligible" and would likely save money compared to a traditional runoff. [FAQ about Burlington’s use of Instant Runoff Voting](https://web.archive.org/web/20111107210127/http://www.burlingtonvotes.org/faq/)
+1.1.17.3.1. Con: The risk of near ties and the inability to precinct-sum this makes large elections cost a lot more though.
+1.1.17.4. Pro: IRV would need new machines [for counting to be feasible](http://instantrunoff.blogspot.de/2008/11/instant-runoff-voting-counting-by-hand.html), resulting in that [initial cost](http://archive.fairvote.org/media/irv/actionkits/votingequipment.pdf).
+1.1.17.5. Pro: According to this [report](http://electionmathematics.org/em-IRV/IRV-Cost-Considerations.pdf) of Pierce County´s \(WA\) transition to IRV and the implications of a switch to IRV for Oregon counties: 
+
+The cost to implement IRV for Pierce County was 2 Mil usd. Many counties would need to upgrade their software and/or hardware to handle the different voting system.
+1.1.18. Con: Some people will find it confusing
+1.1.18.1. Pro: Alternative Voting systems are more complicated than simply separating ballots into various piles and seeing which stack is bigger.  Voters are unlikely to trust "Alternative Voting" at first and will blame the system\(s\) rather than the candidate\(s\).
+1.1.18.2. Con: This is easily solved by explaining the system very clearly at polling locations, and by teaching how the system works in school. The same way everyone learned how first past the post works.
+1.1.18.3. Pro: [Evidence shows no decline in ballot error](http://www.sbs.com.au/news/article/2014/11/12/australias-rate-informal-votes-highest-decades) over time, indicating that Australia's attempts to educate voters are not sufficient to explain the complexities of the system.
+1.2. The Single Stochastic vote AKA [Random Ballot](https://en.wikipedia.org/wiki/Random_ballot)
+1.2.1. Pro: The chance of winning is exactly proportional to the percentage of votes received.
+1.2.2. Pro: [Simulations](https://www.reddit.com/r/ukpolitics/comments/6hit6j/i_ran_100000_simulations_of_the_2017_general/) show it produces proportional results at the national level
+1.2.2.1. Con: This simulation is an average of 100,000 random selections which should produce proportional results. It does not show that the random selection will always produce proportional results.
+1.2.3. Pro: It uses single-member constituencies, so it preserves localism and requires no changes to boundaries.
+1.2.4. Pro: It doesn't require vote counting, just a single ballot selection so it's the cheapest possible voting system.
+1.2.4.1. Con: The counting is cheapest, but you'd need robust mechanisms for ensuring that the single ballot was truly chosen randomly.
+1.2.5. Pro: It is 100% strategy-proof, the best way to vote is for your favourite.
+1.2.5.1. Con: It is theoretically strategy proof, but wouldn't necessarily be so in practice.  Since the likelihood of a particular result is based on the percentage of people voting that way, some people will strategize that it's better to vote for the lesser-of-2-evil candidates from the main parties  to reduce the chance that their least-liked candidate wins.
+1.2.5.1.1. Con: There are many good objections to this system, but this isn't one. 
+There is 0 advantage to not picking your favorite, if you want your favorite to win. If your vote is the one chosen your favorite wins, if it isn't chosen, it has 0 impact on the race. It is strategy proof, like a mirage can't fool a blind person, it removes all the purpose of strategy by giving the results to randomness. You can improve your own odds of winning by being more people's favorite, but there is no strategic voting.
+1.2.6. Con: While mathematically sensible, the mechanics of Random Ballot undercut the popular democratic ideal of personal [political efficacy](https://en.wikipedia.org/wiki/Political_efficacy).
+1.2.6.1. Con: Public support of and trust in Juries is much higher than in politicians indicating a higher efficacy from random selection than FPTP election [icpr.org.uk](http://www.icpr.org.uk/media/10381/Juries%20MOJ%20report.pdf)
+1.2.6.1.1. Con: Multiple jurors are randomly chosen together, which allows a diversity of opinions to be represented during the trial. We don't just randomly choose a single juror to represent the public during a trial. Single-winner elections for single-seat positions \(such as president, governor, etc.\) are fundamentally different because only one person is elected.
+1.2.7. Pro: It doesn't require party lists or other partisan-centric system.
+1.2.7.1. Con: It doesn't require them, but nor does it make it likely they'll be eliminated.  Partisan-centric systems aren't required in FPTP either, but that's the way our system evolved.  If we went to stochastic tomorrow, it would be a stochastic selection from among party candidates.
+1.2.8. Con: It's random
+1.2.8.1. Con: That's not necessarily a negative.  It's possible that randomly electing representatives would produce better representatives than our current system.
+1.2.9. Pro: Election competitiveness is one of [the biggest factor](http://cedar.wwu.edu/cgi/viewcontent.cgi?article=1042&context=wwu_honors)s affecting voter turnout. Random ballot ensures every candidate has a chance of winning, and every vote has an equal chance of deciding the election which should dramatically improve turnout.
+1.2.10. Con: Many people would just write in their own name or names of friends, leading to inexperienced, unqualified winners.
+1.2.11. Con: Random ballot winners are only representative when averaged over many elections, but political attitudes change on a much shorter time-scale.
+1.2.12. Con: There is the possibility of the government making it a black box, where no one knows how many voted for a representative, and whether or not the person elected actually represents the people.
+1.2.12.1. Con: That's possible with any voting system. There's plenty of complaints of rigged elections with the current system.
+1.2.12.1.1. Con: With other systems the raw number results have to be presented to the public to stave off claims of vote rigging. Under this system, however, only one ballot is picked, thus the government is unable to prove the sanctity/legitimacy of the process.
+1.2.13. Con: If used to only elect 1 representative, there is a significant probability that the representative would not reflect the will of the supermajority \(\>75%\).
+1.2.14. Con: Random ballot can sometimes elect unrepresentative extremists who would never be selected by any conventional voting system.
+1.2.14.1. Con: While true, this could be largely offset by not allowing write-ins and having a sufficient hurdle to appearing on the ballot.   That is, you have to get 10K, 100K, or 1M signatures to even appear on the ballot.
+1.2.14.1.1. Con: But the extremists could get lots of signatures anyway.
+1.3. 3-2-1 voting.
+Described here: [wiki.electorama.com](http://wiki.electorama.com/wiki/3-2-1_voting)
+1.3.1. Con: 3-2-1 Voting is not party-agnostic.
+
+[3-2-1 voting: rules for the third semifinalist](http://wiki.electorama.com/wiki/3-2-1_voting#Footnote_.C2.B2:_rules_for_the_third_semifinalist)
+1.3.1.1. Con: There are ways to make 3-2-1 voting party-agnostic, such as using a proportional approval system on the "Good" ratings to pick the top 3 candidates.
+1.3.2. Pro: 3-2-1 is [precinct-summable](http://wiki.electorama.com/wiki/Summability_criterion).
+1.3.3. Pro: 3-2-1 is [monotonic](https://en.wikipedia.org/wiki/Monotonicity_criterion).
+1.3.4. Pro: Ties are highly unlikely.
+1.3.4.1. Con: Ties are actually more likely than under Approval since there are two Approval like stages. \(The 3rd and 4th Goodest candidates could be tied or the 2nd and 3rd most Bad could be tied. If half-good and half-bad are added this is less problematic.
+1.3.5. Pro: 3-2-1 mostly satisfies the [later-no-harm criterion](http://wiki.electorama.com/wiki/Later-no-harm_criterion).
+\(Steps 1 and 3 satisfy it\)
+1.3.6. Pro: In simulations, 3-2-1 voting's worst-case [Voter Satisfaction Efficiency](https://electology.github.io/vse-sim/vse.html) is 92%, which is better than the worst-case of any other system, and better than the best-case of IRV, Majority Judgment, and Plurality.
+1.3.6.1. Pro: Worst case plausible VSE is even higher, at 94.2; it is incredibly unlikely that strategic voting would be limited to only one faction.
+1.3.7. Con: The handling of blank ratings would likely confuse people.
+1.3.7.1. Con: A blank score can be equivalent to an OK rating, making the treatment of blanks simpler and more understandable. This does not change the core of the system.
+1.3.8. Con: In 3-candidate elections, there is a chance of two party domination if nearly all voters vote the dem as Good and the gop as Bad, or vice versa. This is not a problem in 4+ candidate elections or if the less favored major party somehow ends up a finalist.
+1.3.9. Pro: Step 1 incentivizes candidates to generate enthusiasm among core supporters rather than being inoffensive and non-committal.
+1.3.10. Pro: Steps 2 and 3 incentivize candidates to appeal to a wide range of voters once they have core supporters.
+1.3.11. Pro: 3-2-1 voting eliminates the [spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect).
+1.3.11.1. Con: But it does suffer from the teaming effect, where cloning a candidate can only help them.
+1.3.12. Pro: 3-2-1 is extremely resistant to [tactical voting](https://en.wikipedia.org/wiki/Tactical_voting).
+1.3.13. Pro: 3-2-1 [can be tallied with plurality, approval, score, and other point voting methods](https://wiki.electorama.com/wiki/3-2-1_voting#For_US_presidential_elections).
+1.3.14. Con: The rules for tallying ballots are fairly complex and make 3-2-1 voting difficult to fully explain.
+1.3.14.1. Con: Not really. Take the 3 with the most Goods, then of those eliminate the one with the most Bads, and of the last two elect the one most people prefer over the other.
+1.3.15. Con: Under the classic rules a party can run 3 clones \(hoping they all get into the semifinals\) and eventually you just get Approval Voting.
+1.4. Approval voting.
+Described here: [en.wikipedia.org](https://en.wikipedia.org/wiki/Approval_voting)
+1.4.1. Con: Approval voting is inexpressive because you can only approve or disapprove of any particular candidate.  Ranking and rating systems collect more detailed information from voters.
+1.4.1.1. Pro: The inability to otherwise differentiate between approved candidate\(s\) and favorite candidate may contribute to bullet voting.
+1.4.1.1.1. Pro: In an Independent Party of Oregon preference poll, 70% of voters cast bullet votes. [www.fairvote.org](http://www.fairvote.org/new_lessons_from_problems_with_approval_voting_in_practice) [archive.is](https://archive.is/Ugekh)
+1.4.1.1.2. Con: [In elections conducted by the German Pirate Party](https://sites.google.com/a/electology.org/www/pirate-elections-germany), average approvals per ballot were as high as 3.07, and typically around 1.7.
+1.4.1.1.3. Con: When Dartmouth College used approval voting for Board of Trustees elections, [voters selected 1.81 candidates per ballot](https://web.archive.org/web/20171021155818/http://scorevoting.net/DartmouthBack.html).
+1.4.1.1.4. Con: In a non-binding [2002 French Approval Voting study](http://scorevoting.net/FrenchStudy.html), only 11.1% of voters bullet voted, and [ballots contained 3.15 approvals on average](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.734.5743&rep=rep1&type=pdf).
+1.4.1.1.5. Pro: [In IEEE elections, 80% of voters bullet-voted.](http://approvalvoting.blogspot.com/)
+1.4.1.1.6. Pro: In a [2018 straw poll](https://www.counted.vote/diving_into_our_straw_poll_data_bullet_anti_voting) in Washington's 10th Congressional District, 60% of voters bullet-voted on their Approval ballots.
+1.4.2. Pro: Approval voting is a very simple modification of FPTP and easily understood.
+1.4.2.1. Pro: Approval voting can be implemented on existing ballots and voting machines.
+1.4.2.2. Pro: Approval voting is more similar to FPTP than other alternative voting systems, and therefore more acceptable to the public.
+1.4.3. Pro: Under a model where a large number of  voters approve of all candidates within a certain "ideological distance" \("[oblivious random threshold](http://rangevoting.org/IEVS/Pictures.html)"\), Approval Voting [always elects the candidate who best represents voter opinion](http://zesty.ca/voting/sim/).
+1.4.4. Con: Approval voting hurts voters who approve of additional candidates beyond their favorite \(Hence, it violates the [later-no-harm criterion](https://en.wikipedia.org/wiki/Later-no-harm_criterion)\).
+1.4.4.1. Con: Later-no-harm is only a potential issue with approval voting when a voter's favorite and compromise candidate are close in an election.
+1.4.4.2. Con: Later-no-harm is conditional on a voter choosing to support more than one viable candidate. They are not forced into it.
+1.4.5. Pro: Approval voting always lets you support your honest favorite candidate. \(It satisfies the [Favorite Betrayal Criterion](http://wiki.electorama.com/wiki/Favorite_Betrayal_criterion).\)
+1.4.6. Con: Approval voting can degenerate to [bullet voting](https://en.wikipedia.org/wiki/Bullet_voting) \(choosing only one candidate\).
+1.4.6.1. Con: In a situation where there are a large number of candidates and most voters are bullet voting the non bullet voting voters have ballot power equal to approximately \(number of viable candidates / 2\) relative to the bullet voters. Voters will be quickly trained against bullet voting.
+1.4.7. Pro: Approval voting is more expressive than FPTP because there are more possible permutations of ballots.
+1.4.7.1. Con: Score Voting is more expressive than Approval Voting because there are more possible ways to fill out a ballot.
+1.4.8. Con: Approval voting violates “one person, one vote”.
+\(Source: [Critique #5](https://electology.org/blog/ten-critiques-and-defenses-approval-voting)\)
+1.4.8.1. Con: Letting each person have a vote on each candidate, violates "one person, one vote" no more than letting each person have a vote on each election.
+1.4.8.2. Con: Despite the [fourteenth amendment](https://www.law.cornell.edu/constitution/amendmentxiv), each person's vote does not always equal another's. A vote in California will not carry the same weight as a vote in Ohio.
+1.4.8.2.1. Con: This difference is due to the electoral college, not the voting system used. \(For discussion on the Electoral College: [kialo.com](https://www.kialo.com/should-the-electoral-college-be-abolished-2469/2469.0=2469.1/=2469.1) \)
+1.4.8.3. Con: [Originally US presidential elections](http://rangevoting.org/BurrDilemma.html#earlyus) saw electors cast more than one vote each. The roots of American democracy are in agreement with approval voting's methodology
+1.4.9. Con: Approval voting would choose bland winners.
+1.4.9.1. Con: Bland milktoast candidates only win if people vote for them. Would you vote for such a candidate?
+1.4.10. Con: Approval voting doesn’t elect a majority winner.
+1.4.11. Pro: Approval voting is more expressive than FPTP because voters are allowed to indicate their support for more than one candidate
+1.4.12. Pro: Approval voting largely retains the positive points of FPTP
+1.4.12.1. Pro: It's really simple
+1.4.12.1.1. Pro: It's even simpler than FPTP because it gets rid of the arcane rule stating that you can only vote for one candidate
+1.4.12.1.2. Con: The simplicity might be a political liability, as the populace might be incredulous that its benefits can be real given the simplicity of the change.
+1.4.12.2. Pro: It has a low [ballot spoilage](https://en.wikipedia.org/wiki/Spoilt_vote) rate.
+1.4.12.2.1. Pro: It is harder to invalidate a ballot in approval voting than it is in FPTP
+1.4.12.2.1.1. Pro: Approval voting reduces the ballot spoilage rate by a 5th \(Source: [www.youtube.com](https://www.youtube.com/watch?v=2q_eMUGCU5U\))\)
+1.4.12.2.1.2. Con: It is easier to tamper with an approval ballot, adding support for candidates that weren't supported by the voter.
+1.4.12.3. Pro: Approval Voting is [precinct summable](http://wiki.electorama.com/wiki/Summability_criterion).
+1.4.13. Pro: There is very little opportunity for [invalid ballots](https://en.wikipedia.org/wiki/Spoilt_vote)
+1.4.14. Pro: Approval Voting has a history of successful usage.
+1.4.14.1. Pro: [The Catholic Church](http://rangevoting.org/PopeSummary.html) successfully used approval voting for over 300 years to elect 41 popes.
+1.4.14.2. Pro: Approval voting was used to elect the [first 4 US Presidents](http://rangevoting.org/BurrDilemma.html#earlyus) making it an American Tradition.
+1.4.14.2.1. Con: The original system used to elect presidents and vice-presidents was considered flawed and repealed by the [12th amendment](https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution).
+1.4.14.3. Pro: Political Parties currently using it internally
+
+Colorado Libertarian Party
+Texas Libertarian Party
+Texas Green Party
+Reform Party \(US National\)
+Modern Whig Party \(US National\)
+German Pirate Party \(North Rhine-Westphalia\)
+German Pirate Party \(Lower Saxony\)
+1.4.15. Pro: Approval voting strategy is relatively easy to understand for most common situations.  It is almost always the case that the most powerful strategic ballot is an honest ballot. Something that is not true for most voting systems.
+1.4.16. Con: Approval is an impoverished version of Score/Range voting, and has negligible \(no?\) benefits over that method
+1.4.17. Pro: Elections which use approval voting can be completed in a single trip to the polls. Primary elections are not necessary.
+1.4.18. Pro: Approval voting's simplicity and similarity to FPTP make it a good [Schelling point](https://en.wikipedia.org/wiki/Focal_point_\(game_theory\)) for reformers primarily looking to move away from FPTP.
+1.5. A [Condorcet system](https://en.wikipedia.org/wiki/Condorcet_method) \(such as [Tideman](https://en.wikipedia.org/wiki/Ranked_pairs), [Schulze](https://en.wikipedia.org/wiki/Schulze_method), [Copeland](https://en.wikipedia.org/wiki/Copeland's_method), etc.\)
+1.5.1. Pro: Condorcet systems guarantee that if one candidate is preferred to all others, they will win.
+1.5.1.1. Con: This is false. Condorcet voting methods can and do fail to elect Condorcet winners due to strategic voting. For more detail on this: [rangevoting.org](http://rangevoting.org/CondStratProb.html)
+1.5.1.1.1. Pro: In fact, in a variety of mixtures of both honest and strategic voters, approval and score voting are even more Condorcet than Condorcet methods themselves! [scorevoting.net](http://scorevoting.net/StratHonMix.html)
+1.5.1.1.1.1. Con: It's a ridiculous claim to say that the Irish are more French than the French.  If one's measure of goodness is how high a degree of "Condorcet" a voting method is, the standard is the standard.
+1.5.1.1.1.1.1. Con: What that claim was actually saying is that Approval and Score can elect Condorcet winners, and "Condorcet" methods can fail to, if voters are strategic. Extreme example: [www.rangevoting.org](http://www.rangevoting.org/DH3.html)
+1.5.2. Con: The Condorcet Winner is not necessarily the Utilitarian Winner.
+1.5.2.1. Con: The Condorcet Winner is *usually* the same as the Utilitarian Winner. [Condorcet meets Bentham: "in a large population, the utilitarian outcome will be selected by any Condorcet consistent voting rule"](http://www.sciencedirect.com/science/article/pii/S0304406815000518)
+1.5.2.2. Pro: Simple graphical example [here](https://i.imgur.com/hsbbkgE.png): C is the candidate that best represents the voting population, but Condorcet methods choose A, because A is slightly preferred by a majority.
+1.5.2.3. Pro: Simple conceptual example [here](https://leastevil.blogspot.com/2012/03/tyranny-of-majority-weak-preferences.html): A slight preference by the majority causes majoritarian and Condorcet methods to choose the option that leaves 1/3 of the population hungry.  Utilitarian methods choose the option that maximizes the well-being of the entire population.
+1.5.3. Con: Condorcet systems are complicated to count and to explain to voters.
+1.5.4. Pro: Assuming symmetrically-distributed honest voters ranking candidates according to ideological distance, Condorcet methods [always choose the candidate who best matches the ​centroid of voter opinion](http://rangevoting.org/IEVS/Pictures.html).
+1.5.4.1. Con: This is too many assumptions.
+1.5.5. Con: -> See 1.1.8.2.
+1.5.6. Con: -> See 1.1.8.3.
+1.5.7. Pro: In simulations, Condorcet systems produce higher [Voter Satisfaction Efficiency](https://electology.github.io/vse-sim/vse.html) than all other systems tested, when voters are 100% honest.
+1.5.7.1. Con: That relies on 100% honest voting; both Condorcet methods tested are far more susceptible to strategic voting than Score or STAR.  
+At even 50% strategic, Score and STAR both surpass them.
+1.5.8. Con: Condorcet methods are all vulnerable to strategic exaggeration where voters can get a better result by exaggerating the gap between where the two front runners lie on their preferences. Because of this, all Condorcet candidates are also incredibly vulnerable to [DH3 pathology](http://scorevoting.net/DH3.html) which results in unpopular candidates that nobody wanted getting elected.
+1.5.9. Pro: Condorcet methods preserve the principle of "[One-person-one-vote](https://www.law.cornell.edu/wex/one-person_one-vote_rule)".
+1.5.10. Pro: Condorcet Methods avoid tactical voting burdens.
+1.5.11. Pro: Condorcet methods are simpler than IRV.
+1.6. ...It should not change its system. The US should continue using the First-Past-The-Post voting system.
+Described here: [en.wikipedia.org](https://en.wikipedia.org/wiki/First-past-the-post_voting)
+1.6.1. Con: It falls victim to the [spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect), where a third party candidate will weaken/draw votes from the most similar strong party.
+1.6.1.1. Con: Outsider candidates have had success by working within the main political parties.
+1.6.2. Pro: Present rhetoric aside, this system has resulted in over a century of consecutive peaceful transfers of power.
+1.6.2.1. Con: So have many other systems. That is a minimal requirement that it has indeed largely proven to pass, but it has resulted in recurring periods of extreme polarization, and mistrust of government and other institutions. It also has comparatively low engagement and more dramatic swings of power than many other systems.
+1.6.2.2. Con: This does not hold when you consider the use of FPTP globally.
+1.6.2.3. Con: U.S. elections are stable enough that adopting a different system would not jeopardize peaceful transfer of power.
+1.6.2.4. Con: This has not been the case for other nations in the Americas who modeled their system after the US.
+1.6.2.5. Con: One century, but not two, as the election of an abolitionist president \(Lincoln\) helped trigger the US Civil War.
+1.6.3. Con: This system results in [wasted winning votes](https://en.wikipedia.org/wiki/Wasted_vote).
+1.6.3.1. Pro: The limit of FPTP systems can have as little as 1 meaningful vote.
+1.6.3.2. Con: Most voting systems in majoritarian elections contain a [threshold](https://en.wikipedia.org/wiki/Election_threshold) too.
+1.6.4. Con: FPTP serves to entrench an existing 2 party system \(which is generally regarded as a undesirable thing\).
+1.6.4.1. Pro: The 2 party system inevitably polarizes to extremes as party candidates seek to absorb issues into their platform. This disenfranchises the mainstream electorate that would prefer moderate candidates.
+1.6.4.1.1. Con: The American political parties are relatively closely alligned in some policies when compared to systems with more than 2 parties.
+1.6.4.2. Con: Two party systems have the chance to produce political momentum to make wide ranging changes because it is always one party dominating.
+1.6.4.2.1. Con: Two-party systems kill political momentum, as each winner tries to undo all of the previous winner's work.  Electing more moderate candidates would avoid this flip-flopping.
+1.6.4.3. Con: outside the United States, FPTP voting has no tendency at all to produce two party politics
+[blogs.lse.ac.uk](http://blogs.lse.ac.uk/politicsandpolicy/duvergers-law-dead-parrot-dunleavy/)
+1.6.5. Pro: FPTP is [precinct-summable](http://wiki.electorama.com/wiki/Summability_criterion).
+1.6.6. Con: The FPTP system encourages strategic voting. \(aka [Tactical voting](https://en.wikipedia.org/wiki/Tactical_voting)\)
+1.6.6.1. Pro: Because of this, third parties are poorly represented under FPTP.
+1.6.7. Con: Voter participation is extremely low in the US because many voters feel the available candidates do not represent them.
+1.6.7.1. Con: A change in voting system may not improve participation.
+1.6.7.2. Pro: Ability to vote for candidates that closely align with a voter’s personal beliefs is an incentive to vote. Alternative systems make this more likely to occur.
+1.6.8. Pro: As a result of FPTP, the two party system in the US has great internal diversity.
+1.6.8.1. Con: Extreme political views tend to be rejected or marginalized in the main political parties.
+1.6.8.2. Pro: Party members are allowed to propose directions and agendas for their parties at caucuses.
+1.6.8.3. Pro: There are no restrictions on who can join either political party.
+1.6.8.4. Pro: Because a large percentage of Americans are affiliated with the political party, a large proportion of the potential diversity is also captured by the internal membership of the parties.
+1.6.8.5. Con: Smaller parties while being less internally diverse would better represent the needs of their constituencies.
+1.6.9. Con: There are multiple instances of FPTP being repealed, implying it won't last long. [www.fairvote.org](http://www.fairvote.org/rcv_in_us_elections)
+1.6.10. Con: FPTP is one of the least expressive voting methods.
+1.6.10.1. Pro: FPTP effectively forces voters to rank/rate all but one of the candidates the same.
+1.6.11. Con: FPTP results in "[wasted losing​ votes](https://en.wikipedia.org/wiki/Wasted_vote)".
+1.6.11.1. Con: It does, but some of that can be addressed by mandating that states use proportional allocation of electoral votes \(vice winner-takes-all\)
+1.6.11.1.1. Con: This would be no different than popular vote. Meaning a candidate could ignore 95% of the counties in the US and still win.
+1.6.11.1.1.1. Con: Under a national popular vote, a candidate who lost 95% of US counties would lose.
+1.6.11.1.1.2. Con: Proportional allocation of electors would not be equivalent to a popular vote.  Wyoming voters would still have 3.6 times as much voting power as California voters.
+1.6.12. Con: The usage of FPTP is a threat to the concept of democracy the constitution was built upon.
+1.6.13. Pro: Rather than changing from the FPTP system, some of the issues with how it's implemented should be tried first.  First and foremost \(esp. in Presidential elections\), every state should award it's electoral votes \(EVs\) proportionally instead of in winner-takes-all fashion.  So, if a state has 10 EVs and people vote for 3 candidates 40, 30, and 20%, then candidate A gets 4  EVs, Candidate B gets 3 EVs, and Candidate C gets 2 EVs.  This would largely address the representation issue of FPTP.
+1.6.13.1. Con: The system you are suggesting is not FPTP. It is actually a version of [asset voting](http://rangevoting.org/Asset.html)
+1.6.13.1.1. Con: No, Asset Voting is different. In it, the candidates have to negotiate to transfer their votes.
+1.6.13.2. Con: This would mean that popular vote wins the election 100% of the time. Our system is specifically designed to avoid that in order to also prevent candidates from winning by only winning 10 cities \(like in the US\)
+1.6.13.2.1. Con: -> See 1.6.11.1.1.2.
+1.6.13.2.2. Con: The 10 biggest cities do not add up to anything near 50% of the electorate.
+1.6.14. Pro: It is extremely simple and intuitive.
+1.6.14.1. Pro: The US populace already has trouble encouraging participation in voting, complicating the procedure may cause additional absences from the poll.
+1.6.14.2. Con: FPTP requires voters to be election strategists, following news and polls, and guessing what other voters are going to do, because of the threat of "wasting a vote". This is not simple.
+1.6.14.3. Con: People vote for multiple candidates at varying sizes of locality, determined by arbitrary lines drawn by the politicians for which they are voting. It is not simple.
+1.6.14.3.1. Con: "The people" draw these lines by voting for those that are in office. If the district lines are unacceptable, vote the politician\(s\) out of office, call for resignation or sue.
+1.6.14.3.1.1. Con: Except that those of the gerrymandering party want the gerrymandering to stay, and those of the victim party have insufficient votes to take back control and draw fair districts.
+1.6.14.3.1.2. Con: The major parties in the US are [complicit](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States#Bipartisan) in the gerrymandering scheme with one another, so voting one of the two out in favour of the other will not end gerrymandering, it will only result in a shift in "swing" districts to the new party in power.
+1.6.14.3.2. Con: This comment reflects the complexity of our government, not the complexity of FPTP.
+1.6.14.4. Pro: You can not name a simpler voting system.
+1.6.14.4.1. Con: Approval voting is FPTP voting without the extra step of discarding ballots with more than one candidate selected.
+1.6.15. Con: FPTP has [a best-case Voter Satisfaction Efficiency of 86%](https://electology.github.io/vse-sim/vse.html), which is worse than any other method simulated. It's also worse than the worst-case VSEs of 3-2-1, STAR, and Ranked Pairs voting.
+1.6.16. Pro: Changing systems could be costly.
+1.6.16.1. Pro: The current government would be strongly opposed to changing voting structure.
+1.6.16.2. Con: If problems with the current voting system lead to the dissolution of the US government, then the cost would have been immaterial.
+1.6.16.3. Con: Replacing FPTP with approval voting would not be costly.
+1.6.16.4. Con: Choosing winners who are polar opposites every other election is much more costly, as they repeatedly undo each other's work.
+1.6.16.5. Pro: A change of Britain's voting system to IRV/AV was estimated to cost about [250mn pounds](http://www.dailymail.co.uk/news/article-1357038/New-voting-switch-cost-250m.html).
+1.6.16.6. Pro: Next to economic cost, every citizen pays an opportunity cost because they have to learn how the new system works.
+1.7. STAR Voting \(Score Then Automatic Runoff\).
+Described Here: [www.equal.vote](http://www.equal.vote)/
+1.7.1. Pro: [STAR voting is precinct-summable.​](http://www.equal.vote/star-vs-irv#simplicity)
+1.7.1.1. Con: STAR is no more precinct summable than IRV; where STAR can tally scores and a preference matrix, IRV can tally ballot groupings \(ie # A\>B\>C\>D, # A\>B\>D\>C, ...\)
+1.7.1.1.1. Con: In IRV, there are [Σ\(k=0..n, n!/k!\)-1](https://oeis.org/A007526) possible ballot groupings, where n is the number of candidates.  
+
+For example, with 6 candidates, STAR would require keeping 6×6+6 = 42 tallies and transmitting them.  IRV would require sorting ballots into 1,956 different piles and transmitting the number in each pile.
+1.7.1.1.2. Con: In the Burlington, VT 2009 election, there were [384 different ballot types out of 8980 voters](http://rangevoting.org/JLburl09.txt).
+1.7.2. Con: In some scenarios, STAR voting can choose a majority winner over a utilitarian winner.  \(In [the pizza example](https://leastevil.blogspot.com/2012/03/tyranny-of-majority-weak-preferences.html), for instance, pepperoni would win the runoff and the vegetarian friend would go hungry.\)
+1.7.2.1. Con: This is true if there is only one option that can both meet the deeply held needs of a large minority while also appealing broadly to the majority. For pizza, this could be the case; in politics, it's much less likely. Candidates would be aware of the Score Round advantage of appealing to the impassioned minority so long as it doesn't significantly hurt their standing with the majority, and so two candidates that are acceptable to the minority are likely to advance to the runoff round.
+1.7.2.1.1. Con: Two centrists may make it to the runoff, but the runoff selects for \(and thus incentivizes\) appeal to the majority, even if there is broader support for the runner up.
+
+As such, candidates appeal to a \(simple\) majority will always be their top priority, and will only care about the minority if they cannot make the top two without them.
+1.7.3. Pro: Assuming voters always use the full range for their scores, [STAR voting is more likely than Score to pick the winner that best represents public opinion](https://www.youtube.com/watch?v=-4FXLQoLDBA).
+1.7.3.1. Con: Such simulations assume a unimodal distribution, which [does not hold for the US](http://www.gotoquiz.com/politics/poli-compare-parties.html).  Because of that false assumption, it dismisses the utility losses of the population whose distribution is not centered on the "single voter" point, as illustrated by the [Pizza Example](https://leastevil.blogspot.com/2012/03/tyranny-of-majority-weak-preferences.html)
+1.7.3.1.1. Con: Despite increasing political polarization, the United States is [still a unimodal distribution](http://www.people-press.org/2017/10/05/1-partisan-divides-over-political-values-widen/1_4-17/).
+1.7.3.1.1.1. Con: A highly questionable claim, given the title of the linked article, "[Partisan divides over political values widen](http://www.people-press.org/2017/10/05/1-partisan-divides-over-political-values-widen/1_5-15/)" and the immediately following chart which demonstrates that the flat area around the overall median is the result of [two distinct distributions with decreasing overlap](http://www.people-press.org/2017/10/05/1-partisan-divides-over-political-values-widen/1_5-15/).
+
+Were it truly unimodal, there wouldn't be obvious, and obviously disparate local maxima, as in the "unimodal distribution" graph
+1.7.3.2. Con: The simulations in question presume a Majoritarian "Gold Standard." The so called "[ideal, single voter model](https://www.youtube.com/watch?v=-4FXLQoLDBA&t=4m30s)" gives greater preference to a simple majority's preference than it does to the overall preference of the entire electorate, as in the [Pizza Example](https://leastevil.blogspot.com/2012/03/tyranny-of-majority-weak-preferences.html)
+1.7.4. Pro: STAR voting eliminates the possibility of [spoilers](https://en.wikipedia.org/wiki/Spoiler_effect).
+1.7.4.1. Pro: This would lead to a drop in polarization and partisan anger. Voters would have more freedom to vote honestly, candidates would have more freedom to run honestly.
+1.7.5. Pro: STAR voting minimizes [tactical voting](https://en.wikipedia.org/wiki/Tactical_voting).
+1.7.5.1. Con: The Runoff step may encourage voters to exaggerate support for compromise candidates in an effort to help get them to replace the voter's opposition candidate as one of the runoff candidates \(ie, 9/6/3/0 -\> 9/8/1/0\), making the actual scores less meaningful.
+1.7.5.1.1. Con: The runoff step is only influenced by the general preference of the voter. ie: changing one's vote from 9/6/3/0 to 9/8/1/0 would change that vote's influence on the score step but not the runoff step.
+1.7.5.1.2. Con: This example would increase the chances that your least favorite beats your second-least favorite.
+1.7.5.1.2.1. Con: The Runoff step would still prefer C \(3rd favorite\) over D.  The only way it could hurt C would be if it put B into the runoff step instead of C.
+1.7.6. Pro: STAR voting encourages candidates to campaign honestly.
+1.7.6.1. Con: There is little to suggest that campaigning will be conducted any more honestly. In fact, a less certain victory will likely ensure more deceit during a campaign.
+1.7.7. Pro: STAR voting encourages candidates to appeal to a wide range of voters.
+1.7.7.1. Pro: Because being given a 2 instead of a 0 is just as useful as being given a 9 instead of a 7, a candidate can gain more ground, potentially, by convincing opposed voters that they aren't terrible, than by energizing voters who agree with them.
+1.7.7.2. Con: -> See 1.7.5.1.
+1.7.8. Pro: STAR voting encourages voters to give real consideration to the relative strength of candidates they disagree with.
+1.7.9. Con: STAR has only been subject to three years of theoretical analysis and has not been used for any local election. It is too early to adopt STAR for statewide races.
+1.7.9.1. Con: If we never tried anything that had never been previously tried, we would never try anything new.
+1.7.10. Con: Failing the [favorite betrayal criterion](https://wiki.electorama.com/wiki/Favorite_Betrayal_criterion) is rare in STAR voting, but not impossible
+1.7.11. Con: If voters vote honestly, it is possible for voters to get a result that is worse than the result they would have gotten if they had not voted at all. While the chance of this happening in STAR voting may be a lot lower then the chance of it happening in a lot of other voting systems, it is not impossible.
+1.7.12. Con: As Score Voting is a Likert scale used as interval data, [this makes a false presumption that all voters treat an arbitrary numeric interval in the same manner](http://poincare.matf.bg.ac.rs/~kristina/topic-dane-likert.pdf). This gives disproportionate influence to voters with strongly expressed preferences, and those that strategically game the ballot.
+1.7.12.1. Con: [The leading model](http://www.kellogg.northwestern.edu/faculty/spenkuch/research/voting.pdf) of voting behaviour is the Expressive model, not the Pivotal model.
+Voters care more about self-expression than tipping the balance, almost to exclusion.
+[This paper](http://users.ox.ac.uk/~nuff0084/FisherTT.pdf) analysing tactical voting in the UK shows that it is unrelated to marginality, and after accounting for selection bias of low turnout contention of 3rd parties are also a non-factor.
+Rational actors don't vote because of the paradox of voting.
+1.7.12.2. Con: Voters would be aware that their scores are just used in a simple count, same as their marks are used in a simple count in FPTP. The numbers would not be associated with arbitrary terms as with the Likert Scale.
+1.7.12.3. Con: This can be corrected for mathematically while maintaining the accuracy of the voters expressed preference. Automatically adjusting the scores of every ballot to contain the entire range would ensure no voter unintentionally reduced their votes impact. Furthermore, the degree and direction of adjustment could be logged, and the cumulative adjustment applied to the scores of all candidates. That means if many voters gave no candidates a top score, the score of all candidates would be reduced.
+1.7.12.4. Con: Voters from many ideologies COULD vote for third party candidates, or write in candidates under the current system, and by doing so they would be casting an unstrategic vote. The vast majority of voters however vote for one of the two major party candidates, because the messaging about "throwing your vote away" is so pervasive. Under a Score system there would be similar messaging about not using the whole range, since no party would want their voters to accidentally weaken their votes.
+1.7.12.5. Con: An even stronger claim could be made of the intervals between ranks. The difference between 1st and 2nd could be almost-equals or polar opposites.
+1.7.12.6. Con: -> See 1.1.8.3.1.
+1.7.13. Pro: In simulations, the worst-case  [Voter Satisfaction Efficiency](https://electology.github.io/vse-sim/vse.html) of 10-point STAR voting is better than the best-case performance of IRV, Majority Judgment, and Plurality.
+1.7.14. Con: -> See 1.7.5.1.
+1.7.15. Pro: Ratings voting systems collect more information from voters than ranking systems \(degree of preference and indifference between candidates\).
+1.7.16. Con: In 3-candidate races, if all voters naively Score the Dem max and GOP min, or vice versa, then either the dem or the GOP must win. This, however, is not always true with 4+ candidates.
+1.8. Borda Count.
+Described here: [en.wikipedia.org](https://en.wikipedia.org/wiki/Borda_count)
+1.8.1. Con: Borda count behaves poorly when voters are strategic.
+1.8.1.1. Pro: The [DH3 pathology](http://scorevoting.net/DH3.html) in particular can cause the candidate least preferred by all voters to be elected.
+1.8.2. Pro: Borda count is not majoritarian: It chooses broadly-supported consensus candidates rather than polarizing candidates that are only supported by half of the population.
+1.8.2.1. Con: Score voting does this, but better.
+1.8.2.2. Con: Borda voting forces candidates to be scored as "consensus" if there are several main rivals and a dozen nonentities. Result: a nonentity wins.
+1.8.3. Con: The party that runs the most ridiculously huge mob of clones is much more likely to claim victory.
+1.8.4. Con: Borda count has [a worst-case Voter Satisfaction Efficiency of -11%](https://electology.github.io/vse-sim/vse.html), which is dramatically worse than any other method simulated. It's also worse than the VSE of selecting a candidate completely at random \(0%\).
+1.9. The Top-Two Runoff \(or Two-Round System\).
+Described here: [en.wikipedia.org](https://en.wikipedia.org/wiki/Two-round_system)
+1.9.1. Pro: Top-two runoff has a history of use in many countries.
+1.9.2. Con: Top-two runoff suffers from vote-splitting.
+1.9.3. Con: Top Two in the first round is heavily vulnerable to strategy because it is still a FPTP ballot, even if it selects 2 finalists.
+1.10. Majority Judgment
+Described here: [en.wikipedia.org](https://en.wikipedia.org/wiki/Majority_judgment)
+1.11. Score voting \(aka Range voting\)
+Described here: [en.wikipedia.org](https://en.wikipedia.org/wiki/Range_voting)
+and here: [youtube.com](https://www.youtube.com/watch?v=e3GFG0sXIig)
+1.11.1. Pro: Score Voting is the the system used by Kialo for determining the strongest argument, thus it has the endorsement of the host of these debates.
+1.11.2. Pro: Largely retains the positive points of FPTP
+1.11.2.1. Pro: Party Agnostic: It keeps the same separation between the party system and voting system that FPTP does.
+1.11.2.2. Pro: Stronger Constituent Links than FPTP:  It preserves the single-member constituencies, and a scored ballot lets the winner see a detailed breakdown of all of their constituents' politics.
+1.11.2.3. Pro: Cheap Elections: Score Voting uses the same single-round local count that makes FPTP so cheap
+1.11.2.4. Pro: Voting systems are under constant reform, in terms of boundaries, enfranchisement, secret balloting, campaigning restrictions, voting machines. Using a Score Ballot would be no more radical reform than these, as it largely preserves the features of FPTP such as single-member constituencies, and single-round local count, and the selection of the candidate with the largest total.
+1.11.2.5. Pro: Score Voting is [precinct-summable](http://wiki.electorama.com/wiki/Summability_criterion).
+1.11.3. Pro: Score Voting eliminates the need for primary elections.
+1.11.3.1. Pro: Only needing one election per seat should save tax dollars.
+1.11.4. Con: When voters use the full range for their scores, Score is biased unfairly in favor of candidates who are surrounded by other candidates in opinion space, even if this is far from the center of voter preferences. \(See [comment on Animated Voting Methods​](https://www.youtube.com/watch?v=-4FXLQoLDBA&lc=Ugg99fyetoWS_3gCoAEC.8TsiPckd7Xq8Tsm5UzJpk0).\)
+1.11.4.1. Con: This bias only exists in models that assume a level of tactical voting far higher than is present in any empirical evidence, and is not consistent with the fact that the expressive voter model is the leading model of voting behaviour, not the pivotal model.
+1.11.4.2. Con: Selecting moderates may be preferable to selecting extremists, and the resultant swing between poles, especially in single winner contests.
+1.11.4.2.1. Con: These "moderates" are moderate relative to the other candidates; not moderate relative to the voters.  This may unfairly favor extremists from the electorate's perspective.
+1.11.4.2.1.1. Con: Such candidates as can win a Score vote are likely not actually extremist, simply not dictated by the majority \(see the [Pizza Scenario\)](https://leastevil.blogspot.com/2012/03/tyranny-of-majority-weak-preferences.html)
+1.11.4.3. Con: Informal surveys such as [this](https://kieron6.typeform.com/report/YwA3ws/eKme) and [the British Election Study](http://www.britishelectionstudy.com/data/)'s party ratings as well as these more direct studies indicate that the majority of voters do not use the full range so this would not be an issue. [French2007studies](http://rangevoting.org/French2007studies.html) [OrsayTable](http://rangevoting.org/OrsayTable.html) [electology.org](https://electology.org/blog/honest-voters-had-preference-2016)
+1.11.4.4. Pro: While voters may not use the full range in general, polarising/extremist candidates would likely elicit not just the full range usage, but also min-max exaggeration. Can be seen in [this survey](https://kieron6.typeform.com/report/YwA3ws/eKme) in which the BNP received min-scores far in excess of any other party even after accounting for the left-leaning nature of the respondents.
+1.11.5. Pro: Score voting encourages candidates to appeal to a wide range of voters.
+1.11.5.1. Pro: -> See 1.7.7.1.
+1.11.6. Pro: Score voting is immune to the [spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect).
+1.11.6.1. Pro: Cardinal Voting systems have a [Nursery Effect](http://rangevoting.org/NurseryEffect.html) that helps 3rd Parties become viable.
+1.11.6.2. Pro: Because of this, 3rd party candidates aren't discouraged from participating.
+1.11.6.2.1. Pro: This also applies to Party Internal challengers who fear splitting their party's vote.
+1.11.7. Pro: Score voting is quite simple and straightforward.
+1.11.7.1. Pro: Score Voting has a built-in "None of the Above" option: Giving 0 scores to all candidates.
+1.11.7.1.1. Con: Without a "minimum support threshold" or similar, giving all candidates minimum scores does not have meaningful impact, even if a majority does so.
+1.11.7.2. Pro: Very little opportunity for [invalid ballots](https://en.wikipedia.org/wiki/Spoilt_vote).
+1.11.7.2.1. Con: In the 2017 Green Party of Utah elections, [9 out of 34 ballots \(26%\)](https://docs.wixstatic.com/ugd/2eb2bc_e2f2d7cbefa34669bd006c2d7c79e109.pdf) had extra marks on them, indicating the voter had changed their mind or made a mistake.
+1.11.7.2.2. Pro: Score voting reduces the ballot spoilage rate by a 3rd \(Source: [www.youtube.com](https://www.youtube.com/watch?v=2q_eMUGCU5U\))\)
+1.11.7.3. Pro: Limits Tactical Voting: There's no more choosing between voting for your favourite or voting for a viable candidate.
+1.11.7.3.1. Pro: [The leading model](http://www.kellogg.northwestern.edu/faculty/spenkuch/research/voting.pdf) of voting behaviour is the Expressive model, not the Pivotal model. This indicates Score Voting would have near zero tactical voting, as honest votes are maximally expressive.
+1.11.7.3.1.1. Pro: [This paper](http://users.ox.ac.uk/~nuff0084/FisherTT.pdf) analysing tactical voting in the UK shows that it is unrelated to marginality, and after accounting for selection bias of low turnout contention of 3rd parties are also a non-factor. Indicating tactical voting is not related to casting a pivotal vote.
+1.11.7.3.1.2. Pro: [The paradox of voting](https://en.wikipedia.org/wiki/Paradox_of_voting) shows that as voters are rational actors under the pivotal voter model, they wouldn't turnout to vote
+1.11.7.3.1.3. Pro: [The evidence](http://gruener.vwl.uni-mannheim.de/fileadmin/user_upload/gruener/pdf/D_Mueller_TacticalVoting.pdf) shows that voters aren't tactical voting in line with tactical voting guide saying "keep the Tories out".
+This prompting does create behaviour but it isn't behaviour in line with the pivotal voter model.
+1.11.7.3.2. Pro: True honesty is often closer to the strategically optimal vote than the min-maxing a tactical voter would use: [www.rangevoting.org](http://www.rangevoting.org/RVstrat.ps.)
+1.11.7.3.3. Pro: Empirical Evidence indicate voters choose to vote honestly when using Score Voting. \[[1](http://rangevoting.org/French2007studies.html)\]\[[2](http://rangevoting.org/OrsayTable.html)\]\[[3](https://electology.org/blog/honest-voters-had-preference-2016)\]\[[4](http://www.britishelectionstudy.com/data/)\]
+1.11.7.3.4. Pro: Cardinal Voting systems [guarantee](http://scorevoting.net/FBCsurvey.html) it is never favourable to betray your favourite candidate.
+1.11.7.3.5. Pro: [Simulations](http://www.rangevoting.org/RVstrat3.html) indicate that honest voting is worth at least 2/3x a strategic vote. Compare FPTP where a vote for anyone but the top 2 is worth 0x a strategic vote in a marginal seat, or nothing at all in a safe seat.
+1.11.8. Con: Score voting is vulnerable to [bullet voting](https://en.wikipedia.org/wiki/Bullet_voting).
+1.11.8.1. Con: Bullet voting is a worse strategy than honest voting with enough viable candidates, and Score Voting is conducive to a large number of viable candidates.
+1.11.8.2. Con: There is scientific evidence that people trend towards "ethical, expressive" voting when the numbers of voters in an election are large.  As such, Bullet Voting and Min/Max voting are both unlikely in real world elections.  See: [Feddersen et al 2009](https://www.cambridge.org/core/journals/american-political-science-review/article/moral-bias-in-large-elections-theory-and-experimental-evidence/F264CE61DE4F7BD6CED899A6EBA4DF11)
+1.11.8.3. Con: Bullet-voting is rare in real-world Score Voting elections.
+1.11.8.3.1. Pro: In the 2017 Green Party of Utah elections, [there were zero bullet votes](https://docs.wixstatic.com/ugd/2eb2bc_e2f2d7cbefa34669bd006c2d7c79e109.pdf).
+1.11.8.3.2. Pro: In a [2018 straw poll](https://www.counted.vote/diving_into_our_straw_poll_data_bullet_anti_voting) in Washington's 10th Congressional District, only 11% of voters bullet-voted on their Score ballots.
+1.11.9. Con: Score Voting fails the [later-no-harm criterion](https://en.wikipedia.org/wiki/Later-no-harm_criterion).
+1.11.9.1. Con: No voting system permits both Honest First Choice and Honest Second Choice to always be strategically optimal according to the [Gibbard-Satterthwaite theorem](http://rangevoting.org/LNH.html). Uniquely Score Voting ensures Honest First Choices & Semi-Honest Second Choices are strategically optimal.
+1.11.9.1.1. Con: the simple Ranked-Order Ballot does not harm your first choice, by simply ranking your second choice.  it is true that IRV has harmed some voters' political interest by *helping* their least favorite candidate simply by marking their first choice as #1 instead of elevating their #2 to first choice.  but that's different.
+1.11.9.2. Pro: Score voting forces the voter to vote tactically by presenting the voter an initial question of how much should they score their second-choice candidate. Too high of a score means that their second-choice might beat their first-choice and too low of a score means their third-choice might beat their second-choice.
+1.11.9.2.1. Con: This "problem" creates an incentive to vote honestly, which compounds the extant trend towards "ethical self expression" in found in [Feddersen et al. 2009](https://www.cambridge.org/core/journals/american-political-science-review/article/moral-bias-in-large-elections-theory-and-experimental-evidence/F264CE61DE4F7BD6CED899A6EBA4DF11)
+1.11.9.2.2. Con: A voter giving their second-choice candidate a high score implies that they won't mind too much if their second-choice beats their first.  This is not a terrible scenario to them and there is thus not that much incentive to strategize.
+1.11.9.2.3. Con: Without certainty about how others are going to vote, this implies that an honest ballot is actually the best strategy.
+1.11.9.2.4. Con: ["A sincere score voting ballot has about 91% \(or more\) of the effectiveness of a perfectly strategic vote \(in the 3-candidate study; 80% or more in the 5-candidate case\), and it requires essentially no thought and no math."​](https://electology.org/score-voting-threshold-strategy)
+1.11.9.3. Con: Later No Harm implies that the system ignores much of your ballot and can thwart consensus candidates. Source: FPTP and IRV.
+1.11.10. Pro: Makes every voter a swing voter, as getting voters to change their scores is far easier than changing their favourites.
+1.11.11. Pro: Addresses many of the factors reducing voter turnout.
+1.11.11.1. Pro: Score Voting increases election competition [which increases turnout](http://www.rangevoting.org/StudiesTurnout.html). [\[2\]](https://cedar.wwu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1042&context=wwu_honors)
+1.11.11.1.1. Pro: [Cardinal Voting makes](https://medium.com/\@Googolbyte/60-of-seats-were-decided-before-a-single-vote-was-cast-we-need-electoral-reform-efa73aea7cea) every seat very marginal and increases the number of viable candidates to 3+, which increases election competitiveness.
+1.11.11.2. Pro: [The viability of 3rd parties has a big effect on the turnout of 3rd party supporters](http://users.ox.ac.uk/~nuff0084/FisherTT.pdf). The lack of a Spoiler Effect, and presence of a Nursery Effect would increase turnout among 3rd party supporters
+1.11.11.3. Pro: Suppression of voter turnout based on demographic differences between viable candidates would be less successful with Score Voting, as parties main competitors would be similar parties.
+1.11.11.4. Pro: It's a single-round election system so there's no concern over decreased turnout for runoff rounds.
+1.11.11.5. Pro: Under the Expressive Voter model of Voting Behaviour, voters go to the polls to express themselves. Therefore as Score Voting is highly expressive, it would increase turnout.
+1.11.11.6. Pro: [Political trust/satisfaction impacts voter turnout](https://link.springer.com/article/10.1057/palgrave.cep.6110113). Bayesian Regret models show Score Voting minimises voter dissatisfaction with the result, which should in turn increase turnout.
+1.11.11.7. Pro: The validity of a blank ballot \(all zero scores\) as a protest vote means turning out to vote for no one isn't a waste, increasing turnout among those who dislike all candidates.
+1.11.11.7.1. Pro: This also undermines the objection to compulsory voting that voters who don't want to vote would just protest vote, as that is a valid form of voting within Score Voting.
+1.11.11.8. Pro: As Score Voting is [precinct-summable](http://wiki.electorama.com/wiki/Summability_criterion), the costs associated with making voting more accessible to voters is minimal.
+1.11.12. Con: -> See 1.7.12.
+1.11.13. Pro: In simulations, Score Voting produces higher [Voter Satisfaction Efficiency](https://electology.github.io/vse-sim/vse.html) than any other system when voters are 100% strategic.
+1.11.14. Pro: [Eliminates safe seats](https://medium.com/\@Googolbyte/60-of-seats-were-decided-before-a-single-vote-was-cast-we-need-electoral-reform-efa73aea7cea), giving voters more choice.
+1.11.14.1. Pro: As Score Voting has No Vote-Splitting, even ideological polarised constituencies can be competitive with the same/similar parties putting multiple candidates on the ballot.
+1.11.14.2. Pro: The Nursery Effect, would help new and emerging parties increase the number of competitive candidates on the ballot further reducing the number of safe seats.
+1.11.14.3. Pro: Even with a busier ballot, Score Voting still allows voters to make a clear-cut choice between the two main parties.
+1.11.14.4. Pro: Undermining safe seats, makes gerrymandering more difficult if not impossible.
+1.11.14.5. Pro: Absent of both the spoiler effect and [candidate cloning effect](http://rangevoting.org/CandCloneSumm.html). Score Voting would allow voters to vote for people not parties. The same person could put multiple parties on the ballot and vice versa.
+1.11.15. Pro: Unlike ranked-choice systems, there is never any strategic incentive to swap preferences while rating candidates.  \(There is incentive to exaggerate, but never to score A \> B when your true preference is B \> A.\)
+1.11.16. Pro: Score voting meets the [favorite betrayal criterion](https://wiki.electorama.com/wiki/Favorite_Betrayal_criterion), so it is always strategically safe to give your true favorite candidate the highest score on your ballot.
+1.11.17. Pro: -> See 1.7.15.
+1.11.18. Pro: Since many voters' small adjustments in scores for a candidate sum into large changes in overall score, and since it allows many similar candidates to run simultaneously, Score voting makes polling and prediction of winners volatile/uncertain, which in turn makes strategic voting more difficult/dangerous, and encourages honest voting.
+1.11.19. Con: Score voting is vulnerable to strategic exaggeration
+1.11.19.1. Con: In a [2018 straw poll](https://www.counted.vote/diving_into_our_straw_poll_data_min_max_voting) in Washington's 10th Congressional District, less than 18% of voters used min/max voting or bullet-voting on their Score ballots.
+1.11.20. Pro: No [Wasted Votes](https://en.wikipedia.org/wiki/Wasted_vote) as Score Voting has voters score every candidate individually, ensuring their vote counts towards the winner.
+1.11.20.1. Con: The most common definition of a wasted vote makes the concept of wasted voting very difficult to apply to alternative voting methods like score voting.
+1.11.20.2. Con: Score Voting only eliminates "wasted losing votes". Extra winning votes would be considered wasted.
+1.11.20.2.1. Con: One could argue that my vote for the winner also helped push back some candidates that did not win and I gave low scores to.
+1.11.21. Pro: [Ka-Ping Yee Simulations](http://zesty.ca/voting/sim/) show that Cardinal Voting has no underlying bias towards extremism or centrism.
+1.11.21.1. Con: Yee's simulations assume 100% honest voting, without even normalization.  With normalization, Score voting is biased towards "centrists" \(relative to the other candidates\).  [rangevoting.org](http://rangevoting.org/Extremism.html) [www.youtube.com](https://www.youtube.com/watch?v=-4FXLQoLDBA)
+1.11.22. Pro: Strong Governance: [Simulations of GE2017](https://imgur.com/a/U2O1T) show it would've produced a one-party majority when FPTP failed to.
+1.11.22.1. Pro: Coalition Governments can be strong and stable, Large Parties are just coalitions of factions in the first place.
+1.11.23. Pro: [The risk of ties](http://rangevoting.org/TieRisk.html) under Cardinal Voting systems is very low, avoiding the expenses associated with recounts and lawsuits.
+1.11.24. Pro: Allows voters to fully express their political voice, as they can independently score each candidate.
+1.11.24.1. Pro: It allows the clear expression of tied or close preferences between two candidates, unlike most other voting systems.
+1.11.24.2. Pro: The [Paradox of voting](https://en.wikipedia.org/wiki/Paradox_of_voting) shows that voters go to the polls for self-expression not self-interest, so using a voting system that maximizes expression is imperative.
+1.11.24.3. Pro: Informal surveys such as [this](https://kieron6.typeform.com/report/YwA3ws/eKme) and the [British Election Study](http://www.britishelectionstudy.com/data/)'s party ratings as well as these more direct studies indicate that voters use the expressiveness of a cardinal ballot to its fullest. [French2007studies](http://rangevoting.org/French2007studies.html) [OrsayTable](http://rangevoting.org/OrsayTable.html) [electology.org](https://electology.org/blog/honest-voters-had-preference-2016)
+1.11.25. Pro: Assuming that voters don't highly score the worst candidate after the introduction of a non-viable even-worse candidate, Cardinal Voting systems will always elect the Condorcet winner. [Simulations](http://scorevoting.net/StratHonMix.html) also indicate that they are the most effective means of electing Condorcet winners even with strategic voters.
+1.11.26. Pro: [Bayesian Regret](http://rangevoting.org/BayRegDum.html) models indicate it minimises the number of "sore losers" \(which should be preferable for those who call voting reformers sore losers\)
+1.11.27. Pro: It holds a long history of successful use.
+1.11.27.1. Pro: A 3-option version of SV is used to elect the [Secretary-General of the UN](https://en.wikipedia.org/wiki/United_Nations_Secretary-General_selection,_2016).
+1.11.27.2. Pro: [Honeybees](http://rangevoting.org/ApisMellifera.html) have used a Cardinal Voting system for 20-50 millions years
+1.11.27.2.1. Con: Claiming that bee communication is "voting" is very far-fetched.
+1.11.27.3. Pro: [Ancient Sparta](http://rangevoting.org/SpartaBury.html) used a Cardinal Voting system for over 1000 years. Potentially the record holder for longest continual use of a voting system of any Government.
+1.11.27.3.1. Con: This is not a true score voting system, but a shouting match, which the "party" with the loudest "voters" won, even if there were not as many people in that "party".
+1.11.27.3.1.1. Con: The same "fewer but more passionate" principle applies to a scenario where 40% vote their candidate 9 while 60% vote their candidate 5 \(averaging 3.6 vs 3.0\)
+1.11.27.4. Pro: [The Venetian Empire](http://rangevoting.org/VenHist.html) used a 3-point Range Voting system for over 500 years, potentially making it the 2nd-longest continual user of a voting system of any Government.
+1.11.27.4.1. Pro: This use continued until Napoleon conquered Venice.[en.wikipedia.org](https://en.wikipedia.org/wiki/Doge_of_Venice#The_last_Doge)
+1.11.27.5. Con: The implementation of Cardinal Voting in the 3 years prior to the collapse of the [Soviet Union](http://rangevoting.org/SovietApp.html) empowered local leaders contributing to its collapse.
+1.11.27.5.1. Con: Empowering the electorate and local leadership only destabilizes governments that do not reflect the wishes of those empowered groups.
+1.11.27.6. Pro: Olympics have used Range Voting for over 100 years to select winners. A temporary switch to IRV in [1995](http://rangevoting.org/OlympBonaly.html) caused embarrassment and outrage, leading to the re-adoption of the Cardinal System.
+1.12. Combined approval voting \(aka Evaluative Voting, Dis&approval voting\) Described here: [en.wikipedia.org](https://en.wikipedia.org/wiki/Combined_approval_voting)
+1.12.1. Pro: [CAV is compatible with existing ballots and voting machines that support ballot initiatives.](https://www.rangevoting.org/OssipoffEnd.html)
+1.12.2. Con: The coarseness of the scale can lead to unrepresentative outcomes.
+1.12.3. Pro: It can be used as a temporary transition to 10-value Score Voting if a particular precinct does not have the resources to adopt Score Voting for a few years.
+1.12.4. Con: Unknown lunatics can win if people mostly leave them blank and the front runners have under 40-50% approval.

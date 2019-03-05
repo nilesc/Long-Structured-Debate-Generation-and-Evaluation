@@ -1,0 +1,76 @@
+Discussion Title: Is Science Similar to Art in the Way of Viewing the World?
+
+1. Science is Similar to Art in the Way of Viewing the World.
+1.1. Con: Art involves a lot of personal context and choice and strives to generate opinions and emotion. Science involves mathematics and engineering, and strives to be universal with a solid grounding in physical evidence.
+1.1.1. Pro: Science strives for an objective assessment of reality, under the assumption that the ultimate fabric of the cosmos is a unique and objective truth. Art builds upon the multitude and diversity of perceptions and thought processes to construct subjective representations of the world which can be aesthetically appreciated.
+1.1.2. Con: Both art and science are forced to see the world objectively for their purpose to succeed; even abstract arts are trying to represent something from the real world, be it tangible or conceptual.
+1.1.2.1. Con: It is not possible to 'see' the world objectively. The act of seeing is a purely subjective experience.
+1.1.2.2. Con: Impressionist paintings are based on subjectivity of colour perception.
+1.1.2.3. Con: Abstractionist art by far [not always](https://www.wassilykandinsky.net/book-117.php) strives to represent something real.
+1.1.3. Pro: Science is designed to be immovable; art is, by nature and design, perpetually moveable.
+1.1.4. Con: Leonardo da Vinci did not distinguish between Science and Art. If he were alive today, he would be a video game designer, a creator of VR and AR, while also designing drones for human air transport. He would work for Tesla NS SpaceX on the side.
+1.1.4.1. Con: This is exclusively supposition.
+1.1.5. Con: Mathematics may be regarded as a form of art, as the most abstract part of it seeks for beautiful and enlightening theories rather than solutions to problems, even those of purely mathematical character.
+1.2. Con: Art is sometimes more interested in exploring ambiguities or ironies than it is in finding definitive answers.
+
+Science, on the other hand, is fundamentally a search for answers; it is a method of constructing models to help us approximate "the truth."
+1.2.1. Con: Art seeks to explain the questions which science can fail to properly word; the knowledge of how space is constructed is valuable, but the extraordinary photography and artwork is what makes it come alive to the average human.
+1.2.2. Con: Like scientists, many artists claim their practice is a search for answers.
+1.2.3. Pro: Science relies on viewing the world in a way that is proven to be true, not in the form of feelings, emotion, or any other psychologically-influenceable manner. Science is not about how seeing how bright, dark, happy, or sad the world is, but rather seeing the math behind it. For example, people can see flowers as a cheerful thing to look at. Common feeling and emotion. Science, on the contrary, looks at the colors, numbers, reproduction, etcetera within the flower and it's characteristics.
+1.2.3.1. Con: In mathematics and science, there is beauty and elegance to the process of trial and error, exploration and articulation, and expressing concepts that become part of the fabric of human experience. Intrigue, ingenuity, curiosity, patterns...it's all there, in art and in science.   Buckminster Fuller: "If the solution is not beautiful, I know it is wrong."
+1.2.3.1.1. Con: There is a different understanding of the concept of beauty in art and science.
+1.3. Con: Art is an expression of human subjectivity and perspective. Science actively attempts to remove all trace of human involvement to decrease error margins from human interpretation in order to find objective truths. In this way they are entirely opposite.
+1.3.1. Con: -> See 1.1.2.
+1.3.2. Pro: While art may have \(and may continue to\) borrow some of their ideas from science, art is never bound to it. Artists embrace contradiction, irrationality, disinformation, myth, and other aspects of thinking that would get any scientist expelled. A scientist’s creative thought process or elegant result is irrelevant. There is, perhaps, a presupposition about what art is that makes an alternative conclusion a possibility.
+1.4. Pro: They both view the world in an objective way.
+1.4.1. Con: It is not possible to view the world objectively, all experience is subjective.
+1.4.2. Con: There may be artistic movements \(e.g. realism\) which might appear to attempt at being objective; still, they aren't looking for truth, but for beauty. Furthermore, artistic works in general do not care for objective assessments of reality, but rather freely conceptualized representations. You do not experiment upon a work of art or try to falsify its view on the world like you do with a scientific model. You simply care for it \(in aesthetic, emotional, conceptual, technical ways\) or you don't.
+1.4.3. Con: Subjectivity is part of almost all art, and scientific results can be influenced by bias even if science strives for objectivity.
+1.4.4. Con: Science should view the world in an objective way, based on empirical evidence. Art can often express beauty in ways no one has ever thought before. Picasso was almost never objective, Dali never was.
+1.4.4.1. Pro: One might compare architecture to engineering, an applied science. A drive down a street in Barcelona that has examples of Gaudi's work makes one realize that this is not always the case.
+1.4.5. Con: The scientific view of the world is the more objective of them.
+1.4.5.1. Con: While this seems true, philosophers of science have had a [very difficult time](https://plato.stanford.edu/entries/scientific-objectivity/) finding an agreed upon definition of objectivity.
+1.5. Pro: They both strive for a way to express observations of the world to other humans.
+1.5.1. Pro: Like art, sciences explores the ambiguities of human understanding. Like science, art seeks to expose and disseminate truths.
+1.5.1.1. Con: The object of art is not truth, but emotion. Art can indeed be used to disseminate truth, however it does so through stimulating emotions. Science is used to find truth through reason and predictability. Science and art are not alike their methods are totally different but they can be complementary.
+A good example of art meeting science is architecture.
+1.5.2. Pro: Nobel winners explain science complications as simple as possible with ease of clarity, art in all its landscapes reflects the all, for us to clarify
+1.5.3. Pro: Both start from values and assumptions, progress via \(somewhat\) systematic methods, and culminate in emotional and intellectual contributions to a human community.
+1.6. Pro: Both of them work with abstract and tangible notions.
+1.6.1. Pro: Both science and art seek to make the abstract tangible.
+1.6.2. Con: This claim is so general that one is able to find similarities between any two human activities based on proposed condition \(abstract and tangible\).
+1.6.3. Pro: Both good peace of science or art leaves you with question but what if?
+1.6.4. Con: Science works more with the tangible part of its focus point, while art tends more to the abstract part.
+1.7. Con: Art is the expression of non scientific feelings
+1.7.1. Pro: It is the counterpoint to science, not its parallel.
+1.7.1.1. Con: They both use creativity as a tool: conceptual thinking lends itself to greater scientific development, while art quite literally relies on creativity.
+1.7.1.1.1. Con: Conceptual thinking is not the same thing as creativity.
+1.7.1.2. Con: They both require some degree of creativity.
+1.7.1.2.1. Pro: Figurative art requires an understanding of form, and most artists have an improved ability to visualize. This is important in many branches of science. For example, a 3-dimensional computer simulation for physics research would benefit from artistic understanding, especially when designing models to be interesting and understandable to the layman. 3-D visualization is also essential to certain operations of calculus.
+1.7.1.2.1.1. Con: Most of mathematics is too abstract to be visualized.
+1.7.1.2.1.1.1. Pro: [Infinite dimensional spaces](https://en.wikipedia.org/wiki/Hilbert_space) may not be visualized.
+1.7.1.2.1.1.2. Pro: [Noncommutative spaces](https://en.wikipedia.org/wiki/Noncommutative_geometry) may in general not be visualized, as the have no points, and their dimension is not necessarily [even an integer number](http://www.math.rwth-aachen.de/~Grischa.Studzinski/DA.pdf).
+1.7.1.2.1.1.3. Pro: [Schemes](http://www.math.rwth-aachen.de/~Grischa.Studzinski/DA.pdf) over the fields other than real numbers are not necessarily visualizable.
+1.7.1.2.1.1.4. Pro: Even [topological manifolds](https://en.wikipedia.org/wiki/Topological_manifold) of dimension more than 2 are not even fully classified, let alone visualizable.
+1.7.1.2.2. Pro: -> See 1.7.1.1.
+1.7.1.2.3. Pro: They both use creativity to express something: an idea, an image, a sense.
+1.7.1.2.3.1. Con: Art is a pure expression of creativity where as science may initially use creativity to devise methods for testing hypothesis and to some degree the hypothesis themselves, but in the end science is always expressed though data and has little to no aspect of creativity.
+1.7.1.2.3.2. Pro: Geometry is at least a contact point. Perspective in art is highly mathemathic. Also, data often forms graphs, which are "hard truth", as well as intuitive and "pretty".
+1.7.1.2.4. Con: Art uses creativity more than science; science uses creativity to form arguments for its claims, because it is the only known way of formulating theses. Beyond that, it uses exclusively scientific ways of thinking.
+1.7.1.2.4.1. Con: Forming a hypothesis, and then designing an appropriate test for a hypothesis, requires a great deal of creativity.
+1.7.1.2.4.2. Con: Baking is considered both art and science, although perhaps not equal in measure of creativity. None the less, it is not how much 'more' creativity science has, but rather that science has creativity.
+1.7.1.2.5. Con: Creativity as a requirement doesn't imply that the scientific and artistic views of the world are similar.
+1.7.1.3. Con: -> See 1.7.1.2.3.
+1.7.2. Con: Einstein [said](https://todayinsci.com/E/Einstein_Albert/EinsteinAlbert-ScienceAndArt-Quotations.htm) that the motive for both art and science is "the longing to escape from everyday life"
+1.7.3. Pro: Art generally represents [feelings and emotions.](https://en.wikipedia.org/wiki/Art_and_emotion)
+1.8. Con: Art is more about entertainment than anything 'deep' and meaningful.
+1.8.1. Con: Literature and music are categorized as art and they can be less entertaining but more meaningful.
+1.8.2. Con: Great art can express the deepest human emotions.
+1.9. Pro: -> See 1.7.1.2.
+1.10. Pro: Both have common goal to make our life better.
+1.10.1. Con: This may be said of the most of the human activities.
+1.10.2. Pro: The role of art in influencing science can be seen in the development of cell phones, which were partially inspired by the Star Trek communicators. Both art and science are needed to advance society.
+1.10.2.1. Con: Art is not predicting the future; works like 'The Scream' or 'The Mona Lisa' are hardly predictions. They're reflections of reality. This would be an instance of entertainment media influencing culture, rather than art influencing science per se.
+1.10.2.2. Pro: Understanding of scientific background is beneficial for art: perspective, properties of dyes in painting, sound properties in music etc.
+1.11. Con: Science is subject to peer review approval or disapproval, art is not.
+1.11.1. Con: The only Art that is not subject to peer review; approval or disapproval, is art that one makes purely for oneself, allowing no one else to experience it.

@@ -1,0 +1,285 @@
+Discussion Title: Should We Colonize Venus Before Mars?
+
+1. We should colonize Venus before Mars.
+1.1. Con: [NASA](https://www.space.com/17244-nasa-mars-fever-insight-mission.html) is the authority, and they focus on Mars and not Venus.
+1.1.1. Con: NASA does have a Venusian exploration program, a manned mission concept, and a permanent settlement concept. Because NASA is publicly funded, they have to appeal to the biases of the masses for support. Simply, the masses would not support the counter-intuitive ideas associated with Venus, even if they were objectively better ideas. PBS actually made a video explaining this.
+
+[en.wikipedia.org](https://en.wikipedia.org/wiki/High_Altitude_Venus_Operational_Concept)
+[youtube.com](https://www.youtube.com/watch?v=gJ5KV3rzuag)
+1.1.2. Con: In any field, every professional, always overlooks something critical. Whether deliberate or accidental, science is no different in that regard.
+1.1.2.1. Con: Even if science is flawed or prone to bias, it is still the best way to determine what we should do, as the alternative is only guesswork and opinions.
+1.1.3. Pro: NASA is in the forefront of space exploration. If they have their sites set on Mars and not Venus, as they have for several years now, there is likely an educated reason for it.
+1.1.4. Con: NASA is not prone to being right. Even they have made [mistakes](https://listverse.com/2014/10/02/10-times-nasa-totally-dropped-the-ball/) and wrong calculations. It is possible they are wrong about Mars and Venus.
+1.2. Pro: There are many creative, interesting ideas concerning effectively [terraforming](https://www.universetoday.com/113412/how-do-we-terraform-venus/) the Venusian surface.
+1.2.1. Pro: Bombarding the atmosphere with Hydrogen gas will convert CO2 into graphite and water.
+1.2.2. Pro: Bombarding the surface with asteroids can speed up the rotation of the planet to a more earth like day-night cycle.
+
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Terraforming_of_Venus#Changing_rotation_speed)
+1.2.2.1. Con: This can also compromise the stability of the volcanic activity on Venus, making it more hostile than it is now.
+1.2.2.2. Con: Bombarding Venus with high speed asteroids would further increase the temperature of the planet and would take thousands or millions of years to dissipate.
+1.2.3. Con: These many ways to terraform the Venusian surface are excruciatingly costly and not necessarily beneficial to colonial efforts, especially if the colonies are suspended within and depend upon the thick atmosphere.
+1.2.3.1. Con: Eventually having a surface to stand and farm upon makes for much more beneficial use of the resources at hand. Terraforming, although costly, may be very well worth the investment.
+1.2.3.1.1. Con: We have to use the resources we have available to us. Most of the assumed resources do not exist to complete a micro-terraform environment.
+1.2.3.1.2. Con: This is not an argument for terraforming Venus, but rather for terraforming in general. Same logic can be applied to Mars.
+1.2.4. Con: Our focus for colonizing Venus over Mars should be on how habitable it can be, not on the creativity level.
+1.2.5. Con: To produce an environment capable of sustaining human life, an extreme bio-environment would need to be built or shipped to Venus. Considering the hazardous environment on Venus, construction on the surface would be impossible.
+1.2.5.1. Pro: A recent bio-habitable [experiment](https://www.researchgate.net/publication/320875830_Rapid_colonization_of_artificial_endolithic_uninhabited_habitats) demonstrated how complex it wold be to maintain an environment that could support human life. In reality the size of a bio-habitable environment would have to be massive to allow explorers to work.
+1.2.6. Pro: Solar shades at the lagrange point can reduce the effects of being so close to the sun.
+1.3. Con: Venus has no magnetic field to protect from harmful radiation.
+1.3.1. Pro: Venus does have a slight magnetic field due to the [interactions between the Venusian atmosphere and the solar wind](https://www.astrobio.net/also-in-news/a-magnetic-surprise-from-venus/), but this field is minimal in comparison to the field induced by the earths core, hence providing severely less protection from actual high energy radiation.
+1.3.2. Con: An [artificial magnetic field](https://thesciencegeek.org/2016/05/22/giving-venus-an-artificial-magnetic-field/) can be created around Venus to protect humans from radiation.
+1.3.2.1. Con: This same artificial magnetic field can be created around Mars, and in fact, taking up less resources since Mars would require a smaller field.
+1.3.2.2. Con: A planetwide artificial magnetic field would seem outside the scope of contemporary technology, if only due to mere scale.
+1.3.3. Con: Mars doesn't have a magnetic field either.
+1.3.3.1. Pro: Radiation in Venus' atmosphere is actually lower than at the Martian surface. In this category, Venus is in fact the clear victor.
+
+[www.bbc.com](http://www.bbc.com/future/story/20161019-the-amazing-cloud-cities-we-could-build-on-venus)
+1.3.4. Pro: The necessary shielding is prohibitive to artificially provide to colonists.
+1.3.4.1. Con: Venus has a very thick atmosphere, which is good at attenuating both solar and cosmic radiation.
+
+[astrobio.net](https://www.astrobio.net/also-in-news/a-magnetic-surprise-from-venus/)
+1.3.5. Con: The main issue here is that Venus just doesn't spin fast enough.  We'd need a way to actually spin the planet on its axis faster.  If we could spin it faster, many problems would go away.
+1.3.5.1. Con: Spinning a planet faster would require more resources then to colonize Mars.
+1.3.6. Con: Without a magnetic shield long term prospects are bleak on either planet.
+1.3.7. Pro: Venus is closer to the Sun and thus has less advance notice of solar storms / flares.
+1.3.8. Pro: Venus is also more affected by the sun's radiation \(mostly heat\).
+1.3.8.1. Con: The proposal is to live at a level in Venus's atmosphere that has Earth-like temperatures.  So at that point, it's affected exactly the right amount by the Sun's heat.
+1.3.8.2. Con: The Venusian atmosphere is thicker than the Martian and so will give slightly more protection from the sun's radiation.
+1.3.8.2.1. Con: Unless Venus was partially or completely terraformed, this would not be relevant to a Venusian colony in the near future, as such a colony would most likely be a cloud city and would not enjoy any protection that the atmosphere can offer.
+1.3.8.3. Pro: Venus has [dried](https://www.space.com/21346-venus-water-earth-sun-explained.html) out because it is closer to the sun.
+1.3.8.4. Con: Gamma radiation and particle radiation would be more likely to be an area of concern. Heat is far easier to protect oneself from than these and other types of high energy radiation.
+1.4. Pro: Despite the costs, successively [terraforming](https://www.youtube.com/watch?v=-hF6cGv98nc) Venus would result in a massive gain for a plurality of goods.
+1.4.1. Pro: -> See 1.2.3.1.
+1.4.2. Pro: Venus would add an extra 113.7 billion acres of surface for human use. For comparison, Earth is 123 billion surface acres and Mars is 35.8 surface acres.
+
+[solarsystem.nasa.gov](https://solarsystem.nasa.gov/planets/venus/facts)
+1.4.2.1. Pro: Further, Venus' proximity to the sun would grant that the extra land was especially arable. Venus' plants would absorb CO2 at fantastically high rates, so Venus could become the breadbasket of Earth.
+
+[rsc.org](http://www.rsc.org/learn-chemistry/content/filerepository/CMP/00/001/068/Rate%20of%20photosynthesis%20limiting%20factors.pdf)
+1.4.3. Pro: Venus would allow for a near-doubling of the current population with present technology and no adverse population growth effects.
+
+[ypte.org.uk](https://ypte.org.uk/factsheets/overpopulation/introduction)
+1.4.4. Pro: Having a massive population somewhat separated from Earth would be beneficial for many reasons.
+1.4.4.1. Con: This would be just as beneficial if it happened on Mars as well.
+1.4.4.1.1. Con: The population of Mars versus Venus would be drastically less. If the odds of new, independent cultures thriving depend on population, Venus would have drastically more variety.
+1.4.4.2. Con: An independent culture could develop a hostile group. The diversity of cultures on Earth are varied and some seek to destroy others that are different from them. This is not rational since all humans are assumed evolved from the same source.
+1.4.4.3. Pro: Just like with human populations on earth, isolation could lead to the rise of new cultures, enriching humanity overall.
+1.4.4.4. Pro: New political and economical systems could arise more easily due to the increased physical separation.
+1.4.4.5. Con: Humans born outside Earth would most likely not have access to natural environments we've adapted to throughout the years, which could be distressful.
+1.4.4.6. Pro: A larger surface area means Venus could be home to a larger population.
+1.4.4.7. Pro: Having populations on multiple planets would make humanity less susceptible to extinction by planetary extinction events.
+1.4.5. Con: Initial exploration of Venus could result in disappointing results for mining, salvaging minerals or collection of other deposits anticipated.
+1.4.5.1. Pro: Attempts to explore Venus has already proven challenging, as most missions there have failed.
+1.4.6. Con: Terraforming Venus includes ridding it of a thick sulphuric acid atmosphere, which is reinforced by [natural processes](https://en.wikipedia.org/wiki/Atmosphere_of_Venus#Clouds), before building an Earthlike atmosphere. Terraforming Mars, in comparison, only requires the second of these steps.
+1.4.7. Con: Terraforming Venus would require to give up Venusian cloud cities, which [are very cool.](https://www.kialo.com/we-should-colonize-venus-before-mars-4415/4415.0=4415.1+4415.98+4415.46+4415.42)
+1.4.8. Con: [Venus has a lot of volcanoes](https://en.wikipedia.org/wiki/Volcanology_of_Venus), some of which [are still active](https://en.wikipedia.org/wiki/Volcanology_of_Venus#Recent_volcanic_activity), making it hard to know for sure which would be good starting points for surface colonisation.[Mars has a much milder volcanology.](https://en.wikipedia.org/wiki/Volcanology_of_Mars#Potential_current_volcanism)
+1.5. Con: Lower Martian gravity is beneficial to colonial efforts.
+1.5.1. Pro: Reduced gravitational pull makes the transport of heavy objects and vehicles easier and more efficient.
+1.5.2. Pro: We already have the technology to build a Martian space elevator.
+
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Space_elevator#Extraterrestrial_elevators)
+1.5.3. Con: On the [human body](https://www.wired.com/2014/02/happens-body-mars/), lower gravity can have detrimental effects, such as equilibrium imbalances and muscle weakness. This is likely to hinder colonizing efforts, as workers would not be able to do much work at this gravity level.
+1.6. Pro: Venus is [more Earth-like](https://www.universetoday.com/22551/venus-compared-to-earth/) than Mars in many important ways.
+1.6.1. Con: A Venusian day is 116 Earth days, which is far less Earth-like than a Martian day, which is approximately the same as an Earth day.
+1.6.1.1. Pro: A day on Mars is a bit more than 24 hours almost like on Earth, while a day \(and night\) on Venus lasts 116 days. The rotation is not only slow but also in opposite direction to every other planet in our solar system. There are many theories why this is the case: locked rotation because of tidal forces of sun's gravity, effects of the dense atmosphere, flipping of rotational axis, ... all saying  that rotation of Venus is not so stable. Also [en.wikipedia.org](https://en.wikipedia.org/wiki/Venus#Orbit_and_rotation)
+1.6.1.2. Con: This problem could be avoided by adding propellers to the cloud cities in essence following the sun year round.
+1.6.1.3. Con: A longer day is hardly a decisive factor on which planet is more viable for colonization. There are many more important factors to consider including gravity, temperature, pressure, radiation, etc. People could live with Venusian days just like people live today in Antarctica where the day is 6 months long.
+1.6.2. Pro: Venus has a [gravity closer](http://geofaculty.uwyo.edu/dueker/GeophysicsClass/earth%20venus%20mars%20tales%20LECTURE.pdf) to Earth \(90%\) as opposed to Mars \(38%\). This means technological or biological adaptation would be drastically less.
+1.6.2.1. Pro: We don't yet know if humans can sustainably live or reproduce in microgravity such as Mars.
+1.6.2.2. Pro: To put human beings in an environment with different gravity might cause a unique adaption to the new to this environment. Over the course of several generations, there may come a point where they will no longer be genetically compatible with the Earth-bound human race. Given that all circumstances can more or less be managed except gravity, this might be a serious argument for putting people on Venus with it's 90% earthlike gravity instead of 38% on Mars.
+1.6.2.2.1. Pro: We have ample evidence showing the detrimental health effects of living in microgravity.  We have so far no data on the effect of sustained time living at low gravity levels \(between 0 and 1 G\), so the conservative assumption is that the closer the gravity is to 1 G, the healthier we will be.
+1.6.3. Pro: Venus is more like Earth in terms of size, mass, and diameter.
+1.6.3.1. Pro: [Venus](https://www.universetoday.com/46560/mars-and-venus/) is 95% of the diameter and 81% of the mass of Earth. Mars is less than twice the diameter of Earth and only 10% of the same mass.
+1.6.4. Con: Mars has two moons, while Venus has none.
+1.6.4.1. Pro: The moon helps stabilize the rotation of a planet. Having two present on Mars may thus prove to be more beneficial than none on Venus.
+1.6.4.1.1. Pro: A moon of Mars, Phobos, has been proposed to use as a counterweight for a space elevator. Venus has a nigh-impossible circumstance for the use of space elevators.
+
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Terraforming_of_Venus#Direct_removal_of_atmosphere)
+1.6.4.1.1.1. Con: If people live in cloud cities on Venus they might not need space elevators as much as they would on Mars.
+1.6.4.1.2. Con: Both moons for Mars are the smallest in the solar system. They aren't likely to have the same amount of benefit as the Earth's moon for humans.
+1.6.4.1.2.1. Pro: Phobos has [1/1000th](https://solarsystem.nasa.gov/planets/mars/moons) of the gravitational pull of Earth, meaning humans would weigh a lot less on Mars. This could pose an issue for staying grounded.
+1.6.4.1.2.1.1. Con: The reason people would weigh less on Mars than on the Earth is not Phobos, but the smaller mass of Mars compared to that of the Earth that generates less gravity.
+1.6.4.1.3. Con: Having two present may be hazardous to human life, as it may also create a rotation that is not supportive.
+1.6.4.2. Con: The number of moons is not a significant factor in the feasibility of colonizing a planet.
+1.6.5. Con: Venusian atmosphere at an altitude of 50km[is rich in sulphuric acid.](https://en.wikipedia.org/wiki/Atmosphere_of_Venus)
+1.6.5.1. Con: There are actually [multiple cloud layers](http://www.pas.rochester.edu/~blackman/ast104/vclouds.html), meaning that an exploration vehicle or habitat can rest between layers with minimal sulfuric acid contact.
+1.6.5.2. Con: We have the technology to store sulphuric acid within metal and glass vessels. It should not be beyond technical capability to create corrosion resistant environments.
+1.6.6. Pro: Mars has very thin atmosphere making it hard to make planes and helicopters work. Easy on Venus due to the thick atmosphere.
+1.7. Pro: Venus contains [more resources](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/startswithabang/2016/07/06/venus-not-earth-may-have-been-our-solar-systems-best-chance-at-life/&refURL=&referrer=#42dafdf15385) for the flourishing of life as we currently know it.
+1.7.1. Con: We have no experimental data concerning living on another world. Life for Mars or Venus isn't currently analyzable without more data. We won't have this data until we get there either.
+1.7.1.1. Con: Venus has the most Earth-like conditions, and this is the data we should operate on when choosing a colony location.
+1.7.2. Pro: Water can be extracted by performing [electrolysis](https://en.wikipedia.org/wiki/Electrolysis) or [hydrodesulfurization](https://en.wikipedia.org/wiki/Hydrodesulfurization) on the sulfuric acid clouds below.
+
+[bbc.co.uk](http://www.bbc.co.uk/schools/gcsebitesize/science/add_gateway_pre_2011/periodictable/electrolysisrev2.shtml)
+1.7.3. Pro: The Venusian atmosphere is highly dense and consists for the majority out of carbon dioxide. This could be electrolized into the carbon and oxygen compounds that could be used as basic resources for human life.
+1.7.3.1. Con: Water on the other hand would be a bit more of a concern and will likely either have to be imported or distilled from the Venusian atmosphere, which would require a serious engineering solution considering the amount of water present \(+- 20 ppm\)
+1.7.3.1.1. Con: -> See 1.7.2.
+1.7.4. Con: In order for these resources to be useful, they have to be obtainable. Currently, Mars is more accessible than Venus due to its climate.
+1.7.4.1. Pro: Humans would not benefit from human-like temperatures 31 miles above the surface, as they would have to utilize the surface of Venus for their survival.
+1.7.4.1.1. Con: Surface bias is unnecessary. The atmosphere is thick enough to float entire colonies midair. Breathable air \(23% oxygen, 77% nitrogen\) is actually a lifting gas.
+1.7.4.1.1.1. Con: There are many difficulties in getting anything more than balloons to float in air on Earth that getting an air colony on Venus would not be possible \(due to their gravity and atmospheric compositions being similar\).
+1.7.4.1.1.1.1. Con: Venus' surface pressure is 93 bar, while earth is only 1 bar. This means the lifting power of Venus atmosphere is drastically more than Earth. NASA plans to utilize this drastic lifting power in their favor to explore Venus.
+
+[ntrs.nasa.gov](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110016033.pdf)
+1.7.4.1.2. Con: Venus would be able to use [Atmospheric Mining.](https://en.wikipedia.org/wiki/Atmospheric_mining)
+1.7.4.2. Pro: In the long term, actual mining on mars will likely be easier to achieve and less expensive.
+1.7.4.2.1. Con: -> See 1.7.4.1.2.
+1.7.5. Pro: Venus lies within the '[Goldilocks zone](https://lco.global/spacebook/what-are-requirements-life-arise-and-survive/)', or the distance within the orbit of its star where water remains liquid, and therefore is a viable resource.
+1.7.5.1. Con: Liquid water on Venus is practically impossible, because as was stated before in other claims the [surface temperature of 460 degrees celcius on average](https://www.universetoday.com/14306/temperature-of-venus/) is way too high for liquid water to exist. Even with the higher [atmospheric pressure of 91 bar](https://www.universetoday.com/14306/temperature-of-venus/), water boils away at round and about [300 degrees celcius](https://www.engineeringtoolbox.com/boiling-point-water-d_926.html).
+1.7.5.2. Con: Mars is also within this zone. It could very well be just as habitable in this case.
+1.7.6. Pro: Venus may have life currently living in the atmosphere.
+
+[dailygalaxy.com](http://www.dailygalaxy.com/my_weblog/2009/07/could-atmosphere-of-venus-harbor-life-experts-say-yes.html)
+1.8. Con: Interstellar travel requires us to escape the gravitational field of our Sun. Colonizing further away from our Sun would reduce the energy needed to escape the solar system's gravity well.
+1.8.1. Pro: Venus being closer to the sun makes it more vulnerable to variations in solar activity. Close proximity to cosmic rays increases potential damage to organic life forms.
+1.8.1.1. Pro: Tiny changes in [solar activity](https://www.space.com/19280-solar-activity-earth-climate.html) can create significant negative changes in the Earth's ozone and climate. These changes are likely to be more significant on Venus, creating an unstable environment for organic life to consistently exist.
+1.8.1.2. Con: [Earth recieves 22.5%](http://eesc.columbia.edu/courses/ees/climate/lectures/radiation_hays/) of radiation from the sun through its atmosphere. [Venus by contrast receives 2.5](http://lasp.colorado.edu/~espoclass/ASTR_5835_2015_Readings_Notes/Titov_Et_Al-EVTP.pdf)%. The thickness of Venitian atmosphere negates the increased irradiation due to proximity
+1.8.2. Pro: Colonizing Venus wastes money that could be spend towards Mars and other planets going outside of our current solar system.
+1.8.2.1. Con: The resources of whichever planet is colonised first can be used towards expansion.
+1.8.3. Con: The "right direction" in this scenario is away from Earth. The more planets that are colonized, the more experience humanity gets in colonizing other planets.
+1.8.4. Con: If the goal is simply outer solar system exploration, Venus is a better outpost. Orbital maneuvers closer to the sun provide greater changes in orbital energy for less delta V.
+1.8.5. Pro: In the line of planets eaten up by the Sun becoming a red giant, Venus would be before Mars or Earth. Mars is a better option to preserve humanity.
+1.8.5.1. Con: This is billions of years away. If colonising Venus turns out to be easier or quicker, it would still make sense to colonise it first.
+1.8.5.1.1. Pro: -> See 1.4.4.7.
+1.8.5.1.2. Pro: The experience and technology developed for colonising a planet could be adapted, or built upon to colonise the next.
+1.9. Con: We have the technology, right now, to support a colony on Mars.  We should not wait.
+1.9.1. Con: If we have the tech to support a Martian colony, we also have the tech to support a Venusian colony. This doesn’t establish superiority of one planet over the other.
+1.9.1.1. Con: It is easier to support a colony on Mars since landing in that atmosphere doesn't require protection from extreme conditions like Venus'.
+1.9.1.1.1. Con: Colonizing the Venusian atmosphere with cloud cities roughly 50 km up from its surface is more viable than colonizing the Martian surface.
+1.9.1.1.1.1. Con: -> See 1.6.5.
+1.9.1.1.1.2. Pro: The collected solar energy could be used to cool the Venusian cloud cities from roughly 130 degrees F to 70 degrees F \(and apply what we learn to Earth\).
+1.9.1.1.1.3. Pro: A lower-than-Earth gravity felt at 50 km altitude would ensure that humans and animals are less stressed on Venus while not being too little of gravity like on Mars.
+1.9.2. Con: One could argue that we do not have today the technology to counter the biological effects of decreased Martian gravity, even if we might find solutions in the future. This is not a problem on the clouds of Venus. Other problems that cloud cities on Venus pose can more easily be addressed with today's technologies.
+1.9.2.1. Pro: -> See 1.6.2.2.1.
+1.10. Con: Mars has various practical advantages.
+1.10.1. Pro: Mars may contain water in any state.
+1.10.1.1. Pro: NASA's Mars Reconnaissance Orbiter \(MRO\) recently detected hydrated minerals on recurring downhill slopes that strongly suggest the [presence of water](https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars) on Mars.
+1.10.1.2. Con: Although liquid resembling Earth's water has been discovered, its specific components have not yet confirmed to be similar enough to sustain organic life.
+1.10.1.3. Pro: Scientists have detected [deposits](https://www.jpl.nasa.gov/news/news.php?feature=6680) underground on Mars that consist of 50 percent to 85 percent water ice.
+1.10.1.4. Con: The [water](http://www.popularmechanics.com/space/moon-mars/a21744/water-mars-not-drinkable/) on Mars may not be drinkable.
+1.10.1.4.1. Pro: The water on Mars has been found to contain a hydrated salt called ['perchlorate](http://www.iflscience.com/space/can-you-drink-water-mars/)'. This would make the water too briny for human consumption, like sea water.
+1.10.1.4.1.1. Pro: In some states, there are already limits on the amount of [perchlorates](https://www.huffingtonpost.com/entry/drink-water-mars_us_5611efd2e4b0af3706e13449) allowable in drinking water as it can cause thyroid issues and cause harm to the gastrointestinal tract, placenta, and skin. The amount on Mars exceeds this.
+1.10.1.4.1.2. Con: [Distillation by evaporation](http://www.survivopedia.com/how-to-turn-salt-water-into-drinking-water/) is a process that can create freshwater from seawater. It can be used to purify water on Mars as well.
+1.10.1.4.2. Pro: [Scientists](http://www.popularmechanics.com/space/moon-mars/a21744/water-mars-not-drinkable/) have only hypothesized the source of the water and have yet to show definitively that it is comparable to water on Earth. Without knowing the source, its usefulness to humans is still unknown.
+1.10.1.4.3. Con: Water found on other planets can always be subject to purification to make it drinkable.
+1.10.1.5. Con: Venus can also manufacture water from the components in its atmosphere. The presence of water on Mars does not separate it from Venus.
+1.10.2. Pro: Humankind has experience with landing vehicles on Mars.
+1.10.2.1. Con: This does not mean they cannot gain the same experience landing vehicles on Venus, especially if Venus proves to be a better planet for us to colonize.
+1.10.2.2. Pro: In comparison to Mars, [landing vehicles](https://www.nasa.gov/offices/oct/early_stage_innovation/niac/2012_phase_I_fellows_landis.html) have yet to be successful on Venus due to its hot temperatures and volatile climate. NASA is still experimenting with technology that can withstand its environment.
+1.10.2.2.1. Con: Ten missions have landed successfully on Venus, of which six performed as designed. This is similar to the success rate for Mars. [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_missions_to_Venus)
+1.10.2.2.2. Con: We don't need to land. [space.com](https://www.space.com/g00/29140-venus-airship-cloud-cities-incredible-technology.html)
+1.10.2.2.3. Pro: While Russian space probe [Venera 8](https://en.wikipedia.org/wiki/Venera_8) landed on Venus  successfully in 1972, it failed after 50 minutes and 11 seconds due to harsh surface conditions.
+1.10.2.2.3.1. Con: Venera 8 exceeded expectations. It achieved 100% of mission objectives, measuring atmospheric properties and elemental ratios in the rocks. 50 minutes of landed time was a bonus. [space.stackexchange.com](https://space.stackexchange.com/questions/9930/what-cooling-improvements-did-the-venera-missions-make)
+1.10.2.2.3.1.1. Con: Although it exceeded expectations, it did not survive long enough to be certain humans could exist for any beneficial amount of time on Venus.
+1.10.2.3. Pro: There have been 4 successful robotic rover [landings](https://en.wikipedia.org/wiki/Mars_rover) on Mars.
+1.10.3. Pro: Access to the Martian surface may provide [energy resources](https://www.scientificamerican.com/article/nasa-seeks-nuclear-power-for-mars/) \(like Uranium/Plutonium\) that would eclipse that of Venusian solar energy.
+1.10.3.1. Pro: Mars has Uranium and Thorium.
+
+[adsabs.harvard.edu](http://adsabs.harvard.edu/abs/1981Geokh.......10B)
+1.10.3.2. Con: Access to the Venusian atmosphere may provide hydrogen.
+1.10.3.2.1. Con: There is very little hydrogen available on Venus from which to synthesize water.
+1.10.3.2.1.1. Con: -> See 1.6.
+1.10.3.2.1.2. Con: -> See 1.7.
+1.10.3.2.1.3. Pro: Venus has lost much of its [hydrogen](https://en.wikipedia.org/wiki/Terraforming_of_Venus#Introduction_of_hydrogen) due to solar wind.
+1.10.3.3. Con: Uranium and Thorium ore on Mars has not been discovered and would be difficult to mine and process. The cited abstract [adsabs.harvard.edu](http://adsabs.harvard.edu/abs/1981Geokh.......10B) shows Uranium abundances at 5 parts per million which is not sufficient to be a mineable ore.
+1.10.3.4. Con: Building and operating a nuclear reactor on Mars would be much more complicated than solar power.
+1.10.3.5. Con: The cited [scientificamerican.com](https://www.scientificamerican.com/article/nasa-seeks-nuclear-power-for-mars/) article talks about bringing a nuclear reactor from Earth NOT using uranium and Thorium found on Mars. Therefore the reactor could be used on Venus as well.
+1.10.3.6. Con: Apples and Oranges. Even if Mars does have more energy resources, they would be put to the development of a Martian colony; which has different resource demands than a Venusian one.
+1.10.3.6.1. Pro: Because of the transport costs of resources, colonies are likely to be resource-consuming rather than resource producing. Anything a colony produces will need to go toward its infrastructure.
+1.10.3.6.1.1. Pro: For example, Mars requires large quantities of energy for heating, the Venusian upper atmosphere does not.
+1.10.4. Pro: We know more about the atmosphere on mars than on Venus.
+1.10.5. Pro: It is much easier to warm things up than to cool them down. Therefore, it is easier to keep people warm on mars than to keep people cool on Venus.
+1.10.6. Con: Practical advantages are easily overcome by superior design and management - easier on Venus than Mars.
+1.10.7. Pro: The overwhelming majority of the population does not understand the Venus colony proposal. This gap in intuition makes garnishing support for Venus very slim, while Mars support is easily crowd sourced.
+1.11. Pro: Mars stands for masculinity: conquest and war. It's an aggressive symbol. Venus stands for femininity: love, compassion and harmony. If we start to go out into space, it'd be nice if it was to spread positive values, not war. This choice could actually have a psychological impact on humanity.
+1.11.1. Con: The scope of this influence is unknown and the impact of this problem is speculative.
+1.12. Pro: A colony on Venus is more likely to help us develop solutions to the [greenhouse effect](http://www.realclimate.org/index.php/archives/2006/04/lessons-from-venus/) on Earth.
+1.12.1. Con: The standard proposals for colonizing Venus don't involve solving its runaway greenhouse effect, but simply living at a level in the atmosphere where it is not a problem.
+1.12.1.1. Con: Forrest from the trees -- surviving OR solving is required, regardless of what is proposed. If living at a level where it is not a problem-survives-the-problem, that is adequate.
+1.12.1.1.1. Con: Only if the same solution can be applied to Earth, which is unlikely due to Venus having a drastically denser atmosphere.
+1.12.2. Pro: A variety of technologies can be developed by Venusian colonists with simultaneous benefits for Earth, such as [Carbon Capture](https://en.wikipedia.org/wiki/Carbon_capture_and_storage), [CO2 Corrosion](https://www.silcotek.com/blog/how-venus-helped-us-improve-co2-corrosion-resistance),[Geo-engineering](https://phys.org/news/2010-11-sulfur-dioxide-venus-atmosphere-key.html), or [Polysulfones](https://en.wikipedia.org/wiki/Polysulfone).
+1.12.3. Pro: Given the dense atmosphere wind turbines for generating electricity would be more efficient.
+1.12.3.1. Pro: Given the high wind speeds around the Venusian equator, it might make sense to anchor the floating structures to the ground 30 to 50km below in order to prevent collisions. The cablework for this would be heavy and might be challenging materialwise, but the weight could maybe be supported by balloons. To these cables and balloons, wind turbines might indeed be attached for energy generation.
+1.12.3.2. Con: We can't send energy from Venus back to Earth though. So colonisation of Venus wouldn't help Earth.
+1.12.4. Con: If we cannot solve the greenhouse problem on Earth, we cannot do it on Venus. If we even had an idea of how to do it there, we would already know how to do it here.
+1.12.4.1. Con: Venus' greenhouse is likely not going to be solved by any currently known methods, but research could be conducted on Venus that can inform the people on Earth what was most effective.
+1.12.5. Con: The part that Venus can play in solving the greenhouse problem does not require colonisation, only study - remotely or, within certain limits, on site.
+1.13. Con: There are many problems associated with the Venusian surface.
+1.13.1. Pro: It will be easier to terraform Mars than Venus.
+1.13.1.1. Con: Mars already has a day which is about the right length, and heating planets is easier than cooling them. This makes Mars easier to terraform.
+
+[slate.com](http://www.slate.com/blogs/quora/2013/09/12/outer_space_can_we_make_mars_or_venus_habitable.html)
+1.13.1.1.1. Con: Once in place, it would consume very little energy. In fact, such shades could also produce more than enough energy for the ion thrusters that would presumably keep them in place.
+1.13.1.1.2. Con: -> See 1.2.6.
+1.13.2. Con: There are also problems associated with the surface of Mars that makes it not yet suitable for human sustainability.
+1.13.2.1. Con: The problems associated with the surface of Mars are smaller than those associated with Venus. One example is the [extreme heat](https://solarsystem.nasa.gov/planets/venus/in-depth/) on Venus' surface, 470 celcius \(880 Fahrenheit\).
+1.13.3. Con: Most problems on the surface could be avoided by colonizing the clouds instead of the surface.
+1.13.4. Pro: -> See 1.10.3.2.1.
+1.13.5. Con: Tackling the more difficult colonization and terraforming problems on less habitable planets first, allows humans to gain valuable experience. This will allow engineers to make future colonies, in less dangerous environments, safer.
+1.13.6. Pro: Venus is cloudy so sunlight won’t reach the solar panels rendering them useless.
+1.13.6.1. Con: This problem disappears if the solar panels float above the clouds.
+1.13.7. Pro: The atmosphere of Venus is too pressurized \(90 Earth atmospheres\).
+1.13.7.1. Pro: This is similar pressure felt under a kilometer of water. Land dwellers would not be able to survive this pressure.
+1.13.7.1.1. Pro: Military submarines cannot withstand this pressure.
+
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Submarine_depth_ratings)
+1.13.7.2. Con: This is only at the surface. Colonization efforts should be at the atmosphere, and the cities would literally float on the dense atmosphere of Venus like blimps.
+
+[space.com](https://www.space.com/29140-venus-airship-cloud-cities-incredible-technology.html)
+1.13.8. Pro: Venus is too hot \(864F\).
+1.13.8.1. Con: The suits of modern firefighters can withstand heats far above 864F.
+1.13.8.1.1. Con: But these suits can not withstand the pressure of Venuses' atmosphere, which is 93 bar at surface level.
+1.13.8.1.2. Con: Humans would have to wear firefighter suits permanently in order to stay alive on this planet. This is not conducive to a good quality of life.
+1.13.8.1.3. Con: Firefighter suits were not designed for lifelong exposure to such high temperatures, thus its likely they will not be useful long-term.
+1.13.8.1.3.1. Pro: While these suits were designed to withstand high temperatures, humans cannot survive inside the suits at these temperatures for very long.
+1.13.8.1.3.1.1. Pro: Even in the high temperatures of summer on Earth, firefighters have to take more precaution not to overheat in their suits. On Venus, there would be no escape since taking off the suit is not an option.
+1.13.8.2. Pro: Electronics based on the best modern technologies will only work for a matter of minutes, or hours at best on the Venusian surface. Without electronics, human survival on Venus will be impossible. [nasa.gov](https://www.nasa.gov/feature/automaton-rover-for-extreme-environments-aree)
+1.13.8.3. Pro: The [temperature](https://www.space.com/18526-venus-temperature.html) on Venus is hot enough to melt lead. Thus, its way too hot for human life.
+1.13.8.4. Pro: At this temperature, Venus cannot sustain water in liquid form necessary for life to utilize. It consists mostly as vapor.
+1.13.8.4.1. Pro: -> See 1.7.5.1.
+1.13.8.4.2. Pro: Venus [shows](http://content.time.com/time/health/article/0,8599,1999792,00.html) signs of having a brief habitable period, but at its high temps its difficult for water to stay in the form necessary to sustain life permanently.
+1.13.8.5. Pro: You can warm Mars to relatively normal temperature, but cooling down Venus requires an unknown method.
+1.13.8.6. Con: Suits and vehicles could be designed to both sustain this extreme heat and pressure, in the same way that we are capable of building submarines and deep water pressure suits.
+1.13.8.6.1. Con: Space suits have limits as they are difficult to wear, require maintenance \(such as refilling oxygen tanks\), and can [disintegrate](http://www.nytimes.com/2000/12/05/science/mighty-moon-suits-are-falling-apart.html). Having these suits on 24/7 would be unbearable if not impossible.
+1.13.8.6.2. Con: Any vehicle or space suit adapted to the surface conditions of Venus would require technology many times more expensive than that which is needed on the surface of Mars, as well as many times heavier.
+1.13.8.7. Con: This is only the surface temperature. At 31 miles \(50 km\) above the surface, both the air pressure and temperature become more human \(32F-122F\).
+1.13.8.7.1. Con: The highest elevation on Venus is [11km](http://www.pas.rochester.edu/~blackman/ast104/vsurface.html), which makes the 50km conditions not possible there.
+1.13.8.7.2. Con: -> See 1.7.4.1.
+1.13.9. Pro: It literally rains sulfuric acid.
+1.13.9.1. Con: The sulfuric acid [evaporates](https://en.wikipedia.org/wiki/Atmosphere_of_Venus#Clouds) before reaching the surface.
+1.14. Pro: There are [many benefits](https://www.universetoday.com/130482/how-do-we-colonize-venus/) associated with colonizing the Venusian atmosphere.
+1.14.1. Pro: Venusian cloud cities are more practical than Martian domes.
+1.14.1.1. Con: A floating base would be much more difficult to build and hazardous to live in than a dome. A breach in a dome section would damage that section only, but any damage to a floating structure also creates the possibility of the whole structure plummeting.
+1.14.1.1.1. Con: A floating base could have multiple back-up balloons that way if a single one is damaged it would not be catastrophic. Also one could store compressed air which could be used to inflate balloons in case of an emergency like how submarines control their buoyancy.
+1.14.1.1.2. Con: A breach in a dome on Mars is an explosion. A breach in a balloon on Venus can and would be quite slow, because the pressure difference  is not that great. Colonists could repair it before it becomes a problem.
+1.14.1.2. Pro: Floating bases high in the Venusian atmosphere would have roughly equal internal and external pressure, removing the risk of explosive decompression.
+1.14.1.2.1. Con: Breaches on Venus are much more likely because of the highly corrosive atmosphere.
+1.14.1.2.1.1. Con: The extreme corrosion is only at the surface; the hypothetical colony would only experience a fraction of these problems at the proposed altitude.
+1.14.1.2.1.2. Pro: -> See 1.13.
+1.14.1.2.2. Con: Just because the pressures are roughly equal doesn’t mean the oxygen won’t go out and the carbon dioxide come in suffocating the people inside.
+1.14.1.2.2.1. Con: The damage would still be less than a similar breach on Mars due to the respective atmospheric pressures.
+1.14.1.2.3. Pro: In the event of a breach, the pressure of the atmosphere in a Martian dome would rapidly push out due to the lack of a Martian atmosphere. This could further damage the structure as well as the objects and people inside. A breach on a Venusian cloud city would result in minimal air loss or further damage.
+1.14.1.3. Pro: It can be assumed that landing a floating base on Venus will be cheaper and a lot less risky than landing vehicles on Mars. Counting on these bases to buoyantly float at at least 50 km high, there is no solid ground to crash into.
+1.14.1.3.1. Con: Mars landings are done in valleys just to gain a little extra altitude for entry, descent and landing. When entering an atmosphere, altitude is your friend.
+1.14.1.3.1.1. Pro: Lower Martian gravity would also assist in easier entry/departure.
+1.14.1.3.2. Pro: The Martian atmosphere is not thick enough to use conventional aeronautics, but Venus' atmosphere greatly mimics Earth.
+1.14.1.4. Pro: The costs will also likely be lower
+1.14.1.4.1. Pro: The chances of crashing floating landers instead of solid ground landers are a lot lower, since they rely on buoyancy and hence have no drastic consequences when coming in too fast.
+1.14.1.4.2. Con: Humans are well-versed in colonizing a solid foundation, like the ground found on Earth. Learning to create cloud cities are likely to be on a trial-and-error basis, which can cost more in the long run.
+1.14.1.4.3. Pro: Venus is closer than Mars, so the travel time and resources associated are lessened.
+1.14.2. Pro: Venusian cloud cities would be more aesthetically pleasing than Martian domes.
+1.14.2.1. Con: This is speculative, as we don't know for sure what either would look like.
+1.14.2.2. Con: Aesthetics are subjective.
+1.14.3. Pro: Venus could have an abundant supply of He3, a highly sought out fuel source for fusion energy. The high bombardment rate of intense radiation may create the environment necessary to generate He3 provided the required elements are present and not yet discovered.
+1.14.3.1. Con: Venus has little detectable helium, let alone He3.
+1.14.3.1.1. Pro: Venusian atmospheric composition does not seem to have but [12 ppm](https://en.wikipedia.org/wiki/Atmosphere_of_Venus) Helium, and the most common type of Helium is not He3, but He4.
+1.14.3.2. Con: Fusion energy is not feasible yet.
+1.14.4. Con: There are also many obstacles standing in the way of colonizing Venus first.
+1.14.4.1. Pro: We have more time and money [invested](https://phys.org/news/2012-07-exploring-mars-worth-investment.html) in colonizing Mars first. To switch now would mean we've wasted years and billions of dollars in the wrong direction already.
+1.14.4.1.1. Con: In terms of technology and science the investment will never be lost, as what has been learned and discovered remains - as advancements of knowledge and understanding. The only loss will be in time, because choosing one of the planets to be colonised before the other means that we will apply the particular knowledge and technology for one of the planets later, rather than early.
+1.14.4.2. Pro: There is [more](https://www.huffingtonpost.com/chris-carberry/mars-exploration_b_2733732.html) support in favor of colonizing Mars than [Venus](https://www.theatlantic.com/science/archive/2017/01/venus-lost-generation/513479/).
+1.14.5. Pro: -> See 1.9.1.1.1.
+1.14.6. Con: -> See 1.8.1.
+1.14.7. Pro: Venus is [closer to the sun](https://www.extremetech.com/extreme/196114-nasa-is-developing-a-plan-to-explore-venus-in-a-manned-solar-powered-ariship), so solar cells would produce more energy. "Venus gets 40% more solar energy than Earth and 240 times more than Mars."
+1.14.7.1. Con: This also makes Venus hotter than Earth. We have yet to understand if human life can be sustained at this energy level and temperature.
+1.14.7.2. Con: -> See 1.3.8.

@@ -1,0 +1,57 @@
+Discussion Title: Should anonymized networks be banned?
+
+1. Anonymized networks and browsers \(like Tor\) should be banned.
+1.1. Con: We should be free to be anonymous on the internet.
+1.1.1. Pro: Onion routing systems provide protection against [traffic analysis](https://en.wikipedia.org/wiki/Traffic_analysis#In_computer_security), one of the most wide-spread forms of surveillance on the internet.
+1.1.1.1. Pro: For example, e-commerce sites use price discrimination based on country or institution of origin. Using Tor browser makes this impossible.
+1.2. Con: Tor is not illegal and, even though, there are illegal things going on in the dark web, not everything is bad.
+1.2.1. Pro: Only less than half of the activity in the dark web is illegal.
+1.2.2. Con: Just because something is legal doesn't mean it's not bad, and something being illegal doesn't make it necessarily bad, either.
+1.2.2.1. Pro: If a government made Tor browser illegal this would not automatically mean such a government was "bad".
+1.3. Con: Onion routing relies on encryption, which essentially is math. Even if onion routing or using Tor browser were banned people would still use encryption to protect their internet traffic.
+1.3.1. Pro: Banning Tow browser would only affect citizens who are interested in maintaining their privacy, because people that would use it illegally would use it regardless of it being legal or not.
+1.3.1.1. Con: If Tor and similar browsers were illegal, it would be easier for law enforcement to persecute and close such browsers.
+1.3.1.1.1. Con: If the possession of software was made illegal, we would only increase the ability for malicious actors to target the innocent. We already have malicious children calling down hostage alerts on their online foes to summon SWAT teams; this would open the door to a similar practice, of injecting illegal software onto people’s computers an der then having them legally persecuted for it.
+1.3.1.1.2. Con: If tor and similar browsers were illegal it would make it easier for corrupt governments to control their people's speech/expression.
+1.3.1.2. Pro: Tor is essentially real life on the internet. Drugs, gun, sex. There's nothing on Tor that can't already be found in real life. Tor is the rest of the internet iceberg and to attempt to ban it is to shut down the majority of the internet.
+1.4. Pro: People should not be allowed to run illegal businesses on the internet.
+1.4.1. Con: Many forms of legal communications \(burner phones, email, online ads\), can be used to commit crimes, yet that is not a reason to forbid them.
+1.4.1.1. Con: Many countries, such as [Germany](https://www.thelocal.de/20160601/germany-to-require-id-for-buying-prepaid-phones), have started to require ID to buy a sim card. This is an attempt to de-anonymize phones.
+1.4.2. Con: People are not allowed to run illegal business on internet or anywhere, yet they do, as law enforcement is not infallible.
+1.4.3. Pro: Illegal businesses can cause real harm to people. \(Child pornography, sex trafficking, etc\)
+1.4.3.1. Con: Trade in child pornography, drugs, guns, and murder have not increased with the advent of the dark web. This is an assertion without any evidence. These things did not need the dark web to be traded before, and they will continue to be traded without it.
+1.4.4. Con: -> See 1.2.2.
+1.4.5. Con: So many are so quick to protect gun rights and throw away the right to think for themselves. If guns are not responsible for mass shootings and other crimes how is Tor browser responsible for the so called "dark web".
+1.4.5.1. Con: There is a difference between sites that aren't indexed and .onion sites. A majority of illicit activity happens on sites that aren't indexed.
+1.4.6. Con: The [majority](https://www.profwoodward.org/2016/02/how-much-of-tor-is-used-for-illegal.html) of websites on the onion network are not used for illegal activity.
+1.4.6.1. Pro: -> See 1.2.1.
+1.5. Pro: The public should be able to control what is or is not on the web and anonymized networks prevent us to do so.
+1.5.1. Con: Tor is by itself a part of the web that someone has control of. As the choice on whether or not content remains posted on Tor is reliant on the actions of a person there is then control in the hands of people. While this subset may be small it is still a person distinguishing it from uncontrollable acts such as weather for example.
+1.5.2. Con: The web is not and was never intended to be controlled. [It was designed to be decentralized and to treat all information the same.](https://webfoundation.org/about/vision/history-of-the-web/)
+1.5.2.1. Pro: Unless complete online surveillance is implemented, it seems technically impossible to control what happens online, whether governments would like it or not.
+1.5.2.1.1. Con: The difficulty at implementing regulations should not be the core principle if those regulations are beneficial.
+1.5.3. Con: Controlling the speech of the web is censorship.
+1.5.4. Con: Tor plays no direct role in what websites exist or do not exist. Tor is only one tool that allows users to search the majority of websites that are not listed with search engines like Google. Somehow forbidding people from using Tor would not remove a single dark web page from the internet.
+1.5.5. Con: There have been instances where law enforcement actions have lead to convictions against owners of illegal content posted on Tor. For example, [Silk Road creator Ross Ulbricht was sentenced to life in prison.](https://www.forbes.com/sites/katevinton/2015/05/29/ulbricht-sentencing-silk-road/#4ab3fcaac6e7)
+1.5.6. Con: The general public does not control what is on the Internet and cannot do so. There are gatekeepers like search engines, social media algorithms, publishers and advertisers dictate the creation and propagation of information on the Internet. Tor represents a way to go around those gatekeepers.
+1.6. Con: Tor provides tools for activists especially in countries with oppressive governments.
+1.6.1. Pro: Tor allows for whistleblowers to share information.  [New Yorker Strongbox](https://www.newyorker.com/news/amy-davidson/introducing-strongbox), for example, allows to share information with journalists anonymously.
+1.6.2. Pro: Many human rights activists use anonymized networks to [protect](https://www.reuters.com/article/us-column-pluggedin/web-tools-help-protect-human-rights-activists-idUSTRE57I4IE20090819) themselves.
+1.7. Con: Tor protects freedom of speech. To ban it would be censorship.
+1.7.1. Con: Liberty and freedom of speech are not worth all the evil things the dark web enables, like the spreading of child pornography, drugs, guns and murder for hire.
+1.7.1.1. Con: Benjamin Franklin said that "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety."
+1.7.1.2. Con: It is a false dichotomy, giving up our liberty and freedom of speech would probably not remove those 'evil things' from the internet.
+1.7.1.3. Con: -> See 1.4.3.1.
+1.7.1.4. Con: -> See 1.4.6.
+1.7.2. Pro: Banning Tor is welcoming in an Orwellian future where the way people think and speak is completely controlled by Corporations and Governments. Bad enough political factions continue to rewrite our history to suit their agenda.
+1.7.2.1. Pro: The way people interact online is already being policed by corporations like Facebook or Google via content and image policies.
+1.7.2.2. Pro: Tor is one of the last bastions of autonomy from oppressive corporate control over the internet.
+1.8. Pro: The Tor Project's tools threaten US national security.
+1.8.1. Pro: Both the NSA and GCHQ have [targeted](https://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption) the Tor network and tried to break its encryption.
+1.8.2. Con: The Tor Project has been [funded](https://www.theguardian.com/technology/2014/jul/29/us-government-funding-tor-18m-onion-router) by branches of the US government.
+1.9. Con: On the street, at least in areas without surveillance, members of the public are essentially anonymous. They should be free to do so as well on the Internet.
+1.9.1. Con: In many areas, such as [London](http://infographicjournal.com/how-many-cctv-cameras-in-london/), it's almost impossible not to be caught on CCTV.
+1.10. Pro: Tor is a threat to citizens.
+1.10.1. Con: Tor provides a platform for whistleblowers to disclose wrongdoings that governments are committing towards citizens.
+1.10.2. Con: Tor is no more of a threat to democratic society, than the right for any group to peaceably and privately assemble is a threat.
+1.10.2.1. Pro: Since the 1970’s the FBI sought to collect information on US citizens by going to public libraries and demanding book checkout records, for the express purpose of watching what people were browsing. [In the 80's, the FBI was legally blocked out of consideration of privacy rights.](http://www.nytimes.com/1987/09/18/nyregion/fbi-in-new-york-asks-librarians-aid-in-reporting-on-spies.html)Tor browsing is effectively the same as privately browsing the library: we shouldn’t be held accountable for curiosity.

@@ -1,0 +1,26 @@
+Discussion Title: Does financial literacy need more prevalence in the education system?
+
+1. Financial literacy needs more prevalence in the education system.
+1.1. Pro: New technologies with novel financial consequences are not properly understood, which could land people in trouble.
+1.1.1. Pro: The evolution of new constructs, such as Bitcoin, shows financial boundaries will rapidly evolve in the future and should be studied closely.
+1.1.2. Pro: The introduction of internet shopping over the last 20 years has meant that young people have more, and faster, ways of spending their money.
+1.2. Pro: Recent, and historical, times of financial hardship show a need for a more robust understanding of how finances should be approached
+1.2.1. Pro: Without the basic knowledge of the financial system, the next generation will be more heavily influenced by outside forces, creating more risk for another financial collapse.
+1.3. Con: 'Fintech' can automate things like investing, so there's a reducing need for education as the technology in this area develops.
+1.3.1. Con: While ['Fintech'](https://www.investopedia.com/terms/f/fintech.asp) \(Financial Technology\) is an expanding field, in order for normal people to understand and engage with it, they need a base level of knowledge. Financial education can provide this knowledge.
+1.4. Pro: Financial literacy allows individuals greater power over their own lives.
+1.5. Pro: Behaviours, such as spending and saving, start early in life and can be difficult to change if not addressed early on.
+1.5.1. Pro: Children start to develop their spending and saving habits by the [age of 5](https://www.weforum.org/agenda/2018/01/children-develop-their-spending-and-saving-habits-by-the-age-of-5), which stay with them in later life.
+1.5.1.1. Con: If children's spending and saving habits are already shaped by the age of 5, then it is unlikely that a small amount financial education will make a significant difference to their long term financial outcomes.
+1.5.2. Pro: It's much harder to get into the housing market, due to shortages and tougher lending checks. Understanding how it works early helps to mould the right saving behaviours.
+1.5.2.1. Pro: If we are given financial classes in secondary school, people will have a better understanding of money which may help them when it comes to buying houses and property when they are older.
+1.6. Pro: Since the world seems to revolve around money, it only makes sense that we educate our people in ways to succeed in the world.
+1.7. Con: The internet is available to educate those who want to learn. It's not necessary to force something that may not stick.
+1.7.1. Con: The internet is useful when/if you know what questions to ask, which you may not be able to do without certain other information being provided in school.
+1.7.2. Con: This argument could be used to call for the abolishment of all school-based education, whereby people could use the internet to educate themselves in any subject they want.
+1.7.2.1. Pro: This would only make the nation less educated overall because people are lazy and would most likely only educate themselves in areas of personal interest.
+1.8. Con: Introducing something else to the system would then mean either a reduction, or removal, of other subjects currently taught
+1.8.1. Con: Not necessarily; the system could be adjusted to make room for this course.
+1.8.1.1. Pro: A school could switch from 6 classes \(6 periods each day\) each year to 4 longer classes each semester.
+1.8.1.2. Pro: Schools could expand the amount of time available to cover the curriculum, by making school days longer or cutting into break time.
+1.8.2. Con: One or more of those subjects may actually be less important than a class on how to navigate the financials of life.

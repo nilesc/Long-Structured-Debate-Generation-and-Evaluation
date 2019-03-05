@@ -1,0 +1,34 @@
+Discussion Title: Is C++ a Menace for Security in Computer Software?
+
+1. C++ is a menace for security in computer software
+1.1. Pro: Most security bugs are from memory problems in C++ software.
+1.1.1. Con: The more a language is used, the more security bugs will be found from that language. Memory corruption bugs happen in many languages, not just C++.
+1.1.1.1. Con: The majority of popular programming language is memory safe \(can't have application-level memory corruption\). Java, Ruby, Python, JS/Node.
+1.1.2. Con: This is a controversial claim, and should have supporting evidence.
+1.1.3. Pro: There are few other languages that permit the kind of memory leaks, pointer problems etc. C++ software tends to have by default.
+1.1.4. Pro: Out of bounds errors can fail silently and create random code execution bugs.
+1.2. Pro: It's very difficult to maintain software written by others in C++.
+1.2.1. Con: It would be very difficult to maintain software in less known, less popular languages.
+1.2.1.1. Con: Many less known, less popular languages are much quicker to learn and less prone to bugs because of knowing the language badly.
+1.2.1.2. Pro: Rarely used languages require a programmer to learn from scratch before any work can be done, making it very time-consuming.
+1.2.2. Con: This doesn't necessarily mean it is a risk for computer security; merely that it is difficult, and needs to be maintained by those with the skillset to manage it.
+1.3. Pro: It's very hard to really understand every element you use.
+1.3.1. Con: As long as it can be sufficiently understood to do the job, that is enough.
+1.3.1.1. Con: Not every programmer uses the same subset of the language, as such you still have to understand everything in the end.
+1.3.1.2. Pro: Nobody can know every feature, and it is laughable to try. As such, there has to be a line drawn where users can be said to know enough.
+1.3.2. Pro: In something like computer programming, it is fairly vital that the different component parts are fully comprehended, otherwise the risk of bugs and other problems is higher.
+1.4. Pro: The language is just way too big.
+1.4.1. Con: This is a good thing - it allows for a greater variety of features and variations.
+1.4.2. Pro: It makes the number of variables unmanageable for those who aren't absolute experts with C++.
+1.5. Con: C++ is necessary for embedded systems.
+1.5.1. Con: Rust \([rust-lang.org](https://www.rust-lang.org/en-US/)\) can be used in embedded as well. Stanford University even released a course on creating an operating system in Rust for Raspberry Pi entirely from scratch - [web.stanford.edu](http://web.stanford.edu/class/cs140e/)
+1.6. Con: No other language can give the speed C++ gives.
+1.6.1. Pro: Well-written C will be faster than C++, due to lower overhead \(at the expense of more difficult to maintain\). These same attributes are taken to an extreme with hand-written assembly.
+1.6.2. Con: Other languages are developing with equal or superior speed.
+1.7. Con: Frameworks and fault-tolerance in game programming make this a non-issue for game programming.
+1.8. Con: There are no good alternatives.
+1.8.1. Con: Rust \([www.rust-lang.org](https://www.rust-lang.org/en-US/)\) seems to be quite a good alternative - it introduces several concepts \(like borrowing, stricter mutability/immutability rules, etc.\) that allow the language to prevent dangerous bugs during compile time - with no impact on the runtime performance. It's also a low-level language that can easily accomplish anything C++ can, plus it incorporates many good practices from modern languages \(such as built-in documentation with Markdown support\).
+1.8.2. Pro: At least until new programs are created, it is vital to use a known and understood software program language.
+1.8.2.1. Con: This could stagnate progress; using new languages en masse, and ironing out the last issues, is more important.
+1.8.3. Con: This doesn't change the danger of C++, but just acknowledges that the focus needs to be on developing and improving alternatives.
+1.8.4. Pro: Although subsets can be done with other languages, the combination of everything C++ does can be hard or impossible to find in other languages.

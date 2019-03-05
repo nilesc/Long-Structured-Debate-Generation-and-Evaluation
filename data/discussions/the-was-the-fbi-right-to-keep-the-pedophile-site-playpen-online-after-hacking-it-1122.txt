@@ -1,0 +1,169 @@
+Discussion Title: The Was the FBI Right to Keep the Pedophile Site Playpen Online After Hacking It?
+
+1. The FBI did the right thing by keeping the pedophile site [Playpen online](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/), [after hacking](http://motherboard.vice.com/read/child-porn-sting-goes-global-fbi-hacked-computers-in-denmark-greece-chile) it.
+1.1. Pro: Being an agency working with crime and trying to prosecute and prevent it, this operation could be seen as sort of an "undercover ops", which is a natural part of the business the FBI is made for, when you try to prosecute or prevent things from happening.
+1.1.1. Con: An essential part of the democratic consensus is the trust, that everybody, including the executive organs, plays by the same set of rules, that count for anybody else.
+1.1.1.1. Con: That way of thinking may be right in an idealistic way, but fails when it comes to real problems and possible solutions. Sometimes the rules have to be "stretched" and the only institutions which are capable of doing so without sanctions are governmental ones as long as they have political backing for their actions.
+1.1.1.1.1. Pro: Since \(interior and exterior\) antagonists of the rule of law are using tactics and methods, which are clearly not in line with the rule of law, the nature of things has law enforcement to use the same methods if it wants to be on a par with its antagonists and protect the rule of law in general, which is the duty of law enforcement.
+1.1.1.2. Pro: Hosting a server for child pornography and thus distributing its content willingly is a [criminal offense](https://motherboard.vice.com/read/defense-lawyers-claim-fbi-peddled-child-porn-in-dark-web-sting).
+1.1.1.2.1. Con: It was not the FBI itself that uploaded child pornography but the users and thus the FBI did [not distribute](http://www.criminaldefenselawyer.com/resources/what-does-it-mean-distribute-child-pornography.htm) it.
+1.1.1.2.1.1. Con: The upnode speaks of distribution of child pornography, which is a crime too.
+1.1.1.2.1.1.1. Pro: Federal courts have determined that allowing another person to copy child pornography through a file-sharing program constitutes “distribution” under [federal law](http://www.criminaldefenselawyer.com/resources/what-does-it-mean-distribute-child-pornography.htm).
+1.1.1.2.1.2. Con: The FBI technically ran the site, where child pornography was shared and distributed. Although not actively producing and uploading those contents, they took over and provided the infrastructure in the darknet, which made it possible for the distribution of child porn. If you allow people to sell drugs in your home, although not being involved in the business itself you are still committing a crime, because you give assistance to the committing of crimes.
+1.1.1.2.1.3. Con: From the link above:Federal courts have determined that allowing another person to copy child pornography through a file-sharing program constitutes “distribution” under federal law. \(United States v. Budziak, 697 F.3d 1105, 1109 \(9th Cir. 2012\).\)
+1.1.1.3. Pro: Because of undercover operations, the FBI cannot be seen as 'good and honest', it is not law-abiding in the sense the term is [defined](http://www.collinsdictionary.com/dictionary/english/law-abiding).
+1.1.1.3.1. Con: Democratic consensus does not oppose undercover operations.
+1.1.1.3.2. Con: Undercover operations are legal.
+1.1.1.4. Con: -> See 1.1.1.3.1.
+1.1.1.5. Con: -> See 1.1.1.3.2.
+1.1.2. Pro: In undercover operations investigators do engage in criminal activities to gain information and win the trust of others.
+1.1.2.1. Pro: To uncover child pornography the FBI is allowed to initiate [undercover operations](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/organized-crime-and-human-trafficking/global-alliance-against-child-abuse/docs/commitements/ga_commitment_-_united_states_en.pdf), both offline and online after prior authorization.
+1.1.2.1.1. Con: In the Playpen case it was no undercover operation, but the running of an internet platform.
+1.1.2.1.1.1. Pro: The FBI did not disguise its identity, something that is crucial to qualify as undercover operation.
+1.1.2.1.1.1.1. Con: The whole setup of the Playpen case was undercover in itself, since the site was taken over and run by the FBI without the users taking note of it. Just because it was not an operation with some agents doing such operations in the field \("classic undercover work"\) it nonetheless was an undercover operation, just in the digital sphere with assumably more people engaged in than in "classic undercover ops".
+1.1.2.1.1.2. Con: -> See 1.1.2.1.1.1.1.
+1.1.2.1.2. Pro: The FBI had prior authorization when on February 20, 2015, the District Court for the Eastern State of Virginia [issued](https://www.documentcloud.org/documents/2166606-ferrell-warrant-1.html) a [warrant](http://www.scmp.com/news/world/article/1903797/caught-playpen-how-computer-malware-being-used-snare-child-porn-users) allowing officers to make use of Network Investigative Techniques.
+1.1.2.1.2.1. Con: In the case of [Jay Michaud](http://gadgets.ndtv.com/internet/features/how-the-us-is-using-malware-to-trap-child-porn-users-793261) the defendant argues that a warrant can only be deployed in the district in which it is issued. Because the warrant for Playpen was in Virginia it can only be executed there and not in other states.
+1.1.2.1.2.2. Con: It is against the [Fourth Amendment](http://www.scmp.com/news/world/article/1903797/caught-playpen-how-computer-malware-being-used-snare-child-porn-users) protecting private areas against indiscriminate searches by authorities, as argued by the public defendant of Jay Michaud.
+1.1.2.1.2.3. Con: According to the Ferrell Warrent link, the site continued to run. There is no indication in either link the FBI was authorised to continue the illegal distribution of the material on Playpen, only permission to hack, to use malware, to overstep confidentiality agreements, and eventually subpoena the ISP for the subscriber information.
+1.1.2.2. Con: Still, even if criminal actions by authorities are permitted in undercover operations, they cannot be what is regarded "outrageous". Clearly, hosting a website for child pornography is an [outrageous](http://www.stanfordlawreview.org/sites/default/files/articles/Joh.pdf) action.
+1.1.2.3. Con: Yet, they can still be [held liable](http://www.stanfordlawreview.org/sites/default/files/articles/Joh.pdf) for their actions in a court of law.
+1.1.3. Con: Not all undercover operations are necessary, thus they need to be judged individually.
+1.1.3.1. Pro: The choice about an undercover operation needs to [consider](https://books.google.co.kr/books?id=zaS4zM9VqV8C&pg=PA284&lpg=PA284&dq=unnecessary+undercover+operations&source=bl&ots=KHiiknQCDN&sig=BMtyx6IllDo1F0ykiJ9KnpoFbxw&hl=en&sa=X&ved=0ahUKEwjJzabb1tjKAhWi2KYKHQvNAcQ4ChDoAQguMAQ#v=onepage&q=unnecessary%20&f=false) the potential harm caused and continued re-evaluation if an operation is still necessary to achieve initial aims.
+1.1.4. Con: The FBI has to respect the law.
+1.1.4.1. Pro: There are special provisions that govern undercover operations. The FBI needs to operate within those.
+1.1.4.1.1. Pro: -> See 1.1.2.2.
+1.1.4.1.2. Pro: -> See 1.1.2.3.
+1.2. Con: By keeping it online the FBI increased the availability of child pornography in the internet.
+1.2.1. Pro: During the time the FBI hosted the website, there were no measures of preventing  circulation of the pornographic material to instances, which in turn served as hosts for further circulation of the material.
+1.2.1.1. Pro: During the 13 days the FBI ran the website users could still download child pornography. \([usatoday.com](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/)\)
+1.2.1.1.1. Pro: The FBI believes that releasing the image of a child is an [offense](https://soundcloud.com/usatodaynews/fbi-ran-child-porn-site) in its own rights.
+1.2.1.1.2. Con: That was exactly what the operation was about, getting data of people who visit the page and up-/download such content.
+1.2.1.2. Pro: During the 13 days the FBI ran the website users could still uplode images. \([usatoday.com](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/)\)
+1.2.2. Con: Because it is very difficult to identify child pornography offenders these measures were necessary.
+1.2.2.1. Pro: Because the internet is very flexible the closure of a platform like Playpen can easily be substituted. Thus special measures were necessary.
+1.2.2.2. Pro: Most offenders are anonymous, but their identity can be revealed by using a bait.
+1.2.2.2.1. Pro: It is very difficult to identify child pornography offenders using Tor with other methods. \([bloomberg.com](http://www.bloomberg.com/news/articles/2014-04-15/pedophiles-lured-by-avatar-in-tech-industry-porn-fight)\)
+1.2.2.2.1.1. Con: Tor got [hacked](http://www.computerworld.com/article/3005083/security/tor-fbi-cmu-million-itbwcw.html) by a FBI supported research program in 2014. Thus, there are other ways to identify Tor users.
+1.2.2.3. Con: The creation of an avatar gave Interpol information on 1.000 users, which is a similar result to the Playpen operation. \([bloomberg.com](http://www.bloomberg.com/news/articles/2014-04-15/pedophiles-lured-by-avatar-in-tech-industry-porn-fight)\)
+1.2.2.3.1. Con: Avatar tactics are only available for webcam sex tourism and not applicable for Playpen-like platforms.
+1.2.2.4. Con: The [majority](http://www.unh.edu/ccrc/pdf/CV210%20Arrests%20for%20CP%20Production%20CM%202011.pdf) of child pornography cases is reported individually and not uncovered by law enforcement activities, suggesting that the Playpen tactic was unnecessary.
+1.2.2.4.1. Con: Any additional investigation is useful in reducing child pornography and therefore necessary.
+1.2.2.4.2. Con: It is precisely through tactics like the one used in Playpen that law enforcement activities become more successful.
+1.2.2.4.2.1. Pro: FBI Operation '[Delego](https://en.wikipedia.org/wiki/Operation_Delego)' resulted in the arrest of 54 individuals who made use of the pedophile platform 'Dreamboard'.
+1.2.2.4.2.2. Pro: The FBI used a similar tactic in the infiltration of [Freedom Hosting](http://www.wired.com/2013/09/freedom-hosting-fbi/) in 2013 charging several offenders.
+1.2.2.5. Pro: It occurs seldom that the FBI has the possibility to access such a significant amount of offenders and has to use this window of opportunity.
+1.2.2.6. Pro: A bait is a successful tactic to identify anonymous users and thus justified.
+1.2.2.6.1. Pro: As users of such websites usually do not pay to get access to pornographic content, their IP adresses are the only way to identify them.
+1.2.2.6.2. Con: There are better ways available that do not distribute child pornography, like the creation of [avatars](http://www.terredeshommes.org/webcam-child-sex-tourism/) to lure potential offenders.  [\(Bloomberg\)](http://www.bloomberg.com/news/articles/2014-04-15/pedophiles-lured-by-avatar-in-tech-industry-porn-fight)
+1.2.2.6.3. Pro: In the past the FBI used baits and was successful in identifying users.
+1.2.2.6.3.1. Pro: -> See 1.2.2.4.2.2.
+1.2.2.6.3.2. Pro: In [Operation Candyman](http://www.popcenter.org/problems/child_pornography/5/#endref99) 56 FBI officers infiltrated a pedophile ring and observed it for one year to collect information on users instead of shutting it down.
+1.2.2.6.4. Con: -> See 1.2.2.4.
+1.2.2.6.5. Pro: Without using a malware software it is close to impossible to identify the true IP of pedophiles.
+1.2.2.7. Pro: Because most crimes of child pornography are commited [at home](https://www.ncjrs.gov/pdffiles1/ojjdp/204911.pdf) special measures are necessary to infiltrate these crime scenes.
+1.2.2.8. Con: In 2009, only about [one‐quarter](http://www.unh.edu/ccrc/pdf/CV270_Child%20Porn%20Production%20Bulletin_4-13-12.pdf) of adult offenders distributed images they produced online.
+1.2.2.8.1. Con: The [internet](http://www.popcenter.org/problems/child_pornography/print/) has facilitated the access to and distribution of child pornography.
+1.2.2.8.2. Con: Between 2000 and 2006, the percentage of offenders that distributed child pornography online [increased](http://www.unh.edu/ccrc/pdf/CV204%20CP%20possessors.pdf) from 31% to 38%. We can expect this trend has continued and online distribution is much more significant today.
+1.2.2.8.3. Con: On the website itself users were clearly intending to post and retrieve child pornography.
+1.2.2.8.3.1. Pro: The website address had to be known from the community making knowledge highly restricted.
+1.2.2.8.3.1.1. Pro: It was not possible to search the website using Google.
+1.2.2.8.3.2. Pro: It was necessary to install [Tor](https://metrics.torproject.org/userstats-relay-country.html) to access Playpen. Tor has only 2.000.000 users and therewith does not represent the general public.
+1.2.2.8.3.3. Pro: The users of Playpen were [ranked](https://www.documentcloud.org/documents/2166606-ferrell-warrant-1.html) depending on how many children pornographic items they share and received preferential and wider access in return.
+1.2.2.8.4. Pro: The number of online predators [increased less](http://www.unh.edu/ccrc/pdf/CV268_Trends%20in%20LE%20Response%20Bulletin_4-13-12.pdf) than those who know their victims prior to the crime between 2000 and 2009.
+1.2.2.9. Pro: [Typical offenders](http://www.unh.edu/ccrc/pdf/CV210%20Arrests%20for%20CP%20Production%20CM%202011.pdf) are white, middle-income men with a highschool or college degree, without criminal background while the victims have a personal connection. This makes it extremely difficult to identify and prosecute perpetrators.
+1.2.2.10. Pro: Because perpetrators use coercion, romance, or friendship as tactic there are [few traces](http://www.unh.edu/ccrc/pdf/CV210%20Arrests%20for%20CP%20Production%20CM%202011.pdf) of the crime which makes it hard to track down offenders.
+1.2.2.11. Pro: Not many physical traces of criminal activity [can be found](http://www.unh.edu/ccrc/pdf/CV210%20Arrests%20for%20CP%20Production%20CM%202011.pdf) because children are rarely penetrated and hardly any violence is involved. Thus, special strategies are necessary.
+1.2.2.12. Pro: Victims [rarely](http://www.unh.edu/ccrc/pdf/CV204%20CP%20possessors.pdf) report the crime, making it even more difficult to identify and track offenders.
+1.2.2.12.1. Pro: Many victims are so young that they do not even know they are victims of a crime.
+1.2.2.12.1.1. Pro: About 90% of the [victims](https://en.wikipedia.org/wiki/Child_pornography) appear to be under the age of 12.
+1.2.2.12.2. Pro: As most [offenders](http://www.childmolestationprevention.org/pdfs/study.pdf) are close family members or friends of the family, they feel relatively safe.
+1.2.2.12.3. Pro: Where victims cannot or do not report crimes the government has to take affirmative action to fill that void.
+1.2.3. Pro: The FBI has no control to stop these images from being copied or re-copied.
+1.2.4. Con: Playpen users are potential offenders given the number of affirmative steps necessary to reach the website. Thus, child pornographic content was not accessible to the wider public.
+1.2.4.1. Con: If the main visitors of a site are pedophiles rather than the general public then it is even more questionable to keep it accessible.
+1.2.4.2. Pro: -> See 1.2.2.8.3.1.
+1.2.4.3. Pro: -> See 1.2.2.8.3.2.
+1.2.4.4. Pro: -> See 1.2.2.8.3.3.
+1.2.4.5. Pro: The [website clearly warned](https://www.documentcloud.org/documents/2166606-ferrell-warrant-1.html) users to "not post information here that can be used to identify you".
+1.2.5. Pro: New material could be produced for Playpen and uploaded.
+1.2.6. Con: -> See 1.2.1.1.2.
+1.2.7. Pro: Of more than 100.000 users that visited the website while the FBI ran it, only [137](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/) were charged with a crime so far. That means that about 99.000 people could look at, upload and/or download child pornography on FBI servers for nearly two weeks.
+1.2.7.1. Con: The operation resulted in [many charges](http://motherboard.vice.com/read/the-fbis-unprecedented-hacking-campaign-targeted-over-a-thousand-computers) across the US indicating that it was successful in identifying many offenders.
+1.3. Con: To keep it online violates the 'guiding principles' of the Global Alliance against Child Sexual Abuse Online of whom the US is a member.
+1.3.1. Pro: [The Global Alliance against Child Sexual Abuse Online](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/organized-crime-and-human-trafficking/global-alliance-against-child-abuse/docs/commitements/ga_commitment_-_latvia_en.pdf) advocates to prevent re-victimization of children.
+1.3.2. Pro: An [operational goal](http://ec.europa.eu/dgs/home-affairs/what-is-new/news/news/2012/docs/20121205-declaration-anex_en.pdf) is to shut down identified sites as fast as possible.
+1.3.3. Con: The prosecution of offenders, including their identification online, is [part of the Alliance](http://useu.usmission.gov/globalalliance_062112.html) as well. Hence, online activities, as in the Playpen case, have to be judged under those considerations.
+1.4. Con: The decision to keep Playpen online infringed upon the rights of the victims.
+1.4.1. Con: Lawyers of child pornography victims acknowledge those tactics. \([usatoday.com](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/)\)
+1.4.2. Pro: According to the US [Justice Department](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/), keeping those images/videos online violates the rights and dignity of the children they depict.
+1.4.2.1. Con: -> See 1.4.1.
+1.4.2.2. Con: The US Justice Department itself acknowledged the tactic. \([usatoday.com](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/)\)
+1.4.2.3. Pro: -> See 1.2.1.1.1.
+1.4.3. Con: The prosecution of perpetrators serves the interests of victims because offenders will have to pay [compensation](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/organized-crime-and-human-trafficking/global-alliance-against-child-abuse/docs/commitements/ga_commitment_-_united_states_en.pdf).
+1.4.3.1. Con: Prosecution?! No, we're talking about distribution. By this reasoning the more perpetrators there are the more can be apprehended and the better it will be for the victims...?
+1.4.4. Pro: -> See 1.2.3.
+1.4.5. Pro: By keeping the website running the FBI caused additional harm to victims.
+1.4.5.1. Pro: The extra time the site was online prolonged the danger to children under imminent threat.
+1.4.5.1.1. Pro: A section on Playpen [gave advice](https://www.documentcloud.org/documents/2166606-ferrell-warrant-1.html) on 'should I proceed' for users thus putting additional children at risk.
+1.4.5.1.2. Pro: -> See 1.2.5.
+1.4.5.2. Pro: Pedophile websites are encouraging members to keep uploading content regularly, such as in '[Dreamboard](http://www.justice.gov/sites/default/files/opa/legacy/2011/08/03/indictment-blackbart-second-phase.pdf)'. Keeping it online thus encourages the production of more child pornography.
+1.4.5.3. Pro: The FBI disregarded the privacy of the children which could be seen on the online content on the website.
+1.4.5.4. Pro: -> See 1.2.1.1.1.
+1.5. Pro: There were significant [sunk costs](https://en.wikipedia.org/wiki/Sunk_costs) involved that justified keeping Playpen running.
+1.5.1. Pro: The long-term success or failure \(in terms of effictiveness\) of operations like those and others by the same principle \(planting malware in the Tor network\) gives the federal security agencies knowledge and experience of acting within the Darknet and helps prosecuting crime into spheres where law is not obeyed all the time due to practical reasons \(difficult prosecution due to lack of experience, knowledge, etc.\)
+1.5.2. Pro: The FBI noticed Playpen shortly after it was created and waited to see it grow. Victims in this incubation period had to be vindicated by [investigation](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/) successes.
+1.5.3. Con: To keep it running eroded the trust of the public into the legality of FBI actions.
+1.5.3.1. Pro: Operations like those are costly and dance legal limbo. This is not what should be done with taxpayers' money and trust in the legality of the institutions which have the mandate to defend legality.
+1.6. Con: The FBI engaged in criminal acts by keeping Playpen online.
+1.6.1. Pro: The FBI became criminal itself when it started to distribute child pornography.
+1.6.1.1. Con: -> See 1.1.
+1.6.1.2. Pro: It is [against federal law](https://en.wikipedia.org/wiki/Child_Pornography_Prevention_Act_of_1996) to disseminate child pornography.
+1.6.1.2.1. Con: -> See 1.1.1.2.1.
+1.6.1.2.2. Pro: Since 2006, [federal law](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/organized-crime-and-human-trafficking/global-alliance-against-child-abuse/docs/commitements/ga_commitment_-_united_states_en.pdf) has required that images of child pornography remain in control of the government or the court during criminal proceedings, thereby minimizing further dissemination of the images.
+1.6.1.2.2.1. Con: -> See 1.1.2.1.2.
+1.6.1.2.3. Con: -> See 1.1.2.1.2.
+1.6.1.3. Con: -> See 1.1.2.1.2.
+1.6.1.4. Pro: -> See 1.2.7.
+1.6.1.5. Con: -> See 1.1.1.2.1.
+1.6.1.6. Pro: -> See 1.2.1.1.1.
+1.6.1.7. Pro: -> See 1.4.5.
+1.6.2. Pro: The FBI knowingly offered a mean of transport for child pornography and therewith violated [US law](https://www.law.cornell.edu/uscode/text/18/2252).
+1.6.2.1. Con: -> See 1.1.2.1.2.
+1.6.2.2. Con: -> See 1.1.
+1.6.2.3. Pro: -> See 1.1.1.2.1.2.
+1.6.3. Pro: Knowingly presenting child pornography is against [US law](https://www.law.cornell.edu/uscode/text/18/2252A).
+1.6.3.1. Con: -> See 1.1.2.1.2.
+1.6.3.2. Con: -> See 1.1.
+1.6.3.3. Pro: -> See 1.1.1.2.1.2.
+1.6.4. Con: -> See 1.1.2.1.2.
+1.7. Pro: Keeping Playpen running was necessary to fight child pornography.
+1.7.1. Con: [Only 6%](http://www.unh.edu/ccrc/pdf/CV204%20CP%20possessors.pdf) of child pornography offenders use encryption thus making Playpen tactics to circumvent anonymity unjustified.
+1.7.1.1. Con: [Playpen](https://www.documentcloud.org/documents/2166606-ferrell-warrant-1.html) was a major pedophile hub. This makes users of Playpen special targets and 'worth' to prosecute.
+1.7.2. Con: -> See 1.2.2.6.2.
+1.7.3. Pro: The number of child pornography shared online grew [fourfold](http://www.sumall.org/child-pornography-data/) between 2007 and 2011.
+1.7.4. Pro: -> See 1.7.1.1.
+1.7.5. Pro: Playpen had a very [high activity of users](https://www.documentcloud.org/documents/2166606-ferrell-warrant-1.html) which allows to identify many offenders in short time.
+1.7.5.1. Pro: More than 100.000 registered users visited the site while it was under the FBI's control. \([usatoday.com](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/)\)
+1.7.6. Con: As arrests for technology‐facilitated child sexual exploitation crimes are [increasing](http://www.unh.edu/ccrc/pdf/CV268_Trends%20in%20LE%20Response%20Bulletin_4-13-12.pdf) anyway, there is no need for new approaches.
+1.7.7. Con: -> See 1.2.7.
+1.7.8. Pro: Through successes in the past, the FBI has acquired a sense of what is necessary.
+1.7.8.1. Con: -> See 1.2.2.6.2.
+1.7.8.2. Pro: -> See 1.2.2.6.3.2.
+1.7.8.3. Con: Even very experienced organisations sometimes make mistakes.
+1.7.8.4. Con: -> See 1.2.2.4.
+1.7.8.5. Pro: The FBI itself declares it only makes use of the Playpen tactic in 'the [most serious](http://gadgets.ndtv.com/internet/features/how-the-us-is-using-malware-to-trap-child-porn-users-793261) cases'.
+1.7.8.6. Pro: -> See 1.2.2.4.2.2.
+1.7.8.7. Pro: In 2013 and 2014, FBI investigations of child exploitation offenses [resulted](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/organized-crime-and-human-trafficking/global-alliance-against-child-abuse/docs/reports-2014/ga_report_2014_-_united_states_en.pdf) in 2,538 domestic arrests and 1,906 convictions.
+1.7.8.8. Pro: -> See 1.2.2.4.2.1.
+1.7.9. Con: -> See 1.2.2.4.
+1.7.10. Pro: -> See 1.2.2.
+1.7.11. Pro: The FBI was able to identify 1.300 true IP addresses and trigger 137 legal investigations. \([usatoday.com](http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/)\)
+1.7.11.1. Con: -> See 1.2.7.
+1.7.12. Con: It is against the Fourth Amendment protecting private areas against indiscriminate searches by authorities, as argued by the public defendant of Jay Michaud. \([scmp.com](http://www.scmp.com/news/world/article/1903797/caught-playpen-how-computer-malware-being-used-snare-child-porn-users)\)
+1.8. Con: In recent years [major prosecution successes](http://scholars.unh.edu/cgi/viewcontent.cgi?article=1045&context=ccrc) have been made not by the FBI, but by the Internet Crimes against the Children Task Force. Thus, the FBI should not have carried out such a controversial tactic.
+1.8.1. Con: A variety of other agencies [are involved as well](http://www.popcenter.org/problems/child_pornography/5/#endref99) and this does not cause problems.
+1.8.2. Con: -> See 1.7.8.
+1.8.3. Con: Both the [FBI](https://www.justice.gov/sites/default/files/jmd/legacy/2013/10/08/fy13-fbi-bud-summary.pdf) and the Internet Crimes against the Children Task Force are [funded](http://scholars.unh.edu/cgi/viewcontent.cgi?article=1045&context=ccrc) by the US Department of Justice and thus have to work together.
+1.8.4. Con: Catching criminals is more important than the question which agency performed the task.
+1.8.5. Con: The [FBI](https://www.justice.gov/sites/default/files/jmd/legacy/2013/10/08/fy13-fbi-bud-summary.pdf) has more resources than the [Internet Crimes against the Children Task Force](http://www.ojjdp.gov/programs/progsummary.asp?pi=3) and thus was able to develop, deploy, and execute the Playpen tactic.

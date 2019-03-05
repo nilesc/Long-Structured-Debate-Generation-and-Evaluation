@@ -1,0 +1,112 @@
+Discussion Title: Are free markets better for humans than regulated markets?
+
+1. Free markets are better for humans than regulated markets.
+1.1. Pro: Free markets lead to more egalitarian societies and improved human development than regulated markets.
+1.1.1. Pro: The extension of regulation is communism, which leads to the oppression of human freedom and development.
+1.1.1.1. Pro: Communism implies the private goods to become "common goods", and "common goods" entails stealing from those who produce the goods to privilege to those who haven't created it, and received it from the government.
+1.1.1.1.1. Con: The concept of wealth and money are abolished under communism, so those cannot be redistributed.
+1.1.1.1.2. Con: Communism would only redistribute the means of production - personal belongings are maintained.
+1.1.1.2. Pro: Communism has failed to achieve any success in the past, causing poverty in the countries where it has been established.
+1.1.1.3. Pro: Communism promotes authoritarian powers, as seen in the communist [Soviet Union](http://psych.utoronto.ca/users/peterson/psy430s2001/McFarland%20SG%20Authoritarianism%20in%20Soviet%20Union%20JPSP%201992.pdf) or [Cuba](https://www.hrw.org/news/2016/11/26/cuba-fidel-castros-record-repression).
+1.1.2. Pro: Free markets promote individuals in society to actively contribute their skills and ideas, which will ultimately improve society.
+1.1.2.1. Pro: This is because people are less afraid of superfluous costs and liabilities, which are a side effect of regulated markets.
+1.1.3. Con: A deregulated market introduces economic barriers to education by removing government subsidies and regulation to lower the costs of education at all levels, thus restricting education to a smaller segment of the populace.
+1.1.3.1. Pro: As economic [inequality increases](http://onlinelibrary.wiley.com/doi/10.1111/1475-4991.00060/abstract?systemMessage=Please+be+advised+that+we+experienced+an+unexpected+issue+that+occurred+on+Saturday+and+Sunday+January+20th+and+21st+that+caused+the+site+to+be+down+for+an+extended+period+of+time+and+affected+the+ability+of+users+to+access+content+on+Wiley+Online+Library.+This+issue+has+now+been+fully+resolved.++We+apologize+for+any+inconvenience+this+may+have+caused+and+are+working+to+ensure+that+we+can+alert+you+immediately+of+any+unplanned+periods+of+downtime+or+disruption+in+the+future.) when education is low, due to reduced social mobility, this effect will worsen.
+1.1.4. Pro: Regulation leads to [black markets](https://www.investopedia.com/articles/economics/12/mechanics-black-market.asp), which opens the way for lewd activities to take place.
+1.1.4.1. Con: Regulation against the type of 'lewd activities' that take place in black markets minimises the frequency with which such activities are taking place. Without them, organ donation, drug trade and prostitution would be even more commonplace.
+1.1.5. Pro: Free markets protect and empower small businesses run by a large population of individuals, rather than large corporations that benefit only a small population of individuals.
+1.1.5.1. Con: Free markets give more power to big players, and actually creates a higher entry barrier for small bussines.
+1.1.6. Con: Unregulated economies favour those who already have the greatest economic power.
+1.1.6.1. Pro: Government interventions such as anti-trust laws can actually increase economic freedom for most people.
+1.2. Con: Without regulation free markets do not provide public goods.
+1.2.1. Con: Google maps are non-rivalrous and non-excludable \(At very least no one is excluded from them\) They are provided by a for profit company.
+1.2.1.1. Con: Google collects valuable data, providing business profit-driven incentive to provide this service. Not all public goods provide such incentive.
+1.2.2. Con: Wikipedia provides knowledge as a public good without having to be forced into existence by regulation.
+1.2.3. Con: Funding models will change, but if a good is possible to produce and there is demand for it, it will be produced.
+1.2.4. Pro: Generally, government-run public systems are cheaper than non-government run ones. For example, countries with universal health care [spend less](http://www.pnhp.org/facts/single-payer-system-cost) across the board than those without.
+1.2.4.1. Con: Health care is not a [public good](https://en.wikipedia.org/wiki/Public_good) in the strictly economic definition of the word. It is both excludable and rivalrous.
+1.3. Con: Regulated markets are better in dealing with externalities.
+1.3.1. Con: A consumer is less likely to support a company that produces externalities, and the company is more likely to change or to fail because of this.
+1.3.1.1. Con: Some consumers may be uninformed about a company's impact on the environment and the effects that this has.
+1.3.1.1.1. Pro: Even the average educated consumer may not know about or understand externalities, as not every educated person has an economics degree.
+1.3.1.1.2. Pro: In a deregulated market, information is restricted \(due to no net neutrality and other economic barriers to information access, due to removal of public funds and resources\). Thus, consumers are less likely to be informed.
+1.3.1.1.3. Con: This is where certification and watchdog agencies come into play. Yes, they're essentially solving the issues that government accomplishes, but because of competition they're forced to be more efficient- and most importantly- trustworthy.
+1.3.1.2. Con: Most consumers tend to consider the price more important than the sustainability of a product. Not being environmentally sustainable as a company pays off, because it can typically produce products and market them at a lower price than their environmentally sustainable competitor. You can see that in how well normal supermarkets are doing and how many more there are of them, compared to their biological counterparts.
+1.3.2. Con: That's a contradiction, the best way in dealing with externalities ─and with whoever─ is when none is stoping you to do so, when none is "regulating" you from doing what you want.
+You need freedom if you want to deal with others by exchanging value for value.
+1.3.3. Pro: Air pollution and green house gas emissions are threatening to reduce living quality for all of us. Under free market conditions, there are no effective incentives to reduce air pollution or green house gas emissions.
+1.4. Pro: Freer markets offer a wider array of goods than regulated markets.
+1.4.1. Pro: Socialist, mixed or command economies heavily regulate what and what cannot be sold to public beyond what it is normative ruining business incentive to produce.
+1.4.1.1. Pro: For example due to government subsidies there is no strong pharmaceutical industry in Canada hence they rely heavily on the United States and other countries.
+1.4.1.2. Pro: Businesses produce less in regulated markets.
+1.4.2. Con: Wider can also means worse in quality.
+1.5. Con: Free markets only work effectively on paper, for the conditions needed for it to function are never seen in real life.
+1.5.1. Pro: Free markets under ["laissez-faire economics"](https://www.huffingtonpost.com/ian-fletcher/free-market-economics-critique_b_1155820.html) do exist but only on paper. Businesses are taught to avoid such a system.
+
+In reality we should talk about liberal market economies \([LME](http://oxfordindex.oup.com/view/10.1093/oi/authority.20110803100103832)\) \(e.g., U.S., U.K., Canada, Australia, New Zealand, Ireland\) and coordinated market economies \([CME](http://oxfordindex.oup.com/view/10.1093/oi/authority.20110803095637561)\) \(e.g. Germany, Japan, Sweden, Austria\).
+1.5.2. Pro: The "free market" is a myth. Public policy \(which is forged through regulation, among other things\) [precedes](http://theweek.com/articles/731841/there-no-such-thing-deregulation) any functioning market.
+1.5.2.1. Con: People have bartered and exchanged goods well before any governmental structures or public policy had been established.
+1.6. Pro: Free markets allow for greater economic growth than regulated markets.
+1.6.1. Pro: Free markets incentivise further innovation.
+1.6.1.1. Con: Innovation in free markets is geared to business profits, and do not necessarily benefit the population.
+1.6.1.1.1. Con: A business cannot make profits without offering some benefit to people. Nobody would voluntarily hand over their money to a business if they didn't think they were getting a benefit from it.
+1.6.1.1.1.1. Con: Business may offer benefits to few people, while the negative externalities may impact the rest of society. Therefore business can actually make profit on something harmful to society.
+1.6.1.2. Pro: With property rights free from extractive government powers, citizens are incentivised to develop new industry that they can profit from.
+1.6.1.3. Pro: Free markets are more likely to promote innovation that correlate with the common values of the population, not the financial benefit of the regulators.
+1.6.2. Pro: Free markets don't have costs associated to regulations.
+1.6.3. Con: Free market theory hopes prices will reflect costs \(despite externalities\) and value both implied & actual value \(despite the value of money changing from person to person & overtime due to differences in income & personal preferences\) while for a sale to be made the customer must believe the value they get exceeds the price they pay. A sane economic model is[21 centurary thinking](https://www.theguardian.com/.../doughnut-growth-economics-book-economic-model)
+1.6.4. Con: Free markets are less effective than regulated ones at identifying national competitive advantages, making it harder for a country to specialise.
+1.7. Pro: Free markets generate the highest possible quality of life from the capital and resources available.
+1.8. Con: Effective free markets rely on the participants to adhere to the [non-aggression principle](https://en.m.wikipedia.org/wiki/Non-aggression_principle), which is a highly questionable assumption.
+1.9. Pro: Free markets are better able to adapt to constant and infinite changes in complexity
+1.10. Pro: Regulated markets often cause unintended consequences.
+1.10.1. Pro: Regulation is often written with current business models, technologies, and conditions in mind.  Thus, when a new category of business emerges, existing regulation can be a poor fit and can hamper the development of the new category.
+1.10.2. Pro: When the government gave bailout money to corporations following the financial crisis of 2008, they were not used for the intended purpose of saving jobs, but rather to [pay CEO bonuses](http://www.nytimes.com/2009/07/31/business/31pay.html).
+1.10.2.1. Con: Given that the businesses decided to funnel the money provided by the government to the top, at great utility, economic, and other cost to others, we should not trust businesses in a free market.
+1.11. Con: Regulated markets are the only way to ensure companies are environmentally and socially responsible.
+1.11.1. Pro: A free market actually encourages abuses by allowing companies to withhold lifesaving services. Under a regulated system, the government ensures that all people have equal access to those services, thus allowing each individual to determine their need of a service.
+1.11.1.1. Pro: This determination is more accurate than under a free market, where those services are meted out not on a need-based metric at all but based on the wealth of the recipients.
+1.11.1.2. Pro: Turing pharmaceuticals, lead by [M. Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli), is an example of private companies extortionately raising the price of a lifesaving drug, meaning many were unable to afford it.
+1.11.1.2.1. Con: According to the same Wikipedia page as cited in the parent claim, it took less than 3 months for [a competitor to provide an alternative treatment at a lower price](https://www.nbcnews.com/health/health-news/competitor-offer-1-pill-after-turing-price-hike-outrage-n449661).
+1.11.1.3. Con: The more that a business is prevented from making a profit on a product or service, the less likely it is to continue offering that product or service. In other words, you can legislate that CVS must offer flu shots for free, but you can't stop them when they decide to stop offering flu shots. The result is that we are worse off on net - now both poor *and* rich don't have access. They are finally equal, but they are equal in poverty.
+1.11.2. Pro: -> See 1.3.1.
+1.11.3. Con: There are [plenty of examples](https://www.virgin.com/virgin-unite/10-global-companies-are-environmentally-friendly) of companies who make efforts to work more socially and environmentally responsible, even though there aren't any regulations that would force them to.
+1.11.4. Con: We already rely on companies to go above and beyond the regulations that are currently in place when it comes to their societal and environmental impact. Applying regulation instead of high moral, ethical and environmental standards to corporate activity can create complacency to improve standards further, because the company is 'complying with existing regulations'.
+1.11.5. Con: There are methods of regulating companies that don't involve crippling the free market. For example, fining companies for carbon emissions over a threshold.
+1.11.6. Con: Companies respond to consumer demand. As such, if citizens demand through their purchase choices that companies should be environmentally and socially responsible, companies will respond. There is no need for explicit regulation on the matter.
+1.11.6.1. Con: A regulated market better accomplishes this end by holding all companies and all market sectors to the same standard instead of waiting for the market to regulate itself over many years. For time-sensitive issues like climate change, this may make an important difference.
+1.11.6.2. Con: This relies on the idea that citizens will demand that companies be environmentally responsible in large enough numbers to offset the cost to those companies of engaging in those practices, which is not a guarantee.
+1.11.6.2.1. Pro: -> See 1.3.1.1.
+1.11.6.2.2. Pro: The fact is that citizens generally do not organize themselves to demand environmentally responsible action.
+1.11.6.2.3. Pro: When citizens do demand environmentally responsible action, it is generally not clear what environmentally responsible actually means, because the multiplicity of all the environmental challenges the world is facing.
+1.11.6.2.4. Pro: Even when there is a demand from citizens that companies do something about their environmental impact, generally this ends up only resulting in reporting about their impact through for instance the GRI standards. Scientific [research](https://www.emeraldinsight.com/doi/full/10.1108/MEQ-10-2015-0191) shows that companies reporting on the GRI standards generally even perform worse on environmental indicators than those that do not report on GRI standards, in short, greenwashing.
+1.11.7. Pro: Regulated markets allow us to benefit those in need.
+1.11.7.1. Con: We cannot know what humans need or want 'a priori' so a regulated market is doomed in principle.
+1.11.7.1.1. Con: Under a regulated market, services that one might define as a  "need" \(healthcare, food, housing, etc\) are regulated to ensure more equal access. Under a free market, these needs are not meted out on a need-based metric at all but rather according to who can afford it. Thus, a regulated market is strictly better at meeting needs than a free one.
+1.11.7.2. Pro: Deregulation causes economic barriers to social mobility by reducing social assistance for housing or education.
+1.12. Pro: Free markets allow for spontaneous order to emerge, valuing factual, instead of idealized, human needs.
+1.12.1. Con: Free markets introduce their own form of chaos, as biases allow for sub-optimal outcomes in a free-market such as nepotism, racism, classism, and misogyny.
+1.12.1.1. Con: Free markets operate on profitability and profitability alone. A company doesn't care what race or sex an employee is so long as they're more productive than the people they didn't hire.
+1.12.1.1.1. Pro: The moment a business starts denying services to customers based on prejudice, a competitor will pop up that doesn't discriminate and drive the other business out.
+1.12.2. Con: Market regulation is not about curbing its ability to be "free" in terms of flexibility to adjust to consumers' needs, but to be able to find a mid-point between what market's participants want and potential dangers outside of market's domain.
+1.12.2.1. Con: This claim needs clarification as to what 'potential dangers outside of market's domain' means.
+1.12.3. Pro: Free markets enable decentralized resource allocation.
+1.12.4. Pro: Any attempt to centralize decision making \(price-setting, quotas, regulations\) inevitably suffers from the lack of accurate, localized information.
+1.12.4.1. Pro: Government officials cannot allocate prices, labor, and capital as well as the vast, non-coercive, distributed computation machinery of the free market.
+1.12.5. Pro: What does well in the market is determined by the consumer, instead of by political leaders and lobbyists.
+1.13. Con: Free markets, unlike regulated markets, simply generate monopolies.
+1.13.1. Con: Regulated markets are more likely to create laws against newer and better ideas/products that create competition so as to protect the interests of an already existing business.
+1.13.1.1. Con: -> See 1.6.1.1.
+1.13.1.2. Con: Free markets are more likely to promote innovation that correlates with the financial benefits of corporate CEOs.
+1.13.2. Con: Public bodies and nationalised industries are monopolies in and of themselves, meaning the government creates monopolies.
+1.13.2.1. Con: The government being a monopoly does not support the claim that only the government creates monopolies.
+1.13.2.2. Con: By definition, a monopoly is the exclusive control of supply or trade of a commodity or service. Thus, under a simple regulated economy in which private business still has control over the flow of goods and services, the government cannot [by definition](http://www.dictionary.com/browse/monopoly) be a monopoly.
+1.13.2.3. Con: This is not necessarily a bad thing, when their primary goal is not to maximise shareholder capital but rather to maximise citizens' living standards.
+1.13.2.4. Pro: Government have the power to introduce regulation which prohibits any businesses that competes with a nationalised company.
+1.13.3. Con: A [monopoly](https://en.wikipedia.org/wiki/Monopoly) defined as a single person or enterprise being the only supplier of a good or service is not inherently a bad thing if the monopolist is the most efficient producer of that good or service.
+1.13.4. Con: In a truly free market, natural competition will arise to level out the domination of monopolies.
+1.13.5. Pro: Unless governments intervene to oppose collusion, companies can buy their way towards an unfair market advantage that creates monopolistic economies.
+1.13.6. Pro: Monopolies that already exist have built out the wealth to buy out any local competition.
+1.13.7. Pro: Under a global free market, the natural trend is towards [corporatism](https://www.ft.com/content/3a845850-13e5-11e4-8485-00144feabdc0). As this trend accelerates, corporations become more and more powerful and thus establish monopolies.
+1.13.8. Pro: Historically, monopolies have been more common under a free market.
+1.13.8.1. Pro: During the [Gilded Age](https://en.wikipedia.org/wiki/Gilded_Age) of US history, where there were very few regulations of any sort, monopolies were quite common.

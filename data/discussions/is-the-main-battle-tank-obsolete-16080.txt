@@ -1,0 +1,28 @@
+Discussion Title: Is the Main Battle Tank Obsolete?
+
+1. The main battle tank is obsolete.
+1.1. Con: It is impossible to predict the future of warfare with enough certainty to declare any one weapon obsolete.
+1.1.1. Con: Something is obsolete when another technology can more efficiently achieve the stated objectives.
+1.1.2. Con: The shape of war has changed and it is less and less played on ground.
+1.2. Pro: Logistics burden of MBT increases with weight, which increases with capability of anti-tank weapons, which increases with time - at some point \(perhaps now\) the capability will not justify the burden.
+1.3. Pro: High intensity war between two nuclear powers could not conceivably include tanks.
+1.3.1. Con: Nuclear power is generally not used for any purpose other than threats during war. The principle of mutually assured destruction means that warfare is then still fought on the ground between troops, even when it's taking place between two nuclear powers.
+1.3.1.1. Con: Mutually assured destruction means you don't fight at all, except through proxy wars where one nuclear power fights a non-nuclear power, which is receiving logistical support from some other nuclear power.
+1.4. Pro: Attack helicopters have assumed the role of tanks in modern warfare.
+1.5. Con: Tanks can cause fear in the enemy foot soldiers as they are big, durable, and powerful machines.
+1.5.1. Pro: Fear can make soldiers less reliable in battle.
+1.6. Pro: The cost of a tank makes it worth hitting with a long range precision missile.
+1.7. Con: Tanks protect dismounted infantry.
+1.7.1. Con: Unmanned vehicles, drones or even helicopters can protect infantry as well.
+1.7.2. Pro: Tanks draw attention away from soldiers on the ground.
+1.7.2.1. Con: Tanks can only draw attention away from dismounted forces they are not protecting, and there are many other ways to achieve the same effect.
+1.8. Con: Tanks are a critical communications node.
+1.9. Con: Tanks can dominate ground like no other asset.
+1.9.1. Con: Tanks can be useless in very difficult terrains.
+1.9.1.1. Con: Miniature autonomous vehicles swarming or protecting an area will be at least as effective.
+1.9.1.1.1. Pro: Instead of one easy to target enemy, 100k insect size enemies.
+1.9.2. Pro: [tanks](https://www.youtube.com/watch?v=3v4re1AiQ1k) are very useful in difficult terrains.
+1.10. Con: Tanks are required to destroy other tanks.
+1.10.1. Con: Aircraft and cruise missiles can easily destroy tanks with out the tank ever seeing the attacker.
+1.11. Pro: Tanks are easy to see with modern surveillance technologies from hundreds of kilometers away.
+1.12. Pro: Unmanned vehicles \(ground and air\) will replace all the benefits of the MBT.

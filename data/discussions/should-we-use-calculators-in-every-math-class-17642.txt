@@ -1,0 +1,27 @@
+Discussion Title: Should we use calculators in every math class?
+
+1. Should we use calculators in every math class?
+1.1. Pro: The use of calculators trains a systematic approach to arithmetic by breaking down calculations into a sequence of commands that need to be entered into the calculator.
+1.1.1. Con: Mental arithmetic, or pen-and-paper arithmetic, are no different.
+1.2. Con: There are topics in maths that cannot be approached with calculators \(unless those are arguably more of a computer than a calculator\), e.g. symbolic computation or geometry.
+1.2.1. Con: This doesn't mean that topics that can be approached with a calculator shouldn't be.
+1.3. Pro: Understanding the concept is sometimes more important than doing the calculation.
+1.3.1. Con: Many mathematical methods can be applied to solve real-world problems without fully understanding the concepts underlying the theory.
+1.4. Con: Learning basic number relationships helps you spot patterns
+1.5. Pro: It's just easier and faster to get to the more complex theorems.
+1.5.1. Pro: In topics like matrix algebra calculations can be tediously repetitive and distracting from achieving a deeper understanding of the topic.
+1.6. Pro: Real world applications of mathematics do not use easy simple calculations; they use complex numbers. Using a calculator is good when you want to present some real world examples.
+1.6.1. Con: Algebra with complex numbers is almost the same as algebra with real numbers, you just have to keep track of real and imaginary components separately. This is not a great leap in complexity.
+1.6.1.1. Con: Algebra with complex numbers has similar rules, but understanding the changes that happen \(geometrically\) is not that easy to comprehend and not just do them mechanically. Also complex analysis, which uses complex numbers, is way more hard to comprehend.
+1.6.2. Con: Thios pro uses "complex" in an ambiguous ways:[complex number](https://en.wikipedia.org/wiki/Complex_number) \(a+bi\) versus a number that is difficult to express and calculate in mind \(i.e. 2,5486321\).
+1.7. Con: It is important to know the basic calculations before going to more complex aspects.
+1.7.1. Con: Complex pure mathematics doesn't usually need calculators at all.
+1.8. Con: Doing calculations in your mind offers flexibility and it trains the mind into thinking logically.
+1.8.1. Pro: Mental arithmetic is used in certain aptitute tests. Training it in school helps prepare for those.
+1.8.2. Con: Some people might not be able to doing calculations in mind. Those should be helped by allowing calculators in class.
+1.8.2.1. Con: Those would be exceptions. As a general rule, calculators should not be allowed.
+1.9. Con: Understanding simple addition and subtraction \(by doing every calculation in your mind\) helps when getting to more complex aspects such as group theory.
+1.10. Pro: There are calculators everywhere nowadays, it is just fair that they know how to use it.
+1.10.1. Pro: Even Google search bar has an inbuilt calculator.
+1.10.2. Con: Students should be taught calculator functions in the relevant classes. Learning how to use it in one class doesn't mean it needs to be used in another?
+1.10.2.1. Con: Maths classes are the most relevant for using calculators.

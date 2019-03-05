@@ -1,0 +1,55 @@
+Discussion Title: Should India return to a paper ballot?
+
+1. India should return to a paper ballot.
+1.1. Pro: Most major democracies make use of a ballot paper.
+1.1.1. Con: Those major democracies are not actually major, in terms of population, except the US.  France and [the United Kingdom](https://www.storypick.com/indian-states-population/) have a population lesser than the Population of Uttar Pradesh. Comparison is Incorrect.
+1.1.2. Con: Just because other countries are following a particular methodology doesn't inherently mean India should too.
+1.1.3. Pro: If richer democracies with the financial means to secure digital voting systems have chosen not to, it is probably because it is internationally recognised that digitised voting systems are worse than ballot paper.
+1.2. Pro: EVMs are subject to security issues.
+1.2.1. Pro: EVMs are [programmable](https://www.ndtv.com/world-news/scientist-shows-how-easily-american-voting-machines-can-be-hacked-1928045), so they can't be trusted.
+1.2.1.1. Pro: [Scientists](http://www.bbc.com/news/10123478) at a university in the US have already figured out a way to hack the Indian EVMs.
+1.2.1.1.1. Con: The linked article itself points out the difficulties in manipulating the elections as, they would need to install their microchips on many of the millions of voting machines used in order to affect the election
+1.2.2. Pro: EVMs make it harder for the voting and counting processes to be transparent, thereby making them easier to abuse.
+1.2.2.1. Con: Hours prior to actual voting, candidates/representatives of candidates test the EVM machine through [mock voting.](https://economictimes.indiatimes.com/slideshows/nation-world/how-safe-is-the-electronic-voting-machine-evm/the-first-level-check/slideshow/57691215.cms)
+1.2.2.2. Pro: "Voter-verified paper audit trail" \([VVPAT](https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail)\) can print ballots without voter leading to "[ballot stuffing](https://en.wikipedia.org/wiki/Electoral_fraud#Ballot_stuffing)"
+1.2.2.3. Pro: Without random manual recount against EVM counted votes, "Voter-verified paper audit trail" \([VVPAT](https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail)\) does not validate EVM's functionality.
+1.2.2.4. Pro: EVM has no mechanism to indicate that the software has not been tampered and it still carries the "original" software.
+1.2.3. Con: Paper ballots are more of a security issue and can be easily destroyed as compared to EVM.
+1.2.4. Con: EVMs are now provided with a 'Voter-verified paper audit trail \([VVPAT](https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail)\), which reduces election fraud.
+1.2.5. Con: An EVM provides a far better security in case of Booth Capturing.
+1.2.5.1. Pro: A maximum of [5 votes](http://eci.nic.in/eci_main1/evm.aspx) can be cast in one minute. \(Q11\)
+1.2.5.1.1. Pro: Vote stuffing can not happen as an EVM only allows [240 votes per hour](https://gulfnews.com/news/asia/india/india-debates-use-of-evms-or-paper-ballots-1.2239646).
+1.2.5.2. Pro: The presiding officer is provided with a ['close' button](http://eci.nic.in/eci_main1/evm.aspx), which would stop voting if an intruder were to enter the polling center, and votes couldn't be further cast.
+1.3. Con: The [Election Commission](https://www.financialexpress.com/india-news/should-india-go-to-back-to-paper-ballots-here-is-what-former-cecs-think/1270060/) decided on deploying VVPAT slips throughout the country before the next election. There is already a paper ballot system in place and therefore no need to revert to the earlier method of voting.
+1.3.1. Pro: In a [VVPAT system](https://www.hindustantimes.com/editorials/evms-may-not-be-perfect-but-they-are-certainly-better-than-the-ballot-paper-system/story-dk2KbalcFhiEsn794X8OPK.html), voters are given a printed receipt of the vote cast.
+1.4. Con: EVMs [empower](https://gulfnews.com/news/asia/india/india-debates-use-of-evms-or-paper-ballots-1.2239646) voters who belong to marginalized and disenfranchised communities, who were formerly subject to electoral or political violence and coercion.
+1.4.1. Con: Political parties or candidates can still prevent certain voters from voting by threatening the use of or using violence.
+1.5. Con: EVMs are more efficient and effective at carrying out the voting process.
+1.5.1. Con: [Defective EVMs](https://gulfnews.com/news/asia/india/india-debates-use-of-evms-or-paper-ballots-1.2239646) slow down the process of voting.
+1.5.2. Pro: The electronic system allows for faster results.
+1.5.3. Con: The EVMs have been subject to [glitches](https://www.firstpost.com/politics/gujarat-election-with-polling-underway-in-first-phase-voters-complain-of-evm-vvpat-glitches-across-state-4250309.html), which create inefficiencies and make it harder for people to register their vote.
+1.5.3.1. Con: Even if we accept that EVMs are subject to glitches, this is not a fundamental argument against EVMs, but merely an argument for advancements in technology.
+1.5.4. Pro: The electronic model offers huge savings in terms of resources and logistics.
+1.5.4.1. Pro: A paper ballot system also requires a lot of [manpower](https://www.hindustantimes.com/editorials/evms-may-not-be-perfect-but-they-are-certainly-better-than-the-ballot-paper-system/story-dk2KbalcFhiEsn794X8OPK.html).
+1.5.4.1.1. Pro: A lot of security personnel need to be dispatched to guard polling booths.
+1.5.4.1.2. Pro: A return to the paper ballot would increase the number of people enlisted to poll duty, which causes societal disruption.
+1.5.4.1.2.1. Pro: A lot of government officials are required to monitor polling booths and count votes.
+1.5.4.1.2.2. Pro: [Teachers](http://www.newindianexpress.com/states/karnataka/2017/dec/20/spare-us-from-2018-assembly-poll-duty-say-government-teachers-1732023.html) are overwhelmingly enrolled for poll duty, which is disruptive to the country's provision of education.
+1.5.4.1.2.2.1. Pro: Enlisting teachers for poll duty is unfair on school children, whose education is disrupted.
+1.5.4.1.2.3. Pro: EVM helps in electronic counting which requires less manpower.
+1.5.4.2. Pro: Conduction of elections & counting votes submitted through the ballot paper in a country of over 800 million voters involves finances equal to the GDP of many neighboring countries.
+1.5.5. Pro: On manual votes, while folding the piece of paper, ballot ink can smudge on multiple symbols, thus invalidating the vote.
+1.5.6. Pro: There are [no invalid votes](http://eci.nic.in/eci_main1/evm.aspx) under the system of voting under EVMs. This is a significant advantage, given that in every General Election, the number of invalid votes is more than the winning margin between the winning candidate and the second candidate, in a number of constituencies. \(Q13\)
+1.5.6.1. Pro: The choice of the electorate will be more correctly reflected when EVMs are used.
+[Source:](http://eci.nic.in/eci_main1/evm.aspx) \(Q 13\)
+1.5.7. Pro: Given India's huge population, ballot paper voting can not scale.
+1.6. Con: EVMs can be re-used.
+1.6.1. Pro: There are no additional costs of acquiring paper, transporting and printing ballots in the next electoral cycle.
+1.6.2. Pro: EVMs are therefore more environmentally friendly, as there is no need for all that paper to be printed and transported.
+1.6.2.1. Con: Paper is far more biodegradable than the materials needed to put together an EVM.
+1.7. Pro: [Congress](http://www.newindianexpress.com/nation/2018/mar/17/congress-urges-election-commission-to-revert-to-paper-ballots-1788658.html) and most political parties are calling for the change to be made. Their wishes should be respected.
+1.7.1. Con: The consensus among the political party seems to be politically motivated.
+1.7.1.1. Pro: These parties \(like INC, SP etc\) started questioning the sanctity of the EVM machines after Modi came to power, i.e. 2014. Prior to that, rarely, there was such a consensus which was popular and active and the EVM based voting is prevalent from 1990s.
+1.7.1.2. Pro: When the ECI announced the "[EVM Challenge](http://eci.nic.in/eci_main1/current/ChallengeEVM20052017.pdf)" inviting all political parties to try and hack the EVM machines, none of these political parties participated. \([Other](http://eci.nic.in/eci_main1/current/ReplyAAP_27052017.pdf) [sources](http://eci.nic.in/eci_main1/current/PN47_03062017.pdf)\)
+1.7.1.3. Pro: These political parties seems to be failing in articulating the exact problems in the current EVM but only making general statements based on speculations.
+1.7.1.4. Pro: There demands should be strictly analysed based on merits because there is a considerable chance that there demands are politically motivated.

@@ -1,0 +1,50 @@
+Discussion Title: Which distributed ledger technologies are the most relevant?
+
+1. Which distributed ledger technologies are the most relevant?
+1.1. Directed acyclic graphs \(e.g. IOTA\).
+1.1.1. Pro: Directed acyclic graphs provide fee-less transactions.
+1.1.1.1. Pro: This is good because people won't accept to pay money for decentralized services which they enjoyed previously for free \(even if they pay unknowingly with their data\).
+1.1.1.2. Pro: This allows for sending microtransactions.
+1.1.2. Pro: Diredted acyclic graphs are highly scalable.
+1.1.3. Con: Double spending attacks are possible.
+1.1.3.1. Con: With the way IOTA currently works double spending attacks are not possible; The COO prevents this for now.
+1.1.3.2. Con: A double spend is very difficult to achieve because you need to have enough hash rate, be connected to a large number of nodes and you need to know the entire network topology. \(see [www.untangled.world/iota-consensus](http://untangled.world/iota-consensus/) and [medium.com/\@mistywind/iota](https://medium.com/\@mistywind/iota-fud-answered-by-a-non-techie-enthusiast-2312325fddb6)\)
+1.1.3.2.1. Pro: Meeting these three requirements becomes more and more difficult if the networks grows in size.
+1.1.3.2.2. Con: If the network grows in size the number of tips in the graph expands. Therefore, if we randomly select our tips an attacker can easily perform a sybil attack.
+1.1.4. Con: Directed acyclic graphs are \(at least in the case of IOTA\) not decentralized because a centralized, closed-source tip-selection algorithm \("the coordinator"\) exists.
+1.1.4.1. Con: The tip-selection algorithm is only temporary till the network grows in size. Then, the coordinator will be replace by a Markov Chain Monte Carlo algorithm selecting the tips by a random walk.
+1.1.4.2. Con: A different tip selection algorithm like PHANTOM or SPECTRE could be used to avoid coordinators. [eprint.iacr.org](https://eprint.iacr.org/2018/104.pdf)
+1.1.4.3. Con: Node owners decide to listen to the COO or not, it’s totally optional, a temporary solution to avoid double spending attacks. Because the node owners decide this is not centralized, the majority of node owners choose to run either with or without the COO.
+1.2. Inclusive multi-chain frameworks with pooled security supporting interoperability between wildly different blockchains \(e.g. Polkadot\).
+1.2.1. Pro: Allows for inclusion of encrypted proof-of-authority chains suitable for internal enterprise networks if they conform to certain specifications.
+1.2.2. Pro: Individual blockchains can provide solutions for specific use cases. It may be impossible to cover all needs with just a single blockchain. However, this means lots of separate blockchains. By supporting interoperability through a multi-chain framework, one can have the best of both worlds.
+1.2.2.1. Pro: Polkadot enables blockchains to share features. Data on one chain can trigger a smart contract on another chain. And with pooled security developers can focus on product and design, rather than networking, nodes and consensus.
+1.2.2.2. Pro: Polkadot allows all parties to take public and private chains and "plug them in" to a shared connectivity layer. Chains can choose to maintain their own validator set or utilize Polkadot’s pooled security system to verify their transactions via the Relay Chain. With Polkadot the features of one chain can be leveraged on another. In other words, where there is innovation for one, there is innovation for all.
+1.2.2.3. Pro: A primary use case for Polkadot is enabling interoperability between chains, regardless of their features or their status as a private or public chain. Interoperability lets diverse chains perform arbitrary messaging, including value. This interconnectivity could encompass privacy-oriented projects, forks, permissioned chains and more.
+1.2.3. Pro: Polkadot makes blockchain experimentation possible in the same way Ethereum made decentralised application \(DApp\) experimentation possible.
+1.2.3.1. Con: You can experiment with every technology. This does not make a technology more relevant.
+1.3. Blockchains supporting smart contracts \(e.g. Ethereum\).
+1.3.1. Pro: It allows for much more applications.
+1.3.1.1. Pro: This could facilitate mass adoption.
+1.3.1.1.1. Con: Ethereum has been around for several years, yet smart contract functionality hasn't seen mass adoption yet. General public has instead been regarding it as just another currency, similar to Bitcoin.
+1.3.1.1.1.1. Con: Smart contracts are a fundamentally new approach to decentralised trust applications. It will take time to build new technological solutions based on smart contracts that could rival existing systems and lead to mass adoption. The time could still come.
+1.3.2. Pro: Blockchains supporting smart contracts tend to attract more users and the network usually consists of more nodes. This promotes decentralization \(see [www.flippening.watch](https://www.flippening.watch/)\).
+1.3.3. Con: Smart contract activity can overload the network, as was seen during the most active week of CryptoKitties.
+1.3.3.1. Pro: Blockchain congestion is a serious problem affecting the usability of Ethereum as a currency. E.g. exchanges [disable ETH wallets](https://coinexchangeio.freshdesk.com/support/solutions/articles/9000128655-eth-blockchain-congestion-) to prevent orphaned transactions during congestion.
+1.4. Blockchains that support highly secure digital currencies \(e.g. Bitcoin\).
+1.4.1. Con: All transactions are public. Only pseudo-anonymity can be achieved.
+1.4.2. Pro: This is important to guarantee the safety of assets being stored in the blockchain.
+1.4.3. Pro: The main reason to use blockchains is resilience against any kind of censorship. Everything else can be done more efficiently without blockchains. Censorship is important for currencies as well as any token or smart contract. Bitcoins PoW is the most proven mechanism to achieve this because it is expensive to gain a 51% majority and the Bitcoin design guarantees a very high number of validating network nodes. The blocksize fix to 1 MB supports this decentralization.
+1.4.3.1. Con: Talking specifically about Bitcoin, it is not significantly more expensive to attack than Ethereum when it comes to 51% attacks. 
+The prize of the attack is furthermore tightly coupled to the Bitcoin prize since mining rewards earned by the attacker lower the price drastically.
+\( see [www.crypto51.app](http://www.crypto51.app)\)
+1.4.4. Pro: Bitcoin scalability is achieved in additional layers. There can be many in parallel. All are build on the high security of the base layer. Failures in these layers do not disturb the base layer. These layers can implement all the desired characteristics not available in the highly secure base layer, e.g. scalability \(Lightening\), privacy \(Liquid\) or smart contracts \(RSK\). Every successful software systems consists of multiple, mostly independent layers. So does Bitcoin.
+1.5. Blockchains that provide perfect anonymity by zero-knowledge proofs \(e.g. Zcash\).
+1.5.1. Pro: Most financial transactions should not be publicly visible.
+1.5.1.1. Con: A traceability to any transaction anytime is one of the main attribute of blockchain, but the privilege or authority shouldn’t be open to all. The view shouldn’t be public but controlled. Only certain authorities who monitor corruption and crime need be given access. But yes, if the visibility is controlled and data is not viewed publicly then it’s a good use case of Blockchain for all 👍🏽
+1.5.2. Con: To prevent corruption or tax-evasion, it could be desirable to maintain transparency.
+1.5.2.1. Con: This is highly case-dependent because the privacy rights of individuals, as well as business secrets, must be maintained. Regulatory mechanisms preventing corruption and tax-evasion can still be installed by requiring accounts of politicians, parties, and companies etc. to be public for supervisory bodies.
+1.5.2.1.1. Con: Having supervisory access to the system negates the benefits of a distributed system with no central or hierarchical authority.
+1.5.2.2. Pro: Profits made on digital currencies require to be taxed as profits on other financial assets.
+1.5.2.2.1. Con: These profits would be invisible to the tax authorities.
+1.5.2.2.1.1. Con: Conversion back to fiat isn't invisible, and one still can't pay for most things with cryptocurrencies.

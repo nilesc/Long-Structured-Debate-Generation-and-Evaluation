@@ -1,0 +1,61 @@
+Discussion Title: Is a gas tax the best way to fund infrastructure in the US (specifically MI)?
+
+1. A higher gas tax should be introduced to pay for infrastructure so that income tax can be reduced accordingly.
+1.1. Con: It will be difficult to distribute the money from this tax specifically for roads.
+1.1.1. Con: Distributing the gas tax income based on the region in which it was purchased will leave small town roads unfunded.
+1.1.1.1. Pro: A gas tax would have to be a federal solution then to ensure the places that need it most can get the money.
+1.1.2. Pro: If the government keeps a record of the current states and maintenance of all public roads along with other variables such as traffic count, dividing up funds from a gas tax could be done fairly and sensibly to ensure that roads that require the highest amount of work and have the largest amount of traffic passing through them have priority.
+1.1.2.1. Con: In practice, this would require a mammoth communication effort from all state administration and companies involved, so may be unrealistic to maintain.
+1.2. Pro: Less income tax means happier people.
+1.2.1. Pro: People will now have more control over their money.
+1.2.1.1. Pro: If one desires to save more, they can make a simple choice to travel less/drive a more fuel efficient vehicle.
+1.2.1.2. Con: People will not have more control over their money, it will be taxed under a different name.
+1.2.2. Pro: The money that the government previously had more control of will not be wasted as easily.
+1.2.2.1. Pro: Tax revenue that may have before deviated from infrastructure will now have a more clear purpose.
+1.2.3. Con: A very [small amount](https://www.cbpp.org/research/federal-budget/policy-basics-where-do-our-federal-tax-dollars-go) of US federal income tax is applied toward infrastructure, so the decrease in income tax would be a small amount.
+1.2.4. Con: This argument effectively assumes that people are more unhappy about income tax than they are about gas tax.
+1.3. Pro: Electric vehicles would receive an indirect subsidy as they would not have to pay the gas tax.
+1.3.1. Pro: Electric vehicles do not require petrol to run. Having a gas tax would incentivise people to switch to a greener vehicle, such as a hybrid or fully electric car, which would in turn have a positive knock-on effect for our environment.
+1.3.1.1. Pro: [Surveys](https://evobsession.com/why-people-buy-electric-cars-so-far/) show that the primary motivation for most buyers of electric vehicles is reduced fuel costs, so a gas tax would further motivate a large majority of people in this manner.
+1.3.1.2. Pro: Increased gas prices should result in more fuel efficient vehicles on the road.
+1.3.1.2.1. Con: Only people with high enough income will be able to afford the new fuel efficient models, increasing the burden on low income individuals.
+1.3.1.2.2. Pro: The higher demand for fuel efficient vehicles will force the auto industry to focus more of their budget on developing these.
+1.3.2. Con: This system is not sustainable if no cars use gas to run one day.
+1.3.3. Con: The stated purpose of the tax is to fund infrastructure. Thus the tax should be levied on all who use or benefit from the infrastructure, including the drivers of electric vehicles. A broader license tax or "vehicle tax" is more equitable. Incentivizing the purchase of electric vehicles, if a worthy goal, can be more effectively done in other ways.
+1.4. Pro: People who drive more will pay more for roads.
+1.4.1. Pro: Based on miles: Someone driving 10,000 miles per year will end up paying 10 times as much as someone driving 1,000 miles a year \(if they're driving the same vehicle\). This seems fair.
+1.4.2. Pro: Based on [fuel economy](https://en.wikipedia.org/wiki/Fuel_efficiency#Fuel_efficiency_of_motor_vehicles): Someone driving a truck will pay more than someone driving a fuel efficient vehicle.
+1.4.3. Con: Many people rely on driving to travel as an alternative to flying because they can't afford to fly, an increase in gas tax could prohibit these people from traveling at all.
+1.4.4. Con: People whose circumstances prevent them from living near basic public amenities such as schools or hospitals will be hit harder. This could potentially increase existing inequality between the urban elite and poorer peripheral-dwellers.
+1.4.5. Pro: If people have to pay more to drive places, they are more likely to explore more efficient modes of transportation. This could include public transportation, car pooling more frequently, flying, etc.
+1.4.6. Pro: This would benefit lower-income families who do not have a car, as their income tax would decrease but they would not have to pay a gas tax.
+1.4.6.1. Con: Due to the specific situation in the US gas taxes are [more regressive](http://www.rff.org/blog/2011/how-regressive-are-fuel-taxes-comparison-countries-around-world) than income taxes. A bi-product of the suggested hypothecation is that the poor will pay comparatively more of their income to infrastructure than the rich.
+1.4.7. Con: If public modes of transport such as buses have to start paying hefty gas taxes, the cost of public transport may increase.
+1.4.7.1. Pro: Many Michigan cities have no reliable \(e.g. big rapids\) or poor \(e.g. grand rapids\) public transportation. Gas taxes could make these situations worse.
+1.4.7.2. Con: This would indirectly subsidize green public transportation. Electric cars and trains will hopefully grow more quickly if fossil fuel powered vehicles struggle to operate at the same level.
+1.4.8. Con: Should diesel be taxed the same as Ethanol or gasoline fuels \(considering typical higher smog rating\)?
+1.4.8.1. Pro: Diesel should be taxed more than gasoline because there is indeed a higher emission.
+1.4.8.2. Con: Higher cost for diesel fuel would increase shipping costs.
+1.4.8.2.1. Pro: This seems fair because one should have to pay more to drive a vehicle emitting more.
+1.4.8.2.2. Con: Higher shipping costs will hurt online business who are dependent on shipping.
+1.5. Con: Gas prices will increase.
+1.5.1. Con: This would be offset by the lower income taxes.
+1.5.2. Pro: An increase in gas prices could disable people from traveling.
+1.5.3. Pro: -> See 1.4.6.1.
+1.5.4. Con: Increasing gas prices will lead to a decrease in income for oil companies, which in turn reduces the political influence of this  often nefarious industry.
+1.6. Pro: People would be incentivised to drive less. What is good for the environment.
+1.7. Con: Gas usage is not in proportion to either road tear or congestion.
+1.7.1. Pro: Many boats use gas.
+1.7.2. Pro: Heavy vehicles \(especially cargo trucks\) use only a few times more gas than small cars, but can tear roads [100s of times faster](https://streets.mn/2016/07/07/chart-of-the-day-vehicle-weight-vs-road-damage-levels/), as well posing greater risk in case of injury.
+1.7.3. Pro: Electric vehicles need roads \(and cause equal congestion and possibly greater tear due to [battery weight](https://cleantechnica.com/2017/10/22/10-myths-electric-cars-explored-exploded/)\).
+1.7.4. Con: Without directly charging for wear and tear on the road, which would be very complicated to enforce, gas is a good proxy, since 99% of vehicles are powered by it, and usage is strongly correlated with the weight and miles driven of a car, and so it road damage. It is also closely correlated with the amount of congested caused, by using an average road at an average time of day.
+1.7.5. Con: Exhaust from gas cars is a significant contributed to global warming, and other air pollutants so using more gas directly hurts other people.
+1.7.6. Con: More efficient cars tend to be safer for society since bigger cars can't turn and stop as quickly, throw objects they hit further, and are easier to hit becouse of there size.
+1.8. Con: If the gas tax pays for a large part of the infrastructure budget, fluctuations in oil prices would control infrastructure investment as people use less gas. The infrastructure investment would be less than certain, which could lead to dangerous situations.
+1.9. Con: The government shouldn't try to profit from things they want to reduce.
+1.10. Con: Given [average gas prices right now of $2.924](https://gasprices.aaa.com/), [America's gas usage in 2017](https://www.eia.gov/tools/faqs/faq.php?id=23&t=10), and the US Dept. of Transportation's [estimate to fix and maintain US highways and bridges through 2030](https://www.wired.com/2017/01/not-screw-spending-1-trillion-us-infrastructure/), this would require a tax at around $5.94 per gallon. This would hurt the middle class most, while the upper class would probably benefit most from the income tax cut.
+1.11. Con: Buying anything implies someone drove a commodity to its destination. Everyone collects the benefits of roads whether consuming the gas, or paying someone else to consume it instead. No reason why that burden should rest solely on gas consumers as everyone collects the benefits of the road's existence.
+1.11.1. Con: Some of the burden for the increased delivery cost from an increased gas tax, would be placed on the purchaser of the the good.
+1.12. Pro: Low gas prices allow people to operate vehicles that are bigger than they need. This is bad for society since these vehicles are more likely to get into an accident and do more damage to others when they due, along with the unhealthy exhaust.
+1.12.1. Pro: Heavier vehicles do more damage to roads and use more gas.
+1.13. Con: The gas tax is an unworkable long term solution since people want more fuel efficient vehicles, but cause the same amount of wear and tear on the roads. Increases in fuel efficiency lead to lower revenues for maintenance.

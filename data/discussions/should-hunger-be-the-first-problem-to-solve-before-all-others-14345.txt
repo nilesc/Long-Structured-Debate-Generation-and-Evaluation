@@ -1,0 +1,40 @@
+Discussion Title: Should Hunger Be The First Problem To Solve Before All Others?
+
+1. Hunger Should Be The First Problem To Solve Before All Others.
+1.1. Pro: Free food for everyone could be a massive turning point in human history.
+1.1.1. Con: This is completely unrealistic.
+1.1.1.1. Pro: It would require a level of individual, governmental and international commitment that simply does not [exist](https://www.theguardian.com/commentisfree/2012/feb/15/ending-world-hunger).
+1.1.1.2. Con: This is not [true](http://www.thp.org/think-ending-world-hunger-unachievable-think-six-things-know/). There are easilly [enough](https://www.trocaire.org/news/enough-food-everyone-if) resources on the plant to end hunger for all.
+1.1.1.3. Pro: The number of undernourished people in the world fell from 14 to 11 percent in just 14 [years](http://unfoundationblog.org/5-reasons-care-end-hunger/).
+1.1.2. Pro: Hunger is caused by greed. It is a blemish on our humanity that millions die every year becasue we refuse to distribute resources more fairly.
+1.2. Con: Free food for everyone could make people lazy.
+1.2.1. Con: It wouldn't make people lazy; they would still have to work for other resources, and indeed cook.
+1.2.2. Con: [Food prices](https://ourworldindata.org/food-prices) have declined drastically making it virtually free already.
+1.2.3. Con: Maslow's hierarchy suggests once fed, a person will find some other motivator.
+1.2.4. Con: There is no need to make it free. We just need to make it affordable and available.
+1.3. Con: The number of people facing hunger is drastically reducing making hunger a problem that is soon solved automatically.
+1.3.1. Pro: Undernourishment has constantly declined since [1991](https://ourworldindata.org/hunger-and-undernourishment).
+1.3.2. Pro: Underdeveloped countries are [catching up](https://ourworldindata.org/hunger-and-undernourishment) with the developed world in terms of the number of people facing undernourishment.
+1.3.3. Pro: [Famine deaths](https://ourworldindata.org/famines) reduce drastically over time.
+1.3.4. Pro: [Yields](https://ourworldindata.org/yields-and-land-use-in-agriculture) are exponentially growing.
+1.4. Pro: Solving nutrition problems can lead to better education, since children do not have to work, but can attend school.
+1.4.1. Pro: Even in the developed world, hunger has been shown to [stunt](https://www.ourcommunityfoodbank.org/food-insecurities/the-link-between-learning-and-child-hunger-in-america/) a child's learning.
+1.5. Con: There are endless numbers of issues that are equally important as hunger.
+1.5.1. Pro: This Kialo discussion lists plenty of world issues: [What is the worst world problem of utmost concern?](https://www.kialo.com/what-is-the-worst-world-problem-of-utmost-concern-9143/9143.0/9143.0)
+1.5.2. Pro: Hunger is just as important as homelessness.
+1.5.2.1. Con: Homelessness is just as important as ignorance.
+1.5.3. Pro: Breathing is more important than eating. That makes limiting greenhouse gas emissions more important than hunger. This is not saying anything about relative urgency, only importance.
+1.5.4. Pro: Clean water is usually an equally, if not more, crucial issue in impoverished countries and should be tackled before hunger.
+1.6. Con: Hunger cannot be solved without first addressing a whole host of other issues.
+1.6.1. Pro: Bees, which are a key element in the pollination of plants, are required in order to produce food. But [bees are disappearing](https://edition.cnn.com/2017/03/20/world/bees-eco-solutions/index.html), along with plenty of other useful species. We need to solve the problem of biodiversity reduction first, in order to be able to solve hunger later.
+1.6.2. Pro: We can't solve hunger without solving climate change first. The global warming makes agriculture less efficient in arid areas.
+1.6.3. Pro: In order to solve hunger you need to solve infrastructural problems: production, transportation and distribution.
+1.6.3.1. Pro: It is practically impossible to implement.
+1.7. Pro: Addressing a singular problem, instead of trying to tackle all of them at the same time, could be more efficient.
+1.7.1. Con: Typically issues are interconnected and must all be somewhat solved for stability to be reached \(e.g. crops for food need water and fertile land\).
+1.7.1.1. Con: It is not clear why the focus of an interconnected approach should not be solving hunger.
+1.7.1.2. Pro: Combining efforts to end hunger with vaccine drives and healthcare aid already saves [34 million](https://www.theguardian.com/global-development/2015/jul/03/investment-child-health-worlds-poorest-countries-saves-34m-lives) children a year. Continuing to mix our efforts will lead to the most effective results.
+1.7.2. Pro: Over 1 [billion](http://www.theworldcounts.com/counters/global_hunger_statistics/how_many_people_die_from_hunger_each_year) people suffer from hunger, and it will claim the lives of 36 million this year. Hunger is a severe threat which could be alleviated if we focused on it.
+1.7.2.1. Pro: Other leading [causes](http://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death) of death such as tuberculosis and diarrhoeal diseases are made worse by malnutrition. Solving hunger would thus help these issues.
+1.8. Pro: The priority of problems is a community based decision.
+1.8.1. Pro: [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) certainly suggests that this could be true. Society ought to take care of all people's most basic needs, and then argue over how to fulfil the secondary, tertiary \[etc\] needs.

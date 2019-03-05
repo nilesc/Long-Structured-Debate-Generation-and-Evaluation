@@ -1,0 +1,41 @@
+Discussion Title: The sales tax should be replaced with the income tax wherever applicable.
+
+1. The sales tax should be replaced with the income tax wherever applicable.
+1.1. Con: Taxing income before it reaches the individual removes his/her personal freedom of deciding where that money is being spent.
+1.1.1. Con: The tax structure could be organized such that taxes on income are not deducted in advance, as seen in current taxation of self-employment income.
+1.1.2. Pro: A sales tax allows individuals the right to choose to what extent they will be taxed by deciding how much to consume. An income tax, on the other hand, is applied without the individual's input.
+1.2. Con: A sales tax is easier to avoid.
+1.2.1. Con: Tax avoidance is not socially desirable.
+1.2.1.1. Pro: Less tax means there's less money for public services.
+1.2.1.2. Con: Insofar as people avoid tax, they retain money and thus spend it or invest it in accordance with their preferences. This is more efficient at satisfying people's wishes than a government deciding where to spend the money, not to mention the bureaucracy of the latter.
+1.2.1.3. Pro: Trying to get around the spirit of a law is counterproductive to social solidarity. Functionalists such as [Emile Durkheim](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim) suggest that social solidarity is vital for a society to work and succeed.
+1.2.2. Con: It is easier and more efficient to collect sales taxes from a smaller number of entities than to collect and enforce income taxes on individuals.
+1.2.2.1. Con: The infrastructure to collect and enforce income taxes on individuals and corporations already exists and it is effective and efficient in modern and industrialized nations.
+1.2.3. Pro: One avoids the tax merely by not purchasing something, as opposed to tax evasion which is wilfully breaking the law to pay mandated taxes.
+1.2.3.1. Con: In modern economies, it is unlikely that people could go through life without ever making a purchase.
+1.3. Pro: Sales tax is not charged on the basis of personal income, meaning they take a proportionally greater amount from those on lower incomes. Replacing them would be conducive to social equality.
+1.3.1. Con: As long as sales tax is exempt on certain necessities, a sales tax will fall more heavily on the rich, as they spend a larger proportion of their income on non-essential goods.
+1.3.1.1. Con: The rich will be incentivized to hide from the tax by moving or spending their money out of the country.  They may also increase investment to keep tax burden low.
+1.3.2. Con: Social Equality explicitly implies equal treatment. Taxing one citizen more than another is unequal.
+1.4. Con: Higher income taxes will discourage people from working to reach higher and more demanding roles.
+1.4.1. Pro: Executive jobs require a significant level of stress, hours worked, talent and risk. If the take-home rewards for taking on these roles will be comparatively small, there is no incentive to take any of that on.
+1.4.2. Con: It is unlikely that the monetary impact on upper level paying jobs would be sufficient to deter ambition to earn more, even while paying more taxes.
+1.5. Pro: The income tax provides a more stable tax revenue than sales tax.
+1.5.1. Pro: Income taxation supports public funding regardless of consumer saving / investing tendencies.
+1.5.1.1. Con: Economic movements, like recessions, do not just affect the purchase of goods. A less active economy leads to business closures, resulting in job losses. The effects would therefore be felt regardless.
+1.5.1.2. Pro: Public works funding would be supported without further promoting or requiring commercialization.
+1.5.1.3. Pro: In small economic recessions, when people are likely to buy fewer goods and services, the tax revenue will be unaffected, and will help to preserve the economy in the long term.
+1.6. Pro: Sales tax is paid by everyone, even criminals who would not report their income.
+1.7. Pro: Sales tax is a regressive tax, as it treats the rich and poor at par thus affects the poor disproportionately .
+1.7.1. Con: If two people are treated at par, the treatment will be equal, not unequal.
+1.8. Con: increasing income tax revenue instead of allowing states to tax products wouldn't put any more money in the hands of individual areas, that would be relying on "trickle down" economic policies and a larger federal government role
+1.9. Pro: Tax revenue increases with pay and number of employed members,  therefore encouraging employment before consumption, and thus indirectly encouraging financial stability.
+1.10. Con: Everything will become unnecessarily complicated because the benefits \(if any\) will be outweighed by the difficulty to complete these conversions
+1.11. Con: Sales taxes rightly discourage spending on frivilous, harmful, or luxurious products.
+1.12. Con: The sales tax allows business and commerce to build public funds, improving the community and allowing more jobs.
+1.12.1. Con: So does an income tax. So do all kinds of taxes.
+1.12.2. Con: It is not obvious that the sales tax will do this more than the income tax.
+1.13. Pro: Low sales tax draws consumers to the area because of lower prices, causing businesses to thrive.
+1.13.1. Con: The makeup of the community would be disproportionately high in retirees, as they seek out low sales tax and aren't concerned with income tax. The aging community would be difficult to maintain in the long term and could lack a sufficient work force.
+1.13.2. Con: Sales tax has been shown to be one of the [least harmful taxes](https://www.wsj.com/articles/SB121875570585042551) for growth. As such, it's unlikely it would have that big an effect if it were removed.
+1.13.3. Con: A higher income tax would encourage people to live somewhere else and only come to the area for shopping, encouraging large shopping districts and urban sprawl.

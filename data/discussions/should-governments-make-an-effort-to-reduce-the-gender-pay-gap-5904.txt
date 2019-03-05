@@ -1,0 +1,193 @@
+Discussion Title: Should governments make an effort to reduce the gender pay gap?
+
+1. Efforts should be made by the government to reduce the gender pay gap.
+1.1. Con: The gender pay gap is a natural phenomenon due to individual choices and strengths. As such, the government should not intervene.
+1.1.1. Con: An [in-depth analysis](https://hired.com/gender-wage-gap) of more than 100,000 job offers in the US found that 63% of the time, men receive higher salary offers than women for the same job title at the same company.
+1.1.1.1. Con: This analysis does not control for total compensation, age, experience, location or other factors - it just looks at men vs women for same job salaries.
+1.1.1.2. Con: The website asserts that 63% of the time, men receive higher salary offers. The website does not reveal how often women receive higher offers, and by withholding this information, the website makes its claims appear more dramatic. The implication of not showing that data is that only men receive higher offers. However, women may have received higher offers in that study up to 37% of the time. A more forthcoming review of the data would provide a better support for the point.
+1.1.1.2.1. Con: It would not make logical or intuitive sense for women to be receiving higher offers than men, en masse, and turning them down in favour of less pay. That is probably why the study refrained from including those data-points, as the prior suggests it is incredible improbable.
+1.1.1.2.1.1. Con: This is because you don't "receive" an offer you negotiate an offer. Studies have shown men \(in general\) are more likely to negotiate for higher pay. Women tend to preference more vacation and flexible hours.
+1.1.1.3. Con: There are serious flaws in the methods used in that analysis, making it close to meaningless. It seems to completely ignore variables that can have a substantial impact on wages offered, such as former work experience in a related field, variations in education and other factors.
+1.1.2. Pro: As a result of biological differences, men are capable of completing more jobs than women - e.g. jobs that require heavy lifting.
+1.1.2.1. Con: Jobs that require heavy lifting aren't well paid at all, neither in the metaphorical, nor in the literal sense. Therefore, this can't explain the pay gap.
+1.1.2.2. Con: Equating every workers value on their ability to lift heavy things also discriminates against weak men and women, the otherly abled, and older workers. It is also a random marker for what should be valued in an employee or gender or person. We could pick any random charcteristic that applies to a sex and make that the marker. Ie: birthing ability is a feat of strength, why not use that as a marker? "Lifting up heavy things" suits a patriarchy society that doest want to share with women.
+1.1.2.3. Con: While there may be physical differences between the average man and the average woman, there is significant overlap between the two genders \(e.g. in [strenght](http://www.warandgender.com/wggendif.htm)\). This means that differences between individuals are much less significant than averages imply.
+1.1.2.3.1. Con: If a task requires an above-average amount of strength or speed, the position will be filled by an individual in the upper percentile of strength or speed and will disproportionately consist of males \(i.e. professional athletes, [coal miners](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=24&cad=rja&uact=8&ved=0ahUKEwiD_MHX8-3WAhWIKCYKHYv_C2I4FBAWCDowAw&url=http%3A%2F%2Fwww.chamberofmines.org.za%2Findustry-news%2Fpublications%2Ffact-sheets%2Fsend%2F3-fact-sheets%2F424-women-in-mining&usg=AOvVaw1ucQEfPdyyZANkGRnTPwfw), lumberjacks, [firefighters](http://www.nytimes.com/2000/02/03/nyregion/despite-recruiting-few-women-do-well-in-firefighter-tests.html)\).
+1.1.3. Pro: Men have a primary social purpose of economic [gain](http://articles.latimes.com/2013/dec/26/local/la-me-one-way-gender-revolution-20131227), so the gender pay gap better facilitates that basic goal.
+1.1.3.1. Con: Telling all men that their primary social function is to labor effectively condemns them to servitude.
+1.1.3.2. Con: There is no inherent or logical reason why this always has to be the case. Just because historically societies have assigned gender roles as such does not justify it being so.
+1.1.3.2.1. Pro: And such notions of people, not just men, existing for "economic gain" are historically quite recent being born largely out of the industrial revolution and the need to drive subsistence farmers off of common lands and into factories.
+1.1.4. Pro: The gender pay gap is often conflated with the unadjusted pay gap. When all variables other than gender are controlled for, such as hours worked, occupation, education, the pay gap disappears.
+1.1.4.1. Pro: This [source](https://www.glassdoor.com/research/app/uploads/sites/2/2016/03/Glassdoor-Gender-Pay-Gap-Study.pdf) narrows it down to 5.4%, but fails to account for hours worked. This [source](https://www.jec.senate.gov/public/_cache/files/0779dc2f-4a4e-4386-b847-9ae919735acc/gender-pay-inequality----us-congress-joint-economic-committee.pdf) controls for hours worked, which reduces the pay gap by 6.0 percentage points.
+1.1.4.2. Con: The problem lies in the various factors that the unadjusted pay gap controls for. It is in enabling women to work more hours, receive a greater education and aspire to more well-paid occupations that the government should act.
+1.1.4.3. Pro: This [report](https://www.bls.gov/news.release/archives/atus_06242016.pdf) finds that among full time, year round workers, men work 8.2 hours a day compared to women's 7.8. This would mean women work 4.5% fewer hours than men.
+1.1.4.3.1. Pro: The same study, this time for 2016 instead of 2015, found that accounting for hours worked would reduce the gap by [7.1](https://www.bls.gov/news.release/pdf/atus.pdf) percentage points.
+1.1.4.4. Con: These decisions cannot be determined to be independent of sexist preconditions that inherently contribute to the pay gap.
+1.1.4.4.1. Pro: [A study](https://www.ncbi.nlm.nih.gov/pubmed/10788304) found that mothers are more likely to intervene when daughters take part in high risk activities than when sons do. From a young age, therefore, girls are taught to take fewer risks than boys.
+1.1.4.4.1.1. Pro: [Risk-taking](https://hbr.org/2015/04/not-taking-risks-is-the-riskiest-career-move-of-all) has been found to be a crucial part of having a successful career and getting senior jobs.
+1.1.4.4.2. Pro: Recent campaigns to encourage women to believe in their abilities to pursue STEM subjects have resulted in a [10% increase](https://www.theguardian.com/education/2014/feb/18/female-students-science-engineering-sixth-formers-stem-subjects) in women pursuing those paths. This illustrates that prior choices for non-STEM subjects were motivated by something societal or perceptual rather than innate ability.
+1.1.4.4.3. Con: Legislation to address the pay gap would not affect these sexist preconditions at all.
+1.1.4.5. Pro: Reducing the wage gap would require women to work more hours. This would not be fair to women.
+1.1.4.6. Pro: [Uber's data](http://fortune.com/2018/02/06/uber-gender-pay-gap-study/) on the subject illustrates that the 7% pay gap amongst their employees is due to factors other than gender discrimination.
+1.1.4.6.1. Pro: The remaining one-sixth of the gap in earnings  is explained by differences in where people choose to drive, with men, on average, driving in locations with higher surge and lower wait times.
+1.1.4.6.2. Pro: According to the report, experience accounts for one-third of the earnings gap.
+1.1.4.6.3. Pro: About half of the earnings gap is explained by differences in driving speed, according to Uber.
+1.1.5. Pro: The gender gap cannot stem from explicit, sexist discrimination as that is illegal.
+1.1.5.1. Pro: "[The Equal Pay Act](https://www.eeoc.gov/laws/statutes/epa.cfm) of 1963 is a United States labor law amending the Fair Labor Standards Act, aimed at abolishing wage disparity based on sex \(see Gender pay gap\). It was signed into law on June 10, 1963, by John F. Kennedy as part of his New Frontier Program."
+1.1.5.2. Pro: Ensuring equal pay for equal work is sufficient government intervention, there is no need to ensure average total pay is also equal.
+1.1.5.3. Con: Many activities are [illegal](https://www.unionfacts.com/article/unfair-labor-practices/), such as tax evasion, hiring undocumented immigrants, paying less than the stipulated minimum wage or not paying over time, \(depending on each legislation\) and yet they are possible and [happen](https://www.bf-law.com/five-common-labor-law-violations/).
+1.1.5.3.1. Con: Yes, we do not live in a perfect world. The point of laws, penalties, fines, jail time is to discourage the practice not eliminate it. Without the Law there is no means to redress the situation.
+1.1.5.3.2. Pro: Many corporations and businesses [commit crimes](https://www.corporatecrimereporter.com/top100.html).
+1.1.5.4. Pro: [The UK](https://www.equalityhumanrights.com/en/advice-and-guidance/equal-pay-equal-work-matter-law) already has provisions mandating that employers pay people equally regardless of their gender.
+1.1.6. Con: Placing all the blame on individual preferences ignores the discrimination women have been facing for centuries that might impact their ability to gain respect, promotions, or raises in the workplace.
+1.1.6.1. Con: Discrimination impacting a woman's ability to gain promotions and raises... etc would result in the gender wage gap, a difference in the hourly wage of woman compared to men. As this is illegal, the government already prevents it, meaning that it could not be the cause of the gender pay gap. Thus the cause of the gender pay gap is in fact likely individual preference.
+1.1.7. Pro: Providing equality of opportunity can be better suited for government intervention in developed economies and societies, i.e countries where equality of the sexes is agreed and desired by most of the population.
+1.1.8. Con: As the paygap [changes](http://www.pewresearch.org/fact-tank/2018/04/09/gender-pay-gap-facts/) over [time](https://iwpr.org/last-decade-slowest-progress-wage-gap/) it proves that it is not a "natural" side-effect in society, but an artificial phenomenon.
+1.1.9. Pro: Since the pay gap is a result of individual choices, the only way to prevent it is by removing choice, which is something governments cannot do without active discrimination.
+1.2. Con: The government is not the right actor to fix the gender pay gap.
+1.2.1. Pro: Using legislation to correct the gender pay gap risks creating a future reverse gender pay gap as the pendulum swings too far.
+1.2.1.1. Pro: It will not be immediately obvious when the playing field is completely level for new entrants to the workforce, because women who have been disadvantaged early in their careers will remain in the workforce, still earning less than male counterparts.
+1.2.1.2. Con: It is preferable to resolve the gender pay gap more quickly by taking corrective action constantly to balance it out, rather than adjusting every 50 years or so.
+1.2.2. Pro: Government has no place dictating to business how things should be run.
+1.2.2.1. Pro: Businesses should have an hourly rate dictated by the nature/value of the job being provided, not by the person doing the job. If there is an annual salary then an individual should be able to negotiate how much they think they are worth in the position.  Everything else will be determined by the free market.
+1.2.2.1.1. Con: We do not have free markets. Information for job hunters is limited and most actors can not make well informed decisions due to time and economic constraints.
+1.2.2.2. Pro: The free market will determine the optimal pay for every employee.
+1.2.2.3. Con: Business and government exist together hand in hand. Goverment provides critical services such a security and regulation to protect private property as well as basic utilities like roads and mail, in addition to the infrastructure for most gas, water, electric, and telecom \(even if they are currently owned privately\). As such you can not separate the two.
+1.2.2.4. Pro: Under capitalism, such coercion is doomed to fail.
+1.2.2.4.1. Con: While loops holes and fraudulent behaviour will likely always exist, and systems must be enforced regularly to maintain effect. The government does regularly coerce business and corporations though regulatory bodies.
+1.2.2.4.2. Pro: It is virtually impossible for government to exercise coercion on employees with regards to what amounts they pay their employees while maintaining capitalist freedom.
+1.2.2.4.3. Pro: Assuming that currently, on average, employers wish to pay more to men employees, it's difficult to set up rules that would force them to keep pays averagely equal, since for every such ruleset, they can find ways to avoid them, motivated by their interest.
+1.2.3. Pro: Efforts to reduce the gender pay gap should be made by women.
+1.2.3.1. Con: Governments have a responsibility to all of their citizens to ensure that their citizens' opportunities and rights are not dictated by their gender, race or sexuality.
+1.2.3.1.1. Con: Although true, positive discrimination programs which are often the go-to response to attempting to alleviate the gender pay gap are exactly the opposite of this, judging people on gender, race and sexuality to produce a equal metric of men and women, or a representative number of minorities in the workplace.
+1.2.3.1.2. Pro: If you do the same job, you should get the same pay, regardless of gender. If the workplace does not automatically do this, the government should step in.
+1.2.3.1.3. Pro: Direct sexual discrimination can be hardly estimated, but its existence is proved through [qualitative evidence and legal cases](https://pdfs.semanticscholar.org/f5e0/f67cc50796f4bb3c464d3c34d16838f4596c.pdf). Direct sexual discrimination explains a portion of the gap and indirect discrimination affects other explanatory variables \(e.g. choice in employment\). These violate equal human rights, thus the government needs to interfere.
+1.2.3.2. Con: Women have it harder to reduce the gender gap, as they do not usually have high-responsability occupations.
+1.2.4. Pro: Forcing society to adopt gender pay gap policies may breed resentment and cause an extension of sexist attitudes in subsets of the populace.
+1.2.4.1. Pro: Forcing equal pay will have an adverse effect on female employment, as there will be no cost benefit to employing women.
+1.2.4.2. Con: Other types of efforts can be made that don't entail forcing society or businesses to adopt and policies.
+1.2.4.3. Con: Government intervention has been necessary in resolving other matters of discrimination, such as race-based discrimination.
+1.2.4.3.1. Con: The government was often the [cause](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america) of discrimination.
+1.2.4.3.1.1. Con: The Government responds to the will of the people who elect and run it. On one hand they were the cause of the discrimination because the people wanted that, and afterwards became the agent of change to remove that discrimination because the people wanted it. The government is a tool that acts to the will of those who control it.
+1.2.4.3.2. Con: A government interested in sustaining freedom and liberty will generally outlaw actions, such as discrimination against employees or applicants \(where provable\). Authoritarian governance will compel action, such as forcing companies to seek a 50/50 gender parity. This fundamental difference makes compelled-action laws a false equivalence to the anti-discrimination laws which prevent actions against individuals.
+1.2.4.4. Con: The sexist culture which perpetuates the pay gap may not ever be resolved without government intervention.
+1.2.5. Con: -> See 1.2.4.3.
+1.2.6. Con: Businesses do not have the incentives to pay women more given the career disruption of childbirth, this necessitates government intervention.
+1.2.6.1. Con: The career disruption of childbirth is also a productivity disruption. Enforced equal pay has the unintended side effect of disincentivizing the hiring of young or newly married women.
+1.3. Pro: It is the responsibility of the government to intervene in order to protect the right of equality.
+1.3.1. Pro: Men and women are equally valuable as humans. As such, men and women have both a legal and a fundamental right to be rewarded equally for doing the same work.
+1.3.1.1. Pro: The current [laws](https://www.eeoc.gov/laws/statutes/epa.cfm) in America support your statement.
+1.3.1.2. Con: Men and women may be equally valuables as human beings, but wages are not dependent on a person's value as a human being. Wages should reflect productivity, creativity and risks.
+1.3.1.3. Con: The premise of the discussion is that we are talking about an aggregate pay difference across all workers. We are not discussing whether men and women should be paid the same to do the same job.
+1.3.1.4. Pro: The existence of restricting gender stereotypes \(e.g. women do [more](https://www.medicalnewstoday.com/articles/319687.php)childcare and housework\) result in skewed employment patterns for the sexes, which explain [three-quarter](https://pdfs.semanticscholar.org/f5e0/f67cc50796f4bb3c464d3c34d16838f4596c.pdf) of the gap, resulting in unequal opportunities based on sex at birth. Government should interfere and weaken stereotypes to secure equal rights and opportunities.
+1.3.2. Pro: It is important that we have equality in our pay if men and women are going to be as successful and have the same opportunities in the world.
+1.3.2.1. Pro: People should be paid fairly for the work that they do, counting all factors that are relevant to job performance and discounting all the ones that are not.
+1.3.2.1.1. Pro: Employees get paid for the position they garner and the ability they exhibit therein. Using our judiciary and our tax money to put a thumb on one side of the scales after splitting everyone up by gender is wrong no matter what side you do it to.
+1.3.2.1.2. Pro: The Government should force employers to keep pay fair, regardless of if it is attempting to do anything to the gender pay gap.
+1.3.2.1.2.1. Con: -> See 1.1.5.4.
+1.3.2.2. Pro: Equal pay allows men to be stay at home fathers, because women can provide for the family.
+1.3.2.2.1. Con: Being dependent on someone else's income is always a form of domination, whether the weaker party is a man or woman. This is not a desirable outcome for men or women.
+1.3.2.2.1.1. Con: Specialization and cooperation is an effective way for couples to enhance their shared ressources.
+1.3.2.2.1.2. Con: Being dependent on someone else's income is not necessarily domination. People who benefit from charity, and children - who receive free housing and meals from their parents, would not be considered dominated.
+1.3.2.2.2. Pro: Many men would like to be able to devote more time to child raising, and some women would prefer to work instead of doing the above.
+1.3.2.3. Con: Female entrepreneurs/employees [define](http://www.stybelpeabody.com/newsite/pdf/womenatthetop.pdf) [success](https://news.vanderbilt.edu/2014/11/18/gifted-men-and-women-define-success-differently-40-year-study-says/) in different ways to male entrepreneurs/employees. Success is a subjective metric.
+1.3.3. Con: This is assuming that women are equally productive as men, which might be true, but it's an unproven assumption. There shouldn't be any laws on such a weak basis.
+1.3.3.1. Con: The status quo effectively assumes that women are less productive than men - if there is no basis for this, then it is the status quo that's unjustifiable, not the drive for equal treatment.
+1.3.4. Con: The inequality is justified by the inequalities between men and women at work that disfavour men.
+1.3.4.1. Pro: In many countries men serve in the military. One might argue that their contribution to society is bigger and thus deserve higher pay.
+1.3.4.1.1. Con: In all countries, mothers give birth and are pregnant for 9 months. One might argue that their contribution to society is bigger and thus deserves higher pay.
+1.3.4.1.1.1. Con: Pregnancy is a choice, conscription isn't.
+1.3.4.1.2. Con: Women also serve in the military. It is unclear why this argument should be gender-specific.
+1.3.4.1.3. Pro: Men will be out of the labor market for a prolonged period of time. This way they loose the opportunity to earn money while women can.
+1.3.4.2. Pro: The higher average pay that men receive is offset by other factors.
+1.3.4.2.1. Pro: The US Bureau of Labor Statistics [shows](https://www.bls.gov/news.release/pdf/atus.pdf) that on average men worked 8.2 hours a day compared to women working only 7.8 hours a day.
+1.3.4.2.1.1. Con: Studies that suggest men work more hours than women are flawed.
+1.3.4.2.1.1.1. Pro: There is [evidence](https://www.washingtonpost.com/news/wonk/wp/2016/06/29/men-say-they-work-more-than-women-heres-the-truth/?utm_term=.cacf9eb5ac06) that men overestimate and women underestimate the hours they work at any given task.
+1.3.4.2.1.1.2. Pro: [Studies](https://www.bls.gov/news.release/pdf/atus.pdf) comparing hours worked, such as the commonly cited US Department of Labor Statistics, are generally self reported.
+1.3.4.2.2. Pro: Men have a much [higher](https://www.investors.com/politics/commentary/how-come-nobody-talks-about-the-gender-workplace-death-gap/) rate of workplace deaths and accidents.
+1.3.4.2.2.1. Con: Men's higher risk of workplace deaths is a result of unnecessary risk-taking and as such should not be rewarded with higher pay.
+1.3.5. Pro: -> See 1.2.3.1.
+1.3.6. Pro: The gender pay gap makes life unjustifiably harder for women - the government should intervene to stop this from being the case.
+1.3.6.1. Pro: The gender pay gap makes it harder for women who are single parents to support their family.
+1.3.7. Con: Government needs to protect women from inequalities in opportunities and treatment, not from inequalities in outcomes which may be the result of factors other than bias.
+1.3.8. Pro: Women enjoy equal rights under the law, but they do not enjoy equal opportunity. This is partly due to the pay gap, since structures of money and power shape our lives as much, if not more, as laws. If equality is the goal, the economy can not be left out, it is the central element. And it should be the goal.
+1.3.9. Con: Women are not equally sent by Governments to die in wars.
+1.3.10. Con: Governments do not require male/female parity in extremely dangerous and unpleasant jobs.
+1.4. Pro: The Gender pay gap will not solve itself naturally unless the government intervenes.
+1.4.1. Pro: The gender pay gap has existed for a very long time already. Apparently economic mechanisms alone weren't able to solve it.
+1.4.1.1. Con: The gender pay gap does not exist.
+1.4.1.1.1. Pro: The gap does not actually exist beyond a statistical anomaly. The true gap is near [6%](https://web.archive.org/web/20160327195224/http://www.hawaii.edu/religion/courses/Gender_Wage_Gap_Report.pdf), which is within one standard deviation, and is therefore insignificant from a statistical standpoint.
+1.4.1.1.1.1. Con: The citation lacks substance being just a foreword, and based on the data presented standard deviation can not be determined.
+1.4.1.1.1.2. Con: Child care, child birth \(worker production\) and eldercare are all economically critical, but undervalued services, generally provided for free to the economy. If we began counting the economic benefits of such critical but free labour, the wage gap would expand rather then contract.
+1.4.1.1.1.2.1. Con: People should not expect to be economically compensated by the rest of society for caring for their own children.
+1.4.1.1.1.2.1.1. Con: Society is dependent on people raising children, if the population does not grow the economy will stagnate or shrink. Without new workers there is no society.
+1.4.1.1.1.2.1.1.1. Con: Society depends on many interactions which are not economically compensated.
+1.4.1.1.1.2.1.1.1.1. Pro: Students are not paid a wage to obtain an eduction.
+1.4.1.1.1.2.1.1.1.2. Pro: People are not paid to go on dates or engage in other courtship rituals.
+1.4.1.1.1.2.1.2. Con: If women are expected, and often forced by circumstance to take on most of the free labour currently required by child care, then that should be factored into the wage gap not dismissed as a mere "choice."
+1.4.1.1.1.2.1.2.1. Con: On an individual level, women do not necessarily take on more childcare labor than men. Legislation based on terrestrial gender roles would reinforce those roles and might be unfair to people who do not conform to traditional gender roles.
+1.4.1.1.1.2.1.2.2. Con: Women are not necessarily forced to take on childcare labor.
+1.4.1.1.1.2.1.2.3. Pro: Women [put in more than double](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10) the amount of unpaid work than men when it comes to cooking, childcare and housework.
+1.4.1.1.1.2.1.3. Con: In the past other basic labour rights where also withheld. Safe working conditions, child labour laws, overtime, weekends, and so on. Simply because we don't currently expect to be compensated fairly  for our labour now is not a valid argument.
+1.4.1.1.1.2.1.3.1. Con: Being paid for what you do on your own time is not a basic labor right.
+1.4.1.1.1.2.1.4. Pro: The benefit reaped by society for the care of a child is minimal in comparison to the benefit reaped by the parent or child themselves.
+1.4.1.1.1.2.1.5. Pro: Having children is an individual choice that only the parents who made such a choice are accountable for.
+1.4.1.1.2. Pro: The metric includes women who were affected by sexism in the 70s through to the 90s. Their careers today do not reflect their full potential. Because of this, the pay gap metric is a measure of sexism over the past 50 years, not a measure of sexism today.
+1.4.1.1.2.1. Pro: Measures of the gender pay gap among recent college graduates show a reverse pay gap with women [making 8% more](http://content.time.com/time/business/article/0,8599,2015274,00.html).
+1.4.1.1.2.1.1. Con: However this 8% reverse pay gap only applies to a narrow subset of women, only including "...unmarried, childless women under 30 who live in cities..." and who have graduated from post secondary institutions \(degree level not specified\). Drawing wide ranging concussions based 8% of a relatively small subset is misleading.
+1.4.1.1.2.1.2. Con: The cited article claims that the majority of women still make less than their male counterpoints.
+1.4.1.1.2.2. Con: Even if the wage gap is trending toward equality of pay, that does not mean it no longer exists.
+1.4.1.1.3. Pro: A gender pay gap among qualified individuals cannot exist in competitive markets.
+1.4.1.1.3.1. Con: Unfortunately markets are rarely truly competitive. So even if parent claim is true which is itself debatable, you also have to show that each market is in fact competitive first.
+1.4.1.1.3.2. Pro: If there were equally qualified women that could be hired for less pay, corporations would take advantage of this labor arbitrage until there was no pay gap. It must be the case that the current pay gap is the result of lurking variables such as fewer hours worked and a greater likeliness to take time off for family.
+1.4.1.1.3.2.1. Con: This assumes that corporations are rational actors, and have effective knowledge access to all hireable populations.
+1.4.1.1.4. Con: Equality of opportunity does not exist between those presenting as men and women. Opportunities presented to women are generally quite different from those presented to men.
+1.4.1.1.4.1. Pro: The [Open Society Institute](https://www.opensocietyfoundations.org/reports/equal-opportunities-women-and-men) recognizes through it's [research](https://www.opensocietyfoundations.org/sites/default/files/a_equal_20050502.pdf) that  in all EU countries there still exist unequal economic and social opportunities for women due to numerous factors including sexual harassment and assault.
+1.4.1.1.4.2. Con: This is not an argument for equal pay, but an argument for improving equality of opportunity
+1.4.1.1.4.2.1. Con: Women cannot equally access the labour market due to complex social, cultural, and economic reasons, thereby limiting the kinds of paid work they have meaningful access to. Equality of opportunity does play a role in this discussion.
+1.4.1.1.5. Con: If a gender pay gap did not exist, noticeable improvement over time as the discussion becomes public would not be real.  The pay gap still exisit even though it is narrowing. [Gender-pay-gap-facts](http://www.pewresearch.org/fact-tank/2018/04/09/gender-pay-gap-facts/)
+1.4.1.1.5.1. Con: Public perception of a pay gap is not necessarily evidence that one exists.
+1.4.1.1.6. Con: When women enter a previously male-dominated industry, the wages in that industry go down for everyone. When men enter a previously female-dominated industry, the opposite happens. This is arguably a bigger factor than the pay gap between men and women in the same industry, which is small, but exists. [nytimes.com](https://www.nytimes.com/2016/03/20/upshot/as-women-take-over-a-male-dominated-field-the-pay-drops.html)
+1.4.1.1.7. Pro: All partners in a household agree on labor division and split the household income equally. For example, one partner in a married couple may earn $80k/year in the workforce while the other partner stays home with the kids and works a part-time job for $20k/year. They both earn $50k/year. When correct accounting is used, the gender pay gap disappears.
+1.4.1.1.7.1. Con: Not all partners agree on household labour division.
+1.4.1.1.8. Pro: The infrastructure needed to properly analyze and understand such a dynamic and mass-scale issue is simply out of grasp and leaning on non-notarized university speculation is not only risky economically but also sets a dangerous precedent about what scientific materials we use to create sustainable policy.
+1.4.1.1.9. Con: -> See 1.2.3.1.3.
+1.4.2. Con: Businesses that operate gender blind will hire more women because their qualification level is the same but wages are lower. This increases the demand for female labor and drives up wages.
+1.4.2.1. Con: But business do not operate gender blind, that is why gender inequality has survived this far.
+1.4.2.1.1. Con: Businesses operate according to profit margins and bottom-line. If you could make a profit out of paying equally skilled workers less, you would, but that has not happened.
+1.4.2.2. Con: Businesses need not be gender blind if women offer equal skill at lower cost. If this were true, any company that hired women would immediately benefit because labor is one of the greatest costs for any organization. A business that hired only women \(hardly gender blind\) would see the greater benefits than businesses that were gender blind.
+1.5. Con: Equal pay cannot be considered fair pay, as men deserve more for the work they do.
+1.5.1. Pro: The average man being 15-20% larger than the average woman means they require more food & larger clothing for the same quality of life. They may even require larger transportation. This may be a small factor in terms of pay, but it is one of hundreds of factors that define what 'fair pay' would be.
+1.5.1.1. Con: Even if men's clothes are bigger, they are generally [cheaper](http://www.complex.com/style/2016/03/pink-tax-women-mens-clothing-prices) than women's.
+1.5.1.2. Con: Everyday products made for women are, on average, [more expensive](https://www.independent.co.uk/news/business/women-paying-more-than-men-for-everyday-product-thanks-to-unacceptable-gender-price-gap-a6820816.html).
+1.5.1.2.1. Pro: A study in New York showed every day items for women cost 7 per cent more for women than men on average [New York City Dept of Consumer Affairs Gender Pricing](http://www1.nyc.gov/assets/dca/downloads/pdf/partners/Study-of-Gender-Pricing-in-NYC.pdf)
+1.5.2. Con: While "Equal" and "Fair" are not equivalent to one another, the wage gap does exist in many professional fields, and does lead to inequality of outcomes. As such in those cases it would be fairer to bridge the pay gap then to do nothing at all.
+1.5.3. Con: Women overwhelming take the [brunt](http://www.pewsocialtrends.org/2013/03/14/chapter-5-americans-time-at-paid-work-housework-child-care-1965-to-2011/) of home and child care work, which while [critical](https://www.marketwatch.com/story/this-is-how-much-more-unpaid-work-women-do-than-men-2017-03-07) to societies functioning of the economy are not duly compensated.
+1.5.3.1. Con: This is an integral human duty, not labour. The fact that women take the brunt of these duties, has nothing to do with what they are paid when on the job.
+1.5.3.1.1. Con: Regardless of whether or not such actions are considered a duty. Tending your children are labour without question.
+1.5.3.1.2. Con: While cleaning your house may be deemed optional, child rearing overall is critical to the rest of society, as such grouping them together seems fallacious.
+1.5.4. Con: Fair compensation is more about the work actually performed than the gender of the person doing it.  If a man and woman each perform the same amount and type of work to the same standard, then neither inherently deserves more.
+1.5.5. Pro: There are some tasks that pretty much only men can do. Extra expenses are incurred in enabling women to perform these tasks. Or transforming the task by restricting men from working at full capacity thus forcing men and women to do the same. These expenses should be placed on women.
+1.6. Con: Government/society don't understand the gap well enough to intervene.
+1.7. Con: -> See 1.4.1.1.
+1.8. Pro: Having equal pay between men and women would increase economic growth in the long run.
+1.8.1. Pro: Equal pay would benefit the economy because it would allow for more diversity in the workplace.
+1.8.1.1. Con: Increasing the cost of hiring women, would disincentivise companies to hire them. This is likely to result in less diversity.
+1.8.1.2. Pro: Firms with a higher ratio of women in their managerial/administrative positions [demonstrate](https://www.rieti.go.jp/en/publications/summary/11100003.html) better performance.
+1.8.1.3. Con: Diversity in and of itself is not necessarily a good thing. Nobody would seek to have diversity in terms of ability - some good workers and some bad, for instance
+1.8.1.3.1. Con: Diversity in the workforce brings about a diversity in approaches to work. This increases innovation, and decreases xenophobia and workplace boredom. Of course no one would seek to have bad workers on their force - that's irrelevant.
+1.8.2. Pro: Gender equality in the labor market would increase labor productivity.
+1.8.2.1. Pro: The pay gap indicates that the workforce is not operating at maximum potential.
+1.8.2.1.1. Pro: Job placement is not optimal if factors other than talent and capacity, such as gender, are dictating who gets the job.
+1.8.2.2. Pro: Equal pay would properly incentivize women to work harder.
+1.8.3. Pro: If women on average earned as much as men, the economy would benefit as women could consume more goods and services.
+1.8.3.1. Con: If women on average earned as much as men, companies would have to pay out more in wages and as such would reduce jobs or lower wages for both genders.
+1.8.3.2. Pro: The government should intervine to help close the pay gap. The single earner household system is almost extinct and there is no reason each person's labor at the same task should be valued differently. The difference is not based on skill, but on bias. The gap hurts both men and women, especially in the family sphere, where both parties need to work but only one is being compensated for their time fairly.
+1.8.4. Pro: The incentive of equal pay would lead to greater participation of women in the workforce, thereby filling vacant positions and increasing overall output.
+1.8.4.1. Con: Women are already paid enough to do their jobs, if they weren't, they wouldn't do them. Paying them more would cost more but wouldn't increase employment.
+1.8.5. Con: Equal pay would increase the cost of human capital, which would make businesses less profitable and stifle their growth, thereby negatively damaging overall economic growth.
+1.8.5.1. Con: This argument could be used to justify discrimination towards any group. If unequal pay is bad, it might be that it should be stopped regardless of economic effects.
+1.8.5.2. Con: In failing to offer benefits and aid that could attract women high-paying work, employers both private and public are missing out on a full half of the societal talent pool - a great wellspring of new innovations and potential growth increase.
+1.8.6. Con: Women who don't work play important civic roles, like petitioning for putting up stop signs, which increase the standard of living. If women go into the workforce, we might miss the more valuable work they do outside of the economy.
+1.8.7. Con: Women in the workplace are primarily motivated by things [other than money.](https://www.economist.com/blogs/economist-explains/2017/10/economist-explains-12) Paying them more would most likely have little effect on their performance.
+1.8.7.1. Con: Equal pay does not mean paying currently employed women more until the total pay towards each gender is equal - that would be a bizarre solution. It means offering benefits like childcare so that, on average, mothers are as able to focus on their careers as fathers. Ultimately, this will increase their representation in high-paying jobs and diminish the pay gap.

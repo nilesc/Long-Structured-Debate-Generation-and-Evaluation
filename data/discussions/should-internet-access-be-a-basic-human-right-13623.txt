@@ -1,0 +1,48 @@
+Discussion Title: Should Internet Access Be A Basic Human Right?
+
+1. Internet Access Should Be a Basic Human Right.
+1.1. Pro: Given that many employment applications can now only be filled online, those without internet access are at a significant economic disadvantage. This will only exacerbate existing inequalities.
+1.1.1. Pro: Even if you do a job that does not require you to use a computer or the internet. The opportunities one may be exposed to, via the internet and social media, to upskill oneself or for work, are many and varied.
+
+["The internet is a top resource for many of today’s job hunters: Among Americans who have looked for work in the last two years, 79% utilized online resources in their most recent job search and 34% say these online resources were the most important tool available to them"](http://www.pewinternet.org/2015/11/19/searching-for-work-in-the-digital-era/)
+1.1.2. Con: Internet access is available through public libraries or other means. Mandating government provided access is an unnecessary expansion of government responsibilities.
+1.2. Pro: Education and knowledge spread by internet are the only ways to make people independent and able to fullfill their needs by themselves.
+1.2.1. Pro: When the poor are kept in the intellectual dark, they cannot make informed decisions which will help them succeed.
+1.2.1.1. Con: Intellectual material is not restricted to the Internet; libraries, televisions, news stations all exist without needing the Internet per se.
+1.2.2. Pro: Education and Knowledge is a basic human right. Like a book that is passed down generation by generation for knowledge, the internet is a extension of that knowledge to better the human race. As such, it is a basic human right.
+1.2.3. Con: The internet does not hold a monopoly on education.
+1.3. Con: Knowledge gaps are an inevitable phenomenon which can be simply a product of differences in individual discipline; the existence of the internet cannot cure that problem.
+1.3.1. Con: Even if we accept that the internet cannot completely cure this problem, it is still possible that it can dramatically reduce knowledge gaps. An imperfect solution is vastly preferable to no solution at all.
+1.3.1.1. Con: An 'imperfect solution' is something subject to a cost/benefit analysis, and inappropriately labeled a 'human right'.
+1.3.1.1.1. Con: By this logic, there should be no human rights, because no solution perfectly solves complex issues in the real world.
+1.3.2. Con: Access to information on the internet for all would increase the knowledge of society as a whole and may lead to technological advancements by people who otherwise would not have that knowledge.
+1.4. Con: If a government is in debt, it cannot responsibly afford to offer new benefits.
+1.4.1. Con: Human rights are not merely the responsibility of individual governments, but also of the international community. If a government cannot afford to protect human rights, it should be aided by other countries in doing so.
+1.4.2. Con: If a government cannot provide internet access in some form to its citizens it should be cutting other expenses to make room for it. Internet access most importantly provides knowledge to its users.
+1.5. Pro: Making access to information subject to paying will ensure that only those with money get informed.
+1.5.1. Pro: In the same way that all people should have access to a flow of resources, all should have access to a flow of information.
+1.5.2. Pro: This will only continue to propagate unhealthy elitism.
+1.6. Pro: Governments who control who can see what can stop open discussion of ideas and strangle progress.
+1.6.1. Pro: America's repeal of pro Net Neutral rules, guiding how ISP's provide service, is an example of this. [F.C.C. Repeals Net Neutrality Rules](https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html) [The Bill](https://i.redditmedia.com/Ue-DJ9MR77D30YyF8X8LHdiXR-Ud6X65jcxKZCqhsvQ.jpg?s=661f8fc983ad0030703e85c029298321)
+1.7. Pro: Internet access is so fundamental to daily life - communication, job prospects, information gathering - that it absolutely merits being considered a true human right.
+1.8. Con: Human rights should be reserved for those keys to physical and emotional survival.
+1.8.1. Pro: The development and maintenance of a free Internet involves an economic cost; in a nation that cannot feed its people, you would need to argue that internet is more important than access to food.
+1.8.1.1. Con: Access to food and water are already considered basic human rights \(and also have economic costs\). Accepting new rights as human rights does not diminish the importance of the human rights that already exist. Therefore, it does not follow that making the internet a human right is tantamount to considering it more important than access to food.
+1.8.1.1.1. Con: This fails to address the fact that some people do not have access to food and water, therefore a preference is necessary.
+1.8.1.1.1.1. Con: This is not an argument against adding new human rights. The Universal Declaration of Human Rights considers these rights as standards for countries to strive towards; countries are free in practice to prioritize the protection of whichever right they wish.
+1.8.1.1.2. Con: Free food and water are not basic human rights. They are rights of citizens of certain countries who have voted to pay taxes for them but they are not human rights, but rights of some citizens. Note that human rights are universal and citizen rights are not
+1.8.1.1.2.1. Con: This is factually incorrect. The right to adequate food and water is an integral component of the Universal Declaration of Human Rights under Article 25 \(specifically mentioned on [Page 7 of the UDHR\)](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf), and is not merely a citizen right that may be optionally provided by some countries.
+1.8.1.2. Con: The access to the internet can improve the access to the food: the information where you can find it, when it is available or if there is anyone willing to share or exchange food.
+1.8.2. Pro: People survived for a long time without the internet whereas they can't survive without water, so on the hierarchy of needs, the internet ranks lower.
+1.8.2.1. Con: This is true but the two things are not independent. For example, the internet could spread the knowledge that enables people to make their own food and find water sources \(water well\).
+1.8.2.1.1. Con: The problem with water is not generally the access to it, but whether or not it is clean; finding a water source is all very well and good, but not if it cannot be drunk without health risks.
+1.8.2.2. Con: The principle of human rights goes well beyond what a human being requires just for survival. It is possible to survive unfair imprisonment, torture and slavery, but these would all still be considered gross violations of human rights. Therefore, internet access as a human right cannot be rejected on the grounds that it's unnecessary for survival.
+1.8.3. Con: In modern society, the Internet is most definitely vital for emotional survival.
+1.8.4. Pro: It can only be a right if one assumes positive rights \(healthcare, electricity, etc\) as opposed to negative rights \(liberty, personality, defense\)
+1.8.4.1. Con: There is no reason the two cannot coexist.
+1.8.4.2. Pro: Nothing which is invented by humanity can be declared a right. Rights are intrinsic - life, liberty and the pursuit of happiness are all rights you have as a consequence of existing, assuming the absence of an oppressive force which prevents the fulfillment of these rights. Internet access is something which must be provided to you, and therefore positions others as obligated to give you something on the grounds of a poor definition.
+1.9. Con: Internet access requires infrastructure which is not available everywhere: electricity, [physical layer](https://en.wikipedia.org/wiki/Physical_layer), and end devices.
+1.9.1. Con: Then this should also be supplied as part of its integral role in life.
+1.10. Con: Basic human rights should not be material goods or services. Freedoms of speech, assembly and protest are basic human rights, as is equality of justice. These basic rights were originally seen as derived from a higher power. Government was only given power in exchange for its ability to protect these rights for the citizen. The idea that health care, cell phones or the internet are human rights is a falsehood perpetuated by a political agenda based on the unnecessary expansion of government.
+1.11. Con: Technology costs money; the only way to make it available to all is to make it free, and therefore paid for by others through taxes.
+1.11.1. Con: Access to water and food are considered basic human rights but they are not free

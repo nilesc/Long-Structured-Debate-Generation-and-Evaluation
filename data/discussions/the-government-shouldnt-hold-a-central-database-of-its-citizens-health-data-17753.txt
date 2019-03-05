@@ -1,0 +1,14 @@
+Discussion Title: The government shouldn't hold a central database of it's citizens' health data
+
+1. The government shouldn't hold a central database of its citizens' health data
+1.1. Pro: National research into health would be easy and affordable to do. This could mean that funding is targeted to where it is most needed
+1.2. Con: The government cannot assure it's people that their privacy/data is protected
+1.2.1. Pro: Having a central database makes it a more interesting target for hackers than decentralized databases.
+1.2.2. Pro: A future government might change the laws and use collected data for other purposes than currently intended.
+1.3. Pro: In the event of an emergency, hospitals have access to my next of kin information, known allergies, blood type and organ/tissue donation request.
+1.4. Con: There are plans to include genetic information [Related story](https://www.google.com.au/amp/s/amp.smh.com.au/national/the-troubling-implications-of-my-health-record-s-genetic-info-plans-20180807-p4zvz1.html)
+1.5. Pro: Users can keep track of all their health information in one place
+1.5.1. Pro: This enables different doctors and health providers to work together more efficiently.
+1.6. Pro: Users choose the appropriate Privacy setting [More information](https://www.myhealthrecord.gov.au/for-you-your-family/howtos/set-privacy-and-security-controls)
+1.7. Con: GPs claim it is not fit for purpose. They already have existing systems for tracking patient data [healthcareit.com.au](https://www.healthcareit.com.au/article/gps-and-hospitals-claim-my-health-record-not-fit-purpose-alarmingly-low-usage-figures-are)
+1.8. Con: Once you have a MyHealth record everything will be added unless you request for it not to be [google.com.au](https://www.google.com.au/amp/amp.abc.net.au/article/9959622)

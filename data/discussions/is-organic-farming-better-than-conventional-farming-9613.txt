@@ -1,0 +1,100 @@
+Discussion Title: Is Organic Farming Better Than Conventional Farming?
+
+1. Organic farming is better than conventional farming
+1.1. Con: Genetic modifications are not allowed in organic farming.
+1.1.1. Pro: Genetically-modified crops use significantly less pesticides. [acsh.org](https://www.acsh.org/news/2014/11/06/meta-analysis-shows-gm-crops-reduce-pesticide-use-37-percent)
+1.1.2. Con: GMOs can spread in nature and harm other organisms.
+1.1.2.1. Con: GMO crops are more effective in the face of climate change.
+1.1.2.2. Con: This is already happening naturally, invasive species are quite common. GM could be used as a tool to actively prevent invasive species and the spread of GMOs themselves. This is actually already an implemented technology and, ironically, anti GMO proponents use as an argument against GMOs:[Genetic use restriction technology](https://en.wikipedia.org/wiki/Genetic_use_restriction_technology)
+1.1.3. Con: This is a positive, as there are negative health issues affiliated with eating genetically modified foods.
+1.1.3.1. Pro: [Animal studies](http://responsibletechnology.org/gmo-education/health-risks/) show serious health risks associated with eating genetically-modified foods, such as accelerated aging, immune problems, and infertility. Organic is better in this way.
+1.1.3.1.1. Con: Jeffrey Smith is an author and is in no way qualified to talk about what he is talking about. The studies he parrots are not strong enough to make the claims he makes. For context, this is where the institute is registered to:Location of the 'Institute for Responsible Technology'
+1.1.3.1.2. Con: The source completely misrepresents the conclusions of its sixth cited article, [“Pharmacogenomics of the cystic fibrosis transmembrane conductance regulator \(CFTR\) and the cystic fibrosis drug CPX using genome microarray analysis.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2230479/?page=1) The article is about the use of gene therapy to treat cystic fibrosis in humans. The source of this claim uses this article as evidence for unpredictable changes resulting from the consumption of genetically engineered food.
+1.1.3.1.3. Con: The source misrepresents its 12th citation, [“Public health implications of the microbial pesticide Bacillus thuringiensis: An epidemiological study, Oregon, 1985-86,”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1404979/?page=1)which investigates the effects of clinical infection with Bacillus thuringiensis. Foods genetically engineered to contain the Bt toxin do not have the Bt bacterium whole.
+1.1.3.1.4. Con: The source inaccurately reports the results of its 9th citation, ["Genetically modified and wild soybeans: an immunologic comparison."](https://www.ncbi.nlm.nih.gov/pubmed/16119037)The study reports that "The skin test results of 49 patients showed 13 positive results to wild soybeans and 8 positive results to GMO soybeans." The article cherrypicks the example of one person that had a reaction to GMO soybeans but not to wild soybeans. In addition, the article states that the study was not enough to completely assess allergenicity of GMO food.
+1.1.4. Pro: Farmers are [prohibited](https://www.usda.gov/media/blog/2013/05/17/organic-101-can-gmos-be-used-organic-products) from planting GMO seeds or give organic livestock GMO feed.
+1.1.5. Pro: Some genetically engineered foods are[compatible with the ideals of sustainable agriculture](https://www.ted.com/talks/pamela_ronald_the_case_for_engineering_our_food), which is the original goal of the organic movement.
+1.2. Con: Organic farming is more complicated to grow
+1.2.1. Pro: Organic products are more expensive since they cost more to grow.
+1.2.1.1. Pro: Low income families often cannot afford the extra cost of organic produce.
+1.2.1.1.1. Pro: [Twelve million US households](https://www.npr.org/templates/story/story.php?storyId=128621057) eat unhealthy foods because they cannot afford better quality.
+1.2.1.2. Con: One can grow organically in their own backyard for less than it would cost to buy organic or conventional at the store.
+1.2.2. Pro: Organic farming is more time consuming than regular farming.
+1.2.2.1. Pro: Because organic growers do not use the same amounts of chemicals to maintain their crops, they often have to rely on [manual methods](https://www.thebalance.com/reasons-organic-food-costs-more-2538165) of controlling pests and disease. This is more time-consuming than using chemical methods.
+1.2.2.2. Con: It doesn't matter if it is more time-consuming. The farmers still do it and produce the food on time. They are not working over-time to do it.
+1.2.2.2.1. Con: On the contrary, it does matter. Organic farmers would not be able to produce food in the timescale required if it was used in place of conventional farming. They are currently able to work to their own timescale because organic produce is more of a luxury than a necessity.
+1.2.2.2.1.1. Pro: Truffle farmers, for example, are not likely working overtime due to the luxury nature of truffles.
+1.2.3. Pro: Organic farming lacks the convenience of using mechanized or chemical techniques to fix every problem that is encountered.
+1.3. Pro: Organic farming is economically more sound.
+1.3.1. Pro: Organic farming cheaper \(as a whole\), as it leads to less health problems and thus lower healthcare costs in the long term.
+1.3.2. Pro: Organic agriculture can decentralize the power of agrarian monopolies \(seed emitters\).
+1.3.3. Pro: Organic farming is cheaper because it does not require expensive fungicides, pesticides, and insecticides.
+1.3.3.1. Pro: Organic produce have lower levels of added inorganic chemical content.
+1.3.3.1.1. Pro: Organic food is higher in antioxidants and lower in toxic metals and pesticides.[ncl.ac.uk](http://www.ncl.ac.uk/press/articles/archive/2015/10/organicvsnon-organicfood/)
+1.3.3.1.1.1. Con: This article states Lower levels of certain chemicals in organic foods, but it does not state whether  or not the levels in conventional crops were harmful \(above recommended levels\) For example, a 50% reduction of 0.001 ppm is negligible. What is required is a statement of relative risk reduction to human health.
+1.3.3.1.2. Con: Some organic content is bad for your health and some inorganic content is good for your health. There is no reason to believe added inorganic content is necessarily a bad thing.
+1.3.3.2. Con: Organic farms produce far less per crop.
+1.3.3.2.1. Pro: Overall, the [USDA surveys](https://www.acsh.org/news/2016/08/25/organic-farms-yield-20-fewer-crops-than-conventional-farms) showed organic farms yield 20% less crops than conventional farms. This number jumps to 60% lower for potatoes.
+1.3.3.2.2. Con: About [1.3 billion tons](http://www.fao.org/save-food/resources/keyfindings/en/) of food are wasted and thrown out every year. Yielding less crops is thus more efficient.
+1.3.3.2.2.1. Con: Wastage in the food supply chain and the yield of primary production are completely separate issues. The efficiency of production doesn't change with the efficiency of downstream distribution.
+1.3.3.2.3. Pro: Organic farming may be cheaper but it also produces a lower yield meaning that the cost of the produce becomes inflated due to scarcity. The cost if organic farming is passed onto the consumer.
+1.3.3.3. Con: Commercial farming is far cheaper than organic farming.
+1.3.3.3.1. Pro: Processing, handling and distribution of organic produce tend to be [higher](http://www.fao.org/organicag/oa-faq/oa-faq5/en/) due to limited quantities, greater labour inputs, and inefficient marking.
+1.3.3.4. Con: Organic farming does use pesticides. And they are not necessarily cheaper. On a large scale, conventional farming is cheaper.
+1.4. Pro: The welfare for organic livestock is [higher](https://ec.europa.eu/agriculture/organic/consumer-trust/animal-welfare_da) than for conventional livestock.
+1.5. Pro: Organic farming is healthier for the environment.
+1.5.1. Pro: In the long term, organic farming reaches to be [sustainable](https://you.stonybrook.edu/environment/sustainable-vs-conventional-agriculture/). Conventional agriculture just aims short-term goals, being profit-, instead of eco-driven.
+1.5.1.1. Pro: Long term, [organic farming](https://www.permaculture.co.uk/news/1006156357/30-year-old-trial-finds-organic-farming-outperforms-conventional-agriculture) is more efficient, uses less energy, out perform conventional farming, produces less greenhouse gases and shows to be sustainable.
+1.5.2. Pro: Conventional farming is less profitable because of the amount of inputs that are required, it exhausts the land and pollutes the environment, while exacerbating climate change.
+1.5.2.1. Pro: In New Zealand, intensive dairy farmers are struggling and rivers are poisoned, yet organic milk commands a premium even when there is a down turn and doesn't rely on petrochemical fertilisers or dumping nitrates into our aquifers. 
+ Industrialised farming is a con, benefiting only pesticide and fertiliser companies.
+1.5.3. Pro: Organic farming uses less water to grow \([1](https://www.organicconsumers.org/news/reports-show-less-water-used-organic-farming#close), [2](https://www.scientificamerican.com/article/organic-farming-yields-and-feeding-the-world-under-climate-change/)\) the same amount of food, which helps it [survive droughts](https://www.cnbc.com/2014/12/09/rought-resistant-report.html) better.
+1.5.4. Pro: Organically grown plants are more durable, and have higher resistance to pest and diseases.
+1.5.4.1. Pro: Being resistant to pests allows 'pests' to survive, which increases biodiversity within the ecosystem.
+1.5.4.2. Con: Genetically modified foods are actually more durable.[geneticallymodifiedfoods.co.uk](http://www.geneticallymodifiedfoods.co.uk/making-crops-more-resilient.html)
+1.5.4.3. Pro: Not having diseases means that diseases are less likely to spread to other plants, which is especially pertinent in today's globalized market.
+1.5.4.3.1. Pro: Crop resistance to disease, allows for greater crop yields, which wastes less resources \(like growing a plant that cannot produce fruit, so nothing is sold because the efforts went to waste\), making organic food better for the environment.
+1.5.4.3.2. Pro: Diseases are less likely to spread into wildlife, which can destroy fauna and flora if transferred there.
+1.5.5. Pro: Organic farming preserves the heirloom varieties that some GMOs try to replace, like seedless vegetables, thus avoiding giving attributes only to the distributor.
+1.5.6. Pro: Organic farming supports the survival of pollinators, like bees.
+1.5.6.1. Pro: Organic farming [reduces](https://www.foodmanufacturing.com/news/2015/06/organic-farming-practices-are-bee-friendly-shows-new-report) the quantity of toxic chemicals bees are naturally exposed to in the pollination process.
+1.5.6.1.1. Pro: [Neonicotinoids](https://www.organic-center.org/wp-content/uploads/2015/06/The-Role-of-Organic-in-Supporting-Pollinator-Health.pdf), a neurotoxicant used to treat agricultural pests, are exceptionally deadly to bees. This is eliminated in organic farming. \(pg 7\)
+1.5.7. Pro: Organic farming naturally [conserves the soil](https://www.telegraph.co.uk/news/earth/agriculture/8000399/Organic-farms-soil.html) in the long-term by cushioning against soil degradation, through support of [microbial](http://www.ibiblio.org/london/SoilWiki/message-archives/composttea+soilfoodweb+soilquality/4/msg00085.html) activities that release nutrients and transform soil.
+1.5.7.1. Con: This is not unique to organic farms, as such it is not a viable argument for it.
+1.5.8. Con: If based on persons fed per acre, organic farming is detrimental, due to significant inefficiency
+1.5.9. Pro: Environmentally, yes. The effects are heightened when combined with certain diets \(like [vegan](http://tier-im-fokus.ch/wp-content/uploads/2009/09/baroni07.pdf)\). Growing to these diets would be the next step in reinforcing organic practices.
+1.5.10. Con: Organic farming [uses more land](https://www.sciencedirect.com/science/article/pii/S0959652617309666) to grow the same amount of food. More natural ecosystems convert into farmland this way, which hurts the environment.
+1.5.10.1. Con: Though organic farming may use more land, the land used has lower impact and integrates more with the natural environment.
+1.6. Pro: Organically-grown produce tastes better than conventionally-grown.
+1.6.1. Pro: Organic produce is given more time to naturally ripen, producing a better taste.
+1.6.1.1. Con: Produce farmed using non-organic methods cannot be left to 'naturally' ripen.
+1.6.1.2. Con: No its not. Everything is allowed to ripen as much as it can before going to market to be sold before it goes bad. If something is too ripe when harvested its more likely to be bruised and damaged in transit.
+1.6.2. Con: Taste is entirely subjective and varies per person. Penn and Teller proved this point exactly in one of their shows: [Penn and Teller: Organic Food Test](https://www.youtube.com/watch?v=c_IoNQHMFLk)
+1.7. Con: Organic farming [cannot support the current population.](http://www.nytimes.com/2008/08/19/science/19conv.html?ref=science)
+1.7.1. Con: Perpetual population growth is not an option,  the regardless, this is patently untrue,and current farming techniques are ruining the ability of the land to produce food. In the long run, conventional farming will starve everyone if allowed to continue.
+A UN report states that small scale organic farming is in fact the best solution to world hunger. 
+[www.theguardian.com](https://www.theguardian.com/sustainable-business/2016/aug/14/organic-farming-agriculture-world-hunger)
+1.7.2. Pro: Organic farming's stance against GMOs prevents removal of the inedible parts of foods. [1/2 billion](https://blogs.scientificamerican.com/science-sushi/httpblogsscientificamericancomscience-sushi20110718mythbusting-101-organic-farming-conventional-agriculture/) may starve worldwide with more food waste generation, and [20-50%](https://blogs.scientificamerican.com/science-sushi/httpblogsscientificamericancomscience-sushi20110718mythbusting-101-organic-farming-conventional-agriculture/) lower yields when switching all food to organic growing.
+1.7.3. Pro: Organic farming can cause famine in the third world where mass crop failures arise from disease and drought.
+1.7.4. Pro: Significant population growth in the near future will only make this problem worse. Especially in developing countries that can not afford the expense of organic crops.
+1.8. Pro: Eating produce grown [organically](http://tier-im-fokus.ch/wp-content/uploads/2009/09/baroni07.pdf) is better for the human body.
+1.8.1. Con: Organic farming tends to make people more sick, due to [higher levels of pathogens](https://blogs.scientificamerican.com/science-sushi/httpblogsscientificamericancomscience-sushi20110718mythbusting-101-organic-farming-conventional-agriculture/)
+1.8.2. Pro: Organic food is the last healthy thing we have through all these cancerous industries of food. If we lose this, the human race is going to miss out and not be as healthy.
+1.8.3. Pro: Lower risk of diseases like infertility, cancer, and immunodeficiency are reported in individuals that eat organically-grown produce.
+1.8.3.1. Pro: A [study](https://www.hsph.harvard.edu/news/hsph-in-the-news/pesticides-produce-fertility-women/) completed by Harvard T.H. Chan School of Public Health found pesticides in produce linked with reduced fertility in women.
+1.8.3.1.1. Con: Organic food is expensive, so the study might actually be measuring the effect of wealth on assisted conception as opposed to the effect of pesticides.
+1.8.3.1.2. Con: The study was looking into the effect of 'pesticide residues'. This risk many be negated by washing produce.
+1.8.3.1.3. Con: The sample size of this study is low - 325 women.
+1.8.3.2. Con: The [American Cancer Society](https://www.cancer.org/healthy/eat-healthy-get-active/acs-guidelines-nutrition-physical-activity-cancer-prevention/food-additives.html) reports no difference in studies looking at cancer incidence in individuals eating organic versus non-organic produce.
+1.8.4. Con: A [Stanford University study](http://www.nydailynews.com/life-style/health/organic-food-not-healthier-stanford-researchers-nutrition-organic-meats-produce-dairy-no-better-article-1.1151470) found that eating organic foods were not better than eating conventionally farmed foods.
+1.9. Con: The organic label is inconsistent and legally more complicated, as it is [slightly arbitrary](https://www.cornucopia.org/2015/04/groups-challenge-major-usda-change-to-organic-rule/) and [subject to changes](http://www.nbcnews.com/id/5067422/ns/us_news-environment/t/organic-farmers-rose-against-label-changes/#.WvMgJaSUvIU).
+1.9.1. Con: Just because something can be changed does not mean it is arbitrary.
+1.9.1.1. Pro: The Constitution of the United States can be changed. That does not make the constitution "arbitrary".
+1.9.2. Pro: Some organic farming is [exempt from certification](https://www.ams.usda.gov/grades-standards/organic-labeling-standards), so they can post a USDA seal under certain circumstances without being certified.
+1.9.3. Pro: Organic food uses [more pesticides](https://blogs.scientificamerican.com/science-sushi/httpblogsscientificamericancomscience-sushi20110718mythbusting-101-organic-farming-conventional-agriculture/) at times to grow \(due to their ineffectiveness\) than conventional ones without regulation and research. People can get ill at the higher toxicity levels with no one being able to say it is bad.
+1.9.3.1. Pro: The ineffectiveness of the pesticides lead to more [environmental damage](https://blogs.scientificamerican.com/science-sushi/httpblogsscientificamericancomscience-sushi20110718mythbusting-101-organic-farming-conventional-agriculture/), due to more pesticide use and lack of fighting off the pests \(which cause more pesticide use on other farms, if the pests travel over\).
+1.9.4. Pro: Inconsistency could lead to negative consequences.
+1.9.4.1. Pro: If changes occur, the idea of what the organic label is does not match reality, which could lead to people getting ill and not trusting labels/providers in the future \(which also could lead to health problems from eating foods from worse practices\) out of confusion.
+1.9.4.2. Pro: If these changes are too great, the organic label regulations might allow organic farming to be worse than conventional methods.
+1.9.4.2.1. Con: The entire idea of the "organic" label is that the food production methods are more holistic than conventional methods. It ridiculous to suggest that just because the definition of "organic" can hypothetically be changed \(and in the article this argument is based off of, those changes were swiftly rescinded\) that guidelines will be weakened to the point of being worse than conventional methods.
+1.9.5. Con: Regardless of changes, organic methods limit pesticides \([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1241395/pdf/ehp0111-000377.pdf), [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1367841/)\) from going into the body.

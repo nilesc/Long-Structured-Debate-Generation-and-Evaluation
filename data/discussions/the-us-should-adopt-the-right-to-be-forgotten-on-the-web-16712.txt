@@ -1,0 +1,34 @@
+Discussion Title: The U.S. should adopt the "Right to be Forgotten" on the web.
+
+1. The U.S. should adopt the "Right to be Forgotten" on the web.
+1.1. Con: Those with more power can have dedicated teams to identify unfavorable information, promoting an unfair balance in what information is available. All information treated equally regardless of content is equalizing.
+1.1.1. Con: This can happen right now. Big corporations, or powerful governments, can hire IT specialists, or even hackers, to remove their data completely from the internet, or bury it so that it is very difficult to find \(e.g. not showing up in search engine results\).
+1.2. Pro: This would promote the idea of personal ownership of data, which is much weaker in the United States compared to other countries.
+1.2.1. Pro: People should be allowed to have control over their personal data.
+1.2.1.1. Pro: Ticking a checkbox is not a meaningful display of 'consent' for businesses and websites to be able to store and monitor our data forever. A 'Right to be Forgotten' helps shape discussion about what is reasonable for consumers to agree to, and for businesses to do with their consumers' personal data.
+1.2.1.2. Pro: There can be legitimate safety risks to having personal data online.
+1.2.1.3. Pro: We cannot control what others put up online, e.g. another adult posting a picture of a child/ a friend posting a photo which shows our home address etc. Without a 'Right to be Forgotten' there is often no way to undo such actions, especially if they are not discovered until years later.
+1.3. Con: The legal standard as it stands in the E.U. is too vague.
+1.4. Con: This is a poor solution. More speech is better than limiting it. Search Engines can provide exhaustive contextual links for relevant accompanying information.
+1.4.1. Con: In reality, there is simply too much information available and no way to 'force' people to read contextual information accompanying a 'clickbait headline' or other damning information.
+1.5. Pro: It would empower individuals over companies with expensive information networks and SEO engineers.
+1.6. Pro: The right to be forgotten establishes everyone's right to privacy and human dignity.
+1.6.1. Pro: For many victims of pornography \(e.g. child porn/ revenge porn\) and people whose images were leaked without consent \(e.g. nude celebrity photos\), a 'right to be forgotten' would grant them a right to dignity.
+1.7. Pro: The internet makes it almost impossible to forget—this right gives people a chance to move beyond the past.
+1.7.1. Pro: People often post embarrassing or unprofessional images during their teenage years, or change opinions as they age, but these images can cost job/ social opportunities decades later, without a 'right to be forgotten'.
+1.7.2. Pro: It is possible to have criminal records sealed or [expunged](https://en.wikipedia.org/wiki/Expungement_in_the_United_States), in recognition of individuals' right to move beyond their pasts. However, the internet [interferes with this right](http://www.abajournal.com/news/article/right_to_be_forgotten_can_apply_to_criminal_records_rules/), retaining data that associates an individual with their previous record, because of the lack of a 'right to be forgotten'.
+1.7.3. Pro: Current technology has outpaced current privacy laws. Records can be expunged from the legal system, but are still available on the web.
+1.7.3.1. Pro: To ensure privacy, laws should catch up with technology.
+1.7.4. Pro: People who acted badly in the past can hardly redeem themselves if their identity is publicly associated with their past behavior.
+1.8. Con: The right to be forgotten restricts freedom of expression and information.
+1.8.1. Con: We don't have a 'right to information'. We have a right to information for certain purposes, e.g. right to unbiased information for democratic voting, but those rights would not be infringed by implementing the 'right to be forgotten' online.
+1.9. Con: Deciding what we can and cannot see online is a form of censorship.
+1.9.1. Pro: Public figures could curate their life history online in such a manner that they leave out important events that impact the public.
+1.9.2. Con: The [overwhelming majority](https://www.nytimes.com/2015/08/06/technology/personaltech/right-to-be-forgotten-online-is-poised-to-spread.html) of requests to have information removed from the internet, are people requesting their personal information \(phone number, address etc.\) is taken from a directory/ website. We should be able to exercise control over this kind of personal information.
+1.9.3. Pro: This would lower the standard for requirements of censorship.
+1.9.3.1. Con: The sheer size of the internet means that there are many ways for freedom of speech to be [respected](https://www.nytimes.com/2015/08/06/technology/personaltech/right-to-be-forgotten-online-is-poised-to-spread.html) in a world with a 'Right to be Forgotten'.
+1.10. Con: This right allows individuals to rewrite history.
+1.10.1. Con: It is not about rewriting history, it is about giving people second chances instead of being permanently stigmatized by a past action.
+1.10.2. Con: History is generally a collective endeavor. Removing search results from internet that recount the particular experience of one specific individual can hardly rewrite history.
+1.11. Pro: It allows individuals recourse when information about an individual is represented without equal facts.
+1.12. Con: It can restrict the ability of good-faith investigators for finding credible information.

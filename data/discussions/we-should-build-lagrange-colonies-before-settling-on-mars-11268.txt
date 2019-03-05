@@ -1,0 +1,48 @@
+Discussion Title: We should build Lagrange colonies before settling on mars
+
+1. We should build Lagrange colonies before settling on mars
+1.1. Con: Space carries too many health hazards compared to planetary living.
+1.1.1. Pro: Microgravity has severe impact on human bodies when experienced for long periods of time.
+1.1.2. Pro: Radiation shielding technology is too poor at this time to protect long-term occupants of space-based habitats.
+1.1.3. Con: Mars has storms that create EMP's that kill electronic equipment and sand gunking up equpment
+1.1.4. Con: Mars is exposed to high amounts of radiation as well
+1.1.4.1. Con: Building underground is an effective shielding solution on Mars. This is not possible in space.
+1.1.4.1.1. Con: An underground settlment would be impossible to construct within the first dozens of missions
+1.1.4.2. Pro: A simple thin layer of water in the outer wall of a station prevents radiation to the same degree as standing outside on Earth
+1.1.4.3. Con: Before people go to mars we will be sending AI controlled robots to assemble living quarters for the occupants. They will most likely use 3D printing with the rubble as building material so that their will be natural radiation protection.
+1.1.5. Con: A trip to mars would expose astronauts to radiation for a [minimum of a year](https://www.nasa.gov/feature/goddard/real-martians-how-to-protect-astronauts-from-space-radiation-on-mars), void of any magnetosphere. Earth-Moon colonies would be partially shielded by Earth's magnetosphere and allow astronauts to return to Earth more frequently.
+1.1.5.1. Pro: NASA is undergoing research in superconducting [magnetic shielding](https://www.nasa.gov/directorates/spacetech/niac/2012_phaseII_fellows_westover.html) to slow down or deflect radiation.
+1.2. Con: Planetary-based construction, repairs and modifications are much safer, with less exposure to critical risk.
+1.2.1. Con: Space has no weather to cause as many problems that may require repair
+1.2.1.1. Con: Space has asteroids, instead.
+1.2.1.1.1. Pro: Micrometeoroids and space debris pose a significant threat to a large space station, due to its high surface area and inability to 'dodge' \(like the [ISS](https://www.airspacemag.com/need-to-know/how-does-the-international-space-station-dodge-space-junk-16106207/) does\).
+1.2.1.2. Con: There is space weather, most notably solar flares / storms which carry extreme amounts of radiation.
+1.2.1.2.1. Con: Solar flares / coronal mass ejections cause spikes of radiation on [Mars](https://www.nasa.gov/feature/jpl/large-solar-storm-sparks-global-aurora-and-doubles-radiation-levels-on-the-martian-surface) as well, since it has no strong magnetosphere to shield from these events.
+1.2.2. Con: Travel to and from the planet carries more risk than travelling to and from a space station, negating to some extent the benefits of building terrestrially.
+1.3. Pro: They are WAY closer to earth than Mars
+1.3.1. Con: Distance is deceptive in space. The amount of delta-v to get to Mars is significant but not actually a lot more. \(ground to space is the hard part\)
+1.3.1.1. Con: Distance is still an important factor for space travel. A higher distance means longer travel time, which means a longer exposure to the hazardous conditions of space.
+1.4. Con: Mars colonisation would fuel and push the development of more technologies - space propulsion, material, biotech, as well as open new frontiers for science exploration.
+1.4.1. Pro: There is a need for an economic motivation for building L-stations - sustainable stations, that would be at least partially independent from Earth. Mars on the other hand can be fueled by more cultural/political motivation. It gets people more excited than huge rotating habitats.
+1.4.1.1. Con: Mars has no valuable recources to make mining or other similar industries on mars practical
+1.4.2. Pro: Colonizing Mars would be Easier to market to companies.
+1.5. Con: Mars would inspire people more than L-stations.
+1.5.1. Pro: Someday mars could be terraformed and made livable with less advanced or "terrarium-like" habitats, a space station will always be a space station
+1.5.1.1. Con: O neil space stations can be terraformed from the start of construction and not require hundreads of years of climat changing
+1.6. Pro: Having a waypoint between Earth and it's colony would greatly improve efficiency of maintaining and growing an extraterrestrial colony.
+1.6.1. Con: La Grange stations have little purpose except to function as an intermediary for other planetary bodies. Therefore, we need that Martian colony to make the La Grange stations valuable.
+1.7. Con: why would we choose to trap ourselves inside another gravitational well wehen we can have earth-like Oniel stations with easy in and out access?
+1.8. Pro: A La Grange station could be profitable with the advent of asteroid mining. The La Grange station would focus as a way point as well as a refinery for the precious metals that would be harvested.
+1.9. Pro: Because they stay still relative to earth, we can travel between them all year around instead of waiting for the orbits to line up
+1.10. Pro: The model for Mars exploration should be the Antarctic.  No country should claim territory, and human habitation should be strictly scientific until we have a thorough understanding of the environment, so that we don't damage what's there. An L5 colony, on the other hand, could ensure a significant off-Earth population and allow asteroid exploitation and exploration of other parts of the solar system.
+1.11. Con: Lagrange point stations would have no natural resources, so everything would need to be shipped in.
+1.12. Pro: A Spacecraft conditions \(especially centrifugal\) are far more customizable, we can modify it's gravity and sun exposure, and control it's weather
+1.13. Con: With 1/6th the gravity of earth, the moon would provide resources and shelter from radiation whilst still reducing the energy needed to escape the gravity well.
+1.14. Pro: No natural dangers like sand storms, EMP storms, and long winters
+1.14.1. Con: There are other natural dangers in space, like micrometeoroids and extreme temperatures \(high and low\), that far exceed those of planetary seasons.
+1.15. Pro: Allows for easy in and out travel due to the lack of an atmosphere to enter and gravity well to escape
+1.16. Pro: Humans have built space stations before and building another \(even if it's more advanced\) is more feasable than settlement, not to mention we can keep the international space staion relationships as opposed to the "USA" nature of the mars colonization
+1.16.1. Con: Mars colonisation doesn't necessarily have a "USA" nature. We could have an international colony on Mars.
+1.16.2. Con: We have built far more planetary-based structures before than space stations.
+1.16.2.1. Con: We have built no planetary-based structures that had to fully deal with the conditions faced on Mars.
+1.16.3. Pro: A space station forces cooperation.

@@ -1,0 +1,39 @@
+Discussion Title: What is the most capable workplace Collaboration Software
+
+1. What is the most capable workplace Collaboration Software?
+1.1. [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software)
+1.1.1. Pro: Multi-lingual user interface with 18 languages built-in.
+1.1.2. Pro: Personalized stickers allowing users to customize stickers they share in their conversation by adding their own text.
+1.1.3. Pro: Custom tabs.
+1.1.4. Pro: Seamless integration with Microsoft Planner.
+1.1.5. Pro: OneNote integration.
+1.1.6. Pro: User profiles integrated with Active Directory.
+1.1.7. Pro: Screen sharing.
+1.1.8. Pro: Meeting recording.
+1.1.9. Pro: Power BI Analytics.
+1.1.10. Pro: Meeting calendar.
+1.1.11. Con: No Linux client.
+1.1.12. Pro: Allows recording of group video meetings
+1.1.13. Pro: Pricing starts at $5/mo vs $8/mo for Slack.
+1.1.14. Pro: Native group video calling
+1.1.15. Pro: Document storage
+1.1.16. Pro: Microsoft Office Integration
+1.1.17. Pro: Spellcheck
+1.2. [Monday.com](https://monday.com/)
+1.3. [Beekeeper](https://get.beekeeper.io)
+1.3.1. Pro: Non-desk workforce focus
+1.3.2. Con: Their website claims to help 'non-desk heroes' but their product features [appear to be](https://www.beekeeper.io/en/product-features) focused on the benefits to desk-based staff from expecting non-desk staff to be available via their platform. This may just increase a hero's workload.
+1.4. [Zoho](https://www.zoho.com/)
+1.5. [Jostle](https://www.jostle.me/)
+1.6. [Asana](https://asana.com)
+1.7. [Slack](https://slack.com/)
+1.7.1. Pro: Themes.
+1.7.2. Pro: Large and diverse ecosystem of compatible applications.
+1.7.3. Pro: User Statistics.
+1.7.4. Pro: Code snippet support.
+1.7.5. Pro: Bot customization.
+1.7.6. Con: Lots of 3rd party apps required to unlock potential. This may involve additional licensing costs depending on the app vendor.
+1.7.6.1. Pro: Slack mostly facilitates group conversations, so while it can be useful for having different teams and channels discussing their relevant projects, Slack used on its own would fulfil limited functions within a workplace.
+1.7.7. Con: Slack struggles with the time component.
+1.7.7.1. Pro: The older a message gets the more difficult it is to find them
+1.7.7.2. Con: Important items can be pinned.

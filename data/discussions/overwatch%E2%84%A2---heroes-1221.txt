@@ -1,0 +1,199 @@
+Discussion Title: Overwatch™ - Heroes
+
+1. What are your favourite Overwatch heroes?
+1.1. Bastion 🏰 \[Defense\]
+1.1.1. Con: Bastion is either immobile or has only a mediocre weapon.
+1.1.1.1. Pro: Once in turret mode, Bastion is an easy target for heroes that can cause damage without getting to close, for example Farah, Junkrat and Widowmaker.
+1.1.1.2. Con: Stationary Bastion is an effective way to camp your opponents.
+1.1.1.3. Con: Even in Recon configuration Bastion deals more damage than Soldier 76 with his Heavy Pulse Rifle.
+1.1.2. Pro: You can perform rocket jumps with Bastion's ultimate.
+1.1.3. Pro: -> See 1.1.1.2.
+1.1.4. Pro: Bastion has [hitscan weapons](https://wiki.teamfortress.com/wiki/Hitscan) whose projectiles have no travel time. This makes aiming and hitting easy.
+1.2. Pharah 🔥 \[Offense\]
+1.2.1. Con: In narrow, crooked alleys or small rooms, Pharah can easily kill herself with her own rockets.
+1.2.2. Pro: She can quickly dispense of enemies by pushing them into pits with her concussive blast.
+1.2.3. Pro: She has excellent mobility and can get to virtually any spot on the maps thanks to her jetpack.
+1.2.4. Con: Pharah is an easy target when using her ultimate ability as she announces it loudly and cannot move during its duration.
+1.3. Reaper 🔥 \[Offense\]
+1.3.1. Pro: Reaper can escape many dangerous situations by utilizing his Wraith Form.
+1.3.2. Pro: Through his Shadow Step, Reaper can gain access to locations that are otherwise hard to reach.
+1.3.3. Pro: Launching Reaper's ultimate ability - Death Blossom - in a group of enemies and make for a highly effective, hard-to-avoid surprise.
+1.3.4. Pro: Through his passive ability, Reaper can heal himself and act relatively independent as long as he kills enemies.
+1.3.4.1. Pro: The healing effect from The Reaping can provide valuable heals in the midst of combat against multiple enemies.
+1.3.5. Pro: Shadow Step allows Reaper to counter several abilities of other heroes, for example Tracer's pulse bomb as well as Zenyatta's orbs.
+1.3.6. Con: Strong as Death Blossom may be, it can easily be interrupted, either by killing Reaper or through skills such as McCree's grenade and Roadhog's chain.
+1.3.7. Con: His Shadowstep is very annoying when in the opposite team.
+1.4. Reinhardt 🛡 \[Tank\]
+1.4.1. Pro: Reinhardt can enable other heroes to perform better, for example by protecting offensive heroes or shielding a stationary Bastion from damage.
+1.4.1.1. Pro: Even chaotic teams on public servers can usually be given some organization and focus by uniting them behind Reinhard's shield.
+1.4.1.2. Pro: Torbjorn's turret can also profit from a Reinhardt who shields it from damage.
+1.4.1.3. Con: Reinhardt's Charge is difficult to use as enemies can evade it and as it can make Reinhardt head directly into an abyss.
+1.4.2. Con: Without a supportive team that takes care of enemies it can be frustrating to play as Reinhardt.
+1.4.3. Pro: Fire Strike can hit multiple enemies with makes it a potent follow-up to Reinhardt's ultimate skill, Earthshatter.
+1.4.4. Pro: Damage done to Reinhardt's shield does not help enemies to charge their ultimate ability. A well-positioned Reinhardt can therefore delay the use of enemy ultimate abilities.
+1.4.5. Pro: He can save you from a self-destructing D.Va mech suit by pushing it into a corner or using his shield.
+1.4.6. Con: Reinhardt is virtually unable to attack enemies over large distances, and especially if these are attacking from above.
+1.5. Roadhog 🛡 \[Tank\]
+1.5.1. Con: Roadhog has a slow walking speed which makes him an easy target and prevents him from roaming around much.
+1.5.1.1. Con: Roadhog does not rely on walking speed as he pulls enemies to himself instead of moving towards them.
+1.5.2. Con: The Chain Hook can be challenging to use as it has limited range and sometimes malfunctions.
+1.5.2.1. Pro: The Chain Hook furthermore immobilizes Roadhog, thereby making him an easy target for enemy fire.
+1.5.2.2. Pro: On top of that, the Chain Hook currently suffers from myriad bugs, sometimes not pulling the target in front of Roadhog or getting it stuck in walls.
+1.5.3. Pro: Roadhog's ultimate ability - Whole Hog - not only does quite some damage but also knocks enemies back, and possibly into the abyss.
+1.5.4. Con: In contrast to other tanks, Roadhog has no way of protecting his allies from damage and can merely - and literally - draw enemies to himself.
+1.5.5. Pro: Through a combination of his Chain Hook, the Scrap Gun and melee attacks Roadhog can pull many enemies towards himself and finish them off in an instant.
+1.5.6. Pro: Roadhog's Chain Hook can cancel various other abilities in mid-use, for example Reinhardt's Charge, McCree's Deadeye and Pharah's Barrage.
+1.5.7. Pro: Through his health drink \(which has a relatively short cool-down\) Roadhog can heal himself and does not have to worry about health packs and proximity to support heroes as much as other tanks.
+1.5.7.1. Pro: The drink can even be used mid-combat as it heals Roadhog faster than he takes damage from certain enemies, for example Tracer.
+1.6. Soldier: 76 🔥 \[Offense\]
+1.6.1. Pro: His ability to sprint gives Soldier 76 a high level of mobility that is useful in a variety of situations.
+1.6.2. Pro: Through his ultimate ability - Tactical Visor - Soldier 76 becomes very effective against highly mobile enemies such as Tracer and Genji.
+1.6.2.1. Con: At the same time, the ability does not increase his damage output per se. It can thus be wasted against shields and barriers.
+1.6.3. Pro: Solder 76 has no obvious weakness and can deal with enemies at any distance.
+1.6.4. Pro: Soldier 76 has the ability to heal himself and teammates, which allows him to provide support and to act relatively independent.
+1.6.5. Con: Soldier 76 is by far the most generic and uninspired hero.
+1.6.6. Pro: Soldier 76 can perform rocket jumps with his Helix Rockets, thereby reach otherwise inaccessible spots - and even heal the damaged caused thereby on his own.
+1.6.7. Con: His pulse rifle is rather weak against [armored](http://overwatch.gamepedia.com/Armor) enemies.
+1.7. Symmetra 💚 \[Support\]
+1.7.1. Pro: The secondary fire of Symmetra's Photon Projector moves and deals damage through shields.
+1.7.2. Pro: The Photon Shield can allow weak allies - for example Tracer or Zenyatta - to gain a significant health boost.
+1.7.3. Con: Symmetra is relatively useless on the offense as her turrets and the teleporter are difficult to use then in an effective fashion.
+1.7.4. Pro: Symmetra's sentry guns can shut down flanking routes as they effectively keep out weak enemies like Tracer.
+1.7.5. Con: While Symmetra can set up six turrets, she can have a maximum of three charges for doing so. It thus takes time for her to gain maximum defense capacity.
+1.7.5.1. Con: Since her rework, this fact is no longer valid as she now has 6 turret charges
+1.7.6. Con: Although Symmetra's Photon Shield is a welcome boost to teammate's health, it is a boring ability gameplay-wise.
+1.7.7. Con: As Symmetra has no ability to heal her teammates, she provides little obvious benefits as a supporter.
+1.7.7.1. Con: Support does not equal being able to heal
+1.7.8. Pro: Symmetra's photon barrier can block enemy ults such as D. Va's, Reinhardt's, Tracer's, and Doomfist's if you time it correctly.
+1.7.9. Pro: Zarya's graviton surge won't hit through Symmetra's photon barrier. The surge projectile will stop where it hit the barrier
+1.7.10. Pro: Her Teleporter is helpful when pushing an objective.
+1.7.10.1. Con: Enemies are aware of this, hence they usually make the teleporter a priority target once they discover it.
+1.7.10.1.1. Pro: When being killed by a Symmetra, the kill cam also shows an icon where her teleporter is located.
+1.7.11. Con: ["Symmetra feels a bit boring to play currently."](http://www.overpwn.com/heroes/9-symmetra?comment=6)
+1.7.12. Con: It's impossible to support certain heroes that are able to jump/fly/teleport out of range.
+1.7.13. Con: Symetra's sentry turrets have only a single hitpoint and easily get destroyed even when they are not targeted, for example by splash damage or Winston's Tesla Cannon.
+1.8. Torbjörn 🏰 \[Defense\]
+1.8.1. Con: As Torbjörn cannot move his turret, it usually becomes an easy and prioritized target for enemies once discovered.
+1.8.2. Con: The turret is vulnerable to a lot of abilities by other heroes, for example McCree's grenade and Mei's freeze.
+1.8.3. Pro: Torbjorn's armor packs are of great value for the team. For weak heroes like Tracer this increases their health by 50%.
+1.8.4. Con: As Torbjorn is relatively weak in actual fights, his play style is rather passive as he usually waits for the enemy to run in front of his turret.
+1.8.4.1. Pro: There are actual [play of the game sequences of Torbjörn](https://www.youtube.com/watch?v=DiMJ-s4T16M), where he is dead the entire time while his turret goes on a killing spree.
+1.8.5. Con: As the turret takes time to build and upgrade, it is difficult to play Torbjorn in an effective fashion for offensive purposes.
+1.8.6. Pro: Torbjörn's turrets are highly effective against mobile heroes such as Tracer and Genji due to their long range, quick tracking and flawless aiming.
+1.9. Tracer 🔥 \[Offense\]
+1.9.1. Con: On maps without open spaces, Tracer has a hard time as her abilities require some room to move and evade enemies.
+1.9.2. Pro: She is the most iconic hero of the roster.
+1.9.2.1. Pro: She was even migrated to Heroes of the Storm.
+1.9.3. Con: Tracer is no longer allowed to be sexy. \([polygon.com](http://www.polygon.com/2016/3/28/11321138/overwatch-tracer-pose-removal), [gamespot.com](http://www.gamespot.com/articles/replacement-for-overwatch-butt-pose-revealed/1100-6438166/)\)
+1.9.3.1. Con: The change of Tracer's pose was not made due to issues of sexiness, but because it was seen as uncharacteristic for the personality she is supposed to reflect.
+1.9.4. Pro: Time travel gives a unique playing experience.
+1.9.5. Con: Blink can be disorienting for the player and their team.
+1.9.6. Con: Her handguns are rather weak against [armored](http://overwatch.gamepedia.com/Armor) enemies.
+1.9.7. Pro: Blink can be very disorienting for the opponents.
+1.10. Widowmaker 🏰 \[Defense\]
+1.10.1. Pro: Even when drawn into close-quarters combat, Widowmaker can defend herself well with her [assault rifle](http://overwatch.gamepedia.com/Widowmaker#Ability_Breakdown). The damage output is not far below that of Soldier 76's [pulse rifle](http://overwatch.gamepedia.com/Soldier:_76#Ability_Breakdown).
+1.10.2. Pro: Her Grappling Hook makes Widowmaker very mobile and allows her to access many spots that other heroes have a harder time reaching. Additionally, it allows for effective escapes once enemies come too close.
+1.10.3. Con: Staying in scoped mode for long periods of time can make Widowmaker lose sight of her immediate surroundings.
+1.10.4. Pro: Widowmaker's ultimately ability - Infra-Sight - is arguable one of the strongest in the whole game. It provides her team, for all practical purposes, with a temporary wall hack and is difficult to detect and impossible to stop for enemies.
+1.10.5. Con: When played badly, Widowmaker might reap in kills but is of little use for her team as she usually engages little with the actual objectives on the map.
+1.10.6. Pro: Widowmaker uses [hitscan weapons](https://wiki.teamfortress.com/wiki/Hitscan) which makes hitting a target over long distance easier than with other snipers, and especially with Hanzo.
+1.11. Winston 🛡 \[Tank\]
+1.11.1. Pro: As the Tesla Cannon automatically attacks several targets at once, it is highly effective against Symmetra's weak turrets.
+1.11.2. Con: Winston's Primal Rage can be challenging to use as it allows only for melee attacks.
+1.11.2.1. Con: The primary use of Primal Rage is to cause chaos and distract enemies by throwing them around, not necessarily to actually cause damage.
+1.11.3. Con: Winston gives enemies a large target, making body shots quite easy to hit.
+1.11.4. Pro: The combination of two Winstons is very strong as it mitigates numerous weaknesses that a single Winston has: relatively low damage and a shield barrier that is of limited use.
+1.11.5. Pro: Skill in Overwatch is mostly based on three things: aim, positioning, and using ultimates and other powerful abilities wisely and with your team. There are other characters with powerful and synergistic ults that must be played tactically, and there are characters that rely heavily on the player's aim. Winston is the prime example of how where you are in comparison to your team and the enemy team is the most important \(alongside Reinhardt\). Jumping on targets that stray too far and staying close
+1.11.6. Con: Although he can jump towards enemies, Winston is incapable of dealing damage over large distances.
+1.11.7. Pro: Probably no other hero is able to cause this much chaos within a group of enemies, especially due to Winston's ability to jump, to attack multiple enemies at once with his Tesla Cannon, and the ultimate ability that gives him a massive health pool.
+1.11.7.1. Pro: A combination of two Winstons on one team has become a fairly popular mechanic to keep numerous enemies busy.
+1.11.8. Pro: As the tesla cannon does not have to be targeted, it is also effective against evasive enemies such as Tracer.
+1.11.8.1. Con: The range of Winston's Tesla Cannon is so short that many evasive enemies can easily escape its reach.
+1.12. Anna 👵 \[Support\]
+1.13. Sombra 💻 \[Offense\]
+1.14. D.Va 🛡 \[Tank\]
+1.14.1. Pro: D.Va has essentially two lives and gets another chance once her mech is destroyed.
+1.14.1.1. Pro: D.Va's suit has 500 hitpoints - just like Winston and Reinhardt - and she has another 150, which makes her the character with the most hitpoints in the game.
+1.14.2. Con: When in her mech, D.Va is easy to hit due to the size of the machine - and especially its large head.
+1.14.3. Pro: You can only hit headshots from the front of D.Va.
+1.14.4. Pro: Although D.Va is classified as a tank, one of her biggest strengths is the hit-and-run harassment of enemies with her high mobility and high damage over close-range.
+1.14.5. Con: Although D.Va is classified as a tank, she can take less damage than other heroes \(e.g. Reinhardt\) and has few options to protect her team mates.
+1.14.6. Pro: Once out of her suit, D.Va can still deal tremendous damage with good aim. At times this even makes it beneficial to not instantly call in a new mech suit.
+1.14.7. Pro: You can boost D.Va's mech suit into enemy groups after activating self-destruct and exit it right after laughing at the detonation from afar.
+1.14.7.1. Con: Even the thinnest walls and smallest obstacles shield enemies from the blast of her mech suit's self destruction. Additionally, a warning of the impending explosion is shown prominently to everybody.This makes it easy to avoid the blast.
+1.15. Zarya 🛡 \[Tank\]
+1.15.1. Pro: Her ultimate ability - Graviton Surge - works great in concert with the abilities of other heroes, for example Pharah's barrage of rockets.
+1.15.1.1. Pro: In many situations, Graviton Surge is useful to coordinate team mate's attention and damage onto a single spot.
+1.15.2. Con: In contrast to other tanks, Zarya is neither very effective at protecting allies \(like Reinhardt\) nor at disrupting enemy defenses \(like Winston\).
+1.15.3. Con: Zarya suffers from a lack of mobility that makes it difficult to chase enemies or escape hairy situations.
+1.16. Doomfist 🔥  \[Offense\]
+1.17. Orisa 🛡 \[Tank\]
+1.18. Moira 💚 \[Support\]
+1.19. Zenyatta 💚  \[Support\]
+1.19.1. Pro: While Zenyatta's Orbs of Destruction are difficult to aim with, they do significant damage and can easily kill weak enemies.
+1.19.2. Pro: Zenyatta's ultimate ability - Transcendence - provides sufficient healing to keep allies alive in most combat situations.
+1.19.3. Pro: Two thirds of Zenyatta's health pool is provided by his shield. This allows him to quickly regenerate his health.
+1.19.4. Con: The fact that his orbs are returned once their target \(friendly or hostile\) looses line of sight with Zenyatta for three seconds can make it frustrating to play with him.
+1.19.5. Con: Zenyatta dies quickly, and especially so against snipers and quick heroes, due to his low health pool and low mobility. If teammates do not protect him, this can be frustrating.
+1.19.5.1. Pro: Widowmaker can kill Zenyatta with a single body shot even if he has full health and shield.
+1.19.5.2. Pro: Once a flanker makes her way behind one's front line, Zenyatta is in trouble as he has very low mobility.
+1.19.6. Pro: While Zenyatta has to keep other heroes in sight in order to heal them, he still can do so from further away than Mercy and Lucio.
+1.20. Genji 🔥  \[Offense\]
+1.20.1. Pro: In the hands of a skilled player Genji becomes extremely powerful due to to high mobility, high damage output and skills that allow him to survive even under fire.
+1.20.1.1. Pro: The cooldown of Swift Strike resets whenever Genji kills an enemy. Skilled players can thus link up chains of strikes and kills that make it hard for enemies to stop them.
+1.20.1.2. Pro: His Deflect ability has a very high skill ceiling as it relies to a high degree on situational awareness. When used at its best, it can turn around many fights.
+1.20.2. Pro: Genji can prevail against groups of enemies and even high-damage heroes such as Bastion with his deflect ability.
+1.20.2.1. Con: The deflect ability is usually not sufficient to kill one of Genji's biggest enemies: Torbjorn's turret.
+1.20.3. Pro: As he can climb walls and double-jump, Genji is highly mobile and can reach spots as well as utilize paths that are not accessible for other heroes.
+1.20.3.1. Con: Such spots can include the abyss outside of a level.
+1.20.3.2. Pro: Probably no other hero has such an easy time to sneak behind enemy lines.
+1.20.4. Con: Genji has relatively low health and none of the evasion skills of other weak heroes, for example Tracer. This makes him vulnerable, and especially so over small distances.
+1.20.4.1. Pro: Torbjorn's turret usually gets rid of Genji quickly - and especially so if he can't even get to the turret.
+1.21. Hanzo 🏰 \[Defense\]
+1.21.1. Pro: Hanzo's arrows are relatively easy to aim as enemies' hit boxes are [enlarged](http://kotaku.com/a-closer-look-at-overwatchs-generous-headshot-hitboxes-1780953233) for their purposes.
+1.21.2. Pro: In contrast to Widowmaker, he is effective at most distances and can actively support the team in the offense.
+1.21.3. Pro: Hanzo's ultimate ability - Dragonstrike - can turn the tide of battle due to its effectiveness against static defenses, for example turrets and Bastion in sentry configuration.
+1.21.4. Con: It is easy for enemies to evade Hanzo's ultimate ability - Dragonstrike - as the noise and visuals are impossible to miss.
+1.22. Junkrat 🏰 \[Defense\]
+1.22.1. Con: Junkrat has a hard time dealing with heroes that are fast, attack over short distances and can evade his grenades, for example Tracer.
+1.22.2. Con: Junkrat's ultimate ability - the Rip-Tire - makes so much noise and is so easily destroyed than skilled enemies with some awareness can easily avoid or counter it.
+1.22.3. Pro: Junkrat can use his Concussion Mine to jump enormous distances - without even damaging himself in the course of doing so.
+1.22.3.1. Pro: The mine even allows for double jumps by detonating another one in mid-flight.
+1.22.4. Pro: Junkrat's ultimate ability - the Rip-Tire - can climb walls and jump over obstacles which makes it utterly unpredictable and allows it to attack enemies in otherwise inaccessible spots.
+1.22.5. Pro: Junkrat's steel trap is an effective motion sensor as it lets the player know once someone steps into it. This allows Junkrat to keep an eye on enemies that try to flank.
+1.22.6. Pro: As Junkrat can spam grenades he can effectively block off narrow pathways and choke points.
+1.22.7. Pro: Junkrats drops several grenades upon death that can kill enemies standing nearby.
+1.22.8. Con: Junkrat has a hard time dealing with heroes that attack over large distances, for example Widowmaker, or are highly mobile, for example Pharah.
+1.22.9. Con: The grenades from Junkrat's frag launcher can damage him as well and are thus of questionable use in low-distance battles.
+1.23. Lucio 💚 \[Support\]
+1.23.1. Con: Lucio's auras only profit teammates who have him in their line of sight. This makes correct positioning challenging.
+1.23.2. Pro: His area-of-effect heal is easy to use and effective.
+1.23.3. Pro: His movement speed buff is a very good bonus for attacking teams.
+1.23.4. Pro: He can push entire groups of enemies into pits with his secondary fire.
+1.23.5. Con: Although a support class, Lucio is mostly unable to keep allies alive once they come under concentrated fire.
+1.23.6. Pro: Lucio can use pathways and reach spots that other heroes cannot access with his ability to skate along walls.
+1.23.6.1. Pro: Lucio can [wall-ride the inside of the well](http://us.battle.net/forums/en/overwatch/topic/20744865105) on the map Ilios.
+1.24. McCree 🔥  \[Offense\]
+1.24.1. Pro: If McCree's ultimate ability - Deadeye - does not lead to him shooting anyone, he retains 50% of his ultimate charge.
+1.24.2. Con: When using his ultimate ability - Deadeye - he is highly vulnerable and mostly immobile.
+1.24.2.1. Pro: The damage of Deadeye increases the longer the player waits with pulling the trigger, posing the dilemma of either giving the enemies time to hide or risking not damaging them enough.
+1.24.3. Con: McCree suffers from a lack of mobility that makes it difficult to keep up with certain other heroes and to escape hairy situations.
+1.24.4. Pro: With a combination of his flash bang and the alternative fire mode of his gun McCree can kill most other heroes in an instant.
+1.24.5. Pro: McCree functions best in concert with a tank. This requires team play, which isn't the case for most other offensive heroes.
+1.25. Mei 🏰 \[Defense\]
+1.25.1. Pro: Mei's ice walls can be used to access otherwise difficult to reach spots by launching them beneath heroes' feet.
+1.25.2. Pro: Mei's alternate fire is very effective for sniping when you know how to lead your target.
+1.25.3. Pro: Mei's ice walls make it possible to separate enemies from their healers.
+1.25.4. Pro: On maps with narrow alleys, ice walls can force the enemy to take detours or redirect them into ambushes.
+1.25.5. Pro: Mei has a comparably large health pool with 250 points.
+1.25.6. Con: Badly placed ice walls can inadvertently shield enemies from ultimates, e.g. rocket barrage by Pharah, or wall in allies.
+1.25.6.1. Con: Mei can destroy her ice wall prematurely by pressing E again.
+1.25.7. Con: Her endothermic blaster is rather short ranged.
+1.26. Mercy 💚  \[Support\]
+1.26.1. Pro: Through her Guardian Angle ability Mercy is surprisingly mobile and can follow other heroes who have skills that allow them to reach otherwise inaccessible spots.
+1.26.1.1. Pro: By following a friendly Pharah and gliding via Angelic Descent, Mercy becomes highly mobile and can stay far above the battlefield.
+1.26.2. Pro: Mercy's ultimate ability - Resurrect - can oftentimes change the tide of battle.
+1.26.2.1. Con: When channeling Resurrect, Mercy becomes immobile and an easy target for enemies.
+1.26.3. Pro: Mercy regenerates her health as long as she is not being attacked.
+1.26.4. Con: On her own, Mercy is virtually defenseless. This can make for a frustrating experience if teammates don't protect her.
+1.26.4.1. Pro: Many enemies focus their fire on Mercy once they see her.

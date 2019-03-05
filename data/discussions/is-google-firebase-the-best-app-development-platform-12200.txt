@@ -1,0 +1,18 @@
+Discussion Title: Is Google Firebase the best app development platform?
+
+1. Firebase is the best application development platform.
+1.1. Pro: Firebase has good security.
+1.1.1. Pro: If the website itself gets breached, they wont be able to access the sensitive information.
+1.1.2. Con: All your server logic is now running right in your web or mobile client, which makes it easier to hack.
+1.2. Con: It is hard to access data given it is hosted on the Firebase server.
+1.3. Con: Even if the devs can't access the database, Google can still do it.
+1.3.1. Pro: This helps to cement Google's monopoly and control in the industry and over our every-day lives.
+1.3.1.1. Pro: google just aims at accumulating more and more power
+1.4. Pro: Firebase supports offline operations.
+1.5. Con: Google can still theoretically get breached.
+1.5.1. Con: It is far less likely that Google, with access to the funds and talent needed to build a foolproof security system, will get breached than a firm with fewer resources at its disposal.
+1.6. Pro: Firebase is good to use for beginners.
+1.6.1. Pro: Google Firebase have a basic plan that is completely free.
+1.7. Pro: Google Firebase is a very good option if you're a lazy dev.
+1.7.1. Pro: Firebase doesn't require as much effort compared to creating your own database.
+1.8. Pro: Firebase is designed with scalability in mind.

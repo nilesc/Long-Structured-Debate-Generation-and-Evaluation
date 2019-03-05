@@ -1,0 +1,73 @@
+Discussion Title: Should Esperanto be adopted internationally?
+
+1. Esperanto should be adopted internationally.
+1.1. Con: There are not many people speaking Esperanto. It is estimated that the number is between [100.000 and 8 million](https://www.kialo.com/esperanto-should-be-adopted-internationally-7600/7600.0=7600.1-7600.11/-7600.11/comments).
+1.1.1. Con: However, Esperanto could be taught internationally, as a new official language, and the amount of speakers would dramatically increase if appropriate societal enthusiasm is shown. All artificial languages will start small.
+1.1.1.1. Con: Teaching Esperanto in most developing countries is going to be difficult given the inadequacies of [public education systems](https://acei-global.blog/2014/03/06/15-facts-on-education-in-developing-countries/) in these countries.
+1.1.1.1.1. Con: It would be \(and it is\) even worse to teach everyone English or another language. "Worse" meaning, more energy, money, and time consuming.
+1.1.1.1.1.1. Pro: Esperanto is a very easy language to learn because of its engineered rules, and because it did not evolve philologically.
+1.1.1.1.1.1.1. Con: However there are other artificial languages with engineered rules that also did not evolve philologically and have advantages over Esperanto. For example, Esperanto is very euro-centric so it has limited ease of learning for speakers of languages in Asia or Africa, which is a huge percentage of the world population. Lojban combines the world's top six languages so it holds appeal for Chinese, Hindi, and Arabic speakers.
+1.1.1.1.1.1.1.1. Con: Having already a larger speaker base than any other artificial language, the logical answer to the search for an international language is Esperanto. And not only that, but more speakers and time equals bigger and stronger institutions behind it, with more international support from non-esperantists social entities, like governments and organizations worldwide, and a well established framework; containing already a large culture of its own.
+1.1.1.1.1.1.2. Con: Esperanto only remains easy to learn because it is not spoken. If Esperanto were widely adapted, it would be subject to the same rules of [language change](https://en.wikipedia.org/wiki/Language_change) that have made other languages diverge over time.
+1.1.1.1.1.1.2.1. Con: On the contrary, there is a council in charge of the rules and evolution of Esperanto, keeping it from altering. After Zamenhof \(who left Esperanto open to neologism but not to grammar-shift\), the framers of Esperanto have even gone so far as to create slang and swear words for speakers, providing some colloquialisms in advance.
+1.1.1.1.1.1.2.1.1. Con: While councils may be able to rule about what counts as "official" language \(perhaps affecting edited writing\), the history of language shows that spoken languages  do not obey councils or other attempts to govern language change.
+1.1.1.1.1.1.2.2. Con: Esperanto is subject to language change, and natural languages have diverged and split before, however there is no way to know if and how the divergence applies to auxiliary languages.
+1.1.1.1.1.1.3. Pro: By only learning 3,000 root words, and a few prefixes and suffixes you have the possibility of creating 20,000 logical words. Which is the double of what an average English speaker uses on a daily basis. Even by learning half of those root words, the learner will be able to speak it way above a conversational level.  So even if the learner is not familiar with most of the vocabulary, no real challenge is placed.
+1.1.1.1.1.1.4. Pro: The real value of Esperanto is not on its vocabulary, but on its logic and precise grammar and simple pronunciation. So the origin of its vocabulary doesn't really matter much.
+1.1.1.1.1.1.4.1. Pro: Indeed, having a handful of words from your own language does not make it easier for you. There are ~7000 languages in the world \(source: [Ethnologue](https://www.ethnologue.com/guides/how-many-languages)\), and a book like Don Quixote [has 23000 different words](http://www.elmundo.es/cultura/2015/06/11/557881c0e2704eae1d8b458a.html). This makes 3-4 words per language. Picking up the most widely spoken languages as a basis, and build complicated words combining simple roots seems better. Esperanto does that.
+1.1.1.1.1.1.4.2. Con: The logical structure is temporary. Like all naturally evolving languages, Esperanto grows colloquially and illogically.
+1.1.2. Con: It would take 10 times more to teach English on a basic level \(or even more with other languages\) to the same amount of people.
+1.2. Pro: Having no national-political background provides Esperanto the neutrality expected \(and needed\) on an international language.
+1.2.1. Con: Esperanto is not a viable international language because it draws primarily from [European languages.](http://www.omniglot.com/writing/esperanto.htm)
+1.2.1.1. Pro: This is correct. [Lojban](http://www.lojban.org/publications/level0/brochure/lojbanmo.html#AEN475) is a better international language as it incorporates the top six most spoken languages in the world, including Chinese, Hindi, and Arabic, all of which Esperanto lacks roots in.
+1.2.1.1.1. Con: Lojban also works from a Latin script, however, whereas Chinese, Hindi, and Arabic do not.
+1.2.1.1.2. Con: Esperanto has, by far, a greater number of speakers worldwide.
+1.2.1.1.3. Con: Lojban is better at incorporating the vocabulary of the top six languages of the world \(of the current time period\) into its vocabulary, but Esperanto is better at being easy to learn, regardless of its source vocabulary.
+1.2.1.2. Con: Since globalization has already prompted European languages to become widespread, Esperanto could like supplant these languages, like English, and serve as a more impartial language.
+1.2.1.2.1. Con: European languages have become widespread, but some of the most common spoken languages are Chinese, Hindi, and Arabic. It makes sense to incorporate them into an international language rather than hope that an Arabic speaker is familiar enough with a second European language to learn a third artificial language. It would take time for the world to learn and accept, and a less euro-centric language would be more conducive to that.
+1.2.1.3. Con: -> See 1.1.1.1.1.1.3.
+1.2.1.4. Con: -> See 1.1.1.1.1.1.4.
+1.2.1.5. Pro: Perhaps a language created purely without roots would serve better as an impartial, universal language. Though more study would need to be done on how to make such a language appeal to all the world's peoples. There would need to be balance between simplicity and complexity \(to make it clearly communicative\) to make a language viable.
+1.2.1.5.1. Pro: A reference one could draw is the fictional [Interlac.](https://en.wikipedia.org/wiki/Interlac)
+1.2.1.5.2. Con: This is a good idea. However it would be easier to just pick a language the majority of the world has some familiarity with.
+1.2.1.5.2.1. Con: However, this would imply partiality to one nation over another. The intentions are that the nations will come to a peaceful coexistence in lieu of the propagation of one language over another, as had become the result of imperialism.
+1.2.1.5.3. Pro: The work of [Xu Bing](https://mitpress.mit.edu/books/book-ground), in making ideograms, is likely a far more impartial path to take in creating a universal language.
+1.2.1.5.3.1. Con: Ideograms are not a language, but a writing system.
+1.2.1.5.4. Con: Many frequent words in Esperanto have no relationship with other languages, making it more neutral \("kialo" = "reason" is one of them\). However, a complete language with no links to other languages is impractical, as there are no links between words. Zamenhof already tried using logically constructed words \(aba, aca, ada... etc\) in early projects and found out words were almost impossible to memorize. \(Korzhenkov's book, [p.13](https://books.google.co.uk/books?id=C2WMcIE1svMC&pg=PA13&lpg=PA13&dq=Zamenhof+language+aba+aca+ada&source=bl&ots=UZIXNJy5Aq&sig=YAdW51q077i7dj6rZgf_EZvnA_0&hl=it&sa=X&ved=2ahUKEwjq0Nfk4v_aAhVILsAKHXbJDmcQ6AEwC3oECAUQAQ#v=onepage&q=Zamenhof%20language%20aba%20aca%20ada&f=false)\)
+1.2.1.6. Con: Speakers of non-European languages have been able to learn Esperanto without much added difficulty.
+1.2.1.7. Con: [Esperanto](http://www.espero.com.cn/) has already been embraced by native non-European language speakers in nations such as the People’s Republic of China.
+1.2.1.8. Con: The diversity of vocabulary sources has no documented positive effect on the viability of an international language. Making it "fair" i.e. equally difficult to learn for everyone, would only make it harder to learn overall.
+1.2.2. Con: An international language need not necessarily be neutral.
+1.3. Con: -> See 1.2.1.
+1.4. Pro: -> See 1.1.1.1.1.1.
+1.5. Pro: Historically, the idea of Esperanto being used internationally has been considered by the League of Nations for recognition. This makes Esperanto the most progressed of any languages created in its time, including Ido and Volapük.
+1.6. Pro: The founding ideas of Esperanto are to reach a more equal international exchange.
+1.6.1. Pro: Its purpose of unity is born of the sincerest intentions of establishing dialogue between warring nations.
+1.6.1.1. Pro: Esperanto was created in a time of contention at the end of the 19th century that ultimately culminated in the form of the First World War..
+1.6.1.2. Pro: It was at the time of dire importance to those believed in it, suffering persecution by the Nazis.
+1.6.1.3. Con: Its purpose of unity in a world facing total war is no longer relevant.
+1.6.1.3.1. Con: Esperanto is intended to prevent war. Ergo, it is an intended resolution of the problem. To say that peace is irrelevant because of war is counter-intuitive. It may be that peace would be difficult to obtain through those means given current factors, but its goal of communication is still central to conflict prevention.
+1.6.1.3.2. Con: The world has [been at war](https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts) for centuries with little to no breaks in between.
+1.7. Pro: Esperanto is the most [widespread auxiliary language](https://www.ethnologue.com/language/epo) \(beating out Ido and Volapuk\), and is therefore more convenient to grow into a larger language.
+1.8. Con: -> See 1.1.1.1.
+1.9. Con: Technology allows us to translate any language \(like Google Translate\) that we do not need to learn more languages.
+1.9.1. Con: Translators lack the human element to configure and conjugate language, leading to many confusions in the mix.
+1.9.2. Con: Translators are not available for the vast majority of the population and most likely, never will. Esperanto is a much more inclusive and affordable option.
+1.9.3. Con: While technology may be quite useful when translating documents, it can be quite inconvenient to use during personal interactions.
+1.9.4. Con: This means that one does not need to learn how to walk since cars already exist.
+1.10. Con: Foreign language requirements already dilute people's focus on more relevant skills and lengthen times people stay in school. Adding another language will not help this situation.
+1.10.1. Con: Language is a relevant skill as we see globalization rapidly take place. If "relevant skills" are to be understood as those necessary to the work force, communicating internationally would help to expedite business.
+1.10.2. Con: Learning a new language produces broadened [perception](https://thelibertarianrepublic.com) and focuses and helps to increase intellectual variety.
+1.10.2.1. Pro: Sapir-Whorf Hypothesis reinforces this. The more complex a thought, the more deep a language basis is to understanding and conceiving it.
+1.10.3. Con: Learning Esperanto [helps](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) learn other languages faster.
+1.11. Pro: The world needs an international language. In this age, with so much contention, we need more things to break down our barriers, including language.
+1.11.1. Pro: An international language would drastically increase communication and likely increase awareness of current events in other countries. That way more people could tap into modern history, support protest movements, and send relief to international disasters.
+1.11.2. Con: -> See 1.2.1.
+1.11.3. Con: There are already international languages that serve as [lingua franca](https://en.wikipedia.org/wiki/Lingua_franca).
+1.11.3.1. Con: No other "International languages" fulfill the characteristics needed for a proper "IL". They're already an indissoluble part of a national culture; therefore, have no neutrality; They're difficult to learn because of a complex grammar, a great number of irregularities and complicated non-neutral pronunciation , which puts you on disadvantage with regard to native speakers, to name a few.
+1.11.3.2. Con: The growth in the usage of English is likely only temporary. The United States is becomingly increasingly rivaled by China, and many international schools are now teaching English and/or Chinese as a foreign language. It is possible that English will be replaced by Chinese. A permanent, official language, would resist changing international influence.
+1.11.3.2.1. Pro: History has proven this point to be true. A great amount of lingua fracas have been used throughout history in several parts of the globe; However, due to the impossibility of separating the political aspect to any natural language, their use has always been \(and always be\) related to the political influence of their main social group of origin.
+1.11.4. Con: Translators remove the need for an international language.
+1.11.4.1. Con: -> See 1.9.1.
+1.11.4.2. Con: -> See 1.9.2.
+1.12. Con: -> See 1.11.3.

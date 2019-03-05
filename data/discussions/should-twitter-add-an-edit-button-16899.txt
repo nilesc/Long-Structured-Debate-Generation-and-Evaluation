@@ -1,0 +1,40 @@
+Discussion Title: Should Twitter add an edit button?
+
+1. Twitter should add an edit button
+1.1. Pro: You could clarify your point\(s\) if you come up with a better articulation after you've published your tweet.
+1.1.1. Con: This would make commenting quite complicated, as you would suddenly have comments on the first version and later version tweet intermingled. Or you would need to separate them and have the replies on different versions, which you could toggle, of a tweet.
+1.2. Pro: You would be able to edit typos.
+1.3. Con: This functionality could dupe people into retweeting stuff they agree with, which is then changed to something offensive afterwards. Thus making them look as if they retweeted something offensive.
+1.3.1. Con: Easy to fix, by actually retweeting a particular version and not automatically update the retweeted tweet to a newer version, but state the newer versions are available.
+1.3.1.1. Con: -> See 1.1.1.
+1.3.2. Con: Trolls who do that could immediately be banned from the network.
+1.3.3. Con: This option could be given to only trusted users that have at least 1000 followers and have been signed up for quite some time.
+1.3.4. Pro: This would make interfering with elections easier, as messages of influential personalities could be changed.
+1.4. Con: A person would be able to later edit a tweet to something completely different to the original.
+1.4.1. Pro: All the replies and retweets would no longer make sense if the content of the tweet has been edited.
+1.4.2. Con: A complete history of edits could be available to anyone who clicks on a tweet.
+1.4.2.1. Con: Many people will only see the final edition of the tweet.
+1.4.3. Pro: People could manipulate others by editing their tweets. For instance if I wrote a tweet supporting "A", then someone wrote that he agrees, and later I edit the tweet to support "B".
+1.4.4. Con: Anyone who interacted with a tweet could be notified that it was edited, and edit any replies/ remove likes.
+1.4.5. Con: This could be beneficial, since sometimes old tweets are used against people to accuse them of incoherence.
+1.4.5.1. Pro: This is very typical with politicians.
+1.5. Pro: People should be allowed to edit their tweets but maybe there should be an "original tweet before edit" button to show if they said something horrible and are just trying to cover their mistake up from media. This should be just for grammar, not complete changes.
+1.6. Pro: Major harmful factual inaccuracies can be more easily corrected with an edit button.
+1.6.1. Pro: Even when individuals who have tweeted fake try to correct their mistake, their original tweet can still be spread without any visible correction other than a reply to said tweet which could be missed. An edit button allows them to add an easy to see note on the original that can spread with the retweets, correcting the error.
+1.6.1.1. Pro: During a mass shooting the Dallas Police Department [tweeted a picture of a “suspect”](http://www.slate.com/blogs/future_tense/2016/07/12/twitter_needs_an_edit_button_here_s_why_it_doesn_t_have_one.html?via=gdpr-consent) asking the public to help find him. It soon became clear he was innocent, but the tweet remained, and people continued to circulate his picture by the thousands. Even when the Dallas police finally deleted the tweet, the accused man had to remain in hiding. Editing the tweet would have fixed this problem allowing for the information to be corrected as opposed to just vanishing.
+1.7. Con: Checking if a tweet was actually posted, or photo shopped, would be impossible.
+1.8. Con: Conversations can be manipulated at a later date rendering a thread to be potentially harmful.
+1.9. Con: People would pay less attention to detail when they tweet because they know they can edit tweets later.
+1.9.1. Con: If the Tweeters care about what they publish, they're gonna want to fix typos and clarities as soon as they've become aware of them. The edit feature would mostly be used within the 15-second period or so after being published, as that's when it's often realized that something wrong is said. People don't become less attentive by being aware that they can edit their claims later. More people will witness the flaws of one's tweet the longer it goes. Attentive people would consider the embarrasment
+1.9.2. Con: People already pay little attention to detail and orthography.
+1.9.3. Con: Giving people the possibility to amend mistakes is not dependent on more or less mistakes being made.
+1.10. Pro: If something doesn't look right when you send the tweet you can fix it without deleting and starting over.
+1.11. Con: People wouldn't know if a popular tweet is really popular because of the content or if it was changed from the original.
+1.11.1. Pro: Tweets are often cited as pieces of evidence; unlike Facebook posts which can be edited.
+1.11.2. Con: The edit tweet feature could be time limited to stop people editing old tweets.
+1.11.3. Con: An edit history function could be easily added.
+1.11.4. Con: Even if Twitter did not add an edit history, external 3rd parties would easily be able to provide that service.
+1.11.4.1. Pro: 3rd party services today are already showing all deleted Tweets, as when you delete a Tweet that only happens on Twitter, not on all the listeners.
+1.12. Pro: You could go back to older tweets and add extra details to them.
+1.12.1. Con: You don't need to add details in the tweet, you can instead add details in replies.
+1.12.2. Con: Tweets are still limited to 280 characters, so it would not be possible to add too much to them.

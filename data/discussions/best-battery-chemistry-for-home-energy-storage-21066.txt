@@ -1,0 +1,21 @@
+Discussion Title: Best Battery Chemistry for Home Energy Storage
+
+1. Best Battery Chemistry for Home Energy Storage
+1.1. Lead Acid \(Deep Cycle\)
+1.1.1. Pro: Lowest initial installation cost.
+1.1.2. Pro: Capacity is easily scalable.
+1.1.3. Con: Lowest cycle life, must replace the soonest.
+1.2. Gravity Battery
+1.2.1. Con: Gravity storage is a [proven method](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) for supporting grid power but broad individual home use does not seem practical. [Gravity Battery Concept](http://gravitybattery.info/)
+1.3. Lithium Iron Phosphate
+1.3.1. Con: High initial installation cost
+1.3.2. Pro: Best contender for easily replacing 12v \(and multiples there of\) systems.
+1.4. Lithium Polymer
+1.4.1. Pro: Cheapest of the lithium family of cells.
+1.4.1.1. Pro: Being cheaper is important for people who cannot afford other types of battery.
+1.4.2. Pro: Wide range of cells widely available and easy to obtain.
+1.5. Lithium Titanate
+1.5.1. Pro: Rapid charge and discharge capabilities
+1.5.2. Con: Lower voltage cells with lower energy density.
+1.5.3. Pro: Very high cycle life
+1.6. Redox Flow Battery

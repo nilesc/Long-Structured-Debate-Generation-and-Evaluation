@@ -1,0 +1,28 @@
+Discussion Title: Should Constitutions protect linguistic minorities?
+
+1. Constitutions should protect linguistic minorities.
+1.1. Con: Constitutions must cover only general principles and not specific topics.
+1.1.1. Pro: A constitution should not be altered, ideally. As such, is it necessary to establish broad fundamentals rather than addressing specifics.
+1.1.2. Pro: Protections for linguistic minorities can be more flexibly and effectively implemented through typical legislative processes rather than in a constitution.
+1.1.3. Con: Constitutions enshrines fundamental principles of a state. The protection of minority languages is important enough to warrant this status in many countries around the world. As such constitutions \(such as [India's](https://blog.ipleaders.in/indian-constitution-protect-minority-rights/)\) regularly specify protections for specific minority rights.
+1.2. Pro: Without proper protection, languages are increasingly [becoming extinct](https://www.communicaid.com/business-language-courses/blog/why-are-languages-dying/).
+1.2.1. Pro: Linguistic minorities have words for things/phenomenons that do not exist in the national language.
+1.2.1.1. Pro: The mix could enrich other languages.
+1.3. Pro: Linguistic minorities are part of society and constitutions must protect society as a whole.
+1.3.1. Pro: A state that only represents a small group of people doesn't seek the public good, what in latin is called "salus communis". Thus, it cannot be considered as a democratic state \(a state which tries to satisfy all the people, the "demos"\).
+1.4. Con: Linguistic minorities are limits to national cohesion.
+1.4.1. Con: Linguistic minorities do not generate less or more cohesion. E.g. according to the EU and Eurostat, cohesion indicators are [others](http://ec.europa.eu/eurostat/web/cohesion-policy-indicators), different from the number of linguistic minorities
+1.4.2. Con: Those who identify with linguistic minorities are more likely to get defensive or antagonistic against the rest of the country if they do not feel protected.
+1.5. Con: People should recognize the importance of linguistic minorities without a necessary existence of specific articles.
+1.5.1. Pro: Principles of free speech, such as the 1st Amendment of the United States Constitution, allow people to speak whatever language they want to speak. Therefore, a constitution need only protect freedom of speech generally and does not need specific provisions to protect linguistic minorities.
+1.6. Con: Communicability can be seen as a fundamental requirement to live in society and minority languages are an obstacle to proper communication. For this reason Constitutions should avoid communicability barriers in society.
+1.6.1. Con: A nation can promote communicability but still protect linguistic minorities.
+1.6.1.1. Pro: Just because minority languages are protected does not mean that the country's lingua franca will cease to exist.
+1.7. Pro: Lack of protection for linguistic minorities translates into less future linguistic heterogeneity.
+1.7.1. Pro: Language is tied up with cultural heritage, meaning that the culture of a particular place also becomes more homogeneous with the loss of minority languages.
+1.7.2. Con: That's not necessarily a bad thing - homogeneity can make communication and legislation easier, amongst other things.
+1.8. Pro: People must be free to speak the language they prefer and constitutions should defend this freedom.
+1.8.1. Con: There is nothing stopping people from having the freedom to choose which language the want to speak, even if the Constitution doesn't officially protect the language.
+1.8.1.1. Con: The state controls essential services which people interact with every day. If these services cannot be accessed through a minority language, minority language speakers are forced to learn and speak majority languages every single time they access state services.
+1.8.2. Pro: Language is a question of self-expression and communication, both of which are crucial in a functioning democracy. As such, everyone should be free to exercise those rights in the most accessible form available to them.
+1.8.2.1. Con: Communication is dependent upon most people in a given community speaking the same language, which minority languages do not help to achive.

@@ -1,0 +1,350 @@
+Discussion Title: Are Bitcoin and Similar Cryptocurrencies Good for the World?
+
+1. Cryptocurrencies, such as Bitcoin and others, are beneficial for the world.
+1.1. Con: Handling and storing cryptocurrencies is less safe for ordinary consumers than simply using cash.
+1.1.1. Con: Transferring large amounts of cash has a high risk of detection.
+1.1.1.1. Pro: Only relatively small amounts of cash are allowed to be carried by individuals crossing borders.
+1.1.1.2. Pro: The amount of value transferrable via cash payment is limited to physical constraints \(e.g. 10 million dollars in 100 dollar bills weigh approx. 100kg\).
+1.1.2. Con: No sane person stores huge amounts of legally obtained cash at home either.
+1.1.2.1. Con: Cryptocurrencies are not designed for storing your savings and gaining interest.
+1.1.2.1.1. Con: Cryptocurrencies are a currency like any other currency and currencies are used as a store of value.
+1.1.2.1.2. Con: There certainly could be a "bank" that would do traditional saving and lending and thus even give you interest on your cryptocurrency holdings.
+1.1.2.1.3. Con: The IRS [classifies](http://www.coindesk.com/irs-bitcoin-tax-guidelines-mean/) Bitcoins as an investment, rather than a currency, which means people have to pay capital gains tax on any profits derived from it.
+1.1.2.2. Con: Storing money at home is very common among old people.
+1.1.2.2.1. Pro: Some people store their money at home, because they do not trust the banking system. Especially in times of worldwide economic crises.
+1.1.3. Con: Handling large stashes of cash is cumbersome and it is difficult to use this money in the normal economy.
+1.1.4. Pro: Even service providers such as exchanges and wallet apps are not a secure way of holding cryptocurrency assets.
+1.1.4.1. Pro: There have been a number of [major Bitcoin thefts.](https://bitcointalk.org/index.php?topic=83794.0)
+1.1.4.1.1. Pro: [Bitcoin Savings & Trust](https://en.bitcoin.it/wiki/Bitcoin_Savings_%26_Trust) was a Ponzi scheme that cost its victims [265,678 bitcoins](https://arstechnica.com/tech-policy/2017/12/a-brief-history-of-bitcoin-hacks-and-frauds/).
+1.1.4.1.2. Pro: MyBitcoin had 78739 Bitcoins stolen.
+1.1.5. Con: A question of personal usage. Your cash is as secure as your wallet, so are bitcoins. You can make these more secure by your own means, you can not do so with all other forms of electronic payment. This differs from all other systems as the money is in your 'wallet' and under your control.
+1.1.6. Pro: Crypto hacking is a [$200 million](https://www.thenational.ae/business/markets/around-1-2bn-worth-of-digital-currencies-have-been-stolen-by-hackers-1.696696) annual revenue industry.
+1.1.6.1. Pro: The frequency and severity of thefts is [increasing](https://howmuch.net/articles/biggest-crypto-hacks-scams).
+1.2. Pro: Cash is a necessary part of any functional society's economic model and cryptocurrencies are an easier and online-ready form of cash. They are the natural progression of what money is becoming in the digital age.
+1.2.1. Pro: Using cryptocurrencies for online transactions can be faster than traditional payment solutions. For example, Nano \(aka RaiBlocks\) allows [near-instantaneous transactions](https://globalcoinreport.com/rethinking-the-global-digital-payment-system-with-nano/), not comparable to traditional and extremely slow SEPA transfers.
+1.2.2. Con: Cryptocurrencies do not simplify payments compared to credit cards: customers just need to provide an address, their card number, expiration date and security code to pay.
+1.2.3. Con: The security problems with Bitcoins are the same as with online banking or credit cards.
+1.2.3.1. Pro: A user's transaction, no matter which means are used, needs to be authorized by the user. That problem stays the same.
+1.2.3.2. Pro: [Phishing](https://coincentral.com/binance-funds-safe-users-affected-api-hack-will-unauthorized-trades-reversed/) affects cryptocurrency services just as much as traditional banking.
+1.2.3.2.1. Pro: Bitcoins are just a currency, thus phishing, meaning masquerading as somebody else and sending you an email asking to transfer bitcoins to an attackers account, is still possible.
+1.2.3.2.1.1. Pro: I send you an email, posing as your cryptocurrency "bank", saying that you should login and provide you with a fake URL, that you mistakenly click and where you enter your details. Voila, now I have your cryptocurrency bank details. This is a classical phishing attack. Just like the phishing attacks on paypal and online banking accounts.
+1.2.3.2.2. Pro: Phishing is actually much easier with bitcoins, as there is next to no way of getting back the money once you have noticed that it was a phishing attack.
+1.2.3.2.2.1. Pro: In the case of credit cards, customers can often reverse or block a transaction, provided they do so within a matter of days.
+1.2.3.2.2.2. Pro: Banks normally have daily limits for your protection as to how much you can transfer per day. As of now, cryptocurrencies have none, so all your cryptocurrencies could be transferred maliciously or by mistake in the blink of a second.
+1.2.3.2.2.3. Pro: Banks can cancel transactions if you are quick enough.
+1.2.4. Pro: Cryptocurrencies don't need a central entity like banks, VISA/Mastercard or PayPal to verify and mediate transactions.
+1.2.5. Pro: Any amount of cryptocurrency is easy and efficient to store on a computer, requiring no physical storage space.
+1.3. Con: Most ordinary citizens would not use such a currency anyway, rendering all potential benefits mute.
+1.3.1. Pro: Cryptocurrencies are considered complicated, obscure and [unstable](https://techcrunch.com/2017/04/20/whats-keeping-cryptocurrencies-from-mass-adoption/?guccounter=1) by most people, all of which make mass adoption highly unlikely.
+1.3.2. Pro: All potential benefits in terms of convenience, which might lure citizens to use cryptocurrencies, are already provided by existing digital payment methods.
+1.3.3. Con: Huge companies gathering all payment information of citizens is bad for society.
+1.3.3.1. Pro: Citizens have no control over whether their information is stored securely by the companies who collect it, which can lead to malicious agents acquiring it.
+1.3.3.2. Pro: Consumer data can contribute to the creation of "[big data profiles](https://theconversation.com/big-data-security-problems-threaten-consumers-privacy-54798)" for individual citizens, which can be misused for political manipulation and in other morally dubious ways.
+1.3.3.3. Con: In the US, most [Internet services](https://www.alexa.com/topsites/countries/US) that regular users use today are free. On these websites, users generally do not expose themselves to being tracked via payment methods.
+1.3.3.4. Con: Relevant targeted advertisements are based on knowing the customer.
+1.3.3.4.1. Pro: At least relevant advertising would be less annoying than untargeted advertising for goods and services that are completely irrelevant for users.
+1.3.3.4.2. Con: People do not need that kind of advertisement - they know themselves better than any company and can just google the stuff they want.
+1.3.3.5. Con: By gathering all your payments, companies can provide excellent anti-fraud systems, thus lowering the amount of fraud and the cost of payment services for the consumer.
+1.3.3.6. Con: Society requires there to be records of payments, as these are primary means for fighting tax evasion, so somebody has to keep these, whether it is many small or some big companies, does not matter.
+1.3.3.7. Pro: A lot of companies will [sell all your personal details](https://www.forbes.com/2010/11/29/black-market-price-of-your-info-personal-finance/) for their own advantage, regardless of the customers' benefit.
+1.3.3.7.1. Pro: People get a lot of spam because of the way their information is passed on to their real customers, advertising companies.
+1.3.4. Pro: With a cryptocurrency, people wouldn't be able to participate in bonus systems, like payback, which track and analyze all purchases.
+1.3.4.1. Con: There is no evidence that bonus systems are the determining factor when people decide which payment system to use. If it was, cash would've long been eliminated.
+1.3.4.2. Con: Systems that allow functionality such as payback can be built on top of cryptocurrencies by third parties.
+1.3.5. Con: Many people would prefer to keep purchases intended as surprise gifts secret.
+1.3.5.1. Con: Few to no people will go through the trouble of using cryptocurrencies for a mere surprise present.
+1.3.5.2. Con: These people can simply use cash to make their purchases.
+1.3.5.3. Con: This really is not very significant, compared to fighting organized crime's money laundering.
+1.3.5.3.1. Pro: Cryptocurrencies enable or encourage illegal activities.
+1.3.5.3.1.1. Con: The police are getting better and [better at tracking Bitcoin](http://www.sciencemag.org/news/2016/03/why-criminals-cant-hide-behind-bitcoin) address owners. It is a serious security industry these days, with lots of developments and investment.
+1.3.5.3.1.2. Con: That's the same as saying that the guilt of a murder is the weapon and not the murderer.
+1.3.5.3.1.3. Pro: Cryptocurrencies make money laundering much easier.
+1.3.5.3.1.3.1. Pro: A number of criminal organisations have already successfully used cryptocurrencies to launder money - usually, they just withdraw it in [small batches of cash](https://www.economist.com/finance-and-economics/2018/04/26/crypto-money-laundering) in the end.
+1.3.5.3.1.3.2. Pro: In April 2018, Europol uncovered a crime network that used cryptocurrencies to launder more than [8 million euros](https://www.europol.europa.eu/newsroom/news/illegal-network-used-cryptocurrencies-and-credit-cards-to-launder-more-eur-8-million-drug-trafficking) of drug money.
+1.3.5.3.1.3.3. Con: It is not easier to launder money using cryptocurrencies. The laundering always means you have to make it seem like the money was earned legally. You will have the same problems, no matter if it is Bitcoin, cash or money on offshore accounts.
+1.3.5.3.1.3.3.1. Con: -> See 1.3.5.3.1.3.1.
+1.3.5.3.1.3.3.2. Con: When laundering money, money has to flow from one entity to another. This part of the process can be obscured with cryptocurrencies as there is no entity overseeing these financial flows.
+1.3.5.3.1.3.4. Pro: The former CEO of a Bitcoin exchange company [was sentenced](http://www.justice.gov/usao-sdny/pr/former-ceo-bitcoin-exchange-company-sentenced-manhattan-federal-court-two-years-prison) to two years in prison for helping to sell nearly one million dollars in Bitcoin that had been used for drug purchases on Silk Road.
+1.3.5.3.1.4. Pro: Cryptocurrencies enable tax evasion.
+1.3.5.3.1.4.1. Pro: Cryptocurrencies allow people to transfer money from A to B without a trace and thus receive untaxed income.
+1.3.5.3.1.4.2. Pro: Tax evaders do not even need to open a bank account in shady places anymore to hide their money away from the eyes of tax authorities.
+1.3.5.3.1.4.2.1. Pro: At least bank accounts were associated with a face and often also a name, even if it only was a number account in Switzerland.
+1.3.5.3.1.5. Con: Payments in cash are largely [untraceable](http://www.bbc.com/future/story/20150724-the-truth-about-the-death-of-cash), allowing them to be used to fund illegal activities just as easily.
+1.3.5.3.1.5.1. Con: Payments in cash require physical presence, making it always potentially more traceable than cryptocurrencies.
+1.3.5.3.1.6. Pro: Cryptocurrencies make it easier to purchase and sell illegal goods and services.
+1.3.5.3.1.6.1. Con: -> See 1.3.5.3.1.1.
+1.3.5.3.1.6.2. Pro: The creation of an ["assassination market"](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/&refURL=&referrer=), where you can contribute Bitcoins to place a bounty on major government figures, is one byproduct of cryptocurrencies.
+1.3.5.3.1.6.3. Pro: Silk Road, once one of the major services empowered by Bitcoin, was basically only selling [illegal services and goods](https://www.wired.com/images_blogs/threatlevel/2013/12/Jones-Andrew-et-al-Silk-Road-Indictment.pdf).
+1.3.5.3.1.6.3.1. Con: Silk Road got busted. It shows that even if the system is anonymous there will still be consequences for committing crimes.
+1.3.5.3.1.6.4. Pro: Cryptocurrencies make it easier for consumers to acquire banned products such as [child pornography](https://motherboard.vice.com/en_us/article/mgbeda/bitcoin-is-implicated-in-a-clearnet-child-porn-trend).
+1.3.5.3.1.6.4.1. Pro: Sellers are afraid that money will be traced back to them in the status quo, but this changes with [untraceable cryptocurrencies](https://www.wired.com/2017/01/monero-drug-dealers-cryptocurrency-choice-fire/).
+1.3.5.3.1.6.5. Pro: It simplifies funding of terrorists.
+1.3.5.3.1.6.5.1. Pro: Cryptocurrencies enable terrorist groups to avoid the [global banking system](https://www.cfr.org/backgrounder/cryptocurrencies-and-national-security), which has specific regulations to combat terrorist financing.
+1.3.5.3.1.6.5.2. Con: As of 2017, terrorist groups' use of virtual currencies was [limited](https://www.lawandsecurity.org/wp-content/uploads/2017/05/CLSCNASReport-TerroristFinancing-Final.pdf) \(p. 2\), primarily due to the difficulty of converting them back to currencies that can be used in the real world.
+1.3.5.3.1.6.5.3. Pro: According to the Indonesian government, terrorists in the Middle East used bitcoin and other cryptocurrencies to fund [militants in Indonesia](https://www.wsj.com/articles/bitcoin-paypal-used-to-finance-terrorism-indonesian-agency-says-1483964198). These transactions are harder to track for the Indonesian police than regular ones.
+1.3.5.3.1.6.6. Pro: If you buy illegal items using cryptocurrencies and the police catches you, they can only prove that you had them delivered, but not that you bought them, as the money trail cannot be traced.
+1.3.5.3.1.6.6.1. Con: -> See 1.3.5.3.1.1.
+1.3.5.3.1.6.6.2. Pro: Under US law, receiving illegal drugs through the mail is only illegal when the [recipient knew about it](http://articles.chicagotribune.com/2012-10-10/news/ct-met-beach-park-raid-sidebar-20121010_1_search-warrant-illegal-drugs-search-and-seizure) - something that is much more difficult to prove if they paid for them using cryptocurrencies.
+1.3.5.3.1.7. Pro: Cryptocurrencies make it easier for criminals to operate and be paid.
+1.3.5.3.1.7.1. Pro: -> See 1.1.3.
+1.3.5.3.1.7.2. Pro: Today illegal activities are mostly paid for using cash or anonymous bank accounts in shady places, which is costly and complicated - cryptocurrencies make this much simpler.
+1.3.5.3.1.7.3. Pro: Banks have to [report](http://de.wikipedia.org/wiki/Geldw%C3%A4sche#Meldu...) suspicious activities, including large wire transfers. Cryptocurrency transfers, on the other hand, are not reported to anyone, which makes them very useful for criminals.
+1.3.5.3.1.7.3.1. Pro: In the US, banks [have to report](https://en.wikipedia.org/wiki/Currency_transaction_report) transactions involving more than $10,000, including international transfers.
+1.3.5.3.1.7.4. Pro: Bitcoin can or could be used to pay for [hitmen](https://www.thedailybeast.com/hitman-network-says-it-accepts-bitcoins-to-murder-for-hire).
+1.3.5.3.1.7.5. Con: Every way to transfer money has probably been used by criminals.
+1.3.5.3.1.7.5.1. Con: Yes, but some make it easy and others make it difficult to be used by criminals - and cryptocurrencies make it significantly easier.
+1.3.5.3.1.7.6. Pro: -> See 1.3.5.3.1.3.
+1.3.5.3.1.7.7. Pro: Cryptocurrencies make black market labor much easier.
+1.3.5.3.1.7.7.1. Pro: If the black market labor is not just for babysitting but for some significant project, then paying big amounts of money in cash is quite a problem today.
+1.3.5.3.1.7.7.1.1. Pro: Alone the going to a bank and withdrawing thousands of Euros in cash, is uncommon today.
+1.3.5.3.1.7.7.2. Con: This also has the upside of greasing the economy in jurisdictions where clean employment registration is subject to too heavy taxation.
+1.3.5.3.1.8. Pro: Cryptocurrencies make new kinds of crime possible.
+1.3.5.3.1.8.1. Pro: [Fake ICO's](https://gizmodo.com/cryptocurrency-scam-site-disappears-leaving-only-the-w-1822509367) can scam people out of money.
+1.3.5.3.1.8.2. Pro: Scams playing on people's gullible nature fuelled by the hype around cryptocurrencies [proliferate](https://medium.com/coinremix/twitter-scam-elon-musk-is-not-giving-you-free-eth-one-tweet-has-collected-155-eth-and-counting-2f52fe35b5a8) on social media.
+1.3.5.3.1.8.3. Pro: Cryptocurrencies have led to the [proliferation of "pump and dump" schemes](https://www.reuters.com/article/us-crypto-currencies-regulation/u-s-regulator-warns-of-cryptocurrency-pump-and-dump-schemes-idUSKCN1FZ2QE).
+1.3.5.3.1.9. Pro: Extortion attacks are much more likely if you have a very hard to trace option of payment.
+1.3.5.3.1.9.1. Pro: Cryptocurrencies have made an [escalation of ransomware attacks](https://theconversation.com/are-cryptocurrencies-a-dream-come-true-for-cyber-extortionists-80115) in recent years possible by providing a method of payment that is more difficult to trace than the alternatives.
+1.3.5.3.1.9.2. Pro: [CryptoLocker](http://www.zdnet.com/cryptolockers-crimewave-a-trail-of-millions-in-laundered-bitcoin-7000024579/) is a trojan that encrypts your data and only decrypts it after you paid a ransom using Bitcoin.
+1.3.6. Pro: If people really wanted anonymity, they would use more cash and make less use of credit and debit cards.
+1.3.6.1. Con: Credit and debit cards provide benefits that offset the risk of being tracked and often make using them worthwhile for people.
+1.3.6.1.1. Pro: When travelling, you do not need to have to exchange money to another currency and when leaving the country exchange it back again.
+1.3.6.1.2. Pro: You do not need to have to go through the extra effort of having to go to a bank and withdraw money every so often.
+1.3.6.1.3. Pro: You do not need to carry coins around, which are heavy and cumbersome and require a purse.
+1.3.6.1.4. Pro: Credit cards provide you with a nice summary bill that explains what you spent your money on this month.
+1.3.6.1.5. Pro: People do not want to carry cash around.
+1.3.6.1.6. Pro: A credit card gives you the luxury to buy stuff in advance with the salary you will get at the end of the month. If you use cash you can only access the actual amount on your bank account.
+1.3.6.2. Pro: Citizens know they can be tracked by using digital money.
+1.3.7. Con: Cryptocurrencies only need to have utility for niche groups of people in order to be worth having.
+1.3.7.1. Con: This is not true if the harms accumulated by cryptocurrencies to the rest of society outweigh the benefits to the niche group.
+1.4. Con: -> See 1.3.5.3.1.
+1.5. Con: Handling and storing cryptocurrencies is less safe for ordinary consumers than traditional forms of electronic payment.
+1.5.1. Con: Online banking from a compromised system, such as a PC or a phone that has been hacked, is insecure as well.
+1.5.2. Con: -> See 1.1.5.
+1.5.3. Con: Some cryptocurrencies, unlike other forms of payment, are anonymous and untraceable.
+1.5.3.1. Con: Untraceability can even be bad for security.
+1.5.3.1.1. Pro: When cryptocurrencies are stolen, there is no hope of recovering them because the transactions are irreversible once confirmed by the network and added to the blockchain.
+1.5.3.2. Con: Security does not require anonymity or untraceability.
+1.5.3.2.1. Pro: Security means that nobody unauthorized can manipulate, authorize or see your transactions.
+1.5.3.2.2. Pro: Security, when talking about money transactions, does not mean that nobody can tell that you are paying someone, nor whom you are paying.
+1.5.3.3. Pro: [Monero](https://getmonero.org/) is a fully fungible, anonymous and untraceable cryptocurrency implementation.
+1.5.3.4. Pro: Zcash is a cryptocurrency with a fully [private](https://hackernoon.com/how-private-are-privacy-coins-a-closer-look-at-zcash-and-zclassics-blockchains-32dae60d5b9f) transfer option.
+1.5.3.5. Con: Most cryptocurrencies are [traceable](https://www.reddit.com/r/Bitcoin/comments/6izhgw/eli5_how_traceable_are_transactions/) by design, and [not fully anonymous](https://www.technologyreview.com/s/608716/bitcoin-transactions-arent-as-anonymous-as-everyone-hoped/) due to traceability.
+1.5.4. Pro: -> See 1.1.4.
+1.5.5. Pro: -> See 1.5.3.1.1.
+1.5.6. Pro: Cryptocurrencies are much more desirable to steal than credit cards.
+1.5.6.1. Pro: It is very simple to transfer large amounts of cryptocurrency over large distances, which is very hard with cash.
+1.5.6.1.1. Pro: -> See 1.1.1.
+1.5.6.1.2. Pro: -> See 1.1.1.2.
+1.5.6.1.3. Con: Transferring cryptocurrencies [takes time](https://coincentral.com/how-long-do-bitcoin-transfers-take/) and the associated fees can be [quite high](https://www.cnbc.com/2017/12/19/big-transactions-fees-are-a-problem-for-bitcoin.html).
+1.5.6.2. Pro: -> See 1.5.3.1.1.
+1.5.7. Pro: Cryptocurrencies lack the standard consumer protections provided by banks.
+1.5.7.1. Pro: When somebody steals your credit card data and uses it for himself, you as the credit card owner will, in most cases, not be liable for the damage and will get your money back.
+1.5.7.1.1. Pro: Due to Bitcoins operating without third party there is also nobody who would pay you back in the case of abuse/theft.
+1.5.7.2. Pro: For cryptocurrencies, there is no central institutional authority akin to a central bank that would provide deposit insurance, as is the case for ordinary banks. Thus if a cryptocurrency exchange or wallet app shuts down, all your assets will be lost.
+1.5.7.2.1. Con: Most people only use cryptocurrency exchanges to convert between currencies, which exposes their assets to those risks only for a short period of time.
+1.5.7.2.1.1. Con: Even though they are called exchanges, people store significant amounts of cryptocurrencies on them.
+1.5.7.2.1.1.1. Pro: Mt. Gox lost 850.000 Bitcoins, when the total amount of Bitcoins was just 11 million. It's unlikely that 10% of all Bitcoins were exchanged every day.
+1.5.7.2.2. Con: Even if these services necessary for using cryptocurrencies are less secure, this downgrade is voluntary.
+1.5.7.2.2.1. Con: -> See 1.1.2.
+1.5.7.2.2.2. Con: Most people are not capable of storing anything of value securely on their computing devices.
+1.5.7.2.2.2.1. Pro: Most people do not understand security mechanisms.
+1.5.7.2.2.2.2. Pro: Most people use very unsecure software.
+1.5.7.2.2.2.3. Pro: Most people do not patch their software as often as required.
+1.5.7.2.2.2.4. Pro: Many people can be tricked into installing trojans, which can then be used to steal the wallets stored on their computer.
+1.5.7.2.2.3. Con: It is less risky to use insecure devices for transactions with daily transaction limits, than being your own "bank", where in 1 second and without transaction limits, all your assets could be irrecoverably gone.
+1.5.7.2.2.3.1. Pro: Banks will stop fishy transactions or confirm with the account holder.
+1.5.7.2.2.3.2. Pro: When transferred via the banking system, money has to be sent to the account of a known entity. At least in the case of major criminal activities, governments will cooperate across borders on identifying senders and recipients.
+1.5.7.2.2.3.3. Pro: Money can be traced through the banking system and often recovered.
+1.5.7.2.2.3.4. Pro: -> See 1.2.3.2.2.3.
+1.5.7.2.3. Pro: [Mt Gox](http://arstechnica.com/business/2014/02/mt-gox-once-the-worlds-largest-bitcoin-exchange-shuts-down/) shut down and all their account holders lost their bitcoin holdings.
+1.5.7.2.4. Pro: [Flexcoin](http://flexcoin.com) shut down and all their account holder [lost their bitcoin holdings](https://news.ycombinator.com/item?id=7339978).
+1.5.7.3. Pro: -> See 1.2.3.2.2.2.
+1.5.8. Pro: Even though we know to which bitcoin addresses large amounts of stolen bitcoins went, we cannot retrieve them.
+1.5.8.1. Pro: -> See 1.5.7.2.4.
+1.5.9. Con: The bitcoin security system is based on an asymmetrical encryption: the ownership of bitcoins is protected through two keys. Through the private key every payer has to digitally sign every transaction. Then the user can spend digital money which is directly linked to a specific address. On top of that, the bitcoin network verifies the signature with their public key. In case of loss of the private key, no other evidence of ownership is possible.
+1.6. Con: Cryptocurrency mining is a waste of resources.
+1.6.1. Pro: Cryptocurrency mining consumes a lot of [energy](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland).
+1.6.2. Con: Mining minerals for normal currency consumes a lot of resources too.
+1.6.2.1. Con: American currency has not been linked to resources such as [gold](https://www.stlouisfed.org/open-vault/2017/november/why-us-no-longer-follows-gold-standard) for a long time.
+1.6.2.2. Con: [Less than 10%](https://money.howstuffworks.com/currency6.htm) of the world's currency exists in coins and paper money - most of it is purely virtual.
+1.6.3. Pro: Cryptocurrency mining requires a lot of [hardware](https://www.coindesk.com/information/how-to-set-up-a-miner/).
+1.6.3.1. Pro: Purpose-built devices such as [application-specific integrated circuits \(ASICs\)](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) have been developed for mining cryptocurrencies. Resources and production costs are spent on these devices that are only useful for mining cryptocurrencies.
+1.6.3.2. Pro: There is a [shortage](https://kotaku.com/the-great-graphics-card-shortage-of-2018-1822346367) of graphics cards around the world as more and more people venture into cryptocurrency mining. People who would like to use GPUs for gaming or machine learning are faced with much higher prices or empty shelves.
+1.6.3.3. Con: Most cryptocurrencies - [some more efficiently than others](https://www.bitcoinmarketjournal.com/cryptocurrency-mining/) - can be mined on normal consumer computers as well. How one uses their computer is a personal choice.
+1.6.3.3.1. Pro: Some people mine cryptocurrencies on their computer in the [downtime](https://en.bitcoin.it/wiki/Tutorial:_Automatically_mine_when_computer_is_locked_on_Windows) - when they are not using it for anything else.
+1.6.3.3.2. Con: As consumer computers are [not very efficient](https://www.abitgreedy.com/cryptocurrency-mining/) at mining cryptocurrencies, squeezing out every bit of efficiency, if done incorrectly, often [leads to](https://bitcoin.stackexchange.com/questions/1612/can-i-damage-my-computer-by-mining-bitcoin) overheating the hardware, reducing its lifetime.
+1.6.4. Con: If the energy comes from renewable energy sources it is not that bad.
+1.6.4.1. Con: That is probably not the case for most cryptocurrencies right now.
+1.6.4.2. Con: The renewable energy could have been used to replace non-renewable energy, instead of having been used for cryptocurrency generation. This of course only applies if you are able to redirect it to other industries.
+1.6.5. Con: Cryptocurrencies are no different from any other production in this regard. As long as the cryptocurrency holds value \(relative to a purchaser\), the resource cost is just that: cost. Cost only becomes waste once the production loses its value. The concept "waste" assumes that the production process is in vain.
+1.7. Pro: Cryptocurrencies and the technologies built on top of them open doors for technological innovation.
+1.7.1. Pro: Technologies like [IOTA](https://iota.readme.io/docs) herald the emergence of "[Machine Economy](https://innovationhub.innogy.com/news-event/3lj6DX6LS0C4SyKmgEOiQq/meet-our-future-customers--machines-with-wallets)" - machines capable of earning and spending money on their own by trading resources such as data, computing power, storage or physical services to other machines in exchange for assembly, maintenance, energy and liability insurance.
+1.7.2. Pro: Smart contracts, such as those built on the Ethereum network, are a fundamental innovation with a huge impact potential in sectors such as [finance](https://www.capgemini.com/consulting/resources/blockchain-smart-contracts/), [insurance](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf), [gambling](https://medium.com/\@aerobatic/1st-demonstration-of-real-time-casino-games-built-with-ethereum-smart-contracts-165ba72be02e) and [others](https://www2.deloitte.com/us/en/pages/finance/articles/cfo-insights-getting-smart-contracts.html).
+1.8. Pro: A cryptocurrency is harder to counterfeit than cash.
+1.8.1. Con: The same applies to debit and credit cards.
+1.8.1.1. Con: It is easier to steal a credit/debit card than cryptocurrency.
+1.8.1.1.1. Con: -> See 1.5.
+1.8.1.1.2. Pro: To steal a credit or debit card, one only needs to physically steal the card. To steal bitcoin, one needs to get access to a user's private password.
+1.8.2. Pro: There is no such thing as a bitcoin that could be faked. Instead, there is only a public, decentralised record of who owns how many bitcoin, the blockchain - hackers would have to alter this record to fake bitcoins, which is only possible if hackers control more than 50% of the decentralised network.
+1.8.3. Pro: Despite government efforts to prevent the creation and circulation of counterfeit money, it is remarkably common.
+1.8.3.1. Pro: It is relatively easy to make counterfeit cash - the Secret Service seized more than [81 million dollars](https://www.usatoday.com/story/news/nation/2013/03/12/counterfeit-money-on-rise/1983067/) of fake money in 2012, for example.
+1.8.3.2. Con: Superior counterfeits require an [intaglio press](http://www.nytimes.com/2006/07/23/magazine/23counterfeit.html), the most advanced form of currency-printing technology available. These presses are far more expensive than ordinary offset, typographic or lithographic presses, which yield inferior counterfeits.
+1.8.3.3. Con: American cash has a special [mixture](http://www.nytimes.com/2006/07/23/magazine/23counterfeit.html) of cotton and linen which is extremely difficult to accurately reproduce.
+1.8.3.4. Pro: Before the introduction of a new design in 2017, [more than 3%](https://www.mirror.co.uk/money/no-fake-new-1-coins-10876613) of all £1 coins in circulation in the UK were fake.
+1.9. Pro: The strength in digital currency lies in its universal character. Every person can use it in every country. It unites the world economically.
+1.9.1. Con: The US dollar is used the same way in many countries, because it is [stable](https://www.investopedia.com/articles/07/unofficial_dollarization.asp), compared to the local currencies.
+1.9.1.1. Con: Since Nixon, the US dollar has not been linked to gold anymore. Some economists say this could destabilise the dollar.
+1.9.1.1.1. Con: The financial system is based on trust. As long as people believe that the dollar has its legitimate value, it does not matter if its worth is based in gold or not.
+1.9.2. Con: The Euro did not really do a very good job at uniting Europe.
+1.9.3. Pro: Cryptocurrencies are not constrained by country borders as the underlying technology is globally distributed.
+1.9.4. Pro: Traditional fiat currencies require physical distribution of cash throughout a geographic area for their adoption locally. In contrast, cryptocurrencies are not territorially constrained because they do not have a physical version.
+1.9.5. Pro: Cryptocurrencies are not tied to any political unit, making them essentially equal and the same for a citizen of any country to use.
+1.10. Pro: Cryptocurrencies would make banking more accessible.
+1.10.1. Pro: It would allow everyone to hold digital money without being required to hold an account with a bank.
+1.10.1.1. Con: Most users would have to hold accounts with middleman/third party services such as Wallet hosting/Exchanges, in order to use cryptocurrencies.
+1.10.1.1.1. Pro: In order to use Cryptocurrencies without trusting a middleman for your wallet, you have to be very [technically savvy](https://bitcoin.stackexchange.com/questions/23700/can-i-make-and-host-bitcoin-wallet-in-my-own-website-to-get-rid-of-using-3rd-par).
+1.10.1.1.1.1. Pro: Very few users have the technical ability to host and use their own blockchain wallet, or the time to maintain security updates.
+1.10.1.1.1.2. Con: Users can use a [paper wallet](https://www.coindesk.com/information/paper-wallet-tutorial/) to hold cryptocurrencies without needing to be technically savvy.
+1.10.1.1.2. Pro: Crypto middlemen are less trustworthy than the established banking system.
+1.10.1.2. Con: This is an issue that can easily be solved through other forms of digital money, as has been done in [China](http://www.scmp.com/magazines/post-magazine/long-reads/article/2110118/going-cash-free-why-china-light-years-ahead).
+1.10.2. Pro: While most service sectors have moved into the internet, the banking industry is still a very centralized platform based industry.
+1.10.2.1. Pro: This would facilitate innovation in the financial industry and thus create more jobs.
+1.10.3. Pro: The cost of achieving financial inclusion would be vastly reduced, as people could gain financial access simply by downloading a secure application on their smartphone.
+1.10.3.1. Con: This already exists without the use of cryptocurrencies, e.g. [M-Pesa](https://en.wikipedia.org/wiki/M-Pesa) in East Africa.
+1.10.4. Con: This could be achieved to the same degree through other forms of digital money.
+1.11. Con: Currencies not backed by governments are harmful.
+1.11.1. Pro: If the cryptocurrency is too widely adopted in a nation, then the government won't get enough in taxes to maintain society's infrastructure.
+1.11.1.1. Con: Cryptocurrency transactions could be taxed by design, if the protocol implements a transaction fee on some transactions with that fee going directly to the government.
+1.11.1.1.1. Con: People would be incentivised to use cryptocurrencies that do not have this feature to avoid paying extra fees.
+1.11.2. Pro: Cryptocurrencies make it harder for states to implement capital controls, which makes regulating the economy more difficult.
+1.11.2.1. Pro: It makes it much easier to circumvent capital controls, like in [China](https://www.coindesk.com/china-leading-global-rise-bitcoin/).
+1.11.2.2. Con: Most people pay taxes and banks report all their in/outflows above certain limits.
+1.11.2.2.1. Pro: -> See 1.3.5.3.1.7.3.1.
+1.11.2.2.2. Con: The banks have to internally keep an eye, they are not reporting to anybody and thereby breaching privacy.
+1.11.2.2.2.1. Con: -> See 1.3.5.3.1.7.3.
+1.11.3. Pro: For a currency to have a reliable value, it either has to be backed by a government fiat or have a consistent and reliable use as a commodity \(such as being the value used within a legal system to allocate damages\).
+1.11.3.1. Pro: Being supported by government fiat means that there is an \(ostensibly\) neutral party with a long term interest in the stability of the currency and with the financial tools \(setting interest rates, taxes, etc\) to strongly influence its value.
+1.11.3.2. Pro: Without a consistent and widespread use as a commodity a currency is more prone to speculation — they need a stable source of value and so people have incentives to invest or short against value fluctuations.
+1.11.4. Con: In case of a catastrophic collapse of the financial system cryptocurrencies are still able to retain some of their value, while major currencies like USD, EUR and CHF will not.
+1.11.4.1. Con: This is pure speculation - cryptocurrency exchange rates fluctuate so wildly, even without financial system collapses, that considering them as retainers of any sort of value would be highly risky.
+1.11.4.1.1. Con: If a cryptocurrency was in wider use, then its value would be more stable.
+1.11.4.2. Con: During the [last major financial crisis](https://www.nytimes.com/2008/10/22/business/worldbusiness/22iht-dollar.4.17174760.html), the US dollar never really depreciated against other currencies.
+1.11.4.2.1. Pro: Whenever there is a major crisis, there is a [flight to quality](https://www.investopedia.com/ask/answers/07/flighttoquality.asp), which means USD treasury bonds are being bought by investors around the world, thus increasing the demand for USD.
+1.11.4.3. Con: Precious metals such as gold, silver and platinum already serve this purpose [without](https://www.cnbc.com/2017/10/19/bitcoin-is-not-the-new-gold-goldman-sachs-says.html) the phenomenal fluctuations typical in the prices of cryptocurrencies.
+1.11.4.3.1. Pro: Precious metals retain value precisely because they remain in high demand regardless of infrastructure or economic model. Cryptocurrencies assume an advanced, underlying technological infrastructure to serve their function, and therefore carry long-term risk which precious metals don't.
+1.11.4.3.1.1. Pro: Cryptocurrencies will require some authoritative blockchain mechanism that can be reached from around the world.
+1.11.4.4. Pro: -> See 1.2.4.
+1.11.5. Pro: There can be no monetary policy for decentralised digital currencies.
+1.11.6. Pro: Cryptocurrencies could be banned by governments - this would make the exchange back to non-virtual currencies very complicated.
+1.11.6.1. Pro: China has already implemented multiple [crackdowns](http://www.scmp.com/business/banking-finance/article/2132009/china-stamp-out-cryptocurrency-trading-completely-ban) on cryptocurrencies.
+1.12. Pro: Cryptocurrencies enhance privacy for market transactions.
+1.12.1. Pro: Anonymity allows individuals to act in the market without the fear of government persecution.
+1.12.1.1. Con: Anything that is beneficial to the world, could be funded without cryptocurrencies as easily, whether by cash or by traditional wire transfers.
+1.12.1.2. Pro: Being able to transfer funds anonymously is important for people like investigative journalists, whose work benefits society.
+1.12.1.2.1. Pro: For instance to reimburse sources for travel costs or payment for whistle-blowers.
+1.12.1.2.1.1. Con: If they travel, you meet them in person, thus you can use cash for this.
+1.12.1.2.2. Con: There is already a well established system of escrow accounts and lawyers. For smaller amounts, cash would do just fine. Anything beyond that would probably be illegal.
+1.12.1.2.3. Con: This is tax evasion and thus illegal, given that this payment will not be reported to the tax authorities.
+1.12.1.2.4. Con: Most important whistle-blowers did what they did for idealistic, not for monetary reasons and did not receive any form of compensation.
+1.12.1.2.5. Con: Investigative journalism has been around for decades, cryptocurrencies are not a prerequisite for it to emerge.
+1.12.1.2.5.1. Con: With the fear of terrorism and the greater surveillance possibilities, investigative journalism and whistle-blowing are more important than ever. Therefore new ways of funding these activities are beneficial for the world.
+1.12.1.2.6. Con: Receiving payment for whistle-blowing is riskier for the informant, than if he did it without compensation.
+1.12.1.2.6.1. Pro: If put in front of a court his motives will be challenged. He did not do it for the public good, but for the money.
+1.12.1.2.6.2. Pro: If he receives a payment, the crime of divulging secrets is more likely to be prosecuted as an act of spying.
+1.12.1.2.6.2.1. Pro: Normally spying includes some form of compensation.
+1.12.1.2.7. Pro: Even in "civilized" countries like Germany such journalists are threatened by government authorities that have something to hide.
+1.12.1.2.7.1. Con: -> See 1.12.1.2.5.
+1.12.1.2.8. Con: Anonymous communication may be important for investigative journalists, but not anonymous cash.
+1.12.1.2.8.1. Con: They may need to pay sources.
+1.12.1.2.8.1.1. Con: The high times of investigative journalism were in the past and in that time there was no problem getting information from sources by paying cash.
+1.12.1.2.8.1.2. Con: Most important sources, and especially whistleblowers, are not revealing information for monetary incentives.
+1.12.1.3. Pro: Commercial payment services like credit cards and PayPal are under the control of governments and political pressure. This is dangerous for a free democratic society, and this is where cryptocurrencies can help.
+1.12.1.3.1. Con: Just because a certain group exists in a free democratic society does not mean that it automatically has the right to be funded.
+1.12.1.3.1.1. Con: If an organisation is allowed/legal, it is allowed to fund it or donate to it.
+1.12.1.3.2. Con: It would be possible to apply the same to cryptocurrencies, by a simple law that bans anonymous payments.
+1.12.1.3.3. Pro: Since there is no commonly agreed upon definition of illicit payments, governments can control who can receive money in these payment systems by arbitrarily designating organizations as terrorist.
+1.12.1.3.4. Pro: The PayPal account of Wikileaks was frozen, even though the legality of that was questionable.
+1.12.1.4. Pro: People should be able to shop online without fear of setting off a terrorism alert at an intelligence service because they bought the wrong combination of goods.
+1.12.1.4.1. Con: There are other ways for getting rid of fungus.
+1.12.1.4.1.1. Pro: Use a professional, that has all the proper equipment and knows how to deal with these dangerous substances.
+1.12.1.4.2. Con: You can also not buy proper poison to kill rodents, as owning and handling that poison is not allowed.
+1.12.1.4.2.1. Pro: -> See 1.12.1.4.1.1.
+1.12.1.4.3. Con: You still can be traced by the delivery of the physical goods.
+1.12.1.4.3.1. Pro: This is what happened to many of the Silk Road users, who purchased drugs. After Silk Road got busted, they somehow traced some of the dealers and these had addresses to which they had shipped stuff. Alas they came and knocked on the doors of the customers. [1](http://www.heavy.com/news/2013/10/silk-road-drug-buyer-reddit-arrest-ross-ulbricht-fbi/)
+1.12.1.4.4. Con: There are good reasons why certain sales of chemicals are being watched. The government is not doing this for harassment reasons.
+1.12.1.4.4.1. Pro: Just because you want to have a small nuclear reactor, does not mean that you have a right to build one. Certain stuff is simply too dangerous.
+1.12.1.4.5. Pro: Googling both [pressure cookers and backpacks](https://www.theatlantic.com/national/archive/2013/08/government-knocking-doors-because-google-searches/312599/) from the same Internet connection has previously led to people's homes being raided by the police.
+1.12.1.5. Pro: Cryptocurrencies can be used to subvert authoritarian regimes e.g. through funding opposition and rebel groups.
+1.12.1.5.1. Pro: Traceable money increases the risk of activists getting caught.
+1.12.1.5.1.1. Pro: Activists would be required to exchange the money for local currency, to use it. These exchange agents would surely be targeted by the government and would thus collaborate with it.
+1.12.1.5.1.2. Con: Activists in such countries are known anyway and would not be put under additional scrutiny when receiving money from overseas.
+1.12.1.5.2. Con: Cryptocurrencies, as we have seen in [Belarus](https://www.washingtonpost.com/news/monkey-cage/wp/2018/01/25/why-would-authoritarian-belarus-liberalize-cryptocurrencies/?utm_term=.697b3824bde5) and [North Korea](https://coinjournal.net/north-korea-may-raked-200-million-cryptocurrency-transactions/), are useful tools for authoritarian regimes to get around economic sanctions.
+1.12.1.5.3. Con: This is neither a benefit for nor an obligation of societies who use cryptocurrencies.
+1.12.1.5.4. Con: Funding a non-terrorist organisation that fights for freedom under an authoritarian regime does not require untraceability.
+1.12.1.5.4.1. Con: -> See 1.12.1.5.1.
+1.12.1.5.5. Con: It is not clear whether the rebels are even better than the regime.
+1.12.1.5.5.1. Pro: Taliban funded by the US, against the Russians.
+1.12.1.5.5.2. Pro: The Al Qaeda-close rebels in Syria that want to establish a caliphate.
+1.12.1.5.5.3. Pro: Lybia which after ousting Gaddafi slowly gave up on women's rights.
+1.12.1.5.6. Con: No normal private person does that.
+1.12.1.5.6.1. Con: Private individuals do fund rebels and terrorists.
+1.12.1.5.6.1.1. Pro: In mosques in Britain money is collected for causes.
+1.12.1.5.6.1.2. Pro: Wahabis\(Saudis\), that give money to the rebels in Syria.
+1.12.1.5.6.1.3. Pro: Bin Ladin was a private wealthy man, he gave to himself.
+1.12.1.5.7. Con: They can simply use bank accounts in another country.
+1.12.1.5.8. Con: In these regimes the Internet is completely controlled and cryptocurrency websites can just be disabled by government.
+1.12.1.5.8.1. Con: Only China and North Korea have anything that could be considered complete control of Internet usage within their borders.
+1.12.1.5.8.2. Con: Controlling the Internet proved to be quite difficult, even China is struggling to do so.
+1.12.1.5.8.2.1. Con: China is still controlling major parts of the Internet, where it both censors and surveils its citizens and other people within its borders.
+1.12.1.5.9. Con: It also helps political activists who fight for a good cause  to cover their activities.
+1.12.2. Pro: Anonymous money transfers are a basic right of the citizens of civilized societies.
+1.12.2.1. Pro: All citizens have a right to privacy. This right applies to money transactions, as it does to every facet of everyday life.
+1.12.2.1.1. Con: Criminal activity warrants a violation of a criminal's privacy.
+1.12.2.1.1.1. Pro: This is how it is handled in all Western countries, using court-ordered surveillance orders to investigate criminals.
+1.12.2.1.2. Pro: According to the [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/index.html), Article 12: "No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence".
+1.12.2.2. Con: Most of the business interactions people have are never fully private. When you buy stuff, you are always interacting with others.
+1.12.2.3. Pro: Individuals already can send cash via post, bank transfer, or PayPal anonymously. Cryptocurrencies allow for this without a centralized system.
+1.12.2.3.1. Con: The [terms and services](http://www.nnp.de/lokales/limburg_und_umgebung/Geld-nicht-per-Brief-senden;art680,337703) of the German postal service don't allow customers to send cash.
+1.12.2.3.2. Con: German banks are legally obliged to disclose the name of the [remitter](http://www.gevestor.de/details/anonyme-uberweisung-was-funktioniert-und-was-nicht-666310.html).
+1.12.2.3.3. Pro: Although this involves breaking [terms and conditions](https://www.paypal.com/ee/webapps/mpp/ua/useragreement-full), a fake PayPal account can be used to obscure one's identity when transacting online.
+1.12.2.3.3.1. Con: One still has to send money to a verified PayPal account to withdraw it. In such cases, PayPal links the two accounts' identity internally. Hence, this method is not fully anonymous.
+1.12.2.3.3.1.1. Pro: PayPal knows your identity.
+1.12.2.4. Con: If cash transactions are above a certain limit, the business or financial institute has to record your identity.
+1.12.2.4.1. Pro: The same restriction is likely to be imposed on cryptocurrencies by the tax authorities.
+1.12.2.4.2. Pro: [In Germany](http://www.mondaq.com/germany/x/652630/Money+Laundering/New+German+Money+Laundering+Act+Establishes+Additional+Transparency+Requirements+for+Certain+Listed+Companies+European+Capital+Markets+Update), this happens in accordance with the Money Laundering Act.
+1.12.2.5. Con: The important word here is "anonymous", there is no official human right that makes statements pertaining to an individual's right to anonymity.
+1.12.2.5.1. Con: -> See 1.12.2.1.2.
+1.12.3. Pro: Cryptocurrencies allow for the purchase of items or services that are not forbidden, but are perhaps embarrassing or confidential.
+1.12.3.1. Pro: Given the social stigma attached to some mental health issues such as depression or bipolar disorder, people might prefer to buy relevant medication anonymously to avoid social repercussions.
+1.12.3.1.1. Con: This market exists, not because it is shameful to buy Prozac regularly, which you can, with a prescription, but because people who do not need it want to use Prozac.
+1.12.3.1.2. Con: Purchasing medication under the table is illegal and we as a society do not want illegal activities to take place. If we wanted these things to happen, we would legalize them.
+1.12.3.2. Pro: Buying porn online is legal, yet many people might prefer there not being a record of it since it can be considered embarassing.
+1.12.3.2.1. Con: It is not necessary to pay money to watch porn online.
+1.12.3.2.2. Con: If people are so afraid of somebody noticing that they are watching porn, then the actual watching and storing of porn becomes the issue, not the buying.
+1.12.3.2.3. Con: Prepaid credit cards do not have account statements that might cause embarrassment at home.
+1.12.3.2.4. Con: Buying porn discretely has never been a problem, they offer a myriad different discrete methods.
+1.12.3.2.4.1. Pro: It is possible to pay using gift vouchers from other non-porn services.
+1.12.3.2.4.2. Pro: People can pay using their credit card and have an unsuspicious looking service appear on their bill.
+1.12.3.2.4.2.1. Pro: Services selling porn do not charge customers with a bold "PORN" in capital letters on their credit card bill, but rather some innocuous looking billing service.
+1.12.3.2.5. Pro: Someone's partner might find out while checking their credit card statement and it could become a big drama.
+1.12.3.2.5.1. Con: Your partner might find out by having a look at your computer.
+1.12.3.2.5.2. Con: -> See 1.12.3.2.3.
+1.12.3.2.5.3. Con: It should really be possible in our day and age, to disclose that you like to watch porn.
+1.12.3.2.5.4. Con: Porn might be the smallest problem in your relationship, as if you cannot disclose this, you most probably cannot disclose your sexual wants and desires, which will lead to long-term problems.
+1.12.3.3. Pro: In countries where sex work is legal, there might still be [social stigma](https://theconversation.com/the-stigma-of-sex-work-comes-with-a-high-cost-79657) attached to it. Hence, both sex workers and their customers might prefer to not have their transactions tracked.
+1.12.3.3.1. Pro: There is even a [dedicated cryptocurrency](https://boingboing.net/2017/08/06/crypto-snake-oil.html) for sex workers, which emphasises privacy and discretion.
+1.12.3.3.2. Con: These amounts are so small that they can really easily be dealt with using cash.
+1.12.3.3.3. Con: The sex industry seems to be doing just fine without cryptocurrencies.
+1.12.3.3.4. Con: Sex work may be legal but the actual sex workers themselves may have suffered from human trafficking, may be underage or connected to a criminal activity despite this.
+1.12.3.3.5. Con: Many sex workers do provide the [option](https://thenextweb.com/insider/2014/07/26/online-payments-prostitution-internet-transforming-oldest-profession/) of paying by credit card or other forms of non-cash transaction.
+1.12.3.3.5.1. Pro: These charges will appear on the credit card bill as unsuspicious charges for a bar or club.
+1.12.3.4. Con: -> See 1.12.3.2.3.
+1.12.3.5. Con: Services that one would be ashamed of buying are often morally problematic, so society should not make it easier to buy them anonymously.
+1.12.3.5.1. Con: If society considers something morally problematic, it should be made illegal. It should not be dealt with by shaming those engaging in it.
+1.12.3.5.2. Con: Not everything considered shameful is amoral, hence there is value in providing a way of making related purchases in private.
+1.12.3.5.2.1. Pro: There is a widespread taboo around talking about anything related to [menstruation](https://www.huffingtonpost.co.uk/tanya-barron/the-stigma-around-periods_b_18228798.html).
+1.12.3.5.2.2. Pro: Mental health is [stigmatised](https://www.psychologytoday.com/us/blog/why-we-worry/201308/mental-health-stigma) in many ways and variably considered shameful or threatening.
+1.12.3.5.2.3. Pro: There is significant shame attached to all kinds of [sexual activity](https://www.psychologytoday.com/us/blog/women-who-stray/201708/overcoming-religious-sexual-shame) - even mainstream ones that are not widely considered amoral.
+1.12.3.6. Con: It also allows for the purchase of illegal things that people are ashamed of.
+1.12.3.7. Con: The act of buying legal, but shameful, items/services is not the biggest risk of detection - the delivery or use is.
+1.12.4. Pro: Anonymous cryptocurrencies can enable funding of totally legal NGOs or similar entities, where funders may not want to be traceable at all.

@@ -1,0 +1,22 @@
+Discussion Title: Peertube : could free software win against propietary software (especially Youtube) ?
+
+1. Peertube : could free software win against propietary software \(especially Youtube\) ?
+1.1. Con: The largest problem any incumbent trying to defeat Youtube will have its extraordinarily large userbase, this will be extremely hard to compete against.
+1.2. Pro: Youtube's multiple problems call for an alternative.
+1.2.1. Con: Even if YouTube has many problems, if no one is available to provide a reliable alternative, YouTube may reign for a long time.
+1.3. Con: Popular publishers will always try to publish on the platforms will allow them to monetize best. Youtube is the largest and bes monetizable platform out there.
+1.4. Pro: Framasoft's fundraising campaign was very popular.
+1.4.1. Con: Finding funds for something new and exciting may be easier. Keeping the funds coming past 'novelty phase' may be more challenging.
+1.4.1.1. Pro: A thought through structure regarding financing is necessary.
+1.4.2. Con: Peertube doesn't run ads which means it won't make money in the long run.
+1.4.2.1. Con: It's wrong : Peertube will let every instances define his hown rules, and that's also true for the ads.
+1.5. Pro: As long as someone wants to host Peertube, the network will not die.
+1.5.1. Con: If the network is hardly used by anyone, it won't die but it won't surpass other platforms either.
+1.6. Pro: Peertube is decentralized and therefore escapes the hegemonic management of a few people.
+1.7. Con: Youtube users don't trust Peertube enough to go the extra mile.
+1.7.1. Con: It may not be a question of trust but usability. If Peertube proves to work, people will use it.
+1.8. Con: Collective management of a service is too anarchic to work.
+1.8.1. Con: Digital platforms to establish goals, decide on ways to promote themselves and attract users and they need some hierarchical structure to make those decisions.
+1.9. Con: Framasoft lacks the means to set up such a structure.
+1.10. Con: All Framasoft's initiatives to "Ungooglise" Internet have never harmed Google.
+1.10.1. Con: This may be the first time.

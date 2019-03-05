@@ -1,0 +1,55 @@
+Discussion Title: TypeScript is better than JavaScript for large projects
+
+1. TypeScript is better than JavaScript for large projects
+1.1. Pro: Most editors have good TypeScript support now, especially VSCode which is a very popular editor for web developers now.
+1.1.1. Con: Most editors have good JavaScript support
+1.2. Pro: TypeScript looks familiar to developers that know C# or Java
+1.2.1. Con: JavaScript is still Asynchernous, and can be a source of confusion for developers picking it up since it behaves differently than C# or Java
+1.2.2. Con: TypeScript classes still use Prototype Inheritence, which can be confusing for developers that do not understand it and expect things to behave how classes do in other languages
+1.2.3. Con: JavaScript can leverage functional programming patterns very well, however if people default to OOP-Style programming due to classes - can lead to code that does not leverage some of the power / benefits of JavaScript
+1.3. Pro: Explicit typing allows you to define the data structures around which your application will develop.
+1.3.1. Con: At times the type definitons can get in the way of the readability of code, and create more confusion than the problem it is trying to solve.
+1.3.2. Con: Developers that are not used to JavaScript might not be aware that TypeScript does not provide runtime type checking, and do not put in the appropiate checks at boundaries that they do not control to ensure that the data is correct.
+1.4. Con: Confusing for those with a background in untyped languages.
+1.4.1. Con: JavaScript has a type system, even if it's dynamic and generally hidden from the developer. TypeScript forces you to get to grips with JavaScript's type system for the sake of your program's type safety.
+1.5. Con: Using TypeScript you will lose a lot of the dynamic JS has to offer and thus development velocity is significantly slower.
+1.5.1. Pro: Especially when using React/JSX you will need to put a lot of effort into typing compared to using pure JS.
+1.5.2. Pro: For JS libraries you need to have separate typings, which are sometimes not available at all, so you have to write them yourself. In other cases, when the typings are not maintained by the library's authors themselves, typings are not up to date with the latest library version.
+1.5.2.1. Pro: lodash typings seem to be a common problem, probably due to the extremely flexible nature of the lodash library.
+1.5.2.2. Con: In the rare case that a library isn't typed and you don't have the time to do so yourself, you can just cheat and call it "any". Whilst this is bad practice, this puts the experience on par with plain JavaScript, and you can go back and improve it later.
+1.5.3. Con: The additional code analysis tooling of TypeScript saves more time in the long run than developing in a dynamically typed language where you have to compensate with additional testing.
+1.6. Pro: TypeScript helps you to avoid type errors that may be hidden deep within an application.
+1.6.1. Con: If your application relies on JavaScript libraries without type support, no type errors will be available around that code and this could cause some misunderstanding.
+1.7. Con: JavaScript is supported natively by all major browsers without compilation and it is the standard way to interact with the DOM
+1.7.1. Con: TypeScript is a superset of JavaScript and therefore uses the very same JavaScript standards for interacting with the DOM.
+1.7.1.1. Con: TypeScript requires compilation to work in browsers, JavaScript doesn’t
+1.7.1.1.1. Con: JavaScript needs compilation, too \(The browser does it for you\). And when you wrote bad JavaScript code \(through wrong typing\), it could perform badly when it is executed.
+1.8. Con: Syntax familiarity with C# and Java may favor an inexact understanding of language and runtime semantics, fostering misuse and subtle bugs
+1.8.1. Con: JavaScript's syntax is similar to C#'s
+1.9. Con: TypeScript has less adoption and is thus riskier for the business
+1.9.1. Pro: TypeScript having less adoption poses a greater risk of support being discontinued as time passes.
+1.9.1.1. Con: TypeScript is supported by a major company \(Microsoft\) with a vested interest \(VSCode/Azure\) in maintaining for a long time and a track record of continuing support well into the future.
+1.9.2. Pro: TypeScript having less adoption implies fewer trained employees available
+1.9.3. Pro: JavaScript has Microsoft, Google, Apple, Mozilla, Facebook as its stakeholders
+1.9.3.1. Con: Microsoft is the developer of Typescript
+1.9.4. Con: Less adoption leads to higher wages for Typescript experts.
+1.10. Con: As a superset of JavaScript, TypeScript is more complex and requires understanding additional notions.
+1.10.1. Pro: Typescript offers things that JavaScript is incapable of doing \(like private scope\) and abstracts these things in ways that may have impact on consumers downstream. For example, private variables are publicly accessible in compiled TypeScript JavaScript code.
+1.10.2. Pro: Many of the super set features are not supported by JavaScript and require either complex patterns or a loosening of the implied strength. This could have unintended consequences for consumers of the compiled code. For example, type checking is a compile time construct and not found at all in the compiled code.
+1.11. Pro: Static typed languages can be maintained more easily as the code contains all necessary information about every variable at each point in time.
+1.11.1. Con: Statically typed languages lack clean support for variables that need to support multiple types. I.e a variable can either be one type or any type, there is no middle ground.
+1.11.2. Pro: Dynamically-typed languages are usually treated as statically-typed anyhow, e.g. by means of third-party tools \(IDEs and QA tools\) that enhance the language with type-annotations \(in doc-blocks\) and static type-inference, etc.
+1.12. Pro: TypeScript makes refactoring much easier.
+1.12.1. Pro: Navigating through code is much easier with an IDE that facilitates type information like VSCode or IntelliJ/WebStorm do.
+1.12.2. Con: Typings, required for clean refactoring are often outdated or not available at all.
+1.13. Con: TypeScript is non-standard \(against ECMAScript\).
+1.13.1. Pro: With TypeScript, you can use many ES6 features but it may not be supported in the target browser.
+1.13.1.1. Con: That may change over time.
+1.13.2. Con: Typescript can compile to different versions of JavaScript by using the compiler's --target argument [Compiler options reference](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+1.14. Con: Tooling is required.
+1.14.1. Pro: Most popular frameworks have CLI tools that will setup TypeScript for you
+1.14.2. Con: Most large projects will already have tooling, or would benefit from tooling.
+1.14.2.1. Con: Tooling imposes increased complexity.
+1.14.2.1.1. Con: Tooling around TypeScript has matured greatly recently
+1.15. Pro: TypeScript improves the discoverability of \(typed\) library APIs.
+1.15.1. Con: Type files are often outdated or not provided at all.

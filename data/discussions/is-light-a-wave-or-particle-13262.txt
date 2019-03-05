@@ -1,0 +1,18 @@
+Discussion Title: Is light a wave or particle?
+
+1. The true nature of light is particle.
+1.1. Con: Light is not a particle because light under goes reflection, refraction, and diffraction.
+1.2. Pro: Light is made up of particles because of the evidence presented from Bartholin´s crystals. He found that when an image is placed behind a crystal, the image is duplicated, and it led him to conclude that something in the crystal split the image into two different rays.
+1.3. Pro: The diffraction of light seen in prisms could be explained if light was made up of particles because waves don't travel in straight lines. Newton also proved that prism weren't corrupting the light as would be the case if it was a wave by demonstrating 2 prisms can take apart and put back together light. Newton also proved each color of light had a unique refraction angle as in particles.
+1.4. Pro: Light is particle because waves don't travel in straight lines. Newton's experiment showed that the color spectrum is not only a product of glass refracting the light. Light is composed of colored particles that combine to appear white.
+1.5. Pro: Light is a particle because Max Planck, a German physicist studied the photoelectric effect and found that certain types of metal and other materials will eject electrons when light shines on them. This supports Newton`s theory when he said that color is a property of light that reflects from objects, not a property of the object themselves.
+1.6. Con: Many scientists have proven that light is a wave through various means.
+1.6.1. Pro: Dutch physicist Christian Huygens established the wave theory of light \(Huygens' principle\). It states that every point on a wavefront is a source of wavelets.
+1.6.2. Pro: French physicist Augustin-Jean Fresnel asserted that light waves have short wavelength and mathematically proved light interference.
+1.6.3. Pro: English physicist Thomas Young calculated light's wavelength from an interference pattern, thereby not only figuring out that the wavelength is 1 μm. He found the truth that light is a transverse wave.
+1.7. Con: Light undergoes interference in the same manner as any wave.
+1.8. Con: Light does not just stop when it reaches the end of a medium. Rather, light will under go certain behavioral changes when it reaches the end of a medium.
+1.8.1. Pro: Light is a wave because of a fatal flaw disproving the particle theory. When a slit is cut through a paper and light is shown through it, and if a point source of light were blocked by a perfect circular disk, it would produce a bright spot at the center of a shadow.
+1.9. Pro: Waves tend not to travel in straight lines, yet light does. Therefore light behaves more like a particle in regard to its movement.
+1.10. Con: Light does not posses volume or mass so it is therefore not a particle. An object must possess these qualities to be considered a particle. Light does not.
+1.11. Con: Light is a wave. In the electromagnetic spectrum, visible light is the wavelength of a wave between 400 - 750 nm.

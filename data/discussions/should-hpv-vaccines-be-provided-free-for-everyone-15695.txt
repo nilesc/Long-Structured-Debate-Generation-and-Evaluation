@@ -1,0 +1,34 @@
+Discussion Title: Should HPV vaccines be provided free for everyone?
+
+1. Should HPV vaccines be provided free for everyone?
+1.1. Con: HPV vaccines are fairly affordable starting from [$30](https://www.cdc.gov/vaccines/programs/vfc/awardees/vaccine-management/price-list/index.html).
+1.1.1. Con: If HPV vaccines are already affordable in the private sector, it should be easy for the government to provide them.
+1.2. Con: People should be taught to be more proactive in their health by avoiding HPV rather than getting a vaccine.
+1.2.1. Con: HPV is so prevalent in society that avoiding it is impossible. About 80% of all Americans currently have HPV.
+1.2.2. Con: Education on HPV can coincide with providing the vaccine, for those most at risk.
+1.2.3. Con: People should be taught to be proactive, but being proactive does not exclude getting vaccinated.
+1.2.4. Con: Newborns can [contract HPV](https://www.livestrong.com/article/497936-the-effects-of-hpv-on-newborn-infants/) during the delivery process. Since it is unavoidable in these cases, the vaccination should be made available to women of childbearing age.
+1.3. Pro: Since it is so [easy and prevalent](https://www.mayoclinic.org/diseases-conditions/hpv-infection/symptoms-causes/syc-20351596) to get HPV, it should be given with the rest of the vaccines at a really young age.
+1.4. Pro: HPV is a harmful virus.
+1.5. Con: There will be a large cost to the government.
+1.5.1. Pro: HPV vaccines won't be free, as someone has to pay for them to be provided.
+1.5.1.1. Pro: Taxpayers would have to fund some, if not all of this sort of program.
+1.6. Con: Enough people already receive it.
+1.6.1. Con: There is a very large portion of the population that does not receive the vaccination, which translates to millions of people living in the United States.
+1.6.2. Con: There are 527,000 new cases of cervical cancer a year, with HPV being a major cause. This means many people are not receiving the vaccine, which can prevent such occurrence.[HPV and Related Diseases Report](http://www.hpvcentre.net/statistics/reports/XWX.pdf)
+1.6.2.1. Con: The current incidence of cervical cancer is not reflective of the efficacy, or even the uptake, of the HPV vaccine, which has only been on the market for 12 years. The [estimated time](https://www.webmd.com/sexual-conditions/hpv-genital-warts/cervical-cancer-hpv-what-women-girls-should-know#1-4) from infection with HPV to development of cervical cancer is over 20 years.
+1.6.3. Pro: HPV is not a big enough issue to expend public resources in order to increase uptake of the vaccine.
+1.6.3.1. Con: HPV is one of the leading causes of Cervical cancer, which is the 4th most common cancers for women. If everyone received an effective vaccine for HPV we could eliminate hundreds of thousands, perhaps millions of cases of cervical cancer every year.
+1.7. Con: The cost of the vaccine is [not the major determinant](https://www.cbsnews.com/video/fewer-children-getting-hpv-shot-than-other-vaccines/) of most HPV vaccine refusal.
+1.7.1. Pro: In the U.S., HPV is already [covered](https://www.cancer.org/cancer/cancer-causes/infectious-agents/hpv/hpv-vaccines.html) by most major insurance companies, Medicaid, and the Vaccines for Children \(VFC\) program.
+1.7.2. Pro: Pediatricians' failure to strongly recommend the vaccine, and parents' misconceptions about the vaccine, are the main [factors](https://www.cbsnews.com/news/hpv-vaccination-cancer-prevention-dr-tara-narula/) in HPV vaccine refusal, even where the vaccine is covered by third-party payers.
+1.8. Pro: It will benefit the poor disproportionately.
+1.8.1. Pro: HPV rates are [highest](http://www.health.com/news/hpv-vaccine-rates-highest-in-poor-and-hispanic-communities-study) in poor and Hispanic communities.
+1.9. Pro: It will increase awareness of the vaccine.
+1.10. Con: Vaccines can be harmful.
+1.10.1. Con: Vaccines are not harmful. At most, side effects from vaccines are found among newborns and young children & they are mild - yet it is statistically proven that vaccines are efficient and help a ton on health issues. ["Fact or Fiction?: Vaccines Are Dangerous"](https://www.scientificamerican.com/article/fact-or-fiction-vaccines-are-dangerous/)
+1.10.2. Con: -> See 1.4.
+1.11. Pro: It will encourage men to receive it.
+1.11.1. Con: This assumes men aren't getting the vaccine because of cost, which isn't the case.
+1.11.2. Pro: For society to reduce the prevalence rate of HPV it has to get rid of the [natural virus reservoir](https://en.wikipedia.org/wiki/Natural_reservoir) in the male population. Therefore, it makes sense to provide it for both sexes for free.
+1.11.2.1. Pro: HPV is [present](https://www.aafp.org/news/health-of-the-public/20170418hpvrates.html) in a large portion of sexually active men and women in America. There is a threat of chronic disease to a very large portion of the population.

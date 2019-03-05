@@ -1,0 +1,17 @@
+Discussion Title: Does the US need to fix its Patenting System?
+
+1. The US patenting system needs reform.
+1.1. Pro: Patent litigation is less effective in the US compared to other countries.
+1.1.1. Pro: While [patent litigation](http://www.ipwatchdog.com/2018/03/01/u-s-patent-system-americas-decline-competitiveness/id=94249/) in the US often takes up to 5 years to process, China takes about 10 months to resolve patent infringement lawsuits.
+1.1.2. Pro: Patent litigation is often more expensive in the US, running to million of dollars, than in other countries. In China, for instance, litigation costs run at approximately [$200,000](http://www.ipwatchdog.com/2018/03/01/u-s-patent-system-americas-decline-competitiveness/id=94249/).
+1.2. Pro: The US patent system has fallen to [12th place](http://www.ipwatchdog.com/2018/02/08/u-s-patent-system-falls-12th-place-chamber-global-ip-index-2018/id=93494/) worldwide.
+1.2.1. Con: That is still in the top 6% globally \(out of 195 countries\), which suggests that the system is not doing that badly, comparatively.
+1.3. Con: The US [is one of the most active](https://en.wikipedia.org/wiki/World_Intellectual_Property_Indicators) countries in patent filings.
+1.3.1. Con: The US' prominence in filing patents is due to historic data. Looking at the rate at which other countries are growing in patent filings, such as [China](http://thehill.com/opinion/technology/360963-a-simple-way-to-make-america-great-is-fixing-our-patent-system), shows that the modern-day situation leaves the US lagging behind.
+1.4. Pro: The current patent system is harming the development of innovative products in the US.
+1.4.1. Pro: Major companies in the US are [spending more](https://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html?pagewanted=all) on patent lawyers than research and development.
+1.4.2. Pro: The US has fallen bellow the [top ten](https://www.bloomberg.com/news/articles/2018-01-22/south-korea-tops-global-innovation-ranking-again-as-u-s-falls) innovative countries in the world.
+1.5. Pro: Under the current system, it is easy for big companies to silence small innovators using expensive patent battles.
+1.5.1. Pro: Nuance, a large voice recognition firm, [launched](https://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html?pagewanted=all) a patent suit that cost $3 million against a much smaller firm, Vlingo. Despite winning the case, Vlingo had to shut down and sell its technology to Nuance, as the legal fees made the company bankrupt.
+1.6. Con: [IP-intensive industries](https://www.uspto.gov/about-us/news-updates/examination-software-patents) in the US support at least 40 million jobs and contribute more than $5 trillion to the economy, which suggests they are not suffering under the patenting system.
+1.7. Con: Investors are less likely to stick around if they feel like intellectual property is not protected well.

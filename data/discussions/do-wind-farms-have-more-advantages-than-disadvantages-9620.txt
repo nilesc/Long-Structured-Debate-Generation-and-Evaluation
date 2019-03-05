@@ -1,0 +1,48 @@
+Discussion Title: Do wind farms have more advantages than disadvantages?
+
+1. Wind farms have more advantages than disadvantages.
+1.1. Pro: Wind farms are significantly better for the environment than other means of sourcing energy.
+1.1.1. Pro: The burning of coal produces air pollution that kills people world-wide each year.
+1.1.1.1. Pro: In the US, there are between [7,500 and 52,000](https://www.scientificamerican.com/article/the-other-reason-to-shift-away-from-coal-air-pollution-that-kills-thousands-every-year/) people a year who die because of small particles in the air from coal power plant emissions.
+1.1.2. Con: Nuclear energy is much better for the environment than wind energy.
+1.1.2.1. Pro: Wind farms disturb bat and bird populations while nuclear powers plant do not.
+1.1.3. Con: Solar farms are better, as they do not need massive construction works.
+1.1.3.1. Pro: They can be built in many places without strong geographical constraints that wind turbines have \(Such as [military radars](http://www.ncsl.org/documents/environ/SRasmussen0410.pdf). the protection of [bird migrations](http://www.advantagesofsolarenergy4all.com/disadvantages-of-wind-energy.html), or having strong wind requirements\).
+1.1.3.1.1. Con: Compared to solar photovoltaic installations, wind farms take up much less land surface \(and probably require less steel and other materials\).  For example, a single modern 3.6MW wind turbine will generate a similar amount of renewable electricity as a solar farm of about 23,000 panels.
+
+\(Australian wind turbines have a capacity factor of around 35%, solar panels about 18%; a single solar panel has an installed capacity of about 300 Watts.\)
+
+[www.ramblingsdc.net](http://www.ramblingsdc.net/Australia/WindPower.html#Capacity_factors_of_wind_farms-graph)
+
+My own solar PV has given 17% CF.
+1.1.3.1.2. Pro: The construction of wind turbines causes environmental damage.
+1.1.3.1.2.1. Pro: Wind turbines require access roads and hard-stands, which can be built over previously uncorrupted natural settings.
+1.1.3.1.2.2. Con: Every form of obtaining useful energy cause environmental damage. We need to evaluate which causes less damage and will last longer
+1.1.3.1.2.3. Con: Wind turbines in use avoid CO2 emissions. Without wind turbines, we would use more fossil fuel and the environmental damage would be much worse.
+1.1.3.1.3. Con: We shouldn't rely on only one type of energy source, especially ones who rely on climate properties such as sunlight and wind. They should be complementary.
+1.2. Pro: Wind power displaces fossil-fuelled power stations and thereby reduces greenhouse emissions.
+1.2.1. Con: Wind farms don't supply constant [base-load](https://en.wikipedia.org/wiki/Base_load) power like fossil-fuel plants do, and so only viably displace a portion of them.
+1.3. Con: Wind turbines make noise and the noise annoys people.
+1.3.1. Con: Cities are also rife with noise pollution, yet we build them anyway because they help societies to progress. Wind farms are much the same.
+1.3.2. Pro: There is [evidence](https://www.forbes.com/sites/judeclemente/2015/09/23/do-wind-turbines-lower-property-values/2/#192c3bae5f1c) that nearby wind farms reduce property values.
+1.3.3. Con: From 100 meters distance a wind turbine can be [less noisy](http://blogs.northcountrypublicradio.org/inbox/files/2012/07/turbinenoise.jpg) than a  [combustion vehicle](https://www.matec-conferences.org/articles/matecconf/pdf/2017/21/matecconf_dyn2017_00072.pdf).
+1.4. Con: -> See 1.1.3.1.2.
+1.5. Pro: Wind turbines on the horizon are a much more attractive sight than chimneys from power plants
+1.6. Pro: Wind farms [kill fewer birds](http://theconversation.com/wind-farms-are-hardly-the-bird-slayers-theyre-made-out-to-be-heres-why-79567) than fossil fuel power plants.
+1.6.1. Con: Wind farms kill less birds then buildings
+1.7. Con: Wind farms alter local climates, as big wind farms can slow wind [up to 40%](http://www.lowtechmagazine.be/2010/02/windschaduw-van-windturbines-en-windparken.html), depending on farm density.
+1.8. Con: Wind turbines, by their nature and their necessary positioning are conspicuous.  Some people don't like the look of wind turbines.
+1.8.1. Con: The appearance of a wind turbine is debatable, but it is important to realize the big picture. Without effective measures of renewable energy, the world as we know it could cease to exist. A small sacrifice in the present could reap greater benefits for the future.
+1.8.2. Con: Some people don't like the looks of fossil fuel power plants either. The looks should be less important than the environmental impact.
+1.9. Con: wind turbines suffer from [intermittency](https://blogs.scientificamerican.com/plugged-in/renewable-energy-intermittency-explained-challenges-solutions-and-opportunities/) and is not reliable as a primary power source.
+1.9.1. Con: It is not impossible to compensate for the additional intermittency and uncertainty. In fact, many of the [strategies](https://blogs.scientificamerican.com/plugged-in/renewable-energy-intermittency-explained-challenges-solutions-and-opportunities/) to overcome renewable variability are simple.
+1.9.1.1. Pro: In Denmark more than 43 % of electricity production is provided by turbines and solar power - and intermittency is handled while keeping the overall cost at a minimum.
+1.10. Pro: Wind farms provide employment for people in rural areas.
+1.10.1. Pro: Rural areas often lack sufficient [employment opportunities.](https://en.wikipedia.org/wiki/Rural_poverty)
+1.10.1.1. Con: In the EU, there was almost [no difference](http://ec.europa.eu/eurostat/statistics-explained/index.php/Statistics_on_rural_areas_in_the_EU#Labour_market) between employment rates in rural areas, cities and towns or suburbs.
+1.10.2. Pro: The construction of wind farms provides business opportunities for local contractors; earth-movers, quarries, transport companies, etc.
+1.10.3. Con: The negative effects that wind farms are having on the coal industry is [costing jobs.](http://time.com/coals-last-kick/)
+1.10.4. Pro: Skilled labor follows opportunity.  A change in focus on rural economies from natural resource use to energy use can lead to a better trained workforce.
+1.11. Con: The increased use of rural roads during wind farm construction can cause dust problems and wear-and-tear.
+1.11.1. Con: This is just a temporary inconvenience. The benefits of using wind power instead of fossil fuels will last for decades, and outweigh that inconvenience.
+1.11.2. Con: Every power generating facility has to be built: coal plants are also build in rural environments. Those fossil fuel plants need infrastructure to get their fuel, increasing dust problems and wear-and-tear.

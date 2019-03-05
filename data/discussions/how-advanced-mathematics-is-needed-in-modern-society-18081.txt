@@ -1,0 +1,72 @@
+Discussion Title: How advanced mathematics is needed in modern society?
+
+1. What degree of mathematical knowledge is needed for a member of modern society?
+1.1. Operations on real numbers \(addition, subtraction, fractions\).
+1.1.1. Pro: These operations are necessary to manage own finance.
+1.1.2. Pro: These operations are the entry-point to one's logic development.
+1.1.3. Pro: These operations are needed for basic social interactions, such as on markets or to calculate distances.
+1.2. Geometry and spatial geometry.
+1.2.1. Pro: Using geometry you may calculate how much pizza you get for an amount of money it costs.
+1.2.1.1. Con: This is a very overcomplicated way to determine a very simple problem.
+1.2.2. Pro: It enhances imagination.
+1.2.3. Pro: Geometry helps to read maps.
+1.2.3.1. Pro: It allows to understand spherical coordinates used to describe positions on Earth.
+1.2.3.2. Pro: It shows how the shortest paths on Earth are determined by geodesics.
+1.2.3.3. Pro: It's harder to believe in flat Earth, if you know geometry.
+1.2.3.4. Con: In small scale maps are intuitive tools, and don't require mathematical knowledge to understand and use them.
+1.2.4. Pro: It can help in the process of developing artistic appreciation.
+1.3. Set theory and logic.
+1.3.1. Pro: This may improve the quality of discussions.
+1.3.2. Con: Theory and logic can be developed without mathematics, but through other reasoning skills.
+1.3.2.1. Con: Intuitive reasoning without formal mathematical logic may lead to [fallacies](https://www.socialpsychology.org/teach/wason.htm).
+1.3.2.2. Pro: The main content of the formalism in mathematical logic can be acted out as patterns in speech by practice in intellectual discussion and conversation without the need of direct study of this subject \(it might be more effective this way\).
+1.4. Probability and basic statistics \(e.g. used in risk management\).
+1.4.1. Pro: This may help to understand risk.
+1.4.2. Pro: It may help understand insurance.
+1.4.3. Pro: Required to understand and make accurate predictions.
+1.4.4. Pro: It will help understanding how studies are performed in medicine, psychology, etc., thus reducing the negative impact of misinformation about these important subjects.
+1.5. Not all members of society are the same, every member needs different degree of mathematical knowledge. I belive that some members dont need any, they can rely on computers or calculators.
+1.5.1. Con: The biggest positive of mathematical knowledge isn't ability to do calculations, but ability to better understand and conceptualise the world around you. Computers can't do that for people.
+1.5.2. Pro: The important thing is not whether you need it, one can almost always improve life conditions through mathematical knowledge and live without any knowledge at all. The main factor is whether the given member of society has the capacity to understand certain parts of mathematics or not.
+1.5.3. Con: Relying on the salesperson's calculator can sometimes be a mistake. If you don't have a rough idea of how much change you are going to get, by using addition and subtraction in your head, then you may lose money if the salesperson cheats you.
+1.6. Formalising real world problems and how to come up with solutions. It's a soft skill integral to mathematics.
+1.6.1. Pro: Problem solving mindset is useful for everybody.
+1.7. Understanding mathematical models \(e.g. used in economics\).
+1.7.1. Pro: Mathematical models simplify and help visualize how a system works.
+1.7.2. Con: Those who do not specialise in these areas will have minimal need for it.
+1.7.3. Pro: Thorough public understanding of the mechanisms of systems such as economics would mitigate the effect of misinformation in politics and create a more informed voting base.
+1.8. Understanding functions and fuctional relationships \(e.g. used in physics and computer science\)
+1.8.1. Con: Not required for most jobs.
+1.8.2. Pro: Required for some jobs.
+1.8.2.1. Pro: Required to write code.
+1.8.3. Con: Not required in everyday life.
+1.8.3.1. Con: It is not because you don't use them directly that you don't need them in everyday life. Your computer, phone uses them a million times a minute. Banks and the goverment use them for a lot of things. Other science fields like engeneering and biologie use them. The internet is depandant on them.
+1.8.4. Pro: Many everyday phenomena exhibit functional relationships.
+1.8.4.1. Pro: For instance number of people on the beach as a function of weather \(temperature\).
+1.8.4.2. Pro: Price of seasonal fruits depending on time of year.
+1.8.4.3. Con: While true, this is rarely something needed. Lack of understanding of such phenomena is rarely a barrier in one's everyday life.
+1.8.5. Pro: Functions are important in programming.
+1.8.5.1. Pro: Programming skills are becoming more and more common.
+1.8.6. Pro: Important to learn to code.
+1.9. Basics of differential calculus \(e.g. used in finding optimal values\).
+1.9.1. Pro: It is necessary to understand how rates of change work.
+1.9.2. Pro: Calculus is important in understanding physical phenomena.
+1.9.3. Pro: Calculus is important for solving optimization problems, which are at the heart of economics and other practical human endeavors.
+1.9.4. Pro: Derivatives are a protagonist of the subject of \(ordinary and partial\) differential equations and dynamical systems, which, apart from their obvious applications to physics, can be used to model the evolution of many complex systems.
+1.10. Ability to prove mathematical conjectures.
+1.10.1. Pro: It enhances creativity.
+1.10.2. Con: This assumes any interest or necessity to consider mathematical conjectures.
+1.10.3. Pro: The proof of a mathematical theorem can lead to real world applications, or, if the theorem is more abstract, can be used to later prove another theorem which can have real world applications.
+1.10.3.1. Con: When you want to advance society in any manner you need a specific target to aim. Proving mathematical theorems under the excuse that it could eventually become a useful tool is far from optimal.
+1.11. Designing and understanding algorithms.
+1.11.1. Pro: Algorithms have broad application in computer science.
+1.11.2. Pro: Algorithms designing is required to reproduce a result.
+1.11.3. Con: These are only used by those in industries that directly call for it - the vast majority of people will have no direct need for such mathematics.
+1.11.3.1. Con: The increase in automation is reducing in an accelerated fashion those jobs that do not require the production of complex algorithms \(via direct coding or by complex problem solving\).
+1.11.3.2. Con: Advanced algorithms are a big part of our every day life, we just can't see them. Think about google search, end almost every thing you do on any kind of computer. Also the banks and goverment is dependant on it.
+1.11.4. Pro: Algorithms design can shape \(even if unconsciously\) the way we think and can help in deciding which thought processes are well formed and which are not. This is similar to what happens to brains after reading literature or essays in a critical way.
+1.11.5. Con: Algorithms are causing serious social problems, e.g. [algorithmic discrimination,](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencin) thus teaching to design algorithms without criticizing them might be harmful.
+1.11.5.1. Pro: This is a consequence of not realizing that algorithms are a form of speech \(one of the most powerful ones\) and should therefore be embedded in dialectic dynamics.
+1.11.5.2. Con: Algorithms drive a lot of profit for many companies. And those [companies have many, often well paid, employees.](http://www.bayareacouncil.org/community_engagement/new-study-for-every-new-high-tech-job-four-more-created/)
+1.11.6. Pro: Algorithms production constitute the fastest way to democratize solutions to problems. Once you got the algorithm then it can be implemented by everyone!
+1.11.7. Pro: Some current artistic fields generate their products partly by designing algorithms, e.g animations.

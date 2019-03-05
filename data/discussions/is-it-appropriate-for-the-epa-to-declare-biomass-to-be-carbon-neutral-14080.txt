@@ -1,0 +1,35 @@
+Discussion Title: Is it appropriate for the EPA to declare biomass to be carbon neutral?
+
+1. It is appropriate for the EPA to declare biomass to be carbon neutral.
+1.1. Con: While biomass itself doesn't net add to the carbon in the atmosphere, burning it does, since the biomass is not put back into circulation.
+1.1.1. Pro: The [harvest of biomass](https://www.nature.com/articles/srep15991) releases huge amounts of carbon from the soil that takes centuries to replenish. Additionally, conventional intensive logging [promotes](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13387) loss of organic carbon from the mineral soil and there's several other [effects](https://www.sciencedirect.com/science/article/pii/S0378112715002881) occurring.
+1.2. Con: This would make sense if one could leave a tree in the forest and burn it too. But one cannot.
+1.2.1. Con: It makes sense in a circular pattern: A tree is planted in field A and one is cut down in field B. Then a new one is planted in field B and one is cut down in field C. Finally a tree is planted in C, and cut the tree in A, then back to planting a new one in A so the loop is closed.
+1.3. Con: The forest may not regrow like proponents claim it will.
+1.3.1. Con: Forest areas are growing in the US from [733 mn acres](https://www.fia.fs.fed.us/library/brochures/docs/2012/ForestFacts_1952-2012_English.pdf) in 1987 to 766 mn acres in 2012.
+1.3.2. Pro: The soil which trees grow from could be ruined in the process of cutting down the trees.
+1.4. Pro: The EPAs decision is consistent with the current US administration's stance.
+1.4.1. Pro: [The Trump administration](https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration) has generally sought to increase fossil fuel usage and remove environmental regulations. Declaring biomass as carbon neutral enhances their ability to continue in that policy direction.
+1.4.2. Con: If it has negative consequences on nature, it shouldn't matter whether or not it's consistent with the US administrations stance on the environment, it's bad regardless.
+1.5. Con: There's a lot of science which suggests that biomass isn't carbon neutral.
+1.5.1. Pro: [Biomass](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13387) comes from logging which causes massive [soil carbon losses](https://www.nature.com/articles/srep15991), therefore biomass is not carbon neutral.
+1.5.2. Pro: The policy memo declaring forest biomass to be carbon neutral also states “it is not scientifically valid to assume that all biogenic feedstocks are carbon neutral”.
+1.5.3. Pro: Transporting forest biomass to a power facility will increase carbon emissions.
+1.5.3.1. Con: This can be avoided by using electric vehicles or even by transporting biomass in such quantity that would produce more energy than the energy consumed by transportation so it could use biofuel.
+1.5.4. Pro: According to the [Scientific American](https://www.scientificamerican.com/article/epa-declares-biomass-plants-carbon-neutral-amid-scientific-disagreement/), the agency "went out of its way to note that the decision isn’t based on a scientific determination.".
+1.6. Pro: As the forest regrows, it will act as a carbon sink.
+1.6.1. Con: The forest would perform that function even better if it wasn't cut down for burning it in the first place.
+1.6.2. Con: A planted forest doesn't absorb as much carbon as the pristine forest that has been cut down before in its place.
+1.6.3. Con: This ignores the fact that massive amounts of [soil carbon](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13387) are lost from [biomass harvest](https://www.nature.com/articles/srep15991).
+1.6.4. Con: It takes a lot of time for the forest to regrow.
+1.7. Pro: The EPA's policy position creates clarity and certainty for the industry.
+1.7.1. Con: Adding clarity and certainty to the industry is not desirable if it comes at the expense of the well-being of an already deteriorating environment.
+1.8. Con: According to [NRDC](https://www.nrdc.org/stories/scott-pruitt-wants-personally-decide-which-science-valid), Scott Pruitt is dismissing science for the benefit of industry.
+1.8.1. Con: Prioritizing the industry can be a legitimate choice.
+1.9. Pro: According to a large group of scientists signing a [letter](https://yosemite.epa.gov/sab/sabproduct.nsf/5CD1E1184181455E85257F7F005B2F12/$File/NARFU+FINAL+SAB+March2016+Letter.pdf) to the EPA in 2016, the "carbon benefits of sustainable forest biomass energy are well established.".
+1.9.1. Con: Sustainable forest biomass energy usage is not the same as biomass energy. Sustainable usage is almost by definition carbon neutral, so this does not come as a surprise. The question is whether biomass energy is always sustainable, and it just isn't.
+1.9.2. Con: This is untrue, [biomass](https://www.sciencedirect.com/science/article/pii/S0378112715002881) harvests release huge amounts of soil [carbon](https://www.sciencedirect.com/science/article/pii/S0378112715002881) and are net sources of atmospheric carbon.
+1.10. Pro: The European Union maintains a policy that establishes biomass to be carbon neutral.
+1.10.1. Con: The EU is wrong. They are not a climate or energy research organisation, they are a system of money and power.
+1.10.2. Con: This policy, like the EPA's, is also not based on the clear science that shows biomass is a huge carbon source, see [this study](https://www.sciencedirect.com/science/article/pii/S0378112715002881), and [this](https://www.nature.com/articles/srep15991), and [this](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13387).
+1.10.3. Pro: Having a similar political stance on issues such as this makes it easier for the US to maintain and possibly improve relations with the EU.

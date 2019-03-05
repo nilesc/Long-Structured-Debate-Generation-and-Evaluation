@@ -1,0 +1,24 @@
+Discussion Title: Do ICOs provide a better investment option for small investors than other options such as stocks and bonds?
+
+1. An ICO is a better investment option for small investors than other options.
+1.1. Con: [ICOs](https://en.wikipedia.org/wiki/Initial_coin_offering#Criticisms) are controversial.
+1.1.1. Pro: ICOs can be used for fraud
+1.1.1.1. Pro: [ICOs are very high risk](https://en.wikipedia.org/wiki/Initial_coin_offering) and speculative investments; they are scams in some cases and often offer no protections for investors.
+1.2. Pro: It is easier to trade tokens obtained from an ICO, compared to selling an angel share in a startup that is pre-IPO.
+1.3. Con: Most ICOs do not have strings attached in the form of performance targets for the company issuing the tokens
+1.4. Con: Tax implications are unclear for holders of tokens
+1.5. Con: Unlike stocks, most tokens obtained from ICOs do not represent shares in a company.
+1.6. Pro: Once tokens are obtained and managed in a wallet, there are in most cases no costs associated with holding the tokens there for an extended period of time - contrary to the costs for keeping stocks charged by many stock brokers
+1.7. Con: At the time of the ICO sale, the performance of the company in the ICO is yet unclear.
+1.8. Con: ICOs are less regulated than stocks and bonds.
+1.8.1. Pro: Stock- and shareholders can more easily hold those who they invested in accountable than ICO investors.
+1.8.2. Pro: The lack of regulation means that it is easier to get away with using ICOs for fraud.
+1.9. Pro: Some ICOs have shown spectacular ROIs in short periods of time.
+1.9.1. Con: Many tokens have lost tremendously in [value](https://www.coinist.io/roi/), such as BOLENUM or DIMCOIN.
+1.9.2. Con: For an uninformed investor it is very difficult to identify differences between different coins and their potential.
+1.9.2.1. Pro: There is a long-standing expert discussion whether Bitcoin or BitcoinCash is the 'real' bitcoin.
+1.10. Pro: Small investors get access to investment opportunities that would otherwise not be available to them.
+1.10.1. Pro: Having a larger number of investors who are incentivised to promote a company means that the company will enjoy a higher volume of referrals and other viral beneftis
+1.11. Pro: ICO investments can be kept private when using pseudo-anonymous tokens instead of fiat currencies to fund them.
+1.12. Con: The regulatory environment is unclear, making ICOs a more risky investment.
+1.13. Con: It is often unclear why the product of the company releasing the ICO requires their own token.

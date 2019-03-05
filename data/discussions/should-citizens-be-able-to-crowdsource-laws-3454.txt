@@ -1,0 +1,255 @@
+Discussion Title: Should citizens be able to crowdsource laws?
+
+1. Citizens should be able to crowdsource the laws in their nation - collaborating and debating their language online. \(The ratification of laws online is not necessarily implied - just online co-creation of proposed legislation\).
+1.1. Con: Citizens lack the knowledge and skills to draft good laws.
+1.1.1. Pro: Citizens lack information on subject matters.
+1.1.1.1. Pro: The reason we have elected officials in the first place is so that the vast majority of people do not have to spend time becoming experts on every issue of political import.
+1.1.1.2. Pro: It is only rational for voters to remain ignorant and uninformed; this is not the result of stupidity. As individual votes have no chance of swaying decisions and as the costs of becoming informed can be enormous, there is little incentive to do so \([Rauch/Wittes, p. 5](https://www.brookings.edu/wp-content/uploads/2017/05/more-professionalism-less-populism.pdf)\).
+1.1.1.3. Con: There is little reason to assume that politicians' opinions are necessarily more informed than those of average voters.
+1.1.1.3.1. Pro: As of last year, [a third](https://thinkprogress.org/most-americans-disagree-with-their-congressional-representative-on-climate-change-95dc0eee7b8f#.ghff9qph6) of the members of the US congress were denying the man-made nature of climate change, against the overwhelming scientific evidence.
+1.1.1.3.1.1. Con: A reason for many US politicians' denial of man-made climate change is very [effective lobbying](https://en.wikipedia.org/wiki/Climate_change_denial#Lobbying) and not the general lack information and knowledge.
+1.1.1.3.1.2. Pro: Parts of the Republican Party regard the protection of fossil energy as an [ideological goal](http://www.rollingstone.com/politics/features/why-republicans-still-reject-the-science-of-global-warming-w448023). Therefore, they reject the scientific evidence of man-made global warming.
+1.1.1.3.2. Con: Politicians have access to research and information services that ordinary citizens do not have.
+1.1.1.3.2.1. Con: The notion that representatives have a significant knowledge gap over the general populace is certainly true for a large majority of the functions of government. However, decisions that could be brought to referendums are the most important issues, ones which we should expect people to know and be informed about.
+1.1.1.3.2.1.1. Pro: Having regular referendums, or at least the knowledge that they might occur, encourages people to be informed on major issues, as they might have to weigh in on them.
+1.1.1.3.2.1.1.1. Con: If referendums become a routine occurrence, their special status will diminish and many citizens will stop preparing for them.
+1.1.1.3.2.1.1.1.1. Pro: Frequent referendums lead to voter fatigue and make elections seem less important, thereby [harming voter turnout.](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=RESConf2016&paper_id=1009)
+1.1.1.3.2.1.1.1.1.1. Pro: Although Switzerland holds [more referendums](http://www.radioaustralia.net.au/international/2014-09-18/6-things-you-need-to-know-about-referendums/1369335) than any other country, its voter turnout in elections \(at around 50% or less\) is among the lowest in the OECD and has been low for decades \([OECD, p. 97](http://www.oecd-ilibrary.org/docserver/download/8111041ec029.pdf?expires=1486943091&id=id&accname=guest&checksum=705611406CD6C9EC244F6B9C3BE4B9BB)\).
+1.1.1.3.2.1.1.1.1.1.1. Pro: Researchers have established a persistently negative correlation between referendums and the participation in elections for the case of Switzerland \([Freitag/ Stadelmann-Steffen, p. 479](http://www.sciencedirect.com/science/article/pii/S026137941000048X)\).
+1.1.1.3.2.1.1.1.1.1.2. Pro: Voter fatigue and the perception that individual elections do not matter have been proposed as the link between the high number of referendums and the low voter turnout in Switzerland \([Blais, p. 526](http://onlinelibrary.wiley.com/doi/10.1111/spsr.12116/abstract); [Franklin, p. 98](https://books.google.co.kr/books?id=plYRx0sFT-cC&printsec=frontcover&dq=Voter+Turnout+and+the+Dynamics+of+Electoral+Competition+in+established+Democracies+Since+1945&hl=en&sa=X&redir_esc=y#v=onepage&q=Voter%20Turnout%20and%20the%20Dynamics%20of%20Electoral%20Competition%20in%20established%20Democracies%20Since%201945&f=false)\).
+1.1.1.3.2.1.1.1.1.1.3. Con: The low voter turnout in Switzerland has not only been linked to issues relating to the country's frequent referendums, but also the "extraordinary complexity of the political system" \([Blais, p. 526](http://onlinelibrary.wiley.com/doi/10.1111/spsr.12116/abstract)\).
+1.1.1.3.2.1.1.1.1.1.4. Con: A country having a low turnout for elections need not necessarily be a bad thing in the context of a country like Switzerland where voters will maintain the power to influence policy precisely because there are so many referendums.
+1.1.1.3.2.1.1.1.1.2. Con: The effect of voter fatigue can be diminished by holding referendums on the same day as elections, thereby ensuring that people who turn up primarily to vote in referendums will probably also end up voting in elections.
+1.1.1.3.2.1.1.1.1.2.1. Pro: In the United States, research suggests that state-level [ballot initiatives](https://ballotpedia.org/Ballot_initiative) attached to Presidential and Midterm elections increased voter turnout \([Tolbert/Smith, p. 283](http://journals.sagepub.com/doi/abs/10.1177/1532673X04271904)\).
+1.1.1.3.2.1.1.1.1.2.2. Con: The combination of election and referendum has a higher risk that [protest votes](http://aceproject.org/electoral-advice/archive/questions/replies/579640459) against a government have a spillover effect on the referendum, and as a consequence distort the referendum's outcome.
+1.1.1.3.2.1.1.1.1.2.3. Con: In many countries this would significantly decrease the number of opportunities to hold referendums. In Germany, for example, national elections take place only every four years.
+1.1.1.3.2.1.1.1.1.2.3.1. Con: To mitigate that, Germany could arrange to have decisions worthy of a referendum be held midway between national elections. That way, elections would be infrequent enough to avoid fatigue, but more frequent than four years.
+1.1.1.3.2.1.1.1.1.2.4. Con: Holding election and referendum campaigns at the same time will result in citizens being less informed about each vote individually as news coverage will be split between the two campaigns.
+1.1.1.3.2.1.1.1.1.3. Pro: The number of referendums in European countries has been [steeply rising](https://uweserdult.wordpress.com/2012/10/23/national-level-referendum-frequencies-worldwide-by-continent-with-switzerland-singled-out-1792-2010/) during the past decades. At the same time, voter turnout has seen a steady decline \([IDEA, p. 26](http://www.idea.int/sites/default/files/publications/voter-turnout-trends-around-the-world_0.pdf)\).
+1.1.1.3.2.1.1.1.1.3.1. Con: The existence of a correlation between the two does not prove any causation. The decline in voter participation has been linked to many other potential factors, among them the rise of [negative campaigning](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00522.x/full).
+1.1.1.3.2.1.1.1.1.3.1.1. Con: While the negative correlation between the number of referendums and voter turnout in elections does not point to a causation, it nevertheless shows that there is no reason to assume that referendums encourage voting in elections.
+1.1.1.3.2.1.1.1.1.3.2. Pro: The [median turnout](http://www.economist.com/news/europe/21699146-direct-democracy-spreading-across-europe-not-always-good-thing-referendumania) for nationwide referendums in Europe has fallen from 71% in the early 1990s to 41% in the past years.
+1.1.1.3.2.1.1.1.1.3.2.1. Con: This is correlated heavily with the increasing number of referendums. Arguably, then, this simply reflects the fact that once you have more referendums, the marginal referendums are less important and therefore draw lower turnout, meaning that median turnout is lower. So even though median turnout has fallen, turnout could still be high for major referendums, eg [Brexit](http://www.bbc.com/news/politics/eu_referendum/results).
+1.1.1.3.2.1.1.1.1.3.2.1.1. Pro: Additionally, public opposition to referendums could simply be opposition to these marginal extra referendums, rather than to the concept in general.
+1.1.1.3.2.1.1.2. Con: Considering that major referendums are relatively rare and unpredictable, it's doubtful that the possibility of a referendum will be sufficient to encourage voters to be informed about a particular topic.
+1.1.1.3.2.1.1.2.1. Con: Even if they are relatively rare, they tend to be scheduled well in advance giving lots of time for citizens to become informed on the required issues.
+1.1.1.3.2.1.1.2.1.1. Con: Although announced [on time](https://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016), large parts of the [British public](https://www.rt.com/uk/346342-brexit-voters-ignorance-misinformation/) were not well prepared for the "Brexit" referendum and had a misguided perception of the EU, mainly due to ignorance and misinformation, and thus voted to leave.
+1.1.1.3.2.1.2. Pro: In addition to becoming informed, referendums also give citizens an incentive to care because they feel that they have a direct say on the outcome.
+1.1.1.3.2.1.2.1. Pro: When citizens care, they are more likely to criticise their elected representatives when they make poor decisions.
+1.1.1.3.2.1.2.2. Con: -> See 1.1.1.3.2.1.1.2.
+1.1.1.3.2.1.2.3. Con: Referendums provide space for people already interested in politics to become active but do not engage with voters who have little interest in the first place \([Donovan/Karp, p. 684](http://www.jkarp.com/pdf/pp_2006.pdf)\).
+1.1.1.3.2.1.2.3.1. Pro: The patterns of those who vote in referendums and those who don't are identical to those seen in general elections.
+1.1.1.3.2.1.2.3.1.1. Pro: Older people are generally [more interested](http://www.journalism.org/2015/06/01/political-interest-and-awareness-lower-among-millennials/) in politics and more likely to vote, be it in referendums or elections.
+1.1.1.3.2.1.2.3.1.1.1. Pro: In American elections during the past decades, voter turnout has [reliably correlated](http://www.electproject.org/home/voter-turnout/demographics) with age \(the older, the more likely to vote\), education \(the more formal education, the more likely to vote\) and race \(Hispanics are less likely to vote\).
+1.1.1.3.2.1.2.3.1.1.2. Pro: In the UK's 2015 general election, older people were [much more likely](https://www.ipsos-mori.com/researchpublications/researcharchive/3575/How-Britain-voted-in-2015.aspx) to vote than younger people and voters of a high social class were much more likely to turn out than voters of a low social class.
+1.1.1.3.2.1.2.3.1.1.3. Con: In the case of the Scottish referendum on independence in 2014, [surveys](http://www.democraticauditscotland.com/the-independence-referendum-shows-that-young-people-can-be-mobilized-politically-given-the-right-circumstances/) indicate that it sparked a rise in young peoples' political interest, engagement and activism.
+1.1.1.3.2.1.2.3.1.1.4. Con: Surveys [show](http://www.referendumanalysis.eu/eu-referendum-analysis-2016/section-8-voters/did-the-eu-referendum-boost-youth-engagement-with-politics/) that the Brexit referendum of 2016 "stimulated the political interest of Britain’s young people to an extent not seen for some years".
+1.1.1.3.2.1.2.3.1.1.5. Con: Youth turnout in the Brexit referendum was [higher](https://www.theguardian.com/politics/2016/jul/09/young-people-referendum-turnout-brexit-twice-as-high) [than](http://www.if.org.uk/archives/6576/how-high-was-youth-turnout-at-the-2015-general-election) it was in recent national elections.
+1.1.1.3.2.1.2.3.1.2. Con: Referendums tend to mobilize voters who usually do not participate in ordinary elections.
+1.1.1.3.2.1.2.3.1.2.1. Pro: Voter turnout in the Scottish referendum on its membership in the UK was about [70% higher](https://en.wikipedia.org/wiki/Scottish_independence_referendum,_2014) than in [parliamentary elections](https://en.wikipedia.org/wiki/Elections_in_Scotland#Scottish_Parliament) during the past 15 years.
+1.1.1.3.2.1.2.3.1.2.1.1. Pro: Furthermore, [the Scottish Independence Referendum](http://www.referendumanalysis.eu/eu-referendum-analysis-2016/section-8-voters/did-the-eu-referendum-boost-youth-engagement-with-politics/) boosted, at least temporarily, the political engagement of the politically apathetic youth \(18-24 years olds\).
+1.1.1.3.2.1.2.3.1.2.2. Con: In Switzerland, the difference between voter turnout for referendums and elections is marginal. For example, average turnout for national elections is [48.5%](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik.html), while turnout for national referendums is usually [around 45%](https://de.wikipedia.org/wiki/Liste_der_eidgen%C3%B6ssischen_Volksabstimmungen).
+1.1.1.3.2.1.2.3.1.2.2.1. Con: Switzerland is a special case: the country has [more than a dozen](https://en.wikipedia.org/wiki/Swiss_referendums,_2016) referendums in many years, hence not all of them can be expected to be so relevant to large parts of the population that they elicit high turnout.
+1.1.1.3.2.1.2.3.1.2.3. Con: A direct comparison between the turnout for, or interest in, referendums and elections is not valid. Whereas most elections have no consequences of obvious and immediate impact, referendums usually concern policies of self-evident, high and long-term relevance.
+1.1.1.3.2.1.2.3.1.2.3.1. Pro: Additionally, even if the turnout for referendums is higher, that is likely to decrease if more referendums are used.
+1.1.1.3.2.1.2.3.1.2.3.1.1. Pro: -> See 1.1.1.3.2.1.1.1.1.
+1.1.1.3.2.1.2.3.1.2.3.2. Con: Even if it is just because the referendum issues are of high and obvious relevance, the very fact that voters now get a say in those issues increases engagement far more than if a non-responsive government were making decisions about them.
+1.1.1.3.2.1.2.3.1.2.4. Pro: Research conducted in Switzerland indicates that referendums contribute to a political culture in which young people feel confident to vote, and in which young people therefore participate to a higher degree in politics \([Kunz et al, p. 12](http://www.nccr-democracy.uzh.ch/publications/workingpaper/pdf/wp_56.pdf)\).
+1.1.1.3.2.1.2.3.1.2.5. Con: The rates of voter turnout in the UK's [Brexit referendum](https://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016) and its [parliamentary elections](https://en.wikipedia.org/wiki/List_of_United_Kingdom_general_elections) of the past decades were not markedly different.
+1.1.1.3.2.1.2.3.2. Con: Though this is true of many referendums, campaigns for referendums on particularly emotive issues, [such as Ireland's vote on equal marriage](http://www.irishtimes.com/news/politics/why-young-voters-mobilised-for-same-sex-marriage-1.2223723), can often be extremely successful in engaging with new voters, especially young ones.
+1.1.1.3.2.1.2.3.2.1. Pro: This was also the case for the Brexit vote which had an above average turn [out of the electorate](http://www.telegraph.co.uk/news/2016/06/23/high-turnout-for-eu-referendum-vote-could-break-uk-records/).
+1.1.1.3.2.1.2.3.2.1.1. Con: -> See 1.1.1.3.2.1.2.3.1.2.5.
+1.1.1.3.2.1.2.3.3. Con: This is a feature, not a bug. Those who wish to make their voice heard are amplified by it, and those content to allow themselves to be silenced are provided less of an excuse to be dissatisfied with the result.
+1.1.1.3.2.1.2.4. Pro: -> See 1.1.1.3.2.1.1.
+1.1.1.3.2.1.2.5. Con: -> See 1.1.1.3.2.1.1.1.1.
+1.1.1.3.2.1.3. Con: These important issues are oftentimes of a scope that makes informing oneself and considering the potential consequences next to impossible.
+1.1.1.3.2.1.3.1. Pro: Italy's constitutional referendum in 2016 had unclear implications and has received [various interpretations](https://www.theguardian.com/world/2016/nov/30/italy-referendum-all-you-need-to-know-about-renzis-crunch-vote) as merely a package of legal revisions, as a plebiscite on the prime minister's future, and by some even as a step towards an Italian exit out of the European Union.
+1.1.1.3.2.1.3.2. Pro: At the time of the British decision to leave the European Union in 2016, neither the political details of the Brexit nor its impact on issues like trade, migration and national security were foreseeable for anyone.
+1.1.1.3.2.1.4. Pro: Sometimes, the only information needed by voters is their personal view on the issue and how it affects them directly.
+1.1.1.3.2.1.4.1. Con: In many cases, even calculating the impact on oneself is difficult - for example, with the Brexit referendum, a huge number of possibilities would have to be computed and evaluated.
+1.1.1.3.2.1.4.1.1. Pro: -> See 1.1.1.3.2.1.3.2.
+1.1.1.3.2.1.4.2. Pro: In many cases, there is no obvious right or wrong in political decision making.
+1.1.1.3.2.1.4.2.1. Pro: Many decisions are based on values - where politicians are unlikely to have an advantage over the average citizen. Conservatives and liberals put different emphasis on particular moral considerations in their world views \([Graham et al., p. 1029](http://www-bcf.usc.edu/~jessegra/papers/GrahamHaidtNosek.2009.Moral%20foundations%20of%20liberals%20and%20conservatives.JPSP.pdf)\).
+1.1.1.3.2.1.4.2.1.1. Pro: It has been argued that everyone cares about equality as a value, yet it has different meanings to different people.
+1.1.1.3.2.1.4.2.1.1.1. Pro: Amartya Sen [argues](http://www.ophi.org.uk/wp-content/uploads/Sen-1979_Equality-of-What.pdf) that liberals interpret equality in terms of equality of well-being, resources, or capability, whilst conservatives interpret it in terms of equality of liberty.
+1.1.1.3.2.1.4.2.1.1.2. Pro: Left-leaning voters tend to understand fairness in terms of equality; right-leaning voters in terms of proportionality \([Haidt, p. 138](https://books.google.co.kr/books?id=ItuzJhbcpMIC&printsec=frontcover&dq=The+Righteous+Mind:+Why+Good+People+Are+Divided+by+Politics+and+Religion&hl=en&sa=X&ved=0ahUKEwidu7meu47SAhVFi7wKHQ1rAkIQ6AEIGjAA#v=onepage&q&f=false)\).
+1.1.1.3.2.1.4.2.2. Pro: The consequences of many decisions are next to impossible to predict. The outcome of a Brexit, for example, is dependent on countless decisions inside and outside the UK that could not be known prior to the referendum.
+1.1.1.3.2.1.4.2.2.1. Con: Even if certain outcomes of a choice are unpredictable, it is still possible to make a prediction about whether the consequences of that decision are on aggregate more likely to be good than bad.
+1.1.1.3.2.1.4.2.3. Con: The question is not whether the citizens are making the 'right' decision, as there would be no referendum if one choice was obviously correct. Instead, the concern is that citizens vote without understanding the outcome of their choices.
+1.1.1.3.2.1.4.2.3.1. Con: Referendums frequently occur over policies that are either deeply flawed, questionably constitutional or obviously beneficial. There is no functional barrier to this in most countries, and so no reason to believe that this would change.
+1.1.1.3.2.1.4.2.4. Con: Decisions based on values that are society-oriented with the greater good in mind are better for society than decisions based on individual interests.
+1.1.1.3.2.1.4.2.4.1. Con: Democracy requires voters to decide according to their interest. If they value their personal interest over the societal interest, there is nothing wrong with that.
+1.1.1.3.2.1.4.2.4.2. Con: Society's interests are just the sum of individual interests. What determines the greater good is itself determined by the collection of individual's values.
+1.1.1.3.2.1.4.2.5. Pro: Many referendums are on fundamental issues such as secession or [peace and justice](https://en.wikipedia.org/wiki/Colombian_peace_agreement_referendum,_2016), which turn more on moral judgements than practical ones. In these cases, the moral priorities of voters principally ought to be what guides political decision-making.
+1.1.1.3.2.1.4.3. Con: People's personal views on other decisions \(like same-sex marriage or abortion\) may be ill-informed or poorly thought out, and politicians may have an advantage in this area as well.
+1.1.1.3.2.1.4.3.1. Pro: For example, voters may be more susceptible to [false stories](http://www.slate.com/articles/news_and_politics/jurisprudence/2015/09/carly_fiorina_lied_about_planned_parenthood_video_gop_debate_fact_checking.html) on abortion-related topics.
+1.1.1.3.2.2. Pro: The US Congressional Research Service responds to tens of thousands of emails and calls every year and publishes more than a thousand issue-specific reports, many of which aren't publicly accessible \([CRS, p. 2](https://www.loc.gov/crsinfo/about/crs15_annrpt.pdf)\).
+1.1.1.3.2.3. Con: In many countries, the analyses and reports by parliamentary research services are mostly available to the public and for free, for example in [Canada](http://www.lop.parl.gc.ca/About/Library/VirtualLibrary/ResearchPublications-e.asp), [Germany](https://www.bundestag.de/analysen), [Australia](http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs),the [UK](http://researchbriefings.parliament.uk/) and in the case of the [European Parliament](https://epthinktank.eu/topical-digests/).
+1.1.1.3.2.3.1. Con: Due to time constraints or lack of interest, it is unlikely that a substantial percentage of registered voters actually access this information.
+1.1.1.3.2.4. Pro: In most countries, the access to classified information [is restricted](https://en.wikipedia.org/wiki/Classified_information) by law or regulation. Information classified ‘For Official Use Only’ is not accessible by the wider public.
+1.1.1.3.2.5. Con: This is why direct democratic tools are important so that knowledge that is important for the future of a society is not hidden away. In Switzerland where public votes and referendums are common, the authorities are required to create a [Abstimmungsbüchlein](https://de.wikipedia.org/wiki/Abstimmungsb%C3%BCchlein) \(voter information booklet\) as part of the voting documents to list pros and cons of the coming vote. In addition to this, there is the "Arena" on TV where the political parties discuss the coming vote.
+1.1.1.3.3. Pro: Politicians neither pass a special education nor is there a minimal education requirement e.g. in the [USA](http://goingpolitical.com/qualifications-to-be-a-politician/).
+1.1.1.3.3.1. Pro: In [New Hampshire](http://www.straighterline.com/blog/should-there-be-a-minimum-education-level-for-politicians/) only 53% of the state legislators have a college-degree.
+1.1.1.3.3.1.1. Con: A college degree says little about the competence of a politician, especially if this degree was earned in a field unrelated to political day-to-day activity.
+1.1.1.3.3.1.1.1. Pro: Various former and current heads of state have degrees that are probably of little use for their work, for example Angela Merkel's [doctorate in physical chemistry](https://en.wikipedia.org/wiki/Angela_Merkel#Early_life).
+1.1.1.3.3.1.1.2. Con: Irrespective of the field of study, college students learn to deal intensely with complex subject matters and develop a structured working method. This skill set is important for politicians.
+1.1.1.3.3.1.1.2.1. Con: These skills can also be obtained in many fields of employment; a college education is not necessarily vital.
+1.1.1.3.3.1.1.2.2. Con: It is unclear whether these sorts of abstract skillsets are actually substantially beneficial in terms of making judgement about concrete economic and social questions.
+1.1.1.3.3.2. Pro: Politicians are mostly elected based on ideological and emotional appeal, not on actual competence. An assessment of their competence only becomes possible once they are in their elected role.
+1.1.1.3.3.2.1. Con: A large portion of this competence assessment happens prior to election day. In order to appear on the ballot, they generally need to get the support of a party machine and subsequently win preselection.
+1.1.1.3.3.3. Con: A low level of formal education does not preclude politicians from being well-informed about political issues.
+1.1.1.3.4. Con: Between job, family life and other concerns, many voters do not have time to read about political events in detail. For politicians, rather than being an added burden, informing themselves is part of the job they do during normal working hours.
+1.1.1.3.4.1. Con: Members of the American Congress usually spend [their full work day](https://www.washingtonpost.com/news/wonk/wp/2013/01/14/the-most-depressing-graphic-for-members-of-congress/?utm_term=.57776cc35f75) on calling donors, meeting constituents, work in committees and on the floor, and strategic outreach. This leaves little time for them to inform themselves.
+1.1.1.3.4.1.1. Pro: Candidates who spend more time campaigning or making connections and less time gathering information are more likely to be reelected, so there is a clear incentive for them to do so.
+1.1.1.3.4.2. Pro: Studies estimate that citizens spend [only about 15 minutes](https://www.theguardian.com/media/2015/jun/01/global-newspaper-readership-zenithoptimedia-media-consumption) a day on reading newspapers.
+1.1.1.3.5. Con: Politicians are generally required to adhere to the policy position of their party. Their personal opinions, however well-informed, are more often than not irrelevant.
+1.1.1.3.6. Con: It is their job to be better informed than the average.
+1.1.1.3.6.1. Con: Since there isn't any method to find out, whether someone is well-informed or not, a politician is not motivated to be well-informed, since people can't find out if they aren't.
+1.1.1.3.7. Con: Politicians on average have greater educational attainment than ordinary citizens.
+1.1.1.3.8. Con: Unlike ordinary citizens, politicians have an incentive to educate themselves about policy and politics. If they do not do so, they may lose their election.
+1.1.1.4. Pro: Citizens in many democracies are largely uninformed about basic matters that concern politics.
+1.1.1.4.1. Pro: Citizens of many countries over-estimate the share of GDP spent on health services by a factor of two to five \([Ipsos MORI, s. 20](http://perils.ipsos.com/slides/)\).
+1.1.1.4.2. Pro: Citizens of Western countries routinely [over-estimate](https://www.theguardian.com/society/datablog/2016/dec/13/europeans-massively-overestimate-muslim-population-poll-shows) the share of Muslims among the population, for example by a factor of 17 in the US and a factor of three in the UK.
+1.1.1.4.3. Pro: Citizens routinely [over-estimate](https://www.ipsos-mori.com/researchpublications/researcharchive/3587/Hearts-and-Minds-misperceptions-and-the-military.aspx) the share of their country's GDP spent on the military, for example in France by a factor of six and in the UK by a factor of two.
+1.1.1.4.3.1. Con: One's ability to correctly estimate your countries' military expenditure as a share of GDP is not related to the parent claim that citizens lack the legal knowledge to write good laws.
+1.1.2. Pro: Ordinary citizens lack the legal knowledge necessary for formulating laws.
+1.1.2.1. Pro: Especially where not only national law has to be taken into consideration, but also the restrictions imposed by international law and supranational regulations \(e.g. by the European Union\), the legal proposals of citizens are likely to clash with what is actually possible.
+1.1.2.2. Con: For the purpose of crafting the precise language of a proposal, legal experts could take over after the foundations of a legal proposal have been agreed on.
+1.1.2.3. Con: The citizens debating laws would most likely include lawyers who would be able to overcome this hurdle.
+1.1.2.4. Con: Citizens with legal knowledge are most likely to be most convincing why their particular take is correct.
+1.1.2.5. Con: This can be of advantage: if citizens write laws, this ensures that laws are understandable for the majority of them.
+1.1.3. Con: Knowledgable citizens do not have more rights than less knowledgeable ones.
+1.1.3.1. Con: This is not a question of who has more "rights" than others. No one is proposing giving "knowledgeable citizens" more rights than those with less knowledge. This is a question of competence. At present, most political systems allow for the political representation of all through their elected officials, who significantly more competent and capable than their constituents. Giving direct control over policy to the ignorant would be a disaster for all.
+1.1.4. Pro: Citizens, unlike politicians, would lack the capacity to make deals and compromise with opponents.
+1.1.5. Con: Any democracy aims to represent the will of the citizens and, by extension, create laws. If they are fit to be represented by politicians then they are also fit to express their will directly.
+1.1.5.1. Con: This does not follow logically. To be empowered to vote for a representative does not imply that one is magically granted legal and technical knowledge in writing laws, nor in interpreting them.
+1.1.6. Pro: There are things, such Science, which aren't democratic by their own nature, but have to be accounted during the lawmaking process by experts.
+1.1.7. Con: Citizen forums could be given access to aides and law clerks who could help them fashion their preferred laws.
+1.2. Con: Participation is inherently and unfairly biased towards those with free time and easy internet access.
+1.2.1. Con: An effective design of the crowd-sourcing platform could minimize the effort it takes for an individual citizen to participate.
+1.2.2. Con: Participation is already biased towards organized interests with money and resources. With broader participatory options the concerns of people could be directly represented instead of through parties and politicans that more and more people in western countries have less and less trust in.
+1.2.3. Con: "Free time" is relative. It is hard to determine whether someone genuinely has little free time or simply no desire to put in the effort in order to participate in the political process.
+1.2.4. Con: Not everyone has to participate. You only participate if you want to suggest something.
+1.2.5. Pro: Participation would require a level of literacy, both general and technological, that would create an inherent bias against certain demographics such as the elderly or those in low socioeconomic categories.
+1.2.5.1. Con: The literacy with these technologies and platforms could be ensured through comprehensive and lifelong education measures that bring all citizens up-to-date.
+1.2.5.1.1. Con: The data on functional illiteracy tell us that we do not yet know how to solve the problem of lifelong learning.
+1.2.5.2. Con: It might create a bias against stupid people, but that is no bad thing.
+The elderly can have their influence by talking to young people in the traditional way.
+Even the very poor these days have mobile phones and quite a basic phone can be used to engage in online discussion.
+1.2.5.3. Con: Crowsourcing is only one option among many in which people should be able to participate. The option of crowdsourcing might have a bias against for example the elderly but their interests can still be represented in other ways.
+1.2.5.4. Con: Currently the elderly dominate voting and are a deciding factor in electoral results. This leads to stagnation of government and policy. People who are out of touch with today's technology and progress should not get to decide my future.
+1.2.5.5. Con: The argument has not yet been made that participation would require a level of literacy beyond what is expected of citizens now. Crowd sourcing could be done in a way that requires less literacy than our current system.
+1.2.5.6. Con: The share of citizens that did not grow up in a digital world and is familiar with the use of computers is steadily shrinking.
+1.2.5.6.1. Con: The share of people who came of age before the most recent technologies were introduced is actually growing. In most rich countries, the share of the population aged over 65 is forecast to [increase rapidly by 2050](http://www.pewglobal.org/2014/01/30/chapter-2-aging-in-the-u-s-and-other-countries-2010-to-2050/), oftentimes by more than 10%.
+1.2.5.6.1.1. Con: Those who are 65 or older in 2050 came of age in the early 2000s and are supposedly familiar with computers.
+1.2.6. Pro: Participation of those with disabilities may be restricted due to the impossibility of engagement.
+1.2.6.1. Con: People with disabilities do not parcipate now
+1.2.7. Con: As long as there is no relative bias between supporters and detractors of any particular law, the total bias in the system will not be manifest in the laws that are created
+1.2.8. Con: Almost everyone has internet access through a personal computer, personal phone, or public library.
+1.2.8.1. Con: Access is not the definitive issue with this point. Time, which is a key ingredient in forming reasonable opinions, on the scale that would be required is simply not available to your average voter.
+1.2.9. Con: Those who really care about their country will make the sacrifice of their time to contribute to the legal system.
+1.2.10. Pro: Laws have to factor in all of the stakeholders affected by the law. The writers of the law may not be aware or care how other people or social groups are affected.
+1.3. Pro: This would significantly enhance the push for broader internet access as it would be seen as a necessary tool for political participation.
+1.3.1. Con: Internet is usually available in most areas. What is under-developed is the access to fast internet. A crowdsourcing platform would hardly promote this as it would most likely not rely on fast connections.
+1.3.2. Con: Getting internet access to remote areas can be prohibitively expensive and this would not be sufficient to overcome the simple budget needs to fund an extensive rollout.
+1.3.3. Pro: At least wealthier nations with largely state-funded infrastructure \(e.g. Germany\) would be forced to invest more heavily and efficiently in improving that infrastructure.
+1.3.4. Con: The federal government is ill-equipped to develop internet access in underserved areas, which are limited by states and municipalities.
+1.4. Con: Online systems are vulnerable to cyberattacks.
+1.4.1. Pro: Any system based on the internet would be vulnerable to hackers changing language or permissions of draft laws.
+1.4.2. Con: The system could easily be limited so that the actual codification of any law would still require offline process \(a confirmation vote in the national legislature for example\).
+1.4.2.1. Con: Nevertheless, if the process that leads up to this final decision is vulnerable to illegitimate influences, this can easily sway the outcome, e.g. by determining the language of a proposal that parliament then votes on.
+1.4.3. Pro: The system could be taken offline for an extended period of time through something like a DDoS attack.
+1.4.4. Pro: Even the NSA's securities [have been breached](https://www.nytimes.com/2017/11/12/us/nsa-shadow-brokers.html?_r=0) in the past and some of the agency's cyber weapons been leaked.
+1.4.5. Con: Any such system could be open source and decentralised so that weak points, deliberate or otherwise, can be scrutinised and fixed.
+1.4.6. Pro: A developing nation with fewer capabilities to secure its online voting system may be vulnerable to meddling from more advanced nations.
+1.4.6.1. Con: The suggestion that on-line systems are more likely to be meddled with than off-line system is contestable. All systems of governance need checks and balances. This isn't a criticism of social media but of badly run governance.
+1.4.7. Con: Modern technologies can ensure the safety of the online systems involved.
+1.4.7.1. Pro: Block chain technology can ensure that no one meddles with draft laws, user accounts and other elements.
+1.5. Pro: In a democracy, all citizens by definition have a right to participate in their government.
+1.5.1. Con: Democracy as a concept does not necessarily imply direct influence on the legislature process.
+1.5.1.1. Pro: In a representative democracy participation means as well to elect the representatives as to run for an office and so be elected as representative.
+1.5.2. Pro: Anything that extends the reach of democratic discussion is good.
+1.5.3. Con: There are plenty of alternatives to allow citizens to participate in their government.
+1.5.3.1. Pro: Even if direct participation in governance is sought, this can be achieved through referendums.
+1.6. Con: It would be difficult to limit the participation to citizens of the country.
+1.6.1. Con: As laws would merely be proposed and debated, not decided upon, the participation of non-citizens would not present a problem and could provide useful inputs.
+1.6.1.1. Con: At the same time, foreign influences can be of a malicious nature and aim to sway debates and shape legislative agendas in ways that serve foreign interests.
+1.6.1.1.1. Con: If a nation is so easily swayed by bad arguments then it will get the laws that it deserves.
+1.6.2. Con: Discussion of these laws would not necessarily need to be limited to citizens so long as part of the process took place in the existing political structure \(a referendum election or review by the existing national legislature\).
+1.6.3. Pro: Anyone with internet access could probably fake the documentation needed to create an account and participate in the online-lawmaking process, regardless of actual nationality
+1.6.3.1. Con: This could be prevented by using national identification \(passport number, drivers license, voter registration\) as part of the account creation process.
+1.6.4. Pro: People could use VPNs to make it seem as though they are located in the country in question.
+1.6.4.1. Con: -> See 1.6.3.1.
+1.6.5. Pro: The system is vulnerable to troll campaigns from hostile nations, which could sway public opinion on key issues.
+1.6.6. Pro: Dual citizenship and overseas holidays would mean IP blocking would be impossible.
+1.6.7. Con: Participation could require an ID issued by the country. Infrastructures like that are already available in some countries, showing that it is a viable option.
+1.6.8. Con: IP address ranges are assigned based on country. A collaborative website could use IP addresses to limit participation to people located within country. Given, this doesn't solve for the foreign visitors or illegal residents.
+1.6.8.1. Con: It is relatively easy and cheap to modify one's IP address and the country it is associated with, for example by using a VPN service.
+1.7. Pro: This could be one of the only areas in a modern democracy that allow people to collaborate in politics instead of picking a side and fighting.
+1.7.1. Pro: Online collaboration of this kind allows for citizens to engage in [interest-based](http://web.mit.edu/negotiation/www/NBivsp.html) rather than position-based negotiation.
+1.7.2. Con: Large chunks of the population would probably only participate by choosing from what others propose, thus effectively only picking sides.
+1.7.2.1. Con: Given two opposing, equally terrible choices would drive people to put their own choice. That is only possible if every person has an easy way to make their opinion known to the public.
+1.7.2.2. Pro: The small number of citizens that are active in political parties illustrates how few are actually interested in actively participating in politics.
+1.7.2.2.1. Con: Directly participating in legal processes is, arguably, more attractive than the participation in political parties, much of which is far-removed from actually doing politics.
+1.8. Pro: This could significantly enhance the civics education of the national population.
+1.8.1. Pro: It would force the state to assure the good education of its populace, since its stability would depend on the civic intelligence of its people.
+1.8.2. Con: Such a new system would not necessarily affect education levels, nor would it provide an incentive to teach civics to a larger portion of the population than is already the case.
+1.9. Con: Online political discussion tends to be toxic, and the quality of online discussion on law-making platforms would be so bad as to be unusable.
+1.9.1. Con: There are example for similar systems that work well. The US has a [public comment period](https://www.oecd.org/gov/regulatory-policy/USA-Public-Notice-and-Comment.pdf) for proposed regulations that has been proven very effective.
+1.9.2. Con: Just because discussions tend to turn sour we cannot just reject one communication channel after the other.
+1.9.3. Pro: Online discussion combines the worst elements of debate - a lack of context allowing readers to assume the worst interpretation of any statement, along with the ability to react immediately when emotions are highest and points least well thought out.
+1.9.3.1. Con: Properly structured, the web applications used to make these platforms could be designed with civil, structured debate online. Kialo is an example.
+1.9.4. Con: Past experiments of this kind have had a remarkably [more polite and sophisticated](https://youtu.be/7jKIfoa-BvE?t=6m57s) level of discussion than usually found in comment sections and social media.
+1.9.5. Con: The strict moderation of these discussions could prevent them from becoming toxic.
+1.9.5.1. Con: Interference of any kind with processes that lead to actual laws could easily be interpreted as unfair manipulation.
+1.9.5.1.1. Con: The moderators could be politicians that are voted democratically.
+1.9.5.1.1.1. Con: Electing moderators would merely replicate whatever problems exist in the current system of elected representatives.
+1.10. Pro: Referendums and petitions would be much easier to hold, with much more visibility.
+1.11. Con: Historically, most forms of direct democracy have resulted in violations of the rights of minorities.
+1.11.1. Pro: Between 2004 and 2008, [twenty-six American states](https://en.wikipedia.org/wiki/Same-sex_marriage_legislation_in_the_United_States#Efforts_to_prohibit_same-sex_unions) banned marriage equality by [referendum](https://en.wikipedia.org/wiki/Referendum).
+1.11.2. Pro: An [1867 Kansas referendum](https://en.wikipedia.org/wiki/Kansas_suffrage_referendum,_1867) to give women and Black citizens the right to vote failed.
+1.11.3. Pro: [Over 75% of direct votes by citizens](http://www.uky.edu/~jmaver0/Gamble1997.pdf) on proposals to restrict civil rights of minorities have passed in the United States.
+1.11.4. Con: Neither indirect democracy can protect minorities, since an intolerating community will find ways to violate minorities in a much less provable ways.
+1.11.5. Con: Indirect democracies, too, can turn a once tolerant public towards hatred. Example are Russia's legislation regarding homosexuals, Hungary's migration campaigns, etc.
+1.11.5.1. Con: Indirect democracies can turn the public to toleration as well, which was violating the minority rights before.
+1.11.5.1.1. Pro: A good example here are the black right movements in mid 20th century in South Africa or the USA.
+1.11.6. Pro: Many countries have the majority of their population living in urban areas. This could easily lead to [a disregard](https://www.citylab.com/equity/2012/11/why-urban-rural-voting-divide-matters/4034/) of the interests of the rural population.
+1.11.7. Con: This seems more like an argument for educating individuals on identity politics rather than attacking direct democracy. There is nothing inherently discriminatory about direct democracy in and of itself
+1.11.8. Con: Crowdsource of laws is for collaborating and debating the laws language, not the ratification of the law. Ideally, some representatives will sponsor the bill so that it may be brought to the floor for a vote. Like any proposed legislation, the rights of minorities should be considered by elected representatives \(or by the courts if it passes but still violates rights\).
+1.12. Con: Our system of representative democracy has filters and professionals who draft implementable laws. Crowdsourcing the structure and drafting of laws would just result in noise.
+1.12.1. Con: Many of the people involved in that crowd-sourcing effort would also be professionals at drafting implementable legislation. In the same way that open-source software results in more stable, more secure programs, open-source democracy could result in laws that are more implementable than the traditional approach.
+1.13. Pro: Crowdsourcing laws would bring more citizens into the process of lawmaking as active participants.
+1.13.1. Pro: Frustration of not being allowed in deciding procedures is a perfect petri-dish for populist ideologies and the elected personals, who use them.
+1.13.2. Con: While it might get more people involved, that's not necessarily a good thing. In the US, the Congress of 535 people is regularly deadlocked, unable to take useful action on pressing issues. Increasing that number to thousands or hundreds of thousands of people could make the situation worse.
+1.13.3. Pro: This models allows people from all classes and backgrounds to actively take part in the discussion.
+1.14. Con: The public is already able to propose legislation in many countries.
+1.15. Con: Unlike elected officials, citizens cannot be held accountable for the policies they create.
+1.16. Con: The proposal is too vague and doesn't not propose something that doesn't already exist. The public is free to collaborate on a shared google doc, and petition to hold a referendum to enact that document into law.
+1.17. Pro: Many proposals with broad public support in polling cannot get even a simple up-or-down vote in Congress due to the hyper-partisan atmosphere and abuse of procedural tactics.
+1.18. Con: It would be at an inherent risk of being hijacked by either sides and archaic draconian laws, I.E Stonings, Birching, Hanging, that have no place in a civilised society becoming the norm. Left to some people, the laws they'd want to see would clearly, if somewhat dangerously, be a step back to the stone age. An age where evolving humans clubbed each other to death.
+1.18.1. Con: If clubbing to death is the honest result of a democratic process, then the problem may be democracy itself.
+1.19. Con: The possible negative result of not participating in these crowdfunding discussions is so great that it effectively forces people to devote time to this system just to maintain the status quo. This is not a responsibility that citizens who pay taxes should not have to carry.
+1.20. Pro: Speeding up the legislative process would allow us to try out more and bolder solutions, embracing what works and overturning or fixing mistakes.
+1.21. Pro: It would help repoliticize citizens who lost faith in politics.
+1.22. Con: Especially in a multiparty system it might be expected that the parliamentary debate covers the arguments quite well which would have been as well introduced by the not-mandated citizens during an online debate.
+1.22.1. Pro: Representational democracy done well should mean the elected representatives are legitimate. If they are not then the 'patch' of social media discussion is not dealing with the fact that representational democracy is in fact just flawed.
+1.22.2. Con: Where only one party or a small coalition of parties governs, certain arguments and viewpoints \(e.g. those presented by the opposition\) usually receive little attention.
+1.22.3. Con: Politicians usually come from particular socio-economic backgrounds which limits the number of interests and arguments that are voiced in parliamentary debates.
+1.22.3.1. Pro: The members of the American Congress are much wealthier than the vast majority of American citizens.
+1.22.3.1.1. Pro: As of 2015, more than half of all members of Congress had net worth of [more than one million dollars](http://1,029,505/56,355). That's more than 18 times the net worth of the average American household.
+1.22.3.1.2. Pro: The median net worth of American families has declined by a third between 2007 and 2013. The average member of Congress, at the same time, saw his/her net worth [increase by 20%](http://1,029,505/56,355) over the same time span.
+1.22.4. Con: The competence of the legislation is not a strong argument for the exclusion of the public. Just because someone is good at something doesn't mean nobody else can help them.
+1.23. Pro: A whole population cannot be bribed.
+1.23.1. Con: Key figures within the populace still could be bribed, and there are no suggested constraints to ensure transparency \(our current deterrent to corruption\).
+1.23.2. Con: Yet large numbers of people can be swayed through populist promises.
+1.23.2.1. Pro: Celebrities and [herd mentality](https://en.wikipedia.org/wiki/Herd_mentality)  can result in large numbers of people aligning to a certain view.
+1.23.3. Con: This is only relevant under the assumption that legislatures are subject to such corruption.
+1.24. Pro: This allows for laws to be created that are difficult in the current structure of government, thanks to special interests or the reelection fears of legislators.
+1.24.1. Pro: National legislators are often beholden to special interests that finance their reelection campaigns and who can damage them in the minds of voters for unrelated reasons \(eg. after voting for gun control, gun lobby starts ads targeting a U.S. senator alleging he's lied about his military service\).
+1.24.2. Pro: Necessary but unpopular measures \(for example raising taxes\) can be more easily passed by people who are not afraid of losing reelection campaigns.
+1.24.2.1. Con: Fears of reelection of legislators are based on the will of the public, which would be just as concretely reflected in a new platform.
+1.24.2.1.1. Con: -> See 1.24.1.
+1.24.2.2. Con: Unpopular measures are unlikely to be voted by those who, in the act of voting, will think about their personal interests, especially if they do not have a long-term or community perspective, as often happens with the common man.
+1.24.3. Con: -> See 1.24.2.1.
+1.24.4. Pro: Crowdsourcing encourages the process of promoting issues directly affecting the general public, rather than special interests, lobbying, and false pretenses introduced by Citizens United--free of party lines.
+1.24.5. Pro: Many laws that have broad public support in polls cannot get an up or down vote in Congress.

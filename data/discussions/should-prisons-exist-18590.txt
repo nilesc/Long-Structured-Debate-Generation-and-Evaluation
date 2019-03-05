@@ -1,0 +1,48 @@
+Discussion Title: Should prisons exist?
+
+1. Prisons should not exist.
+1.1. Pro: The prison system creates a marginalized criminal class in societies.
+1.1.1. Con: Societies do this all by themselves, prisons are not a major antagonist in that regard.
+1.1.2. Pro: Many find it [impossible](https://www.salon.com/2018/04/15/the-painful-truth-of-life-after-prison-finding-a-job-can-be-impossible/) to get a job after prison. Poverty thus pushes them back towards crime.
+1.1.2.1. Pro: Even those who manage to secure some form of employment must work in jobs with little pay or security, and lose pension [rights](http://uk.businessinsider.com/finding-job-after-prison-2017-7?r=US&IR=T).
+1.1.2.2. Con: The bias facing those who have been imprisoned is really against those convicted of a [crime](https://www.vice.com/en_us/article/exqd4e/why-is-getting-a-job-after-prison-still-such-a-nightmare-429). It will remain even if the form of punishment changes.
+1.1.2.2.1. Con: Prison amplifies the taboo created by a conviction becasue it adds a [gap](https://www.fastcompany.com/3064529/when-the-gap-in-your-resume-is-time-spent-in-prison) of experience in your CV. Ex convicts must overcome the disadvantage of losing experience on top of the sigma of their conviction.
+1.1.3. Pro: Being incarcerated creates a dependence upon the structure given by prisons every day. It also makes people more distrustful of others, diminishes their sense of self worth and forces them to incorporate exploitative practices that are common inside of prison. [Haney 2001](https://aspe.hhs.gov/basic-report/psychological-impact-incarceration-implications-post-prison-adjustment#II) This makes readjusting to society very difficult.
+1.1.4. Con: Prisons aid the rehabilitation [process](http://www.reform.uk/reformer/the-role-of-prisons-in-offender-rehabilitation/).
+1.1.4.1. Pro: Prisons allow a level of supervision and mentoring that is vital to rehabilitation, and impossible in other set ups.
+1.2. Pro: Reallocating resources from penal systems to creating a state with a stronger social safety net is a more effective and efficient way to create a safer society.
+1.2.1. Pro: Rehabilitating prisoners has a net positive impact on society, whereas contemporary - purely penal - systems [achieve nothing](https://www.theguardian.com/society/2013/feb/25/norwegian-prison-inmates-treated-like-people).
+1.2.2. Con: Individuals who have been wronged deserve [justice](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/justice-and-fairness/). Prisons represent an appropriate punishment for those who have committed serious crimes. This is worth investing in.
+1.3. Pro: Unacceptable human rights abuses are inherent in the prison system.
+1.3.1. Pro: Incarceration is akin to [torture](http://www.womeninandbeyond.org/?p=6500).
+1.3.1.1. Con: This is not the case in all [prisons](https://edition.cnn.com/2012/05/24/world/europe/norway-prison-bastoy-nicest/index.html). Incarceration need not be as brutal and cruel as it currently is.
+1.3.2. Pro: Prison violence is [rife](http://news.bbc.co.uk/2/hi/uk/8058312.stm) [across](https://www.theguardian.com/us-news/2016/oct/21/holman-prison-alabama-guard-speaks-out) the [globe](https://www.reuters.com/article/us-brazil-prison-riot/nine-dead-in-latest-outbreak-of-brazilian-prison-violence-idUSKBN1EQ1AD).
+1.3.3. Pro: Prisons create [power dynamics](https://en.wikipedia.org/wiki/Stanford_prison_experiment) which make guards prone to abuse.
+1.3.4. Con: Simple reforms could make prisons far more [humane](https://www.theguardian.com/commentisfree/2018/feb/17/rory-stewart-reform-prisons-crisis).
+1.3.5. Con: Retribution is a core concern of the criminal justice [system](https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1487&context=law_faculty_scholarship). It intentional that prison be an unpleasant experience.
+1.3.5.1. Con: Our punishment must still have a limit. For example, many feel that the death [penalty](http://www.icomdp.org/arguments-against-the-death-penalty/) is unacceptable becasue it is too barbaric.
+1.4. Con: Prisons are important for punitive measures against those who break the law.
+1.5. Con: It would be more practical to reform rather than eliminate the prison system.
+1.5.1. Pro: Norway managed this several decades ago to [great effect](https://en.wikipedia.org/wiki/Incarceration_in_Norway).
+1.5.1.1. Con: Such reforms would require serious political [will](https://www.irishtimes.com/opinion/prison-reform-could-make-state-a-safer-place-1.408947). Politicians would need to push for them, and to believe that doing so will be popular among their voters. This is simply not the case.
+1.6. Con: The only rational alternative to prisons for keeping the public safe is capital punishment. It is better to keep the criminals off of the street.
+1.6.1. Con: There are abundant alternatives to prisons, especially when you consider prison's efficacy. In patient treatment and rehabilitation programs are far more effective than prisons at curbing crime.
+1.7. Con: In certain studies, the length of a prison sentence has been negatively correlated with incidences of some types of crime \(i.e. the longer a prison sentence is for a given crime, the less likely certain crimes are likely to occur\).
+1.7.1. Pro: Up to a certain point, long prison sentences do [deter](https://www.economist.com/free-exchange/2016/03/29/longer-jail-sentences-do-deter-crime-but-only-up-to-a-point) crime.
+1.7.2. Con: So too might horrific punishments such as torture. This does not serve as justification for a punishment.
+1.7.2.1. Pro: -> See 1.3.
+1.7.3. Con: The deterrent effect that prison poses to the general population must be balanced with the increased likelihood that prisoners will re-offend. Even if general citizens are less likely to offend, the same amount of crime occurs because prisoners are [far](https://nij.gov/five-things/pages/deterrence.aspx) more likely to re-offend.
+1.7.4. Pro: It is not prison itself, but a concern for getting [caught](https://nij.gov/five-things/pages/deterrence.aspx) that deters criminals. The deterrent would remain no matter what punishment was set.
+1.8. Pro: Regardless of real rates of crime within different demographics, marginalized groups are consistently overrepresented in prisons. This creates and exacerbates poverty traps that prevent such groups from attaining social and economic stability.
+1.9. Pro: The majority of the current prison population in the United States suffers from either untreated mental illness, substance dependence, or both. These physical ailments are often directly or indirectly responsible for their incarceration. Combating mental health and substance dependence stigma, decriminalizing drugs, and improving the healthcare system would better solve the cause of crime than the status quo.
+1.9.1. Con: This oversimplifies the problem, and reduces criminals to a product of society or external problems. A good number of criminals are simply criminals. Their guilt should not be minimised or excused.
+1.10. Con: There is no feasible alternative to prisons.
+1.10.1. Con: Rehabilitation centres or psychiatric units may be good places to appropriate instead of prison.
+1.10.1.1. Pro: Immates might suffer from psychological illness and should be helped, rather than left alone.
+1.10.2. Con: The argument that prisons are barbaric and inhumane cannot be [answered](https://www.independent.co.uk/voices/pope-francis-homosexuality-stance-catholic-church-same-sex-marriage-catechism-a8361821.html) by practical concern.
+1.10.3. Pro: Alternatives such as tagging criminals or imposing [fines](https://www.telegraph.co.uk/comment/personal-view/3609979/Prisons-are-good-for-society.html) allow convicts to walk the streets, and so they offer the rest of society little protection from them.
+1.10.4. Pro: 2.3 [million](https://www.prisonpolicy.org/reports/pie2017.html) people are currently incarcerated in the United States alone. It would be unfeasible to simply release them.
+1.10.4.1. Con: Prisons could be closed over time, so long as less people are sentenced to prison. This is happening naturally in [Sweden](https://www.theguardian.com/society/2013/dec/01/why-sweden-closing-prisons) already.
+1.10.4.2. Con: Even if it is unfeasible to release all of these prisoners it does not mean that we shouldn't do it. It would be a morally good decision to release all American prisoners.
+1.10.5. Pro: Certain violent individuals have very little statistical likelihood of "rehabilitation". Separating these individuals from the rest of society is necessary for public safety.
+1.10.5.1. Con: This logic would require life sentences without review. This is very [rare](https://insidetime.org/life-sentences-in-europe/).

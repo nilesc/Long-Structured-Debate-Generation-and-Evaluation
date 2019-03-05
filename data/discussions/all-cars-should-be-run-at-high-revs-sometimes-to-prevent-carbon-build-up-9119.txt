@@ -1,0 +1,15 @@
+Discussion Title: All cars should be run at high revs sometimes to prevent carbon build up
+
+1. All cars should be run at very high revs \(at the upper limit\) sometimes to prevent carbon build up
+1.1. Con: driving fast is life-threatening
+1.1.1. Pro: [Nearly 1.3 million people](https://www.asirt.org/) die in road crashes each year, on average 3,287 deaths a day.
+1.2. Pro: Very high rpms produce high temperatures which burns off built up carbon
+1.3. Con: Driving at very high revs can damage your car
+1.4. Con: Carbon buildup is not a problem in modern cars
+1.5. Con: If this was true, car manufacturers would recommend it in the manual
+1.6. Con: There are mich better methods, this one only makes a slight difference and isn't worth the trouble
+1.7. Pro: Many mechanics recommend it
+1.8. Con: It works just as well at 3000 rpm
+1.8.1. Pro: The user manual for my VW Passat 2.0 TDI diesel recommends regularly driving at between 2000-3500rpm for extended periods to help the DPF burn off carbon build up.
+1.9. Con: This does not apply to diesel engines
+1.9.1. Con: It does apply to diesel engines with DPF because the higher exhaust gas temperatures help to burn off the soot caught in the DPF

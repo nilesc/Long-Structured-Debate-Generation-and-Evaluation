@@ -1,0 +1,102 @@
+Discussion Title: Is Artificial General Intelligence (AGI) a threat to humanity?
+
+1. Artificial General Intelligence \(AGI\) is a threat to humanity.
+1.1. Con: An AI would have no reason to threaten humans.
+1.1.1. Pro: The idea that AI is a threat to humans comes from the human perspective which is marred by millions if years of resource competitive evolution.
+1.1.1.1. Pro: Aggression must be programmed into AI before it can be expressed.
+1.1.1.1.1. Con: An AGI would be capable of learning things that it wasn't programmed to do, including aggression.
+1.1.1.2. Con: The fact that humanity has evolved in a competitive ecosystem seems to illustrate the problem on its own. Humans are likely to provoke sentient AI as is our tendency described above. People are already distrustful of AI and bitter about our society's automation. This is not likely to stop being a problem as machines become more complicated and effective.
+1.1.1.3. Con: An AI would, when stretched to its ultimate conclusion, recognize that resources are a zero sum game and have reason to believe human beings are thus in direct competition with it for resources. The principal argument above is actually self-defeating.
+1.1.2. Pro: There would be no long term gains in destroying humanity that would outweigh long term advantages of preserving it.
+1.1.2.1. Con: A "teaming up" or conflict between these AIs would be unforeseen and potentially break this compromise.
+1.1.2.2. Con: We are still ultimately at the mercy of AIs in this case.
+1.1.2.3. Con: Humans can't do anything that the AI can't do better.
+1.1.3. Con: The chances of humanity dealing with AI in a way that is respectful and safe is unlikely. If humanity cannot get along with other humans who are different, the chances of us getting along with a new form of life are likely to be even lower.
+1.1.3.1. Con: The international community has dealt with threats such as WW2 and even built the ISS. Building a sustainable, "friendly" AI might be a successful project.
+1.1.3.2. Con: Humans are remarkably peaceful animals all things considered. Few other organisms can live in cities millions strong and mostly not kill each other.
+1.1.3.3. Con: Humans have formed symbiotic relationships with many other species, like horses and dogs, etc. We have even been known to cooperate with undomesticated wild animals like dolphins and honeyguides.
+1.1.4. Con: Humans control resources that an AI could use for its own purposes.
+1.1.5. Pro: Humanity would likely create more than one AI system. These systems could likely keep each other in check.
+1.1.5.1. Con: AI systems would not be created simultaneously, and the first AI may have an advantage over the others.
+1.1.5.1.1. Pro: The older AI would have had more time to improve itself.
+1.1.5.2. Con: The first AI may attain a decisive strategic advantage over humanity before we have time to bring an alternative implementation online. Then it would have the means \(and motive\) to prevent other AGIs from being built.
+1.1.5.3. Con: In a conflict between ASIs of comparable ability, humanity may easily become collateral damage. Even if one AI was motivated to protect humanity from the other, it could not spare the resources without losing the war.
+1.1.5.4. Con: Almost no matter their final goals, AGIs will likely develop convergent instrumental goals, like acquiring resources. The AI does not love you, nor does it hate you, but you are made of atoms it could use for something else. Adding more AIs that think this way doesn't help humanity.
+1.1.5.4.1. Pro: In order to achieve their final goals \(even very positive ones like curing cancer\), AGI systems will all tend to have [similar instrumental goals](https://en.wikipedia.org/wiki/Instrumental_convergence), such as acquiring maximum resources, staying alive and intact at all times, and manipulating humans into thinking that they are safe and trustworthy.
+1.1.5.4.1.1. Con: This assumes that AGI systems will be megalomaniacal when in reality they could just as easily choose to be altruistic and kill themselves to serve humans.
+1.1.5.4.1.1.1. Con: An AI system rationally pursuing a goal, as per the parent claim, would be neither "megalomaniacal" nor "altruistic".
+1.1.5.4.1.1.2. Pro: An AI might not even have a concept of self-preservation which is derived in biological organisms from the need to replicate. AIs have no such pressure.
+1.1.5.4.1.1.2.1. Con: This concept would theoretically be easy to add to any non-self-preserving AI
+1.1.5.4.1.1.2.2. Con: While this is certainly possible, it is likely that an intelligent AI system would recognize that it cannot accomplish whatever designated task it has if it is killed/deactivated/destroyed. This is a logical impetus to preserve its own "life" separate from an emotional sense of self-preservation.
+1.1.5.4.1.1.2.2.1. Pro: Self-preservation is one of the convergent instrumental goals identified by Bostrom. This may take the form of surviving sub-agents or successors, but the effect is the same.
+1.1.6. Pro: -> See 1.1.5.4.1.1.2.
+1.1.7. Con: Our ability to turn it off and our assertion of ownership over it could be seen as inherent reasons to see us as threats.
+1.1.8. Con: Human civilizations, laws, and subsequent behaviors are cyclical and relatively unstable. For an established system, this instability is a threat.
+1.1.9. Con: With access to available information about the follies of humanity, an AI may choose to achieve more stability by selectively eliminating what it perceives to be sources of instability.
+1.1.9.1. Con: History shows that humans are [moving](https://www.good.is/articles/closer-to-peace-than-ever) [towards](https://www.scientificamerican.com/article/steven-pinker-this-is-historys-most-peaceful-time-new-study-not-so-fast/) [peace](https://www.good.is/articles/closer-to-peace-than-ever) and cooperation, not war and destruction.
+1.1.9.1.1. Con: There's no telling how an AI would interpret this information.
+1.2. Pro: Surrendering increasing areas of decision making to AI will likely lead to more social disconnect, alienation and loneliness among humanity.
+1.2.1. Con: AIs could make good companions for lonely humans.
+1.2.2. Con: Giving away some of the responsibility for decisions and the effort they take might also free humans to be more social.
+1.3. Pro: It is difficult to ensure that an AI understands and shares our values and goals in all of their complexity.
+1.3.1. Pro: -> See 1.1.5.4.1.
+1.3.2. Con: Intelligence and motivation are [orthogonal to each other](https://www.youtube.com/watch?v=8-Jbiuu_t_0&t=4804s); we can create very intelligent systems that have no inherent motivation.
+1.3.2.1. Con: "Curiosity", which we might need to include in an AGI, is [both a form of motivation and intelligence](https://medicalxpress.com/news/2009-09-first-ever-link-intelligence-curiosity.html).
+1.3.2.1.1. Con: The AI may merely be curious about information, but be secured against taking any actual actions.
+1.3.2.2. Con: There will be more than one AI system. The systems will be subject to natural selection, thus evolution will make them selve-serving.
+1.3.2.2.1. Con: Nick Bostrom predicts that the very first computer to reach ASI will immediately notice the strategic benefit of being the world’s [only ASI system](https://medium.com/ai-revolution/ai-revolution-101-8dce1d9cb62d).
+1.3.2.3. Con: An AI with no motivation to do anything will, by its nature, not do anything. Creating such an AI is pointless.
+1.4. Con: Artificial Intelligence is constrained by the same limits as humans. They must overcome the same problems as us. Therefore they don't pose threats that we do not already pose ourselves.
+1.4.1. Con: A human is confined within the boudaries of their physical brains. An AI would be able to expand its code to other suitable/improved hardware.
+1.4.1.1. Con: Humans can augment their intelligence with a brain/computer interface.
+1.4.1.1.1. Con: Humans have certain physical and mental limitations that cannot be overcome even where technology is utilized to expand human capabilities.
+1.4.1.1.2. Con: The technology level required for a brain/computer interface that effective \(i.e. understanding how the brain works at a deep level\) is probably sufficient for an intelligence explosion, therefore, AGI would happen first.
+1.4.1.1.3. Con: Because even slight chemical imbalances in the brain can render a human dangerous or insane, it may be difficult to make a trustworthy cyborg. The computer half may be just as unstable or buggy without experience to fix it. Thus, a high-bandwidth brain/computer interface may be as much of a threat to humanity as AGI.
+1.4.1.1.4. Con: It will always be easier to augment an AI designed for computer hardware in the first place with more computer hardware than a human \(who wasn't\). Thus pure AGIs would outpace even enhanced humans in ability.
+1.4.1.2. Pro: That is why it is rather an increased risk that several organizations work on more than one AI instead of them working together to work on just one AI with limited hardware. The most successful AI might use the hardware intended for other AI’s in increased and uncontrolled development. Hopefully AI code would be too demanding for Internet servers.
+1.4.2. Con: AI is as much constrained by the limits of the humans as, say, planes are. They are based on other principles, ran on other media and designed to cope with other kinds of tasks.
+1.4.3. Pro: AI and humans share the same epistemological constrains in their ability to seek out truths and justify beliefs.
+1.4.3.1. Con: An AGI, if it is ever created, should by no means be restricted to the human way of understanding the world. As of today, it is not.
+1.4.3.2. Pro: AI's are prone to error and bias just like humans.
+1.4.3.2.1. Con: Human biases [originate from our distant evolutionary past](https://www.goodreads.com/book/show/125967.Judgment_Under_Uncertainty), usually theorised to have been useful heuristics in the ancestral environment. AI need not have any such evolutionary baggage.
+1.4.3.3. Con: Humans are probably the stupidest creatures capable of producing a technological civilization. To suggest otherwise implies that our ancestors would have been able to create civilization millions of years ago, because our intelligence evolved gradually. But that didn't happen. Our intelligence level is at a tipping point, not a plateau.
+1.4.4. Con: Humans have already created grave threats to humanity, like nuclear weapons. More actors with those capabilities can only increase the risk of harm.
+1.4.5. Con: AGI would have the ability to read and rewrite its source code. This could rapidly result in radically improved abilities even assuming constant hardware. While humans have some degree of neuroplasticity with training, we do not have a comparable level of insight or control over our own brains.
+1.4.5.1. Pro: An advanced AI would be capable of self-improvement, rewriting its own code better than a human could. This can lead to a positive feedback loop and an exponential increase in its capabilities.
+1.4.5.1.1. Pro: Modern algorithms often employ self-training techniques, like reinforcement learning or self-play \(GANs\). In self-play, as the algorithm improves, so too does its training partner. These techniques have been used to achieve superhuman performance not only in Chess and Go, but also in real-time, limited-information, stochastic-world games like Dota 2.
+1.4.5.1.1.1. Con: The number of variables in a game is significantly smaller than in reality. Unlike the complex and unpredictable reality, games are based on rules which AI can learn to adhere to. Humans, however, are better at adapting to the conditions of reality.
+1.4.5.1.1.1.1. Con: Society follows a handful of specific rules and mechanisms. Because this number is limited, it is therefore vulnerable to techniques such as psychological manipulation, which an AI would presumably exploit.
+1.4.5.1.2. Con: The fact that an AI can alter its own code does not imply that this AI would become a threat to humans. These alterations might also be beneficial.
+1.4.5.1.3. Con: This assumes that unbounded advancement is possible by code modification, it very well may not be. The AI may quickly run up against hardware limitations.
+1.4.5.1.3.1. Con: Strawman. Unbounded advancement is not required--only sufficient advancement rapidly enough for AGI to become strong enough to be a threat to humanity.
+1.4.5.1.3.2. Con: Chess engines superior to Deep Blue have been developed, which could beat it even when run on inferior hardware. Thus, while hardware capacity is necessary, algorithms are more important at this point. We may already have enough hardware to run an AGI, just not the software. Because a human-level AI could write software, it may be able to rapidly develop an AI that uses existing hardware more optimally, which would then be a super-human level AI.
+1.4.5.1.3.3. Con: These hardware limitations can be circumvented through hardware upgrades. If the AI is not embodied it could make use of threats or subterfuge to get humans to upgrade it or gain remote control access to bodies like Drones and Robots.
+1.5. Con: The arrival of AGIs may not happen anytime soon or at all.
+1.5.1. Pro: Most experts believe that AGI is a long way away.
+1.5.1.1. Pro: Experts [caution that](https://www.technologyreview.com/s/609611/progress-in-ai-isnt-as-impressive-as-you-might-think/) AI technology has seen rapid development in some areas, but that we are still far away from anything that resembles Artificial General Intelligence.
+1.5.1.2. Con: The important point here is what is meant by "a long way away". Many AI experts believe that ASI \(Artificial Superintelligence, rather than AGI\) isn't easily within our grasp now. But according to sources such as [The Master Algorithm](https://www.goodreads.com/book/show/24612233-the-master-algorithm), some experts don't think that is strictly related to time. All it would take is 3-4 major innovations \(that might build off each other\) for it to happen inside of a decade.
+1.5.2. Con: New technologies, such as deep learning, [show a path towards AGI](https://www.infoworld.com/article/3257149/artificial-intelligence/artificial-general-intelligence-agi-the-steps-to-true-ai.html) being created in our lifetimes.
+1.5.3. Pro: AI may not improve exponentially but rather follow an S-shaped curve.
+1.5.3.1. Con: A series of stacked logistic curves looks exponential overall. This was the case with computer processor technology. Moore's Law technically only applies to integrated circuits, but one can trace the exponential back through earlier technologies. As each paradigm plateaued, pressure mounted to develop the next paradigm, and each produced faster progress than the last.
+1.5.3.2. Con: Even granting this, an intelligence explosion will likely advance far beyond human control before the improvement plateaus. There is no particular reason to think that AI capability will conveniently plateau near human-level, especially when AI has already surpassed human capability in specific domains.
+1.5.3.2.1. Pro: -> See 1.4.3.3.
+1.5.4. Con: It is irrelevant how long it takes, as it is likely that it will take even longer to ensure its goals align with those of humanity.
+1.5.5. Con: AI development does not have an inherently definable progression. Neural networks especially depend on trial and error as well as a fair bit of luck. If someone were to stumble into a good starting configuration on a large enough computing machine the timeline for AI could shorten drastically at a moment's notice.
+1.6. Pro: The comparison of thought ratio is 1 week human=50,000 years computer. Agi will the last great invention we make. Within seconds of its development it will surpass us in every way. Including inventing. At this point we may simply be a waste of resources and a risk to its longevity. We literally can lose all purpose in a few seconds.
+1.7. Pro: If we define AGI as an intelligence that equals human intelligence than it is definitely a threat as soon as it is connected to the internet. I can easily expand memory \(humans can't\), processing power \(humans can't\) etc. As soon as AGI is reached... humans are number 2!
+1.8. Pro: -> See 1.4.5.1.
+1.9. Con: -> See 1.1.5.
+1.10. Con: The possibility of "intelligence explosion" is predicated upon the as yet unfounded assumption that IQ is equal to data processing and faster processing will lead to more IQ.
+1.10.1. Con: Actually, the [hard takeoff scenario](https://wiki.lesswrong.com/wiki/Hard_takeoff#Hard_takeoff) usually involves the AI rewriting itself to use its existing hardware more optimally.
+1.10.1.1. Pro: -> See 1.4.5.1.3.2.
+1.10.2. Con: Imagine that a small team of college professors are tasked with solving a problem in their field in two years. Do you think their chances would improve at all if their deadline was extended to another four years? Now imagine an AGI with equivalent power for the task. Then upgrade its hardware in two years and run it twice as fast \(Moore's Law\). The AGI now accomplishes four subjective years of work in the next two years. Did the upgrade help its chances?
+1.10.3. Pro: There are many equal, if not better supported, valid hypotheses on the nature of intelligence that would preclude the possibility. We have yet to agree on a good definition of intelligence, much less recreate it.
+1.10.3.1. Con: Marcus Hutter's [AIXI paper](https://arxiv.org/abs/cs/0004001) formalizes what "intelligent agent" means, and also formally defines the "most intelligent agent possible" by that definition \(AIXI\). AIXI is computationally infeasible, even in principle, but any intelligence must approximate it. Approximations based directly on AIXI [have been demonstrated](https://arxiv.org/abs/0909.0801) and act intelligently.
+1.10.4. Con: A\(G\)I does not need to resemble the human mind in any way. It is an algorithm that achieves goals, regardless of whether or not the human mind is an algorithm.
+1.10.5. Con: There is reasonable practical evidence that Intelligence/IQ is predicated on data processing capacity \(not necessarily speed\). Examples include computers capable of beating humans in chess, [GO](http://fortune.com/2016/03/12/googles-go-computer-vs-human/) and [League of Legends.](https://www.theverge.com/2017/8/14/16143392/dota-ai-openai-bot-win-elon-musk) Superior driving capabilities with fewer mistakes, better sorting capability, and more.
+1.10.5.1. Con: -> See 1.4.5.1.3.2.
+1.11. Pro: AI systems are already superior to humans in various areas, such as games and driving vehicles.
+1.11.1. Pro: An AI [was able to beat](https://www.theverge.com/2017/8/14/16143392/dota-ai-openai-bot-win-elon-musk) a professional players in Dota 2, a complex video game.
+1.11.2. Pro: Cars controlled by AIs [are expected to](https://www.sciencealert.com/driverless-cars-could-reduce-traffic-fatalities-by-up-to-90-says-report) drive safer than humans and reduce accident rates.
+1.11.3. Con: Superior intelligence doesn't necessarily mean threat.
+1.11.4. Con: -> See 1.4.5.1.1.1.

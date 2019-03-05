@@ -1,0 +1,36 @@
+Discussion Title: Open source software is better.
+
+1. Open source software is better and more secure.
+1.1. Pro: Open software is free.
+1.2. Con: People who work as software developers need to make money to buy basic necessities.
+1.2.1. Con: Open source can still make money, Redhat i.E. provides support for their systems.
+1.2.1.1. Con: Redhat is a commercial linux provider. A truly open source OS does not usually pay their developers.
+1.2.1.1.1. Con: Redhat is indeed commercial, but all work they do is open source. It is free to use.
+1.2.2. Con: Open source software is likely higher quality when made by those who 'work on' making software, even if they never officially 'work a paying job' making software. Many people who work officially as a programmer do not enjoy coding outside of work, and probably have more bad practices habituated from their workplace's customized standards\(which often tend to be outdated, inefficient, or simply unfit for open source\).
+1.2.3. Con: Income can be created by proposing consultancy and support, and a commercial version of the software
+1.3. Pro: A real community is growing around opensource, and it is an opportunity to meet great people.
+1.4. Pro: The free and opensource software defends the original values of Internet.
+1.4.1. Con: It is unclear whether anyone can specify what these "original values" were when the internet became commercially available.
+1.5. Pro: Everyone can view the code working in the background, which means it's more secure.
+1.6. Con: People could add vulnerabilities into the code on purpose.
+1.6.1. Con: Open-source development usually involves the same process of reviewing the code before merging than  closed-source projects
+1.6.2. Con: Though true, open-source software can be viewed by: up to all of the human population. Closed-source software can only be read by: a very finite, and usually tiny, number of people. No outsider can warn the insiders of malicious code. Also, insiders likely over-trust each other and may not even think about the idea of malicious code being placed in, whereas open-source contributors may have that in mind more than usual.
+1.7. Pro: Without a wide audience of impartial reviewers software users must fully trust a corporate entity who may not have the users best interest in mind.
+1.8. Pro: If a serious vulnerability existed, it would be noticed faster.
+1.8.1. Con: Whilst some open source projects have large numbers of contributors, it can often be the case that a well resourced closed source project will have more developers working on it than open source alternatives.
+1.9. Pro: Bringing the community into the project can speed up development.
+1.9.1. Con: Lengthy mailing list discussions about where to set priorities or coordinating and working with developers who work in their spare time and are thus unreliable, and other such issues can slow down development.
+1.10. Con: If everyone can see the code, serious weak points could be discovered easily.
+1.10.1. Con: Yes, but many people can see the weak point, so the weak point is quickly fixed.
+1.10.2. Con: Latent undiscovered bugs will be found eventually either by a good guy or a bad guy, code in front of the most eyes means a bug has a higher probability of being handled safely as most people typically aim to do good.
+1.11. Con: Free software isn't as good as paid software.
+1.11.1. Con: Open source or Free Software \(free software foundation meaning, free as in freedom, not as in beer\) does not in itself mean free. You can sell free and open source software. This argument is irrelevant.
+1.11.2. Con: Linux is a free software, and it is more used than Windows or Mac. [Usage share of operating system on Wikipedia](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Worldwide_device_shipments)
+1.11.2.1. Con: The majority of corporate Linux [use is RHEL](https://www.reddit.com/r/redhat/comments/7tzj7x/why_most_of_the_big_companies_use_red_hat_os_not/), which is not free and comes with a support contract.
+1.11.3. Pro: Libre software often starts out in a beta-testing version, which turns off casual users. Later versions are generally as good as any proprietary software.
+1.11.4. Pro: Gimp is a nightmare, compared to Photoshop and has much less features.
+1.11.5. Pro: FOSS desktop adoption has always been and is next to nothing compared to Windows and OSX adoption
+1.11.6. Pro: The city of Munich, started migrating all their desktops to Linux, gave up and is now reverting back to Windows. [LiMux](https://en.wikipedia.org/wiki/LiMux)
+1.12. Pro: Making the code available to everyone is a big contribution to the general tech world and allows easy code-reuse.
+1.13. Con: Open-Source licenses are a mess.
+1.13.1. Con: There are [multiple](https://opensource.org/licenses) [websites](https://itsfoss.com/open-source-licenses-explained/) dedicated to helping you understand and choose the right license.

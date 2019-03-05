@@ -1,0 +1,21 @@
+Discussion Title: Is Light Rail better than Heavy Rail (or Metro)?
+
+1. Light Rail is better than Heavy Rail \(Metro\).
+1.1. Pro: Light rail can be used on mainline railways with Tram-Train technology.
+1.2. Pro: Freight trains can sometimes use light rail lines.
+1.2.1. Con: Usually freight trains only use light rail lines outside of the light rail’s operating hours.
+1.3. Con: Metros can go longer distances than light rail.
+1.3.1. Pro: The greater Seoul metro system is the longest in the world at nearly [1,000 km](https://www.citymetric.com/transport/what-largest-metro-system-world-1361), whereas the longest light rail is only [70 km](https://www.quora.com/What-is-the-longest-light-rail-line-in-the-world).
+1.4. Pro: Light rail is cheaper than heavy rail.
+1.4.1. Pro: Studies have found that metro construction costs worldwide are [nine times greater](https://lightrailnow.wordpress.com/2014/02/13/new-subway-metro-systems-cost-nearly-9-times-as-much-as-light-rail/) than light rail.
+1.5. Pro: Light rail can use existing roads, which is known as street running.
+1.5.1. Con: More light rail on the street would mean fewer buses, which are substantially [cheaper](https://www.thoughtco.com/bus-and-light-rail-costs-2798852) to operate than light rail.
+1.5.2. Con: Street running causes traffic congestion.
+1.6. Con: Light rail is slower than heavy rail.
+1.6.1. Con: Light rail can [accelerate](http://www.rtd-fastracks.com/main_398) more quickly.
+1.7. Con: Light rail has less capacity than heavy rail.
+1.7.1. Pro: A city may not need the extra capacity that heavy rail provides.
+1.7.2. Con: Light rail service may eventually become too crowded.
+1.8. Pro: Light rail has more stops than heavy rail.
+1.8.1. Pro: More places can be served with a greater number of stops.
+1.8.2. Con: The fewer stops there are, the faster the service.

@@ -1,0 +1,384 @@
+Discussion Title: Should Google Censor Their Search Results In Order To Operate In China?
+
+1. Google should censor their search results in order to operate in China.
+1.1. Pro: Having access to a restricted Google search engine is better than not having access at all.
+1.1.1. Con: State interference upon Google includes the monitoring of Gmail accounts. Subjecting trusting clients to [cyber attacks](http://news.bbc.co.uk/2/hi/business/8455712.stm) may be worse than having no service at all.
+1.1.1.1. Pro: Google has a reputation for providing trustworthy opposition to censorship. This may lead consumers to being tricked.
+1.1.1.1.1. Pro: Google ranked 3rd on the Corporate Social Responsibility \([CSR](https://en.wikipedia.org/wiki/Corporate_social_responsibility)\) list of most socially responsible companies in the world [2017](https://www.forbes.com/sites/karstenstrauss/2017/09/13/the-10-companies-with-the-best-csr-reputations-in-2017/#64c6e4aa546b).
+1.1.1.1.2. Pro: Google's [history](https://www.information-age.com/google-stands-up-to-china-government-over-censorship-1109023/) standing up to censorship and interference lends it legitimacy and earns consumer trust. Succumbing to scrutiny now may trick consumers in China.
+1.1.1.1.3. Con: Chinese citizens are aware of the censorship that exists so it is logical to believe that they will know Google must adhere to it too.
+1.1.1.1.3.1. Con: The majority of Chinese citizens do not [know](https://thediplomat.com/2014/04/chinese-dont-believe-theyre-being-watched-and-censored/) the full extent of the surveillance and censorship that they are subjected to.
+1.1.1.1.4. Pro: Google's withdrawal from China garnered such [popular](https://www.washingtonpost.com/news/democracy-post/wp/2018/08/27/google-is-on-the-verge-of-making-a-huge-mistake-with-china/?utm_term=.c9f057cf8c0b) support that flowers were sent to its headquarters. This continued despite a new law making it illegal. This stand for principle has garnered some trust which should not be betrayed.
+1.1.1.2. Con: Presumably Google will include "small print" in it's China User Agreements that will let the users agree that government agencies may have access to all their activities and data on the platform - so users are unlikely to be unwary.
+1.1.1.2.1. Con: [Very few people](https://www.theguardian.com/technology/2017/mar/03/terms-of-service-online-contracts-fine-print) actually read their user agreements, meaning it's unlikely people are aware of how their data is used.
+1.1.2. Con: China could use Google's tracking data to create information blackouts and [propaganda](https://www.washingtonpost.com/news/democracy-post/wp/2018/08/27/google-is-on-the-verge-of-making-a-huge-mistake-with-china/?utm_term=.c9f057cf8c0b). These tools could be used to actively cause harm, and so may be worse than simply not having access to Google.
+1.1.2.1. Pro: Regular Google services such as [Google Ads](https://www.blog.google/outreach-initiatives/small-business/google-ads-helping-businesses/) lead consumers to the services desired by Google. Similar manipulation could target propaganda to those most likely to be affected by it.
+1.1.2.2. Pro: Google's practice of [tracking](https://www.cnet.com/how-to/how-to-delete-and-disable-your-google-location-history/) the location of many of its users would be invaluable for state surveillance.
+1.1.2.3. Con: There is little reason to believe that the Chinese government would be able to use Google's tracking data in such a way. Google is simply developing a restricted service which blocks results that are censored by [Beijing](https://www.nytimes.com/2018/08/01/technology/china-google-censored-search-engine.html). There is no reason to believe that they will allow the Chinese state to use its data.
+1.1.2.3.1. Con: Google submitting to the Chinese government's demands after years of resistance implies Google is not inclined to resist the CCP's influences.
+1.1.2.3.1.1. Pro: The topics that Google has agreed to [censor](https://www.vox.com/world/2018/8/1/17638978/google-china-free-speech-censor-search-engine) include human rights, democracy and peaceful protest.
+1.1.2.3.1.1.1. Pro: This censorship will prevent Chinese citizens from learning about these topics and potentially using this information to demand more from their Government.
+1.1.2.3.1.1.1.1. Con: Chinese citizens do not currently have access to this information on Baidu anyway. The situation is not worsened in any way by Google returning to China.
+1.1.2.3.1.1.1.2. Pro: The internet can be incredibly powerful for social movements as demonstrated by the [Arab Spring](https://journals.openedition.org/netcom/1064?lang=en).
+1.1.2.3.1.1.1.2.1. Con: Internet based social movements often fail to achieve positive outcomes.
+1.1.2.3.1.1.1.2.1.1. Pro: Because governments are usually more [adept](https://www.independent.co.uk/news/world/politics/social-media-revolution-tech-activists-arab-spring-dictators-a7433476.html) than protesters are at using social media, they can spread misinformation and track protesters accurately.
+1.1.2.3.1.1.1.2.1.1.1. Pro: China regularly spreads misleading information in the form of [propaganda](https://www.nytimes.com/2017/11/08/technology/china-facebook.html).
+1.1.2.3.1.1.1.2.1.1.2. Pro: Governments' ability to track social media usage has allowed the Russian government, for example, to contact and [threaten](https://www.hrw.org/news/2018/02/02/youve-been-warned-protesting-russia) potential protesters. This level of insight allows governments to predict and crush any potential resistance.
+1.1.2.3.1.1.1.2.1.1.3. Pro: Messages from the state are more intimidating than those from protesters. When in 2011, Gaddafi sent a text to all citizens ordering them to return to [work](https://www.bbc.com/news/world-middle-east-12556005), the fact that it was sent by the state made it an ominous threat.
+1.1.2.3.1.1.1.2.1.1.4. Pro: As much as it provides access to information, social media provides a platform for governments to spread misinformation. For example, misinformation spread by Russia may have had an effect on the US 2016 [election](https://www.newyorker.com/magazine/2018/10/01/how-russia-helped-to-swing-the-election-for-trump). This can be used by governments to distract and confuse protest, and to turn public opinion against it.
+1.1.2.3.1.1.1.3. Con: Citizens can still access the wider internet with a [proxy](https://www.hrw.org/report/2006/08/09/race-bottom/corporate-complicity-chinese-internet-censorship) server.
+1.1.2.3.1.1.1.3.1. Con: The vast majority of internet users lack the knowledge to know how to use a proxy server.
+1.1.2.3.1.1.1.3.1.1. Pro: It has become more difficult for individuals in China to access unauthorized [VPNS](https://nordvpn.com/blog/is-vpn-china-illegal/).
+1.1.2.3.1.1.1.3.2. Con: Using a proxy server puts the citizens at risk of getting in trouble with the authorities.
+1.1.2.3.1.1.1.3.2.1. Con: If people are using a VPN to use Gmail or Facebook, the Communist Party of China does not really care.
+1.1.2.3.1.1.1.3.2.1.1. Con: The Chinese government has [arrested](https://www.theguardian.com/world/2017/dec/22/man-in-china-sentenced-to-five-years-jail-for-running-vpn) citizens for setting up VPNs.
+1.1.2.3.1.1.1.3.2.1.1.1. Con: This person was arrested for creating a VPN, not using one.
+1.1.2.3.1.1.1.3.2.1.2. Con: China appears to generally treat foreign companies with hostility. It's unlikely that the Communist Party of China doesn't care about its citizens preferring to use foreign companies over national ones.
+1.1.2.3.1.1.1.3.2.1.2.1. Pro: Multinational firms often [complain](https://www.scmp.com/news/china/diplomacy-defence/article/1940397/china-making-life-difficult-foreign-companies) about the business environment in China being increasingly hostile towards foreign companies, claiming that they feel [unwelcome](https://www.bloomberg.com/news/articles/2018-01-30/most-foreign-companies-feel-less-welcome-in-china-amcham-says).
+1.1.2.3.1.1.1.3.2.1.2.1.1. Con: As a developing country. China must act in the interest of developing its own industries.
+1.1.2.3.1.1.1.3.2.1.2.1.1.1. Con: Often these decisions are not based on economic interest but rather based on the government's goal of retaining as much control over China as possible.
+1.1.2.3.1.1.1.3.3. Con: Modern networking technologies make it virtually impossible to breach the Great Firewall without [triggering alarms](http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/).
+1.1.2.3.1.1.1.3.4. Pro: A number of methods to circumvent the firewall are publicly [accessible](https://www.travelchinacheaper.com/how-to-access-facebook-in-china).
+1.1.2.3.1.2. Con: Google choosing to leave the Chinese market for nearly a decade implies the opposite.
+1.1.2.3.1.2.1. Pro: It's therefore likely that they are now seeking to find a middle ground in which they are complying with China's demands to some extent but still wish to maintain some independence.
+1.1.2.3.1.2.1.1. Con: Google left China due to the cyber attacks and invasion of privacy committed by the Chinese government. The rules Google must comply with to reenter do not fix these issues.
+1.1.2.3.1.2.1.1.1. Pro: Google would be [required](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/10/AR2005091001222.html) by Chinese law to hand over any data which the Chinese state requests.
+1.1.2.3.1.2.1.1.1.1. Pro: For example, Chinese citizen Shi Tao received a ten year prison sentence for sending an email informing foreign journalists about China's attempts to censor coverage of the anniversary of the Tienanmen Square massacre. The evidence used to convict Shi Tao was obtained from data which Yahoo was [forced](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/10/AR2005091001222.html) to hand over to China.
+1.1.2.3.1.2.1.1.1.1.1. Pro: Shi Toa's family [sued Yahoo](https://www.theguardian.com/technology/2007/nov/14/news.yahoo) over the incident. This harmed Yahoo's reputation and global image. If Google were to operate in China, they could be vulnerable to similar law suits and a similar loss of reputation.
+1.1.2.3.1.2.1.1.1.1.2. Pro: The US congress greatly [criticised](https://arstechnica.com/tech-policy/2007/11/yahoo-calls-withholding-of-info-on-chinese-arrests-a-misunderstanding/) Yahoo for its actions in the case which harmed its image.
+1.1.2.3.2. Con: A [Memo](https://theintercept.com/2018/09/21/google-suppresses-memo-revealing-plans-to-closely-track-search-users-in-china/) leaked from Google has exposed plans to closely track Chinese users. It also revealed a plan to share the location and search history of those users with a Chinese partner. Once this information is recorded or processed on the mainland, Chinese authorities will have the legal power to obtain it.
+1.1.2.4. Pro: If Google can achieve market dominance then the simple fact that more individuals gain their information through one service makes censorship and state control easier. All they must do is influence Google.
+1.1.2.4.1. Con: Even if Google can secure a profitable portion of the market, the popularity of other search engines means that absolute dominance is wildly unlikely.
+1.1.2.4.1.1. Pro: In China, Baidu is about as [synonymous](https://www.nytimes.com/2018/08/24/technology/google-china-waymo.html) with search as Google is elsewhere in the world.
+1.1.2.4.1.1.1. Pro: [75%](https://www.aljazeera.com/programmes/listeningpost/2018/08/google-china-push-outweighs-censorship-concerns-180825133540649.html) of Chinese internet users use Baidu as their main search engine.
+1.1.2.4.1.1.2. Con: [Google](https://en.wikipedia.org/wiki/Google_China) was popular in China until it left in 2010. It's unlikely that the Chinese people have completely forgotten about it.
+1.1.2.4.1.1.2.1. Pro: This gives Google a good chance of reestablishing themselves in China.
+1.1.2.4.1.1.2.2. Pro: [Google](https://www.theguardian.com/world/2018/aug/02/google-working-on-censored-search-engine-for-china) still offers other services to Chinese users such as Google Translate and Files Go.
+1.1.2.4.2. Con: This already happens with Baidu which has a market share of almost [70%](http://gs.statcounter.com/search-engine-market-share/all/china).
+1.1.3. Pro: If Google operates in China, it will better enable Chinese users to find information about a wide range of topics, such as health care, environmental problems, and the economy.
+1.1.3.1. Con: Chinese users are able to find all this information on Baidu already.
+1.1.3.1.1. Con: Baidu's search engine functionality is famously [terrible](https://qz.com/239810/frustrated-chinese-web-users-bemoan-baidu-and-pine-for-the-days-of-google/).
+1.1.4. Pro: Only a [tiny percentage](http://www.d.umn.edu/~jford/phil3242/Google's%20China%20Problem%20\(and%20China's%20Google%20Problem\)%20-%20New%20York%20Times.pdf) \(p.9\) of Chinese internet users will attempt to use Google to search for 'controversial terms' such as 'democracy' or 'human rights.' The majority of users will not be affected by Chinese censorship.
+1.1.4.1. Pro: Given that the majority of users will not need Google to be uncensored, they will likely use Google if it is censored. Therefore Google can make a profit from these users.
+1.1.5. Pro: As a foreign company, Google is more independent and is less likely to be influenced by China's government.
+1.1.5.1. Pro: The Chinese people deserve the marginal additions in freedom that comes from having access to the information provided by Google, a more independent organization.
+1.1.5.2. Con: -> See 1.1.2.3.1.
+1.1.6. Con: Quite the opposite - what you see in your search results creates a certain scope of [perception](https://www.acquisio.com/blog/agency/evolving-google-results-page-how-it-may-affect-our-perception-search/) about that term or idea - you are not aware of the "absent". Even if you know that your search is censored, you don't know what is "missing.".
+1.1.7. Pro: Agreeing to censorship allows Google access to the Chinese market. This allows it to be able to at least give some information to people who would otherwise receive none from Google.
+1.1.7.1. Con: Due to censorship, the information offered will likely be the same as that of Baidu, meaning people will not receive any different information just because Google is providing it.
+1.1.7.1.1. Con: Even if this is true, Google is able to provide a better quality of service than that of Baidu.
+1.1.7.1.1.1. Pro: -> See 1.1.3.1.1.
+1.1.8. Pro: Google’s [mission statement](https://www.google.com/about/our-company/) declares that the company’s goal is to bring information to as many people as possible. Operating in China allows it to reach more people.
+1.1.8.1. Pro: The CEO of Google [stated](https://www.nytimes.com/2018/08/22/technology/google-china-conventionality.html) that "filtering our search results clearly compromises our mission”, but failing to offer Google search at all to a fifth of the world’s population, \[compromises our mission\] far more severely.”
+1.1.8.2. Con: The company's [goal](https://www.google.com/about/) is, and I quote: "Our mission is to organize the world’s information and make it universally accessible and useful.". The universally is a fundamental part of it.
+1.2. Con: Complying with domestic censorship in order to enter China represents the abandonment of Google's core principles.
+1.2.1. Pro: Google stopped working with the Pentagon on [project Maven](https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html). This was because employees had ethical concerns about assisting the US military. It would therefore be principally inconsistent if Google cooperated with the Chinese government.
+1.2.1.1. Con: Agreeing to censor search results is much less extreme than project Maven which was developing lethal military technology.
+1.2.1.1.1. Con: Censoring results means Google would be part of a concerted government effort to repress and isolate 1.4 Billion people.
+1.2.2. Pro: The [Global Network Initiative](https://globalnetworkinitiative.org/gni-principles/) \(GNI\) is an organisation whose members are committed to preventing states from censoring the internet. Google is a member of this organisation. Launching a search engine in China is not compatible with the principles of the GNI.
+1.2.2.1. Con: Facebook is also a member of GNI and it [plans](https://www.theverge.com/2018/7/24/17607992/facebook-allowed-china-censorship-ban-hangzhou-zuckerberg) to open an office in China.
+1.2.2.1.1. Con: Facebook going back on its commitment to the goals of the GNI is also unethical; one company betraying their ideals does not make it ethical for other companies to do the same.
+1.2.3. Pro: Google left China due to it's [crackdown](https://www.theatlantic.com/technology/archive/2016/01/why-google-quit-china-and-why-its-heading-back/424482/) on human rights activists. Re-entering China shows that Google no longer views this as an issue.
+1.2.3.1. Con: Google [reviewed](https://www.theatlantic.com/technology/archive/2016/01/why-google-quit-china-and-why-its-heading-back/424482/) its Chinese [operation](https://googleblog.blogspot.com/2010/01/new-approach-to-china.html) after a cyberattack. As per [PRISM leak](https://en.wikipedia.org/wiki/PRISM_\(surveillance_program\)), other countries conduct such.
+1.2.3.2. Con: Companies such as Google communicate their reasons with the press when they make moves such as this. Google can continue to highlight its issues with China’s human rights record in such communications with the press.
+1.2.3.2.1. Pro: Google's co-founder Sergey Brin gave [interviews](http://www.spiegel.de/international/business/google-co-founder-on-pulling-out-of-china-it-was-a-real-step-backward-a-686269.html) when Google initially moved their Chinese headquarters from Beijing to Hong Kong.
+1.2.3.2.2. Con: Statements of concern would appear to be empty words when they are not backed up by action.
+1.2.4. Pro: This would hurt Google's status as one of the most socially responsible companies in the world.
+1.2.4.1. Pro: -> See 1.1.1.1.1.
+1.2.4.2. Con: Google's reputation is [not](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393) free from [blemishes](https://www.news.com.au/technology/online/security/google-data-scandal-tech-giant-faces-inquiry-into-potential-deceptive-acts/news-story/0c54b463066d16d55c8dfc7d57a0c99a). This has not undermined its ability to make profit.
+1.2.4.2.1. Pro: It is unclear that this imperfect move would lead to financial consequences that outweigh increased market opportunities.
+1.2.4.2.2. Pro: Studies suggest that unethical behavior by companies [does not deter](https://www.emeraldinsight.com/doi/abs/10.1108/07363760110410263?src=recsys&journalCode=jcm) consumers from using their products.
+1.2.4.2.3. Con: When Google dropped its motto of "do no evil," it replaced it with "do the right thing." This was in fact a [higher](https://www.fastcompany.com/3056389/why-google-was-smart-to-drop-its-dont-be-evil-motto) bar to set itself, not a moral failure.
+1.2.4.2.3.1. Con: Doing the right thing is a more ambiguous concept than not doing evil.
+1.2.4.2.3.1.1. Pro: Many things are commonly agreed upon as bad or evil and so identifying what is evil is easier. In contrast, doing the right thing can vary quite wildly depending on one's moral code or priorities, making it less clear from a general standpoint what is the right thing to do.
+1.2.4.2.3.1.2. Pro: Doing something which is bad, or evil can be considered the right thing to do if justified as necessary or less of a priority.
+1.2.4.2.3.1.2.1. Pro: Google can justify doing something bad by presenting their actions as a dichotomy where it is choosing the lesser of two evils.
+1.2.4.2.3.1.2.2. Pro: Google can justify enabling oppressive laws by the Chinese government by presenting it as them allowing a necessary evil in order to provide some good by giving Chinese residents access to a limited version of its search engine.
+1.2.4.3. Pro: [Millennials](https://www.forbes.com/sites/sarahlandrum/2017/03/17/millennials-driving-brands-to-practice-socially-responsible-marketing/#409c09c04990) tend to prefer spending their money on companies with the status of socially responsible.
+1.2.4.3.1. Con: Google has a virtual [monopoly](https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/) as an internet search engine, it is unlikely that people will be able to not use Google.
+1.2.4.3.1.1. Con: People would still be able to move to using companies such as Apple who offer alternative products to Google.
+1.2.4.4. Pro: Some of Google's own employees have quit their jobs calling for more [transparency](https://www.cnet.com/news/ex-google-employee-calls-for-more-transparency-about-china-search-project/) and for Google to live up to its responsibility to respect human rights.
+1.2.5. Pro: Complying with Chinese censorship laws in order to enter the market can only be justified by the [profit](https://www.theguardian.com/technology/2010/jan/13/google-china-censorship-index) motivation to do so.
+1.2.5.1. Con: In 2006 Google founder Sergey Brin stated that expanding into China was [not motivated](http://www.d.umn.edu/~jford/phil3242/Google's%20China%20Problem%20\(and%20China's%20Google%20Problem\)%20-%20New%20York%20Times.pdf) \(p.9\) by the pursuit of profit. His main non-profit motivation for entering China was to spread knowledge.
+1.2.5.1.1. Con: China contains the largest population in the world and is one of the largest economies; clearly Google has internal projections that show it to be a good business move.
+1.2.5.1.2. Pro: Operating in China will require significant investment. There is no guarantee that Google will make enough income from its Chinese ventures to recoup these costs.
+1.2.5.1.2.1. Pro: [Uber](https://hbr.org/2016/08/the-real-reason-uber-is-giving-up-in-china), while not on quite the level of Google, was unable to adapt and ultimately sold their Chinese operations.
+1.2.5.1.2.1.1. Con: [Uber](https://hbr.org/2016/08/the-real-reason-uber-is-giving-up-in-china) was unable to succeed due to barriers placed on them by the government. It is logical to assume that if Google made an agreement with the Chinese government, Google would make sure the conditions within the agreement made it possible to operate successfully within China.
+1.2.5.2. Pro: Google should not compromise their stance on freedom of speech and free access to information in order to achieve capital gains.
+1.2.5.3. Pro: There are more than [twice](https://www.theatlantic.com/technology/archive/2016/01/why-google-quit-china-and-why-its-heading-back/424482/) as many internet users in China as there are residents in the US. This represents a hugely valuable market to Google.
+1.2.6. Pro: Over a thousand Google employees signed a [letter of protest](https://globalnews.ca/news/4393283/google-china-search-engine/) against Google's plan which, they believe, goes against Google's ethics.
+1.2.6.1. Pro: It is not in Google's best interests for a large number of its employees to be unhappy with how it operates, and to potentially resign.
+1.2.7. Con: Google is not under any obligation to dogmatically adhere to previous statements made by its executives. If previous statements no longer represent what is best for the company or its consumers it should be willing to abandon some of its 'core principles.'
+1.2.7.1. Pro: Google regularly [changes](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393) its code of conduct.
+1.2.8. Pro: One of Google's core [principles](https://www.inc.com/michael-schneider/googles-topnotch-culture-boils-down-to-these-3-principles-says-former-google-executive.html) is to make information free and accessible for all. Agreeing to censorship abandons this principle.
+1.2.8.1. Con: -> See 1.1.7.
+1.2.8.2. Con: -> See 1.1.8.
+1.2.9. Pro: In [2010](https://www.businessinsider.com/google-pulls-out-of-china-2010-3?IR=T), Google pulled out of China. Re-entering now demonstrates a U-turn, and an abandonment of the principles that the company stood for then.
+1.2.9.1. Pro: -> See 1.1.1.1.4.
+1.2.9.2. Pro: Because the censorship has gotten [worse](https://www.ft.com/content/4ffac53e-8ee4-11e7-9084-d0c17942ba93) since Google left in 2010, capitulating now is legitimizing the increased repression.
+1.2.9.3. Pro: In 2010 Google [realised](https://techcrunch.com/2018/08/01/google-china-return-search/) that the Gmail accounts of activists, among others, were being monitored by third parties. The situation has not improved since.
+1.2.10. Con: -> See 1.1.8.
+1.3. Pro: The residents of China deserve access to Google Search.
+1.3.1. Con: Baidu offers a [similar](https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp) service to that which Google could offer. Residents of China are not missing out.
+1.3.1.1. Con: -> See 1.1.3.1.1.
+1.3.2. Con: Google choosing to censor their search results in order to operate in China would be an unpopular move with many Chinese citizens.
+1.3.2.1. Pro: -> See 1.1.1.1.4.
+1.3.2.2. Pro: Tech-savvy citizens with the know-how to circumvent China's block on Twitter praised Google's [withdrawal from China](https://blogs.wsj.com/chinarealtime/2010/01/13/flowers-for-google-in-china/) on the site.
+1.3.2.3. Con: The vast majority of citizens use Baidu, which is censored, over using a VPN to access an uncensored search engine. If Google provided a good quality of service in China, it is logical to assume that most people would use it even if it was censored.
+1.3.3. Pro: -> See 1.1.5.
+1.3.4. Pro: To the extent that it's believed access to information is a right, where a person is born should not impact the degree to which they have that right.
+1.3.4.1. Con: Accessing such an imperfect and [curtailed](https://www.wsj.com/articles/google-considering-censored-search-engine-for-return-to-china-1533157785) version of Google does not meet the requirements for fulfilling a person's right to information.
+1.3.4.1.1. Con: -> See 1.1.
+1.3.4.2. Con: An adult who was born in China may choose to emigrate to a country where the access to information is more free.
+1.3.4.2.1. Con: Many who would like to emigrate may not be able to afford it.
+1.3.4.2.2. Con: The option to emigrate does not mean the right does not exist.
+1.3.4.2.2.1. Pro: People should not have to move in order to access their rights.
+1.3.4.2.3. Con: There are many things that tie people to a country and make moving an unappealing option, such as work, family, and culture.
+1.3.4.2.4. Pro: This means that ensuring someone's place of birth doesn't impact their life is less important in what is an increasingly globalized world.
+1.3.4.2.4.1. Con: When lots of people start leaving their country to avoid human rights abuses, there is a negative impact on the places they go to, as exemplified by the [Syrian refugee crisis.](https://www.theatlantic.com/business/archive/2015/09/what-effect-will-migration-have-on-european-wages/404473/) .
+1.3.4.3. Pro: People do not choose where they are born and are often limited in their options to change their surroundings.
+1.3.4.4. Con: A [study](http://content.time.com/time/world/article/0,8599,1885961,00.html) conducted in China shows that 80% of people support internet censorship.
+1.3.4.4.1. Con: This could also be evidence of the effectiveness of government propaganda.
+1.3.4.4.1.1. Con: Regardless of the reason for their beliefs, this is how people see the world, and thus what they experience. People are ends unto themselves and their perspectives must be valued.
+1.3.4.5. Pro: It's generally believed that human rights are the innate property of every human by simple virtue of their being human. A person's humanity is not dependent on their place of birth.
+1.4. Con: Google's tools would be used to further the oppression of Chinese citizens.
+1.4.1. Pro: -> See 1.1.2.3.1.2.1.1.1.
+1.4.2. Pro: For example, Google's search engine would be required by the Chinese government to not display any news story that highlighted the detention of large numbers of [Falun Gong](https://panampost.com/antonella-marty/2017/03/01/chinese-concentration-camps-talking-about/) members in 'education through labor ' prison camps.
+1.4.3. Pro: The Chinese government forced internet providers within China to [censor](https://www.vox.com/world/2018/8/1/17638978/google-china-free-speech-censor-search-engine) the #metoo movement. If Google operated within China, it would be complicit in allowing the Chinese government to hide evidence of sexism within Chinese society.
+1.4.4. Con: Chinese [censorship](https://www.washingtonpost.com/world/asia_pacific/chinas-scary-lesson-to-the-world-censoring-the-internet-works/2016/05/23/413afe78-fff3-11e5-8bb1-f124a43f84dc_story.html) is already in existence and effective. Conducting it through Google rather than Baidu or other alternatives changes very little.
+1.4.4.1. Con: Even if Google operating in China makes very little difference to the level of overall censorship in China, it is morally wrong for Google to operate in a country which oppresses its citizens to such an extent.
+1.4.4.1.1. Con: Whether something is morally wrong can be assessed by how much harm it creates. If Google censoring its results creates little harm, then it is not morally wrong.
+1.4.4.1.1.1. Con: This understanding of morality fails to account for actions like telling a lie that will never be found out, because this causes no measurable harm. Most people intuitively demand a [broader](https://theindependentwhig.com/tag/morality-is-about-more-than-harm-and-fairness/) understanding of what is right or wrong.
+1.4.4.1.1.1.1. Con: People intuiting a certain type of morality does not necessarily mean that sense of morality is correct.
+1.4.4.1.1.1.1.1. Pro: People's moral intuitions can vary widely on the same issues. Given that it is not possible for opposing responses to the same situation to both be the morally correct response, it stands to reason that moral intuitions are not always correct.
+1.4.4.1.1.2. Con: This is a purely utilitarian analysis of the situation on a subject that does not concern material conditions. And therefore somewhat misplaced.
+1.4.4.1.1.3. Pro: We cannot know if something causing a harm in principle makes any difference to the world. We can know that if something causes a harm to people that there is some difference in the world. Therefore, the latter is what should be used when determining whether an action is morally right or wrong.
+1.4.4.1.1.4. Pro: Principled harms are only important because they have practical outcomes. The right to life is an important principle because we know the harm caused to individuals in the real world when that right is removed.
+1.4.4.1.1.5. Con: One cannot declare that things such as censorship does not cause harm. For, under authoritarianism, violence is promised to those who do not conform, increasing the conditions of conformity increases the probability of receiving violence.
+1.4.5. Pro: The data generated by Google products within China could be used by China's intelligence services in [problematic ways](https://www.theverge.com/2018/8/18/17724960/google-china-dragonfly-employee-protest). Thus, Google would be enabling the state to oppress its citizens.
+1.4.5.1. Pro: Chinese officials can demand information is censored, on the basis that it "damages the honor or interests of the state" or "infringes upon national customs and habits." These criteria are deliberately [vague](http://www.d.umn.edu/~jford/phil3242/Google's%20China%20Problem%20\(and%20China's%20Google%20Problem\)%20-%20New%20York%20Times.pdf), \(p.6\) and provide a large scope for officials to demand that anything they find "offensive" is taken offline.
+1.4.5.2. Pro: Human Rights watch is concerned that the journalists who use Google's products would be at risk of being [spied on and/or jailed](https://www.theverge.com/2018/8/18/17724960/google-china-dragonfly-employee-protest) by the Chinese government.
+1.4.5.3. Pro: Chinese law requires any company that provides internet services to Chinese citizens to [locate](http://fortune.com/2017/08/14/apple-china-icloud-data-center/) their data centers and servers in the country. This increases the risks of data being unethically obtained or destroyed by the Chinese government.
+1.4.5.4. Pro: Chinese law explicitly [requires](https://qz.com/1170046/tencents-wechat-denies-storing-chat-history-but-its-users-are-monitored-by-the-chinese-government/) tech companies to store data to assist law enforcement.
+1.4.5.5. Pro: It has been reported that Google's Chinese search engine will [link searches](https://theintercept.com/2018/09/14/google-china-prototype-links-searches-to-phone-numbers/) to personal phone numbers, making it easy for users to be monitored.
+1.4.6. Con: When the Chinese state obtains data from Chinese internet companies to oppress its citizens there is very little that Chinese citizens can do to seek justice. In contrast, if the Chinese state obtains data from a Western company to oppress its citizens Chinese citizens will find it comparatively easier to [gain compensation](https://www.scmp.com/news/china/article/1026842/china-frees-yahoo-dissident-after-10-years).
+1.4.6.1. Pro: People outside China will have a window on the oppression that's going on inside. presumably Google employees will have to be able to talk to each other in order to do their job in helping the Chinese government's oppression/suppression.
+1.4.6.2. Con: -> See 1.1.2.3.2.
+1.4.7. Pro: Google accepting Chinese censorship is a huge [victory](https://theintercept.com/2018/08/01/google-china-search-engine-censorship/) for the state.
+1.4.7.1. Pro: Google is the largest search engine in the [world](https://www.digitaltrends.com/web/google-baidu-are-the-worlds-most-popular-search-engines/). Its acceptance of censorship and privacy breaches signals that no one will continue to stand up to these activities by the Chinese government.
+1.4.7.1.1. Pro: This sends a dangerous message to companies like Facebook and Twitter, who are also [interested](https://www.wsj.com/articles/mark-zuckerbergs-beijing-blues-1485791106) in accessing the Chinese market.
+1.4.7.1.1.1. Pro: [Reports](https://www.zdnet.com/article/facebook-plans-to-enter-china-by-setting-up-local-subsidiary-report/) suggest that Facebook is already planning on accessing China by setting up a local subsidiary.
+1.5. Con: Google complying with China's censorship policy means that there is less incentive for the Chinese government to abolish the laws which denies citizens free access to information on the internet.
+1.5.1. Con: Google left China 8 years ago. If they were able to exert enough pressure on the Chinese government to abolish their censorship laws by refusing to operate within the country, it would have happened by now.
+1.5.1.1. Pro: -> See 1.2.9.2.
+1.5.1.2. Con: It's not on Google to change the attitude of Chinese government. Google is not a global policy changer - it's a company that works for profit - hence, if it was against their ethical policy, they should have done what they did.
+1.5.2. Pro: Google left China in order to [stimulate](https://www.telegraph.co.uk/technology/google/7503641/Sergey-Brin-My-upbringing-in-USSR-helped-shape-Googles-views-on-China.html) progress towards a more open internet. Capitulating to China now removes that pressure for change.
+1.5.3. Con: The Chinese government doesn't make decisions on the basis of what one Western company does or doesn't do; decisions are made on the basis of what is good for the State and good for the Chinese Communist Party.
+1.5.3.1. Con: Google is a global company which clearly has influence that reaches beyond a normal western multinational company.
+1.5.3.1.1. Con: -> See 1.4.7.
+1.5.3.1.2. Pro: [Alphabet](https://en.wikipedia.org/wiki/Alphabet_Inc.), created by Google to serve as its parent company, ranked 23rd on Forbes list of the [Worlds Largest Public Companies](https://www.forbes.com/global2000/list/#tab:overall) 2018, and was the 4th biggest tech company in the world.
+1.5.3.2. Pro: China has seemingly been coping quite well with Google's absence so far as Baidu has been able to take up the role that Google would've played had they stayed in China.
+1.5.3.2.1. Con: -> See 1.1.3.1.1.
+1.5.3.2.2. Pro: -> See 1.1.2.4.1.1.
+1.5.3.2.3. Con: A poll showed that [90%](https://www.androidauthority.com/google-china-baidu-ceo-893066/) of people would use Google China over Baidu.
+1.5.3.2.3.1. Pro: [Multiple](https://www.bbc.com/news/world-asia-china-36248193) [scandals](https://qz.com/593120/chinese-citizens-are-boycotting-search-engine-baidu-and-praying-for-google-to-come-back/) just two years ago have lead many to boycott Baidu, and these scandals have dented the company's reputation severely.
+1.5.3.2.3.2. Pro: -> See 1.1.3.1.1.
+1.6. Pro: Google's search engine is superior to Baidu.
+1.6.1. Pro: Google offers a significantly more user friendly service, because it does not bombard customers with paid ads that are [indistinguishable](https://www.theinquirer.net/inquirer/news/1047760/china-google-baidu-china-baidu-google) from search results.
+1.6.1.1. Pro: These ads often mislead and anger customers. The death of a student who had been following the advice of an ad has cemented a reputation that Baidu is "[evil](https://qz.com/674030/baidu-chinas-version-of-google-is-evil-a-growing-number-of-users-say/)".
+1.6.2. Pro: Since Google's search engine is superior to Baidu, it will better enable China's residents to access knowledge that could improve their social mobility.
+1.6.3. Con: Baidu has scanned [more](https://www.marketingtochina.com/baidu-killed-google/) Chinese websites than Google. Thus, it is unsurprising that Baidu produces better results for local users.
+1.6.4. Con: Since Baidu is a Chinese company, it has a superior understanding of Chinese culture and language, making it much better positioned to attract Chinese users.
+1.6.4.1. Pro: [Chinese language](https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp) is complex with some words having multiple meanings. Baidu’s search algorithms place a lot of relevance to the context in which the words are used in the content. Google, both as business and as technology, appears to have struggled on these fronts in China.
+1.6.4.1.1. Con: Google reentering the Chinese market will encourage it to fix these issues to gain market share.
+1.6.4.2. Pro: Since Baidu is designed by people who better understand Chinese language and culture, Chinese internet users will often obtain more [relevant search results](https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp#ixzz5PVvK4lQr) if they use Baidu instead of Google.
+1.6.4.2.1. Con: -> See 1.1.3.1.1.
+1.6.4.2.2. Con: -> See 1.5.3.2.3.
+1.6.4.3. Pro: Baidu [offers](https://www.investopedia.com/articles/investing/051215/baidu-vs-google-how-are-they-different.asp) services such as missing person search, senior citizen search and patent search. These are popular in China and not provided by Google.
+1.6.4.3.1. Pro: -> See 1.6.4.1.1.
+1.6.4.4. Pro: Baidu Translate is better for translating Chinese than Google Translate is.
+1.6.4.4.1. Con: Baidu translate [promotes](https://blogs.wsj.com/chinarealtime/2015/06/05/found-in-translation-the-mysterious-case-of-baidu-translate/) pro Chinese government messages within its translations.
+1.6.4.4.2. Con: -> See 1.6.4.1.1.
+1.6.4.4.3. Pro: Baidu uses Artificial Intelligence and Deep Learning [technology](https://slator.com/technology/baidu-translate-the-inside-story/), which is more effective than Google's phrase based approach.
+1.6.4.5. Con: Google would likely hire Chinese employees to improve the services they offer in China. These employees would have the same understanding of Chinese language, culture and heritage as Baidu employees.
+1.6.4.5.1. Con: Hiring Chinese employees is not comparable to having a company which is fundamentally Chinese, from not just employees but to its core structure.
+1.6.4.5.2. Pro: Google possesses the funds and the experience as a global web-giant to adapt to the Chinese market.
+1.6.4.5.2.1. Con: -> See 1.2.5.1.2.1.
+1.6.5. Pro: As a globally used search engine, Google would allow the Chinese citizens to better connect with the rest of the world on a social and cultural level.
+1.6.5.1. Con: -> See 1.1.2.3.1.1.1.3.
+1.6.6. Con: Even if Chinese competitors to Google are currently inferior, there is no intrinsic reason why Chinese companies will not eventually offer a product which is equal to, or better than, Google's search engine.
+1.6.6.1. Con: The lack of competition in the market means Chinese search engines have no incentive to improve.
+1.6.6.2. Con: Similarly, there is no intrinsic reason why Chinese companies necessarily would eventually end up offering a product of equal quality.
+1.6.6.3. Con: Google guards its developments effectively with [patents](https://modern-counsel.com/2016/allen-lo/). This makes it very difficult to replicate their services.
+1.6.6.3.1. Pro: Chinese law has recently been [amended](http://www.mondaq.com/china/x/472604/Patent/Enforcing+Your+Patent+Right+In+China) to strengthen IP rights and patent enforcement.
+1.6.7. Pro: -> See 1.1.3.1.1.
+1.7. Con: Google would not be able to compete with Baidu in China.
+1.7.1. Con: -> See 1.6.1.
+1.7.2. Pro: When Google left China in 2010, it had a [30%](https://www.calcalistech.com/ctech/articles/0,7340,L-3745018,00.html) share of the market. This demonstrates that Google was unable to out compete Baidu.
+1.7.2.1. Pro: When Google previously operated in China, its success was [limited](http://www.d.umn.edu/~jford/phil3242/Google's%20China%20Problem%20\(and%20China's%20Google%20Problem\)%20-%20New%20York%20Times.pdf) \(p.3\) to middle class Chinese internet users who were urban professionals and who self defined as 'cosmopolitan' rather than 'nationalistic.'
+1.7.2.2. Pro: This would be exacerbated by the eight-year interregnum where Baidu was able to entrench their brand loyalty.
+1.7.3. Con: Google does not have to be more successful within China than Baidu in order for its operations within China to be profitable.
+1.7.4. Pro: Chinese business owners will often [lobby](http://www.d.umn.edu/~jford/phil3242/Google's%20China%20Problem%20\(and%20China's%20Google%20Problem\)%20-%20New%20York%20Times.pdf) \(p.5\) the Chinese government to place restrictions that limit the success of Western companies.
+1.7.4.1. Pro: Google does not yet have [permission](https://www.cnbc.com/2018/08/02/reuters-america-update-2-google-plans-return-to-china-search-market-with-censored-app--sources.html) to launch in China.
+1.7.4.1.1. Pro: The CPC operates on a pragmatic level, and offers space to international companies on the basis of what they can [offer](http://time.com/5356076/google-china-censorship/) to China. From the government's point of view, it is unclear that Google has much to offer beyond what Baidu already does. Google may not get permission.
+1.7.4.1.1.1. Pro: It is possible that in order to get permission, Google will have to submit to invasive data sharing agreements with the Chinese government.
+1.7.4.1.1.1.1. Pro: -> See 1.4.5.3.
+1.7.4.1.1.1.2. Pro: -> See 1.1.2.3.1.2.1.1.1.
+1.7.4.1.2. Con: The People's Daily, China's State run newspaper, has made it clear that Google is ["welcome"](https://www.irishtimes.com/business/technology/google-welcome-to-return-to-china-if-it-complies-1.3588635) to return so long as it complies with Chinese censorship laws.
+1.7.4.2. Pro: Baidu has deep ties with the Chinese government and even contributes to course curriculum in some [universities](http://time.com/5356076/google-china-censorship/). It would take significant political capital to undermine Baidu's position.
+1.7.4.3. Con: Google is developing relationships with Chinese companies to [demonstrate](http://fortune.com/2018/08/12/google-china-local-partners/) to the Chinese government that it is contributing to China's economic growth. This strategy will prevent the Chinese government from placing obstacles that restrict Googles' growth in China.
+1.7.5. Con: When rumours surfaced of Google returning to China, Baidu shares fell by [7.7%](https://www.reuters.com/article/us-china-google/google-plans-return-to-china-search-market-with-censored-app-sources-idUSKBN1KN09C) showing investors have confidence in Google over Baidu.
+1.7.5.1. Con: In 2017, Baidu had an extremely profitable year with its share price increasing by almost [15%](https://www.investopedia.com/investing/baidu-shares-surging-big-second-quarter/), showing investors also have confidence in Baidu.
+1.7.5.1.1. Con: This increase in share price occurred in a year when ["no timetable had been set"](https://www.cnbc.com/2017/03/12/is-google-another-step-closer-to-being-unblocked-in-china.html) for Google to reenter China in the foreseeable future.
+1.7.6. Pro: It's unlikely that Chinese citizens would use a foreign search engine over the Chinese engine Baidu.
+1.7.6.1. Pro: -> See 1.6.4.
+1.7.6.2. Pro: Chinese users [prefer](https://www.weforum.org/agenda/2017/09/meet-china-s-social-media-giant-everything-you-need-to-know-about-tencent/) Wechat to Facebook, because the former is a Chinese rather than a foreign owned company. Similarly, Chinese customers prefer [Alibaba](https://www.repricerexpress.com/amazon-vs-alibaba-winning/) to [Amazon.](http://uk.businessinsider.com/amazon-is-struggling-to-find-its-place-china-2017-8?r=US&IR=T)
+1.7.6.2.1. Con: This is begging the question. Chinese people use Wechat more than Facebook because Facebook is banned in the country. If Facebook was more accessible, the results might be different.
+1.7.6.3. Con: -> See 1.1.2.4.1.1.2.
+1.7.7. Pro: -> See 1.1.2.4.1.1.
+1.7.8. Con: -> See 1.5.3.2.3.
+1.8. Con: Succumbing to Chinese government's demands will send a negative message to other google users across the globe. The perception of google might change from a neutral search engine to a 'propogandist' machinery especially during such delicate times when 'fake' news or misinformation is very pervasive. Overall, it might hurt google more than help it
+1.9. Pro: Google is already censoring search results in the west based on political decisions of sovreign nations. It wouldn't matter much if they agree to censor Chinese search result on behalf of their legitimate goverments requests as well. [Google censorship in EU](https://en.wikipedia.org/wiki/Censorship_by_Google)
+1.10. Pro: Google is a company whose goal is to make a profit. It does not need to worry about ethical concerns if operating in China is profitable.
+1.10.1. Pro: Other [western companies](https://www.wired.com/story/google-faces-hurdles-in-china-beyond-censorship/), such as LinkedIn and Apple, are operating in China. If Google does not operate in China, rival companies will gain a competitive advantage over them.
+1.10.1.1. Con: Companies such as LinkedIn, a professional networking site, and Apple, a company largely based upon technology design, do not suffer from the issue of censorship to the same degree as Google would in China.
+1.10.1.1.1. Pro: Linkedin is used for professional networking rather than for general information seeking. As such, censorship would not affect the quality of the primary use of the website.
+1.10.1.1.1.1. Con: China is imposing increasingly strict [regulations](https://www.nytimes.com/2017/11/10/business/linkedin-china.html) on LinkedIn, proving their ability to control online companies under their jurisdiction.
+1.10.1.1.2. Pro: Apple's products are censored to a relatively small scale; where Google's main product, its search engine, would be heavily censored by China, Apple's main product, its iPhone, only suffers from censorship in its [App Store](https://thenextweb.com/apple/2017/10/20/no-apple-isnt-enabling-chinese-censorship/).
+1.10.1.1.2.1. Pro: Apple is [wildly popular](https://www.scmp.com/tech/enterprises/article/2131811/apples-china-sales-grow-second-straight-quarter-strong-iphone) in China.
+1.10.1.1.3. Con: LinkedIn does not offer all of its regular [tools](https://www.nytimes.com/2014/10/06/technology/to-reach-china-linkedin-plays-by-local-rules.html) on its website in China, in order to comply with Chinese law.
+1.10.1.1.4. Con: These companies, unlike Google, are not search engines so it makes sense that they are less censored.
+1.10.1.2. Pro: Facebook has already taken a number of steps, including setting up an innovation [hub](https://www.wsj.com/articles/facebook-setting-up-innovation-hub-in-china-in-bid-to-boost-presence-1532452700) in Hangzhou, in order to boost its presence in China.
+1.10.1.2.1. Con: Facebook's attempts to break into China have been consistently [rebuffed](https://www.nytimes.com/2018/07/25/business/facebook-china.html). It seems that they are not gaining significant [ground](https://techcrunch.com/2016/11/23/facebook-china-struggle/).
+1.10.1.2.2. Con: Facebook is unable to deploy one of its most powerful services in China - to connect to people all over the world. People from Uganda can connect with people from Peru, using Facebook, but not China.
+1.10.1.3. Con: Companies such as LinkedIn and Apple do not compete with Google as they offer different services.
+1.10.1.3.1. Con: Apple and Google share some similar services such as offering web browsers and cellular devices.
+1.10.1.3.1.1. Pro: While Apple doesn't have a search engine to offer yet, they have the capital and the opportunity to create one if Google doesn't reenter China.
+1.10.1.3.1.1.1. Con: Baidu's dominance in China will deter Apple as much as Google's presence in the Chinese market would.
+1.10.1.3.1.1.1.1. Pro: -> See 1.1.2.4.1.1.
+1.10.1.3.1.1.1.2. Con: -> See 1.1.3.1.1.
+1.10.1.3.1.1.2. Con: Google has been out of the Chinese market for years. If Apple intended to fill that void, they probably would already have done so.
+1.10.1.3.1.1.3. Con: It is estimated that Google pays Apple [$3 billion](http://uk.businessinsider.com/google-paid-apple-3-billion-remain-iphone-default-search-engine-analyst-estimate-2017-8?r=US&IR=T) a year to be the default search engine on Apple devices. Apple would be unlikely to forgo this guaranteed payment \(which makes up approximately 5% of their yearly profit\) for the risky move of trying to compete with Baidu in China.
+1.10.2. Con: The obstacles that Google will face when operating in China may negatively affect the company’s stock price.
+1.10.2.1. Pro: If China uses data obtained from Google to commit [human rights violation](https://www.nytimes.com/2017/04/11/business/yahoo-lawsuit-china-dissidents-fund.html)s, this may damage Google's international reputation and may effect its share price.
+1.10.2.2. Pro: It has become [increasingly difficult](https://www.cnbc.com/2018/08/04/google-censored-search-app-in-china-costs-and-benefits.html) to monetize the search engine business. Advertisers increasingly prefer to place adverts in social media news feeds or on eCommerce and video websites. Some analysts claim this will make it hard for Google to make a profit in China.
+1.10.2.3. Pro: Analysts claim that Chinese citizens are [indifferent](https://www.cnbc.com/2018/08/04/google-censored-search-app-in-china-costs-and-benefits.html) to the potential arrival of Google in China. Chinese internet users do not believe that Google’s offering will be significantly different to Baidu. This suggests it will be difficult for Google to gain a significant market share and make a profit in China.
+1.10.2.4. Pro: -> See 1.7.6.2.
+1.10.2.5. Pro: Google will struggle to persuade Chinese users to abandon the [Baidu ecosystem](https://blog.sinorbis.com/blog/why-biggest-businesses-world-failed-china). Baidu offers a range of [services](https://en.wikipedia.org/wiki/Baidu) in addition to its search engine. These include dating apps, music apps, virtual assistants, and online encyclopedias. Chinese users are familiar with this ecosystem and value the social interactions and services provided by it.
+1.10.2.5.1. Con: -> See 1.5.3.2.3.
+1.10.2.6. Con: Google has a number of existing partnerships with local Chinese companies. This may help Google to overcome many of these obstacles.
+1.10.2.6.1. Pro: For example, Google already has a preexisting partnership with Chinese e-commerce company [JD.com](https://www.thedrum.com/news/2018/06/18/google-partners-with-chinese-e-commerce-giant-jdcom-next-generation-retail).
+1.10.2.6.2. Pro: Google bought Chinese web directory [265.com](https://mashable.com/article/google-265-com-china/?europe=true#iDExkdo5Ukqq) in 2008. The data Google has collected from Chinese users of this website will help it to build a search engine which caters specifically to Chinese users.
+1.10.3. Con: -> See 1.2.5.1.
+1.10.4. Con: Google as a company has it's own ethical guidelines, that are [published frequently](https://www.businessinsider.com/google-principles-ai-tech-2018-6). If we would follow the same line of argumentation, it would follow that we don't need to care if Apple for example uses child labor when they produce their hardware in China.
+1.10.5. Con: Plans to enter China have [outraged](https://theintercept.com/2018/08/03/google-search-engine-china-censorship-backlash/) Google employees. Undermining company morale will affect those employees productivity.
+1.10.5.1. Pro: In the past, Google's cooperation in drone technology lead to an internal [revolt](https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533). Although many would argue that this is not as morally reprehensible, the level of outrage expressed by workers certainly is.
+1.10.5.2. Pro: -> See 1.2.6.1.
+1.10.6. Pro: Companies routinely have to do things which are not necessarily good in order to make a profit. For example, making the staff redundant harms those staff members but allows for the company to profit due to savings on wages.
+1.10.7. Pro: Presumably, given approximately [772 million](https://www.statista.com/statistics/265140/number-of-internet-users-in-china/) people have internet access in China, this can result in Google displaying more ads and therefore earning more revenue.
+1.10.7.1. Pro: Chinese smart phone users spent nearly $35 billion on apps in [2017](https://www.cnbc.com/2018/01/17/google-misses-out-on-billions-in-china.html). This represents a huge market which Google is missing out on.
+1.10.7.2. Con: Most of China's internet searches are done on smartphones which already have their [own search engines](https://yourstory.com/2018/08/google-reportedly-tracked-search-terms-chinese-website-redirects-baidu/) so Google would find it difficult to access a large part of this market.
+1.10.7.2.1. Con: Presumably Google would not enter China unless they believed they could compete.
+1.10.7.2.1.1. Con: Google is so big that they can afford to fail in China without it significantly impacting the company. This can make them more careless in assessing their chances of breaking into the market.
+1.10.7.2.1.1.1. Con: Google would be conscious of the potential damage to their reputation that entering China would have, and would therefore be unlikely to make the move unless they were reasonably sure they could compete with Baidu on a profitable enough scale to make such a hit worth taking.
+1.10.7.2.1.2. Pro: -> See 1.7.
+1.10.8. Con: Google has in the past acted in an ethical manner and should continue to do so now, not solely focusing on profit.
+1.10.8.1. Pro: -> See 1.2.
+1.10.9. Con: It is often expected that a company limit their ability to make profit due to ethical concerns such as complying with minimum wage laws and workplace safety regulations.
+1.10.9.1. Con: While some states do this, there is a disparity within these laws between many states, showing that there is no consensus on the correct extent of the right to limit business practices for ethical reasons.
+1.10.9.2. Con: Such limitations are imposed by states. Actions undertaken by states are not necessarily correct or legitimate just because of the actor.
+1.10.9.3. Pro: The existence of democratically enacted limits, such as environmental regulations, minimum wage laws, and workplace safety regulations indicate that society writ-large believes that there are considerations other than pure profit.
+1.10.10. Con: -> See 1.2.4.
+1.11. Con: By censoring their search results, Google is acknowledging the legitimacy of China's oppression of its citizens.
+1.11.1. Pro: -> See 1.1.2.3.1.1.
+1.11.2. Pro: -> See 1.2.5.2.
+1.11.3. Con: Google complies with laws even if it doesn't agree with them. Google complied with rulings it appealed and is very unlikely to approve, such as a recent fine from the [European Court of Justice](https://www.irishtimes.com/business/technology/google-lodges-ecj-appeal-against-2-4bn-shopping-service-fine-1.3217113).
+1.11.3.1. Con: There is a meaningful distinction between disagreeing with a ruling because it is not beneficial to you, and protesting the [abuse](https://www.hrw.org/world-report/2018/country-chapters/china-and-tibet) of human rights because it is illegitimate. The latter should not be compromised upon.
+1.11.3.1.1. Pro: A stance against oppression is both morally significant, and is required by the company's code of conduct to 'Do the right [thing](http://time.com/4060575/alphabet-google-dont-be-evil/)'. Defending self-interest is not mandated by either of these concerns.
+1.11.3.2. Con: Google originally left China specifically so that it did not have to comply with laws it didn't agree with.
+1.11.4. Con: Censoring results says nothing of most aspects of China's oppression of it citizens, such as extrajudicial detention.
+1.11.5. Pro: Acceding to China's demands makes it clear to other large authoritarian [states](https://www.cjr.org/the_new_gatekeepers/google-china-censorship.php) that Google is willing to offer a tailored service if the alternative is not being allowed entry to the market.
+1.11.5.1. Con: It is likely that the size of China's market and their global political power makes them a unique case.
+1.11.5.2. Pro: [Russia](https://www.nytimes.com/2018/04/30/world/europe/russia-telegram-digital-resistance.html) has already taken steps to censor the internet, including taking measures against [Google](https://www.reuters.com/article/us-russia-telegram-ipaddresses/russia-blocks-google-amazon-ip-addresses-in-bid-to-ban-telegram-idUSKBN1HO1WM).
+1.11.5.2.1. Pro: These developments are reportedly an effort to [emulate](https://www.independent.co.uk/news/world/europe/russia-internet-censorship-facebook-regulations-rules-a8315656.html) China's actions. Capitulating to China thus sets a dangerous precedent.
+1.11.5.2.1.1. Pro: If Google will start filtering content for China, there is no guarantee that it will not do it in other cases. This precedent will affect Googles reputation and as a result will have negative impact on profit
+1.11.5.2.2. Pro: Russia can rely on its own search engine [Yandex](https://en.wikipedia.org/wiki/Yandex) rather than Google, making it easier to demand more from Google.
+1.11.5.3. Pro: The founder of Greatfire.org, an organisation dedicated to opposing censorship on the internet, has [warned](http://time.com/5356076/google-china-censorship/) that other nations will demand the same service if it is offered to China.
+1.11.6. Con: In practice, abandoning the Chinese market is a more complete capitulation to Chinese censorship because it only serves to deny consumers in China any access to Google's services.
+1.11.6.1. Pro: -> See 1.3.
+1.11.7. Con: When Google operates in the United States, it is not criticized for legitimizing American foreign policy or America's treatment of African Americans. Singling out China for oppressing its citizens is hypocritical and orientalist.
+1.11.7.1. Con: The fact that Google isn't criticised as much for not taking a stance in other countries does not mean they shouldn't be criticised for legitimising oppressive policies, just that they should also be criticised more for not taking an stronger stance against US foreign policy.
+1.11.7.1.1. Pro: The massive size of Google means that it cannot avoid shaping societies whether it wishes to or not. This means they have an obligation to use their influence responsibly.
+1.11.7.2. Con: Google is a web-based company and is directly influenced by China's oppressive companies. The same cannot be said regarding US foreign policy nor for the structural racism that exists within the US, as they are wildly separate issues.
+1.11.7.2.1. Pro: Private companies, like Google, are not appropriate actors to take a stance on issues which they're not directly affected by.
+1.11.7.3. Pro: The US National Security Agency paid Google $2,000,000 to provide it with search tools that were subsequently used to [violate](https://wikileaks.org/google-is-not-what-it-seems/) the Foreign Intelligence Surveillance Act.
+1.11.7.4. Pro: Google helped launch GeoEye-1, an NGA spy satellite into space. Images from the satellite are [shared with](https://wikileaks.org/google-is-not-what-it-seems/) the US military.
+1.11.7.5. Pro: Google helped to build [Intellipedia](https://wikileaks.org/google-is-not-what-it-seems/) a network which is used by US spy agencies to share intelligence.
+1.11.7.6. Pro: [Edward Snowden](https://www.washingtonpost.com/world/national-security/nsa-infiltrates-links-to-yahoo-google-data-centers-worldwide-snowden-documents-say/2013/10/30/e51d661e-4166-11e3-8b74-d89d714ca4dd_story.html?utm_term=.2db8d6d5117b) revealed that the US government breached its citizens privacy by illegally obtaining data from Google data centers around the world.
+1.11.7.7. Pro: Since 2009 Google has received [6,962](https://transparencyreport.google.com/government-removals/overview?hl=en&authority_search=country:US&lu=authority_search) requests from the USA to remove content.
+1.11.8. Pro: -> See 1.4.
+1.11.9. Con: The Chinese state has a right to censor the internet to ensure [the nation's stability](https://www.cnbc.com/2018/08/07/google-welcome-in-china-as-long-as-it-complies-with-law-state-media.html).
+1.11.9.1. Pro: The People’s Daily, the Chinese Communist party's official newspaper, defended internet censorship by [stating](https://www.cnbc.com/2018/08/07/google-welcome-in-china-as-long-as-it-complies-with-law-state-media.html): "No country will allow the internet to be filled with pornography, violence, subversive messages, ethnic separatism, religious extremism, racism and terrorism.".
+1.11.9.1.1. Con: The [level](https://www.theatlantic.com/international/archive/2018/02/china-surveillance/552203/) of surveillance and censorship in China is significantly more than what exists in the majority of other states.
+1.11.9.1.2. Con: A newspaper owned by the Chinese Communist party will always paint the government's actions as being legitimate. This defense does not justify the censorship.
+1.11.9.1.3. Con: The "Peoples" Daily is not a credible representation of the Chinese people's opinion given that it completely ignores the issue of the China Government trying to [stifle women's voices](https://www.hrw.org/news/2017/03/07/international-womens-day-china-muffles-womens-voices).
+1.11.9.2. Pro: Western companies such as Google should respect the customs and laws of the nations that they operate in.
+1.11.9.2.1. Pro: It is not the company's obligation to try to shape societies but to operate the market as it is laid out.
+1.11.9.2.1.1. Con: -> See 1.11.7.1.1.
+1.11.9.3. Con: The fact that Chinese citizens lack fundamental freedoms which citizens in most other countries enjoy is likely causing more discontent within the nation.
+1.11.9.3.1. Con: -> See 1.3.4.4.
+1.11.9.3.2. Con: This assumes that the government's propaganda hasn't been effective in preventing those desires from fostering in the populatin writ large.
+1.11.9.3.2.1. Con: Citizens are [protesting](https://www.hrw.org/news/2012/08/03/chinese-governments-oppressive-policies-draw-ire-public) more frequently in China despite the government's attempts to silence them.
+1.11.9.3.2.2. Pro: The Chinese government are taking several [measures](http://cimsec.org/controlling-masses-protests-media-peoples-republic-china/36563) to ensure that protests have as little impact as possible. This includes using censorship to silence citizens, both leading up to and during demonstrations, as well as portraying protesters as violent and lawless.
+1.11.9.4. Pro: [Terrorist attacks](https://thediplomat.com/2016/07/tibet-xinjiang-and-chinas-strong-state-complex/) initiated by groups who seek independence from China frequently occur in major Chinese cities. It is reasonable for China to censor parts of the internet in order to prevent such attacks occurring.
+1.11.9.4.1. Con: Censoring the internet does not stop these attacks. The groups who commit these actions can still use VPNs to communicate.
+1.11.9.4.1.1. Pro: VPNs make it easier for [radicalized](https://www.csis.org/npfp/evolving-tech-evolving-terror) individuals to communicate.
+1.11.9.4.1.2. Con: -> See 1.1.2.3.1.1.1.3.1.1.
+1.11.9.4.2. Con: These attacks are due to the actions of the Chinese government and have not stopped even though the internet is censored [\(Boehm p.67\)](https://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1008&context=jmeil).
+1.11.9.4.3. Con: Chinese censorship and surveillance far oversteps what might be proportionate to counter these attacks.
+1.11.9.4.3.1. Con: Online censorship prevents terrorists from using the internet to recruit people. It is not an example of the Chinese state acting disproportionately.
+1.11.9.4.3.1.1. Con: Online censorship allows the state to get away with human rights abuses without people finding out. The possible harms from corruption are therefore worse than the possible security gained from preventing terrorist radicalisation.
+1.11.9.4.3.2. Pro: Constant state [monitoring](https://www.theatlantic.com/international/archive/2018/02/china-surveillance/552203/) denies citizens privacy. It strips individuals of dignity and piece of mind to know that they are constantly watched.
+1.11.9.4.3.2.1. Con: It is wrong to assume that citizens in China are as concerned about their privacy as citizens in the West are. Data collected from interviews suggests that Chinese citizens are [more willing to accept](https://www.npr.org/templates/story/story.php?storyId=92489122&t=1536795651217) state interference in their lives.
+1.11.9.4.3.2.1.1. Con: People become accustomed to the circumstances in which they live; Chinese citizens are more willing to accept state interference in their lives because they live in a state where that is already the norm. If China afforded its citizens more privacy, it is likely that those citizens would then grow to expect and appreciate such privacy.
+1.11.9.4.3.2.1.1.1. Con: This does not inherently make one preference "better" than the other. If people are happy in their culture, that is what is best for them. Just because some people like privacy does not mean all people do.
+1.11.9.4.3.2.1.1.2. Con: This claim assumes that people in the West and in China are inherently similar and thus will respond to issues such as privacy in an identical way. This is overly simplistic and does not account for differences in culture and beliefs.
+1.11.9.4.3.2.1.1.2.1. Con: Chinese people are never given the option of living in a society with government surveillance or not. There is no cultural reason why they would not want more privacy.
+1.11.9.4.3.2.1.1.2.2. Pro: State surveillance is [ubiquitous](https://www.theguardian.com/world/2018/mar/10/chill-looks-set-linger-reporting-from-xis-china) and publicly known in China. Its frequency itself makes it less alarming to individuals.
+1.11.9.4.3.2.1.1.2.3. Pro: Many Chinese citizens have a radically different conception of a person's claim to privacy compared to the state's duty to [protect](https://www.washingtonpost.com/opinions/cyber-surveillance-is-a-way-of-life-in-china/2016/01/29/e4e856dc-c476-11e5-a4aa-f25866ba0dc6_story.html?utm_term=.9265c0092ad3). Such is the acceptance of surveillance that phone users are made aware when particular attention is paid to their calls.
+1.11.9.4.3.2.1.1.2.4. Pro: Most Chinese citizens believe that ethnic minorities should assimilate, rather than maintain separate identities. They support policies that ensure the dominance of [Han](https://www.theguardian.com/commentisfree/2009/jul/10/china-han-identity-uighur) culture and identity within China.
+1.11.9.4.3.2.1.2. Pro: Polls suggest that [85%](https://www.npr.org/templates/story/story.php?storyId=92489122&t=1536795651217) of Chinese citizens support the idea that the Chinese state should control what is on the internet.
+1.11.9.4.3.2.1.2.1. Pro: Many people likely feel safer knowing that what happens on the internet is supervised and controlled if they trust their government.
+1.11.9.4.3.2.1.2.1.1. Pro: Chinese citizens report the highest level of [trust in their government](https://www.google.ie/amp/s/www.forbes.com/sites/niallmccarthy/2018/01/22/the-countries-that-trust-their-government-most-and-least-infographic/amp/) out of all countries in the world.
+1.11.9.4.3.2.1.3. Con: The information gathered is used to take oppressive actions, such as [imprisoning](https://www.hrw.org/news/2018/01/18/china-rights-crackdown-goes-global) human rights lawyers. It is not unfair to hold that they object to being surveilled.
+1.11.9.4.3.3. Con: Chinese censorship prevents organisations which are hostile to China from using the internet to spread fake news that aims to damage China’s international reputation.
+1.11.9.4.3.3.1. Pro: Baidu detects approximately [3 billion](https://www.google.ie/amp/s/www.bloomberg.com/amp/news/articles/2017-10-10/china-s-google-checks-3-billion-fake-news-claims-every-year) fake news items a year.
+1.11.9.4.3.3.1.1. Con: State supervision is not necessary to prevent this clamp down on fake news. Other companies do the [same](https://www.reuters.com/article/us-google-news/google-launches-news-initiative-to-combat-fake-news-idUSKBN1GW2C0) with no state input.
+1.11.9.4.3.3.2. Con: Everyone outside of China is still able to read this news on uncensored search engines in their own country.
+1.11.9.4.3.3.3. Con: Companies like Google already try to stop the [spread](https://www.straitstimes.com/world/google-cracks-down-on-fake-news-sites) of fake news.
+1.11.9.4.3.3.4. Con: China still [suffers](https://foreignpolicy.com/2018/09/06/chinas-lessons-for-fighting-fake-news/) from fake news.
+1.11.9.4.3.3.5. Con: Internal censorship will not improve China's international \(and therefore external\) reputation with regard to human rights abuses. It's likely that it may reduce the rate at which bad stories surface and prevent corobration by preventing the Chinese people from even thinking about them - but none of that is likely to increase the international standing of the China government.
+1.11.9.4.3.3.5.1. Pro: China has always had severe forms of internal censorship, and it has not \(seemingly\) done significant harms to their international reputation. It's unlikely that continuing their censorship regime will suddenly start to matter.
+1.11.9.4.3.3.5.1.1. Con: China's litany of rights abuses have seen it labelled a [rogue](https://www.theguardian.com/world/2017/apr/11/amnesty-criticises-rogue-state-china-as-global-death-penalty-toll-falls) state.
+1.11.9.4.3.3.5.1.2. Pro: The UK government has been criticized for "[sucking up](https://www.theguardian.com/world/2015/oct/21/britain-sucking-up-china-national-humiliation-former-adviser-steve-hilton?CMP=fb_gu)" to China.
+1.11.9.4.3.3.6. Con: -> See 1.1.2.3.1.1.1.2.1.1.1.
+1.11.9.4.3.4. Con: -> See 1.11.9.4.3.2.1.2.
+1.11.9.4.4. Pro: Without these parts of the internet being censored, the Chinese government risks escalating social unrest, which would make China less stable and less safe.
+1.11.9.4.4.1. Con: There is no evidence to suggest that censoring the internet helps to prevent this unrest.
+1.11.9.4.4.1.1. Con: If people are less aware of controversial incidents, they have fewer things to get upset about.
+1.11.9.4.4.2. Pro: If people see that other people are unhappy with the system, they might begin to question it more actively themselves. If people stop supporting their government, it becomes harder for the government to run the country productively.
+1.11.9.4.4.3. Pro: People may get riled up from seeing others violently protesting the state, and might end up becoming violent themselves.
+1.11.9.4.4.3.1. Con: The vast majority of political unrest cannot be equated with violence. Often, civic displeasure and pressure for change is entirely [peaceful](https://www.firstpost.com/world/umbrella-revolution-protesters-spend-peaceful-night-hong-kong-1736493.html).
+1.11.9.4.4.3.2. Pro: A [protest](http://time.com/4559838/hong-kong-protests-china-basic-law/) in Hong Kong which began peacefully ended up turning violent.
+1.11.9.4.4.3.3. Con: Civil disobedience comes with significant personal [risk](http://uk.businessinsider.com/china-students-missing-after-riot-police-storm-apartment-to-stop-protest-2018-8?r=US&IR=T) in China. This provides good reason to believe that violent protest is proportionate to the situation that is being protested. Preventing dissent thus leads to more violence being perpetuated when the status quo is maintained.
+1.11.9.5. Con: Internet censorship has allowed for wide scale human rights [abuses](https://www.amnesty.org/en/countries/asia-and-the-pacific/china/report-china/). It is barbaric to suggest that this is outweighed by the concern of political stability.
+1.11.9.5.1. Con: This is a societal-level value judgement. The Chinese people have evidently decided that they prefer societal stability.
+1.11.9.5.1.1. Con: As the Chinese citizens have poor access to adequate information and choice in political leadership, they clearly have not had a fair opportunity to decide what they prefer.
+1.11.10. Pro: Allowing Google to partake in this act of suppression of thought in order to compete with Baidu in the market could potentially bring further apathy towards the Chinese government acts of authoritarianism,[most chinese users, around 90%](https://www.androidauthority.com/google-china-baidu-ceo-893066/) , would switch to Google if possible, basically giving a tool of tyranny a new paint job and a sleeker design.
+1.11.10.1. Con: This would work against Chinese oppression as an essential control is moved from a Chinese to a foreign company.
+1.11.10.1.1. Con: In this scenario, China was able to strong-arm Google into following censorship guidelines, demonstrating that it would be capable of influencing the company into doing what it wants, despite being foreign.
+1.11.11. Pro: By developing search engine technology to restrict Chinese citizen's freedoms, they agree that individual freedoms of association and speech are not inherent rights
+1.11.12. Con: -> See 1.9.
+1.11.13. Con: The Chinese government is the actor implementing the censorship and therefore deserves full blame/responsibility.
+1.11.13.1. Pro: The logic that abiding by the rules of the system in order to access it is legitimizing oppressive regimes leads to absurd conclusions, like all residents of China being complicit in legitimizing China's rule.
+1.11.14. Pro: -> See 1.2.4.

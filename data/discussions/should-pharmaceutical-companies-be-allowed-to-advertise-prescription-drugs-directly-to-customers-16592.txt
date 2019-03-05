@@ -1,0 +1,25 @@
+Discussion Title: Should pharmaceutical companies be allowed to advertise prescription drugs directly to customers?
+
+1. Pharmaceutical companies should not be allowed to advertise prescription drugs directly to customers.
+1.1. Con: Advertisements in their current form are helping to spread knowledge about the side effects of the drugs.
+1.2. Pro: Drugs should stop being a product in an enviroment with industry interests, and return to their 'life saver' status.
+1.3. Pro: Advertising prescription drugs may encourage patients to try and force their doctor to prescribe advertised drug regardless if its needed or effective.
+1.3.1. Con: The doctor can always say no.
+1.4. Con: Advertisements may encourage people to find medical help for disorders that they previously haven't been treating.
+1.4.1. Pro: A treatment may not have been made obvious to a patient until seeing the advertisement.
+1.4.1.1. Con: Patients need to know all options to make an informed decision about their care.
+1.4.1.2. Pro: Customers can live under the assumptions that their symptoms are normal, common, and nothing to be alarmed about until seeing an advertisement.
+1.5. Pro: Direct advertising can lead to overuse of certain medications.
+1.5.1. Pro: Professional supervision and introduction is necessary as to not cause overuse.
+1.5.2. Con: Direct advertising itself doesn't cause overuse. A doctor would still have to authorize the frequency of dispensing pharmaceuticals.
+1.6. Pro: Advertising direct-to-customer inflates health care costs.
+1.7. Pro: It is unethical to promote pharmaceutical drugs directly to the public.
+1.7.1. Pro: Doing so can promote [off-label use](https://medium.com/\@NeilAlperstein/it-may-be-legal-but-is-it-ethical-to-advertise-prescription-drugs-for-off-label-use-a69d4052875b) of prescription drugs.
+1.8. Con: Advertisements may promote alternative treatments that suit patients better than previous medicaments.
+1.8.1. Pro: Social media marketing allows advertisers to reach customers that suffer from a particular disease and inform them about better treatment options.
+1.9. Pro: Most people have very limited medical knowledge, thats why they are not capable of choosing his/her medication on their own.
+1.9.1. Pro: Doctors are most knowledgeable about what pharmaceuticals are best for their patients. They should be the ones to thus inform them of their options.
+1.9.2. Pro: Because of limited medical knowledge, most people cannot make an informed decision on what medications are best.
+1.9.3. Pro: Advertisements may exaggerate benefits and downplay dangers associated with usage of advertised medicine, which is dangerous when the advertisement is directed to a person without in-depth medical knowledge.
+1.9.4. Con: Patients can not get prescription drugs on their own, they need to visit medical practicioner, who will make decision based on objective facts
+1.9.4.1. Con: There exists black market for prescription drugs which allows one to obtain the drug that was denied by the doctor.

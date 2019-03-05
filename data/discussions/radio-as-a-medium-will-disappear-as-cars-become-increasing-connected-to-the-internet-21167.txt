@@ -1,0 +1,21 @@
+Discussion Title: Radio as a medium will disappear as cars become increasing connected to the internet.
+
+1. Radio as a medium will remain as cars become increasingly connected to the internet.
+1.1. Con: Radio ad metrics are calculated by Nielsen, which have been shown to be unreliable and intrinsically limited, calling into question metrics such as the 10:1 ROI
+1.2. Con: Digital advertising is developing rapidly and despite limitations, has not reached its full potential
+1.2.1. Pro: Digital advertising can be much more tailored to the individual user/listener's tastes and interests than a generic radio ad.
+1.3. Con: Podcasts - which can be created independently and can be accessed anytime - are increasingly popular.
+1.4. Pro: Older generations are not as familiar with the internet as the younger ones, therefore they might be easier to reach through radio advertising.
+1.5. Pro: It has superior reach compared to other forms of media \(in the sense that a single ad can reach massive quantities of listeners in spot\).
+1.5.1. Con: This simply isn't true; the Internet has a broader reach.
+1.5.2. Pro: 3G/4G signal is usually weak, unreliable or non-existent on motorways and in remote parts of the countryside.
+1.6. Pro: It has a superior ROI at 10:1
+1.7. Pro: It is free to tune in
+1.8. Pro: The low frequencies used in transmission make it highly reliable vs. satellite or mobile broadband
+1.9. Pro: It provides an invaluable function of keeping small communities informed of local news
+1.9.1. Con: This can be achieved through other means.
+1.9.2. Con: The internet is increasingly available in smaller and more remote communities.
+1.10. Con: The majority of usage of radio occurs in-vehicle, and as cars become increasingly connected to the internet \(with 5G\), there will be many more applications vying for share of ear
+1.11. Con: Share of ear is declining as more millennials avoid radio entirely
+1.11.1. Con: Podcasts of certain radio programmes, such as Desert Island Discs on BBC Radio 4, are still as popular among millennials as among older generations.
+1.12. Con: New media such as Spotify or Apple music is commercial free, making radio inherently unattractive to the listener

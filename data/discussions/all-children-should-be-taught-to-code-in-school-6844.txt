@@ -1,0 +1,120 @@
+Discussion Title: All children should be taught to code in school
+
+1. All children should be taught to code in school
+1.1. Con: Adding coding to the school curriculum means that something else must be left out.
+1.1.1. Con: In many countries "IT" is already a subject where children learn how to use "MS Office". That's something they could learn on their own, easier than coding by far.
+1.1.2. Con: Coding can be integrated into pre-existing subjects such as sciences and mathematics. For example, Conrad Wolfram proposed [Computer-Based Maths](https://www.computerbasedmath.org/) as a way to augment mathematics curriculum with computer-based calculation.
+1.1.3. Pro: School curricula are already overloaded. This problem has been highlighted by many observers, including Nobel Laureate [Amartya Sen](http://www.thehindu.com/news/national/Banish-homework-in-primary-schools-Sen/article16854254.ece).
+1.1.3.1. Con: With good staffing and resources \(i.e. good funding\), schools can cope with the demands of expanding curricula.
+1.1.3.2. Pro: Either the basics and essentials are not taught in schools, or they are offloaded to out-of-school homework.
+1.1.4. Con: In the past, traditional subjects such as Homemaking for girls existed. These have now been abandoned and replaced with more relevant and vital subjects.
+1.2. Pro: Coding can be taught through problem-solving exercises, developing important cognitive skills such as logic and procedural thinking.
+1.2.1. Pro: Logic is a good skill to have as a citizen participating in public discourse, and for understanding the structure of language. Coding can be an engaging and practical tool for teaching logic.
+1.2.2. Pro: Coding is less abstract and more applied than maths while it develops similar skills.
+1.2.3. Con: Problem-solving and other skills can also be developed through exercises not related to coding.
+1.2.3.1. Con: True, but coding also gives the students understanding of how our digital world is made, an understanding that will give them the opportunity to create and develop new and better technology and software. Sure not everyone will be programmers, but having the understanding makes it easier to be creative in all occupations when it comes to improving it. Developing skills through many subjects is good for the students.
+1.2.4. Con: "Learning transfer" is a much debated issue in cognitive sciences and it is unclear whether coding experience can help develop thinking in other contexts.
+1.2.5. Pro: Students having computer programming experiences scored about 16 percentile points higher on various cognitive ability tests than students who did not have programming experiences. This was demonstrated in an early [meta-study](http://psycnet.apa.org/record/1992-07098-001) published in 1991.
+1.2.6. Pro: Computer code relies on strict causality and therefore teaches logic very effectively.
+1.2.7. Pro: A combination of both conceptual and procedural thinking is necessary to fully appreciate a complex problem and the different ways to solve it. [Star \(2002\)](https://eric.ed.gov/?id=ED471762) showed that students demonstrating both conceptual and procedural understanding were solving linear equations "more intelligently".
+1.3. Con: Coding and computer science are too hard and children should be allowed to play and enjoy childhood. They can become experts later.
+1.3.1. Con: There are so many games or toys available that teach children coding basics, that it is becoming more accessible and easier to learn.
+1.3.1.1. Con: Just like with many other things, kids are more apt to learn something if they have an interest in it or someone in their lives who does.
+1.3.1.2. Pro: Innovation in toy design, access to child oriented tablets and tech, all combine to teach logic skills that are the foundation for coding. [www.livescience.com](https://www.livescience.com/53957-best-coding-apps-and-toys.html)
+1.3.2. Con: If this statement was true, then there should not be schools at all. All courses have difficulties for some pupils.
+1.3.3. Con: Coding for children can be done in play or game format. Children can learn and progress through levels as their skills and interest allow.
+1.3.4. Con: Having coding skills enables children to make cool projects with arduino or other platforms.
+1.3.5. Con: But if that were a concern, schools could simply wait until middle or high school to teach coding.
+1.3.6. Pro: A lot of great coders learned as adults.
+1.3.6.1. Con: That could be said about any skill, it is not an argument for why it should not be taught to children.
+1.3.7. Con: Young children learn better and acquire new skills faster.
+1.3.7.1. Con: Adults typically learn [faster](https://www.ef.com/blog/general/is-it-really-easier-to-learn-a-language-as-a-child-2/?repeat=w3tc) than children by hours spent learning. Children appear to learn faster as they are able to devote more hours to learning.
+1.3.8. Pro: Kids already spend too much time in front of computer screens, taking away from other activities.
+1.3.8.1. Con: Programming is active, staying in front of a screen is passive. They are not related.
+1.3.9. Con: Learning Coding is not so dissimilar to learning algebra, which is already taught as part of school mathematics classes.
+1.4. Pro: Teaching coding to all students can reduce the [gender gap](https://www.bostonglobe.com/metro/2017/03/06/chart-the-percentage-women-and-men-each-profession/GBX22YsWl0XaeHghwXfE4H/story.html) in programming.
+1.5. Pro: Being able to understand computer code is important - it is becoming part of being literate.
+1.5.1. Con: The vast majority of people won't need it. Since the invention of the GUI, more and more tasks can be accomplished without writing commands or code. Today, almost everyone does some of their work on computers, but relatively few people need to write code.
+1.5.1.1. Con: Understanding coding allows automation of one-off or personal tasks which software may not support - for example, saving a list of the names of files in a folder into a text file.
+1.5.2. Pro: Our society is increasingly more reliant on information systems in all aspects of our lives.
+1.5.3. Con: As coding is a trade it should not be included as school is reserved for teaching basic skills, such as Math or English.
+1.5.4. Pro: Understanding technology is not the same as using technology. One needs to understand in order to be able to assess advantages and disadvantages, opportunities and risks.
+1.5.5. Con: Being able to interact with and use digital products does not require one to understand the code behind them.
+1.5.5.1. Con: Everyone needs a basic understanding of cars, since you might need to change a tire or do some simple maintenance. Basic programming will give you the same insights with some problems you encounter with electronic devices, programs etc.
+1.5.6. Con: As with many other engineering disciplines, training some specialists is sufficient to meet the demand - not everyone needs to know how to construct a bridge.
+1.5.7. Con: Basic literacies of writing, reading and arithmetics should be addressed better before devoting resources to coding.
+1.5.7.1. Pro: One has to know how to write and read properly in order to code.
+1.5.8. Con: The majority of computer code for software in current use is too large for anyone to understand, even those who wrote it.
+1.6. Pro: Coding skills are much needed in today's job market.
+1.6.1. Pro: The European Commission predicts [up to 825,000 IT vacancies](https://ec.europa.eu/digital-single-market/en/coding-21st-century-skill) by 2020.
+1.6.2. Pro: More and more fields such as finance, medicine, entertainment etc. are relying on programming.
+1.6.2.1. Pro: Statistical modelling, including machine learning techniques, is a crucial component of predicting market behaviour in finance.
+1.6.2.2. Pro: Virtually all trading exchanges in finance operate digitally today, and automated trading algorithms such as high frequency trading have transformed the industry beyond recognition.
+1.6.2.3. Pro: An increasing number of technologies \(e.g. genome sequencing\) allows us to collect large amounts of medically relevant data, which needs to be processed, stored, retrieved and analysed.
+1.6.2.4. Pro: A large number of films produced today rely on computer generated imagery \(CGI\) in some way.
+1.6.2.5. Pro: Computer, console and mobile game industries are big part of the entertainment sector.
+1.6.2.6. Pro: Machine learning and data science are gradually permeating all aspects of our lives and transform industries, often being referred to as the driving force behind a [new industrial revolution](https://medium.com/\@Synced/artificial-intelligence-is-the-new-electricity-andrew-ng-cc132ea6264).
+1.6.3. Con: Professions and skills that are most in demand today may not be the same as those in demand tomorrow.
+1.6.3.1. Pro: In developed countries, employment in primary and secondary sector jobs is being replaced by employment in tertiary and quaternary sectors.
+1.6.3.2. Pro: Artificial Intelligence is rapidly changing the way we program computers, potentially making our current approaches irrelevant in the future. Andrej Karpathy calls this [Software 2.0](https://medium.com/\@karpathy/software-2-0-a64152b37c35), while Andrew Ng sees a more general trend of AI facilitating a [new industrial revolution](https://medium.com/\@Synced/artificial-intelligence-is-the-new-electricity-andrew-ng-cc132ea6264).
+1.6.3.3. Con: General cognitive skills can be considered "timeless" and applicable to a wide range of jobs.
+1.6.3.3.1. Pro: -> See 1.2.
+1.6.4. Con: Computer science graduates in the UK have high unemployment rates. According to Destinations of Leavers from Higher Education 2009/10 \(HESA\), 14.7% of computer science graduates were unemployed compared to 9.1% average - the highest among all subject groups. [See page 15.](https://cphcuk.files.wordpress.com/2013/12/cs_graduate_unemployment_report.pdf)
+1.6.5. Con: Work experience usually counts more than educational background in the IT sector.
+1.6.5.1. Pro: Having a degree only means that you are good at studying, not necessarily at applying your skills in real life.
+1.6.5.2. Pro: Course content often becomes outdated fast - especially in a field like computer science - and only real-life exposure to the cutting edge can help keep up with the most relevant ideas and technologies.
+1.6.5.3. Con: Theoretical understanding helps generalise and provides rigorous foundations for solving a wide range of problems.
+1.6.5.4. Con: Work experience may provide you with skills too specific for a particular job, making it non-transferable to other jobs in the field.
+1.6.5.5. Con: Some positions may require specific qualifications. For example, research jobs in IT often need a PhD or at least a masters degree.
+1.6.6. Pro: 'There have been estimations that over the coming decade approximately 1.4 million computer science-based jobs will be created but only around 400,000 graduates will be qualified to fill them' - [edtechnology.co.uk](http://edtechnology.co.uk/Article/digital-learning-day-coding-in-schools)
+1.7. Pro: Coding can be a gateway for studying STEM subjects in the future.
+1.7.1. Pro: Universal and mandatory teaching of code may encourage students who might not have considered STEM subjects, especially girls, to take an interest in them.
+1.7.2. Pro: All areas of STEM are relying increasingly more on programming.
+1.7.3. Con: If coding is not taught well, it can dissuade students from further study of STEM subjects.
+1.7.3.1. Con: That is why we should have teachers who have degrees in programming to teach coding. If a subject is not taught well it will hinder further studying of that subject. However, this can be said about any subject, not just coding and STEM subjects.
+1.8. Pro: Being able to code gives one a new way for creative self-expression.
+1.8.1. Con: There are countless other ways of creative self-expression which are not taught at school either.
+1.8.1.1. Con: Coding only needs a computer for self-expression, unlike other ways which may require more \(varied\) resources that the school would need to provide.
+1.8.2. Pro: The creators of [Scratch](https://scratch.mit.edu/), a very popular free coding application that is used to teach procedural thinking, wrote in a [blog post](https://brightthemag.com/a-different-approach-to-coding-d679b06d83a): "We see coding as a new way for people to organize, express, and share their ideas." Scratch has been successfully adopted by many educators as a way of teaching coding through self-expression, e.g. as described by [this teacher](http://joanganzcooneycenter.org/2016/08/11/coding-as-self-expression/).
+1.8.3. Pro: There are parallels between the work of artists and programmers - expression paths are constrained by rules and both have similar concepts of using ideology and mediums as different tools to solve problems.
+1.9. Con: Teaching coding has little pedagogical value in and of itself.
+1.9.1. Pro: Children should be taught general problem-solving and creative skills, not coding. The tools for writing code change too frequently for a meaningful curriculum to persist.
+1.9.1.1. Con: The most popular languages in use today are Java \(22 years old\) and C \(48 years old\). Changes to these since then have been evolutionary, not revolutionary.
+1.9.1.2. Con: Children could be taught programming logic with tools like Scratch. This is language independent.
+1.9.1.3. Con: Writing code is relatively easy to learn and the fundamentals are language independent for the most part.
+1.9.1.4. Con: Problem solving involves a given set of tools usable to solve the problem. Coding is the most versatile tool for all logic-related problems.
+1.9.2. Con: Coding is a means of teaching formulating and understanding requirements/specifications, which is reading comprehension.
+1.9.3. Con: A large part of coding is planning and execution. Coding challenges the mind to improve these skills, usually with instant feedback.
+1.9.4. Pro: A large part of programming education involves routine, mechanical processes. These are more easily learned in a different setting \(not school\).
+1.9.4.1. Con: Only learning the language involves learning routines and mechanical processes; once the syntax of the language is known, programming is a creative process.
+1.9.5. Con: Coding may help engage otherwise disinterested learners.
+1.9.6. Con: Those with an aptitude for coding can discover it early.
+1.9.6.1. Con: School isn't the only place where one could learn coding.
+1.9.7. Con: Coding can help develop everyday life skills.
+1.9.7.1. Pro: Endurance in problem solving - bugs won't go away on their own, one has to have the tenacity and the patience to resolve the issues.
+1.9.7.2. Pro: Problem perception and situation analysis - a problem that may seem intractable can be broken down into smaller constituent problems and solved piece by piece.
+1.9.7.3. Pro: Anticipating errors - learning that perfect code is never written on the first attempt is a helpful lesson to extend to other areas of life.
+1.9.7.4. Pro: Process optimisation and systematic organisation - just as code needs to be improved to run faster and be more organised, inefficiencies in everyday life can also be addressed systematically.
+1.9.7.5. Pro: Procedural thinking - identifying and following a multi-step procedure to solve complex problems is necessary even in simple situations such as assembling IKEA furniture or figuring out why the lights don't work.
+1.9.7.6. Con: Abstraction and simplification - applying the same principles to daily life can be overly simplistic when faced with complex issues such as interpersonal relations and communication.
+1.9.8. Con: -> See 1.2.
+1.9.9. Con: [Numerous studies](http://www.sciencedirect.com/science/article/pii/S0360131512002813) have shown positive correlation between learning to code and developing general problem-solving, research, and mathematical thinking skills.
+1.9.10. Con: Coding provides training in precise, logical thought. In that respect, it slots into the pedagogical niche that used to be filled by learning geometry.
+1.10. Pro: Failing to offer coding at school puts lower socioeconomic student populations at a disadvantage compared to peers who are more likely to have reliable technology access at home.
+1.11. Con: Teaching coding effectively is impossible unless teachers are trained appropriately first.
+1.11.1. Con: This is true of most school subjects, and it not a con specific to programming.
+1.11.2. Pro: In the UK, a ten-fold increase in funding computer science at schools is needed, [according to the Royal Society](https://royalsociety.org/~/media/policy/projects/computing-education/computing-education-report.pdf), in order to put the subject on par with physics and mathematics.
+1.11.3. Pro: Only 68 per cent of England's computing teacher recruitment targets are met and, as a result, one in two schools don't offer Computer Science at GCSE, [according to the Royal Society](https://royalsociety.org/~/media/policy/projects/computing-education/computing-education-report.pdf).
+1.11.4. Con: An increasing number of educational apps are being developed that allow for teaching coding without any teacher guidance. For example, [LightBot](http://lightbot.com/) or [Scratch](https://scratch.mit.edu/).
+1.11.4.1. Con: A teacher is required to support the development of computational thinking in young minds. Abstract concepts such as computational thinking develop through formative years \(S Papert\) and teachers enable pupils to step into a new way of thinking.
+1.11.5. Con: If the inability of teachers to teach was the reason subjects would be neglected, then education as such would never have been possible from the beginning on.
+1.11.6. Pro: The need for technology teachers will be met when the demand for applicable coding class are required. Schools focus on Microsoft software user certification for monetary reimbursement. If students with Javascript or PHP experience had access to post graduation programs that non-tech students did not, then the demand for coding class would increase.  Public could push the supply and demand wheel in favor of coding courses.
+1.11.7. Con: People with programming experience could be hire to teach coding in schools.
+1.11.7.1. Con: Programming and other tech industry careers usually pay significantly more than teaching roles. People therefore need other benefits to choose teaching over an industry role, but these are rare.
+1.11.7.1.1. Con: Computer Science should not necessarily be taught by a full-time teacher. It is also possible that software developers perform single courses voluntarily.
+1.11.7.2. Pro: People with existing skills sets are better placed to teach higher levels of Computer Science qualifications.
+1.12. Con: Coding information is so widely available on the internet that  children with the potential to become talented coders will be able to teach themselves.
+1.12.1. Con: The same applies for history and maths.
+1.12.2. Con: Self learning a complex system like JavaScript or Python is extremely difficult. There are adult programmers who find it difficult to learn new technologies. It would be even harder for children.
+1.12.3. Pro: Self learning complex systems is not difficult and many adult programmers find it easy to learn using online tools.
+1.12.4. Con: Teaching children "coding" is not only about actual coding \(writing code\), but also about the underlying concepts and fundamental ideas. These are hard to grasp from texts only.

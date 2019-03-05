@@ -1,0 +1,26 @@
+Discussion Title: Is wireless charging a worthwhile feature on a phone?
+
+1. Wireless charging is a worthwhile feature on a phone.
+1.1. Con: It is not actually wireless. The wireless charger still uses a cable to connect to the wall power outlet.
+1.2. Con: There are higher power losses in the wireless charger than in a regular charger.
+1.3. Pro: Wireless charging keeps a port free on the phone. This port can be used for other things.
+1.3.1. Con: A charging port is still necessary for situations in which the hardware for wireless charging is not at hand.
+1.4. Pro: The cable of the wireless charger can be used to charge a non-wirelessly chargeable phone with the same plug.
+1.5. Pro: Wireless charging does not involve any ports or cables that can be damaged and stop working.
+1.6. Con: Wireless chargers are not always available.
+1.6.1. Con: For those situations, charging via wire is usually still an option. Wireless charging does not preclude alternatives.
+1.7. Pro: Free wireless charging pads are available in public places \(Starbucks, airports, etc.\). One can thereby even if no cable is available.
+1.8. Con: The phone cannot be picked up or moved around while it is wireless charging - with a wire, at least people can buy different lengths of charger for increased range of movement, but with wireless charging, the phone cannot leave the base
+1.8.1. Pro: Having to leave the phone on the charger makes it impossible to charge while sitting in a non-desk-environment like on a couch or bed.
+1.9. Pro: Wireless charging can be helpful in cars as it makes charging the phone easier and less distracting than dealing with a cable and plugs.
+1.9.1. Con: In cars you are supposed to operate hands-free anyhow, so a mat isn't really that useful, given you shouldn't be touching the phone when driving anyhow.
+1.10. Pro: Wireless charging is compatible with multiple brands and does not rely on specific standards, like USB-C.
+1.10.1. Pro: Saved the number of cable in the household and does not clog wall outlets
+1.11. Con: Wireless charging is slower than wired charging.
+1.12. Con: Wireless charging heats up the phone.
+1.12.1. Con: Traditional chargers often head up the phone as well, [especially Iphones.](https://apple.stackexchange.com/questions/98617/why-does-my-iphone-heat-when-charged-and-when-in-use/98621)
+1.13. Con: Wireless charging makes devices more expensive.
+1.13.1. Con: The more popular this feature gets, the cheaper it will become. The same happened for other new technologies, for example fingerprint scanners.
+1.14. Con: A wireless phone charger is more expensive than a charging cable.
+1.14.1. Con: Costs will come down once the technology establishes itself and becomes widely available.
+1.15. Pro: Wireless charging makes it easier than wired charging to pick-up the phone while charging to use it.

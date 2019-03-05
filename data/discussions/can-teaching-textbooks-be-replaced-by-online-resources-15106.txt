@@ -1,0 +1,44 @@
+Discussion Title: Can teaching textbooks be replaced by online resources?
+
+1. K12 teachers should replace textbooks with projects and teacher-selected online resources.
+1.1. Pro: Online resources are more current.
+1.1.1. Con: The content taught in subjects like math and history hardly changes and therefore doesn't have to be updated.
+1.1.1.1. Con: Many subjects constantly have new analyses, discoveries, discussion, or representations that textbooks are too slow to cover.
+1.1.2. Con: Online resources may not provide a sufficiently comprehensive and age-appropriate overview of a subject.
+1.1.2.1. Pro: Online resources tend to be briefer than books.
+1.1.2.1.1. Pro: People are getting used to brief reading, losing their [capacity to focus](https://www.theguardian.com/lifeandstyle/2018/oct/14/the-lost-art-of-concentration-being-distracted-in-a-digital-world) and learn.
+1.1.3. Pro: Resources that are up to date and relate to current events make education more interesting for students.
+1.2. Con: Textbooks are less prone to contain mistakes.
+1.2.1. Pro: The appropriateness of this claim rests on what educational institutions consider the reasonable life of a textbook.
+1.2.2. Pro: The frequent use by many students as well as teachers works as constant review process.
+1.2.3. Pro: Teachers and students have problems to identify correct information in times of fake news.
+1.2.4. Con: There are publishers of digital materials that are just as rigorous with their materials as print. It is imperative that teachers are able to tell which these are, but it is possible to find and use reliable sources online. Several print publishers also have digital imprints. Teaching kids that these reliable sources exist is very important.
+1.3. Pro: Textbooks eat up a large portion of school budgets; online resources can be cheaper.
+1.3.1. Con: The textbook industry can be reformed to lower prices without rejecting it entirely.
+1.3.1.1. Con: Perhaps, but alternatives add pressure to encourage this type of change.
+1.3.2. Pro: And Textbooks are destroyed by students over the years.
+1.3.3. Pro: A 500-student school can [save between $35 and $250 per student per year](https://www.edweek.org/ew/articles/2012/05/09/30etextbooks_ep.h31.html) by switching to digital textbooks.
+1.3.4. Pro: Some school districts have such limited budgets that textbook adoption becomes a low priority, resulting in outdated books with incomplete and often historically insufficient/inaccurate information.
+1.4. Pro: Many students simply do not do the reading. There are myriad online resources for educators to incorporate into the learning.
+1.5. Con: Textbooks standardize the learning received by each student. That is, all K12 students will be trained on a standard syllabus instead of what each teacher deems necessary.
+1.6. Pro: Online resources can open the door to world-wide view, rather than a certain outlook on topics.
+1.7. Con: Textbooks are an efficient and organized information resource.
+1.7.1. Con: Textbooks have a one-size-fits-all approach. If a teacher would like to dig deeper into a certain subject, they are not appropriate.
+1.8. Pro: Projects and multiple forms of \(re\)sources more closely resemble the real world students will enter as adults.
+1.9. Con: Textbooks are prepared by subject matter experts.
+1.9.1. Con: As long as online resources are selected by the teacher, it can easily be ensured that they are trustworthy and appropriate.
+1.9.1.1. Con: Teachers may select online resources because those resources support a particular point of view, rather than presenting certain subjects holistically.
+1.9.2. Pro: Textbook authors are more vulnerable to public scrutiny than individual teachers, meaning that subject matter experts are less likely to take controversial or poorly supported views.
+1.9.2.1. Pro: Textbooks are also reviewed by experts of various types \(content experts, classroom educators\) before the content is finalized.
+1.9.3. Pro: Because of this, textbooks serve as good reference guides for teachers without expertise in certain subject matter.
+1.9.4. Con: There also online resources prepared by teachers, experts and academics available.
+1.10. Con: Textbooks save teachers [a great amount of time](https://www.tes.com/news/textbooks-can-help-workload-crisis).
+1.11. Con: Textbooks are prepared at an appropriate reading level for learners.
+1.11.1. Con: Students in any given class are often quite variable in achievement so a given textbook cannot be ideal for all.
+1.11.2. Con: Although textbooks are written at the intended reading level for the class, there are many times when the individual students are at reading levels from very low to very high. It is the teachers knowledge of their students which would allow for various articles at appropriate reading levels to reach every student in the room. One textbook will never be able to be a good fit for every child in the room, this is where teacher-selected would be best for the students.
+1.12. Pro: Online resources are what students will encounter outside of the classroom.
+1.12.1. Con: Most effective online resources \(journals, quality papers\) are not available for free. If students are led to believe free online resources are the best way to learn new information, they are likely to run into less nutritional sources of information. Until the online media environment improves, students should not be encouraged to trust online articles.
+1.12.2. Pro: The legal field depends/is coming to depend greatly on online resources for conducting legal research.
+1.13. Pro: Projects develop social skills because of student collaboration. Textbooks focus on private learning.
+1.13.1. Con: Introverted students will suffer if forced to collaborate on projects. Social groups can exist to support social consumption of textbooks, but collaborative projects cannot be given to individuals without the risk of ostracizing students that do not want to work on a team.
+1.13.2. Pro: The collection of data humans have generated or discovered overall is too vast to be utilized by only one person effectively, making collaboration key and necessary to learn early.

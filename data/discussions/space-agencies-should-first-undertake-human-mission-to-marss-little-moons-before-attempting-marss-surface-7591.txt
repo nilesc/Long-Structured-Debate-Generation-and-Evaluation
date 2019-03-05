@@ -1,0 +1,37 @@
+Discussion Title: Space agencies should first undertake Human mission to Mars's little moons before attempting Mars's surface
+
+1. Space agency's should first undertake Human mission to Mars's little moons before attempting to set foot on Mars's surface
+1.1. Con: Phobos is [irregularly shaped](https://en.wikipedia.org/wiki/Moons_of_Mars#Characteristics), which may not hold human life as efficiently as the earth-like spherical diameter of Mars.
+1.2. Pro: A human mission to Phobos does not need any significant technological developments in contrary to a mission to the surface of Mars.
+1.2.1. Con: Human mission to Phobos or Deimos would require 1000 days in microgravity. Currently the longest ever time spent in space is 438 days.
+1.2.1.1. Con: Doubling the number of days for Hhumans spend in microgravity might enlarge health risks but is not impossible with current technology.
+1.2.1.1.1. Con: Consequences to health of prolonged exposure to microgravity were [dire enough](https://www.vice.com/en_us/article/jma83d/nasa-patient-8179-200) that more than doubling the maximum length ever reached could be life-threatening.
+1.2.1.2. Con: A Human mission to the surface of Mars would require practically the same time in microgravity or even more then a mission to it's moons because of the complex manoeuvres and preparation required to landing and relaunching a spacecraft on a high gravity object as Mars.
+1.2.1.3. Con: Most time spent by humans on space was in the ISS and Mir stations, both of which are inside the magnetosphere. Going to Mars poses completely different risks.
+1.2.2. Con: The last Phobos-Soil mission failed in [2011](http://sci.esa.int/mars-express/31031-phobos/). Even though interesting it is probably not sufficiently interesting to fund a second mission.
+1.2.2.1. Con: Many more non-Human missions to the surface of Mars failed then non-Human missions to surface of Phobos.
+1.2.3. Con: Phobos' gravitational acceleration \(it's "pull" on physical objects\) is less than 2% of that on Mars, which is already ~1/3 of Earth's. This poses major technical challenges when trying to land a craft on Phobos' surface, because any excess velocity could cause the craft to ricochet off the moon's surface.
+1.3. Pro: Phobos may expire before Mars.
+1.3.1. Pro: Due to [tidal destruction](https://en.wikipedia.org/wiki/Phobos_\(moon\)#Predicted_destruction), Phobos is predicted to expire in 30 to 50 million years. We should therefore explore it first.
+1.3.1.1. Con: It'll be easier to explore Phobos and Deimos once we establish a permanent base on Mars.
+1.3.1.2. Con: Scientific interest in Mars is larger, as it [almost certainly contains liquid water](https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars).
+1.3.1.3. Con: 30 to 50 million years is more than ample time to conduct any number of explorations, Mars first or not.
+1.4. Con: Both Martian moons are less promising for permanent settlement.
+1.5. Con: Near-Earth Asteroids present a similar technological challenge as Martian moons because of their irregular shape and landing difficulties. They also have far greater benefits in terms of human security and resources. These should be achieved first. Afterwards, the benefits of visiting Martian moons will be marginal.
+1.6. Pro: A human mission to Phobos poses far less risks of astronauts losing their lives than a human mission to the surface of Mars.
+1.6.1. Pro: Almost all attempts of landing launch rockets on planets that inherit significant gravity are failing catastrophically. Even when they do not carry fuel for relaunching it again afterwards. [Video compilation of failed rocket landings](https://www.youtube.com/watch?v=-2PWKdQzuU8)
+1.6.1.1. Con: The evidence presented represents a learning process, and is an unfair evaluation of the state of the art.
+1.6.2. Pro: Humans demonstrated they can safely land and relaunch spacecraft from low gravity moons like Phobos or Deimos in the past when they landed Human-inhabited spacecraft on Earth's natural satellite the Moon.
+1.6.3. Con: Both are equally long missions, and the risk to life in space travel doesn't limit itself to launches and landings.
+1.7. Con: The escape velocity of Phobos is only 11.39 m/s. This means that [if a human being were to jump](https://futurism.com/a-day-on-phobos/), they would literally escape the gravitational pull of the moon. Therefore, Phobos is incompatible with basic human movement, let alone a landing craft.
+1.8. Con: The surface of Phobos is most likely scientifically less interesting than the surface of Mars as available imaging by robotic spacecraft indicate it being less diverse and complex.
+1.9. Pro: A mission to Phobos would win a space race in setting the first foot on a celestial body outside the Earth-moon system from a mission to the surface of Mars.
+1.9.1. Pro: As a human mission to Phobos can be undertaken in the near future, as it is not at risk of losing trust, public support and funding as the result of long term setbacks that could plague the setup of a Human mission to the surface of Mars.
+1.9.2. Con: Given that the distance is effectively the same, the duration of the mission wouldn't be drastically different.
+1.9.3. Con: Winning the race to Phobos might lose the race to establish a human colony on Mars.
+1.10. Pro: The financial costs of a human mission to Phobos will be significantly less than a human mission to the surface of Mars.
+1.10.1. Pro: Fuel necessary to depart from either moon is less than that to depart from Mars, due to a shallower gravity well.
+1.11. Pro: A mission to Phobos would provide for a good preparation,  testing and provide a stepstone for a future mission to the surface of Mars. This reduces the risk of failure of such a future endeavor.
+1.12. Con: A successful human mission to the surface of Mars would be more historic and awe-inspiring than a human mission to the surface of it's moon Phobos.
+1.12.1. Con: Any stellar body that we succesfully land humans on for the first time is bound to be historic and awe-inspiring.
+1.12.2. Pro: Future funding and exploration is contingent on public support, if a mission does not drive public interest as well as science, it is a waste of resources.

@@ -1,0 +1,23 @@
+Discussion Title: Does The Type Of Wood That An Electric Guitar Is Made Impact Its Sound?
+
+1. The type of wood that an electric guitar's body is made of has no significant impact on its amplified sound.
+1.1. Con: Some materials might absorb sound to a higher degree, reducing echoes.
+1.2. Pro: Beauty is in the ear of the beholder. Just like good looking food tastes better, pretty guitars sound better to the listener.
+1.3. Con: Dismissing the body is foolish: some pickups may pick the sound of the string up before the acoustic sound that the body helps to influence, but others pick up more after the initial pluck through all kinds of sustaining harmonic effects.
+1.3.1. Con: The argument is not that the pickup would stop picking up vibrations after the initial pluck. It is that the body receives the vibration after the pickup already gets the electromagnetic vibration from the string. It is not a very good argument, because first there is no reason for the delay, and second the pickup could blend the two sources once it hears both.
+1.3.2. Con: Concluding from the fact that pickups pick up all kinds of things to 'dismissing the body is foolishness', is jumping to conclusions. What effects? How do they influence the sound? Why do other materials produce guitar sounds?
+1.3.3. Con: When a pickup is picking up ambient sounds, it is considered to be 'microphonic' and is to be repaired or replaced. Pickup windings are sometimes coated in wax to prevent picking up sounds other than what comes off the string directly. So what generally is considered a good pickup is actively working against picking up sound from the body.
+1.4. Pro: People fail to recognize different woods in a blind listening test
+1.4.1. Con: Many do not know what they are trying to hear.
+1.4.1.1. Con: If it's so subtle that trained musicians can't pick it up, it's probably not there.
+1.4.2. Con: It may be possible to test: record an easy tune, then swap all hardware onto a different body with as close to the same settings as possible. Record the same easily repeatable song. Then, compare the sound signatures, both by ear & digitally.
+1.5. Con: Guitar makers clearly state the differences that various woods make.
+1.5.1. Pro: They are the ones best qualified to know.
+1.6. Pro: The sound of the string vibrating is picked up by the pickup before the body even resonates.
+1.7. Con: Softer materials dampen the vibrations of the string more. This is notable in higher frequencies.
+1.8. Pro: Guitars are made of exotic materials. Metal \(gittler\), acrylic, even cardboard. All these instruments sound like guitars made of wood.
+1.9. Con: Guitars made of wood with good tonal qualities are more expensive.
+1.10. Pro: The idea that wood matters is perpetuated by makers, who are forced to uphold their claims to justify the prices they have been asking for their instruments.
+1.10.1. Con: Even if wood didn't make a difference, guitar makers would find another way to justify their prices.
+1.11. Con: Some people claim they can hear the difference. Your ears are just not good enough.
+1.11.1. Pro: Those who play other string instruments can attest to the huge difference between different woods.

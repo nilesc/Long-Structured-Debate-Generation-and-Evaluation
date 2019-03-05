@@ -1,0 +1,30 @@
+Discussion Title: Genetic Engineering should be easily accessible to the public
+
+1. Genetic Engineering should be easily accessible to the public
+1.1. Pro: It opens the doors to a new industrial revolution allowing for the public to start biotechnology businesses
+1.2. Pro: Experiments can be made more significant through repetition of them
+1.2.1. Con: How valid would data obtained from experiments conducted by random people who may or may not have any in depth knowledge of genetic engineering be?
+1.2.2. Pro: By repetition of experiments, we might come close to finding meaningful results. More the experiments, better is the chance of finding, say, a plastic eating bacteria \(real life example\).
+1.2.3. Con: To be valid, replication of experiments needs to be conducted in a controlled uniform manner, not by random individuals who don't coordinate their efforts.
+1.2.3.1. Con: If a hypothesis is confirmed under a variety of different conditions, this only strengthens its validty.
+1.3. Con: Somebody could use the technology to generate bioweapons
+1.4. Con: Individuals might infect themselves with harmful chassis
+1.4.1. Pro: Adults running experiments in a home with kids are more susceptible to biological accidents
+1.5. Con: Spread of antibiotic resistance due to the increase of unnecessary experiments
+1.5.1. Con: This can be addressed by using nutritional defiency instead of antibiotic resistance as selective markers.
+1.6. Pro: If the public becomes more familiar with the concepts of genetic engineering, it may reduce the stigma against synthetic biology and the use of GMOs.
+1.7. Pro: It allows science education for students to be enhanced as they can access DIY Biology with ease
+1.7.1. Con: [Students](http://biotech.bio5.org/activities) are able to learn how these technologies work in a secure setting. Allowing access to the public is thus not necessary for students to engage.
+1.8. Pro: People from all walks of life may provide different perspectives that could lead to emergence of revolutionary ideas.
+1.9. Con: The effects of GMO's in the wild are still unknown, providing accessibility to the creation of GMO's means a greater release into the wild
+1.9.1. Con: Approaches that rely on making genetically modified organisms dependent on specific conditions provided in the laboratory can prevent release into the wild.
+1.10. Con: It allows individuals to bio-hack themselves
+1.10.1. Pro: Using synthetic biology for bio-hacking has led to the death of Aaron Traywick in April 2018 - results which are easily repeatable
+1.10.1.1. Con: Biopsy results have shown that Aaron Traywick died drowning whilst on amphetamine
+1.10.2. Con: Bio-hacking is an individuals choice
+1.10.2.1. Con: People often make bad choices. When these put other people in danger, they should not be allowed.
+1.10.2.2. Pro: There is nothing inherently bad with self-hacking. It is not different from plastic surgery or making a tattoo.
+1.11. Pro: It enables the public to manufacture their own biologics
+1.11.1. Con: Pharmaceuticals require high purity which can only be achieved in industrial manufacturing plants otherwise they risk causing serious harm to individuals
+1.11.1.1. Pro: [Bioassays and cGMP Potency tests](https://www.eurofins.com/biopharma-services/product-testing/services/biopharma-product-testing-services/method-development/bioassay-and-cgmp-potency-testing/) are required to ensure the quality of new pharmaceuticals. In the hands of the public, this step would be unavailable.
+1.11.2. Pro: Cost of living gets cheaper if you manufacture your own goods

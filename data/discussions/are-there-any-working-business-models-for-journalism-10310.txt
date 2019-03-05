@@ -1,0 +1,78 @@
+Discussion Title: Are there any working business models for journalism?
+
+1. Currently, there is no working business-model for journalism.
+1.1. Pro: [Many newspapers](https://en.wikipedia.org/wiki/Decline_of_newspapers#Performance_in_the_market_\(2000%E2%80%93present\)) have been suffering from lay-offs or even went bankrupt.
+1.2. Con: Although the mass-media model of news reporting is clearly struggling, the flourishing of smaller and more independent platforms shows that there is a way forward for journalists outside of the mass-media model.
+1.2.1. Con: A lot of the more independent plattforms struggle to keep up quality, spread fake news or aim at undermining the credibilty of journalism itself rather than adding a different, independent angle to news.
+1.2.2. Pro: The idea of smaller, more independet publishing sites coincides with the fact that most news or stories are consumed via smartphones in what can be private situations or on the fly. Thus, the often somewhat idiosyncratic or independent spins of those sites articles could be better suited not only for its target groups but also for the situations the sites content is consumed in.
+1.2.3. Pro: Small platforms like [FairObserver](https://www.fairobserver.com/) survive with donations while providing a wide variety of perspectives.
+1.3. Con: More websites than ever offer news and reporting, indicating that publishers believe the net to be a lucrative field of work.
+1.3.1. Pro: Propaganda-sites and fakenews-outlets, as well as plattforms such as facebook that merely recycle and present news are competition for traditional news-sites as well.
+1.3.2. Pro: Resulting from the media-crisis, the general shift in paradigm and the new possiblity of appealing to a larger variety of target groups, a lot of start-ups seize the opportunities the web offers.
+1.3.3. Con: Some renowed magazines and newspapers struggle and some already went out of business. \(see for example this [article by the Washington Post](https://www.washingtonpost.com/news/theworldpost/wp/2018/03/21/newspapers/)\)
+1.3.4. Pro: While the exact business-models as well as revenues may vary, almost every newspaper or magazine is online by now.
+1.4. Con: Journalism is relevant to democracy on a high level and can thus rely on the idealism, enthusiasm and passion of the people who make it.
+1.4.1. Con: People need money in order to live, to eat and to house themselves; no amount of idealism can put food on the table. As such, it is unreasonable to expect people to work their whole lives for no financial recompense.
+1.4.2. Pro: Small journalistic enterprises such as [quillete](http://quillette.com/) are being financially rewarded for their dedication to journalistic integrity through their use of crowd funding websites like [patreon](https://www.patreon.com/Quillette).
+1.4.3. Pro: The lack of quality journalism being provided by the major news networks \(who focus on sound-bites and opinion pieces\) is creating a new demand for outlets which display dedication to the core journalistic principles of integrity, research and bias avoidance.
+1.4.4. Con: With the large amount of content online, consumers automatically become sort of amateur-journalists themselves while consuming, since they have to judge the trustworthyness of the content. That is, traditionally, the job of editors who are trained to document, fact-check and evaluate sources.
+1.4.5. Con: Relying on those qualities can come at a terrible cost: Journalists are already a decimated and dispirited profession with high burn-out rates. They suffer from everything from PTSD to exhaustion: [www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2213058615300103)
+1.5. Pro: The way that people consume media these days has been radically altered by technology, which makes it impossible to generate sustainable revenue streams.
+1.5.1. Pro: Consumers are presented with a much larger amount of content online than ever before, which means there is persistent demand for new content, which places a strain on journalists.
+1.5.1.1. Pro: This is in part because the means to publish online are widely available at low costs.
+1.5.1.2. Pro: Smartphones enable people to consume news and reports much more often than before.
+1.5.2. Con: Editorial work as well as journalism in general have not changed: reporting via written and spoken word as well as in picture, still or moving, is still key. It's the instruments to document and publish and comment on the beats that have changed: They allow for piracy and manipulation. But that doesn't make it impossible to generate revenue.
+1.5.3. Con: Consumption of news reporting is still similar in terms of times of consumption to what it was before, with peaks in the morning, at noon and in the evening. It just became more measureable with online media. \(see for example: [www.digitalnewsreport.org](http://www.digitalnewsreport.org/survey/2014/when-and-where-do-we-access-the-news-2014/)\)
+1.5.4. Pro: Consumers of content are taking in content in increasingly smaller chunks and through content aggregation platforms like Facebook and Twitter.
+1.5.4.1. Pro: Disaggregation of content creation is likely to make it harder to achieve the deep thinking, research and quality normally attributed to lengthier pieces of journalism, thereby putting it on the same competitive plane as celebrity tweets and Buzzfeed lists.
+1.6. Con: At least some well-known publishers are profitable.
+1.6.1. Pro: The [Washington Post](https://www.mediapost.com/publications/article/312683/washington-post-to-expand-newsroom-after-second.html) just started expanding its newsroom after two profitable years.
+1.6.2. Pro: The [New York Times](https://www.nytimes.com/2017/11/01/business/media/new-york-times-earnings.html) made an $86 million profit in subscriptions alone in the third quarter of 2017.
+1.6.3. Con: Profits of some well-known publishers often only come as a result of an extensive cut in costs that leaves its mark on the editorial staff, challenging independancy and quality standards. \(e.g. the on-going [restructuring at the german "Spiegel"](http://meedia.de/2018/04/05/das-nachrichtenmagazin-und-sein-zukunftsprogramm-wie-lange-plant-der-spiegel-mit-seinem-chefredakteur/) or the [cuts at two of Australias media organizations](https://www.theguardian.com/media/2017/apr/15/journalism-faces-a-crisis-worldwide-we-might-be-entering-a-new-dark-age).\)
+1.6.4. Con: Profits of well-known publishers are in part provided by corporate publishing, native advertising and other ways in which corporate and political interests are integrated into editorial work, thus watering down the independancy of journlism.
+1.6.4.1. Con: That doesn't mean the business model isn't financially sustainable.
+1.7. Pro: Most revenue models rely on circulation, which many publications [struggle to keep up](http://www.pewresearch.org/fact-tank/2017/06/01/circulation-and-revenue-fall-for-newspaper-industry/).
+1.7.1. Con: -> See 1.6.2.
+1.8. Pro: Many Newssites on the web make most articles available for free.
+1.8.1. Con: The news sites would not do this unless they had figured out an alternative way of bringing in revenue, such as advertising.
+1.8.1.1. Pro: Revenue from advertising is a business model and offers journalism a working business model.
+1.8.1.1.1. Con: Ad-Blockers are used widely.
+1.8.1.1.1.1. Pro: In 2017, [27.5% of internet users](https://www.emarketer.com/Article/Ad-Blocker-Use-Grows-Publishers-Face-New-Challenges/1016076) in the US used ad blockers.
+1.8.1.1.1.1.1. Pro: Most sites are cluttered with a variety of advertisements - from banner-ads to intersticials - some of which can be very disruptive and unnerving. This is a quality that is new to online-advertising as opposed to advertising in print.
+1.8.1.1.1.1.2. Con: Since ads are paid for based on clicks or views, blocking ads is a way of challenging the financial stability of a news-site.
+1.8.1.1.1.2. Con: Some sites launch ad-block walls, which don't allow users to access content until the ad-blocker has been removed.
+1.8.1.1.1.2.1. Con: This is not necessarily an effective strategy. 74% of US ad blocking users [leave websites](https://www.emarketer.com/Article/Ad-Blocker-Use-Grows-Publishers-Face-New-Challenges/1016076) when faced with an ad block wall.
+1.8.1.1.1.3. Con: There has been debate on whether some ad-blocking software should allow exemptions from the blocking in exchange for payment by advertising companies.
+1.8.1.1.2. Con: Advertising revenues have dropped.
+[www.wsj.com](https://www.wsj.com/articles/plummeting-newspaper-ad-revenue-sparks-new-wave-of-changes-1476955801)
+1.8.1.1.2.1. Con: Journalism is not only in the print medium. Online advertising revenues are increasing.
+1.8.1.1.2.1.1. Pro: [25%](https://www.statista.com/chart/12179/google-and-facebook-share-of-ad-revenue/) of all advertising spend happens on Google and Facebook.
+1.8.1.1.2.1.2. Pro: Advertising spend in the US continues to [keep growing](https://www.wsj.com/articles/plummeting-newspaper-ad-revenue-sparks-new-wave-of-changes-1476955801).
+1.8.1.1.2.2. Pro: The increasing revenue from online-ads [doesn't rival](https://www.statista.com/statistics/189844/online-and-print-advertising-revenue-of-us-newspapers-since-2003/) the decreasing revenue from print-ads.
+1.8.1.1.3. Pro: Both print and digital newspaper advertising represents [more than half](http://www.journalism.org/2014/03/26/revenue-sources-a-heavy-dependence-on-advertising/) \(58%\) of all the known advertising revenue tied to journalism.
+1.8.2. Pro: This is due to an idealistic approach to both journalism and the web, aiming at keeping news available at low costs for everybody.
+1.8.3. Pro: The reason for this can be seen in an overly long peroid of experimenting: The possibilities the web offers are still being explored with the aim to develop a sucessfull business-model, testing audience reactions, click-flows, paywalls, content-types and the like. Since that has cost more than it yielded for too long for many companies and did not generate a sustainable business modell, the digital transformation of journalism is at least in part a failure.
+1.9. Pro: The financial crisis created an environment that made journalism financially unsustainable.
+[www.bpb.de](http://www.bpb.de/apuz/140231) \(resource in german\)
+1.9.1. Pro: Like all industries, media companies suffer from cyclical economic problems.
+1.9.1.1. Con: If this is the case, then it is not a question of journalism not having found sustainable business models, but rather a reality of doing any kind of business.
+1.9.2. Con: Not all more recent problems in journalism are cyclical and were thus induced by the financial crisis. Some are structural, as further explained in the respective branch of this discussion.
+1.10. Con: News sites on the web experiment with a large amount of different models for payment and subscription while keeping the most important news free.
+1.10.1. Pro: Payment for single articles, monthly or daily subscriptions as well as time-based modells are common. Often, these modells include articles taken from the printed paper or magazine that are otherwise not available online. Other specials only for subscribers such as invitations to lectures or videos are relatively common, too, in order to gain paying users.
+1.10.2. Pro: Payment models that offer free access to the site and all of its content, but frequently demand a non-obligatory donation from the user are common with more left-wing sites.
+1.10.3. Con: Paywalls for every piece of content on the site are common, too, especially with local papers.
+1.10.4. Con: Some sites keep all of their content free.
+1.10.4.1. Con: If their content is free, they must have figured out a different way of making money, such as ads.
+1.10.4.2. Con: The existence of bad business models doesn't negate the existence of good ones.
+1.10.4.3. Pro: This embraces the mentality of free articles and content inherent to the roots of the internet.
+1.10.4.4. Pro: Keeping articles free in the first place might be a wise decision, since passwords for paywalls can be shared, just as copies of articles can. Thus, the battle against piracy is avoided or becomes less relevant.
+1.11. Con: -> See 1.8.1.1.
+1.12. Pro: Structural problems in the industry are making it impossible for journalism to be financially sustainable.
+1.12.1. Pro: The independence that is key to journalism is challenged constantly by the interests of political parties, companies and all kinds of lobbyists: all of which are or can be advertising customers.
+1.12.2. Pro: The digital revolution has made it easier to spread news and stories worldwide, rendering the underlying industry of printers, paper mills, delivery services, paper-boys and so forth almost obsolete.
+1.12.3. Pro: Programs that write, recycle and spread news challenge the very core or journalistic work, threatening to make the profession obsolete.
+1.12.4. Con: The paradox situation of publishers and journalists in between independent reporting and the need to rely on advertising revenues from those who can be subject of the coverage has been inherent to the field from day one.
+1.12.5. Con: Attempts to replace editors and journalists with programs have not been widely successful.
+1.12.6. Con: The structural problems can be dealt with: The shift from printed news to news online has brought with it new jobs that require new and different skills. Workers unions have developed programs and fought and then cooperated with publishers to make this change acceptable for veteran reporters as well as for newbies. \(see for example: [ec.europa.eu](http://ec.europa.eu/employment_social/defis/publigrant/public/publications/13/frame;jsessionidpubligrantprod-dc=j3uz8Jp8UZ9iLHoDVWhEMrcvGBjD6TJ_XLb2rAha9PhO_ez-pNGq!188019485?publicationLanguage=en)\)
+1.13. Con: Online journalism offers a variety of new forms of journalism, like multi-media reporting.
+1.13.1. Pro: It also brings about new products, albeit an amalgam of known ones, attract new customers and offer new advertising possibilities.

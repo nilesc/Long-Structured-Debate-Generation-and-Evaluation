@@ -1,0 +1,17 @@
+Discussion Title: Which interpretation of quantum mechanics is the most plausible?
+
+1. Which interpretation of quantum mechanics is the most plausible?
+1.1. [Copenhagen interpretation​](https://en.wikipedia.org/wiki/Copenhagen_interpretation): a particle is a probability wave, that collapses when the observation \(interaction\) is made.
+1.1.1. Pro: It provides the simplest solution to the quantum mechanisc, so it should be preferred.
+1.1.2. Con: Once the wave function collapses, the information of all possible states is lost.
+1.1.3. Pro: This is the most popular interpretation among modern physicists.
+1.2. [Pilot-wave theory](https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory) \(Bohmian mechanics\): a particle has a definite position and speed; it is accompanied by a wave that determines it's path.
+1.2.1. Con: The universe may be inherently probabilistic.
+1.2.2. Pro: There are similarities to macro-scale world.
+1.2.2.1. Pro: [Pilot-waves are similar to standing waves](https://www.youtube.com/watch?v=WIyTZDHuarQ) created on a water by sound waves.
+1.2.3. Pro: Bohmian mechanics is deterministic, which is consistent with our intuition about physics.
+1.2.4. Con: There is hardly any way to prove this theory.
+1.2.4.1. Pro: It hasn't been proved totally true already, therefore it cannot be taken for valid.
+1.3. [Many worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation): a particle is a wave function; on its collapse all of the possible results actually do happen – in parallel universes.
+1.3.1. Pro: Many worlds interpretation assures that quantum information is not lost after wave function collapse.
+1.3.2. Con: Unless there is a way of accessing different universes, this interpretation seems infalsifiable.

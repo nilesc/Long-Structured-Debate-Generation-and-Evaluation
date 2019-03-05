@@ -1,0 +1,24 @@
+Discussion Title: Should Drivers Always Mirror, Signal, Manoeuvre?
+
+1. Drivers should always mirror, signal, manoeuvre.
+1.1. Con: Focusing too much on sort of thing is too much of a nanny state. If somebody drives well they do not need to be told what to do.
+1.1.1. Con: If you don't use signals, you're not driving well.
+1.2. Pro: Turn signals are meant for the safety of all road users.
+1.2.1. Pro: Even with no cars behind you, you should indicate for other road users; for example, pedestrians.
+1.2.1.1. Con: If a driver looks and there is nothing behind, indicating is not necessary. It shows that the driver is paying attention to the road and their driving.
+1.3. Pro: Indicating allows other drivers to see your intent and react accordingly.
+1.3.1. Pro: Without this, the likelihood of accidents increases hugely.
+1.3.2. Pro: In large cars, particularly, not knowing the intention or movement of a car is potentially lethal.
+1.3.3. Pro: It’s not just for safety, it is also courtesy; if turning left at a roundabout, indicating allows other users of the roundabout to move off more quickly and just as safely.
+1.4. Pro: It is a legal obligation.
+1.5. Pro: Signaling forces driver to think before acting. If no time to signal, then manouver is too risky.
+1.6. Con: Indicating is unnecessary if the intent is obvious.
+1.6.1. Con: Your intent is only obvious since the moment you actually turn, but at this moment it's too late. Indicators are meant to be used prior to that event, at a time when there is no other sign showing that you will turn.
+1.7. Con: Traffic doesn’t move fast enough these days for this to be an issue.
+1.7.1. Pro: [Commuting speed](http://www.thisismoney.co.uk/money/cars/article-3315898/Average-speeds-morning-rush-hours-slower-second-World-War-tank.html) reduced drastically over the last years and has reached WWII tank levels by now.
+1.7.2. Con: On free flowing streets speed has remained [stable](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/533244/free-flow-vehicle-speeds-great-britain-2015.pdf) since 2011.
+1.8. Pro: Indicating reminds you to think about others.
+1.9. Con: A car is the driver's domain, they can do whatever they want.
+1.9.1. Con: A car may be a driver's domain, but cars often drive on public roads. Public roads aren't any individual's domain, so drivers cannot do whatever they want.
+1.9.2. Con: Road safety is a public good.
+1.9.2.1. Pro: Drivers should respect the Highway code.

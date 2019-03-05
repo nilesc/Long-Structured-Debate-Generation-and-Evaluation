@@ -1,0 +1,127 @@
+Discussion Title: Is Linux the best operating system?
+
+1. Linux is the best operating system.
+1.1. Pro: There is considerably more stability on Linux than other platforms.
+1.1.1. Pro: There's huge code [quality control](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst).
+1.1.2. Con: Frequent updates are a potential source of instability.
+1.1.3. Pro: Linux was built with multiple-users usage in mind \(Unix philosophy\).
+1.1.4. Pro: Linux kernel is monolithic, making changing, updating or removing bad-quality and outdated code easier.
+1.1.4.1. Con: That also makes it more prone to kernel panics. Drivers run in kernel space, which means the millions of lines of code written by thousands of people from different companies can all equally crash the whole kernel.
+1.1.4.2. Pro: Major kernel update gets released every 2-3 months, which is a sign that the code base is being regularly improved and maintained.
+1.1.4.2.1. Con: -> See 1.1.2.
+1.1.5. Pro: Linux is open-source, meaning people or companies can contribute to security/stability.
+1.2. Pro: Linux is the [most widespread](https://en.m.wikipedia.org/wiki/Usage_share_of_operating_systems) operating system in the world and was thus selected best operating system by the majority of specialists.
+1.2.1. Pro: Linux powers the majority of all smartphones.
+1.2.1.1. Con: Android runs the Linux *kernel* which is not what is likely referred to by the Question \(that would be the GNU/Linux operating system\).
+1.2.1.1.1. Con: Whether Android is a complete OS or a highly customized Linux distribution is a [debate that hasn't yet been settled](https://www.androidauthority.com/android-linux-784964/). If Android was a complete OS, it would be the first to run on a foreign kernel.
+1.2.1.1.1.1. Con: The only thing Android and GNU+Linux share is their kernel. DAF is a Dutch truck manufacturing company. They also happen to build engines for boats. Could those boats be called DAF trucks then? Definitely not. Android isn't a GNU+Linux distro.
+1.2.1.1.1.2. Con: Apps for Android are incompatible with Linux, and vice versa. You have to run containerized environments to run apps of either in the other.
+1.2.2. Con: This claim is only true for servers, for desktop it's Windows, and for smartphones it's Android. All devices confounded, it's Android, not Linux.
+1.2.2.1. Con: Android is Linux. It operates off the Linux kernel. That is the only thing that makes Linux Linux. Sure, it doesn't have the GNU parts of GNU/Linux, but it's still Linux.
+1.2.2.1.1. Con: -> See 1.2.1.1.
+1.3. Pro: GNU/Linux Distributions and the software they offer respects your privacy and doesn't collect data about you.
+1.4. Con: Microsoft Windows is the [most widespread platform](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers) on desktops and laptops for both office and home use, hence proving by adoption that Linux is not the best operating system.
+1.4.1. Pro: Microsoft Windows platform is the most complete ecosystem for renowned software.
+1.4.1.1. Pro: Microsoft Office software suite has become a de facto standard and is only available on Windows and Apple systems.
+1.4.1.1.1. Con: [Microsoft Office Online](https://products.office.com/en-gb/office-online/documents-spreadsheets-presentations-office-online) is an OS-independent alternative.
+1.4.1.1.2. Con: [LibreOffice](https://www.libreoffice.org) offers drop-in replacement for most of the basic functionalities of Microsoft Office.
+1.4.1.1.3. Pro: Many people adopt Windows because they are required to provide "Microsoft Word" files for some purposes.
+1.4.1.1.3.1. Con: If Windows was the only or even the simplest way to provide those files, and they have that as a requirement, then Windows meets those requirements and Linux would not, thus making Windows the better choice.
+1.4.1.1.3.1.1. Con: Just because my boss requires me to use the most fuel efficient car does not mean that the Aptera is the best car.
+1.4.1.1.3.1.1.1. Con: It means it's the best car for maintaining your job. The best tool for any task is the one that meets the requirements. Sometimes those requirements may be artificial. If your boss also required you to wear blue socks, red socks would not be the best choice, unless of course your goal is to tick off your boss and get fired. If the requirements on a user are to provide MS Word files, and the easiest method, in that user's estimation is to use Windows, then Linux is not the best choice.
+1.4.1.2. Pro: Video game makers obviously target the highest share of the market \(of home computers\).
+1.4.1.2.1. Pro: For example, [The Turing Test \(on Steam\)](https://steamcommunity.com/app/499520/discussions/0/352788917760315135/?ctp=3#c343785380902141873) is not ported clearly for commercial reasons \(percentage of revenue vs. fixed porting cost\).
+1.4.2. Con: Majority isn't a proof for quality. Windows market share results from Microsoft's marketing strategy, and is not a valid measure of software quality.
+1.4.2.1. Pro: People tend to buy computers with operating systems they're familiar with. Because of its ubiquity, most people's first interactions with a computer are made on a Microsoft Windows platform, hence preserving the system adoption.
+1.4.2.1.1. Pro: Many people adopt Windows because it is preinstalled on \(most\) new computers.
+1.4.2.1.1.1. Pro: People do not take the time to try alternative OS.
+1.4.2.1.1.1.1. Con: Time is a truly limited and valuable resource, if someone's time is better spent, in their estimation, doing something other than evaluating alternative OS options, then being familiar is an advantage that Windows has.
+1.4.2.1.1.2. Pro: Many people are not tech savvy.
+1.4.2.1.1.2.1. Con: If they are too technically inept to try an alternative OS, coming pre-installed is a definite advantage for those people. Windows is definitely the best OS for them on those grounds alone.
+1.4.2.1.1.2.1.1. Con: This is not a feature of the OS, but a consequence of bundling. Were Linux bundled with hardware, this logic would imply that Linux were the best OS.
+1.4.2.2. Pro: Many people adopt Windows because they want to play games that publishers do not supply for other platforms.
+1.4.2.3. Pro: -> See 1.4.1.1.3.
+1.5. Pro: Linux inherits from the "[Do One Thing and Do it Well](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)" philosophy which allows a collection of simple tools to efficiently solve problems that would be extremely time consuming on other systems \(e.g. mass file manipulation\).
+1.5.1. Con: This becomes less true as you move further up the layers of the OS toward the graphical interface.
+1.5.1.1. Con: The fact that graphical applications exist on a Linux system doesn't prevent the use of its modular and powerful command line tools.
+1.6. Pro: Linux is free and open-source \(FOSS\).
+1.7. Pro: Linux can run on significantly fewer resources \(CPU speed, RAM, storage\) than alternatives.
+1.7.1. Con: [Windows 10 IoT Core](https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core) is a stripped down version of Windows 10, which can be run on small devices \(e.g. Raspberry Pi\).
+1.7.2. Pro: A Raspberry Pi can run popular Linux distributions, whereas it can't run a regular Windows version and instead should use a [slimmed down](https://www.techrepublic.com/article/windows-10-on-the-raspberry-pi-what-you-need-to-know/) one.
+1.7.2.1. Con: A basic Raspberry Pi can't really run heavy desktop environments like Gnome or KDE.
+1.8. Con: Microsoft is generally pre-installed. Changing it costs time.
+1.8.1. Con: While many companies may pay extra to have a Microsoft operating system pre-installed, they can save money by having Linux pre-installed, or having no operating system at all installed.  As most companies will modify new PCs to add security/programs/policies and make their PCs consistent, there is no time benefit or loss either way.
+1.9. Pro: Some irreplaceable software is only available for Linux.
+1.9.1. Pro: Most Integrated circuit design software \(e.g. Cadence, Synopsis, Mentor Graphics\) is only available on Linux.
+1.10. Pro: The user has control over essentially everything.
+1.10.1. Pro: Every supercomputer runs Linux because of its extreme flexibility.
+1.10.2. Con: This can overwhelm a user.
+1.10.3. Con: This can cause system instability.
+1.10.3.1. Con: Even though system stability is very important, empowering users is a little more important. They should be considered part of the larger system.
+1.10.3.1.1. Pro: A community of users with more knowledge about their systems can learn from mistakes, fix issues independently, and spread knowledge amongst themselves. This is more robust than encouraging reliance on the company who developed the OS.
+1.10.4. Pro: If you don't like your distro of Linux you can easily switch to another.
+1.10.4.1. Con: Migrating a sophisticated Linux setup of a specific distro can be very cumbersome.
+1.10.4.1.1. Con: Savvy users will have planned a way to easily migrate \(things like having separate / and /home partitions, LVM, etc.\).
+1.10.4.1.2. Con: All software configuration takes the form of files. If you have the same software, then you can copy the config files.
+1.10.5. Pro: You can customize, bootstrap and compile your whole operating system from scratch, a nerd's dream.
+1.10.5.1. Con: You can easily break your Linux system by doing wrong configurations.
+1.10.5.1.1. Con: Savvy users don't mess with configuration without back-ups.
+1.11. Pro: Linux provides better native support for [containerization](https://en.wikipedia.org/wiki/Operating-system-level_virtualization#Implementations).
+1.11.1. Con: Docker containers on Windows can use [Hyper-V](https://docs.docker.com/machine/drivers/hyper-v/) to run Linux docker containers.
+1.11.1.1. Con: This means running Linux in the end.
+1.11.1.2. Con: Hyper-V adds additional overhead of [9-12%](https://www.stratoscale.com/blog/containers/running-containers-on-bare-metal/) for the docker containers, which are supposed to be lightweight.
+1.11.2. Con: Native Docker Containers on Windows are [supported](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) for Windows Server 2016 and Windows 10.
+1.12. Con: Linux is not a user friendly operating system. Hence it cannot be the best.
+1.12.1. Con: Android is considered user-friendly and is built on the Linux operating system.
+1.12.1.1. Con: -> See 1.2.1.1.
+1.12.2. Con: This used to be true a few decades ago, but modern Linux distributions have user interfaces that are very friendly.
+1.12.3. Con: There are distributions that do focus on the user experience, e.g. Ubuntu, Mint, ElementaryOS, [ChromeOS](https://www.starryhope.com/chromebooks/faq/chrome-os-linux-distro/).
+1.12.4. Pro: For users familiar with consumer centric OS versions \(Mac, Windows\), the learning curve for Linux may appear very steep. This may be due to trade-offs between generic usability and power user considerations. An unsophisticated user may need to self-educate before being able to use the more advanced features of the system.
+1.12.4.1. Con: Advanced features exist in Windows and Mac as well, and are known by only so many people. You'd have to self-educate as well if those OS weren't so widespread.
+1.12.4.2. Con: -> See 1.12.3.
+1.12.5. Con: Many distributions have excellent documentation for advanced users.
+1.13. Pro: Linux is the safest operating system.
+1.13.1. Pro: Open sourcing has led to fewer viruses and improved security.
+1.13.1.1. Pro: By making the source available to anyone, security experts can help identify any main security flaws in the operating system.
+1.13.1.1.1. Pro: The advantage over operating systems such as Windows is that security flaws are caught before they become an issue for the public.
+1.13.1.1.2. Pro: Because of its availability, the system spreads. Because it's spread, more companies have interest in keeping it secure, which means more experts coming to help.
+1.13.1.2. Pro: Several whitehat hackers have contributed to the overall security of Linux.
+1.13.2. Pro: Linux has [much better security](https://www.pcworld.com/article/202452/why_linux_is_more_secure_than_windows.html), partially due to its market share.
+1.13.2.1. Pro: Linux has over [80% market share on servers](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems). Enterprise and big companies are much bigger target than home users.
+1.13.3. Con: Other operating systems are often thought to provide better security than Linux so the superlative should probably not be used \(e.g. OpenBSD.\) [Payne, C. \(2002\), On the security of open source software. Information Systems Journal, 12: 61-78. doi:10.1046/j.1365-2575.2002.00118.x](http://130.18.86.27/faculty/warkentin/SecurityPapers/Leigh/ZafarClark2009%20Other%20References/Payne2002_ISJ12_SecurityOSS.pdf)
+1.14. Con: Some software isn't available for Linux and can't be run with Wine or Mono.
+1.14.1. Con: Linux is on a growing trend of adoption among big software makers. Even Skype \(now a Microsoft product\) [supports Linux](https://www.skype.com/en/get-skype/).
+1.14.2. Con: Wine supports more and more software with every release, and is slowly but surely catching up with recent software.
+1.14.2.1. Con: But it's not "there" yet. This may someday lead to Linux being on par with Windows, but as of today if it's a requirement to run a given program for the user and Windows does, but Linux doesn't, Windows is better for that user.
+1.14.3. Pro: The alternatives for Windows software often are either nonexistent or less user friendly.
+1.14.4. Pro: There aren't as many games available on Linux as on other platforms. Therefore, it is not the best operating system for many users.
+1.14.4.1. Con: Thanks to [Valve's efforts](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561) there's an ever growing number of games that support Linux, either natively or through a compatibility layer such as Wine.
+1.14.4.2. Pro: -> See 1.4.1.2.
+1.14.5. Pro: Linux doesn't run the Adobe Creative Cloud applications.
+1.14.6. Con: You can run a Windows or Mac virtual machine on your Linux device for pesky programs without Linux support.
+1.14.6.1. Con: Some games that won't run in Wine, have very poor performance on virtual machines. While you can get it to run, it's unplayable.
+1.14.6.2. Con: If a person needs to use a VM running Windows or Mac, at that point Windows or Mac is obviously better used for at least that specific purpose.
+1.15. Con: Users all have individual wants and needs. What is best for one user may not be best for another.
+1.16. Pro: Linux makes the work of a developer far easier.
+1.16.1. Con: According to [this stackoverflow survey](https://insights.stackoverflow.com/survey/2017#technology-platforms), Windows platform was the most commonly used platform for developers; Linux being the second one \(and third one only for professional developers\).
+1.16.2. Pro: Python comes pre-installed on most distributions.
+1.16.3. Pro: Many programming tools are coded for Linux first, then ported to other operating systems, making it easier to use such tools.
+1.16.4. Pro: Linux Bash is superior to Windows Batch.
+1.16.4.1. Pro: Windows Batch can only run on DOS and Windows NT, meanwhile Bash can run on majority of operating systems out there \(Unix, Mac OS, Linux, BSD\) and even Windows with [Windows Linux Subsystem](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux).
+1.16.4.1.1. Con: Windows Batch can also be [executed on Linux](https://www.linux.org/threads/running-windows-batch-files-on-linux.11205/) using Wine.
+1.16.4.2. Pro: Variables in Batch have limited amount of length.
+1.16.4.3. Pro: Windows Batch syntax is overcomplicated, incomplete and not powerful.
+1.16.4.4. Pro: Batch does not have proper auto-complete function. Batch only auto-completes file paths, meanwhile Linux Bash can auto-complete everything.
+1.16.4.5. Con: The comparison is irrelevant. Windows Batch is virtually obsolete and PowerShell should be used. Microsoft [replaced](https://news.softpedia.com/news/microsoft-replaces-command-prompt-with-powershell-in-latest-windows-10-build-510328.shtml) "cmd.exe" by "PowerShell" as the default shell.
+1.16.4.5.1. Pro: -> See 1.16.4.1.
+1.16.5. Pro: It's much easier to set up programming tools for Linux than on Windows.
+1.16.5.1. Pro: On Linux most of the time it's just a matter of one command, meanwhile on Windows you have to use some wizard to install it, then specify paths to libraries/compilers manually.
+1.16.5.1.1. Pro: Most Linux distros have a built-in package manager, allowing the user to efficiently download software.
+1.16.5.1.1.1. Con: Package managers strive for package stability which is contrary to a developer's requirements for latest libraries and tools.
+1.16.5.1.1.1.1. Con: The desired stability can usually be configured by choosing different repositories \(e.g. Debian's Unstable repository\).
+1.16.5.1.1.1.2. Con: Package managers do not conflict with installing unstable software. Unstable software from sources other than the repositories can be installed from files downloaded from the web.
+1.16.5.1.1.1.2.1. Con: This defeats the purpose of the package manager, to avoid manual download from untrusted sources is precisely what they were built for. Therefore, package managers do not make the life of the developer any easier
+1.16.5.2. Con: Installing development suites for Windows is often as easy as installing a program \(MinGW, Activestate, Anaconda, Visual Studio are some examples\).
+1.16.5.2.1. Con: When you need many components working together, it becomes very hard to install a developer setup on Windows.
+1.16.5.2.1.1. Pro: -> See 1.11.
+1.16.6. Pro: -> See 1.16.5.1.1.

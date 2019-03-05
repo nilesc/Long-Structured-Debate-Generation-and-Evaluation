@@ -1,0 +1,35 @@
+Discussion Title: Should Governments Subsidize Ethanol?
+
+1. Governments shouldn't subsidize ethanol.
+1.1. Pro: The environmental benefits are uncertain.
+1.1.1. Pro: The EPA has [not met statutory requirements](https://www.epa.gov/sites/production/files/2016-08/documents/_epaoig_20160818-16-p-0275.pdf) to identify environmental impacts of renewable fuel standard.
+1.1.2. Pro: Ethanol production itself creates [greenhouse gases.](https://www.agmrc.org/renewable-energy/climate-change/greenhouse-gas-emissions-of-corn-ethanol-production/)
+1.1.3. Pro: Ethanol production may encourage [deforestation.](https://www.scientificamerican.com/article/ethanol-not-cut-emissions/)
+1.1.4. Con: Ethanol-blended fuels 'can reduce the net emissions of greenhouse gases by as much [as 37.1%](http://bioethanol-np.blogspot.co.uk/p/advantages-of-bioethanol.html)'.
+1.1.5. Con: [Exhaust gases](http://bioethanol-np.blogspot.co.uk/p/advantages-of-bioethanol.html) from ethanol are much cleaner, as ethanol burns more cleanly due to a more complete combustion process.
+1.1.5.1. Con: There are [alternatives to ethanol](http://www.energytrendsinsider.com/2010/05/21/methanol-versus-ethanol-technical-merits-and-political-favoritism/) that perform as well or better, cost less, and have fewer downsides.
+1.1.6. Pro: A shift in Sao Paulo from gasoline to ethanol [increased air pollution.](https://www.nature.com/news/ethanol-fuels-ozone-pollution-1.15111)
+1.2. Con: Ethanol helps gasoline burn cleaner.
+1.2.1. Pro: -> See 1.1.5.
+1.2.2. Con: -> See 1.1.5.1.
+1.3. Con: [Ethanol subsidies create jobs.](http://energy.agwired.com/2018/01/19/ethanol-really-does-create-jobs/)
+1.3.1. Con: There are a [lot less expensive ways](https://www.nrdc.org/experts/nathanael-greene/corn-ethanol-tax-credit-most-expensive-way-create-jobs-ever) to create jobs than ethanol subsidies.
+1.3.2. Con: [Every job](https://fee.org/articles/why-government-cant-create-jobs/) created by government costs one or more jobs elsewhere.
+1.3.3. Pro: The fact that jobs can be created in a dying industry is vital in considering how governments respond.
+1.4. Con: Bioethanol is in principle a [renewable energy source](https://itstillruns.com/ethanol-called-renewable-resource-6297435.html), as long as sustainable methods are used to produce the biomass used.
+1.5. Pro: Using food grains for ethanol production causes [global food prices to increase.](https://seekingalpha.com/article/81793-food-or-fuel-for-thought)
+1.5.1. Pro: Increases in ethanol production caused increases in corn prices that caused [the "Arab Spring" revolts.](https://www.dailysignal.com/2013/02/07/ethanol-mandate-leads-to-social-unrest/)
+1.6. Pro: [Many engines](https://axleaddict.com/misc/Pros-and-Cons-of-Ethanol-in-Gas) run better with fewer problems on gasoline unmixed with ethanol.
+1.6.1. Pro: Small engines [run hotter and fail sooner](https://www.consumerreports.org/cro/news/2013/03/gas-with-ethanol-can-make-small-engines-fail/index.htm) when burning ethanol.
+1.6.2. Pro: The EPA has admitted that ethanol [causes damage](https://www.cycleworld.com/2014/04/19/ama-epa-acknowledges-ethanol-damages-engines/) to motorcycle engines.
+1.6.3. Pro: Ethanol increases the separation of fuel when the engine isn't run for a few months and [can cause damage.](http://nationalpetroleum.net/Ethanol-Water-Phase-Separation-facts.pdf)
+1.6.4. Pro: [Vehicles with carburetors](https://theshopmag.com/features/ethanol-hates-carburetors) can be damaged by gasoline-ethanol fuel mixes.
+1.6.5. Pro: Certain metals [are degraded by](http://www.icorr.net/wp-content/uploads/2011/01/Ethanol_SCC.pdf) ethanol-gasoline mixtures.
+1.6.6. Pro: Some lubricants are [degraded by ethanol](https://spiral.imperial.ac.uk/bitstream/10044/1/21183/2/Effects%20of%20Ethanol%20Contamination%20on%20Friction%20and%20Elastohydrodynamic%20Film%20Thickness%20of%20Engine%20Oils.pdf).
+1.7. Pro: Burning ethanol reduces gas mileage, leading to more fuel consumption and higher costs.
+1.7.1. Pro: Flexible fuel vehicles get [15% to 27% fewer](https://www.fueleconomy.gov/feg/ethanol.shtml) miles per gallon than when operating on regular gasoline.
+1.7.2. Pro: Ethanol is [1/3 less energy dense](https://www.afdc.energy.gov/fuels/ethanol_fuel_basics.html) than gasoline.
+1.8. Pro: Government involvement in markets causes [market distortions and rent seeking.](http://economics.mit.edu/files/4479)
+1.9. Pro: Ethanol subsidies [are expensive](http://rethinkethanol.com/govt-admits-ethanol-mandates-expensive-failing/) for what taxpayers receive in return.
+1.9.1. Pro: Because of ethanol subsidies, from 1999 to 2009, ethanol production [increased sevenfold.](https://www.thedailybeast.com/al-gores-alcohol-problem-admits-ethanol-subsidies-a-mistake)
+1.9.2. Pro: [The United States](https://www.caseyresearch.com/green-energy-too-many-subsidies-too-little-performance/) spends 45 cents per gallon of ethanol produced.

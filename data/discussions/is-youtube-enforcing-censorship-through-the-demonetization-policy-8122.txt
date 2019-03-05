@@ -1,0 +1,33 @@
+Discussion Title: Is Youtube Enforcing Censorship Through The Demonetization Policy?
+
+1. YouTube is enforcing censorship through the demonetization policy.
+1.1. Pro: Producers engage in self-censorship to comply with Youtube's community standards
+1.1.1. Con: This only applies to producers who want to make a living from their content on YouTube - some may just want to use it as a platform to share their views.
+1.2. Pro: The application of the policy is opaque and not equal for everyone.
+1.2.1. Pro: Razorfist \(a fairly mainstream right wing commentator\) created a [test video](https://www.youtube.com/watch?v=Ei6rzwo7BrU) which seems to confirm that demonetization of videos work on a simple blacklist of particular content creators.
+1.2.2. Con: The algorithms [will learn](https://www.forbes.com/sites/erikkain/2017/09/18/adpocalypse-2017-heres-what-you-need-to-know-about-youtubes-demonetization-troubles/#14ebc6fc6c26) to become increasingly accurate over time, as long as content-creators appeal the ban whenever a mistake has been made.
+1.3. Pro: For the people that make a living from YouTube, demonetization is a serious form of controlling their content creation.
+1.3.1. Pro: People who rely financially on their role as public speakers will no longer be able to produce new work if they are not paid for their content, meaning they will disappear.
+1.3.2. Pro: A creator can only create a certain amount of content a day \(or a week\), meaning that they will have to reconsider which content they create if they are to live off it.
+1.4. Con: YouTube is a private company, so it is natural that it looks for its economic interests.
+1.4.1. Con: A company might be able to make more money by harming someone; that doesn't mean it should. It may be 'natural' for a company to look out for itself, in the sense that most companies tend to do so, but 'natural' does not mean 'unobjectionable'.
+1.4.1.1. Pro: The level of ethical ambiguity surrounding corporate decision making is directly correlated to how likely they can retain their customer base should the bad decision in question generate catastrophic conequences. Rather than focusing on their logic, the discussion should be centered on protecting the customer's right to choose alternative products in the event of a bad ethics. Thus holding companies accountable for negligent ethical standards.
+1.4.2. Pro: Given advertising is YouTube's primary source of revenue, not appeasing their advertisers could lead to the demise of the business.
+1.4.3. Pro: YouTube have a responsibility to their shareholders to make decisions that are optimising for profit.
+1.4.4. Con: Youtube content can impact public opinion, and this should be factored in, private institution or nay.
+1.4.5. Con: YouTube has a central role in public speech facilitation and has obligations towards its preservation.
+1.5. Con: The advertisers are ultimately the ones who have the decision power, Youtube is just an intermediary.
+1.5.1. Pro: Advertisers do not want to be associated with financing activities such as bomb-building, or hate-speech. Given it is their money, they have the right to decide what it endorses.
+1.5.2. Con: It is wrong for the voices of corporations to take precedent over the rest of the population.
+1.5.2.1. Con: Unfortunately, this is also largely a reality in all sorts of set-ups.
+1.5.2.1.1. Pro: Lobbying ensures that corporations' views are represented over and above that of average citizens
+1.5.3. Con: Large corporations should not be the ones to decide which content gets rewarded and disincentivize. They are motivated by profit, not political justice.
+1.5.3.1. Pro: Corporations make their decisions according to what generates the greatest profit, not what is best for society. If their products are causing unintended consequences on society, they should not have the final say.
+1.5.4. Pro: Advertising has always had the power to determine which content gets seen by people the most.
+1.5.4.1. Pro: The new policy is just a more similar way of doing advertising to the type we see on TV; advertisers choose what they endorse.
+1.6. Con: The content is still available, although demonetized.
+1.6.1. Con: -> See 1.3.1.
+1.7. Con: There are certain types of content that shouldn't be rewarded.
+1.7.1. Pro: Financially rewarding proponents of hateful or racist views incentivises them to continue to spread their harmful ideologies.
+1.7.2. Con: It is not for YouTube to decide which they are, though.
+1.7.2.1. Con: YouTube, as the host, has a responsibility to ensure they are not enabling offensive or dangerous content.

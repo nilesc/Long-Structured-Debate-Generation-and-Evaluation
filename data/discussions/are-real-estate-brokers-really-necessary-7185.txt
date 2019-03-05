@@ -1,0 +1,67 @@
+Discussion Title: Are Real Estate brokers really necessary?
+
+1. Real Estate brokers are no longer necessary to society
+1.1. Con: Brokers' expertise aids in the presentation and valuation of the property
+1.1.1. Pro: [Knowledge](http://time.com/money/collection-post/2803544/should-hire-real-estate-agent-to-sell/) of the neighbor trends and general expertise can help agents determine the right price for the property.
+1.1.2. Pro: [Staging techniques](http://time.com/money/collection-post/2803544/should-hire-real-estate-agent-to-sell/) that help the property look good as well as professional-quality photographs are often strategies used by real state agents to improve the chances of selling.
+1.1.2.1. Con: In some cases, agents take the pictures themselves, to cut corners, and they offer a poor job for the client's money.
+1.1.3. Con: The monetary valuation of the property is unlikely to change due to the broker and is more dependent on condition, characteristics and market trends.
+1.2. Pro: Technology has provided buyers with enough tools and information to complete the purchase of a property by themselves
+1.2.1. Con: While technology facilitates the contact between potential buyers/renters and owners, the transaction still entails availability to show the properties, something many owners may not be able to do due to their work schedules.
+1.2.2. Con: Technological substitutes for real-estate brokerage, a la AirBnB/Uber, would not abolish brokerage, but actually merely transfer the real estate brokerage role to a single monopoly entity, the RealEstateUber. This would probably lead to an overall decline in service quality.
+1.2.2.1. Con: Similarly to another claim, market disruption does not create monopolies. It creates new markets which allows the entry of new competitors, a la Uber and Lyft.
+1.3. Con: Brokers centralize knowledge of buying & selling. While, in theory, their knowledge is not needed, the learning curve of such a process is steep enough that brokers add to the utility of a system.
+1.4. Con: In most cases, help is needed to showcase the house due to time constraints from the seller
+1.4.1. Con: Hiring a real estate broker to do this is unnecessary, since people close to you can help. In case that option is not possible either, you could hire someone for $15/hour and just have them there to make sure strangers walking in to see the house don't steal anything or damage the property.
+1.4.1.1. Con: Real estate brokers do selling. Someone hired for $15 per hour is most likely not trained to sell.
+1.4.1.2. Con: Attempting the sale by yourself or hiring a cheap salesperson will yield you a lower price, particularly for higher-value properties.
+1.4.1.2.1. Con: While this may be true, the excessive commission paid to the broker will still cause the owner to gain less money than if they attempted the sale by themselves.
+
+Systems like cadastre maintain houses at a certain valuation, so selling by yourself will at least net you the legal price of the house. Using a broker will, most likely, make you gain less than that, because of their commission.
+1.4.1.2.1.1. Con: Some countries like the [UK](http://www.eurocadastre.org/eng/coordinationclausuk.html) do not have a [cadastre](https://www.fig.net/resources/proceedings/2008/verona_am_2008_comm7/papers/12_sept/7_2_grover.pdf) system.
+1.4.1.2.1.1.1. Con: While it is true that the UK does not have a cadastre system, through different agencies, like [Ordnance Survey](https://www.ordnancesurvey.co.uk/), [HMLR](https://www.gov.uk/government/organisations/land-registry) and the [Valuation Office Agency](https://www.gov.uk/government/organisations/valuation-office-agency), the UK has an adapted version of a cadastre, which performs the same operations.
+1.4.1.2.1.1.1.1. Pro: The UK Land law does not have the concept of land ownership, as, technically, all the land is owned by Her Majesty. Instead, they use the concept of rights to use land.
+Thus, a cadastre system to archive who owns which land is unnecessary.
+1.4.1.2.1.1.1.2. Pro: Since the UK is an island without enough space for every citizen, the need to readapt the land \(estates\) over time for different uses is a must. This means that rather than buying land, citizens rent it over a period of time. Meaning that a cadastre system would have to be adapted to archive which citizen has the right to use which land.
+1.4.1.2.2. Pro: If the property is fairly priced, in a good location and the seller is not in a rush, not employing a real state broker does not necessarily mean to undersell it.
+1.5. Con: High value transactions require the work of professionals
+1.5.1. Pro: Even though this may not apply to the sale of houses, the sale of highly appraised land where a project will be built \(I.E. a mall or an amusement park\) or the sale of the actual project, does require a more complex negotiation process, where the help of an expert in negotiations is needed.
+1.5.2. Con: In most cases, deals involving multimillion dollar land or projects are done between the landlord/lady and the potential buyer. 
+
+Involving intermediaries can be considered an annoyance rather than an aide, mainly due to the fact that people involved in these transactions are highly educated and prepared.
+1.5.2.1. Pro: Intermediaries in this cases are often just a middleman who helped both parties get in contact. After that, their involvement is close to none.
+
+And they often receive a percentage of the sale as a commission, around 2% to 3%.
+1.5.3. Con: Professionals such as underwriters, escrow agents, etc... are required to administer and monitor the transactions. Brokers are only there to facilitate the sale, not administer it.
+1.6. Con: Matchmaking is an extremely valuable value-added service, but possibly the current structure of real estate brokerage could use some reform.
+1.6.1. Pro: For landlords/ladies real estate brokers provide experience to judge which tenants are trustworthy.
+1.6.1.1. Con: Although it is true that some realtors help landlords/ladies find tenants, in most cases they send this task to the back of the burner, because sales commissions are more interesting to them.
+
+Besides, the tools they use to find the tenants are the same anyone else can use. For example, Craigslist, Rent.com & Weichert.com, among others. So the value they provide in this is minimal to none, as they don't really guarantee a good tenant.
+1.6.1.2. Con: Real estate brokers often rely on third-party companies for vetting tenants. If landlords hire the services of those companies directly, real estate brokers become unnecessary.
+
+Landlords could ask tenants to go through the same vetting process that real estate brokers demand.
+1.7. Pro: The industry is filled with incompetent people who don't have the proper education or training to be an agent
+1.7.1. Con: Any downturn in the market will quickly show who brings value and who is not.
+1.8. Pro: Some practices used by brokers are outdated and/or may be dishonest, leaving both buyers and sellers at risk.
+1.8.1. Pro: Among other bad practices that brokers commonly incur in, are the recommendation of service providers without full knowledge of the quality or fidelity of the service provided, because they receive a commission from this service provider per client sent their way.
+1.8.2. Pro: Some outdated practices that are common among real estate affairs are the transactions in pen & paper. Which, additionally to creating a risk of missing paperwork due to handling from innecessary parties, creates an opening for fraud and forgery.
+1.8.3. Pro: Some practices actually make consumers lose money.
+1.8.3.1. Pro: In a [survey](https://www.inman.com/2011/08/10/a-peek-behind-curtain-real-estate-practices/) certain practices in the industry were discovered. Some of these practices include agents representing both sellers and buyers, different agents charging the same commission percentage, listing property at below-market value to generate interest and marketing sold properties to attract new clients.
+1.8.4. Pro: Real Estate Brokers have turned a blind eye and allowed the Real Estate and Housing market to be systematically hijacked for profit driven and industry-wide manipulation.
+1.8.4.1. Pro: Real estate agents played a part in the US housing bubble of 2007, among [banks and mortgage underwriters](https://www.realclearpolitics.com/articles/2015/02/02/what_caused_the_housing_bubble_125463.html). By continuing to sell houses even when loans were not approved, or seemed fishy.
+1.9. Pro: The sales commissions they receive are excessive
+1.9.1. Pro: When the function real estate brokers perform is mostly walking people through a house, the 3-5% commission over the selling price of the property is excessive. Since pretty much anyone can walk people through a house and would be willing to do so for $15 USD an hour.
+1.9.2. Con: Supply and demand in markets, as well as internal/external regulations, dictate prices. If paid commissions are around 3-5% or more, depending on the country, and sellers are willing to pay those commissions in exchange for services, it seems the price satisfies the demand and is therefore adequate.
+1.9.3. Pro: Since there are already several other costs associated with buying/renting property, the added broker fee often means that people cannot afford to move.
+1.10. Con: If you are looking to gain more money from the sale of property, brokers are the best option to achieve so.
+1.10.1. Pro: Having an experienced salesperson, who is directly motivated to sell at the highest possible price \(Due to the commission they earn\) can prove as an advantage to negotiate a better price for the seller.
+1.10.2. Con: It is unlikely that the potential increase in sale price would sufficiently offset the commission paid to a broker. The same value increase can likely be obtained by properly staging your property on your own.
+1.10.2.1. Pro: Hiring a different set of professionals, like a photographer and an interiors decorator, is cheaper and could even have better results.
+1.11. Pro: Proper legislation from governments could provide the means to create services that would render brokers obsolete
+1.11.1. Pro: Systems like the Multiple Listing Service allow sites like Zillow to pull all available houses in the country and showcase them online, allowing developers to focus on better features like showing the quality of living of an area, schools nearby and such. When companies don't need to focus on capturing more properties, they can then automate services on their websites that perform the same activities as traditional brokers.
+1.11.1.1. Con: Precisely this transfers the brokerage role to the Multiple Listing Service, in the long run, a monopoly by Zillow will probably prove more exploitative than many brokers.
+1.11.1.1.1. Con: The automation of services through technology [will not create a monopolic industry](https://fee.org/articles/technology-is-not-pro-monopoly/). Neither does the disruption of a market.
+1.11.1.1.1.1. Pro: When Netflix appeared, it eliminated outdated business models in the film rental industry. However, the technology they used to do this did not create a monopoly. Instead, it created a new market that allowed the entry of multiple competitors.
+1.11.2. Con: The number of countries that possess the correct information structure to support this is limited.
+1.11.3. Con: That would impose a burden on government services and finances for a service not as necessary as other \(like law enforcement, justice or education\) and that can be managed privately.

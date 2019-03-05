@@ -1,0 +1,86 @@
+Discussion Title: Should Governments Ever Limit Free Speech?
+
+1. Governments should never set policies that limit free speech.
+1.1. Con: Regulations on free speech protect people from unnecessary harm.
+1.1.1. Pro: Speech which creates a clear and present danger to society, for instance the famous example of shouting "[fire](https://en.wikipedia.org/wiki/Shouting_fire_in_a_crowded_theater)" in a crowded theater, should be limited.
+1.1.2. Pro: In times of war, limiting information in media can be important for a country's national security.
+1.1.3. Pro: Hate speech can harm people.
+1.1.3.1. Pro: Hate speech often makes people feel worse about themselves, making their quality of life worse.
+1.1.3.1.1. Con: While the real suffering induced by hateful speech should not be trivialized, emotions can be consciously regulated and speech does not technically force other individuals to feel any particular way about themselves.
+1.1.3.2. Pro: Hate speech can inspire people to commit hateful actions.
+1.1.3.2.1. Pro: The rhetoric of the Trump Presidential campaign led to an [increase](https://impakter.com/hurt-feelings-real-danger-hate-speech/) in hate crime.
+1.1.3.2.2. Pro: In the aftermath of Brexit, and the anti-immigration rhetoric during the campaign, there was a rise in racial and religiously motivated [crime](https://www.independent.co.uk/news/uk/home-news/racist-hate-crimes-surge-to-record-high-after-brexit-vote-new-figures-reveal-a7829551.html).
+1.1.3.2.3. Con: Limiting free speech won’t limit bigoted thoughts and actions.
+1.1.4. Pro: Regulations on free speech can prevent companies from lying to customers.
+1.1.4.1. Pro: Nike attempted to use freedom of speech as a [defense](https://www.theguardian.com/business/2003/jun/27/usnews.advertising) in court after it was accused of lying about working conditions in its factories.
+1.1.4.1.1. Con: It should be noted that Nike lost the case and it was ruled to not be a case of free speech.
+1.1.4.2. Con: There is a difference between free speech, which involves interpretation of facts and narratives to some degree, and flat-out fabrication through lack of corporate transparency.
+1.1.4.2.1. Con: Absolute free speech allows for companies to say whatever they want. Any limit on this would not be absolute free speech.
+1.2. Con: Governments cannot perform their intended function if free speech was absolute.
+1.2.1. Pro: If members of the government can say whatever they wish, they may undermine confidence in the government.
+1.2.1.1. Pro: A government member who expresses, for example, racist opinions, without repercussions is not likely to inspire confidence in the government.
+1.2.2. Pro: Many government functions require secrecy, and being unable to limit free speech could result in endless leaks of sensitive information.
+1.2.3. Pro: There may be conditions in which free speech may be harming to government to exert its functions. Therefore, it is of interest of governments to have, at least, some control of speech
+1.2.3.1. Pro: Dissent may exacerbate social tensions and conflicts.
+1.2.4. Con: When governments limit free speech they often do so for their own political interests, rather than the common good.
+1.2.4.1. Pro: Hungary has been cracking down on freedom of speech to stop [dissent](https://www.aljazeera.com/blogs/europe/2018/04/orban-crackdown-hungary-free-press-180405180117395.html) from being voiced.
+1.2.4.2. Pro: Recently, Saudi Arabia has been [criticised](https://www.alaraby.co.uk/english/news/2018/10/23/saudi-arabias-2019-press-freedom-ranking-to-fall-rsf) for limiting the free speech of journalists who were critical of the regime.
+1.2.4.3. Con: Certain governments abusing a policy is not a reason for why that policy is not good in principal.
+1.2.4.3.1. Con: A pattern of repetitive abuse is an indicator of a bad policy.
+1.2.4.3.1.1. Con: There is no sign of repetition among parent claims.
+1.2.4.4. Pro: It becomes easy for governments to control public narrative through limiting speech, leading to societies becoming vulnerable to private interests.
+1.2.5. Con: Governments are harder to hold accountable for their actions when they can control what critiques are acceptable for people to express.
+1.2.5.1. Pro: Citizens being able to voice dissent and be critical of the state is [crucial](https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html) in preventing the government from committing abuses.
+1.3. Pro: Free speech is important for a functioning democracy.
+1.3.1. Pro: -> See 1.2.5.
+1.3.2. Pro: Limiting free speech can limit the ability of the media to report.
+1.3.2.1. Pro: Laws such as defamation laws can make media outlets fearful of lawsuits, so they don't publish information which should be known by the public.
+1.3.2.2. Con: Restrictions on freedom of speech laws help to make news outlets accountable for spreading misinformation.
+1.3.2.2.1. Pro: Fox News were forced to pay [$28 million](https://www.hollywoodreporter.com/thr-esq/fox-tv-cant-escape-28-382874) in compensation to a judge for spreading misinformation about his work habits.
+1.3.3. Con: Not every government is a democracy, and those who aren't democratic have no obligation to uphold free speech.
+1.3.3.1. Con: They do have an obligation to do so, as it's a good thing that governments should do, they just currently don't uphold it.
+1.3.3.2. Pro: Dictators usually don't support free speech, as someone might freely express their opposition to said dictator.
+1.4. Con: [Defamation](https://en.wikipedia.org/wiki/Defamation) laws are necessary to protect individuals and society from the very real consequences of careless or malicious speech.
+1.4.1. Pro: Defamation protects people from blatantly [false](https://injury.findlaw.com/torts-and-personal-injuries/defamation-law-the-basics.html) statements that damage their reputation. A person's reputation is of immense importance to the ability to function in society and they should have a right to defend it.
+1.4.1.1. Pro: [Injurious falsehoods](https://www.avlawyers.com.au/blog/defamation-issues-companies-public-reputations/) towards businesses can rob people of their livelihoods. If a person were to spread a false rumor that a baker used grit in their bread, then that could feasibly destroy that baker's business. Defamation laws allow injured parties to claim damages and deter people from spreading falsehoods in the first place.
+1.4.1.2. Pro: Falsehoods spread about individuals can destroy people's personal lives. If a rumor were spread that a person was a [pedophile](http://injurylawstpaul.com/messages/154.htm), then that could expose a person to alienation and even attacks from those around them.
+1.4.2. Con: Defamation laws are often used by powerful politicians and other influential figures to [silence](https://www.economist.com/international/2017/07/13/how-powerful-people-use-criminal-defamation-laws-to-silence-their-critics) their critics, particularly in less developed countries.
+1.4.3. Con: Defamation laws often strengthen the position of the powerful and wealthy in society at the expense of less well off [actors](https://www.claruspress.ie/tort%20journal%20issue%201/art2_defamation_vol1_iss1.pdf).
+1.4.3.1. Pro: The unequal nature of access to defamation protections means has the effect of [eroding](https://www.newlawjournal.co.uk/content/how-public-view-legal-system) public confidence in the judicial system.
+1.4.3.2. Pro: Defamation suits can only be brought by groups and individuals who are able to fund a suit in a civil court. Many poorer individuals lack the time or money to be able to exercise their right to protect their name
+1.5. Con: People's right to free speech should not include [hate speech](https://en.wikipedia.org/wiki/Hate_speech).
+1.5.1. Pro: -> See 1.1.3.
+1.5.2. Con: Hate speech allows us identify and address bigotry in our society by drawing attention to it
+1.5.2.1. Con: This is effectively saying in order to combat racism, we need more racism. Rather than more of a problem existing so that there is more impetus to solve it, it is better if the problem does not exist in the first place.
+1.5.3. Pro: The government has a duty to protect its people, especially vulnerable people, from harm.
+1.5.4. Con: The definition of hate speech is subjective. Being able to define hate speech gives the government too much power.
+1.5.5. Con: Hate speech can be used by the government as a justification for censorship.
+1.6. Con: Very few rights are absolute.
+1.6.1. Con: Simply because certain other rights are not absolute is not an argument for why free speech should not be absolute.
+1.6.2. Con: The right to life is often absolute.
+1.6.2.1. Pro: Many states do not have the death penalty and persecute murderers.
+1.6.3. Pro: There are often exemptions to rights for the greater good of society, e.g. limiting the free movement of individuals who commit crimes \(through incarceration\).
+1.6.3.1. Con: Limiting free speech before the committing of a crime is like imprisoning someone before they commit a crime.
+1.6.4. Pro: Many individual rights are limited by the same right held by others. Exercising free speech could potentially deny others their right to free speech, for instance through filibustering.
+1.6.5. Pro: Rights should not be absolute, as an absolute right ignores all possible scenarios where it may not be in the common good to limit that right.
+1.6.6. Pro: Having absolute free speech implies that this right is more important than other rights.
+1.6.6.1. Pro: Hate speech which results in someone's death, implies that the right to life is less important than the right to free speech.
+1.6.6.1.1. Pro: -> See 1.1.3.2.
+1.7. Pro: Limiting speech on topics deemed to be offensive or controversial can limit social progress.
+1.7.1. Con: People using hate speech does not further social progress and it serves no purpose but to offend.
+1.7.1.1. Pro: -> See 1.1.3.
+1.7.2. Pro: Free speech provides the basis for other human rights by allowing people to [fight for change](https://www.indexoncensorship.org/2016/04/free-speech-important/).
+1.7.3. Pro: Discussion of abortion rights in [Brazil](https://en.wikipedia.org/wiki/Abortion_in_Brazil) was offensive for some people who were religious as it violated their religious beliefs. Yet it is still important to have those discussions.
+1.8. Pro: -> See 1.2.4.
+1.9. Pro: Free speech is a fundamental human right.
+1.9.1. Pro: Free speech provides the [basis](https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html) for the exchanging of opinions and ideas.
+1.9.2. Pro: -> See 1.7.2.
+1.9.3. Con: Fundamental rights should be limited to those things which are necessary for someone to live in dignity. Expanding the list to things which are merely desirable undermines the value of a fundamental right.
+1.9.3.1. Pro: Not all opinions a person can express necessarily need to be expressed for them to live in dignity.
+1.9.3.1.1. Con: But, the ability to freely express is necessary for dignity. The choice on what to express is personal.
+1.10. Pro: Deterrents of hate speech should not be regulated by governmental authority, but instead be through social consequences and implications of said hate speech.
+1.10.1. Pro: After Charlottesville's "Unite the Right" rally, white nationalist marchers faced social [backlash](https://www.bbc.co.uk/news/world-us-canada-40922698) from communities.
+1.11. Pro: Disallowing certain aspects of free speech could result in subjectively offensive speech being made illegal.
+1.11.1. Pro: Media discussion of conflict or crime is important as it is knowledge which should be in the public domain, however it may be offensive to victims of a crime / conflict.
+1.12. Pro: No agency, private or public, should have the power to control what people can or cannot say.
+1.12.1. Con: This is a huge generalisation that encompasses every use of language, from constructive and beneficial expression of one's needs, desires, and beliefs to verbal abuse, threats or even instigating to commit a crime.

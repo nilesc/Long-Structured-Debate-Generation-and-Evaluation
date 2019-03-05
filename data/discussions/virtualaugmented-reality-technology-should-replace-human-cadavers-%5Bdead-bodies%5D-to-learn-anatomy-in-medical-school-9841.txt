@@ -1,0 +1,11 @@
+Discussion Title: Virtual/Augmented Reality Technology should replace human cadavers [dead bodies] to learn anatomy in medical school
+
+1. Virtual/Augmented Reality Technology should replace human cadavers [dead bodies] to learn anatomy in medical school
+1.1. Pro: V/AR Tech should replace human cadavers because this is a more sustainable option for teaching anatomy. Instead of using dead bodies - the supply of which is determined by donations - V/AR Tech is not limited by the supply of cadavers, while providing similar experiences.
+1.2. Con: Human cadavers are more authentic to the task of learning anatomy. V/AR Tech will never provide the exact experience of working with a human body.
+1.3. Con: Dissecting Cadavers has historically been a right-of-passage into medicine, introducing important themes such as life, death, and the incredible sacrifices that our patients make for students' learning during their life and in their death
+1.4. Pro: By using AR/VR options, this can be one way to help reduce tuition costs.
+1.5. Pro: V/AR Technology could democratize access to high-quality anatomy teaching/earning to institutions who can't afford or are not in a position to form institutional partnerships that provide a steady supply of cadavers
+1.6. Con: Incisions and tactile means of engagement might be important for eventual surgical skills. The precision needed to operate on a body can not be honed with simple haptic feedback.
+1.7. Pro: AR/VR is a more sustainable and scalable way to teach anatomy in medical school.
+1.8. Con: Having AR/VR technology in every medical school might be a costly intervention in terms of setting up technology, training staff and maintenance of instruments.

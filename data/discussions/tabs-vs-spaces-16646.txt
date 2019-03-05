@@ -1,0 +1,63 @@
+Discussion Title: Tabs vs Spaces
+
+1. Tabs are better than Spaces for indentation
+1.1. Con: Tabs are artificially limiting, and as such some stylistic choices are either impossible or or less useful.  Commonly seen when specifying data structures within code.
+1.1.1. Con: Software is meant to be a readable representation of processes. Declarative information may be better suited in a medium that is stronger for this sort of representation such as config files or Domain Specific Languages where non-uniform indentation may be preferential. This niche does not negate the other benefits of tabs.
+1.1.1.1. Con: Irrespective of whether it should or not, and what software is "meant" to be \(by whom?\), a lot of real life source code does include definitions of large data structures.
+1.1.1.2. Con: Software as a readable representation \(source code in a general-purpose programming language\) may contain declarative definitions; either by the general-purpose programming language itself being declarative, or by having declarative domain-specific languages embedded into it. If declarative DSLs justify whitespaces, so do embedded DSLs.
+1.1.2. Con: Tabs are not limiting as they they can be supplemented with spaces for special cases. Tabs are perfect for one very common thing: indenting code blocks. Spaces can be added to achieve custom multi-line alignment within a block, for example within comments, data structure declarations, or function signatures. Many IDEs support this, e.g. IntelliJ "smart tabs".
+1.1.2.1. Con: Mixing tabs and spaces leads to a much worse editing experience.
+1.1.3. Con: A source code's visual representation is purely utilitarian, namely, it has to be readable, understandable and easy to maintain. Artistic considerations should not be of importance.
+1.1.3.1. Pro: Unless you are working on a project all by yourself, other people will have to understand what you have been writing. Making this, not artistic beautifications, the highest importance, seems reasonable.
+1.2. Pro: Tabs are intended to be used as a unit of indentation. This allows for end-user customization in the display of the indentation.
+1.2.1. Pro: End-user customization of display levels helps make code more readable by applying your preferred and "natural" indentation spacing to all \(tabbed\) code you read. When an author has a radically different preference for space indentation level, it can be a grating and distracting experience.
+1.2.2. Con: Spaces also allow for customization in the display of the indentation by applying more spaces.
+1.2.3. Con: Tabs are intended for aligning text or numerical values around columns in tables, not to indent source code.
+1.2.4. Con: Customization in the display of the indentation is not a good thing, since source code may render as intended on one screen and not on another.
+1.2.4.1. Con: Customized renderings are not necessarily a bad thing. Changing fonts and colors can improve code readability even though they may not match the original author's preferences. So too for code block indentation.
+1.2.5. Pro: Tabs allow developers to configure the indenture that they prefer when reading code, by configuring in their editor / IDE how many "whitespaces" a tab should stand for.
+1.2.5.1. Con: Not every way of displaying source code allows customization of the tab width. For example, web pages or Unix terminal tools are pretty common ways of viewing source code, and often cannot adjust the display width of tabs to values less than 8 \(which is way too much and leads to poor readability\).
+1.2.6. Con: -> See 1.2.5.1.
+1.3. Pro: Tabs avoid the malformatting that happens when multiple contributors to a codebase have different space indentation level settings.
+1.4. Con: Spaces standardize the way the code looks.
+1.4.1. Pro: Tabs require every tool you can possibly use to be configured properly, otherwise the code will look awful.
+1.4.1.1. Con: Exactly the opposite is true. It is spaces that require all tools among all team members to be configured with matching indentation settings, otherwise edits can screw up formatting. Even for just viewing code, what looks like good indentation to one dev looks "awful" to another, so forcing one dev's preference on others will increase awfulness.
+1.4.2. Con: Spaces only standardize code if every tool that touches it is configured with the same indentation setting, otherwise it corrupts formatting.
+1.4.3. Con: Not all standardizations are necessarily desirable. Fixed fonts and colors would also standardize the way code looks, but it is desirable to leave these preferences up to the viewer not the author.
+1.4.4. Con: People should have a choice to read code formatted in whatever way they want.
+1.4.5. Con: Standardization normally has clear benefits, but there are no real benefits arising from developers looking at the same indentation of code.
+1.4.5.1. Pro: Some developers might be visually impaired and require larger indentations.
+1.4.5.2. Pro: Some developers are working on smaller screens and large indentation can make it harder as part of the code might not be fully displayed in the viewport.
+1.5. Pro: Tabs allow for an easier editing experience.
+1.5.1. Pro: Tabs can be deleted with one stroke of the delete or backspace button.
+1.5.2. Pro: When navigating through code, by cursor, you don't need to click the cursor 5-8 times to move through spaces, but rather just one time, when tabs are being used.
+1.5.2.1. Con: Skipping over whitespace is a small issue. Software development typically happens in editors that provide powerful means to navigate code.
+1.5.3. Con: When navigating through spaces, the tab key can be bound to \(re-\)indent and relocate the cursor with one click.
+1.5.3.1. Con: If one does that, why not use tabs in the first place?
+1.5.4. Pro: A tab can be edited with a single keystroke, instead of pressing x times whitespace.
+1.5.4.1. Con: IDEs and other advanced editing toolkits will automatically generate the appropriate number of spaces when you click the tab key on your keyboard and allow you to navigate space-indentation as if it were tabs thereby removing many of the detraction of using spaces.
+1.5.4.1.1. Con: -> See 1.2.4.
+1.5.4.1.2. Con: This forces users to use more advanced tooling when they might otherwise not want to. Baking this into the fundamental structure of your source code seems ill-advised.
+1.5.5. Con: Most modern IDE's support some form of "indent using spaces" settings whereby the tab key will write out the correct number of spaces in a single stroke based on the "indent size" setting.
+1.6. Con: You need to mix tabs and spaces to consistently indent multiline methods.
+1.7. Pro: Tab characters use fewer bytes of storage than for any indentation greater than one character.
+1.7.1. Con: The space saved by tabs vs 2 spaces for indentation is insignificant, less than 5%.
+1.7.2. Con: Disk space and RAM are plentiful enough that this is not an issue. If it is an issue the source code could be stored in a compressed format which would reduce the amount of space taken by space characters.
+1.7.2.1. Con: In certain scenarios \(shell scripts on embedded systems\), RAM and disk space are very limited.
+1.8. Con: [More people](https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/) have adopted spaces.
+1.8.1. Con: Appeal to Popularity is a logical fallacy.
+1.8.2. Con: The masses adopting a certain way of doing things is not a great indicator for that being the right thing to do.
+1.8.3. Pro: Developers who [use spaces](https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/) also make more money.
+1.9. Con: Programming languages \(e.g. Haskell\) that use indentation for block structure must determine based of tab length what is the meaning of a piece of code if spaces and tabs are mixed.
+1.10. Con: The tab character is hard to insert into input fields on the web or in applications, since it is also used to switch to the next input field. An example is search-and-replace forms. People often have to copy-and-paste a tab characters from their source code in order to search for it.
+1.11. Pro: You do not need an advanced text editor, such as an IDE, to easily create indentation. Tabs are single click per indentation while spaces will likely require multiple key presses per single indentation.
+1.11.1. Con: That's only a disadvantage for the user who chose a tool which is unsuitable for the job. The user is free to switch to another editor. Other users are not affected either way.
+1.11.2. Con: Catering to the least common denominator impedes innovation.
+1.11.2.1. Con: Reliance on unneeded features in software is detrimental. This feature is specifically used to mitigate a handicap of spaces and as such has no greater purpose if tabs are used instead. Adding complexity does not improve the argument for spaces.
+1.11.3. Con: The degree of a text editor's advancement is not binary. Many non-IDE programming editors have single-click bindings for inserting multiple spaces, and often automatic indentation upon linebreaking.
+1.12. Con: Not all keyboards have a TAB key. For example most keyboards on mobile devices are lacking it. Mobile devices play a larger and larger role in our lives, including in software development.
+1.13. Con: Code formatting guidelines often include a maximum line length, for example 80 characters, to ensure readability in all environments. Code can only conform to these line length restrictions assuming a certain indentation width. If conforming to formatting guidelines must assume an indentation width, then the formatting guidelines must specify it, and it must be followed consistently by every user. This can only be achieved consistently with spaces.
+1.14. Con: Tabs and spaces are redundant ways of indenting source code. Having only one way is better than having two ways. Spaces are essential because we need them for other things like separating words in source code. Tabs have no other functionality in source code except indentation, and they are debatable for even that single use case. So, in the interest of the greater good, tabs have to go, despite the tabs-vs-spaces debate not having a unanimous winner.
+1.15. Pro: It is impossible to partially indent a piece of code. This makes your source's format more consistent.
+1.15.1. Con: This argument makes sense for whitespace insensitive languages with only one size of indentation levels.
+1.15.2. Con: You can achieve consistency with multiple levels of indentation.

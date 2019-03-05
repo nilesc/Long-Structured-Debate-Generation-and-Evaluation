@@ -1,0 +1,66 @@
+Discussion Title: Should there be automatic voter registration in the US?
+
+1. There should be automatic voter registration.
+1.1. Pro: It would streamline the process and could reduce bureaucracy.
+1.1.1. Pro: [In Arizona](https://www.motherjones.com/politics/2016/03/arizona-primary-long-lines-voting-restrictions/), poor administration was the reason for many struggling to cast their vote in the US Elections.
+1.1.2. Pro: AVR will reduce errors in voter records- including different spellings of names \(Jim, James, etc\) and missing or incorrect birthdates. And when a voter moves it will be easier to update their record accurately without creating a duplicate.
+1.2. Pro: It would make it harder to carry out corruption in elections.
+1.2.1. Con: The corruption at best might be redirected; an automated system is still subject to abuse \(as evidenced by electronic voting machines\).
+1.2.1.1. Pro: Other forms of digitisation in voter processes have been subject to abuse and corruption.
+1.2.1.1.1. Pro: Electronic voting machines do not allow for the voting process to be witnessed by external observers and election administrators, meaning trust and transparency are jeopardised.
+1.2.1.1.2. Pro: [A pilot](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) for an internet voting project saw the system hacked into and taken over within 48 hours.
+1.2.1.1.3. Con: The registration process is already managed online, so any potential abuses of the system already exist in the status quo.
+1.2.1.2. Pro: In the last US Presidential election, Russia allegedly [targeted voter registration databases](https://www.defcon.org/images/defcon-25/DEF%20CON%2025%20voting%20village%20report.pdf) in at least 21 states. Automatic registration would make the impact of their attack even greater. \(p6\)
+1.2.2. Con: Given recent allegations of [Russian intervention](https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections) in the US Presidential election, much of which was based on online activity, digitising the registration process may make it even more vulnerable to illicit hacking.
+1.2.2.1. Pro: This is supported by a lot of [well-supported](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) [hacking theory](https://www.defcon.org/images/defcon-25/DEF%20CON%2025%20voting%20village%20report.pdf) and [demonstration](https://www.cs.rice.edu/~dwallach/pub/hackavote2004.pdf), and creates a reality where alteration of the vote is not only possible, but likely.
+1.2.2.2. Con: All currently existing voter databases are already stored digitally, therefore this point is moot.
+1.3. Con: Automatic registration, to be kept current, would require tracking individuals closely through their lives, which would be a violation of our rights to privacy and to be left alone.
+1.3.1. Con: Not necessarily. It could be maintained via other routine practices, such as Vehicle Registration and Driver's License Renewal, which must be done every few years anyway, and requires a current address. On top of this, if you move and live in another state for a certain period of time, you're legally required to renew your registration and license again anyway. Tying Voter Registration to these processes would thus streamline the process.
+1.3.1.1. Con: The primary issue with this, is that because you must pay a fee for Vehicle Registration and Driver's License Renewal, it would constitute a poll tax, which is in violation of constitutional law.
+1.3.2. Con: A voter registration issued at birth, like a social security number, and updated with a current address throughout life would be minimally invasive.
+1.3.3. Con: Registering to vote [already requires](https://www.ssa.gov/open/havv/) submitting sensitive personal information such as a driver's license number or the last 4 of your social security number in order to prove your identity. AVR would therefore not constitute an additional invasion of privacy, but would leverage information you've already submitted to acquire a license.
+1.3.4. Con: There could be a free, voluntary opt-out, which automatically makes it less privacy-invasive than taxes.
+1.3.4.1. Pro: We would also have to criminalize offering/taking compensation for opting out and make opting out unverifiable, just like voting.
+1.4. Con: Voters would still have to update their registration whenever they move to have access to the correct local ballot.
+1.4.1. Con: As you are required to update drivers license and vehicle registration as well when moving to a new state for an extended period of time, tying registration to one or both of these would resolve that problem.
+1.4.2. Con: Voters have to do that in the current system. This is not an argument against automatic registration.
+1.4.3. Con: In the [Netherlands](https://en.wikipedia.org/wiki/Elections_in_the_Netherlands#System), updating registration details is not necessary ever since the municipality of the citizen automatically does this. Re-registration would not necessary if a government body of the USA handles this.
+1.5. Pro: Since voting is your right, it should not require some sort of process to obtain it.
+1.5.1. Pro: Anyone who is 18 years old and a US citizen is automatically eligible to vote anyway.
+1.6. Pro: Automatic registration would increase voter turnout and encourage additional participation.
+1.6.1. Con: [Tens of millions](https://www.brennancenter.org/publication/case-automatic-voter-registration#Introduction) of eligible and registered voters in the US don’t go to the polls, so registration does not solve the problem.
+1.6.1.1. Con: They might be more likely to go to the polls if they are automatically registered. States which have modernized registration see [many benefits](https://www.brennancenter.org/analysis/voter-registration-modernization-states) such as this.
+1.6.2. Pro: Requiring voters to register is an additional step that can deter some people from participating.
+1.6.2.1. Con: If going through the relatively simple process of registering \(which only needs to be done once\) is enough to deter someone, they do not care about voting at all, and therefore there is no reason to register them, nor should they participate in a system they care so little about.
+1.6.3. Con: Automatic registration may encourage turnout by voters who are less informed or apathetic, which would be detrimental.
+1.6.3.1. Con: It is unlikely that apathetic turnout would increase. People who are apathetic, by definition, don't care.
+1.6.3.2. Con: Increased education on the issues and parties involved could help resolve this issue.
+1.6.3.2.1. Con: It could, but since both parties tend to be focused on misinforming uninformed voters and/or currying favor with them rather than educating them, this is unlikely to happen.
+1.6.4. Con: [Most people](https://www.census.gov/prod/2010pubs/p20-562.pdf#page=14) who do not register to vote are not interested in voting. Just 6% could not vote due to registration complications.
+1.6.4.1. Con: Automatic registration might encourage people to participate politically, which seems to be the primary issue given the statistics presented.
+1.6.4.2. Con: 6% could approach 0% if registration was automatic.
+1.6.4.3. Con: People who do not register to vote may simply believe that the registration is too cumbersome and discriminatory, and so an automated system would negate this and reveal how many of those actually aren't interested in voting.
+1.6.5. Pro: Evidence shows that opt-out framing is far more effective than opt-in. Consider this [study](http://www.dangoldstein.com/papers/JohnsonGoldstein_Defaults_Transplantation2004.pdf) on organ donations.  It is also summarized in the [TED Talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) by Dan Ariely of Duke University.
+1.6.6. Pro: Automatic voter registration [has proven](https://www.ivotecef.org/avr_fact_sheet) to be successful in other countries with a higher voter turnout.
+1.6.6.1. Pro: [Sweden](https://www.ivotecef.org/avr_fact_sheet), who has automatic voter registration, saw an 82% voter turnout rate in their last election -- almost three times what the US had in 2014
+1.6.6.2. Pro: [Iraq](https://www.ivotecef.org/avr_fact_sheet) began implementing AVR in 2014 and in that election saw 76.81% of the voting age population turn out to vote.
+1.6.6.3. Pro: [The Netherlands](https://en.wikipedia.org/wiki/Dutch_general_election,_2017), who have implemented an automatic voter registration, had a turnout of 81,9% for the last national parliamentary elections - compared to 55.5% in the [United States](https://en.wikipedia.org/wiki/Voter_turnout_in_the_United_States_presidential_elections).
+1.7. Pro: It would help with census issues for the nation.
+1.7.1. Con: The census counts residents \(citizens and non-citizens\) to determine apportionment of the state's congressional delegation.
+If Automatic Voter Registration is combined with the census, then the probability of non-citizens voting will increase drastically.
+1.7.1.1. Con: Non-citizens are still human, and deserve to have a say on policies that effect them, in a country they fled to.
+1.8. Con: The system for registering people could be vulnerable to fraud.
+1.8.1. Con: There are ways to ensure this doesn't happen; Enforcement of existing laws, as one example.
+1.8.2. Con: The current system is vulnerable to fraud.
+1.8.3. Con: This is an exaggeration. Voter fraud is already [incredibly rare](https://www.brennancenter.org/issues/voter-fraud) with the system we already have.
+1.8.4. Con: Registering voters at the point of naturalization \(birth certificate or citizenship ceremony\) would reduce the fraud even more.
+1.8.5. Pro: If everything became digitised, there could be more opportunities for foreign infiltration into the electoral system in the US.
+1.9. Con: Automatic registration could potentially benefit one party more than another.
+1.9.1. Con: This could be remedied by registering all new voters as "Independants", and allowing them to vote for either party, as they so choose to do, based on their personal beliefs. Should they wish to identify with a specific party, they can update their registration before the election.
+1.9.2. Con: This is only the case if voter suppression is occurring, as this likely favours one party more than another.
+1.9.2.1. Con: It does not require ill intent for this to occur. The method of automatic registration would have to rely on some mechanism. And different populations will be more or less likely to be registered, depending on the mechanism.
+1.9.2.1.1. Con: If voters are registered when citizenship is conferred \(at the assignment of a social security number and birth certificate\), there would be no citizens who were not registered to vote. The bias would only be against non-citizens, who are not allowed to vote anyway.
+1.9.2.1.2. Pro: As a case in point, consider the [telephone polls](http://www.oxfordmathcenter.com/drupal7/node/251) that convinced the papers that Dewey would win in 1948 -- those without telephones voted differently.
+1.9.3. Con: This is true, but irrelevant if your goal is to have the government more accurately reflect the wishes of the governed.
+1.9.3.1. Pro: Any change in the balance of power due to removing barriers for citizens to exercise their right to vote is morally just.
+1.9.4. Con: AVR will benefit different parties depending on the year, jurisdiction, and candidate. It is impossible to project how the policy might have a net benefit to a specific party.

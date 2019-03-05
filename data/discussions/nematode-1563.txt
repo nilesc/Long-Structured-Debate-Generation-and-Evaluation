@@ -1,0 +1,11 @@
+Discussion Title: Nematode
+
+1. Usage of [Nematode](http://www.theregister.co.uk/2016/10/31/this_antiworm_patch_bot_could_silence_epic_mirai_ddos_attack_army/) should be legalised to secure vulnerable IoT devices without their owners' knowledge or consent.
+1.1. Pro: IoT devices are largely responsible for the biggest DoS attacks in recent history, so all means of securing them should be allowed.
+1.2. Pro: Manufacturers of IoT devices regularly neglect to provide them with security updates.
+1.3. Con: Nematode is a malicious software that intrudes in users' private networks and devices.
+1.3.1. Pro: As a consequence of its use, owners of devices would be locked out, interfering with their property rights.
+1.4. Con: Manufacturers of vulnerable devices should be forced to accept responsibility for their insecure devices instead of fighting a war with dubious means.
+1.5. Con: Nematode could potentially be repurposed for malicious uses.
+1.6. Pro: Any device that is vulnerable to Nematode is vulnerable to malware and as such should be considered infected already.
+1.7. Con: Fighting crime with another crime is not acceptable.

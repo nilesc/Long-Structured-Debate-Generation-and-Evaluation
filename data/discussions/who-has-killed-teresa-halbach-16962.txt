@@ -1,0 +1,59 @@
+Discussion Title: Who has killed Teresa Halbach?
+
+1. Who has killed Teresa Halbach?
+1.1. Steven Avery
+1.1.1. Pro: A bullet with Teresa Halbach's DNA was found in the garage of Steven Avery.
+1.1.1.1. Con: The test preformed by Culhane should have been ruled "Invalid" as it was contaminated. Subsuqent tests have shown that it actually contains wood fragments and red paint. [stevenaverycase.org](http://www.stevenaverycase.org/wp-content/uploads/2017/07/Exhibit-24-First-Affidavit-of-Dr-Palenik.pdf)
+1.1.2. Pro: Brendan Dassey confessed assisting Steven Avery in raping and killing Teresa Halbach.
+1.1.2.1. Con: Brendan Dasseys confession was coerced.
+1.1.2.1.1. Con: The 2017 Court of Appeals [ruled 4-3](https://edition.cnn.com/2017/12/08/us/brendan-dassey-confession-upheld/index.html) that the confession should stand.
+1.1.3. Con: No DNA from Theresa was found in Stevens Trailer
+1.1.4. Pro: [The last known appointment was a meeting with Avery](https://en.wikipedia.org/wiki/Steven_Avery#Halbach_murder), at his home on the grounds of Avery's Auto Salvage.
+1.1.5. Con: At the time of the murder Steven Avery was just released after [serving 18 years innocently in prison](https://www.innocenceproject.org/cases/steven-avery/). It seems unlogical to risk going back to jail so soon after.
+1.1.5.1. Con: Murderers often act in response to a compulsion not to logical thinking.
+1.1.6. Pro: Steven Avery's blood was found in the RAV4 of Teresa Halbach.
+1.1.6.1. Pro: Steven Avery dripped blood in the RAV4 from a cut hand.
+1.1.6.1.1. Pro: Forensic analysis [reported](http://www.makingamurderer.org/wiki/index.php?title=Steven_Avery_blood) the blood was consistent with blood dripping from a cut on a finger.
+1.1.6.1.1.1. Con: Blood samples in the car were consistent with dried blood, not wet blood fresh from a cut.
+1.1.6.1.1.1.1. Pro: Flakes of blood were found on top of the driver side’s carpet floor, but fresh blood from a cut [would have soaked into the carpet](https://www.newsweek.com/steven-avery-appeal-blood-evidence-innocent-guilty-kathleen-zellner-making-762639) instead of sitting as flakes on top of the fibers.
+1.1.6.1.2. Pro: Steven Avery had a [cut on his hand](http://www.makingamurderer.org/wiki/index.php?title=File:Cut_on_hand.jpg) around the time of the murder.
+1.1.6.2. Con: Steven Avery's blood was planted in the RAV4 by Law Enforcement.
+1.1.6.2.1. Pro: A vial of Steven's blood \(from his 1985 trial\) was in Manitowoc County law enforcement custody.
+1.1.6.2.2. Con: The blood could not have been planted, as samples from the car did not contain EDTA, a preservative that was present in the preserved blood.
+1.1.6.2.2.1. Pro: FBI chemist Dr. LeBeau [testified that](http://lawprofessors.typepad.com/evidenceprof/2016/01/several-readers-have-asked-me-questions-about-theethylenediaminetetraacetic-acid-edta-evidence-used-in-the-steven-averymak.html) to a reasonable degree of scientific certainty "significant amounts" of EDTA were present.
+1.1.6.2.2.2. Con: Only 3 of the 6 samples from the car were tested.
+1.1.6.2.2.3. Pro: Negative control swabs were taken from areas next to the stains, which ruled out environmental EDTA already being in the car.
+1.1.6.2.2.4. Con: The method used to test for EDTA may have been invalid.
+1.1.6.2.2.4.1. Con: Research scientists \(separate division from LeBeau\) at the FBI [published their peer reviewed method](https://watermark.silverchair.com/21-7-521.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAaAwggGcBgkqhkiG9w0BBwagggGNMIIBiQIBADCCAYIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMz0BTS2O98-PUwED7AgEQgIIBU6tivUcL_nEN6XMRjtUMLF6HAfJkfUYvLQcIpSB5fx_xkB0tAR0j3hfG4KcHgF94LuWNJ8idvdPf0TOxL3ynWOJj9esoY1w6pX7uFh5W7u__TToW54vFKXByWQB75kodFyk1qoF_ruHMy17fcTJhIC3TAZ2ffoFEtBJKotbUwKB6TQsUmOu7AVYpv_KWxQObN8jhzfEtSLwxUNkdWxTeC2F5VO_TQUQwqMBl-jIbhe0tpyorj-IAc0bseLce-EXmW6DSqUiPpSqk0kP3GW62CicPUE8B2cOwu66MaXGIj0eoIP_14PinR6LXks-CVA5oTxG5qX6VSCFpq77kZKFyjG_3Z9xOnfbaBZEMoz6mbzhGqX-R0KAFlU3Haoj0_7tEOAjvxLYe5vK94YINitV4p-HXarvge0v_Es2u-at77IjG1AURkvemO-_AWc0ZgX-50ZgT_A) for EDTA testing in the Journal of Analytical Toxicology.
+1.1.6.2.2.4.2. Pro: The technique used was "[quickly developed](https://www.rollingstone.com/culture/culture-news/experts-offer-concerns-over-forensic-testing-in-making-a-murderer-case-179602/)" specifically for the case, and therefore has not had time for the extensive research and analysis needed to even know how often and under what conditions EDTA could be detected in dried blood taken from a decades old vial.
+1.1.6.2.2.5. Con: The EDTA in the vial could have degraded to the point it was no longer detectable, as the vial was stored for such a long time \(20 years\).
+1.1.6.2.2.5.1. Con: The FBI performed a [stability test](https://www.reddit.com/r/MakingaMurderer/comments/426ulo/the_edta_testing_what_was_done_and_limitations/) with 33 month old EDTA dried blood spot cards.
+1.1.6.2.2.5.2. Con: Scientific literature indicates that EDTA [does not break down](https://www.reddit.com/r/MakingaMurderer/comments/426ulo/the_edta_testing_what_was_done_and_limitations/) readily absent harsh intervention- and that makes sense because it's a preservative.
+1.1.6.2.3. Pro: Blood was available in Steven Avery's [sink](https://www.newsweek.com/steven-avery-appeal-blood-evidence-innocent-guilty-kathleen-zellner-making-762639), from the cut in his hand.
+1.1.6.2.4. Pro: -> See 1.1.6.1.1.1.
+1.1.6.2.5. Pro: Law Enforcement had incentive to frame Steven Avery.
+1.1.6.2.5.1. Pro: Law enforcement thought Steven Avery was the real rapist in 1985.
+1.1.6.2.5.2. Pro: Law enforcement thought they were correct that Steven Avery had killed Teresa Halbach, and so they planted additional evidence to 'ensure justice'.
+1.1.7. Pro: [Bones where found on three locations on Steven Avery's property](http://www.makingamurderer.org/wiki/index.php?title=Main_Page): Steven's Burn pit, the Burn barrel\(s\), and the nearby Quarry
+1.1.8. Pro: The key of Teresa's RAV4 was found inside Steven Avery's house.
+1.2. She didn't die
+1.2.1. Con: Charred bones have been found with her DNA on different sites. Also her blood has been found in the RAV4.
+1.2.2. Con: Teresa Halbach seemed to be just working on the day she disappeared and there where no signs in phone conversations that she was unhappy with her current life.
+1.2.3. Con: There have not been any signs of her being alive reported \(phonecall, creditcard usage, etc\).
+1.2.3.1. Con: If she wanted to start a new life with a new identity, she would not need to use her old phone, credit card, etc.
+1.2.3.1.1. Con: It is quite difficult nowadays in this connected and globalized world to disappear without leaving any trace.
+1.2.3.1.2. Con: Even if she wanted to start a new life, it is unlikely, given the popularity of the case, that she has not been spotted and recognized somewhere.
+1.2.3.1.3. Con: There is no indication that she was unhappy with her life or wanted to disappear.
+1.2.3.2. Pro: Given the popularity of her story, she would likely verify that she's alive in order to get the story straight.
+1.2.4. Pro: [Lynne Blanchard](https://www.cosmopolitan.com/uk/entertainment/news/a41927/making-a-murderer-teresa-halbach-bones-unverified/) from Stop Wrongful Convictions questions if tissue can "survive a fire that disintegrated 60 per cent of the bone mass".
+1.3. Ryan Hillegas
+1.4. Manitowoc County Deputies
+1.4.1. Pro: Steven Avery had filed a $36-million civil lawsuit against Manitowoc County, its former sheriff, and its former district attorney for wrongful conviction and imprisonment. Setting up Steven to be a suspect would make the chance for this lawsuit to succeed much smaller.
+1.4.1.1. Con: While setting up someone innocent \(and letting the culprit go\) to cover themselves is a possibility, committing a muder to do so seems far-fetched.
+1.4.1.1.1. Con: You don't need to murder someone to set someone up.
+Law Enforcement could have taken an opportunity to blame an existing murder on Steven Avery.
+1.4.1.1.1.1. Pro: -> See 1.1.6.2.5.2.
+1.4.2. Pro: -> See 1.1.6.2.5.
+1.5. Bobby Dassey
+1.5.1. Pro: Bobby had[thousands of images of young women being tortured, mutilated, blindfolded and bound on his computer \(p.2\)](https://drive.google.com/drive/folders/1eCLcyVFhrExX71Qcb4acOnB5FZ57Fsj7). These reveal a propensity for sexual violence.
+1.5.1.1. Pro: From the computer that was used by Bobby Dassey many searches for violent underage pornographic material where made. Examples: "drowned girl nude" or "11 year old sex" \([Exhibits 6-8, p.3, 4](https://drive.google.com/drive/folders/1eCLcyVFhrExX71Qcb4acOnB5FZ57Fsj7)\).

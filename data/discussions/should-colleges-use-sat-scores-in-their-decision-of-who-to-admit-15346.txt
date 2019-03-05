@@ -1,0 +1,51 @@
+Discussion Title: Should Colleges Use SAT Scores In Their Decision Of Who To Admit?
+
+1. Colleges should use SAT scores in their decision of who to admit.
+1.1. Con: SAT testing is biased against non-native speakers given it includes a language section.
+1.1.1. Con: This is easily remedied by some basic alterations to the tests.
+1.1.2. Con: English proficiency is a legitimate metric for colleges to evaluate.
+1.1.2.1. Pro: Since a majority of university curricula are primarily taught in English and most further studies and job interviews are also primarily in English, it is legitimate for the SAT to test students in their English proficiency.
+1.1.2.2. Pro: For Universities that see a lot of international applicants, English proficiency may be an indicator of the extent to which those students will feel comfortable in the university setting, since most students will be conversing in English.
+1.1.2.3. Con: As long as the student's English is of a sufficient quality to handle the course, it shouldn't be a major factor.
+1.2. Pro: SAT testing is a practical way to determine a student's knowledge.
+1.2.1. Con: A student's knowledge of a syllabus might not be indicative of their ability to succeed in college or beyond.
+1.2.1.1. Pro: There are many ways to establish a person's intelligence and knowledge without SATs.
+1.2.1.2. Pro: A degree of rote learning does not equate to mastery of the subject.
+1.2.1.3. Con: This can be said about any test. But tests are often required to establish the baseline of credibility for a particular position or activity.
+1.2.2. Con: -> See 1.2.1.1.
+1.2.3. Pro: The SAT focuses on application rather than rote memorization.
+1.2.3.1. Con: A lot of students have to memorize a list of unfamiliar words to do well in the Reading and Writing sections of the exam.
+1.2.4. Con: There is no practical skills element. A whole area of learning and learners are ignored.
+1.2.4.1. Con: These types of individuals may not be suited to colleges, so the point is moot.
+1.3. Pro: SAT testing prepares students for tests that they will take in college.
+1.3.1. Pro: Exams are a staple of college life; the earlier students grow used to them, the less stressed they will be and the better they will perform.
+1.3.2. Con: In English classes in college, students will rarely, if ever, take multiple choice sections.
+1.4. Pro: SAT scores help equalize the differences between student performance across school districts and across the rest of the world.
+1.4.1. Pro: This prevents students gaining a place in college through their schools reputation. Thus it acts as a leveler against privilege.
+1.5. Pro: SAT testing is standardized, so it can give colleges a better idea of where a specific student is, as grade inflation can cause unfair discrepancies.
+1.5.1. Pro: SAT creates a fair playing field for all prospective college students. It is an objective way to equally assess students academic abilities. Also, it removes the risk of inflated grades.
+1.6. Con: SAT testing is biased toward the wealthy.
+1.6.1. Pro: Wealthy people can afford to take the tests many times.
+1.6.1.1. Pro: It typically costs [money to enroll](https://www.studypoint.com/ed/sat-test-registration-fee/) for the exam and then costs more to send SAT and SAT Subject test scores to universities.
+1.6.1.2. Pro: There is evidence to suggest that there is [substantial improvement](https://www.prepscholar.com/sat/s/results2) if a student takes the test more than once.
+1.6.2. Con: Just about everything is biased in favor of the wealthy, but SAT testing is less biased towards the wealthy since [SAT tests are far more difficult to tutor for than precursor academic qualifications.](https://files.eric.ed.gov/fulltext/ED235195.pdf)
+1.6.3. Con: This is a reason to increase accessibility, not to disregard the merits of using the test score entirely.
+1.6.4. Con: [New amendments](https://www.theatlantic.com/education/archive/2016/03/will-the-new-sat-better-serve-poor-students/472311/) are trying to make the SATs more accessible for poorer students.
+1.6.5. Pro: Wealthy people are able to afford tutoring and other types of testing prep.
+1.6.5.1. Pro: Test prep tutoring is really expensive.
+1.6.5.2. Pro: There are opportunity costs associated with tutoring that poor families cannot bear.
+1.6.5.3. Pro: Tutoring can significantly improve the test taker's performance. As such, the score may not reflect the test taker's actual ability.
+1.7. Con: It has been claimed that SAT testing is [biased against women](https://www.nytimes.com/2016/06/27/us/tutors-see-stereotypes-and-gender-bias-in-sat-testers-see-none-of-the-above.html).
+1.8. Con: SAT testing is very stressful for students.
+1.8.1. Con: Work environments and college itself is also very stressful; students need to learn how to manage their stress.
+1.8.2. Pro: It is unlikely to be a fair representation of a student's abilities when they are under so much pressure.
+1.8.3. Pro: Students find it difficult to prioritize schoolwork and other extracurricular activities while also having to prepare for standardised tests.
+1.8.4. Con: It is the responsibility of colleges to ensure that they get the most successful and deserving student body possible, not to minimize the stress on applicants.
+1.8.4.1. Pro: A rigorous application process weeds out students who are unwilling to work hard.
+1.8.4.1.1. Con: Students can work hard and still trip up on the day, or struggle with commitments that may not be taken into full account. It is not to unfairly penalise such students.
+1.9. Con: SAT testing does not evaluate creative thinking, which is very important.
+1.9.1. Con: Creative thinking is not always as important in academia, particularly for STEM subjects.
+1.9.1.1. Con: This is a misrepresentation of STEM subjects; they do require creativity and creative thinking.
+1.9.2. Con: SAT testing measures specific aspects of a student's abilities. Colleges generally recognize that SATs are only one piece of the picture, and they take that into account.
+1.9.3. Con: It is very difficult to design a test that can evaluate creative thinking, because creativity, by definition, is subjective.
+1.9.4. Pro: Abstract skills are not easily marked, but nevertheless, having more store set by 'soft subjects' would allow students whose talents lie in more creative outlets to have their specialities reflected in SAT scores.

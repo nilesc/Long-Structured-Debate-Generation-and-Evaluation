@@ -1,0 +1,25 @@
+Discussion Title: Is the Mercedes-Benz User Experience (MBUX) really a revolution in the vehicle cockpit?
+
+1. The Mercedes-Benz User Experience \(MBUX\) is a revolution in the vehicle cockpit.
+1.1. Con: The system is too distracting.
+1.1.1. Con: The high reliance on voice recognition makes the system less distracting than many alternatives as the driver's attention can remain mostly on driving.
+1.2. Pro: The MBUX hardware is much more powerful than comparable systems, making the user experience comparable to a smartphone.
+1.3. Pro: The system adapts intelligently to the user.
+1.3.1. Pro: Some MBUX features, such as suggestions, are linked to a user account that can be accessed in different cars.
+1.4. Pro: The system features state-of-the art connectivity to third-party devices.
+1.4.1. Con: The lifespan of many cars is ten years or more. It is not yet clear whether devices that come out in years will also be supported.
+1.4.2. Pro: For car sharing programs it is possible to individualise the driving experience through the cell phone.
+1.4.2.1. Pro: The car would automatically know my common destinations which makes it easy for me to set up the navi.
+1.4.2.2. Pro: Music could be played from my phone.
+1.5. Pro: The augmented reality cues in the navigation is very sophisticated.
+1.6. Con: The system is overloaded and contains too many features.
+1.7. Con: The touch control is not really an advantage in comparision to the knob controllers.
+1.7.1. Con: Many people are used to touch controls from their phone and tablet. This will make it easier to adapt to MBUX.
+1.7.2. Pro: Touch control requires the driver to take his/her eyes of the road whereas knob controls can usually be controlled without actually looking at them.
+1.8. Con: Language recognition technology is not perfect yet.
+1.8.1. Con: Different from many other systems, it can even work with contextual commands and connect - for example - a driver's statement that she is cold with temperature control.
+1.8.2. Pro: All language recognition suffers when multiple people are present and talking. In cars this is commonly the case.
+1.9. Con: Data protection issues are likely a problem.
+1.9.1. Con: It is not clear whether the system relies on personal information that can be linked to a driver's identity to a significant degree.
+1.9.2. Pro: Data need to be protected in order to guarantee citizens' right to privacy
+1.9.2.1. Pro: Citizens' right to privacy is essential in order to maintain autonomy and capacity to intervene in the public sphere.

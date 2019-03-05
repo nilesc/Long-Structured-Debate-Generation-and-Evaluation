@@ -1,0 +1,258 @@
+Discussion Title: Should Long-term Solitary Confinement Be Stopped?
+
+1. Long-term solitary confinement should be stopped.
+1.1. Pro: Solitary confinement harms mental health, and thus promotes anti-social and criminal behavior.
+1.1.1. Pro: It has [been shown](http://journals.sagepub.com/doi/pdf/10.1177/0093854807312851) that mental health issues have a strong association with violent crime, most specifically assault.
+1.1.1.1. Pro: Since the purpose of prison is at least partially to rehabilitate criminals it is counter productive to use punishments that exacerbate the problems that affected their likelihood to commit crimes in the first place.
+1.1.2. Pro: It is psychological torture to prevent prisoners from any significant form of social interaction.
+1.1.2.1. Pro: Rates of suicide and self harm are [higher](https://steinhardt.nyu.edu/appsych/opus/issues/2015/spring/corcoran) among prisoners in solitary confinement than the general prison population.
+1.1.3. Pro: There's well documented research that going multiple days with no human contact is [incredibly harmful](https://www.motherjones.com/politics/2012/10/donald-o-hebb-effects-extreme-isolation/) for people's psyche.
+1.1.3.1. Pro: Loneliness and social isolation are [leading factors](https://www.theguardian.com/society/2015/jun/25/loneliness-a-key-risk-factor-for-suicide-among-australian-men-study) in suicide and self-harm, therefore solitary confinement would aggravate rather than alleviate this problem.
+1.1.3.1.1. Pro: Suicide and self-harm are similar to psychopathic [traits](https://www.livescience.com/18800-loneliness-health-problems.html), notably spree killers are almost always diagnosable to chronic or manic depression and seek [suicide by cop](https://en.wikipedia.org/wiki/Suicide_by_cop).
+1.1.3.2. Con: A [study](https://psychnews.psychiatryonline.org/doi/full/10.1176/appi.pn.2013.5b1) by the University of Colorado has indicated that the psychological harms of solitary confinement are not as common or debilitating as once thought.
+1.1.3.2.1. Con: This study was conducted on inmates who had access to a television in their cell, which is not common in most segregation facilities, as the study itself notes. Additionally, it notes that most people who end up in solitary confinement have existing mental health issues that solitary confinement does not improve, and that they'd be better off being treated in a specific mental health facility.
+1.1.3.3. Pro: Inmates who have experienced long stays in solitary confinement [have been shown](https://www.theodysseyonline.com/exploring-prison-abuse-and-solitary-confinement) to demonstrate increased symptoms of anxiety, depression, and emotional instability.
+1.1.4. Con: Keeping inmates in solitary confinement denies them the opportunity to perform any criminal behavior, therefore the mental harm they incur is a small trade-off for ensuring the safety of society.
+1.1.4.1. Con: However the antagonizing nature of solitary confinement is likely to raise the risk of criminal behavior once the inmate who was put in solitary confinement is let out.
+1.1.5. Con: Prison also [harms](https://www.theguardian.com/commentisfree/2017/dec/20/prisoners-mental-health-self-harm-deaths-jails-liverpool) mental health and leads to anti-social and criminal behavior.
+1.1.5.1. Con: It is still preferable to choose the less harmful of the two, which most studies conclude is living in the general prison population.
+1.1.6. Pro: The reasoning for solitary confinement can be any as long as it is established by the guards and supervisors, making it easy to abuse. As previously seen in the [1971 Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment), this kind of power given to single individuals can lead to exploitation of authority and further the unbalanced social hierarchy within the [prison](http://www.prisonexp.org/).
+1.1.6.1. Con: [The Stanford Prison Experiment](https://medium.com/s/trustissues/the-lifespan-of-a-lie-d869212b1f62) are critically flawed and based on false premises, as admitted by the author of one of its most notable breakdowns, so it should not be used as an authoritative source on prison power dynamics.
+1.1.7. Con: The actions of the inmate that lead them to being placed in solitary confinement, or prison in general, harms their mental health. Solitary confinement is avoidable, therefore it is the actions of the inmate that are harmful to the inmates mental health.
+1.2. Con: Solitary confinement is a good way of achieving retributive justice.
+1.2.1. Con: Many prisons allow prisoners to be put in solitary confinement at the guard's discretion, for offences as minor as ["insolence".](https://www.theodysseyonline.com/exploring-prison-abuse-and-solitary-confinement)
+1.2.1.1. Pro: Prison guards can put prisoners in solitary confinement at their own discretion, meaning many prisoners are in solitary confinement not due to their behaviour, but due to the officers' implicit biases.
+1.2.1.1.1. Pro: LGBT individuals are [more likely](http://solitarywatch.com/2015/10/26/85-of-lgbtq-people-behind-bars-report-spending-time-in-solitary/) to be subjected to solitary confinement than their cisgender, straight counterparts.
+1.2.1.1.1.1. Con: The use of solitary confinement wouldn't be abused if prison guards were held accountable for putting prisoners in solitary confinement without sufficient justification.
+1.2.1.1.1.1.1. Con: A [landmark case](https://supreme.justia.com/cases/federal/us/511/825/case.html) in 1994 determined prison guards are not liable for harm caused to prisoners unless they are aware there is a high chance of harm to the inmate, and choose to disregard it.
+1.2.1.1.1.1.1.1. Pro: Inmates are [more likely](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=4916&context=uclrev) to face harms such as assault in prison than outside it, meaning that prison guards lack the incentive to properly use solitary confinement to promote inmate safety.
+1.2.1.1.2. Pro: According to studies in the US, men of color are [overrepresented](https://www.theatlantic.com/politics/archive/2016/12/race-solitary-confinement/509456/) in isolation while white men are typically underrepresented.
+1.2.1.1.3. Pro: Mentally ill prisoners are often put into solitary confinement as a response to displaying [symptoms](http://jaapl.org/content/jaapl/38/1/104.full.pdf) considered bothersome by prison guards.
+1.2.1.1.3.1. Pro: The behaviour often continues while the inmate is in solitary confinement, which results in more time being added to their sentence in solitary confinement and mentally ill prisoners being left in solitary confinement almost [indefinitely.](http://jaapl.org/content/38/1/104)
+1.2.1.1.3.1.1. Pro: Mentally ill inmates are [disproportionately](http://jaapl.org/content/38/1/104) represented in solitary confinement as a result.
+1.2.1.1.4. Pro: Many prisons have limited resources to allocate towards implementing all prison regulations to a satisfactory standard. It is unrealistic to expect that all prisons would be able adequately uphold standards for the use of solitary confinement.
+1.2.1.1.5. Con: This is a problem of how solitary confinement is abused which can be resolved without abolishing it.
+1.2.1.1.5.1. Pro: If there are clear rules and procedures for when and how solitary confinement is acceptable, prison guards wouldn't be able to put prisoners in solitary confinement for arbitrary reasons.
+1.2.1.1.5.2. Pro: -> See 1.2.1.1.1.1.
+1.2.1.1.5.3. Con: If it is not possible for solitary confinement to be used appropriately under realistic circumstances, we should not allow it to be used at all.
+1.2.1.2. Pro: There are more than 100 prohibited acts in [federal prisons](https://en.wikipedia.org/wiki/Solitary_confinement#Federal_prisons)  that may result in solitary confinement. This makes it very easy for prison guards to put prisoners in solitary confinement for arbitrary reasons.
+1.2.1.2.1. Pro: Some of these [acts](https://en.wikipedia.org/wiki/Solitary_confinement#Federal_prisons) include: unauthorized physical contact such as kissing, using obscene language, feigning illness, circulating a petition, insolence towards a staff member, engaging in or encouraging a group demonstration, participating in or encouraging a labor strike, and gang activity.
+1.2.1.3. Pro: Solitary confinement can be used for the dark cruelty of the guards whim instead of the deserved infraction of the inmate. Look at the case of Kalief Browder, held at Rikers for 3 years without a trial, 2 years in solitary never charged or convicted of any crimes. [Kalief Browder](https://www.npr.org/sections/thetwo-way/2015/06/08/412842780/kalief-browder-jailed-for-years-at-rikers-island-without-trial-commits-suicide)
+1.2.1.4. Pro: This makes it very easy for the security staff to abuse their power to put prisoners in solitary confinement.
+1.2.1.5. Con: This is a reason to ensure that prisons are more tightly regulated and supervised, so that solitary confinement is never used unless necessary.
+1.2.1.5.1. Pro: Solitary confinement could be restricted in use to only those in need of protection.
+1.2.1.5.2. Con: -> See 1.2.1.1.5.3.
+1.2.1.5.3. Con: No matter how well solitary confinement is regulated, there will always remain the chance that some inmates will be subjected to it unnecessarily as long as it continues to exist as a punishment.
+1.2.1.5.3.1. Pro: -> See 1.2.1.1.4.
+1.2.1.5.3.2. Con: It is also true that no matter how well-regulated a police institution is, there's always a chance that some people will be put through unwarranted arrests. This is however not a compelling reason to abolish the police.
+1.2.2. Con: Prisons should prioritize rehabilitating prisoners over punishing them.
+1.2.2.1. Pro: Solitary confinement makes it harder to rehabilitate prisoners.
+1.2.2.1.1. Pro: Inmates in solitary confinement lack access to [education and work training programmes](https://www.pbs.org/wgbh/frontline/article/does-solitary-confinement-make-inmates-more-likely-to-reoffend/) available to other inmates, making it more difficult for them to reassimilate into society upon release.
+1.2.2.1.2. Con: It is harder for well-behaved prisoners to rehabilitate if prisoners who refuse to behave appropriately are allowed to influence the prison environment without consequence.
+1.2.2.1.2.1. Con: Guards can implement alternative punishments such as removing visitation rights and television privileges, making inmates financially liable for damages caused to prison property, or assigning them undesirable work shifts.
+1.2.2.1.2.1.1. Con: Alternative punishments still enables prisoners to continue to cause trouble in prison, making it a less stable environment for the prisoners who don't misbehave.
+1.2.2.1.2.1.1.1. Con: Inmates who are eventually released from solitary confinement are often [more aggressive and problematic](http://solitarywatch.com/2013/02/24/the-vicious-cycles-created-by-solitary-confinement/) than they were originally, causing more issues than if they had been punished using other means.
+1.2.2.1.2.1.2. Con: If deterrence were an effective way of keeping prisoners from misbehaving, they wouldn't be in prison in the first place.
+1.2.2.1.2.1.2.1. Con: Prisons are much more supervised and contained environments than society, making it harder to get away with breaking the rules and therefore making deterrence more effective.
+1.2.2.1.2.1.2.2. Pro: Many people don't consider the potential consequences of their actions when committing crimes, meaning that deterrence is an ineffective method of preventing them from breaking the rules.
+1.2.2.1.2.1.2.2.1. Pro: Consequences are usually enforced by society, making an individual who has been isolated in solitary confinement less likely to be deterred than the average inmate.
+1.2.2.1.2.1.2.2.1.1. Pro: Consequences are usually experienced through our interaction with others, i.e. confrontation with other individuals or social exclusion. Being isolated from any social interactions makes the concept of consequences more intangible, and less of a deterrent.
+1.2.2.1.2.1.2.2.1.2. Con: An individual should be deterred regardless of the social context if the consequences of committing an action is harmful to the individual committing it.
+1.2.2.1.2.1.2.2.1.2.1. Pro: For example; most individuals will do things like eat and sleep for survival, regardless of whether or not society demands it.
+1.2.2.1.2.2. Pro: Ill-behaved inmates can have a negative influence on well-behaved inmates, disrupting the well-behaved inmates rehabilitation efforts.
+1.2.2.1.2.2.1. Pro: There is [research](http://n close proximity to delinquent friends increases people’s own risk of offending) that shows that living in close proximity to delinquent friends increases people’s own risk of offending outside of prison. It is plausible that being in close proximity to delinquent inmates have similar effects on the more well-behaved inmates.
+1.2.2.1.2.2.2. Pro: Well-behaved inmates are more likely to misbehave if ill-behaved inmates are able to assert [peer-pressure](https://criminology.regis.edu/criminology-programs/resources/crim-articles/neighborhood-crime) on them.
+1.2.2.1.2.3. Pro: Prisoners may struggle to focus on rehabilitating if the prison isn't a safe and stable environment.
+1.2.2.1.3. Pro: [Isolation](https://www.ssc.wisc.edu/soc/racepoliticsjustice/2017/08/21/prison-isolation-is-torture-ineffective-and-illogical/) from social interaction erodes the humanity of the one being isolated, making it less effective as a tool for preventing prisoners from misbehavior.
+1.2.2.1.3.1. Pro: To have humanity is to have a sense of what is appropriate human behavior, and the desire to act appropriately. A prisoner lacking humanity is less likely to recognize violent acts against other human beings as bad.
+1.2.2.1.4. Pro: Inmates punished under restorative justice are [less likely to reoffend](https://www.justice.govt.nz/assets/Documents/Publications/rj-Reoffending-Analysis-for-Restorative-Justice-Cases-2008-2013-Summary-Results.pdf) than those punished with retributive justice.
+1.2.2.1.5. Pro: Society is made less safe when prisoners who haven't been able to properly rehabilitate are released at the end of their sentence.
+1.2.2.1.5.1. Pro: -> See 1.1.
+1.2.2.1.5.2. Pro: Recidivism becomes [more likely](https://www.pbs.org/wgbh/frontline/article/does-solitary-confinement-make-inmates-more-likely-to-reoffend/) when prisoners are kept in solitary confinement without the chance for proper rehabilitation.
+1.2.2.1.5.2.1. Pro: [A study in Conneticut](http://www.ct.gov/opm/lib/opm/cjppd/cjresearch/recidivismstudy/2001recidivisminconnecticut.pdf) showed that 92% of released inmates who had been in solitary confinement were rearrested within 3 years, compared to 66% of regular inmates.
+1.2.2.2. Pro: Retributive justice is damaging to the rehabilitation process because it entrenches criminals and those working for the justice system as appearing antagonistic towards each other, and so makes criminals less likely to cooperate with the justice system and those working for it when it comes to rehabilitation and restorative justice.
+1.2.2.3. Pro: Rehabilitating prisoners and making them productive citizens is much more beneficial to society in the long term.
+1.2.3. Con: Solitary confinement in used only for rulebreaking within prisons, rather than as a punishment for crimes commited outside of prison. Even prisoners in maximum security prisons or on death row are not kept in absolute solitude permanently.
+1.2.4. Con: Retributive justice carried out by the state is principally illegitimate because the state was not the victim of the crime, rather a particular individual or group within the state were.
+1.2.4.1. Con: By operating under a social contract with the state, citizens transfer their right to retributive justice to the state and rely upon them to enact such justice.
+1.2.4.1.1. Pro: It is preferable that states be the arbitrators of retributive justice rather than individuals in order to ensure that such justice is proportionate to the crime rather than being excessive. The state is in a better position to do this as it is an objective actor, rather than emotionally invested as victims often are.
+1.2.4.2. Con: When a crime is committed it threatens the order and safety of the state as a whole. The state is a victim by extension.
+1.2.4.2.1. Pro: When fraud occurs, it reduces the confidence of society as a whole, to engage in transactions. In this way, the state is harmed by the crime committed against an individual.
+1.2.4.3. Pro: The notion that the state has the right to seek retribution for a crime committed against a third party minimizes the harm done to the victim by suggesting the state is the aggrieved party.
+1.2.4.3.1. Con: The fact that the retribution is carried out by the state rather than the victim is necessary to promote consistent application of penalties and avoid vigilantism, regardless of the feelings of the victim.
+1.2.5. Con: Retribution is an immoral end to strive for.
+1.2.5.1. Pro: Retribution does not provide any benefit to society.
+1.2.5.1.1. Con: Retribution can provide catharsis and closure for those affected by a criminal's activity, which is a benefit to society on the small scale.
+1.2.6. Pro: Severe crimes cause substantial suffering of the victims. Solitary confinement would be an effective method of inflicting suffering on the perpetrator.
+1.2.7. Pro: Retributive justice acts as a tangible disincentive for people to commit crimes.
+1.2.7.1. Con: -> See 1.2.3.
+1.2.7.2. Pro: If there are harsher consequences put in place, then people will be less likely to commit crimes as the potential harm of getting caught will outweigh the potential gain of getting away with it.
+1.2.7.2.1. Con: -> See 1.2.2.1.4.
+1.2.8. Pro: Solitary confinement is a more humane punishment than the death penalty. It is a far more appropriate punishment. It should not be stopped but should be handed out more often.
+1.2.8.1. Con: Long term solitary confinement has been [recognized as torture](https://ccrjustice.org/home/get-involved/tools-resources/fact-sheets-and-faqs/torture-use-solitary-confinement-us-prisons). Torture is often less humane than death.
+1.2.8.2. Con: A life sentence of solitary confinement would in many cases see the person become insane and then die as opposed to being executed while sane. If there is an afterlife, being insane would be a big problem.
+1.2.9. Con: Retribution is emotionally immature and should have no place in justice. Prison exists to protect society from the abuses of criminals and to simultaneously transform them into people less likely to abuse again.
+1.3. Pro: Solitary confinement comes at a significant financial cost to the state.
+1.3.1. Con: If solitary confinement helps keep people safe - including other inmates, then this is a cost that the state should be willing to expend.
+1.3.1.1. Pro: Solitary confinement can be used to protect the prison staff and inmates from violent prisoners.
+1.3.1.1.1. Con: Measurements can be taken to adequately protect prison staff and inmates without it being at the expense of the physical and emotional well-being of violent prisoners.
+1.3.1.1.1.1. Pro: Prisons have limited resources and the costs associated with solitary confinement would be better utilized if it is allocated to improve other areas of prisons.
+1.3.1.1.1.1.1. Pro: Prisons in [115 countries](https://www.penalreform.org/priorities/prison-conditions/key-facts/overcrowding/) have more prisoners than their prisons can facilitate. Defunding solitary confinement can help fund solutions to this overcrowding problem.
+1.3.1.1.1.1.2. Pro: More funding being put towards rehabilitation programmes in prison ultimately increases the number of inmates that can be helped through them.
+1.3.1.1.1.1.2.1. Pro: According to a study, drug abuse rehabilitation programmes in prison reduces the likelihood of recidivism by [48 percent](http://www.apa.org/research/action/aftercare.aspx).
+1.3.1.1.1.1.2.2. Pro: Research has shown that educational programmes in prison reduce the chances of recidivism by [43 percent](https://www.rand.org/pubs/research_reports/RR266.html).
+1.3.1.1.2. Pro: Placing an inmate in solitary confinement makes it easier for prison guards to control the inmate's actions so as to prevent them from harming others.
+1.3.1.1.3. Pro: Prison guards are at risk of murder by homicidal prisoners if a state has no death penalty, as the prisoner then sees no penalty for killing a guard.  The tight control of solitary confinement reduces this risk.
+1.3.1.1.4. Pro: It is harder for prison guards to maintain order without solitary confinement as a tool to deter prisoners from causing trouble.
+1.3.1.1.4.1. Con: -> See 1.2.2.1.2.1.2.
+1.3.1.2. Pro: Solitary confinement can be used to protect prisoners that are likely to be harmed by other inmates if kept among the general prison population.
+1.3.1.2.1. Con: It is unfair to make these individuals suffer the harms of solitary confinement due solely to the potential actions of others prisoners.
+1.3.1.2.2. Pro: Crucial witnesses in ongoing trials, pedophiles, and past police officers are all at [higher risk](https://en.wikipedia.org/wiki/Solitary_confinement#Use) of being attacked by other prisoners. Solitary confinement is used to protect these individuals.
+1.3.1.2.2.1. Con: This is a reason for solitary cells to be an option which individuals who feel unsafe can opt into, rather than existing to be confined to as a punitative punishment.
+1.3.1.2.2.2. Con: Safety is of little use to an inmate if the “protection” of solitary confinement leads to [physical and psychological breakdowns](https://www.therichest.com/shocking/15-chilling-facts-about-solitary-confinement/) of the inmates.
+1.3.1.2.2.3. Con: Extreme violence against pedophiles in prison is [well documented](http://abcnews.go.com/US/prison-living-hell-pedophiles/story?id=90004) and can act as a deterrent for pedophiles to target children.
+1.3.1.2.2.3.1. Con: It is immoral to utilise such a cruel and unusual punishment.
+1.3.1.2.2.3.2. Con: It would be better to simply increase penalties for such acts should greater deterrence be needed.
+1.3.1.2.2.3.3. Con: When prisoners are in the custody of the state, the state is as responsible for their safety as they would be for any other citizen, regardless of their crimes.
+1.3.1.2.3. Con: -> See 1.2.1.1.1.1.1.
+1.3.1.2.4. Pro: [There](https://www.theguardian.com/society/2018/jan/20/tara-hudson-transgender-prisoner-sues-government) [have been](https://www.reuters.com/article/us-massachusetts-lgbt-prison/transgender-woman-sues-massachusetts-for-housing-her-in-mens-prison-idUSKBN1DF340) [several](https://supreme.justia.com/cases/federal/us/511/825/case.html) instances of transgender women being put into the general population of all-male prisons and suffering greatly because of this. Solitary confinement can prevent this.
+1.3.1.2.4.1. Con: Solitary confinement would likely aggravate the feelings of anxiety, depression, and isolation that many transgender people already frequently [experience](https://tgmentalhealth.com/basic-issues-in-transgender-mental-health/). If their well-being is a concern, then it would be much more helpful to simply place them in a prison that matches their identity.
+1.3.1.2.5. Con: Administrative segregation or protective custody is not the same as solitary confinement, a measure which is entirely punitive.
+1.3.1.3. Pro: -> See 1.3.1.2.2.
+1.3.2. Pro: -> See 1.3.1.1.1.1.
+1.3.3. Pro: [Studies have shown](https://www.npr.org/sections/thetwo-way/2014/02/25/282672593/solitary-confinement-costs-78k-per-inmate-and-should-be-curbed-critics-say) that it is approximately 3 times more expensive to keep an inmate in solitary confinement than it is to keep then in a regular prison unit, costing around [$78,000 per inmate.](https://www.npr.org/sections/thetwo-way/2014/02/25/282672593/solitary-confinement-costs-78k-per-inmate-and-should-be-curbed-critics-say)
+1.3.3.1. Pro: There are approximately [80,000](https://law.yale.edu/system/files/area/center/liman/document/asca-liman_administrativesegregationreport.pdf) inmates in solitary confinement in the United States, making the financial burden to the state extremely high.
+1.3.3.2. Con: This is still significantly less than the cost of the death penalty, which often [costs millions](https://deathpenaltyinfo.org/costs-death-penalty); therefore if a criminal is especially dangerous then in certain instances solitary confinement is actually the more economic option.
+1.3.3.2.1. Con: The death penalty is for generally for crimes committed outside of prison, not within; the two are not comparable when their purposes and jurisdictions differ so greatly.
+1.3.3.2.2. Con: The death penalty is an investment in the future. It is a reduction in the general population of violent genes for those who have proven to be particularly violent as individuals.
+1.3.3.2.2.1. Pro: Research has shown that [5%-10%](http://www.bbc.com/news/science-environment-29760212) of violent crime in Finland can be attributed to people who have the MAOA gene.
+1.3.3.2.3. Con: Criminals are limited in their capacity to be significantly dangerous within prisons where they do not have access to the resources they would have in the outside world and where they are under near constant supervision.
+1.4. Con: Solitary confinement is a necessary tool for keeping order and safety in prisons.
+1.4.1. Pro: -> See 1.3.1.1.
+1.4.2. Pro: -> See 1.3.1.2.
+1.4.3. Con: Violence in prisons has been shown to [decline](https://www.scientificamerican.com/article/solitary-confinement-cruel-ineffective-unusual/) as the number of inmates in solitary confinement is reduced.
+1.4.4. Con: There are many effective alternatives to solitary confinement for maintaining order and safety in prisons.
+1.4.4.1. Pro: Prisons in Washington, USA have implemented an [Intensive Transition Program](http://solitarywatch.com/2013/01/16/as-washington-state-prisons-begin-reforms-800-remain-in-solitary-confinement/) for inmates with behavioral problems who may be at risk of being disruptive to prison life.
+1.4.4.2. Pro: -> See 1.2.2.1.2.1.
+1.4.5. Pro: Confinement may prevent prisoners, which have important roles in organised criminal structures, from giving other criminals instructions.
+1.4.6. Pro: Many inmates will not begin to comply until their mindset is personally broken down. Solitary confinement is the best tool to reinforce compliance among extreme hostile inmates.
+1.4.7. Pro: Until over populated prison systems and underpaid and low numbers in prison guards is addressed, solitary confinement must stay in place as a “prison guard” there 24/7
+1.4.8. Con: The key point here is regarding the "long term" confinement. Separating a troublesome inmate from the general population is required at times, so they can calm down and be punished. However, there should always be limits to how long this should be. The length to which it becomes cruel is another topic for debate.
+1.4.8.1. Con: Solitary confinement is a punishment which involves completely cutting the prisoner off from the outside world. Another method should be used for separating a troublesome inmate
+1.4.9. Pro: It deters prisoners from misbehaving in prison.
+1.4.9.1. Con: -> See 1.2.2.1.2.1.2.
+1.4.9.2. Pro: It is likely that inmates are aware of the negative effects associated with long-term solitary confinement and want to avoid suffering from them themselves.
+1.4.10. Con: -> See 1.2.2.1.3.
+1.4.11. Con: Abusing human rights simply because it makes maintaining order easier is principally illegitimate.
+1.4.11.1. Con: Society takes away the rights to freedom and autonomy from people who breaks the rules of society and limits other people's access those rights. This is no different than taking away the rights to have humane treatment guaranteed from those who don't behave in prison.
+1.4.11.1.1. Pro: It is justified for the state to prioritize the rights of citizens who abide by the laws of society over those that do not.
+1.4.11.1.1.1. Con: Human rights are inalienable, not relative. All humans are endowed with the same basic human rights and the state should not be allowed to infringe upon them.
+1.4.11.1.1.1.1. Con: It is impossible to make human rights absolute in practice, as they often end up clashing. This means that enabling one person's human rights will often come at the expense of a human right of another person.
+1.4.11.1.1.2. Con: The prioritisation of some people's rights over others diminishes the sanctity of human rights as a whole, no matter how justified the state may be in making that prioritisation.
+1.4.11.2. Con: Presumably any prisoner put into solitary confinement has been put there because they too violated someone's rights; therefore it is only fair that they receive similar treatment.
+1.4.11.2.1. Con: Treatment of prisoners and the justice system at large should not be based off of the archaic "an eye for an eye" principle, as this does nothing to solve the root issues of crime.
+1.4.11.2.1.1. Pro: -> See 1.2.4.
+1.4.11.2.1.2. Pro: -> See 1.2.2.2.
+1.4.11.2.2. Con: Violating someone's rights does not mean a person's rights no longer need to be respected.
+1.4.11.2.2.1. Pro: -> See 1.3.1.1.1.
+1.4.11.2.3. Pro: -> See 1.4.11.1.1.
+1.4.11.2.4. Con: -> See 1.2.1.
+1.4.12. Pro: Solitary confinement is the only effective way of preventing suicidal inmates from self-harm.
+1.4.12.1. Con: A better approach of dealing with inmates that are prone to self-harm would be to put them in more clinical settings and eliminate solitary confinement for those with serious mental illness.
+1.4.12.1.1. Pro: [Solitary confinement](https://www.pbs.org/wgbh/frontline/film/solitary-nation/) \(9:00 - 12:00\) does not appear to prevent prisoners from finding ways to attempt [suicide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3953781/). However if suicidal inmates receive psychiatric attention, their desire to commit suicide may decrease.
+1.4.12.2. Pro: Solitary confinement cells are usually sparsely and securely furnished, severely limiting an inmate's access to items that could be used to cause themselves harm.
+1.4.12.3. Con: Inmates kept in solitary confinement are 3.2 times [more likely](https://journalistsresource.org/studies/government/criminal-justice/solitary-confinement-prisons-key-data-research-findings) to be at risk of self-harming behaviour than inmates who were never put in solitary confinement.
+1.4.12.3.1. Pro: -> See 1.1.3.1.
+1.4.12.3.2. Con: This could be due to prisoners who are more prone to self-harming behavior being more likely to end up in solitary confinement rather than it being that solitary confinement causes self-harming behavior.
+1.4.12.3.2.1. Con: Even if the prisoners who end up in solitary confinement have greater tendencies to self-harm and suicide, solitary confinement can exacerbate those tendencies.
+1.5. Pro: Solitary confinement is used in a discriminatory fashion, adversely affecting some members of the prison population.
+1.5.1. Pro: -> See 1.2.1.
+1.5.2. Pro: -> See 1.2.2.1.5.2.1.
+1.5.3. Pro: There is a rising concern in [Europe](https://www.theguardian.com/world/2016/may/02/solitary-confinement-european-prisons-terror-threat) that solitary confinement is being used as a political tool in attempt to prevent radicalization.
+1.5.3.1. Pro: Rather than putting prisoners in solitary confinement, those who are radical could simply be kept together in a [separate bloc](https://news.vice.com/article/a-french-jail-is-trying-to-halt-radicalization-by-isolating-radical-muslim-prisoners-together) from the rest of the inmate population.
+1.5.3.2. Con: Radicalisation is often related to violent extremism and attempts to prevent it should be supported.
+1.5.3.2.1. Pro: Many homegrown Islamist terrorists were [radicalized](https://www.npr.org/sections/parallels/2017/06/25/534122917/inside-french-prisons-a-struggle-to-combat-radicalization) in prison, often while serving time for unrelated sentences.
+1.5.3.2.1.1. Con: -> See 1.5.3.1.
+1.5.3.2.1.2. Con: Attempting to prevent the spread of radical Islamic rhetoric using solitary confinement can lead to profiling by the prison guards.
+1.5.3.2.1.2.1. Pro: Many people who are radicalised in prison are serving sentences [unrelated](https://www.npr.org/sections/parallels/2017/06/25/534122917/inside-french-prisons-a-struggle-to-combat-radicalization) to terrorism, the only way to identify potential recruits to extremism would be by their religion or race.
+1.5.3.2.1.2.1.1. Pro: People have been put in solitary confinement for just [speaking to](https://www.afsc.org/resource/solitary-confinement-facts) a suspected gang member.
+1.5.3.2.1.2.1.1.1. Pro: -> See 1.3.1.2.1.
+1.5.3.2.1.2.1.1.2. Con: -> See 1.2.1.1.5.
+1.5.4. Pro: -> See 1.2.1.1.1.
+1.5.5. Pro: -> See 1.2.1.1.2.
+1.5.6. Pro: -> See 1.2.1.1.3.
+1.5.7. Con: Discriminatory application of the penalty is separate from the penalty itself and could be cured by regulation, training, or otherwise oversight.
+1.6. Pro: Solitary confinement is excessively harmful for those who are put in it.
+1.6.1. Con: All forms of punishment are designed to be harmful and disincentivise undesirable behaviour.
+1.6.1.1. Con: All forms of punishment are meant to be unpleasant and deterrent, but not necessarily harmful.
+1.6.1.1.1. Pro: The [definition of punishment](https://en.wikipedia.org/wiki/Punishment) is "the imposition of an undesirable or unpleasant outcome upon a group or individual, meted out by an authority", which need not include physical harm in all cases.
+1.6.1.1.2. Pro: Punishment that causes harm is recognized as [abuse](https://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/downloads/som107ap_q_immedjeopardy.pdf) in the context of certified healthcare providers.
+1.6.1.2. Con: Studies have shown that prisoners in solitary confinement have [greater rates of recidivism](https://www.pbs.org/wgbh/frontline/article/does-solitary-confinement-make-inmates-more-likely-to-reoffend/) than prisoners not housed in isolation.
+1.6.1.3. Con: -> See 1.2.2.1.3.
+1.6.1.4. Con: [Research](https://www.scientificamerican.com/article/solitary-confinement-cruel-ineffective-unusual/) suggests that solitary confinement creates more violence both inside and outside of prison walls.
+1.6.2. Pro: [Studies](https://steinhardt.nyu.edu/appsych/opus/issues/2015/spring/corcoran) have found that even a short stay in solitary confinement often leads to physiological problems, including insomnia, chronic headaches, and heart palpitations.
+1.6.2.1. Pro: Both the physical and mental health of a [prisoner](http://time.com/3052468/what-28-years-of-solitary-confinement-does-to-the-mind/) who spent 28 years in solitary confinement deteriorated significantly over the course of the isolation.
+1.6.2.2. Pro: Solitary confinement for long periods of time has [been shown](https://www.smithsonianmag.com/science-nature/science-solitary-confinement-180949793/) to have negative neurological effects, such as the inability to navigate open spaces.
+1.6.3. Pro: Solitary confinement has shown to be particularly harmful to [juveniles](https://en.wikipedia.org/wiki/Solitary_confinement#Effects_and_access_to_care). It is considered detrimental to their growth and is exacerbated as they're routinely denied access to treatment, services, and programming required to meet their medical, psychological, developmental, social, and rehabilitative needs.
+1.6.4. Pro: -> See 1.1.2.
+1.6.5. Pro: Social interaction is a [basic human need](http://newsroom.ucla.edu/releases/we-are-hard-wired-to-be-social-248746) that cannot be taken without harm.
+1.6.6. Pro: According to Bentham's [utilitarian](https://plato.stanford.edu/entries/utilitarianism-history/) framework, a punishment is only justifiable if it contributes more good to the world than it contributes bad. It does not seem that solitary confinement does enough good for the world to balance out the psychological harm that it inflicts upon the prisoner.
+1.6.7. Pro: People likely empathise with someone kept in a tiny cell for weeks at a time. It surely has severe psychological effects that harm the inmate inhumanely \([apa.org](https://www.apa.org/monitor/2012/10/solitary.aspx)\). It's a means of breaking someone, not rehabilitating them, and could in fact lead to more long-term problems by causing psychological damage to people that are already prone to criminality.
+1.7. Pro: Solitary confinement is inhumane treatment of prisoners and therefore morally wrong.
+1.7.1. Con: -> See 1.4.11.1.
+1.7.2. Pro: -> See 1.1.3.
+1.7.3. Pro: Solitary confinement is a violation of [human rights.](https://www.aclu.org/blog/criminal-law-reform/aclu-united-nations-solitary-confinement-violates-human-rights)
+1.7.3.1. Pro: As human beings, prisoners are entitled to [liberty and privacy](http://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf), rights that are incompatible with solitary confinement.
+1.7.3.1.1. Con: -> See 1.4.11.1.
+1.7.3.1.2. Pro: Many solitary confinement cells are under [24 hour video surveillance](https://phys.org/news/2015-04-problem-solitary-confinement.html), offering no privacy whatsoever to inmates in those cells.
+1.7.3.2. Con: -> See 1.4.11.2.
+1.7.3.3. Pro: Violating an inmate's human rights in order to make them easier to control is principally illegitimate, and should be avoided.
+1.7.3.4. Con: States have no [legal obligation](https://www.humanrights.gov.au/publications/what-universal-declaration-human-rights) to uphold the Universal Declaration of Human Rights, meaning they are entitled to violate these supposed rights as they deem necessary.
+1.7.3.4.1. Con: The UDHR has been used as the base of many legally binding international agreements.
+1.7.3.4.1.1. Pro: The UDHR definitions of fundamental freedoms and human rights is used in the [United Nations Charter](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights#Significance_and_legal_effect), which is binding on all member states.
+1.7.3.4.1.2. Pro: The International Covenant on Economic, Social and Cultural Rights \([ICESCR\)](https://en.wikipedia.org/wiki/International_Covenant_on_Economic,_Social_and_Cultural_Rights) is a multilateral treaty adopted by the UN's General Assembly in 1966. It commits its parties to work toward the granting of economic, social, and cultural rights.
+1.7.3.4.1.3. Pro: The International Covenant on Civil and Political Rights \([ICCPR](https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights)\) is a multilateral treaty adopted by the UN's General Assembly. It commits its parties to respect the civil and political rights of individuals.
+1.7.3.4.1.4. Con: Many of these agreements are either ineffective, counterproductive, openly ignored or otherwise flawed. They do not provide adequate legal accountability for nations breaking these treaties.
+1.7.3.4.1.4.1. Pro: The [UN Human Rights Committee](https://en.wikipedia.org/wiki/United_Nations_Human_Rights_Committee) that is tasked with holding member states accountable to the international treaties on human rights is very ineffective.
+1.7.3.4.1.4.1.1. Pro: When [Libya](https://clg.portalxm.com/library/keytext.cfm?keytext_id=122) submitted an arguably dishonest report in 1995 - while at the same time persecuting expatriate dissidents - it took the committee three years to formulate an answer which expressed concern over the assassinations of dissidents. Libya ignored the comments and was elected chair of the committee in 2003.
+1.7.3.4.1.4.1.2. Pro: The committee has been [criticized](https://clg.portalxm.com/library/keytext.cfm?keytext_id=122) for meeting too infrequently, does not hold hearings, and lacks adversarial procedures. It relies on states' self-reporting.
+1.7.3.4.1.4.1.3. Pro: The US has faced no real consequences from the UN for its use of [torture](http://www.businessinsider.com/r-un-expert-says-us-torture-continues-at-guantanamo-bay-2017-12) in its detainment facilities.
+1.7.3.4.1.4.2. Con: The lack of legal enforcement arises because there are no feasible mechanisms of international enforcement. The documents are still meant, on a principled level, to be morally and legally binding.
+1.7.3.4.2. Con: Signing the UDHR is best seen as a promise - a signal of one's intention that is not legally binding, but is still morally important.
+1.7.3.4.2.1. Con: Signing the UDHR without committing to them legally signals that countries want to appear morally good, but that they would not actually act morally if doing so would be inconvenient to them.
+1.7.3.4.2.1.1. Con: Signing the UDHR without completely committing to them in practice signals the intent and desire for the articles within them, but with the recognition that upholding them may be difficult at times.
+1.7.3.4.2.1.2. Pro: There is less public pressure on states to actually uphold human rights when they can virtue signal by "principally" agreeing with non-binding articles such as the UDHR.
+1.7.3.4.3. Con: A state being entitled to do something does not mean that they should do it.
+1.7.3.4.3.1. Pro: States should act in the best interest of all their citizens regardless of whether they have a legal obligation to or not.
+1.7.3.4.3.1.1. Pro: A state's constitution may not guarantee equal rights to individuals regardless of their race, gender, etc. but this does not mean it is principally legitimate for the state to discriminate against certain citizens.
+1.7.4. Pro: [California's Folsom State prisoners](https://www.telesurtv.net/english/news/Californias-Folsom-State-Prisoners-Launch-Hunger-Strike-Against-Solitary-Confinement-20170526-0024.html) went on a hunger strike to protest solitary confinement, showing that they would rather starve than suffer solitary confinement.
+1.7.5. Con: It is moral to treat people in an inhumane manner in order to protect them from other prisoners, themselves, or protect others from them.
+1.7.5.1. Pro: When entering the prison system, prisoners give up their rights to choose what dangers they should be avoiding and what methods they use to protect themselves.
+1.7.5.1.1. Con: Criminals are put in prison instead of being executed because society still recognize them as humans who are deserving of some rights, such as not being put through excessive physical and emotional harm arbitrarily.
+1.7.5.1.1.1. Pro: -> See 1.6.
+1.7.5.1.2. Pro: -> See 1.4.11.1.
+1.7.5.2. Pro: It can be argued that there is no [distinction between causing harm and allowing harm](https://plato.stanford.edu/entries/doing-allowing/). Letting people die or be injured with the knowledge that intervention would have prevented it, carries the same moral weight as doing the harm yourself.
+1.7.6. Con: The state has an obligation to create as much tangible benefit to society as it can, not to uphold unprovable moral principles.
+1.7.6.1. Con: The state should be limited in their ability to create tangible benefit at the significant expense of certain groups in society.
+1.7.6.1.1. Pro: Citizens derive benefit from living in a state where their conceptualisation of morality is upheld.  Many people believe that human rights matter and so derive benefit from their state trying to uphold them.
+1.7.6.2. Con: -> See 1.2.2.1.5.
+1.8. Con: Solitary confinement can be used to prevent illegal activity both within and outside of the prison.
+1.8.1. Con: Solitary confinement can cause unrest within the prison population as it antagonizes them even further.
+1.8.1.1. Pro: Prisoners who feel that solitary confinement is unnecessarily cruel or arbitrarily used may be provoked to cause trouble in prison as a reaction to it being used.
+1.8.2. Pro: Solitary confinement can be used to separate gang members from each other, making organized crime within the prison more difficult.
+1.8.2.1. Con: It could also provoke the gang members who aren't in solitary to cause trouble as an act of solidarity with the gang members who've been put in isolation.
+1.8.2.2. Pro: If given space to organize themselves, gang members can prove difficult to contain for the prison staff, and risk making the prison an unsafe environment. This makes it particularly important to limit gang activity in prison.
+1.8.2.3. Con: -> See 1.5.3.2.1.2.1.1.
+1.8.3. Pro: Solitary confinement can be used to prevent resourceful people from obtaining items from outside by taking away their visitation rights and access to the yard.
+1.8.3.1. Con: Regular checking of inmates cells by prison guards could solve the problem of inmates possessing contraband items without the need for solitary confinement.
+1.8.3.2. Con: Inmates have [found ways](https://www.pbs.org/wgbh/frontline/article/what-happens-in-solitary-when-guards-arent-looking/) to pass notes and items, despite being in solitary confinement.
+1.8.4. Con: Short term solitary confinement serves as a more effective deterrent to in prison crime. Long term solitary confinement is a band aid fix for deeper issues within the prison society.
+1.8.5. Con: If solitary confinement curtailed illegal activity in prisons, America’s prisons would not be as crime-ridden and [violent](https://truthout.org/video/bloody-violence-in-south-carolina-prison-shines-light-on-inhumane-conditions-across-us/) as they are.
+1.8.5.1. Pro: In April 2018, a lethal riot broke out in a South Carolina prison leaving 7 dead and more than a dozen wounded. This is just an [example](https://truthout.org/video/bloody-violence-in-south-carolina-prison-shines-light-on-inhumane-conditions-across-us/) of what happens across the US. As one expert says, taking away all hope is a big factor in this violence, and complete isolation certainly leads to a sense of hopelessness.
+1.8.6. Con: Illegal activity does not necessarily mean morally wrong activity. Solitary confinement represents such a high moral ill itself that its use in dissuading illegal activity cannot be morally justified.
+1.8.7. Pro: Solitary confinement can help stop the spread of dangerous radical ideas.
+1.8.7.1. Pro: -> See 1.5.3.2.1.
+1.8.7.2. Con: The concept of "radical ideas" is subjective, solitary confinement could be used to curb "radicals" petitioning for better prison conditions as much as it could used to stop the spread of violent ideology in the prison.
+1.8.7.3. Con: Even in prison people should be allowed to believe what they want to believe.
+1.9. Pro: While there are some cases where prison should be used as a punishment, for the most part it should seek to reform its inmates. Solitary confinement is a brutal form of punishment that tears apart those subjected to it, there is no reform in solitary confinement.
+1.10. Con: Solitary confinement gives inmates time to reflect upon their actions without distraction.

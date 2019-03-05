@@ -1,0 +1,43 @@
+Discussion Title: Should the use of 1080 poison be banned?
+
+1. The use of aerial-dropped 1080 poison should be encouraged
+1.1. Pro: Without a viable alternative target species would cause much more harm to the environment than the poison does
+1.2. Con: Other animals are killed by the poison.
+1.2.1. Pro: Some deer are killed by 1080
+1.2.1.1. Con: Deer are exotic pests that damage the bush.
+1.2.1.2. Con: 1080 baits target rats, mice and possums \(and stoats by secondary poisoning\). The quantity of poison chosen is the minimum to do that job. Thus the quantity of poison will never threaten deer populations as a whole; the smallest and weakest animals are most likely to be poisoned.
+1.2.2. Pro: Farm animals have been killed by 1080
+1.2.2.1. Con: Nearly all historic cases of this have been due to 1080 operations by Animal Health Board, TBfree or other agencies targeting possums as a vector for Tuberculosis in cows. DOC has a better record and institutional knowledge of best practice. A recent case of dead cows after a DOC aerial 1080 operation involved cows pushing over a farm gate to eat pellets in a bush block. The fault was the farmer's.
+1.2.3. Pro: Some native birds are killed by 1080.
+1.2.3.1. Con: Where native bird numbers have dropped short term after a poison drop, for example Rock Wrens, they have increased long term with increased nesting success due to reduction of predators. [Large‐scale pest control in New Zealand beech forests \(Graeme Elliott, Josh Kemp\)](https://onlinelibrary.wiley.com/doi/abs/10.1111/emr.12227)
+1.2.3.1.1. Pro: While some native birds are killed by 1080, these claims are greatly exaggerated by anti-1080 activists.[This false claim about dead kiwi](https://www.newshub.co.nz/home/new-zealand/2018/02/photo-of-kiwi-killed-by-dogs-and-cats-passed-off-as-1080-poisoned-birds.html) is constantly recycled by anti-1080 activists.
+1.2.3.1.1.1. Pro: The often-repeated claim that silent forests after a 1080 drop means all the birds have been killed is a myth, not supported by bird surveys.[youtube.com](https://www.youtube.com/watch?v=C5CYM2PNyYY)
+1.2.3.2. Con: -> See 1.2.3.1.1.
+1.2.4. Con: -> See 1.2.3.1.
+1.2.5. Pro: Dogs can be killed by 1080.
+1.2.5.1. Con: Dogs could be killed because they are very sensitive to 1080, however dogs should be kept away from 1080 treatment areas for the notified time.
+1.2.6. Con: -> See 1.2.5.1.
+1.3. Con: More effort should be put in to finding an effective alternative means of eradicating pests
+1.3.1. Con: While alternative means are being researched, pest numbers still need to be managed, which 1080 is doing.
+1.3.2. Pro: Eradication of rats and stoats is the stated aim of Predator Free NZ 2050, which is government policy, but 1080 only achieves control of predator population, not eradication.
+1.3.3. Pro: Since 1080 operations are required every [mast year](https://www.doc.govt.nz/our-work/battle-for-our-birds/beech-mast/), it costs a lot of money. A new solution that eradicated pests, while probably expensive to develop, could save money in the long run if it was a one-off.
+1.4. Con: It's hypocritical to go to such lengths to eradicate pests species while we continue to nurture and spread cats and dogs, two of the most damaging species to the environment
+1.4.1. Con: The Department of Conservation does not nurture and spread [cats](https://www.doc.govt.nz/about-us/science-publications/conservation-publications/land-and-freshwater/offshore-islands/southern-islands-biodiversity-action-plan/cat-management/) and [dogs](https://www.doc.govt.nz/parks-and-recreation/know-before-you-go/dog-access/).
+1.4.2. Con: [Stoats](https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/stoats/) and [rats](https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/rats/), not cats and dogs, are the main threat to native birds. [Possums](https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/possums/), not cats and dogs, are the main threat to native trees and plants.
+1.5. Con: Waterways carry the poison away from the target area endangering other non-target areas.
+1.5.1. Con: 2442 water samples tested in New Zealand between 1990 and 2010 \(after aerial dropping\) found that 96.5% had no detectable 1080 at all; and in the cases where it was found, it was residues at .01 part per billion, which is well below the ministry of health level of 2ppb. Research by NIWA showed that 1080 deliberately placed in small streams for testing was undetectable after 8 hours.
+1.5.2. Pro: The long term effects of micro-dosing a waterway with a substance known to be toxic to all oxygen breathing creatures is unknown. A sub-lethal dose may still put some species at a massive disadvantage, considering some of the toxic effects are neurological, it could cause confusion and behavioral changes which we would usually consider unacceptable.
+1.6. Pro: It is currently the most effective method to control pests in areas that cannot be reached by foot.
+1.7. Pro: The number of predators who threaten the native bird population is reduced.
+1.7.1. Pro: Without 1080 usage the population of [common brushtail possum](https://en.wikipedia.org/wiki/Common_brushtail_possum) cannot be effectively controlled.
+1.7.2. Pro: Without 1080 we will lose many endemic birds and forests.
+1.7.3. Pro: The use of 1080 for pest reduction is scientifically supported. The best review to date is the PCE report [www.pce.parliament.nz](https://www.pce.parliament.nz/media/1294/evaluating-the-use-of-1080.pdf)
+1.8. Con: It is ethically questionable to drop large amounts of deadly toxins into a natural wilderness.
+1.8.1. Pro: This poison is found in plants which are not native to New Zealand, so we are introducing a foreign chemical compound to try to eradicate a foreign invasive species.
+1.8.2. Con: It's hypocritical to argue against 1080 - undetectable days or even hours after application \([SODIUM MONOFLUOROACETATE \(1080\) WATER-RESIDUE ANALYSIS AFTER LARGE-SCALE POSSUM CONTROL](https://www.jstor.org/stable/24053587?seq=1#page_scan_tab_contents)\) - using this point while widely used, traceable, deadly toxins such as car fumes, fertilisers, pesticides, and plastics are polluting our natural wilderness.
+1.8.3. Con: Sodium fluroacetate occurs naturally in some poisonous plants in Australia, Africa and Brazil.
+1.9. Pro: There is an economic benefit to the sellers and distributors of the poison.
+1.9.1. Pro: In 1998 it was said that "about 10 million is spent annually on controlling possum populations"; it is unclear how much of that is on 1080, but it is nevertheless a significant financial incentive. [1080science.co.nz](https://1080science.co.nz/money/)
+1.9.2. Con: It is unfair to assume that just because someone is making a profit, that they have nefarious intentions.
+1.9.3. Pro: "Animal control products" is a company who has enjoyed several large lucrative government contracts, including DOC, OSPRI and local governments.
+1.9.4. Con: Animal control products is owned by the NZ government so the money is circular and stays within governmental agencies[Shareholdings](https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/441007/shareholdings)

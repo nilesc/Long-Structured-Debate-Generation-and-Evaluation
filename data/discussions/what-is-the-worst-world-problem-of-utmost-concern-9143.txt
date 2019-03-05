@@ -1,0 +1,518 @@
+Discussion Title: What is the worst world problem of utmost concern?
+
+1. What is the worst world problem of utmost concern of a topic?
+1.1. Problems created by technology.
+1.1.1. Con: Problems solved by technology.
+1.1.2. Pro: Addiction to technology \(social media, games, etc.\)
+1.1.2.1. Con: Since most of the world does not have access to addictive technology this cannot be a worldwide issue.
+1.1.2.2. Pro: Some people are so much addicted to electronic technologies, that they forget to have real life social activities.
+1.1.3. Pro: The release of technological innovation without considering environmental or societal consequences.
+1.1.3.1. Pro: Artificial intelligence and robots, especially in the military, are a societal threat.
+1.1.3.2. Pro: Social media, video game technology, cell phones, and lack of social interactions among people have helped create a less personable society.
+1.1.4. Pro: Technological singularity: "Slow AI" as defined by Charles Stross in his [keynote speech](http://www.antipope.org/charlie/blog-static/2018/01/dude-you-broke-the-future.html) to the 34th Chaos Communication Congress.
+1.1.5. Pro: Technological unemployment
+1.1.5.1. Con: That amount of jobs wouldn't be lost, they would become high-tech qualified jobs in order to keep that kind of technology working and making improvements on the field. Furthermore, it would enhance educational institutions and society to cope with that need, evolving thus, towards the future. Adaptation to change.
+1.1.5.1.1. Con: If jobs that can be done by people with ordinary intellectual capabilities are replaced with jobs that require highly analytical and creative thinking that is beyond most people,  this represents a harm for the former group.
+1.1.5.1.2. Con: Even if we try to put workers on qualified job, there wouldn't be enough job for all.
+1.1.5.1.3. Con: If for each job lost to AI \(general or not\) we needed one highly specialised professional, the substitution wouldn't be economical. In reality, if this scenario ever plays out, it'll be because it require less humans to maintain the same level of production, i.e. there would be a decline in the number of jobs.
+1.1.6. Pro: Technology should be employed to solve human problems, not just more created technology problems.
+1.1.6.1. Pro: Problems related to some of the earlier forms of energy production still employed today \(emissions from dirty coal and petroleum\) can be mitigated quickly by employing newer, cleaner alternatives \(such as hydroelectric, nuclear, or green power\).
+1.1.6.1.1. Pro: Existing non-powered dams can be retrofitted quickly and cheaply to produce [a large quantity of hydroelectric energy](https://www.citylab.com/environment/2015/11/hydroelectric-power-energy-dams/416910/).
+1.2. Ecological problems.
+1.2.1. Pro: Scarcity: the lack of or access to environmental resources.
+1.2.1.1. Pro: Distribution obstacles prevent adequate access to resources for those who need them
+1.2.1.1.1. Con: This could be resolved by [3D printing products](http://declineofscarcity.com/?p=1325) \([food](https://thinkprogress.org/what-does-3d-printing-have-to-do-with-food-scarcity-and-climate-change-faa3faedcdef/), clothing...\) at home.
+1.2.1.1.1.1. Con: Those with low income can't afford buying a 3D printer. Those most in need won't benefit from that solution.
+1.2.1.1.1.1.1. Con: If the poor cannot get to the 3D printer, people will bring the 3D printer to them. Luckily, people filled with love and compassion for less fortunate is displaced in mission work and offerings of support. If 3-D printing saves humanities issues, the ability to benefit for all would be likely.
+1.2.1.1.1.1.2. Con: People with low income may not need to afford to buy one. They may get access to them where the 3D printers are available to everyone, like libraries and makerspaces.
+1.2.1.2. Pro: This is the biggest world hindrance. Without filling people's needs, society cannot progress.
+1.2.1.3. Pro: Overpopulation makes resources run out faster with more mouths to feed.
+1.2.1.4. Pro: Famine still exist in some areas.
+1.2.1.5. Pro: Clean water scarcity is a major problem in some areas.
+1.2.1.5.1. Pro: Without clean water, there are more Health issues.
+1.2.1.6. Pro: Scarcity is the ["basic \(or central\) economic problem"](https://www.reference.com/world-view/basic-economic-problem-dcfbf062ed826790#), because the issue is so big that economics exists due to it. Scarcity creates limits of supply \(limited resources\) and demand \(limited money\) in world economies.
+1.2.1.6.1. Pro: We are running out of resources due to heavy consumption.
+1.2.1.6.1.1. Pro: Developing countries are increasing demands for resource-intensive foods because of their wealthier tastes. This causes the world to run out of resources faster.
+1.2.1.6.1.1.1. Pro: Compounding this issue is the fact that some developing countries have a much larger population than developed countries \(China is over 1 billion people\). There will be much more mouths to feed than expected, because of this exponential insurgence of people.
+1.2.1.6.1.1.2. Pro: These people are in addition to the people who already consume too many resources, so this will tack onto \(instead of replace\) this issue.
+1.2.1.6.1.2. Pro: Running out of oil could cause disastrous economic consequences \(where all oil-dependent prices skyrocket, including food\).
+1.2.1.6.1.2.1. Pro: People might starve in this scenario.
+1.2.1.6.1.3. Pro: The lack of food and water.
+1.2.1.6.1.3.1. Con: Lack of water and food is mainly due to insufficient ownership rights and poor pricing policy.
+1.2.1.6.1.3.2. Con: Areas, such as South Africa, that have drought are finding out ways to mitigate it. This progress might in turn allow them to have more water in the end than anywhere else in the world because they learned to acquire and conserve water in the hardest environment possible.
+1.2.1.6.1.3.2.1. Pro: South Africans learn how to grow food with a method \(laying previous crop by-products as ground cover instead of burning it away\) that uses little water and reverses climate change.
+1.2.1.6.1.3.2.2. Pro: Drought zones may be many years ahead in ideas than the rest of the world for conserving water, because they are hit with the problem before anyone else.
+1.2.1.6.1.3.2.3. Pro: If drought-prone areas learn the tricks to gather water in a tough environment, they could share it with the world for when it gets hit by droughts too. Then the lack of water \(and in turn food\) will not be a problem in the future.
+1.2.1.6.1.4. Con: People are becoming more aware of their effects on the environment and are utilizing methods to decrease their footprint.
+1.2.1.6.1.5. Con: Extracting extraterrestrial resources might limit this blunder.
+1.2.1.6.1.6. Pro: Technology that is exponentially more efficient and cheaper allows to exploit resources that were before inaccessible.
+1.2.1.6.1.7. Pro: -> See 1.2.1.3.
+1.2.1.7. Con: We are entering an age of abundance. Better energy capture and technology increasingly allows us to turn anything into anything else, and create devices, substances and technology to cater to our every need.
+1.2.1.7.1. Con: Only developed countries are entering that age. In other areas of the world \(mainly the third world\), they are far from that point.
+1.2.1.7.2. Pro: 3-D printers do this.
+1.2.1.8. Con: With [dematerialization and demonetization](https://www.youtube.com/watch?v=3cXPWyP0BBs), scarcity will become less and less of a world issue over time.
+1.2.1.9. Con: In virtual reality \(VR\), there is virtual abundance. The only scarcity is imagination, not resources like in reality \([1](https://www.virtualabundance.com/), [2](https://www.kialo.com/enabling-abundance-or-eliminating-scarcity-can-resolve-most-societal-and-individual-issues-15797/15797.0=15797.1)\)
+1.2.2. Pro: The lack of biodiversity on our planet. So many species of animals and insects have been annihilated by humans or have become extinct because of them that the ecosystem which ultimately supports us is at tipping point.
+1.2.2.1. Con: Many species of animals and insects have been identified extinct before humans inhabited the Earth. Dinosaur fossils were put into the ecosystem long before humans walked the Earth. Your car will start today's from this biodiversity that is prevalent for evolution and life to continue.
+1.2.2.2. Con: Biodiversity is uncontrollable outside of a massive decrease in the human population or sudden advancements in the intellectual capacity of other species. Humans are the only beings on the planet \(that we know of\) that can analyze and change behavior at a scale to reverse this trend and it starts with education. The planet will not just fix itself, we need to educate people who can then fix the planet.
+1.2.2.3. Con: Biodiversity is not the real issue, but the causes of it \(man-made climate change and its sources - like deforestation and plastic\) are. Addressing biodiversity just treats the symptoms, not the causes. As a result, any positive efforts could be undone as climate change continues. If anything, battling biodiversity loss could cause negative consequences.
+1.2.2.3.1. Pro: If people start to try to fix the biodiversity issue, they might end up creating more issues than prevent.
+1.2.2.3.1.1. Pro: People might bring back animals that they caused to go extinct \(due to feeling guilty and making up for wrongdoing\), but some of them might be so far back that they might not fit into today's world \(like the woolly mammoth\).
+1.2.2.3.1.2. Pro: People deciding which animals to bring back will lead to bias, especially when deciding how and what to fund.
+1.2.2.3.1.2.1. Pro: Who gets a say could be hindered by how the matter is handled. The funding and decision-making might come from special interest groups, creating an environment where certain animals get recovered for politics instead of conservation. This could marginalize the public from being able to take action and having a say in recovering from biodiversity loss.
+1.2.2.3.1.2.2. Pro: This could lead to an imbalance where some animals get recovered and others do not \(like what happened with the[endangered giant pandas in China](https://www.nbcnews.com/news/world/giant-pandas-are-no-longer-endangered-n643336)\)
+1.2.2.3.1.2.3. Con: Even a biased increase of biodiversity is preferable to a lack of action.
+1.2.2.3.1.3. Pro: People could end up interfering with natural selection. Artificial selection tends to have undesirable and at times uncontrollable consequences. One example is when [hunting deer to decline their populations actually caused them to rise](https://www.greenwichtime.com/local/article/Hunting-has-increased-deer-population-not-643259.php).
+1.2.2.3.1.4. Con: Tackling the biodiversity issue starts with taking measures to prevent further damages to the biodiversity. Once this is done, nature will naturally regenerate itself with no more damage caused by human activity.
+1.2.2.4. Pro: Most plants rely on bees and other natural pollinators to produce some of nature's most nutritious and beloved foods. But [bees are disappearing](https://edition.cnn.com/2017/03/20/world/bees-eco-solutions/index.html) as a consequence of human activities.
+1.2.2.4.1. Pro: Bee's are the most important creatures on earth \(that we know of\) to humans and pollinate 80% of plants on Earth. Proving upmost concern when manipulating[lifebasicsorganics.com](http://www.lifebasicsorganics.com/blog/why-are-bees-important) their ecosystem.
+1.2.2.5. Pro: Biodiversity is what makes the world beautiful and enjoyable. Without it, and if we can even survive without it, Earth will be a boring place.
+1.2.3. Pro: Inequality can have indirect impacts on ecology: The poor can't afford to buy ecological goods \(photovoltaic panels, new energy efficient car, house insulation,...\). The rich can afford them, but can also afford overconsumption.
+1.2.4. Pro: [Global warming/climate change](https://www.kialo.com/humans-should-act-to-fight-climate-change-4540)
+1.2.4.1. Pro: Recently global warming data was reevaluated. The data was incorrect due to outliers. When they were included it proved Earth is warming up at an unsustainable rate. We are killing the planet that sustains us. Carbon dioxide emissions have to be addressed along with other offenders. Scientists were worried about a 2 degree increase. NOAA has checked again & [climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature) has given a recent prediction that is much worse than expected. We must choose green energy regardless of the govt propaganda.
+1.2.4.2. Pro: Scientists used to believe that issues would arise earliest by 2050, but after reevaluation, they found it will happen a decade sooner, around [2040](https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html). This problem is going to happen so soon and without much interference \(due to the lack of political support\), that this is the worst problem that should be our upmost concern.
+1.2.4.3. Pro: "[In 2014, 92% of the world population was living in places where WHO air quality guideline standards were not met](http://www.who.int/gho/publications/world_health_statistics/2017/EN_WHS2017_Part2.pdf?ua=1)"
+1.2.4.3.1. Pro: "[Around 3 billion people still heat their homes and cook using solid fuels \(that is, using wood, crop wastes, charcoal, coal or dung\) in open fires and leaky stoves. The use of such inefficient fuels and technologies leads to high levels of household air pollution.](http://www.who.int/gho/publications/world_health_statistics/2017/EN_WHS2017_Part2.pdf?ua=1)"
+1.2.5. Pro: Humans are the cause of many ecological problems, and it's made worse by overpopulation.
+1.2.5.1. Pro: Trash
+1.2.5.1.1. Pro: Poor waste management compounds this problem
+1.2.5.1.2. Pro: Plastic is such a large problem, that [5 garbage patches fill up oceans worldwide](http://www.businessinsider.com/ocean-garbage-five-giant-patches-2016-12).
+1.2.5.1.2.1. Pro: The [Great Pacific Garbage Patch](https://www.nationalgeographic.org/encyclopedia/great-pacific-garbage-patch/) is the worst of them, showing that [recycling is not effective \(only 5%\)](http://farm4.static.flickr.com/3584/3486391918_f13be1397d_b.jpg), while [reducing and reusing waste](https://www.addisoncountyrecycles.org/articles/why-reducing-and-reusing-is-better-than-recycling/) are better.
+1.2.5.1.3. Pro: Trash is such as large problem, [entire cities are built](https://inhabitat.com/incredible-garbage-city-rises-outside-of-cairo/) from the waste.
+1.2.5.1.3.1. Con: Recycling trash in ways that build cities creates shelter for those who may not afford it by monetary means.
+1.2.5.1.4. Con: Is trash the problem, or lack of technological, advanced energy efficient processes for its disposal. If we figured out a better way to dispose of the trash it wouldn't be as much of a contributing factor.
+1.2.6. Con: The ecological issues we are facing are symptoms of a larger systemic issue with educational systems and their lack of integration with nations, organizations and individuals making decisions affecting the planet and its inhabitents. Ecological problems are one of many symptoms; the byproduct of too many un-educated "voices" drowning out educated experts. If decisions made were based on scientific fact or theories vs. those with an uneducated opinion, the outcomes would likely be very different.
+1.2.6.1. Con: Professor Stephen Hawking, graduate from Oxford and Cambridge Universities, suggests the voice of scientific experts create the most of the threats we face ecologically. Suggesting this outcome manifest inhabiting other stars in space to continue the human race. Uneducated voices would be different, indeed, different in the extinction of the human race. [lifebasicsorganics.com](http://www.lifebasicsorganics.com/blog/why-are-bees-important)
+1.3. [Health problems](http://www.who.int/gho/en/) that plague our world.
+1.3.1. Pro: Healthspan. Living longer means there could be longer periods of morbidity \(health conditions\)
+1.3.1.1. Pro: Society is on a quest for immortality \(and reverse aging to a youthful state for this\)
+1.3.1.2. Pro: Our society is not built to cope with people living really long periods of time.
+1.3.1.3. Con: If the health span is better, supposedly the whole body works better, hence, a better process of 'dying' would appear naturally for the human race
+1.3.1.3.1. Con: If the body works well, then there is no reason to die \(except in the case of an accident\).
+1.3.1.4. Con: People are becoming more educated on health in addition to living longer, so this would not be an issue as people act on what they discover.
+1.3.1.5. Pro: Since people are living longer, they might not be able to stretch their money through retirement, which leads them to poorer health care in old age. Then, elderly would live with condition much longer than if they have the money to treat them.
+1.3.1.5.1. Con: Increase of average lifespan should be accompanied with increase average age of retirement.
+1.3.1.6. Pro: If someone has a chronic health condition, then the problem would persist throughout their life. The longer the life, the longer the health condition lasts with them.
+1.3.1.7. Pro: Living longer places economic burdens on governments to compensate for it \(such as social security\). With money going towards that, the quality-of-life will decrease with less funding in other arenas that normally get funded \(such the CDC and EPA\).
+1.3.1.7.1. Con: Increased lifespan also could provide economic and emotional relief for individuals that previously could not escape the foster care system which creates economic burden potentially lasting much longer with 50% of fostered youth end up homeless after emancipation. [psychologytoday.com](https://www.psychologytoday.com/us/blog/somatic-psychology/201201/the-foster-care-system-and-its-victims-part-3)
+1.3.1.8. Con: People with longer healthspans can contribute to society more and would be a world benefit instead of problem.
+1.3.1.8.1. Pro: Overall happiness and well-being potentially increases with increased availability of opportunity for interactions to occur among people. "Gone too soon" is not used as much.
+1.3.1.8.2. Con: People that exhibit evil can be a detriment to society and negatively effect others over benefiting them overall.
+1.3.1.9. Pro: The idea of [marriage could get messed up by longer lifespans](https://sevenfigurepublishing.com/2014/05/27/the-unintended-side-effects-of-longer-lifespans/), causing people to be alone for longer \(especially if they outlive their spouse for longer periods of time\).
+1.3.2. Con: There have always been health issues in the world. But this is nothing particularly affecting the world right now as long as there is no big outbreak of an epidemia.
+1.3.2.1. Pro: Death is the one thing in life that is certain and always will be certain. Trying to solve something that will ultimately end in the same result is the definition of insanity.
+1.3.2.2. Con: The fact that health issues have always existed actually supports that it is an important issue. And it is still there at the moment.
+1.3.2.3. Con: Aging is seen as a health problem.
+1.3.3. Pro: [Mental health issues](http://www.explorewhatsnext.com/is-mental-health-a-first-world-problem/).
+1.3.3.1. Pro: Many people suffer from depression or anxiety, and they don't even know that it is considered an illness and that treatments exist.
+1.3.3.2. Pro: Mental health issues make social life difficult, which in turn increases the problem.
+1.3.3.2.1. Pro: Technology and fear of communicating with those who are unknown make social life most difficult. Mental retardation and social retardation are not parallel as the technology abuse and lack of face to face communication among those with “normal” capabilities
+1.3.3.3. Pro: [Neuropsychiatric Disorders is the #1 category of disability \(DALYs\) in the US](https://www.nimh.nih.gov/health/statistics/disability/us-leading-categories-of-diseases-disorders.shtml) \(a developed nation: a future predictor of the world trend for all nations getting developed\) and the [#3 cause worldwide](https://www.nimh.nih.gov/health/statistics/global/global-leading-categories-of-diseases-disorders.shtml).
+1.3.4. Pro: [Heart disease is the #1 cause of death worldwide](http://www.who.int/mediacentre/factsheets/fs310/en/).
+1.3.5. Pro: [Neglected tropical diseases \(NTDs\): 1.6 billion people](http://www.who.int/gho/publications/world_health_statistics/2017/EN_WHS2017_Part2.pdf?ua=1) \(about 1 in 7 worldwide\) have and are not treated for them.
+1.3.6. Pro: Loss of lives due to lack of availability of Blood.
+1.3.7. Pro: [Overpopulation](http://www.everythingconnects.org/overpopulation-effects.html) creates conditions for epidemics and pandemics.
+1.3.7.1. Con: Ability to identify, contain, and ultimately treat Epidemics and Pandemics occur much faster in crowded conditions compared to rural isolation.
+1.3.7.2. Con: Lack of knowledge is the creator for epidemics and pandemics, not over population. The top 7 pandemics world wide in terms of death rate and breaking down of society were based on our lack of understanding of microbiology. [oddee.com](https://www.oddee.com/item_90608.aspx) Again, it was something very minute that caused epidemics and pandemics, not overpopulation.
+1.3.7.2.1. Con: L
+1.3.7.2.1.1. Pro: Although epidemics and pandemics start out small, they spread rapidly in [crowded conditions caused by overpopulation](https://populationeducation.org/population-growth-and-spread-diseases/).
+1.3.7.3. Pro: Climate change \(from overpopulation\) increases the likelihood of vector-borne diseases \(insects proliferate in warmer weather\), like [West Nile, Zika, malaria, and Lyme disease](https://climatenexus.org/climate-issues/health/climate-change-and-vector-borne-diseases/).
+1.3.8. Pro: Aging is seen as a health problem by some.
+1.4. Political issues.
+1.4.1. Pro: Government accountability and transparency, and corruption.
+1.4.1.1. Pro: We lack effective controls to prevent, detect, and correct corruption.
+1.4.1.1.1. Con: Read The Deceleration of Independence created in 1776 effective against corruption. To "When, in the course of human events, it becomes necessary for one people to dissolve the political bonds which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the laws of nature and of nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
+1.4.1.1.2. Pro: Thinking that you are unable to do something makes it absolutely true.
+1.4.2. Pro: People thinking they have the right to control other people. It leads to the use of force being applied to enforce control. This has lead to the deaths of tens of millions of people in the last century alone under socialist, communist, and other dictatorships.
+1.4.2.1. Con: There are far more sheep to be counted in a herd and few Sheppard's. If a Sheppard controls his herd of sheep to food and water and steers them away from wolves and cliffs beneficial to the sheep and Sheppard?
+1.4.2.2. Con: Creating laws and consequences by force if necessary has potientally saved 10’s if millions in the last decade. Controlling of other people is necessary where moral compass may not always point north.
+1.4.3. Pro: Inadequate human rights
+1.4.3.1. Pro: Human rights violations are some of the biggest challenges that the world fights about, including war.
+1.4.3.1.1. Pro: Human right violations manifest when love and compassion for those people are not at the highest value.
+1.4.3.2. Pro: The lack of ability to communicate freely.
+1.4.3.2.1. Pro: Censorship is a large problem in many parts of the world. People can go to jail for speaking against the establishment or not conforming to negative behaviors
+1.4.4. Pro: [Social Inequality](https://en.wikipedia.org/wiki/Social_inequality) - The vast majority of the world is shut off from access to different resources \(jobs, education, water, justice, etc\) due to stratification of society on the base on affluence, intellect, race, region, class and caste.
+1.4.5. Pro: Partisanship has become so divisive, so caustic, and so adolescent that governments, especially in the United States, have become crippled, warped, corrupt, and incompetent.
+1.4.6. Con: Political issues are a byproduct of educational and governance issues. Symptom, but not the cause. If politicians had to prove the data they were using to make decisions was scientifically backed, agreed to by a community of knowledgeable peers vs. the random thought that will generate the most TV spots or tweets, governments would operate more effectively.
+1.4.6.1. Con: The fundamentals in democracy help to “prove” ideas or concepts introduced. Voting among elected officials who were elected by the people to be the voice of reason for the people. Politicians are a direct reflection of the people who elected them. This shortcoming suggests political issues to not be the biggest most worst peoblem within the world.
+1.4.7. Con: Having a political impact, voice, or opinion does not equate to solving or directly illuminating things. Increased love for everyone and compassion for all living creatures \(in an official way\) will be the biggest and most impact.
+1.4.7.1. Pro: People who directly make an effort towards solving issues \(through love and compassion\) can make a bigger impact than the indirect political way of voting in or asking a politician to do something for you \(because they lack the love and compassion to solve issues needing attention\).
+1.4.7.2. Con: Politics does enact changes, especially when the solutions are bigger than any effort one person makes \(a.k.a. they require collaboration of the entire population\). Love and compassion of individuals are sometimes not enough and others get forced into the action of individuals \(even though they lack love and compassion\) politically.
+1.4.7.2.1. Pro: Sometimes people are take political action without realizing it \(through raised taxes or elected politicians \(due to no competitors\) make decisions on their behalf\). Whether or not they have love and compassion, if the political actions make the world a better place, then they indirectly took part in it.
+1.4.7.3. Con: Politics do enact change. Sometimes it is those with the biggest voice or money take political actions, such as changing legislation, to make the world a better place.
+1.4.7.4. Con: Love and compassion tend to be the reasons for political impacts that make the world better. They're mutually exclusive, not separate.
+1.4.7.4.1. Con: I suggest the love and compassion that political leaders have is of negative impact for everyone. The seven deadly sins are at the root of decisions.[7 deadly sins](http://www.deadlysins.com/)
+1.5. Economic issues.
+1.5.1. Pro: Unemployment and lack of economic opportunity
+1.5.2. Pro: Automation. We could be living a lower quality of life without money and work experience
+1.5.2.1. Pro: Creating an AI will make jobs redundant.
+1.5.2.1.1. Pro: The advent of General AI will lead to a post-professions society, whereby no one will have to work for a living. Although this may seem attractive, life without work is a life without meaning.
+1.5.2.1.1.1. Con: There are professions that couldn't sensibly be replaced by AI, like those focused on human contact or cultural production.
+1.5.2.1.2. Pro: Many jobs would be lost as workers are replaced by AGI, causing massive social disruption.
+1.5.2.1.2.1. Con: -> See 1.1.5.1.
+1.5.2.1.2.2. Pro: The average human can not perform high-tech work which "cannot" be made by A.I. or which will be "Adopted later". Those people will be totally dependent on state for their income. Which will ruin the economy.
+1.5.2.1.2.2.1. Con: If AGI is so tremendously capable at producing goods and performing services that it requires no human effort at all, this will lower the cost of living to the point where supporting most or all of humankind in idleness is entirely feasible.
+1.5.2.1.2.3. Con: Social disruption could be remedied with a Universal Basic Income
+1.5.2.1.2.4. Con: Automation only causes workers to lose their jobs in a capitalist economy where the wealthy own the means of production and 100% of the benefits of automating it go to them.  In a different economic system, automation would benefit everyone.
+1.5.2.1.2.5. Pro: The current economic system in most countries fails or functions very poorly if a large portion of workers become unemployable.
+1.5.2.1.2.5.1. Con: AI would be capable of performing human tasks \(or better\) that would significantly improve life for all members of society. Consider that an unemployed member of society today has access to many things \(e.g. emergency healthcare, television, public transportation\) that even wealthy people lacked access to a mere couple centuries ago.
+1.5.2.1.2.6. Con: Humans will cope with losing their "purpose" of having a job where they contribute to the world
+1.5.2.1.2.6.1. Pro: Humans will cope as we always do when jobs go away; we find something else to do.
+1.5.2.1.2.6.2. Pro: This implies that a job may be the only way a human can contribute to the world. In a post-scarcity society brought about by AGI, humans can contribute in other ways rather than for money.
+1.5.2.1.3. Con: In the long term a friendly AGI would be able to do all the jobs, for everyone, and create a post-scarcity society. There would be no need to make a living because everyone would be provided for in every way.
+1.5.2.1.3.1. Con: How do we ensure the AGI is friendly? It's a bit like wishing for a benign despot; there's absolutely nothing guaranteeing you can find one and - long-term - make them stay benign.
+1.5.2.1.3.2. Con: A self aware AI would create all kinds of new dilemma's, because letting such a being do all your work kind of equates to slavery.
+1.5.2.1.3.2.1. Con: The AI doesn't have to become self aware, or a "strong AI" in order to complete all the tasks necessary to attain said goal. Deep learning alone should be able to handle this.
+1.5.2.1.3.2.1.1. Con: A deep learning intelligence could learn unexpected things. Including learning to become self aware.
+1.5.2.1.4. Con: Losing jobs to AGI would be good for society.
+1.5.2.1.4.1. Con: The jobs taken by AI wouldn't necessarily be low-paying jobs. Any job done by human that requires the development and maintenance of expertise is a target for AI, and that includes the fields of medicine, engineering, law, and others. These high-wage, high-expertise jobs are likely to be early targets, because their automation, even in part, could present massive return-on-investment to the AI developers.
+1.5.2.1.4.2. Pro: Most jobs going to AGI would be lower-wage jobs that can benefit from automation.
+1.5.2.1.4.2.1. Con: Adopting low-wage jobs might not be good for the AGI since it would be seen as a working class.
+1.5.2.1.4.2.1.1. Pro: Humans discriminate against upper, middle, and lower classes.  Most manual workers are in the lower class so if AGI were to take these jobs they would be identified with the lower social class.
+1.5.2.1.4.2.1.2. Con: An AGI might not care what social class humans assign it to.  Social classes are how humans prioritize access to limited resources.  As an AGI does not need to eat or have property, it would not be subject to the human class structure.
+1.5.2.1.4.2.2. Con: Students and less-qualified individuals need the jobs that an AI would take over.  If those jobs are missing in a society, young adults who are not inclined toward higher bookish education don't have a place to enter the work force, and we are left with a group of frustrated and bored people who won't have a chance to become qualified for higher-level work.
+1.5.2.1.4.3. Pro: Humans can enjoy spending time outside work
+1.5.2.1.4.4. Pro: An AGI would not need to eat or sleep; it could work 24/7.  Society would be more productive as a result.
+1.5.2.1.4.4.1. Con: Human societies are more productive when people take frequent breaks and have plenty of free time.  An AGI would need time to explore its own pursuits as well.
+1.5.2.1.4.4.2. Pro: AGIs also would not suffer from human diseases and could be maintained easier, meaning less downtime and greater productivity.
+1.5.2.1.5. Con: The jobs can be transformed to concentrate more on overseeing and maintaining automated processes and circumvent problems the AGI cannot solve as easily.
+1.5.2.1.5.1. Con: -> See 1.1.5.1.3.
+1.5.2.1.6. Con: Provided the wealth gained by AI labour is distributed fairly throughout society via a Universal Basic Income, this could be one of the most positive steps forward for humanity.
+1.5.2.1.7. Pro: In a fully automated world, people could focus on better life purposes. See Pro claims on this [Kialo debate](https://www.kialo.com/what-is-the-role-of-humans-in-a-fully-automated-world-8985/8985.0=8985.1/=8985.1).
+1.5.2.2. Con: -> See discussion #5239: Automation and A.I. should replace as many human jobs as possible.
+1.5.2.3. Pro: We are already experiencing worker displacement due to mechanization.[usatoday.com](https://www.usatoday.com/story/news/nation/2014/10/28/low-skill-workers-face-mechanization-challenge/16392981/)
+1.5.2.4. Con: Automation decreases price of everything and increase living standards.
+1.5.2.4.1. Con: That is only if people have money. Without an ability to obtain money, even a penny will be an expense they cannot afford.
+1.5.2.5. Pro: -> See discussion #8985: What is the role of humans in a fully-automated world?
+1.5.2.6. Pro: -> See discussion #8823: A monetary economy should not exist if automation takes over everyone's job.
+1.5.3. Pro: Economic problems lead to [poverty](https://www.worldhunger.org/2015-world-hunger-and-poverty-facts-and-statistics/)
+1.5.4. Pro: [Economic inequality](https://en.wikipedia.org/wiki/Economic_inequality) \(≠ poverty\) is a huge problem.
+1.5.4.1. Pro: Economic inequality gives some people too much power over other people.
+1.5.4.2. Pro: Economic inequality has lead to capital getting increasing rewards over labour. Wealth also transfers between generations. As such there is a self-reinforcing cycle to inequality and poverty + debt.
+1.5.4.3. Pro: Economic inequality is zero sum.  The oligarch's and their political cronies need to be subjected to the same risk as the 99%.  Instead they take from Peter and pay Paul with scam regulations and taxation.
+1.5.4.4. Pro: Economic inequality leads to unspoken social hierarchies.
+1.5.4.5. Con: Economic inequality is a natural consequence of rewarding work that benefits society.
+1.5.4.5.1. Pro: Inequality is seen as a problem mainly when one person earns more than 10 times as much as others - we have now billionaires in developing countries. We can and should have only slight inequality as reward for high performance.
+1.5.4.5.2. Con: The economy does not distinguish between wealth creators and rent seekers, the latter of which is the source of most rich peoples fortunes. [en.wikipedia.org](https://en.wikipedia.org/wiki/Rent-seeking)
+1.5.4.5.3. Con: Beyond the first few million personal wealth does not further enable the capable to achieve great things. Even Elon Musk relies on investors to create this businesses, he rarely self-funds his ventures.
+1.5.5. Pro: In the short-term, the rise in educational requirements for jobs is limiting the number of opportunities that people could apply to.
+1.5.5.1. Pro: The issues is in both ways: the candidates for a job are either judged not enough educated, or too much educated.  The problem is that employers are too strict on their requirements, and are not willing to train the recruits on the job.
+1.5.5.2. Con: However, the education might give people a capability to think about opportunities that they are able to apply to \(which would not have been possible without such education\).
+1.5.5.3. Con: The limitation of opportunities does not have anything to do with education. In reality, companies do not have positions for people to fill and education is just an excuse for a lack of jobs.
+1.5.5.4. Con: With the rise of technology, there has never been more opportunity for someone to learn the specific skills needed for the job they want.
+1.5.5.5. Pro: Another factor \(opposite of this\) is when everyone with a degree is applying to the same job, the majority of applicants get rejected. Then they have less opportunity to succeed.
+1.5.6. Pro: Capitalism as a system driven by egocentric short-term profit thinking
+1.5.7. Pro: -> See 1.2.1.6.
+1.5.8. Pro: Without economic issues, it would be easier to solve many of the other issues discussed in this debate.
+1.5.8.1. Pro: The [Preston curve](https://en.wikipedia.org/wiki/Preston_curve) shows that in poor countries, an increase of income per capita correlates with an increase of life expectancy. A good economic situation increases the access of healthcare.
+1.5.8.2. Pro: A better economic condition allows to fund actions for environmental protection and restoration, and cleaner technologies \(renewable energies, more energy efficient items,...\).
+1.5.9. Con: Those in third world countries would not likely agree with this, especially since they grow their own food, collect and drink their own water, make their own clothing, use raw materials to create their own shelter. While they are not in the majority,  they are living proof that economic issues are not the primary issue.
+1.5.9.1. Con: This is a romantic but inaccurate description of most lives in poor countries. While there might be aboriginal tribes who are not dependent on the global economy, the vast majority of people are. Even subsistence farmers in rural Africa depend on mass-produced goods: fertilizers, cell phones etc, not to mention food prices set on world markets. Very few people make their own textiles anymore.
+1.6. The lack of proper education.
+1.6.1. Pro: Universally understood consensus mechanisms and taxonomies is lacking in proper education.
+1.6.1.1. Pro: It is universally a flaw among humans to this present day. Without understanding or identifying a problem it can not be solved. The ability among everyone to understand mechanisms and concepts is where this identity of “worst world problem” dies.
+1.6.2. Con: Proper education does not mean that one will apply it in a moral or ethical way.
+1.6.3. Pro: There is a lack of critical thinking.
+1.6.3.1. Pro: -> See 1.6.1.1.
+1.6.3.2. Pro: Critical thinking needs to be combined with empathy.  This demands significant further development in our educational systems. Even though the need of more and better education is recognised all over the world, the progress in mankind´s abilities in critical thinking is very slow. The internet helps to make progress.
+1.6.3.3. Pro: The blind acceptance of dogma both religious and social \(eg. Feminism is about equality\)
+1.6.3.4. Pro: The lack of critical thinking is a bigger world problem than lack of proper education. Just because one has been introduced to “proper education” does not equate to intrinsic movitvation on application of that education.
+1.6.3.5. Pro: A lack of education allows fake news to run rampant, because people are not educated enough to keep it in check.
+1.6.3.5.1. Pro: This is a very serious problem because it can be used to undermine substantive, debate and consensus building needed to identify/solve all other problems
+1.6.4. Con: Certainly there is lots of room for improvement, but there has been significant progress already. The time in education has increased drastically all over the world and learning by heart is slowly replaced by understanding.
+1.6.5. Pro: Proper education is defined differently in different parts of the world. In some places it includes indoctrination, and often fails to convey wisdom.
+1.6.6. Pro: Low education leads to an inability to solve world problems.
+1.6.6.1. Con: Albert Einstein was a high school drop out.
+1.6.6.2. Con: Extraordinary things can be accomplished despite lack of education.
+1.6.6.3. Pro: Not solving world problems just makes them worse as time goes on and effects are continued/compounded.
+1.6.6.4. Pro: There are obstacles to innovation.
+1.6.6.4.1. Pro: A lack of science funding that hinders progress.
+1.6.6.4.1.1. Pro: -> See discussion #3615: Science is political.
+1.6.6.4.2. Pro: Systems \(economic and political\) that allow for predatory business practices that limit small business variety.
+1.6.6.4.3. Pro: School is designed for factory work instead of the new creative economy
+1.6.6.4.4. Pro: Copyright extensions hinder the creativity process.
+1.6.6.4.5. Pro: The worst problem that the world has right now is the fact that we can't agree to disagree. We have become defensive of our own views that we do not take the time or make effort to understand other people's views.
+1.6.6.4.5.1. Pro: People have made political stances part of their identity which makes Pluralism impossible as any political disagreement becomes deeply personal.
+1.6.6.4.5.2. Con: It could be argued that Pluralism without end is as much the cause of our problems as it is a potential solution. Nations with constitutions that clearly define the principles and purpose of the country experience less internal strife \(e.g. Nordic countries\).
+1.6.6.5. Pro: Technological developments have only come so far, but they still have a ways to go. We still do not have teleportation or time travel covered.
+1.6.6.5.1. Con: Teleportation and time travel are theoretically impossible. We cannot blame ourselves for not having something that is impossible.
+1.6.6.5.1.1. Con: Einstein's Theory of Relativity suggests that we are able to bend time through wormholes. Since wormholes are theoretically possible, time travel is theoretically possible.
+1.6.6.5.1.2. Con: A lot of ideas in the past were thought to be theoretically impossible, but we have them today. Yesterday's science fiction is today's reality.
+1.6.6.5.1.2.1. Con: No scientific innovation can ever solve [temporal paradoxes](https://en.m.wikipedia.org/wiki/Temporal_paradox). For instance the Fermi paradox: "if time travel were possible, where are all the visitors from the future?"
+1.6.6.5.1.2.1.1. Con: Maybe science will solve it one day.
+1.6.6.6. Pro: Many barriers mentioned on this discussion \(from a "[lack of education](https://www.kialo.com/what-is-the-worst-problem-the-world-has-at-the-moment-9143/9143.0=9143.52)" to poor infrastucture\) show that humanity is not prepared to solve even the rudimentary of needs \(such as feeding the world's population\).
+1.6.6.7. Pro: Humanity is not prepared to avoid mass extinction events \(we have not even figured out how to live outside of Earth yet\).
+1.6.6.7.1. Con: The amount of classified information that the general public does not get access to suggests the possibility of being able to live outside earth.
+1.6.6.8. Pro: Money is concentrate on the hand of a few that control whatever they want to fulfil their needs, in spite of the poor and miserable ones.
+1.6.6.9. Pro: Modern civilization arrived so shortly in the scale of time that we did not get enough time to work on them.
+1.6.6.10. Con: We are starting to develop good energy cars with no use of gas or oil, and thinking more about clean energy in the big spectrum than ever before.
+1.6.6.11. Con: We are making progress in solving some world problems. For example we use technologies that have a better efficiency, which reduces the pollution issues.
+1.6.6.12. Pro: A lack or mistrust of general education leads to a dissonance between scientists, politicians, voters, jurors, and within businesses themselves; causing a lack of understanding of even what the problems are, let alone any cooperation or consensus on the best way to solve them.
+1.6.6.13. Pro: People just do not get the most practical education to let them adapt to the world around them. There is a disconnection/mismatch between education people receive and their surrounding environment that leaves them stranded instead of picked up and supported when they get out of school. This lack of a stepping stone prevents many people from being able to solve world problems.
+1.6.7. Con: Kialo is a positive step toward more critical thinking, and I congratulate the idea and the founders. It may attract few users but as Greeks said "not in many \(or much\) the good"
+1.6.8. Pro: Knowledge is power and individuals without knowledge are less capable of leading their lives \(making them more susceptible to external entities, influences, and factors\).
+1.6.8.1. Con: Human lack of true understanding in the universe makes all individuals less capable of leading lives insusceptible to external entities. Using 10% of our brain, humans cave-man understanding for why the universe exists, dark matter & energy, life outside Earth, life on Earth, solving our own mathematical equations, or understanding the quantum world. The belief that knowledge is power over individuals make one less capable leading of life influence among others.
+1.6.9. Pro: The reason is due to too much generational \(like cultural traditions\) and not enough scientifically-backed knowledge sharing.
+1.6.9.1. Con: Generational knowledge is complimentary to scientific knowledge. Our ancestors acquired wisdom that can only be obtained through life experience, and we benefit from an access to that knowledge.
+1.6.9.2. Pro: Unlike all other fields of study only study itself has remained stubbornly unchanged by technological advancements. A teacher from 1800 would recognise all elements and practices in a modern classroom. This implies that the field still has great capacity for improvement.
+1.6.9.2.1. Con: Home economics is no longer a course in school.
+1.6.9.2.2. Pro: People should be taught what helps them out in life rather than preparation for academia. Outside of learning language and basic math, K-12 schools fail in preparing people for the real world outside of that.
+1.6.9.2.2.1. Pro: Instead of learning from obsolete classes that offer little practical use in the real world \(like macroeconomics and foreign language \(easily replaced by technology, like google translate\)\), people should be taught coding, technology \(what they are and how use them\), and life skills, like personal finance and autonomy \(like how to wait in line, grow food, seek knowledge, make healthy choices, contribute to society...\).
+1.6.10. Pro: -> See 1.2.6.
+1.6.11. Pro: Education is the primary thing our world needs more of. And not just local, regional, or country education; a common set of education that is universally translateable and based on scientific fact, minimal bias, and consensus among knowledgeable peers.
+1.6.11.1. Con: Setting up a universal education and standard would be a gargantuan task of world undertaking. Even if this solves the world's largest problem, its difficulties in setting up might create a world problem in itself \(especially if resources and money go into the project with little outcome\).
+1.6.11.1.1. Pro: Universal education system/standard has a high risk of failing during its setup due to its sheer size.
+1.6.11.2. Con: Observation and abundance in Maslow’s heirachy is “The Primary” thing that the world must have in order to grow, prosper, and continue. Without these things, education is pointless. [Maslows 5 basic needs lay the foundation.](https://www.simplypsychology.org/maslow.html)
+1.6.11.3. Con: The US is declined in ranks and would benefit from a boost in education. If the US gets better, then it will help the rest of the world get better. What the US sets would become the universal standard. Thus, a country -\> world is primary and easier than trying to get the world universal \(fails easily, think of [Esperanto](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC61387/)\).
+1.6.11.3.1. Con: The US is not the world as a whole, and the simplicity of your statement implies that it having a high rank is automatically the best for the world.
+1.6.11.4. Con: Homogeneity hinders creativity. This can be worse than developing a universal education system, because people might not be able to use it without creativity.
+1.6.11.4.1. Pro: As evidenced by globalization, when [engendered languages](https://motherboard.vice.com/en_us/article/pga3jm/globalization-is-a-leading-factor-in-the-death-of-minority-languages) go away due to it, so do their insights that we can learn from. If a universal education system exists, it can force minority languages to go away, preventing us from making it complete. Not having one at least preserves these languages.
+1.6.11.5. Pro: Without a universal basis, countries and its people will find difficulties in collaborating with each other. International collaboration is especially helpful with globalization, making it crucial that we have a universal education system sooner rather than later.
+1.6.11.6. Pro: Once a universal basis is set up, it can be applied virtually everywhere. It provides guidance, so people would not need to resort to sub par education due to not knowing better.
+1.6.11.7. Pro: A universal education would allow the spread of information to be faster, as everyone can understand each other as well as not need to correct anyone or worry about the validity of sources as much.
+1.6.11.7.1. Pro: This is more productive, as people would not fight over scientific principles if everyone agrees on the same one. People would be able to focus on using them instead.
+1.6.12. Pro: Information permeates our very existence.
+Wrong/false information kills. 
+Education is an existential imperative in order to train to recognize, organize and validate information.
+1.6.13. Pro: Many people only receive education when they are young, then they don't seek more learning once they finished their studies.
+1.6.14. Pro: Today's educational system is not capable of keeping up with the rapid advances of technology or the modern world.
+1.6.14.1. Con: With the proliferation of technology, a student is not limited by what is taught in school/parents/peers or libraries/museums. With the internet, students can learn beyond their schooling \(like [open courseware](http://www.oeconsortium.org/members/) and [MOOC's](https://www.mooc-list.com/)\). These can help them keep up with technology when school's cannot.
+1.6.15. Pro: The lack of a proper education leads to environmental issues
+1.7. Various forms of Inequality
+1.7.1. Pro: -> See 1.4.3.
+1.7.2. Pro: -> See 1.5.4.
+1.7.3. Pro: [Gender Inequality](https://en.wikipedia.org/wiki/Gender_inequality) - More than half of the world's population face varying levels of challenges due to the genders they identify with.
+1.7.4. Pro: -> See 1.4.4.
+1.7.5. Pro: -> See 1.2.3.
+1.7.6. Con: Having inequalities is good.
+1.7.6.1. Pro: Poverty is the problem, not inequality. The income divide between someone earning $300.000 and someone earning $ 3 million is likely to cause only minor problems.
+1.7.6.1.1. Con: The sample numbers represent only a small segment of inequality. As long as there is scarcity of resources, inequality will always correlate with some degree of poverty.
+1.7.6.1.2. Pro: Inequality does not create poverty in [itself](https://mises.org/blog/inequality-doesnt-create-poverty).
+1.7.6.1.2.1. Con: Competing studies indicate that the effects are [not linear](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/3876.pdf), at best, and [the main cause](http://www.epi.org/blog/inequality-main-persistent-poverty/), at worst.
+1.7.6.1.2.2. Con: The question isn't whether inequality "creates poverty," but rather whether it exacerbates the effects of poverty in the allocation of scarce resources.
+1.7.6.2. Con: Inequality can lead to political turmoil \([MacCulloch, p. 109](http://www.jstor.org/stable/10.1086/426881?seq=1#page_scan_tab_contents)\).
+1.7.6.2.1. Con: Whether economic inequality leads to political turmoil depends highly on measurements of both \([Giskemo, p. 6](https://www.cmi.no/publications/file/4379-exploring-the-relationship-between-socio-economic.pdf)\). MacCulloch's study makes use of public opinion surveys that only measure a positive attitude to revolution. This is hardly indicative as to whether people will engage in actual political turmoil.
+1.7.6.3. Con: Income inequality is linked to [health problems](https://www.ncbi.nlm.nih.gov/books/NBK43780/).
+1.7.6.4. Pro: Income inequalities work as incentives for hard work.
+1.7.6.4.1. Con: Whether inequality incentivizes hard work depends on the degree of inequality. At a certain point, inequality has the opposite effect and disincentivizes hard work \([Bertelsmann Stiftung. p. 2](http://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/Impulse___2015-05_income_inequality_and_growth.pdf)\).
+1.7.6.4.1.1. Con: This is only at the very extremes of income inequality and not applicable to any practical setting. In one of the most unequal countries, [South Africa](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html), employees still show intrinsic motivation and are motivated by rewards \([Nujjoo & Meyer, p. 6](https://www.sajhrm.co.za/index.php/sajhrm/article/viewFile/442/532)\).
+1.7.6.4.2. Con: When the inequality is fuelled by underpinning genetic disadvantage, incentivising hard work misses the entire point.
+1.7.6.5. Con: Economic inequality is [generally assumed](https://www.weforum.org/agenda/2015/06/why-income-inequality-is-bad-for-growth/) to be bad for economic growth, first and foremost because it reduces educational opportunities.
+1.7.6.5.1. Con: Innovations create inequalities by inventors or entrepreneurs becoming rich. Thus, economic inequality is a by-product of economic growth.
+1.7.6.5.1.1. Con: This is only one, marginal, contributor to inequality.
+1.7.6.5.1.2. Con: The evidence on the contribution of innovation to inequality is at best contested. There is a persuasive line of reasoning that the disruptive nature of innovation actually leads to [less wealth inequality](https://salon.thefamily.co/a-valley-divided-do-startups-widen-the-inequality-gap-7bb783237eb8#.txpplfyjg).
+1.7.6.5.1.3. Pro: Human beings need incentive to work hard, so rewarding innovators with wealth spurs competition amongst those in the same field. The net result is better and cheaper products for the whole of society. Even those who are currently poorer will prosper as the economy booms.
+1.7.6.6. Pro: Dr. Yaron Brook, "[Equal is Unfair - The Inequality Advantage](http://m.youtube.com/watch?v=HtJwAYJ9B08)" Talk 2015
+1.7.7. Con: Certain form of inequalities \(wealth\) are inevitable in a functioning society and economy.
+1.7.8. Pro: There is an inequality in the access of resources across the world.
+1.7.8.1. Pro: Some countries have a limited access to clean water, while others take it for granted.
+1.7.8.2. Pro: Oil reserves are only available in some countries \(OPEC members\), which often cause local conflicts for that resource.
+1.7.9. Con: There is not good definition of inequality: inequal to what? Is the stem of a tree "more equal" than the leaves or the branches? Are the flowers of a plant less equal than the thorns?
+1.8. Social issues.
+1.8.1. Pro: Anti-social behaviors.
+1.8.1.1. Pro: A lack of tolerance and sensitivity to different cultural values.
+1.8.1.2. Pro: The race for individual competition instead of teamwork has created the social structure to be less reliable on each other. People then take from each other to succeed instead of cooperate, using the race for success as justification for their actions. They lose people's trust and are fine with it, which is detrimental to society.
+1.8.1.2.1. Pro: The "rat race" is an example of competition being detrimental. No one wins even when people win, because people are always trying to make money to spend it in a never-ending cycle.
+1.8.1.2.1.1. Pro: If people cannot take care of themselves, they will not be able to take care of others. If anything, they might take from others to compensate for their monetary, effort, and time losses from the rat race.
+1.8.1.2.2. Con: The instinct of competition is one of the theoretical reasons why modern humans survived over Neanderthals.
+1.8.1.2.2.1. Con: Fighting and eliminating the Neanderthals was a brutal solution.
+1.8.1.2.2.1.1. Pro: If we didn't fight with Neanderthals, we could have coexisted in harmony with them, evolved together, and benefit from each other assets.
+1.8.1.2.3. Pro: The value of self over the group, individualistic concern, and what success looks like are commonly practice among westerners. This is not a competition as much as it is selfish fulfillment.
+1.8.1.3. Pro: Antisocial behaviors are disruptive to society, individuals, humanity, and more.
+1.8.1.4. Pro: Human emotions impacting logical decisions: devastates rather than improves humanity's advancements.
+1.8.1.4.1. Pro: Most people are incapable of being satisfied with what they have. They always want more.
+1.8.1.4.2. Pro: The media has more popularity releasing negative information than positive. This gives a false sense that things are worse than they really are.
+1.8.1.4.3. Pro: Exploiting mind basic six emotions : anger, disgust, fear, happiness, sadness and surprise is the root issue.
+1.8.1.4.4. Pro: Apathy.
+1.8.1.4.5. Con: Emotions exist for a reason and provide a benefit for humanity. That is why robots are being built to be more human-like \(for better decision making\) and liberal arts has success \(as creativity taps into/evokes emotion that influence people\).
+1.8.1.4.6. Con: Those emotions are part of what makes us human, as opposed to robots. It is a good think to be capable of having emotions.
+1.8.1.4.7. Pro: The world's worst problem is human beings losing their humanity: "[compassionate, sympathetic, or generous \[...\] disposition: the \[...\] state of being humane](https://www.merriam-webster.com/dictionary/humanity)".
+1.8.1.4.7.1. Pro: Humanity's avariciousness \(i.e. greed\).
+1.8.1.4.7.1.1. Pro: Greed may get the best of us one day.
+1.8.1.4.7.1.2. Pro: The greed of money and power is the cause of unnatural balance of our economy, governments, social, education, and lives.
+1.8.1.4.7.1.3. Con: [Egoistic altruism](https://www.youtube.com/watch?v=rvskMHn0sqQ) \(being greedy/selfish actually benefits others\) actually helps solve world problems rather than cause them.
+1.8.1.4.7.1.3.1. Pro: Avariciousness is what drives individuals to do things that benefit society. \([capitalism](https://en.wikipedia.org/wiki/Capitalism)\)
+1.8.1.4.7.1.3.2. Con: While some good may come of avarice \(accidentally\), it is not the root cause of solving social problems or benefiting society. Avarice is defined as "[excessive or insatiable desire for wealth or gain : greediness, cupidity](https://www.merriam-webster.com/dictionary/avarice)" This is essentially the opposite of altruism.
+1.8.1.4.7.1.4. Pro: Being greedy and not being satisfied with what you have, destroying the planet for the sake of a piece of paper \(money\), then everything justifies it's means. One should not lose their conscience or morality for the sake of money.
+1.8.1.4.7.2. Pro: Our lifestyles are too much disconnected from Nature.
+1.8.1.4.7.2.1. Pro: We have become too dependent on the benefits of cities, and we wouldn't be able to survive in a wild environment anymore.
+1.8.1.4.7.2.2. Pro: Being disconnected from Nature makes us unaware of the ecological damages we are causing.
+1.8.1.4.7.2.3. Pro: We are running after artificial goals, instead of enjoying the simple satisfactions that nature could provide us.
+1.8.1.4.7.3. Con: Even when people show their humanity, [tensions between social groups barely change](https://edition.cnn.com/2018/05/30/africa/paris-spiderman-rescue-good-immigrant/index.html).
+1.8.1.4.7.4. Pro: One of the largest issues with someone losing their humanity is when it manifests in reality. People can lose composure of emotions to the point that one becomes reckless and possibly harmful to others.
+1.8.1.5. Pro: Existentialism: impact on society and questions it brings up.
+1.8.1.5.1. Pro: The [Fountain of Youth](https://www.nationalgeographic.com/archaeology-and-history/archaeology/fountain-of-youth/) was sought after for ages in the past \(and was probably one of the worst problems of the past that people hoped to resolve\). Immortality is still sought after today, just in a different format where scientists try to manipulate biology to allow people to live longer.
+1.8.1.5.2. Pro: Existentialism, according to a post on [Quora](https://www.quora.com/How-did-existentialism-affect-society), can lead to entire nations decreasing their population, which impacts the entire world.
+1.8.1.5.3. Pro: "What is the purpose of life?" is one of those questions that is a worldly issue.
+1.8.1.5.3.1. Pro: We don't know what is the true purpose of life. It is like playing a game without knowing the goal. We would play/live much more efficiently if we knew the real purpose.
+1.8.1.5.3.1.1. Con: Many people find their true purpose in others, occupation, outreach, and future Impact. They “know”their purpose of life. Ones that have no found this true purpose will wander throughout life inefficient and likely unhappy.
+1.8.1.5.3.2. Pro: This is seen on both the individual \(what is one's purpose in life\) and societal \(why do we exist and for what purpose\) levels
+1.8.1.5.4. Pro: Impacts of existentialism are so strong that terms are made up for them: [mid-life](https://www.google.com/search?ei=u0LKWrzTAYnKjwTcm5PwBQ&q=mid+life+crisis&oq=mid+life+crisis&gs_l=psy-ab.3..0i7i30k1l4j0i7i10i30k1j0i7i30k1l2j0i7i10i30k1j0i7i30k1l2.61381.61640.0.61774.3.3.0.0.0.0.158.158.0j1.1.0....0...1.1.64.psy-ab..2.1.155....0.m4XNH3ZeruE) and [quarter-life](https://www.google.com/search?ei=sELKWoHFEcfJjwTRrZ6gAg&q=quarter+life+crisis&oq=quarter&gs_l=psy-ab.3.0.0i67k1j0l6j0i67k1l2j0.7218.8397.0.9324.7.7.0.0.0.0.165.565.0j4.4.0..2..0...1.1.64.psy-ab..3.4.565...46j0i131k1j0i46k1.0.aMKXoni5cag) crises.
+1.8.1.6. Pro: -> See 1.1.2.2.
+1.8.1.7. Pro: Our self destruction, would be a merciful end, but the most horrifying would be an end, to our civilization, by our botched self destruction. It would leave us back in the stone age, with an extreme food shortage, where we would even have to hide from each other in groups, to stay alive, because we would be the meat we need to live.
+1.8.1.7.1. Pro: There have been many civilizations in history which evolved and reached a golden age with many great technologies, yet have declined and their technologies have been lost.
+1.8.1.7.2. Con: Our civilization is very well documented with billions of books, articles, and a huge amount of digital information, all spread out across the world. It would be impossible to lose all those documents and forget our advances, going back to stone age.
+1.8.1.8. Pro: The classification/taxonomy, and subsequent grouping of humans into divisive categories that compete against each other is and will continue to be the biggest societal problem: A very brief list of examples that there are thousands of: Rich/Poor, Democrat/Republican, American/Russian, Straight/Gay, Black/White, Nazis/Jews, Muslims/Christians. The science of classification has gotten out of control and used by those in power to divide humanity more than unite it.
+1.8.1.9. Pro: Philosophical deficiency may lead to anti-social behaviors.
+1.8.2. Pro: Infrastructures \(technological, communications, built environment\) not being able to keep up with the ever-changing society.
+1.8.2.1. Con: Technology moves pretty rapidly to keep up with society, and even sometimes outpaces us.
+1.8.2.2. Pro: Overpopulation is inevitable structurally with urbanization. Crowding and population overgrowth create issues.
+1.8.2.2.1. Pro: Overpopulation is of utmost concern because the world population is [globally trending](http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html) towards urbanism and will become worse over time \(projected to be [70% by 2050](http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html)\).
+1.8.2.2.2. Pro: The population boom comes from people migrating to cities, due to opportunity.
+1.8.2.2.3. Pro: Megacities pose potential major issues for the world.
+1.8.2.2.3.1. Pro: Megacities are [unsustainable](https://www.cnbc.com/2014/03/21/megacities-explosive-growth-poses-epic-challenges.html).
+1.8.2.2.3.1.1. Pro: They pose a threat to [food security](http://populationgrowth.org/the-growth-mentality-and-the-threat-to-food-security/), which in turn fuels climate change.
+1.8.2.2.3.1.2. Con: Actions could be taken to prevent humanity from reaching its cap and instead sustain growth, such as through [urban forests](https://www.elsevier.com/connect/atlas/Urban-forests-make-megacities-more-environmentally-sustainable).
+1.8.2.2.3.1.3. Pro: [Traffic congestion](https://www.ukessays.com/essays/economics/megacities-and-the-built-environment-economics-essay.php) impacts the climate with little resolve in developing nations.
+1.8.2.2.3.1.4. Pro: Megacities perpetuate consumerism, which increases consumption of resources.
+1.8.2.2.3.1.4.1. Pro: This is especially true for the land taken to grow meat due to the higher incomes of the wealthy population in megacities \(= greater purchasing power\).
+1.8.2.2.3.1.4.2. Pro: This trend increases the reliance of megacities towards imported food, which requires more food miles \(bad for the environment\).
+1.8.2.2.3.1.4.3. Pro: Trash \(i.e. solid waste\) grows quickly without collection \(up to [50%](https://www.ukessays.com/essays/economics/megacities-and-the-built-environment-economics-essay.php)\), which ends up building up.
+1.8.2.2.3.1.4.4. Pro: [Cities sit on 2% of land, but consume 75% of Earth's resources](https://www.cnbc.com/2014/03/21/megacities-explosive-growth-poses-epic-challenges.html).
+1.8.2.2.3.1.5. Pro: [Urban sprawl](https://alevelmegacities.weebly.com/los-angeles-megacity-mega-problems.html) from megacities create environmental consequences.
+1.8.2.2.3.1.6. Pro: Megacities create their own, new type of complexity \(such as greater administration and politics\), which only heightens its managing difficulty.
+1.8.2.2.3.1.6.1. Pro: According to the article, unsustainability stems from megacities being too large to manage. Systems that cannot be maintained become world problems, and this is the worst.
+1.8.2.2.3.1.6.2. Pro: Megacities are growing at rates [faster](http://webs.schule.at/website/Megacities/problems_en.htm) than cities in the industrial revolution. The sheer speed is difficult for humans to keep up with
+1.8.2.2.3.1.6.3. Pro: "[Agglomerations](https://www.cnbc.com/2014/03/21/megacities-explosive-growth-poses-epic-challenges.html)" are politically difficult to manage.
+1.8.2.2.3.2. Pro: More megacities are popping up in a short time \(especially within the next 3 decades\), which makes addressing their issues of utmost concern.
+1.8.2.2.3.3. Pro: Megacities decrease quality-of-life \(especially with their [slums](https://www.forbes.com/sites/megacities/2011/04/04/the-problem-with-megacities/#2b31bf8e6f27) and placement in developing countries\), which will impact more people than ever in the future.
+1.8.2.2.3.3.1. Pro: The article points out that megacities are economic underperformers in globalization.
+1.8.2.2.3.3.1.1. Con: Not every megacity operates like this. "[Bangkok contributes more than 40% to the GDP, although it is home only to 10% of the population of Thailand](http://webs.schule.at/website/Megacities/problems_en.htm)"
+1.8.2.2.3.3.1.2. Pro: They increase the economic inequality gap, according to the article.
+1.8.2.2.3.3.2. Con: Slums tend to create a lower environmental impact.
+1.8.2.2.3.3.3. Pro: Crime goes up in megacities.
+1.8.2.2.3.3.4. Pro: Health more easily deteriorates within them.
+1.8.2.2.3.3.4.1. Pro: Diseases spread more easily here.
+1.8.2.2.3.3.4.2. Pro: People get closer and greater exposure to pollutants.
+1.8.2.2.3.3.4.3. Pro: Poorly-built built environments pose safety threats, especially with the top contributor: road collisions \(as shown in the article\).
+1.8.2.2.3.3.5. Pro: Youth unemployment [goes up](https://www.cnbc.com/2014/03/21/megacities-explosive-growth-poses-epic-challenges.html) in megacities as they find difficulties filling positions.
+1.8.2.2.3.4. Con: Many agencies and people are tackling the issues megacities create, such as [water and waste](http://www.global-economic-symposium.org/solutions/publications/ges-specials/ges-brief-2011-reducing-the-water-and-waste-footprints-of-megacities).
+1.8.2.2.3.5. Con: Megacities spur creativity and innovation
+1.8.2.2.3.5.1. Pro: One of these innovations is [vertical farming](http://parisinnovationreview.com/articles-en/feeding-the-megacities-of-the-future).
+1.8.2.2.3.5.2. Pro: These may be implemented more easily and target a larger population of people at once compared to spread-out populations.
+1.8.2.2.3.6. Pro: [Disasters](https://jakartabeltrami.weebly.com/urban-problems-and-solutions.html) can affect more people at once in megacities \(due to dense populations in a small space\).
+1.8.2.2.3.6.1. Pro: Disaster relief needs to have larger efforts to react to and resolve damage.
+1.8.2.2.3.6.1.1. Con: Once initiatives achieve success in one place, they can be scaled easily to apply to all the megacities \(which will benefit more of the population than the current unpredictability of different living environments\)
+1.8.2.2.3.6.1.2. Con: Some efforts help more people out to reach safety at one time \(like [disaster alerts](https://jakartabeltrami.weebly.com/urban-problems-and-solutions.html)\).
+1.8.2.2.3.6.1.3. Pro: Technology will help this out, by reaching more people at once.
+1.8.2.2.3.6.1.4. Pro: In megacities, people will have a greater chance to work together in getting out of devastation.
+1.8.2.2.4. Pro: Urbanization has the potential for humanity to [reach its cap](https://www.forbes.com/2007/06/11/megacities-population-urbanization-biz-cx_21cities_ml_0611megacities.html#32965d1a18d8) on population growth and then decline due to unsustainability taking effect.
+1.8.3. Pro: Insufficient preparation for, and handling of, disasters affecting large populations is a current world issue, with many facets.
+1.8.3.1. Pro: Disasters can be natural or man-made.
+1.8.3.1.1. Pro: Space junk is a big issue as it is closer to Earth than the majority of asteroids.
+1.8.3.1.1.1. Con: Space junk tends to be smaller than asteroids.
+1.8.3.1.1.2. Pro: Space junk is increasing all the time without efforts to clean it up.
+1.8.3.1.1.3. Con: Reusable rocket technology is one of the tools to reduce this issue.
+1.8.3.1.2. Pro: Violent conflicts
+1.8.3.1.2.1. Pro: Crime: violence between people.
+1.8.3.1.2.2. Pro: Religious conflicts.
+1.8.3.1.2.2.1. Pro: People should have the right to believe in their own religion. This right is suppressed by the religious conflicts.
+1.8.3.1.2.2.2. Con: Religious conflict is a natural consequence from the conflicting viewpoints of the different religions.
+1.8.3.1.2.2.2.1. Con: Viewpoints don't have to be conflicting. Each people can have their own different viewpoints and coexist, without trying to force the others to agree on their viewpoint.
+1.8.3.1.2.3. Pro: Large scale conflicts and wars.
+1.8.3.1.2.3.1. Pro: There are many ongoing wars with many casualties. \([Wikipedia](https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts), [article](http://www.dailymail.co.uk/sciencetech/article-4453666/The-world-war-Interactive-map-reveals-conflicts.html)\)
+1.8.3.1.2.3.2. Pro: Large scale conflicts cause large scale emigration,  which bring issues to the hosting countries.
+1.8.3.1.2.3.3. Pro: Wars are destructive to the local economy.
+1.8.3.1.2.3.4. Pro: The possibility of nuclear war.
+1.8.3.1.2.3.4.1. Con: Many countries are decreasing or already removed their programs. Even North Korea, the top threat, is ceasing their program as well with international cooperation.
+1.8.3.1.2.4. Con: Violence is a symptom rather than a source of world issues.
+1.8.3.1.3. Pro: [Mass displacement of large populations](http://www.ifrc.org/en/what-we-do/disaster-management/about-disasters/definition-of-hazard/displaced-populations/) is a great issue that the world tends to at the present moment.
+1.8.3.1.3.1. Pro: The Syrian refugee crisis [impacted most of Europe](http://www.bbc.com/news/world-europe-34131911), which sent reverberations worldwide.
+1.8.3.1.4. Pro: Natural issues will become global problems in the future.
+1.8.3.1.4.1. Pro: The Sun will become a red giant in the future, in which humanity needs to make the decision to leave Earth or not.
+1.8.3.1.4.1.1. Pro: The Sun will go through changes that will make life on Earth different and possibly difficult. These include the Sun getting hotter and also losing its gravitational power \(a larger volume with a lower mass\).
+1.8.3.1.4.1.2. Pro: Past this, the Sun will become a white dwarf. Humanity never experienced life around a white dwarf, so this would become the worst problem that humanity would deal with at that moment.
+1.8.3.1.4.1.3. Pro: This might be one of the reasons why humanity is preparing to leave Earth and colonize other planets: to prepare for events like this before they happen.
+1.8.3.1.4.1.4. Con: This will happen in an extremely far future. We have problems on Earth that are already happening and are more urgent to deal with.
+1.8.3.1.4.1.4.1. Pro: By the time it happens, we might already have developed sufficient technologies to allow us to leave Earth without problem.
+1.8.3.1.4.2. Pro: No solutions to surviving universe's expansion that will one day pull the whole universe apart.
+1.8.3.1.4.2.1. Pro: If there is the 'big crunch', then humanity cannot survive that.
+1.8.3.1.4.2.1.1. Con: No real way to know. This is a claim with no evidence.
+1.8.3.1.4.2.2. Pro: The universe constantly expanding will one day shred all our atoms apart. There is no current solution to solve this issue.
+1.8.3.1.4.2.3. Con: Here's a solution: if we could figure out how to go to another universe \(if we live in a multi-verse\), then we could possibly survive.
+1.8.3.1.4.2.4. Con: This problem is for universe itself but not for humanity or life on Earth. The reason is simple: our star would get cold much faster then the expansion effects will take place.
+And if we are talking about celestial problems big asteroid blowing out planet's atmosphere is the real problem here.
+1.8.3.1.4.2.4.1. Con: Scientists are focusing more on asteroids than the sun when trying to preserve humanity. Thus, asteroids will likely not be an issue.
+1.8.3.1.4.2.5. Con: The worst problem the world has at this moment is not the heat death of the universe, as we have not even been technologically able to tap into anything more than a single star.
+1.8.3.1.4.2.5.1. Pro: If we could tap into the power generated by the universe's heat that will increase as years go by, then it would simultaneously provide power while also cooling down however much heat is removed for such power generation. These both solve world issues.
+1.8.3.1.4.3. Con: This is not a valid argument given that "global" problems are "natural" by definition. Youre saying nothing.
+1.8.3.2. Pro: Regulations are lacking to prevent housing in hazardous zones \(such as landslide areas\).
+1.8.3.2.1. Pro: The creation of zoning laws and regulations due hazards are put in place to ensure the safety of life.
+1.8.3.3. Pro: Global warming affecting population health.
+1.8.3.3.1. Pro: It leads to more diseases
+1.8.3.3.2. Pro: It makes harder conditions to grow food \(which can lead to starvation\).
+1.8.3.3.3. Pro: If climate change consequences break out, they can widely impact large populations.
+1.8.3.3.3.1. Pro: Most cities are on the oceanic border and could be flooded and abandoned if sea levels rise.
+1.8.3.3.3.1.1. Pro: This could trigger mass migration out, which may cause issues of its own, mainly social.
+1.8.3.3.4. Con: Humans are an incredibly adaptive species that can easily adapt to changes in climate given that we evolved within an ever changing climate. Climates doing what climates have always done is not a credible threat to humans.
+1.8.3.4. Pro: There will never be a way to totally prepare for the devastating affects that disasters affecting large populations create. That is why they are disastrous in definition.
+1.8.4. Pro: [Overpopulation](https://www.youtube.com/watch?v=QsBT5EQt348) is an utmost concern.
+1.8.4.1. Pro: -> See 1.2.1.3.
+1.8.4.2. Con: [Overpopulation is a myth.](https://www.kialo.com/overpopulation-is-a-myth-9226/9226.0=9226.201/=9226.201)
+1.8.4.3. Pro: Overpopulation is problematic for taking over humanity \(it is uncontrollable and unsustainable\).
+1.8.4.3.1. Pro: -> See 1.2.1.3.
+1.8.4.3.2. Pro: A growing world population will inevitably lead to mass health crises if nothing is done.
+1.8.4.3.3. Pro: -> See 1.8.2.2.
+1.8.4.3.4. Pro: Crowds have more power for social revolt.
+1.8.4.4. Pro: The exponential growth of world population since about 1600 A.D. makes us unable to permanently solve world problems.
+1.8.4.4.1. Con: The exponential growth is long over - see Hans Rossling and his [TED talks](https://www.youtube.com/watch?v=2LyzBoHo5EI&t=7s&list=PLjKbuqA_Sz_Bn3gqpWF5FwPLOuqseHHTg&index=1).
+1.8.4.5. Pro: [Overpopulation](http://Overpopulation exacerbates many social and environmental factors, including overcrowded living conditions, pollution, malnutrition and inadequate or non-existent health care) exacerbates many social factors, including overcrowded living conditions, pollution, malnutrition and inadequate or non-existent health care.
+1.8.4.5.1. Con: The total land area of earth is [260 billion cubic miles](https://www.space.com/17638-how-big-is-earth.html). People can spread out more.
+1.8.4.5.2. Con: Malnutrition in the world has been [falling rapidly](https://ourworldindata.org/hunger-and-undernourishment).
+1.8.4.5.3. Con: In the United States aggregate emissions of six common pollutants \(i.e., carbon monoxide, lead, nitrogen dioxide, ozone, fine and coarse particulate matter, and sulfur dioxide\) [fell by 67](https://www.epa.gov/air-trends/air-quality-national-summary) percent between 1980 and 2016.
+1.8.4.5.4. Con: Times in history which had lower population did not have adequate health-care.
+1.8.4.5.5. Con: Less population is less doctors, nurses, researchers, etc. who create more health care.
+1.8.4.6. Pro: -> See 1.3.7.
+1.8.4.7. Pro: -> See 1.2.5.
+1.8.4.8. Con: The population replacement rate is negatively correlated with average income. As standard of living increases in developing countries, over-population will become less and less of a concern.
+1.8.4.8.1. Con: This will unfortunately occur after overpopulation's damage, as the world population is still growing amidst the population decline of many industrialized countries.
+1.8.4.8.2. Con: Correlation doesn't imply causation. In fact, it may be due to the decrease in population that standard of living improves and not vice-versa, as more resources are available to less people.
+1.8.4.8.2.1. Con: This could happen if the population was decreasing. But currently it is increasing.
+1.8.4.8.2.2. Con: Even when we can't demonstrate a causation, it is a fair guess to consider that the correlation will likely continue to happen. This is statistically more probable than a disruption of this correlation.
+1.8.4.8.3. Pro: In many countries \(mostly in the African continent\), they have many children because they need them as a workforce resource for the family. A higher standard of living will remove that need.
+1.8.4.9. Con: There are no moral solutions to overpopulation.
+1.8.4.9.1. Con: Government Incentives to have less children could persuade people not to have another child.
+1.8.4.9.2. Con: Government Incentives to have less children could persuade people not to have another child.
+1.8.4.9.3. Con: Advancement of human understanding within our universe could provide moral vindication for Individuals leading a life of dissatisfaction. Choosing to Inhabit an alternate planet somewhere in space could give newfound hope for the individuals pioneering the journey.
+1.8.4.9.3.1. Con: Moving the world's population is not that ethical, as not everyone will agree to it
+1.8.4.9.3.2. Con: People living on a planet outside of Earth may not be moral if they live in worse circumstances than before and are less healthy as a result.
+1.8.4.9.3.3. Con: Moving the world's population to another planet is not moral, but an act of neglect. Ignoring Earth's environmental problems by running away from instead of taking action to solve them \(so people can live on Earth\) is not moral at all.
+1.8.4.9.3.4. Pro: Lack of understanding within our universe confines ones ability to comprehend this notion just as the ability to disprove it.
+1.8.5. Pro: Cultural losses.
+1.8.5.1. Pro: Globalization causes many minority cultures and languages to be lost for more popular/mainstream ones.
+1.8.5.2. Pro: People tend to communicate in more simple terms, with the impulse of social media \(e.g. Twitter's character limit\).
+1.8.5.2.1. Pro: Popular song lyrics are much simpler than they used to be.
+1.8.6. Pro: Lack of Spiritual Education in the world.
+1.8.6.1. Pro: Spirituality may guide our social behavior.
+1.8.6.2. Con: The promises made by spiritual leaders or texts of a possible spiritual salvation in an after-life based on certain behavior performed during life could potentially undermine what is best for our species during our lives.
+1.8.6.2.1. Pro: The church is practically the biggest opponent to science in history. It set humanity back for so long that we should not regress back to this past.
+1.8.6.2.1.1. Pro: Think of what happened when Copernicus said the Earth rotated around the Sun. He had to publish his work anonymously just for it to be known.
+1.8.6.2.2. Pro: People being told what to believe and how to act are two things that do not allow people to truly be themselves
+1.8.7. Pro: Abortion.
+1.9. Philosophical deficiency.
+1.9.1. Con: Just because humans cannot communicate effectively nor truly discuss philosophy, that doesn’t not mean they are well nor bad, nor they have less nor abundance.
+1.9.2. Con: Animals have less philosophy than humans \(if not none\), and they are doing well without it.
+1.9.2.1. Con: Other animals don't have the destructive potential that humans have.
+1.9.2.1.1. Pro: We have created very destructive technology and these technologies cannot be uninvented. We are responsible for this reality, & how to deal with this responsibility is of philosophical concern.
+1.9.2.2. Con: Human ecological footprint has already impacted many species to the point of extinction. Our philosophical awareness could help reduce that impact.
+1.9.2.2.1. Pro: What we decide to do, or not do, impacts the global environment in which the animal kingdom exist and the decision process starts with a philosophical position, consciously or not.
+1.9.2.3. Con: Not really. If you look at the timeline of history, because humans surpass animals in philosophy, they've been able to create and succeed more than animals. We are now at the top of the food web, and that is no surprise, given humans' reasoning capabilities.
+1.9.3. Pro: There is a need to establish a global ethical framework underpinning all the global systems that permeates our lives.
+1.9.3.1. Pro: Frontiers, those social constructs we created between "us" and "them", are getting blurred on many fronts and are shrinking fast. There will be frictions by virtue of the dynamic nature of those systems, between existential paradigms, like going from geocentric to heliocentric was for Copernicus's contemporary...
+1.9.3.2. Pro: We live in a [global economy](https://en.wikipedia.org/wiki/Global_financial_system), whether we like it or not.
+1.9.3.3. Pro: We live in a global social network resting on a global communication grid.
+1.9.4. Pro: Every problem; social, politic, economic, environmental, etc, every system we conceived, etc, all originate from a philosophical positioning, knowingly or not, willingly or not...
+1.9.5. Pro: A lack of philosophical nourishment \(or activities\) is as dangerous for our species in the long run, as a lack of protein in a diet is for a human body in the long run.
+1.9.6. Pro: Science is a philosophical inquiry expressed in Logic \(Math\)
+1.9.7. Pro: -> See 1.9.2.1.1.
+1.9.8. Pro: Politicians can make wrong decisions when they lack philosophy.
+1.9.9. Pro: Giving more answers to the [3 big questions of philosophy as presented by Dan Robinson](https://www.google.fr/amp/s/www.psychologytoday.com/us/blog/theory-knowledge/201603/the-3-big-questions-philosophy%3famp) would make the world evolve better.
+1.9.10. Pro: -> See 1.8.1.9.
+1.9.11. Con: If people have philosophical deficiency, then they cannot get into situations where their philosophies lead to poor choices that become world problems. After all, WWII was started from philosophical abundance.
+1.10. The lack of unconditional love and compassion for the world and everything it.
+1.10.1. Pro: Lack of Love and Compassion during the first 6 months of birth results in growing up with psychological damages. [Pschyology article on need for love.](https://www.psychologytoday.com/us/blog/sapient-nature/201401/the-need-love)
+1.10.2. Pro: Over Population is not a concern when people act out of love and compassion for life and prolonging life.
+1.10.3. Pro: Empathy is a product of unconditional love and compassion for others. Filled with the three, a person is less likely to allow evil to prevail.
+1.10.4. Pro: Equality prevails with unconditional love and compassion for life.
+1.10.5. Pro: Social interactions are desired and flourish when unconditional love and compassion are the foundation of people.
+1.10.6. Pro: Death is certain, but unconditional love and compassion to treat those who are in need happens when love and compassion is the reward people desire.

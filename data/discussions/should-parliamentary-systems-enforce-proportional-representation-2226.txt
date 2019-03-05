@@ -1,0 +1,89 @@
+Discussion Title: Should Parliamentary Systems Enforce Proportional Representation?
+
+1. Parliamentary systems should implement proportional representation.
+1.1. Pro: Governments should not be able to wield 100% of the power with less than 50% of the vote. Proportional representation puts an end to that.
+1.2. Pro: Proportional systems are far harder to gerrymander. If the constituencies return 5 or more representatives then gerrymandering becomes quite impractical.
+1.3. Con: The largest party gains a much larger seats than votes and this means that the leading party is more likely to have a stable majority making the government answerable to it \(if the system is parliamentary\) more stable.
+1.4. Pro: Proportional representation leads to better political representation.
+1.4.1. Pro: The views of the population are accurately represented in parliament.
+1.4.1.1. Pro: The results of the election are more representative of the true opinions and stances of the electorate.
+1.4.1.2. Pro: The amount of influence a party has over government policy is tied to the popular support they receive.
+1.4.1.2.1. Pro: Party seats allow a party to either form government, form the official opposition, or influence policy via threats of votes of confidence, depending on the amount of seats different parties have.
+1.4.1.2.1.1. Pro: The number of seats a party receives is proportional to the percentage of popular support they receive during the election.
+1.4.2. Pro: Coalitions and deals associated with proportional representation allow a greater amount of the population's views to be reflected in policy.
+1.4.2.1. Pro: Coalition and minority governments enact policies that satisfy a majority of the parliaments' representatives and their constituents.
+1.4.2.1.1. Pro: Coalitions and minority governments require multiple parties to work together in order to retain the confidence of at least 50%+1 of the house.
+1.4.2.1.2. Pro: If other parties feel like the party in power or a party from the coalition government is dissatisfying the electorate, they are able to join forces with other parties and remove them from power.
+1.4.2.1.2.1. Pro: This allows the population to have their say in politics in between elections.
+1.4.2.1.2.2. Pro: This incentivizes parties in power to keep their promises and act on their mandate.
+1.4.2.1.2.3. Pro: This encourages the electorate to express themselves through protests, activism, and lobbying throughout the government's term in office.
+1.4.2.2. Pro: Proportional representation often leads to coalition or minority governments.
+1.4.3. Con: Coalition and minority governments make it more difficult to figure out who is to blame for the government's actions.
+1.4.3.1. Con: Proportional representation leads to more coalition and minority governments.
+1.4.3.1.1. Con: It's difficult for a party to obtain over 50% of the popular vote, which means parties must cooperate in order to form government.
+1.4.3.2. Con: Coalition and minority governments involve backroom deals where compromises are made without transparency.
+1.4.3.3. Pro: Parties are more inclined to hold other parties accountable for their mistakes.
+1.4.3.3.1. Pro: Parties want to satisfy the electorate by acting on their behalf while in parliament.
+1.4.3.3.1.1. Pro: -> See 1.4.2.1.2.
+1.4.3.3.1.2. Pro: Doing so makes the electorate more inclined to vote for that party in the next election because they have represented the electorate in the past.
+1.4.3.3.1.3. Pro: They can do so by voting against a party in a vote of confidence if the voters are dissatisfied with that party.
+1.4.3.4. Con: Parties may disagree on an issue but are forced to go against promises and toe the line of the government in order to continue to influence it.
+1.4.4. Con: Proportional representation makes it more difficult to represent minority and regional interests.
+1.4.4.1. Con: Nothing is stopping a party with a regional agenda and platform from existing in a proportional representation system.
+1.4.4.2. Con: Most other systems like first past the post have ridings or regions where a member of parliament represents.
+1.4.4.3. Con: Under proportional representation in order for seats to reflect the popular vote there cannot be regional members of parliament.
+1.4.4.3.1. Con: Regional representatives distort the outcome of the seat count.
+1.4.4.4. Con: Parties have to compromise in order to form coalitions which leads to them excluding minority interests for the interests of the majority.
+1.4.4.4.1. Pro: Parties who have run on a specific issue have an incentive to bring that issue to the forefront of negotiations in order to be reeelected.
+1.4.4.4.2. Pro: It is easier to have parties in parliament that represent the issues of different minority groups.
+1.4.4.4.2.1. Pro: Small parties that represent specific groups or issues are elected more easily under proportional representation.
+1.4.4.4.2.1.1. Pro: Only a small percentage of votes are required for a party to win a seat in parliament.
+1.4.4.4.2.2. Pro: Large parties must also cater to the interests of multiple groups in order to obtain a enough seats to be able to form government through a coalition or minority government.
+1.4.4.5. Pro: -> See 1.4.4.4.2.
+1.5. Pro: Proportional representation leads to more voter engagement than other systems do.
+1.5.1. Con: No specific parliamentarian represents specific votes, so people concerned with local issues will be less likely to participate in the national elections
+1.5.2. Pro: Under other systems, such as first past the post and ranked ballots, unless you’re in a swing riding your vote has very little impact on the outcome of the election.
+1.5.2.1. Pro: Political parties primarily focus on voter outreach and get out the vote efforts on "swing" ridings.
+1.5.2.1.1. Pro: Far less outreach is done in ridings where there is likely to be less voter engagement in the first place.
+1.5.2.2. Pro: Thus, people in "safe ridings" feel less incentivized to vote because they know they have no impact.
+1.5.2.2.1. Pro: This means fewer people vote overall.
+1.5.3. Pro: Under proportional representation, everyone's vote has the same weight no matter what riding they're in.
+1.5.3.1. Pro: Political parties engage with and attempt to appeal to voters everywhere, no matter what riding they are in.
+1.5.3.2. Pro: Political parties attempt to get out the vote everywhere, whether or not the riding tends to support their party.
+1.5.3.3. Pro: Voters feel that their vote is more likely to have an impact.
+1.5.3.3.1. Pro: They are thus more likely to vote.
+1.5.3.3.2. Pro: If voters feel like their vote will influence the outcome of the election, they are more likely to try to inform themselves on the relevant political issues before voting.
+1.5.3.3.2.1. Con: This is by no means a foregone conclusion.
+1.5.3.3.2.2. Pro: -> See 1.4.1.1.
+1.5.3.3.3. Pro: -> See 1.4.2.1.2.
+1.5.3.3.4. Pro: Parties are more likely to keep their campaign promises.
+1.5.3.3.4.1. Con: -> See 1.4.3.2.
+1.5.3.3.4.2. Pro: -> See 1.4.2.1.2.
+1.5.3.3.4.3. Pro: This leads to less voter skepticism and mistrust of the electoral system
+1.5.3.3.4.3.1. Pro: Voters are more likely to vote if they feel that politicians will be held accountable
+1.6. Pro: Proportional representation leads to policies that are better for a greater amount of the population.
+1.6.1. Pro: Government policies have to benefit a large swathe of the population in order to maintain a stable government.
+1.6.1.1. Pro: -> See 1.4.2.
+1.6.2. Pro: -> See 1.4.4.4.2.
+1.7. Pro: Proportional representation leads to better government accountability.
+1.7.1. Pro: -> See 1.4.3.3.
+1.7.2. Pro: It allows governments to change outside of an election if they have broken the public's trust.
+1.7.2.1. Pro: Under proportional representation, parties may be voted out of power or kicked out of coalition governments.
+1.7.2.1.1. Pro: -> See 1.4.2.2.
+1.7.2.1.2. Pro: -> See 1.4.2.1.2.
+1.7.3. Pro: -> See 1.5.3.3.4.
+1.8. Con: Proportional representation makes it harder to hold politicians accountable for their actions
+1.8.1. Pro: -> See 1.4.3.3.
+1.8.2. Con: -> See 1.4.3.
+1.9. Con: -> See 1.4.4.
+1.10. Con: Voters feel disenfranchised.
+1.10.1. Con: They stop voting.
+1.10.2. Con: -> See 1.4.4.
+1.10.3. Con: -> See 1.4.3.
+1.10.4. Con: Voters no longer feel that those they elected represent them.
+1.10.4.1. Con: -> See 1.4.4.
+1.10.4.2. Con: -> See 1.4.3.
+1.10.5. Con: Coalition governments lead to government policies that very few people holistically support.
+1.10.5.1. Con: -> See 1.4.3.2.
+1.10.5.2. Con: Comprises necessarily mean that a party must deviate from the policies they were given the mandatent to enact.
+1.10.5.3. Con: -> See 1.4.3.1.

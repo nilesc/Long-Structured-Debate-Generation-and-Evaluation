@@ -1,0 +1,43 @@
+Discussion Title: The online games platform Steam should perform quality control on games before publishing them
+
+1. The online games platform Steam should actively curate its storefront by performing quality control on the games that it publishes
+1.1. Pro: Without quality control, a lot more games are published, many of which are very poor quality. This makes it harder to discover good games on Steam.
+1.1.1. Con: Steam is only one avenue to find games. The internet has thousands of sites dedicated to this goal.
+1.1.1.1. Con: We are talking about Steam here, the fact that there may be other venues is irrelevant.
+1.1.2. Con: Steam has a robust review process as well as what is mentioned [here.](https://www.kialo.com/the-online-games-platform-steam-should-perform-quality-control-on-games-before-publishing-them-15787/15787.0=15787.1-15787.6/-15787.6)
+1.1.2.1. Con: [Steam Curators](https://store.steampowered.com/curators/topcurators/) are recommendations for notable games in the Steam catalog, it doesn't do any sort of administrative labor of quality control in games and it's based on opinions for sharing and discovering new games.
+1.1.3. Pro: Quality control is related to technical issues, bad software policies and general standards about what are the minimal requirements for a game to be considered one. [Shovelware](https://www.polygon.com/2017/10/2/16403024/steams-biggest-seller-of-shovelware-pulls-out-of-game-business) it's the most common example of no quality control.
+1.2. Con: Steam allows for users to quickly and easily refund their purchase. If they find a game isn't worth their money, the platform makes it easy to get their money back.
+1.2.1. Con: A game with a high level of refunds can get its reputation so hurt that altough being a good product [Can end up in a far bigger problem](https://www.pcgamer.com/warner-bros-is-offering-refunds-to-all-batman-arkham-knight-pc-owners/) that could be avoided with quality control.
+1.3. Pro: Steam is very becoming hard to navigate because of all the bad games being added each day.
+1.4. Pro: Without curation, some very offensive games were published on the platform, like Active Shooter. This reflects poorly on the PC gaming community in the media.
+1.4.1. Con: The game was removed by steam.
+1.4.2. Con: All sites run into certain problems, but to vilify a whole platform on the basis of the lowest common denominator is unfair.
+1.4.3. Con: Something being offensive to you does not mean it should be banned. Game companies should not be the arbiters of moral law.
+1.5. Pro: Without Curation, unscrupulous software developers can [Turn client machines into Bitcoin Miners](https://www.eurogamer.net/articles/2018-07-30-steam-game-abstractism-turns-pcs-into-cryptocurrency-miners) or install malicious software on unsuspecting users.
+1.6. Con: Curation and quality control are costly. Steam can put those resources to better use to improve its platform.
+1.6.1. Con: Curation would massively improve the platform as a whole.
+1.7. Con: Freedom of expression is important, and a non-curated Steam storefront is an outlet for freedom of expression in the medium of videogames.
+1.7.1. Pro: Smaller gamemakers who are just starting out are able to get onto a large and well-respected platform, and get feedback from moderating users and reviewers.
+1.7.1.1. Con: The size of a studio is not relevant for the quality standards a game should uphold, games like [Braid](https://store.steampowered.com/app/26800/Braid/), [Cave Story](https://store.steampowered.com/app/200900/Cave_Story/) and [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/) were all made by one person each.
+1.7.2. Con: Quality control is not censorship. Controversial games can be of very good quality.
+1.7.2.1. Con: Unless they have such an open policy, they will be heavily criticised even more if they "filter some games" but not "filter a specific controversial \(but well done\) game".
+1.7.2.2. Con: Trying to interfere with the initial idea is a sort of censorship
+1.7.2.2.1. Con: -> See 1.1.3.
+1.7.2.2.2. Pro: Setting general standards and forcing companies to respect them interferes with the freedom of creating and experimenting.
+1.8. Con: Steam already has a "Curators" feature whereby it essentially crowdsources the curation task to a group of users.
+1.8.1. Pro: Crowdsourcing is a good way to highlight things because it is closest to what users enjoy.
+1.8.1.1. Con: User created media [Can be easily manipulated by big companies](https://www.engadget.com/2016/07/12/warner-bros-ftc-settlement-paid-game-reviews/)
+1.8.2. Pro: Third party curators are often very dedicated to their chosen selection of games.
+1.8.3. Con: This is clearly not a very functional system, based on some of the game quality.
+1.8.4. Con: -> See 1.1.2.1.
+1.9. Pro: The Google Play Store is a long-standing example of an un-curated marketplace for apps, and discoverability of new games is a huge problem there.
+1.9.1. Pro: Lack of curation in the Google Play Store has led to [multiple cases of bootleg versions of games designed with the only purpose of profit from the popularity of original games](https://dontfeedthegamers.com/bootleg-cuphead-games/)
+1.10. Con: Game reviewers in the gaming press and on YouTube indirectly play the role of curators, as they decide which games get attention and which are buried, even though all are published.
+1.10.1. Con: Game reviews only work up to a threshold, enough to discard real garbage games but not to make balanced statements over real quality.
+1.10.2. Con: Reviewers can easily have their own agendas, meaning they may not always be reasonable arbiters of game quality.
+1.10.3. Con: Not all the video game consumers get their information from youtube or gaming press, for instance, parents buying games for their children need a first party curator system directly embeded on the framework of the software
+1.11. Pro: Without curation, more and more bad games will fill the market, which is exactly what happened in the early 80's, leading to the 1983 crash.
+1.11.1. Con: There is curation, both within the steam client, and outside it.
+1.11.2. Con: If matters get out of hand, it is always possible to start some non-invasive form of curation.
+1.11.2.1. Con: Doesn't matter much if they can do it later. The question is whether they should do it or not.

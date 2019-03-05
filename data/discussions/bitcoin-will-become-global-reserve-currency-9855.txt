@@ -1,0 +1,37 @@
+Discussion Title: Bitcoin will become global reserve currency
+
+1. Bitcoin will become global reserve currency
+1.1. Con: Other cryptocurrencies are more suitable for the purpose
+1.1.1. Con: As of now, no other altcoin can match bitcoin's dominance in terms of price, security and most importantly network effect.
+1.2. Con: Bitcoin is too volatile \(as of now\)
+1.2.1. Pro: With more professional investments Bitcoin can achieve stability.
+1.3. Pro: USD as a national currency can't fulfil its role as a global reserved money as good as truly independent currency such as Bitcoin
+1.3.1. Pro: If the US dollar looses the ability to be a global reserve, then the US might push for a global currency like Bitcoin over national currencies like the Chinese Huan as replacement.
+1.4. Pro: Bitcoin is a protocol, \(an agreed way of doing things between two parties\), which allows the transfer of value between two parties.  In the same way as TCP/IP is the worldwide standard for transferring information, there is only a requirement for one worldwide standard way of transferring value.
+1.5. Con: Bitcoin is not in widespread use among B2B payments.
+1.6. Con: By its design, Bitcoin does not allow for scaling. The quicker transactions are processed in a decentralized manner, the less trustworthy they are, the more difficult it is to compete with legacy USD payments networks.
+1.7. Pro: Bitcoin is the only usable, store of value alternative to your local currency.
+1.7.1. Con: Stocks, bonds or real estate can be used to store value.
+1.8. Con: Bitcoin might not be able to scale to the desired throughput of transactions
+1.8.1. Con: It doesn't need to. Speed and throughput was never the breakthrough that bitcoin created - we had fast and massive amounts of transactions before. The true innovation is digital scarcity, total decentralisation and anti-fragitlity.
+1.8.2. Con: Bitcoin itself will never scale to Visa-level transactions. This will happen on second layer networks like the Lightning Network.
+1.9. Pro: Bitcoin is digital gold. Just with better properties in terms of transferability and storage.
+1.9.1. Con: -> See 1.2.
+1.9.2. Con: Bitcoin is not digital gold. There is no real, underlying or "garanteed" value. It is only data information.
+1.9.2.1. Con: Gold does not have intrinsic value either, it only has a long history behind it.
+1.9.3. Con: Gold stocks, traded digitally on various exchanges are digital gold.
+1.9.3.1. Pro: Bitcoin allows for anonymous trading \(on decentralized exchanges\) and thus is censorship resistant.
+1.9.4. Con: There are in-kind competitors to Bitcoin. Gold, on the other hand, has no other gold competitor.
+1.10. Con: Bitcoin's deflationary monetary policy might not be suitable to be a global reserved currency
+1.11. Pro: With further modifications of the protocol, Bitcoin will become much more useful with more functions, and thus even more suitable to the role of a global reserved currency
+1.11.1. Con: Without a profound modification to the way incentives are given, Bitcoin is not sustainable. The current proof-of-work mechanism consumes ever growing energy. We should be able to do better with the technolgies we create.
+1.12. Con: The fact Bitcoin is not being backed by any government disqualifies it from the role of a reserved currency.
+1.12.1. Con: Gold has been the global reserve currency for centuries exactly because of those qualities it shares with bitcoin, including the fact that gold is not and cannot be issued by any government.
+1.12.2. Pro: Political control gives certainty since it is backed by military might.
+1.13. Con: Anonymity in Bitcoin transactions might be the obstacle on its way to become global money.
+1.13.1. Pro: Many consumers fear anonymity because it can be explioted by criminals.
+1.13.1.1. Con: Traditional money has been exploited by criminals since the day it was invented. And today even more so: the biggest money laundering scandals happen in banks and among the world's "elite".
+1.13.1.2. Con: Cash is anonymous too and widly circulating.
+1.13.2. Con: Bitcoin is not as anonymous as people think.  The globally accessible, immutable record of transactions allows investigation into previous transaction chains at any point in the future.
+1.13.3. Con: Genuine anonymity is difficult to achieve with Bitcoin, since all addresses are listed publicly on the ledger. With some investigative work it is possible to link bitcoin addresses to real life identities.
+[mittechnologyreview](https://www.technologyreview.com/s/608716/bitcoin-transactions-arent-as-anonymous-as-everyone-hoped/)

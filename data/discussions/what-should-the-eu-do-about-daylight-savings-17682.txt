@@ -1,0 +1,26 @@
+Discussion Title: What should the EU do about daylight savings?
+
+1. What should the EU do about daylight savings?
+1.1. Keep the current arrangement. i.e. the variation of standard clock time between summer and winter.
+1.1.1. Con: No evidence was found that people sleep more on the night following the winter switch. Furthermore, the summer switch leads to losses in sleep for 2 weeks [doi.org](https://doi.org/10.1016/j.smrv.2012.10.001)
+1.1.2. Pro: If the EU remains inactive member states can find their own best solution.
+1.1.2.1. Pro: In Northern member states there are different requirements time-wise than in the South since during winter it stays dark very long.
+1.1.2.2. Con: It is within the reach of the EU to decide on daylight saving time since the [European Parliament](https://www.rt.com/news/418282-eu-daylight-saving-time/) debated such a proposal.
+1.1.3. Con: Shifting our biological clock twice a year is a stress factor to be eliminated.
+1.1.4. Con: LED lights require 6 to 7 times less energy than old-fashioned incandescent bulbs. This fact voids the original pro-argument \(energy saving through aligning the active period with the daylight\).
+1.1.5. Pro: Changing to daylight savings time, saves energy.
+1.1.6. Con: Changing clocks has a direct economic cost
+1.2. Switch to permanent wintertime
+1.2.1. Con: The morning rush hour would happen in the dark
+1.2.2. Pro: Wintertime is the best approximation of astronomical time \(sun is highest at noon\). Thusly best match with biological clock. Assuming a [normal rythm](https://en.wikipedia.org/wiki/Circadian_rhythm_sleep_disorder#Normal_circadian_rhythms) and usual working/bedtime hours. See also \(sorry in German only\) [this warning about permanent summer time](https://www.dgsm.de/downloads/aktuelles/Stellungnahme%20Sommerzeit%202018.pdf) from the German Sleep Society \(DGSM\).
+1.2.3. Pro: Moving the time reference should really not be the way to organize living: schedules should be. So if children are too tired in winter monings, shift school hours instead of shifting time. Wintertime is the "canonic" time where 12:00 means sun is highest and should be used as reference.
+1.3. Switch to permanent summertime
+1.3.1. Pro: People will be happy to have more natural light in their leisure time.
+1.3.2. Con: Human biology adapts to seasonal changes \(longer winter nights\) better with permanent wintertime. [The effects of season, daylight saving and time of sunrise on serum cortisol in a large population](https://www.tandfonline.com/doi/abs/10.3109/07420528.2013.844162?journalCode=icbi20)
+1.3.3. Con: It will be harder to start work and school in the morning, because it will remain darker for longer. Productivity will fall.
+1.3.3.1. Con: Schools and indoor workplaces have lighting, so this point is moot. In outdoor jobs, there will still be the same number of hours of daylight, so it doesn't matter.
+1.3.3.2. Con: The time between waking up and starting to work \(~2 hrs\) is significantly less than the time between finishing work and going to bed \(~6 hrs\). Thus, it is a good idea to have daylight longer in the afternoon when outdoor activities may take place.
+1.3.3.3. Con: Schools could start later, this is a possibility currently being explored in research for its pedagogic and health benefits
+1.3.4. Pro: Energy will be saved in residential lighting in winter.
+1.3.5. Con: Energy will be wasted for increased residential heating in winter
+1.3.6. Pro: Shops benefit from the extra afternoon hour of sunlight

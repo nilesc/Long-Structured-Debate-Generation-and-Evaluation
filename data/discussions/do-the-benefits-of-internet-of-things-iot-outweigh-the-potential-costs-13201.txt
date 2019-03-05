@@ -1,0 +1,39 @@
+Discussion Title: Do the benefits of Internet of Things (IoT) outweigh the potential costs?
+
+1. The benefits of Internet of Things \(IoT\) outweigh the potential costs.
+1.1. Pro: Integration of multiple sources of data will provide benefits in the future which are not evident today.
+1.1.1. Con: Companies have incentives to raise barriers and make collaboration difficult.
+1.1.2. Pro: Health monitoring through multiple devices will increase the quality and decrease the cost of healthcare.
+1.1.3. Con: Any internet-connected device is a source of danger. For example, [many implantable medical devices](https://www.computerworld.com/article/3146215/security/implantable-medical-devices-can-be-hacked-to-harm-patients.html) today are not secured against hackers.
+1.1.3.1. Pro: Hackers could generate fake data and influence medical treatment, which would not be noticed unless patient and doctor see each other in person.
+1.1.3.2. Pro: Devices such as pacemakers could be held for ransom, as has happened with [hospitals](https://www.zdnet.com/article/us-hospital-pays-55000-to-ransomware-operators/) already.
+1.2. Pro: Adequate regulation can mitigate many of the potential IoT costs
+1.2.1. Pro: EU's new General Data Protection Regulation \(GDPR\) gives control to its residents over their personal data.
+1.2.1.1. Pro: GDPR requires mechanisms for controlling, monitoring, and deleting information at users request.
+1.2.1.2. Pro: GDPR provides a framework to regulate flows of data across borders.
+1.2.2. Con: Regulations to protect privacy rights might infringe on existing rights, such as the right to free speech.
+1.2.3. Con: Regulating autonomous systems, such as self-driving cars, presents many technical, legal, social, and economic challenges.
+1.2.4. Con: Regulations will likely need to remain constantly in motion, constantly being reviewed and updated. Maybe faster than our current system can accommodate.
+1.2.5. Con: While any innovation in IoT bring business value in dollar terms, the regulatory policies doesn't. Untill we plan to attach monetary value in adopting the regulatory policies, the Policy making will not be adhered do.
+1.3. Con: Increased dependence on quantitative data will decrease the importance of qualitative data when evaluating people for jobs, education, credit, housing, et cetera.
+1.4. Pro: Access to vast amounts of data is helping to optimize complex systems, such as traffic, computer networks, et cetera.
+1.5. Pro: Since companies make profit from the data their collect, they can offer useful products at a low price.
+1.5.1. Pro: Data from IoT enables firms to target their advertising with precision, saving costs, and enabling them to pass those savings to their customers.
+1.5.1.1. Con: Targeted advertising can make people feel uncomfortable.
+1.5.2. Con: If users have to waive their rights to control the collection and use of their data in order to use the product, users are not really the owners of the product.
+1.5.3. Pro: More data enables personalized products and services which add value to consumers.
+1.5.4. Pro: Data-collecting devices allow some companies, such as Amazon, to sell devices at near cost.
+1.6. Con: Data collection capabilities can be abused without the acknowledgment of user.
+1.6.1. Pro: IoT can be used to spy or blackmail someone.
+1.6.1.1. Pro: The My Friend Carla doll was classified as an [espionage device](https://www.theguardian.com/world/2017/feb/17/german-parents-told-to-destroy-my-friend-cayla-doll-spy-on-children) in Germany. Parents were told to destroy the toy.
+1.6.2. Pro: Some technologies, such as facial recognition in surveillance cameras do not make possible for people to opt-out.
+1.6.3. Pro: Installation of ubiquitous sensors in major population areas means that no meaningful consent can be provided for the collection and use of data, only regulation can offer a proxy form of consent \(by articulating the will of the people on what uses are permissible\)
+1.7. Con: Many devices, such as toasters, do not really need an internet connection to function.
+1.7.1. Pro: The only reason some devices are connected to the Internet is to allow their manufacturer to collect data and providing no benefit to the user in return.
+1.8. Con: IoT will increase energy consumption and the carbon footprint of technology.
+1.8.1. Con: The use of sensors enables devices to regulate their power consumption more effectively, resulting in a net reduction in the environmental impact. \(e.g. through automated activation of street and office lighting\)
+1.9. Con: Data collected can be misused.
+1.9.1. Pro: Collected data can be used for nefarious purposes, such as robbing or kidnapping.
+1.9.2. Pro: Artificial intelligence makes difficult to assign who is responsible \(e.g., Microsoft chat bot was taught by trolls to behave racist/nazi\)
+1.9.3. Pro: Increased reliance on data can distort people's perceptions of other people.
+1.9.4. Pro: Unauthorized access to smart vehicles and other devices can be used to harm people from a remote location.

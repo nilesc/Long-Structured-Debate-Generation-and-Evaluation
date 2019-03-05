@@ -1,0 +1,66 @@
+Discussion Title: Would A Cashless Society Be Better?
+
+1. Society would benefit from being cashless.
+1.1. Con: You’re locked into a system with no physical representation of your accrued wealth.
+1.1.1. Con: Most money is held in bank accounts that are non-tangible already.
+1.1.1.1. Con: Banks could charge negative interest rates for deposits and ordinary depositors could not respond by withdrawing and converting to cash.
+1.1.2. Pro: There is limited flexibility for those who wish to store their money in any alternative way to a centralised bank.
+1.2. Con: It will be challenging for the government to fairly introduce new currency to offset inflation.
+1.2.1. Con: The government doesn't introduce new currency with cash but the central bank does.
+1.2.2. Con: In order to increase the money supplies central banks lower interest rates. This mechanism would be the same without cash.
+1.3. Con: Entities \(government, businesses\) can track your purchases more easily.
+1.3.1. Pro: Most forms of cashless purchases require an ID \(which people do not want to carry\). Money does not.
+1.3.1.1. Pro: Verification that you are "you" gets annoying after a while.
+1.3.1.2. Con: Not everywhere, in many countries you have to provide ID only when paying higher amounts. Also it's forbidden to use cash for higher amounts payments in some countries.
+1.3.1.3. Con: It's required by law to carry your ID with you in many countries.
+1.3.2. Con: If cryptocurrencies become commonplace, it may become harder for entities like governments and businesses to track your purchases. Cryptocurrency wallets \(maybe not all\) allow you to change your address every time you make a transaction, thus making it very difficult to track down what one person is buying.
+1.3.3. Pro: Government being able to track purchases is a potential danger to democracy.
+1.3.4. Con: Cryptocurrencies are not trackable by governments or businesses if you take some precautions.
+1.4. Con: Some of the cryptocurrencies are not worked out yet, which can be a detriment in people's lives vs cash.
+1.5. Pro: A cashless society is a step towards dematerialization \(like everything, including payments, happen through a phone\).
+1.5.1. Pro: There are multiple payments systems in a cashless society.
+1.5.2. Con: People would not be able to give money to beggars or charities asking for donations on the street.
+1.6. Con: If the item used to make the payments gets lost, it would be difficult to make purchases.
+1.6.1. Con: If you lose the cash, it will be also difficult to make purchases. Main difference is that if you lose cash, you lost your money. If you lose card, you can block it and request a new one.
+1.7. Pro: Being cashless is less of a hassle.
+1.7.1. Pro: Money costs people more money, as they need more items to store it in as well as safeguards in those places.
+1.7.1.1. Pro: Cashless is more mobile, as money is heavy to carry.
+1.7.1.2. Pro: Safes, wallets, etc. take resources and thus cost a person money to safeguard their money.
+1.7.2. Pro: This increases a person's safety \(they are more vulnerable when they go somewhere with a lot of cash\).
+1.7.3. Pro: Cash is simply not as convenient.  Say, compare how long it takes to swipe or insert a card, against the time it takes to fumble cash and coins out of your wallet/pocket, and the time it takes a cashier to count said cash, and maybe even coins, and then make change.  The potential length of the whole process is enough there.
+1.7.4. Pro: One does not need to go in-person to purchase everything.
+1.7.4.1. Pro: Cash makes people less mobile.
+1.7.4.1.1. Pro: People have to sometimes stay by their money in order to guard it.
+1.7.4.1.2. Pro: If people want to use cash, they have to go to the place they put the cash in order to use it. Thus, people cannot venture too far from their cash, because they will always need to go back to it when they need it.
+1.7.4.1.3. Pro: People cannot travel as easily with cash, because it is easier to get stolen when being around other people.
+1.7.4.2. Pro: Global purchases are easier to make \(instead of one boarding a plane to travel just to make the purchase\).
+1.7.4.3. Pro: Multiple purchases can happen very easily within an hour from the comfort of one's home.
+1.7.5. Pro: Cash makes people unproductive in terms of keeping track of it. If someone focuses on money, they become less productive towards their other tasks. However, if they focus on productivity, they are more likely to lose their cash, causing them to need to earn more money to make up for their losses.
+1.8. Pro: A cashless society would reduce illegal activity.
+1.8.1. Con: In places where there are strict monetary regulations people end up using alternatives to cash. Laundry detergent, collectables, precious metals, and much more. Outlawing normal activities drives black market activity which increases crime. Back alley abortion and prohibition shootings over alcohol come to mind.
+1.8.2. Pro: Illegal drug and weapon purchases would be brought to a near halt.
+1.8.2.1. Pro: Black market is limited due to no under the table deals being made.
+1.8.2.2. Con: Not necessarily; there will always be those who try to circumnavigate the system.
+1.8.2.3. Pro: Without cash, it would be difficult to move money around in the underground, as all electronic transactions would be monitored.
+1.8.3. Pro: Tax evasion and money laundering would become extremely difficult.
+1.8.4. Pro: Stealing expensive items no longer is worth it, as monitoring of electronic transactions will be all there is.
+1.8.4.1. Con: Trading art for drugs or other illicit material is commonplace even now. Electronic transactions would not stop black market barter for goods and services.
+1.8.4.2. Con: It may be electronic transactions, but that does not preclude the possibility of stealing to sell on. It just means criminals need to be a little more careful.
+1.8.5. Pro: Money is easier to steal.
+1.8.5.1. Con: Only few people can steal electronically stored money in contrast to physical cash.
+1.8.5.2. Con: Blockchain technology is a safe way for individuals to store their financial assets.
+1.8.5.3. Pro: Money causes people to trust each other less \(with worries of stealing\). In turn, less socialization and collaboration occur. In a cashless society, everyone would be more approachable, close, and connected. This allows society to be happier, more productive, and progressive.
+1.8.6. Pro: Bank robberies are minimized physically.
+1.8.6.1. Con: If bank robberies are no longer an option, then it is plausible that abductions and ransom demands would be much more common in order for criminals to make substantial amounts of money
+1.8.6.2. Con: It depends on if there are products held by banks \(in vaults, for example\) which have value without being necessarily cash.
+1.8.6.3. Pro: Bank robberies become strictly hacker based, allowing greater investment in security technology.
+1.8.6.4. Pro: Less lives are risked in courier and delivery mechanisms.
+1.8.7. Con: Unethical hackers can ruin your life quickly.
+1.8.7.1. Con: Most financial assets are already registered in online accounts. The percentage an individual holds in cash is marginal.
+1.8.8. Con: An alternative currency could be used by criminals to avoid the law. This would also be interesting to anyone who does not do crime but still dislike being tracked.
+1.9. Pro: A cashless society is more economically viable.
+1.9.1. Pro: Service and item bartering would regain popularity, yet another great economic prospect.
+1.9.2. Pro: People lose money. The amount of lost money unbalances the global economy \(changes the value of the dollar and limits the capabilities to pay off debts\).
+1.9.3. Pro: Money is expensive to produce and uses resources that would not occur in a cashless world \(like how the penny costs more than a penny\).
+1.10. Con: Cash is important for the the grey economy or informal sector to thrive.
+1.10.1. Pro: A cashless society would hurt the livelihoods of sex workers, as most people paying for sex would not want a record of the transaction.

@@ -1,0 +1,45 @@
+Discussion Title: Is the state necessary and beneficial to society?
+
+1. The state is necessary and beneficial to society.
+1.1. Con: The state is inherently an instrument of domination and repression, no matter who is in control of it.
+1.1.1. Con: Democracies \(in theory\) allow citizens to decide the manner in which the state governs. This is antithetical to domination and repression, where people do not have a say in the actions of the state.
+1.1.2. Con: The theory of social contracts - while in some edge cases disputed - is applicable in practically all examples of modern states. A nigh complete majority of people willingly accepting the status quo is required for any state to continue existing. The people "dominate" themselves to not be actually dominated by predating opponents.
+1.2. Con: The large majority of people in high leadership positions are members of the wealthy upper class. Therefore the state serves the interests of the upper class rather than equitably serving the interests of all social groups.
+1.2.1. Con: The Russian leadership is mostly someone from a poor background who worked their way up.
+1.2.1.1. Pro: [Putin](https://en.wikipedia.org/wiki/Vladimir_Putin#Early_life) was born to into a family of factory workers and navy conscprits.
+1.2.1.2. Pro: [Nikita Khruschchev](https://en.wikipedia.org/wiki/Nikita_Khrushchev#Early_years) was born to poor peasants.
+1.2.1.3. Pro: When being a child [Boris Yeltzin](https://en.wikipedia.org/wiki/Boris_Yeltsin#Early_life_and_education)'s peasant family was facing such a though life that they had to move to Kazan in order to survive.
+1.2.2. Con: That's a problem with the composition of contemporary governments, not the concept of the state itself. This claim would not be an issue if there were simply more diversity in governments.
+1.3. Pro: The state safeguards property rights.
+1.3.1. Con: The state can safeguard property rights, it is under no natural or inherent duty to do so. The Soviet Union, Cuba, and China have systems that are or were antithetical to private ownership of property. In the US states and municipalities make frequent use of the right of eminent domain.
+1.4. Pro: Statelessness is unfeasibly utopian; ill intentions wouldn't just disappear if oppressive force was gone, so we can't rely on the populace to manage themselves and each other morally.
+1.5. Pro: In recent history, our current economical crisis is a proof that the state is necessary in shepherding its citizens out of crisis
+1.6. Pro: No society has ever survived in the long term without the presence of a state.
+1.6.1. Con: States are less than [6,000 years old](https://en.wikipedia.org/wiki/Stateless_society#Prehistoric_peoples), meaning that for 99.8% of human history, humans lived in stateless societies.
+1.6.1.1. Con: The structure of primitive societies could only be maintained because of low populations. 7 billion people cannot be fed through hunting and gathering.
+1.6.1.1.1. Pro: Agriculture is neccessary to provide for everyone, but people will not have any incentive to grow food unless they have secure rights to it once it's grown. Those rights have only been effectively secured by states.
+1.6.1.1.1.1. Con: I would argue rights for the most part can exist without a state; social norms and values are sometimes actually stronger forms of control than legislation.
+1.7. Con: Thriving societies exist today in the absence of states.
+1.7.1. Pro: Examples include the [Kibbutz](https://en.wikipedia.org/wiki/Kibbutz), [Federation of Neighbourhood Councils-Et Alto](https://en.wikipedia.org/wiki/Fejuve), and [Popular Indigenous Council of Oaxaca "Ricardo Flores Magón](https://en.wikipedia.org/wiki/Popular_Indigenous_Council_of_Oaxaca_%22Ricardo_Flores_Mag%C3%B3n%22)".
+1.7.1.1. Con: These communities are all tiny compared to the massive nation-states we have today. The state provides hierarchal structure to large populations.
+1.8. Con: States are vulnerable to corruption.
+1.8.1. Pro: There is no single institution of power in history that has been immune to corruption. Whether it is a government, a religion, or an elected official. Even if they are established with good intentions eventually they will operate with self-preservation and self-interest as their primary purpose.
+1.8.1.1. Con: Corruption can be reduced by legal reforms, which require the stability of a state to function.
+1.8.1.1.1. Con: This is getting a little circular. We can't rely on a corrupt institution to regulate its own corruption.
+1.8.2. Con: While a vulnerability like corruption may materialize in a state, without the state it is the default.
+1.9. Pro: An anarchist society, lacking any central coercive authority, would quickly degenerate into violent chaos.
+1.9.1. Con: Police and laws perhaps may be necessary, but they could be supplied by the free market rather than government.
+1.9.2. Con: Just as territorial animals fight when defending their territory, but yield when confronted on the territory of another animal, rational self-interested individuals and firms would usually find aggression a dangerous and unprofitable practice.
+1.9.3. Pro: Radical decentralization promoted by anarchists would ruin modern industrial civilization. For instance, complex technology such as railways [would fail to work](https://www.marxists.org/archive/marx/works/1872/10/authority.htm) without hierarchy.
+1.9.4. Con: Like many other species of animals, cooperation amongst is common, natural, and likely.
+1.9.4.1. Con: Only applicable in scenarios with extremely limited group sizes. As soon as resource conflicts arise tribalism emerges bringing violence.
+1.9.5. Con: This criticism rests upon contingent cultural assumptions arising from a competitive scarcity economy. Replace such institutions with humane and egalitarian ones; then poverty, the cause of crime and aggression, would greatly decrease.
+1.9.6. Con: Many left- anarchists envisage cooperatives and communes adopting and enforcing rules of appropriate conduct for those who wish to join.
+1.10. Pro: The state provides necessary defense against groups, both foreign and domestic, gaining power and dominating a society.
+1.10.1. Pro: No individual or non-state actor could consistently provide comparable levels of [defense](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures) or [R&D](https://en.wikipedia.org/wiki/List_of_countries_by_research_and_development_spending) spending as states do.
+1.11. Pro: The state coordinates roles in society and the economy.
+1.11.1. Con: Roles in society \(such as teacher, mother...\) existed consistently long before states.
+1.12. Pro: While it can be agreed that the state invariably serves the interest of the powerful, to remove state institutions like democratic parliaments or courts would be to remove all barriers to despotism. The answer is to review the operation of the state and improve it, not remove it.
+1.13. Con: The idea we commonly call 'state' contributes significantly to the illusion that individuals are not responsible for their actions. Whatever your concept of ‘society’ entails, having individuals delegate responsibility to a fictitious and abstract entity such as ‘the state’ hardly benefits it.
+1.14. Pro: A hundred percent if they are responsible and if they think in better terms to evolve with the well being of society. I believe we may lack good examples right now worldwide but when I think about places where politcs gone somehow "right" I'd think about Finland, Sweden, Norway and Holland. Never went there, but talking about UBI as experiment, low poverty and income inequality, violence rate. high rate in enducation and etc ring some bells of possibility of a state that could work.
+1.15. Con: The government legitimizes the existence of the state. The state is not required. The state's primary focus is expansion and power. Government's primary focus is governing a group of people and holding them to a set of standards to be considered included within the group. Good examples of this are non profit institutions like we have in developing engineering and safety standards, such as the IEEE, UL, or ITE.

@@ -1,0 +1,11 @@
+Discussion Title: The private sector is incapable of delivering complete Health Care for Everyone.
+
+1. The private sector is incapable of delivering complete Health Care for Everyone.
+1.1. Pro: The private sector is optimising for profits, not for people's healthcare.
+1.2. Pro: No system is capable of delivering complete "Health Care for Everyone". Therefore, it follows that the "private sector" is incapable.
+1.3. Pro: A primarily for-profit system does not have an incentive to deliver healthcare to as many consumers as possible. It has an incentive to deliver healthcare to as many consumers as it can while remaining profitable. By definition, this excludes those whose healthcare is less likely to yield profit - the chronically ill, old, infirm, etc.
+1.4. Pro: The for-profit system in the United States has insured a [shrinking percentage of the population since 1999](https://en.wikipedia.org/wiki/Health_insurance_coverage_in_the_United_States) \(minimally\).
+1.5. Con: [Only 10% of people in the US lack health insurance](https://www.cbo.gov/sites/default/files/114th-congress-2015-2016/reports/51385-healthinsurancebaseline.pdf), and that percentage has been fairly stable over time.
+1.6. Con: The profit margin in health care \(at least among providers and insurers\) [is not that great](https://www.economist.com/blogs/democracyinamerica/2010/03/insurance_costs_and_health-care_reform). So the profit motive is not as great as one might assume
+1.7. Con: Drug manufacturers take and manage a tremendous amount of risk, and the private sector is much better at managing such risk taking.
+1.8. Pro: Lifetime caps on healthcare spending, a well-known feature of the private sector healthcare system, explicitly sets a profitability number to a human life. If you cost more than $X to insure, you lose us too much money, and you're done being covered.

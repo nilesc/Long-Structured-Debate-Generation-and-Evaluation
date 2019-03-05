@@ -1,0 +1,41 @@
+Discussion Title: Digital Piracy: Good or Bad?
+
+1. Digital piracy is good.
+1.1. Con: Piracy is risky to those who practice it as pirated content might contain malicious software.
+1.1.1. Con: This problem can be avoided by pirating from trustworthy sources, for example release groups.
+1.1.2. Con: Any software can contain malicious code. Sometimes computers and phones have it pre-installed, too.
+1.2. Pro: Many digital marketplaces would not exist if not for piracy.
+1.2.1. Pro: iTunes and Steam are examples of marketplaces set up that have curbed piracy of digital music and games \(respectively\) by providing a DRM service through which users can purchase their goods.
+1.3. Pro: All digital information should be free and fully accessible to anyone.
+1.3.1. Con: Creating digital content requires resources that companies gain by selling their products \(which are said digital contents\) - otherwise developing content would be impossible, unless an effective alternative monetizing practice is established.
+1.4. Con: Piracy equals stealing.
+1.4.1. Pro: The creators of the pirated content does not get any compensation for the work they have put in to bring the content to life.
+1.4.1.1. Con: This may be a good thing for those who want to support content but refuse to support it financially.
+1.4.2. Con: In case of theft, the item is forcibly taken from any owner of the particular item. In the case of piracy, an identical copy of the item is made and shared by someone who might already own the item.
+1.4.2.1. Con: It is a crime when the "pirates" are selling something that is not theirs. They are claiming this content and profiting from it when you haven't contributed to its production.
+1.4.2.1.1. Con: Pirates aren't selling stolen products \(mostly\) - they are simply redistributing it for free.
+1.4.3. Con: Sometimes piracy leads to purchases.
+1.5. Con: Piracy prevents lesser known artists from being able to make a reliable living.
+1.5.1. Con: Piracy promotes lesser known artists work to users who may otherwise not have chosen to listen to/watch their content, thereby potentially building a fan base who may purchase future work
+1.6. Pro: Piracy ensures access to otherwise inaccessible information. There are many places where content is regulated, prohibited, or not for sale.
+1.7. Pro: Pirated products - especially games - oftentimes work better than legally bought versions, which are crippled by anti-piracy measures.
+1.7.1. Pro: Game developers sometimes burden their games with unnecessary DRM \(sometimes in multiple forms\), which hamper users' systems and bring the game down to a screeching halt \(or break it entirely\), whereas the pirated versions work without any problems.
+1.7.1.1. Pro: [DRM](https://en.wikipedia.org/wiki/Digital_rights_management) simply doesn't help to protect against piracy. With only a handful of notable exceptions, games "protected" by DRM have all been cracked.
+1.7.1.2. Pro: Developers, who latch [always-on DRM](https://en.wikipedia.org/wiki/Always-on_DRM) onto their games ultimately end up punishing their paying customers.
+1.7.1.2.1. Pro: The games might become inaccessible due to server overloads
+1.7.1.2.1.1. Pro: The most outrageous examples of this were EA's SimCity \(2013\) and Activision Blizzard's Diablo III - both of which could have easily worked without the online connection, but decided to force it on their customers nonetheless, creating a situation, where pirates could play without any interference and annoyance, but the legal customers were left waiting for days.
+1.7.1.2.2. Pro: The game might not work properly due to DRM
+1.7.1.2.2.1. Pro: The latest examples of this would be Ubisoft's FarCry 5, which has it's multiplayer completely broken by DRM. Also most of the Assassin's creed games suffer from this.
+1.7.1.2.3. Pro: The game might put such strain on your machine, it has little resources left to run the actual game
+1.7.1.2.3.1. Pro: Ubisoft's Assassins Creed: Origin basically has your CPU handle their \(completely unnecessary\) DRM to an extent, where more resources are needed to handle the DRM than the game itself. Again this creates a situation, where the pirates aren't punished for buying the game. And the gains? The game was cracked after 99 days of release \(according to [CrackWatch](https://crackwatch.com/)\).
+1.7.1.2.4. Pro: If the servers are shut down by the developers, you will not have access to the product you paid money for - even if you own a physical copy of it.
+1.7.1.2.4.1. Pro: This happened to THQ's Company of Heroes, when THQ bankrupted and was acquired by SEGA. For a short period of time, the game was inaccessible due to there being no servers available to log into. This meant that even the offline modes \(campaign and skirmish\) were inaccessible. What happens if servers for a game stay down for good?
+1.7.2. Con: If games weren't pirated then there would be no necessity to implement the DRM measures which cause these issues
+1.7.2.1. Con: Wrong. Dead wrong. Although it might have stemmed from anti-piracy, DRM is nowadays far more malicious. Publishers now aim to establish a "[Games as Services](https://en.wikipedia.org/wiki/Games_as_a_service)" business model, which is just a glorified way of justifying unnecessary DRM in order to [make more money](https://kotaku.com/why-ubisoft-is-obsessed-with-games-as-a-service-1822938255). There is nothing wrong with making more money, but the AAA game industry is willing to throw their entire audience under the bus and undermine their own products! In short DRM is unnecessary, ineffective & harmful to the end user.
+1.8. Pro: Some content creators support piracy for strategic benefits.
+1.8.1. Pro: Bill Gates [saw](https://economictimes.indiatimes.com/between-the-lines-in-support-of-piracy/articleshow/8067307.cms) piracy as a way of winning new customers and tying them to Microsoft products, for examples in China.
+1.8.2. Con: This is only applicable for larger corporations. Smaller developers and independent content creators depend on legitimate sales for sustenance.
+1.8.2.1. Pro: Smaller developers as well as independent creators rely on these streams of income in order to become established companies in the industry and piracy unfairly reduces or even, in some cases, nearly eliminates these streams of income, thereby encouraging excessive saving, a worse product, and a higher chance for the company to go bankrupt or otherwise go out of business.
+1.8.3. Pro: The creators behind Game of Thrones have voiced [their support](https://www.washingtonpost.com/news/the-switch/wp/2013/08/09/game-of-thrones-exec-says-piracy-is-better-than-an-emmy-he-has-a-point/?utm_term=.826c58f830a9) for piracy as it generates buzz for the show.
+1.9. Pro: Piracy helps high priced content/software to be made accessible to larger audiences.
+1.9.1. Pro: Piracy helps in computer education, job readiness and skill development [in developing countries](http://siulaw.typepad.com/international_ip_policy/2009/11/the-effect-of-piracy-in-the-developing-world.html).

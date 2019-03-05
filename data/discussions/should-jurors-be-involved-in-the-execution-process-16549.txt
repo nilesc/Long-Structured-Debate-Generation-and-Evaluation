@@ -1,0 +1,33 @@
+Discussion Title: Should Jurors Be Involved In The Execution Process?
+
+1. Jurors should be involved in the execution process
+1.1. Con: Jurors should not be required to devote more resources to the process than they already have.
+1.1.1. Pro: Any issue with having all the jurors in the execution place will mean delaying the execution, not being able to carry it and, in general, causing more suffering and anxiety to those convicted.
+1.1.1.1. Pro: Executions are already delayed to absurd lengths, with the average wait [exceeding a decade.](https://deathpenalty.procon.org/view.resource.php?resourceID=004433)
+1.1.2. Pro: Jurors have to go through a relatively lengthy, dull, and harrowing process before even finding out whether they'll even be questioned in jury selection.
+1.1.3. Pro: [Jury trials can last for several days, if not much longer.](https://www.schwebel.com/faq/trial/)
+1.2. Con: The jury generally does not issue the sentence for someone they find guilty.
+1.3. Pro: People would be less likely to demand the death penalty, which is often seen as a human rights issue.
+1.3.1. Pro: Watching how someone died on one's command is an unpleasant experience for most citizens.
+1.3.1.1. Pro: By having this psychological barrier, it makes the death penalty less likely to take place.
+1.3.1.1.1. Con: This is speculative. If one qualifies as a juror, knowing that this is a possibility, they would potentially be emotionally and psychologically prepared to perform such a duty.
+1.3.1.1.2. Con: We could simply outlaw the death penalty instead of forcing jurors into a psychologically disparaging situation.
+1.3.2. Con: Crimes that allow for the death penalty are especially heinous, you don't plan and carry out murders by accident.
+1.4. Con: Forcing jurors to participate in an execution is likely to make jurors more emotional and less rational when rendering a verdict.
+1.4.1. Pro: Emotional distance and rationality are paramount to evaluating evidence and determining the probability of guilt. This is why those personally affected by a crime can't sit on the jury.
+1.4.1.1. Con: Emotion is an important part of the jury process. They are not obligated to have someone punished due to the right of [jury nullification](https://en.wikipedia.org/wiki/Jury_nullification). Moderating your emotion is what is important, but those emotions are how you can say "He broke the law but he does not deserve punishment".
+1.4.1.1.1. Con: Sentencing is at the discretion of the judge. The role of the jury is solely to determine whether guilt has been proven beyond a shadow of a doubt. Jury nullification is not a "right" of the jury. It's simply something that happens. Emotionally deciding that the guilty party doesn't deserve punishment is precisely the opposite of the jury's role.
+1.4.1.1.1.1. Con: Jurors are not obligated to vote according to the law, this is an intentional part of the legal system to reduce the power of unjust laws and allow justified illegal activity. To force jurors to vote a specific way completely erases the point of a jury. It can cut both ways however. The verdict is "Guilty" and "Not Guilty", not "He did it" and "He didn't do it".
+1.4.2. Con: If they're not willing to witness the execution they themselves supported, perhaps they should not support that verdict in the first place.
+1.5. Pro: It is far too easy to condemn someone to punishment and never hear from them again.
+1.5.1. Pro: It ensures responsible sentencing with accountability from jurors.
+1.5.1.1. Con: The level of accountability does not really change if jurors decide without participating in the actual execution or if they do.
+1.5.2. Con: A convicted criminal may seek out jurors who sentenced him if he leaves prison alive.
+1.6. Con: Jurors may be harassed for not going through with the execution of someone society wants dead.
+1.6.1. Con: This is already an issue for those who conduct executions; it would not necessarily be worse than it already is.
+1.6.2. Con: They can also be branded as murderers by those who oppose the death penalty.
+1.6.3. Pro: A dead man cannot do any harm, but his friends and family can.
+1.6.3.1. Con: If there were fourteen people to harass, families and friends may be dissuaded, as it would be difficult to try harassing quite so many people.
+1.7. Con: The death or absence of a juror can bring its own problems to the table.
+1.7.1. Con: This is easily remedied by having a "reserve list" or equivalent in case of such problems.
+1.7.1.1. Con: This would require more devotion of resources to pre-trial planning and preparation.

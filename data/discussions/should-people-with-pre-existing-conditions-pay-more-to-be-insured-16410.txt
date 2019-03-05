@@ -1,0 +1,21 @@
+Discussion Title: Should people with pre-existing conditions pay more to be insured?
+
+1. Should people with pre-existing conditions pay more to be insured?
+1.1. Con: Denying people health insurance for pre-existing conditions is unconstitutional.
+1.1.1. Pro: The United States has civil rights laws that state that there must be equal access and equal rights for those with disabilities and health issues.
+1.1.1.1. Con: As private insurance companies are also legally entitled to seek profit, the state should be the one responsible for providing those rights.
+1.2. Pro: States could step in to recreate high risk pools to help those with pre-existing conditions get covered
+1.2.1. Con: If policy redistributes the high risk to the state, by definition a smaller pool will have higher volatility. Shifting to states simply shifts the burden to the state taxpayer general fund rather than the national health risk pool so it is a shell game with less incentive for improvement.
+1.2.2. Con: People with pre-existing conditions will have to pay much more. The unhealthiest people \(those with cancer, or that need an organ transplant\) will have to pay A LOT more - to the point where it will be unaffordable
+1.3. Con: Insurances would charge them the expected amount that they would have to pay for treatment, so an insurance covering their born-with illness would not make financial sense and thus people would never insure for anything related to their born-with illness or be completely uninsured.
+1.4. Con: Life for people born with an illness would be even less fair than it already is, if they had the additional disadvantage of having to pay more for healthcare.
+1.5. Pro: Health insurance will be more affordable for those without pre-existing conditions
+1.6. Con: Insurers will go back to the days of underwriting, and people will have to fill out long applications to get insurance
+1.7. Pro: More healthy people will opt to buy insurance, improving the risk pool
+1.7.1. Con: As was evident before the mandate in the ACA, healthy people more often then not, did not buy health insurance. That trend may not change as it is a mindset, they think that they do not need it.
+1.7.2. Con: Healthy people may not buy insurance because they perceive it as unnecessary, and thus that may not change by making variations to the risk pool.
+1.7.2.1. Pro: Costs, covers, difficulty at finding the right one and general lack of awareness make people [not buy](http://www.healthcarefinancenews.com/blog/top-8-reasons-single-people-don%E2%80%99t-buy-health-insurance) health insurance.
+1.7.2.2. Con: If cost is one of the main reasons they don't buy insurance, that could be reduced by a healthier pool, thus making more healthy people buying it.
+1.8. Con: People who can't afford insurance may get care anyway, increasing the amount of bad debt at hospitals
+1.9. Con: Children who are born with illness will be unable to afford insurance their entire lives.
+1.10. Con: This doesn't solve the primary cause of high health insurance rates - the price of health care.

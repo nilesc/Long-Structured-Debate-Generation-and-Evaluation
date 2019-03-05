@@ -1,0 +1,616 @@
+Discussion Title: Should humanity establish colonies on Mars?
+
+1. Humanity should colonize Mars.
+1.1. Con: Other contenders \(such as the Moon, Venus, Titan, or a Lagrange colony\) are better choices.
+1.1.1. Con: Exoplanets can be [inhospitable to life](https://www.popsci.com/science/article/2013-07/astronomers-discover-color-exoplanet-first-time) and are far away.
+1.1.1.1. Con: Exoplanets allow for the greatest expansion of humans in the universe \(because they exist everywhere\).
+1.1.1.2. Con: They have sheer numbers: everyone on Earth could be given a planet to operate and there would still be planets left over for future generations. This makes exoplanets probably the best way to colonize the universe!
+1.1.2. Con: Any other contender for colonization will face equally difficult if not more severe problems than Mars. These could include; a lack of in-situ resources for construction and survival and radiation/cosmic rays that will hurt potential settlers.
+1.1.2.1. Con: A Lagrange colony could use [water as shielding](https://space.stackexchange.com/questions/1336/what-thickness-depth-of-water-would-be-required-to-provide-radiation-shielding-i) from cosmic radiation.
+1.1.2.2. Con: The assertion that Mars would be easier is unsupported.
+1.1.2.3. Con: Mars is the furthest object from Earth of the examples listed. The sheer distance demonstrates Mars' inadequacy.
+1.1.3. Pro: [Venus](https://www.youtube.com/watch?v=gJ5KV3rzuag) is a better choice.
+1.1.3.1. Con: Venus has [strong electric fields in its atmosphere](http://www.esa.int/Our_Activities/Space_Science/Venus_Express/Venus_has_potential_but_not_for_water).
+1.1.3.2. Con: Venus has no water \([definitely none on the surface and very little in its atmosphere](https://www.universetoday.com/36291/is-there-water-on-venus/)\).
+1.1.3.3. Con: Venus lacks a magnetic field, like Mars
+1.1.3.3.1. Con: This should not impact our consideration for colonizing Venus, as people are thinking about colonizing Mars, even though it  also has negligible magnetic fields.
+1.1.3.3.2. Pro: Mars is more likely to be able with getting away with a lack of a magnetic field for protection, because it is further away from the Sun than Venus.
+1.1.3.4. Con: People could get greater chances of skin cancer due to being closer to the Sun
+1.1.3.4.1. Con: If colonies are properly shielded from radiation there should not be any more danger than with space colonies in other locations. Water reserves could be stored around the colonies and that would provide the best possible shielding, or there could be a technology that produces an artificial magnetosphere around the colony, thus deflecting charged particles in the same way the Earth does.
+1.1.3.5. Con: Humans cannot land on Venus surface because of the extreme temperature and pressure.
+1.1.3.5.1. Pro: We would have to live in cloud cities, but human is not adapted for that.
+1.1.3.5.1.1. Con: Humans are not adapted to live anywhere in space, but there is no particular reason why living in a cloud city would be more difficult than living elsewhere in space. In fact one of the hardest problems to solve, gravity, would be a non-issue in Venusian cloud cities. And temperatures and pressures are much close to what humans need than those on Mars. The issue of radiation remains in both planets but you can shield the cities for radiation much easier than you can provide artificial gravity.
+1.1.3.5.1.2. Con: Humans are pretty capable of adapting to seemingly unsuitable environments due to sheer intelligence and perseverance. Practically nothing can stop humans from achieving their goals.
+1.1.3.5.1.3. Con: Humans can try to adapt to this cloud environment through [transhumanism](https://www.kialo.com/transhumanism-is-the-next-step-in-human-evolution-13564/13564.0=13564.1/=13564.1).
+1.1.3.5.1.4. Con: Learning how to build cloud cities will allow civilizations to gain a new skill and region \(clouds\) to colonize when deciding other places to go to in space.
+1.1.3.5.1.4.1. Pro: Even better is that Earth can be a safety net when plans go awry, due to the close proximity of it to Venus
+1.1.3.6. Pro: Venus has [91% of the gravity of Earth](http://coolcosmos.ipac.caltech.edu/ask/48-How-strong-is-the-gravity-on-Venus-), making the transition easy.
+1.1.3.7. Pro: Temperatures and pressures at the altitude where humans could live are very much like those found on Earth, making habitation easier.
+1.1.3.8. Con: Venus has an environment more hostile to life than perhaps any non-gaseous body in the solar system.
+1.1.3.8.1. Con: This is only true on the surface, not at the clouds where most colonization plans are placed.
+1.1.3.9. Con: -> See 1.1.3.5.1.
+1.1.4. Pro: Some scientists propose living on asteroids
+1.1.4.1. Pro: Ceres might be a nice option due to its large size and location in the resource-rich asteroid belt
+1.1.4.1.1. Con: Ceres is a very cold place to live, evidenced by its [cryovolcano](http://earth-chronicles.com/space/mysterious-mount-ceres-was-cryovolcano.html).
+1.1.4.1.2. Pro: Ceres is a little further out than Mars, so it is not too far from Earth compared to Titan.
+1.1.4.1.3. Con: Ceres would be a nice secondary place to colonize after Mars.
+1.1.4.1.3.1. Pro: Ceres is close to Mars.
+1.1.4.1.3.2. Pro: Ceres could be a nice platform for when Mars and Earth are not aligned.
+1.1.4.1.4. Pro: Because Ceres has much less gravity than Mars it will be easier to transfer resources to and from it.
+1.1.5. Pro: Nothing to suggest we couldn't colonize multiple viable locations in fullness of time or at the same time.
+1.1.6. Pro: [The Moon is much closer to Earth than Mars](http://www.digipac.ca/chemical/mtom/contents/chapter1/marsfacts.htm), making it a better choice.
+1.1.6.1. Pro: Moon would be a lower cost option, due to its proximity, potentially increasing chances of success
+1.1.6.2. Con: The Moon has about 1/2 the gravity of Mars \([16.6%](http://www.differencebetween.info/difference-between-earth-and-moon-gravity) vs [38%](http://coolcosmos.ipac.caltech.edu/ask/73-How-strong-is-the-gravity-on-Mars-) respectively\), making it unsuitable for life in the long-term.
+1.1.6.2.1. Con: If people get genetically engineered to live with less gravity \(like less bones to walk with\), then living in places with less gravity will become feasible and this would not an issue.
+1.1.6.2.2. Con: We don't have enough information to confirm this. We simply can't know at this point what the low gravity effects for humans are in the long term.
+1.1.6.2.3. Con: If people live underground on Mars, then the gravity should be equal to that on Earth. There's already a direction and benefits in doing so too.
+1.1.6.2.3.1. Pro: [NASA's Mars InSight](https://mars.nasa.gov/insight/mission/overview/) is looking to see if there is seismic activity on Mars. If there isn't, then living underground would be a great opportunity.
+1.1.6.2.3.2. Pro: Underground living provides massive protection against surface elements, like dust, wind, radiation, and more.
+1.1.6.3. Con: Mars has a larger size than the Moon to accommodate a large population \(one of the keys for survival: power in numbers\).
+1.1.6.3.1. Con: I don't believe size is an issue considering how immensly large a colony which completely covers the Moon would be.
+1.1.6.3.2. Con: Size does not matter as the population that gets too big for its host land will leave and colonize more lands
+1.1.6.4. Pro: The Moon would have Earth visible in the distance, a visual reminder that will allow settlers to not miss their home planet as much.
+1.1.6.5. Pro: The Moon does not have to be a one-way trip from Earth as it is about 60 times closer to Earth than Mars.
+1.1.6.6. Pro: In times of emergency, response is possible from Earth \(like supplies and responders could be brought up\) and quicker than Mars.
+1.1.6.7. Pro: Communication to and from Mars and Earth of about 4 minutes \(as it takes light 4 minutes to get from Mars to Earth\) whereas with the Moon the delay is more like 4 seconds. This difference is very crucial in times of calculating and decision-making
+1.1.6.8. Pro: We are looking for the most convenient place to practice living on not earth. Due to the long commute to Mars the moon might make a better First job for non-earth dwellers.
+1.1.6.9. Pro: A developed lunar colony would be a necessary prerequisite for the creation of an effective extra-Terran colonization effort. An effective Mars colonization effort essentially means that a "practice" Lunar colony becomes vital.
+1.1.6.10. Pro: A moon launch / factory site should be prioritized with guided drones harpooning & towing small asteroids to the moon for base materials...
+1.1.6.11. Con: Mars still has a [thin but working atmosphere](https://www.space.com/16903-mars-atmosphere-climate-weather.html), whereas the moon has none \(just an [exosphere](https://www.space.com/18067-moon-atmosphere.html)\).
+1.1.6.12. Con: The Moon has no atmosphere, making it more vulnerable to asteroid strikes
+1.1.6.13. Pro: The moon has [water](https://www.cnn.com/2018/08/23/world/water-ice-moon-study/index.html)
+1.1.7. Con: Mars is in the most ample location to start an extra-terrestrial colony compared to other options
+1.1.7.1. Pro: Mars is close to the asteroid belt, which is great for obtaining resources as well as establishing emergency platforms and communication systems with Earth. This will alleviate the issues caused by Mars not always being nearby Earth
+1.1.7.2. Con: Mars is not always close to Earth. If emergencies arise, people on Earth cannot help those on Mars easily.
+1.1.7.3. Pro: Mars is a better choice for further space exploration as its closer to other planets, moons, and the edge of the solar system than [Venus or the Moon](http://www.enchantedlearning.com/pgifs/Planetvelocity.GIF).
+1.1.7.4. Pro: Mars mimics Earth and its conditions closer than anything else to Earth, making it the easiest place to start and work from.
+1.1.7.4.1. Pro: Mars has orbital days similar to Earth \(24.6 hours in a day vs 24 hours in a day on Earth\)
+1.1.7.4.2. Con: Mars takes about twice as long as Earth to orbit the Sun \(687 days vs 365 days per year on Earth\)
+1.1.7.4.3. Con: Mars does not have a large moon to look out to. Its moons are so small that there will be almost nothing in the sky except possibly the Sun
+1.1.7.4.4. Pro: Mars has about the same land mass as Earth. Even better, oceans do not separate lands on Mars
+1.1.7.4.5. Pro: Mars has seasons similar to \(but longer than\) Earth
+1.1.7.5. Con: Mars is very dusty compared to the other choices
+1.1.7.6. Con: For colonies with industrial infrastructure, such as space factories it might be advantageous to not be in a gravity well \(like on Mars\). This would help with imports/exports of material resources.
+1.1.7.7. Con: Only if you ignore the hundreds of years it would take to terraform.
+1.1.8. Pro: Moons of large planets \(such as Jupiter and Saturn\) could sustain life \(due to their [gravity generating heat](https://www.sciencedaily.com/releases/2008/12/081212092056.htm)\) after the Sun cools down. This strategy provides longer-term survival than on Mars.
+1.1.8.1. Pro: [Callisto](http://spacecolonization.wikia.com/wiki/Colonization_of_Callisto), one of Jupiter's moons, is a potential place to create settlements.
+1.1.8.2. Con: The timescale involved in the cooling down of the Sun makes this process practically irrelevant to this discussion. The Sun will start the red giant process in [5 billion](https://www.space.com/22471-red-giant-stars.html) years \(enough time to survive on Mars\) and cooling down would only happen after that.
+1.1.8.3. Pro: Titan is a better choice than Mars
+1.1.8.3.1. Con: Mars is a better choice than Titan, one of Saturn's moons, due to a closer proximity.
+1.1.8.3.2. Pro: [Titan has a thick atmosphere to protect from radiation while Mars does not](https://www.youtube.com/watch?v=5VfesP3p0xc).
+1.1.8.3.3. Pro: Titan will survive after the Sun becomes a red giant because it will not be eaten up by the Sun.
+1.1.8.3.4. Pro: People can survive on Titan after the Sun disappears because Saturn's gravity keeps Titan warm
+1.1.8.3.5. Pro: Titan is near other moons that beneficial to habitating or resources from
+1.1.8.3.5.1. Pro: Titan and other moons' low escape velocity makes it easy to jump from moon to moon.
+1.1.8.3.6. Pro: Titan has [lots of water](https://www.youtube.com/watch?v=mtagVmPz4DI) to create an atmosphere and survive with
+1.1.8.3.7. Pro: Titan's thick atmosphere \(10x thicker than Earth\) can hold oxygen once humans place it into the atmosphere
+1.1.8.3.7.1. Pro: When humans start consuming water from Enceladus, it possibly will vaporize and get trapped in the atmosphere where humans can breathe it in
+1.1.8.3.8. Pro: Titan will have [gorgeous, up-close views](https://www.space.com/28788-living-on-titan-saturn-explained-infographic.html) of probably the most beautiful planet in the solar system: Saturn and its rings.
+1.1.8.3.8.1. Con: The view would be obscured by Titan's thick atmosphere.
+1.1.8.3.9. Pro: Titan is further out into space, allowing space exploration outside of the universe more possible than Mars
+1.1.8.3.10. Con: Titan has different orbital days than Earth \([16 Titan days equals one Earth day and 16 Titan days equals one Earth year](https://solarsystem.nasa.gov/moons/saturn-moons/titan/in-depth/)\). The Sun not rising and setting everyday and different birthday arrangements will take some getting used to if ever possible.
+1.1.8.3.10.1. Con: Other Saturn moons \(such as [Methone](https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturniansatfact.html)\) have practically one Earth day for each Earth day. People could visit or stay at those moons before getting used to Titan
+1.1.8.3.11. Con: The Sun is further away and less visible from Titan than [Mars](https://solarsystem.nasa.gov/planets/mars/overview/), which could make people more easily homesick for Earth
+1.1.8.3.12. Con: Titan would have less capabilities for solar power due to its lack of proximity to the Sun
+1.1.8.3.12.1. Pro: Titan receives [1%](https://www.jpl.nasa.gov/news/fact_sheets/cassini.pdf) of Earth's sunlight.
+1.1.8.3.12.2. Con: When solar cells get set up in space near the Sun, the energy could possibly be beamed to Titan
+1.1.8.3.13. Con: Titan is smaller than Mars \(although larger than Mercury and almost the largest planet in the solar system\), which would not support as large of a population on it.
+1.1.8.3.13.1. Con: Luckily Saturn has so many moons that the total surface area combined might be close to or more than Mars.
+1.1.8.3.14. Con: Titan is outside of the Goldilocks zone
+1.1.8.3.14.1. Con: In time it will go into the Goldilocks Zone
+1.1.8.3.15. Pro: Titan will be in the [Goldilocks zone when the Sun becomes a red giant](https://exoplanets.nasa.gov/internal_resources/194/)
+1.1.8.3.15.1. Con: The Sun will not become a red giant until billions of years. Humans may not exist anymore by then.
+1.1.8.3.15.1.1. Pro: Even if humanity survived billions of years, it would have got plenty of time to explore closer targets in our solar system first, before taking the bigger challenge to go further.
+1.1.8.3.16. Pro: Titan's atmosphere is similar to Earth in that it is made mostly of [nitrogen](https://www.nasa.gov/sites/default/files/files/Moons_of_Saturn_Lithograph_h.pdf)
+1.1.8.3.17. Pro: Titan has livable air pressure compared to Mars and would [not require a space suit](https://www.space.com/28788-living-on-titan-saturn-explained-infographic.html)
+1.1.8.3.18. Con: Titan has [less gravity than the Moon](https://www.space.com/28788-living-on-titan-saturn-explained-infographic.html)
+1.1.8.3.18.1. Con: This would be bad for our health \(as bones will fracture from lack of use\)
+1.1.8.3.19. Con: Titan is really [cold](https://www.space.com/28788-living-on-titan-saturn-explained-infographic.html) \(although people could acclimate a little\)
+1.1.8.3.19.1. Pro: Titan has cryovolcanoes, which proves its cold temperatures
+1.1.8.3.19.2. Con: Titan's large atmosphere allows temperatures to not fluctuate. Once people get used to it then they will not need to keep adjusting. In comparison, Mars's thin atmosphere z allows for temperature fluctuations by [over 100F](https://www.space.com/16907-what-is-the-temperature-of-mars.html)!
+1.1.8.3.19.3. Con: Since its [core might still be warm](https://space-facts.com/titan/), people could extract heat somehow from the center of the moon
+1.1.8.3.19.4. Con: The natural gas on the planet should be great fuel to heat everything with
+1.1.8.3.20. Con: Titan replicates Earth's primordial existence and could offer clues to how life formed on Earth. Moving to this moon could disrupt any evidence that puts clues together for scientists.
+1.1.8.3.21. Pro: Titan for the most part is shielded by Saturn's magnetic field.
+1.1.8.3.21.1. Con: There is [5%](https://www.jpl.nasa.gov/news/news.php?feature=4460) of the time when Titan is not protected and extra precautions should take place during that time
+1.1.8.3.21.1.1. Con: Titan's larger-than-Earth-by-multiple-times atmosphere could compensate for the lack of a magnetic field
+1.1.8.3.21.1.2. Con: This exposure time is trivial to survival on Titan
+1.1.8.3.22. Pro: Titan's [methane](https://solarsystem.nasa.gov/moons/saturn-moons/titan/in-depth/) \(natural gas\) could be used for fuel
+1.1.8.3.23. Con: Titan would not be the best place for astronomical observations due to a thick atmosphere.
+1.1.8.3.23.1. Con: However one could set up observatories on other moons and just visit them instead.
+1.1.8.3.23.1.1. Pro: With a lack of sunlight, some of Saturn's furthest moons would be the greatest places to view the stars from.
+1.1.8.3.23.1.1.1. Con: Those moons lack magnetic protection from Saturn and might not be the best place for observation. Moons closer to Titan and within the magnetic field are probably better
+1.1.8.3.24. Con: Communication to Earth is worse than Mars as Titan is [over 1 light hour from Earth](https://physics.stackexchange.com/questions/26700/how-long-does-it-take-for-radio-or-light-waves-to-travel-from-earth-to-jupiter) \(Mars is minimum 4 light minutes\)
+1.1.8.3.24.1. Pro: This communication gap can shorten if people colonize other bodies first: Moon, Mars, Ceres, Ganymede...before Titan.
+1.1.8.3.25. Pro: Titan has similar conditions to Earth, being the [only other place in the solar system with large bodies of liquid on the surface](http://spacecolonization.wikia.com/wiki/Colonization_of_Titan)
+1.1.8.3.25.1. Con: Those are oceans of methane, they are not conducive to human life.
+1.1.8.3.26. Con: Getting to Titan would be a real challenge as just getting to Mars is difficult enough.
+1.1.8.3.27. Pro: Titan is near Enceladus, which could provide people living on Titan with a [liquid water source](https://www.nytimes.com/2014/04/04/science/space/a-moon-of-saturn-has-a-sea-scientists-say.html).
+1.1.8.3.27.1. Con: A colony on Titan that is not self sustaining and dependent on Enceladus for it's water supply would not be a good colony, Enceladus contains water which humans need to sustain themselves, but also water is a viable source of hydrogen which can be used to fuel a nuclear fusion reactor. The energy created could be used to heat domed habitats and farms thus Encealdus can easily fulfill most of requirements of human living \(heat, shelter, food and water\) and would be a better choice for a colony.
+1.1.9. Pro: Man-made objects \(especially near Earth\) are better for living on than Mars.
+1.1.9.1. Pro: A [Lagrange colony](https://99percentinvisible.org/episode/home-on-lagrange/)/space station is a [better choice](https://www.kialo.com/we-should-build-lagrange-colonies-before-settling-on-mars-11268/11268.0=11268.1/=11268.1).
+1.1.9.1.1. Con: A Lagrange colony requires [external resources](http://www.haydenplanetarium.org/tyson/read/2002/04/01/the-five-points-of-lagrange) \(such as a planet\) to build.
+1.1.9.1.1.1. Pro: A Lagrange colony does not require Earth's resources if it is built near other celestial objects. Only the design's required.
+1.1.9.1.2. Con: Building a Lagrange colony \(with a significant enough population\) would require excessively huge logistics and finances.
+1.1.9.1.3. Pro: The cost to travel to [Mars is $1-million-per-pound sent out vs the Moon at $100,000-per-pound and a Lagrange colony orbiting the Earth is cheapest at $10,000-per-pound](https://www.youtube.com/watch?v=rj36ECOLKAY).
+1.1.9.1.4. Pro: A Lagrange colony is the most accessible out-of-Earth living situation for the masses at this moment. [Orion Span](https://www.orionspan.com/) is already [taking reservations for their space station \(that will be a hotel\)](https://www.yahoo.com/news/luxury-space-hotel-taking-reservations-190800408.html).
+1.1.9.1.5. Pro: The artificial conditions on a Lagrange colony could be controlled instantaneously, which is more freeing than individually reacting to uncontrollable factors. For example, if there are solar flares the Lagrange colony could drive around them and no one is affected. On Mars, people would alter their lifestyle to circumvent the flares.
+1.1.9.1.6. Pro: A Lagrange colony is portable. The portability allows humanity to leave the solar system.
+1.1.9.1.6.1. Pro: [Lagrange colonies could be the closest out-of-Earth body that people inhabit](https://space.stackexchange.com/questions/4748/feasibility-self-sustaining-colony-on-mars-vs-space-station). The close proximity is beneficial in multiple aspects: emergencies, supply delivery, communication, and more.
+1.1.9.1.7. Pro: A Lagrange colony could advance the possibility for [time travelling](https://www.space.com/17628-warp-drive-possible-interstellar-spaceflight.html) faster than Mars.
+1.1.9.1.8. Con: A Lagrange colony has more unknown factors for setup than Mars. One example is where will the Lagrange colony be built? Mars has an established location.
+1.1.9.1.8.1. Con: By definition, a Lagrange colony would be built at a [Lagrange point](https://www.space.com/30302-lagrange-points.html) \(where gravity fields around an object are in an equilibrium\)
+1.1.9.1.8.2. Pro: The calculations required to figure out where it should be built adds to the difficulties in setting one up
+1.1.9.1.8.3. Con: Going to Mars requires tracking the planet to coordinate when its position is closest to Earth
+1.1.9.1.9. Con: A Lagrange colony needs to be ["parked" on a Lagrange point](https://www.space.com/30302-lagrange-points.html). Getting the calculations and locations right are setbacks to this idea.
+1.1.9.1.9.1. Con: Even though that is true, there are multiple options to place a Lagrange colony in space compared to celestial bodies \(only one location for each\)
+1.1.9.1.10. Pro: Settling a Lagrange colony would be a great project for genetics engineering. Could be possible make a human kind properly for sidereal living... Homo sapiens siderealiorum or something alike...
+1.1.9.1.11. Con: A Lagrange colony can be [attacked](http://colonyworlds.com/2007/12/lagrange-way-stations-the-key-towards-interplanetary-trade.html) more easily \(because of easy access, high value to other Langrange colonies, and a lack of an [escape velocity](http://images.tutorvista.com/cms/images/83/escape-velocity-image.PNG) that planets have\)
+1.1.9.1.12. Pro: A Lagrange colony's design could be replicated easily once its usable. Then the colony's design could be assembled anywhere feasible in the universe.
+1.1.9.2. Pro: An [orbital ring](https://www.youtube.com/watch?v=LMbI6sk-62E) would be a great alternative and might be extremely challenging, but pretty feasible.
+1.1.9.2.1. Con: An orbital ring requires much more materials than a space elevator
+1.1.9.2.1.1. Con: These materials might not need to come from Earth once the foundation is built. Instead, they can come from space, like asteroids.
+1.1.9.2.1.2. Pro: Orbital rings would require more resources from Earth than space elevators, which would be detrimental to both the environment and people's safety \(globally - climate change, and locally - mining dangers\).
+1.1.9.2.2. Pro: An orbital ring has benefits that a space elevator does not.
+1.1.9.2.2.1. Pro: Orbital rings have less maintenance requirements.
+1.1.9.2.2.1.1. Pro: A space elevator can get damaged more easily than an orbital ring, because a space elevator is near human activity more and has to face the elements on Earth \(such as weather, dust, earthquakes...\).  An orbital ring is in space, away from such factors
+1.1.9.2.2.2. Pro: An orbital ring would not interfere with activities on Earth as much as a space elevator, due to being above normal flight areas
+1.1.9.2.2.2.1. Pro: A minimum of about 50 miles up is the lowest place where an orbital ring would likely be built. In comparison, the highest level that commercial flight takes place is well under 10 miles
+1.1.9.2.2.3. Pro: Orbital rings could provide solar power to Earth, because it gets cloud-free, 24/7 sunlight.
+1.1.9.2.2.4. Pro: Space elevators cannot utilize space materials due to a gravity well, whereas orbital rings can
+1.1.9.2.3. Pro: An orbital ring spreads around the globe, which gives the global population more access than a space elevator.
+1.1.9.2.3.1. Pro: Better yet, an orbital ring would require less ground travel to the orbital ring, as it is just "up" instead of "out". This saves on resources and preparation needed to get to a space elevator.
+1.1.9.2.3.2. Pro: An orbital ring would not have political tensions that space elevators create.
+1.1.9.2.3.2.1. Pro: This prevents power-control issues, where countries that have their space elevator hogs the usage and prevents other countries from using it.
+1.1.9.2.3.2.2. Pro: Orbital rings would be scaled according to total usage needs of industry output, rather than group \(a.k.a. country\) usage needs.
+1.1.9.2.3.2.2.1. Pro: The usage priorities switch to industry than by country would be beneficial to prevent political fights.
+1.1.9.2.3.2.2.2. Pro: The switch to industrial needs would prevent inequality in access to space.
+1.1.9.2.3.2.3. Pro: An orbital ring could be globally-owned, as it is located outside of nations' borders \(unlike a space elevator that most likely needs to be planted within one country's borders\).
+1.1.9.2.4. Pro: An orbital ring has dual benefits that space elevators do not.
+1.1.9.2.4.1. Pro: One dual benefit is both traveling/commuting around the Earth and into space. Space elevators only have mainly one: space travel \(except for help given to high-altitude flight\).
+1.1.9.2.4.2. Pro: Orbital rings are possible to both live and travel on. Space elevators can only provide travel opportunities.
+1.1.9.2.4.2.1. Pro: People would not be forced to come back to Earth as much if they do not feel like it, unlike a space elevator \(has no platform to avoid unnecessary trips to Earth.
+1.1.9.2.4.3. Pro: These could be temporary structures \(but do not have to be\), which can be quickly thrown down, pulled up, and moved. A space elevator does not have that luxury \(it has to be permanent\).
+1.1.9.2.5. Pro: Orbital rings are a great start towards expand Earth's civilization out of Earth. A space elevator does not provide such opportunity.
+1.1.9.2.5.1. Pro: An orbital ring has a high capacity to hold people, because it has more space than a space elevator \(which might be able to handle less than 20 loads at best before items start running into each other\).
+1.1.9.2.6. Pro: Traveling on a space elevator needs to be shared like bandwidth \(i.e. there is a limited number of users at one time\). An orbital ring does not have such limits \(people can just fly up easily to the nearby orbital ring.
+1.1.9.2.7. Con: An orbital ring would probably need a space escalator to get to it.
+1.1.9.2.7.1. Pro: Even though the minimum height would be 50 miles from Earth, on a space escalator \(that is trying to avoid issues\) would create a long commute \(due to the angle slant\)
+1.1.9.2.7.1.1. Con: The commute should not be as long as on Earth, since there would be no traffic going up/down.
+1.1.9.2.7.2. Con: -> See 1.1.9.2.4.3.
+1.1.9.2.7.3. Con: People can board and travel to space on orbital rings that touch Earth, thus bypassing the need for a space escalator.
+1.1.9.2.8. Pro: An orbital ring does the same function as a space elevator \(avoid Earth's escape velocity to get into space\), but with more surface area to achieve it.
+1.1.9.2.9. Con: An orbital ring is more difficult to maintain by people on Earth.
+1.1.9.2.9.1. Con: An orbital ring is a more stable platform to work on than a space elevator \(which could sway as one gets closer to the top\).
+1.1.9.2.9.2. Pro: People would need to travel up into space to work on the orbital ring, whereas a space elevator can easily be accessed at the ground level.
+1.1.9.2.9.3. Pro: An orbital ring is more prone to construction errors and halts than a space elevator.
+1.1.9.2.9.3.1. Con: Orbital ring structures can be built on the ground and then assembled in space, which will reduce construction issues if it were built in space.
+1.1.9.2.9.3.2. Pro: If issues occur during construction, people would need to travel back-and-forth between Earth and the rings to repair. A space elevator does not have those issues as much.
+1.1.9.2.9.3.3. Pro: Because the orbital ring is larger than a space elevator, there are more places it could get issues at.
+1.1.9.2.9.3.4. Pro: An orbital ring is more complex to construct \(especially since has more factors to take into account like: living arrangements, commutes, and travel to/from it\), which would set back the possibilities for constructing it further into the future than space elevators.
+1.1.9.2.9.3.5. Con: Construction of the spinning center would not have halts due to items falling/flying away, because once something gets into orbits, it stays relatively within the same place. This makes construction really easy and quickly.
+1.1.9.2.10. Con: An orbital ring is unsafe for people to be on. People could be in freefall if they walk off the part that is fixed to Earth's movement.
+1.1.9.2.10.1. Con: There could be a clear encapsulation built on the ring to allow people to move around and view everything, but not fall off.
+1.1.9.2.10.2. Con: Some people want to use that to their advantage \(like sport, such as an extreme form of skydiving\).
+1.1.9.2.10.3. Pro: If the ring is not built correctly, it could be unsafe for people to live on.
+1.1.9.2.10.4. Pro: Since the gravity is lower the higher the orbital rings are built, people could encounter long-term health consequences when staying on the rings.
+1.1.9.2.10.4.1. Con: The rings could be built closer to Earth \(but not too close that it interferes with air travel\).
+1.1.9.2.10.4.2. Con: The orbital ring design could account for this by building into its structure artificial gravity systems.
+1.1.9.2.10.4.3. Pro: People should stay only for short times, because they would need to go back to Earth for long periods after to help their bodies recover.
+1.1.9.2.10.5. Pro: Without proactive counteractive measures, people can get all sorts of short-term health conditions associated with being in space, such as [altitude sickness](https://www.healthline.com/health/fitness-exercise/altitude-sickness-flights) and [space adaptation syndrome](https://www.sciencedirect.com/topics/medicine-and-dentistry/space-adaptation-syndrome)
+1.1.9.2.11. Con: Although large, one orbital ring would have limitations in freedom of walking around it.
+1.1.9.2.11.1. Con: This could be addressed by scaling the design, such as adding towers below or more rings.
+1.1.9.2.11.2. Con: Capsules to prevent people from falling should be built to accommodate the lower gravitational levels, depending on how high the rings go \(people might be able to at most jump one foot into the sky, but in space, it would be much greater\).
+1.1.9.2.11.3. Pro: Although one could walk the circumference of the Earth practically on the orbital ring, width-wise, people cannot walk that far \(at most, a few feet\) without approaching a wall.
+1.1.9.2.11.4. Con: People would be able to circumnavigate the globe without worrying about barriers \(natural - like water bodies, and artificial\) or national borders.
+1.1.9.2.11.4.1. Con: This could only work if countries do not claim parts of the orbital ring as their own.
+1.1.9.2.11.4.2. Pro: People would freely be able to travel over various countries without worry, just like when flying in an airplane over various countries.
+1.1.9.2.11.4.3. Con: Countries would have to protect their borders even more, as people would be able to freely access countries from the orbital ring out of nowhere without repercussions \(one could just lower a space elevator and go into a country without anyone knowing about it\).
+1.1.9.2.11.4.3.1. Pro: Criminals would get away with crime by escaping to other countries without anyone knowing about it.
+1.1.9.2.12. Pro: An orbital ring is simple in concept and easy to scale/add modules to.
+1.1.9.2.12.1. Con: A space elevator has these features too.
+1.1.9.2.12.2. Pro: Orbital rings can extend out past the solar system, making interstellar space travel possible
+1.1.9.2.13. Con: Orbital rings might be block the visibility of night sky, which would be bad for on-Earth astronomical observations
+1.1.9.2.14. Con: Orbital rings are not portable, which makes them a worse option than the portable Lagrange colonies or O'Neill cylinders.
+1.1.9.3. Pro: [O'Neill cylinders](https://www.youtube.com/watch?v=gTDlSORhI-k) are a possible alternative to Martian colonization.
+1.1.9.4. Pro: Artificial gravity on these systems stronger than Mars could allow humans to live longer lives and age slower \(as [gravity slows time](https://news.nationalgeographic.com/news/2010/09/100922-science-space-time-einstein-relativity-aging-gravity-earth/)\).
+1.1.9.5. Pro: The ones near Earth allow easy access to Earth. Mars can be too far to easily come back to Earth in emergencies \(about [250 million miles](https://www.space.com/14729-spacekids-distance-earth-mars.html) away at the maximum\)
+1.1.9.6. Con: Man-made objects are expensive to build.
+1.1.9.7. Con: Man-made objects have restrictions in their capabilities due to physical limitations \(including, but not limited to, weight and distance\) and usually have to rely on planets to account for such shortcomings. Planets already have features that are difficult to implement into man-made objects, especially right now, which makes them more suitable for living in.
+1.1.9.7.1. Pro: Man-made objects can be more easily exposed to radiation if they are not within a planet's magnetic field. While water can provide great radiation protection, it is too heavy to supply the amount we need, especially for larger civilizations.
+1.1.9.7.2. Pro: Man-made objects are much smaller than planets and would be incredibly difficult to scale them to such size. Thus, they cannot support the large civilizations that planets can.
+1.1.9.7.2.1. Con: The compactness of man-made objects are more suitable for connectivity between and within civilizations, as people would not have to travel long distances to get where they need to go, as planets create this difficulty \(due to their size and the fact that not all terrain is suitable to live on\).
+1.1.9.7.3. Con: Some of the limitations on a man-made object are more beneficial to building civilizations than on planets.
+1.1.9.7.3.1. Pro: With land, people do not have to survey vast spaces in order to find the best place to settle, they can just start building one with beneficial conditions right away, as they know what those are. This makes man-made objects more beneficial to begin civilizations with.
+1.1.10. Con: Perhaps but we can do both and so this doesn't directly attack the premise of whether or not we should establish a colony on Mars.
+1.2. Con: Mars is not suitable for habitation. For example, the planet once had life, but could not maintain it. Evidence would then suggest that this would happen again without massive human effort to sustain viability.
+1.2.1. Con: No evidence of life past or present has been found on Mars.
+1.2.2. Con: Out technology prowess and ability to innovate and adapt will ensure we succeed where others \(may\) have failed.
+1.2.2.1. Pro: Once solar energy has been mastered, energy demands, at the source of all needs, will be solved.
+1.2.3. Con: Past failures could lead to tomorrow's success just by looking at the mistakes. 'Massive human effort' is not necessary when taking the successful path
+1.2.3.1. Pro: Making mistakes uses more effort \(through back-tracking and reworking\) than not making them
+1.2.4. Con: It is possible that we are the only civilization out there, and thus Mars' emptiness from past civilizations' failures makes future human colonization viable and the only way for life to expand across the universe.
+1.2.5. Pro: Scientific analysis of Mars has demonstrated a few resources needed to support civilization, but not to the extent necessary to support a self-sustaining colony.
+1.2.5.1. Pro: The general space.com article over the composition of the Martian surface reveals that the immediate surface is a rust powder, and beneath it is basalt rock. Neither are arable.
+
+[space.com](https://www.space.com/16895-what-is-mars-made-of.html)
+1.2.5.1.1. Con: We do not need arable land with hydroponics, as it uses water and a soilless medium.
+1.2.5.2. Pro: Power for a Martian colony could come from a number of sources, but the best is solar power. Yet, solar power on Mars would be tricky. Mars is further away from the sun than Earth and regular dust storms would require considerable maintenance.
+
+[universetoday.com](https://www.universetoday.com/21293/despite-dust-storms-solar-power-is-best-for-mars-colonies/)
+1.2.6. Pro: Humans and all biological beings emerged from Earth due to thousands of factors that all have to be aligned for these to be created and survive. No other place in the universe will ever be hospitable for humans to survive and form a colony.
+1.2.6.1. Con: If we colonize a planet, we are not starting over from scratch \(such as emerging as a species, as that's already been done\). With our current advancements \(like evolution and technology\), humans can overcome the factors that caused biological beings to not survive outside of Earth.
+1.2.7. Pro: The [gravity of Mars is insufficient to support human bones](https://science.nasa.gov/science-news/science-at-nasa/2001/ast01oct_1/). Regardless of sustainability of life, fetus growth would be heavily altered due to longer and less dense bone structure. Live births would be miraculous, and development past puberty even more so.
+1.2.7.1. Con: We do not yet know how much gravity humans need to live healthily. All we know is that zero gravity is bad. It could be that people can live with Mars gravity with minimal health risks.
+1.2.7.2. Con: All characteristics that Mars lacks as a human habitat, can be produced with technology.
+1.2.7.2.1. Pro: In the future, it would be possible to create rotating cities tilted at an angle, where the centrifugal force would increase the apparent gravity to an amount comparable to that on the surface of the Earth.
+1.2.8. Pro: Mars is just as suitable for sustaining life as any other planet that has no Oxygen/Nitrogen atmosphere.
+1.2.8.1. Con: Gravity and temperature, atmospheric pressure, materials available, levels of radiation and numerous other factors are also to be taken into account. Among the planets in our Solar System, Mars seems to have the most potential.
+1.2.9. Pro: Mars does not have a magnetic field, therefore it has no protection against solar winds and may never be able to support an atmosphere.  If a colony was established on Mars it may never experience living outside of a ship, or greenhouse structures.
+1.2.9.1. Con: Artificial magnetic fields could be induced, albeit with technology we do not have yet.
+1.2.9.1.1. Con: None would be large enough to encompass an entire planet.
+1.2.9.1.1.1. Pro: By inventing shield technology humanity would grow exponentialy, because such technology would boost different kinds of economies making things cheaper and safer then with old technologies.
+1.2.9.2. Con: Underground structures can be used that will be a natural barrier against radiation.
+1.2.9.3. Con: [Sunshades](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136648) at the Mars-Sun L1 lagrange point would easily mitigate this. Given the timefames involved these could also be solar accumulators that allow for the energy to be beamed to the surface.
+1.2.10. Con: Not yet.  We should terraform Mars first.  We could bombard it with comets to provide water, then add genetically modified bacteria and algae to gradually build up a breathable atmosphere.
+1.2.10.1. Pro: Colonizing Mars will require building a habitable environment \(whether in form of biospheres, terraformation or other\). Succesfully accomplishing this means we will no longer have to rely on pre-existing ecosystems as we will be capable of creating our own.
+1.2.10.2. Pro: Attempting to colonize Mars in its present state would forever require humans to maintain habitats, which would continually add to the cost of residing on Mars, both from a  financial and a safety standpoint.  Habitats would have to be maintained, and would occasionally fail.  The cost of terraforming would be less over time, but would require longer to implement.
+1.2.10.3. Con: There is no magnetic field to keep the terraforming efforts in, making protecting mars from radiation, solar wind and cosmic rays not really possible through this method.
+1.2.10.4. Con: We do need to terraform Mars if we decide to live underground instead.
+1.2.11. Pro: Because in the first ages of the colonization, Mars will be extremely dependent from the Earth production & activities, the stability of the Earth civilization is a condition and a necessity for the Mars conquest. If you want to establish a sustainable colony on Mars, you must keep the Earth civilization in a sustainable and stable way as a first priority.
+1.2.11.1. Pro: Humanity is not ready politically. Politicians would be expected to be responsible for colonization of celestial bodies that they may have little knowledge of. This would be disastrous, as some of their decisions might be in the billions or even trillions of dollars with lives at stake.
+1.3. Con: People create devastation wherever they go. Martian colonization should not start or continue this process.
+1.3.1. Pro: Colonizing Mars invokes moral dilemmas that create a disadvantage to one side \(Earthlings\) when helping the other \(Martians\). The problem can get so great, that it is both devastating and causes devastation for the losing party. Since this already occurs on Earth with bad consequences, this decision-making should not continue into space.
+1.3.1.1. Pro: Considering morals allows one to consider that resources should not be over allocated to one cause or another. Solving the issue of poverty is an important cause
+1.3.1.1.1. Pro: The economic system is a great example. Resources for making products are taken away from those who originally have it and also produce negative consequences for all in return \(like, but not limited to, climate change\). If we go to Mars, then both Earthlings and Martians should benefits, as a win-win situation, not a win-lose one.
+1.3.2. Pro: Until man can figure out how to be a good steward to Earth, it shouldn't try to colonize elsewhere.
+1.3.2.1. Pro: Colonizing other celestial bodies should not make up for the damage humanity has brought onto the Earth
+1.3.2.2. Con: Just because people are not perfect does not mean colonization should not happen
+1.3.2.3. Pro: If we can get it right on Earth, there is no reason not to believe that Mars can work for humanity.
+1.3.2.4. Con: Colonizing Mars may be inevitable as Earth becomes uninhabitable due to all of its resources becoming consumed
+1.3.3. Pro: The more people explore, the likelihood of using gravitational slingshots is heightened. [Too many gravitational slingshots throws planets out of orbit](https://www.universetoday.com/113488/how-do-gravitational-slingshots-work/).
+1.3.3.1. Pro: A one-way trip to Mars may be insignificant. Many trips back and forth they add up. The additive effects become significant as colonies grow larger and become more comfortable with space travel.
+1.3.3.1.1. Con: The mass of ships using slingshot maneuvers will have evenly-distributed effects on the mass of planets they pass near. Their passes on either side will cancel each other out.
+1.3.3.2. Con: \(As you own linked article states\) This effect is practically insignificant: The Earth's great mass and speed means it carries a kinetic energy so huge that we could never hope to even harvest a noticable fraction of it by making sling-shot-maneuvers.
+1.3.3.3. Con: Even if slingshot maneuvers had a significant impact on the Earth's orbit \(which they don't\), improving technology will likely be able to reverse and counteract this effect.
+1.3.3.3.1. Pro: E.g. Lasers at the Earth's surface could be pointed into the sky and periodically activated to generate thrust in a desired direction.
+1.3.3.4. Con: When gravitational slingshots disrupt the planet's orbit, we'll enact laws to ensure that people only make left turns until the problem is resolved.
+1.3.4. Pro: [Interplanetary contamination](https://www.nasa.gov/feature/new-report-addresses-limiting-interplanetary-contamination-during-human-missions) \(also known as "[forward contamination](https://www.newyorker.com/tech/elements/meet-the-martians)"\) can become a big problem once colonization gets underway. This prevents the efforts to find life in the universe beforehand.
+1.3.5. Con: Since most of the surface is made of rocks, there is no issue with destroying them.
+1.3.5.1. Con: If we destroy all of the rocks, there would be no planet to go to
+1.3.6. Con: People can minimize their impact through utilizing innovations
+1.3.6.1. Pro: Innovations such as developing an alternative for the monetary system - at least specifically in Mars territory - can dissuade a vast assortment of problems, and allow us to focus entirely on only making the highest-quality items, greenest technology, and smartest decisions.
+1.3.7. Con: People could make efforts to keep the environment intact when the migrate there
+1.3.8. Con: People could avoid leaving a trace if they decide to leave the celestial body they inhabit
+1.3.8.1. Con: It is possible that not contaminating Mars with Earth's microbes might be very hard to do, depending on factors that we do not yet know.
+1.3.9. Con: Devastation is usually defined as harming life or the conditions for life. If there is no life on Mars, you could reasonably argue that it is already completely devastated and any changes to that condition would be neutral at worst.
+1.3.9.1. Con: Humans could mess up the conditions for themselves and future people according to your definition
+1.3.9.1.1. Pro: We are not responsible for the actions of future humans. We are only morally obligated to pass on to future generations our habitat in the same or better condition than we inherited it.
+1.3.9.1.1.1. Pro: If the conditions get messed up for humans by one or more generations, it will cause problems for future ones \(possibly to the point that they cannot exist\).
+1.3.10. Pro: Problems that begin on Earth should be solved before potentially spreading them everywhere in space.
+1.3.10.1. Pro: Crime can spread to space, which should be prevented.
+1.3.10.1.1. Pro: Mars will probably be more technologically-advanced than Earth, which makes it more susceptible hacking.
+1.3.10.1.2. Con: Humans living in close quarters in space typically enjoy less privacy than those living on Earth, and thus would have less opportunity to perform crime or other illicit acts without being detected.
+1.3.10.1.3. Pro: People can more likely get away with crimes in space, as the distance ranges are greater than on Earth \(which gives criminals more options for escape\).
+1.3.10.2. Pro: Inequality might get worse in space.
+1.3.10.2.1. Con: The harshness of living in remote colonies could also create a sense of solidarity that is absent in mass societies here on Earth.
+1.3.10.2.2. Con: Inequality might also get worse here on the Earth. This is not an argument against space colonization.
+1.3.10.2.3. Pro: Inequality has existed since recorded history, we have never found a solution to sort it. We just create more layers and make it more insidious. Moving to another planet will mean that people are cherry picked to go and some people would never be able to leave this planet even if they wanted to go as they may not have the required skills, abilities or fit a criteria.
+1.3.10.2.4. Pro: Corporatism can get worse, pushing out small businesses.
+1.3.10.2.4.1. Pro: With competition instead of collaboration, fully open free access to knowledge and the togetherness that space development should bring to humanity, we will export greed to the universe. It is so disgusting to push up this idea outside our planet. We must change as specie and develop our way of growing and understanding existence. We will only progress when we understand the money and weapons must disappear form our minds, economy and way of acting. If don't, the virus will grow.
+1.3.10.2.4.2. Pro: The corporations with the most money will be able to place themselves on Mars first, creating virtually a monopoly for a long time before space travel gets cheaper.
+1.3.10.2.4.3. Pro: Regulations are slow to keep up with the pace of technology, and most likely even slower in space. Businesses may lack regulation on Mars because of this, causing them to get larger and less-controllable than ever before.
+1.3.10.3. Con: There will always be problems on Earth for the foreseeable future. Waiting until all Earth's problems are solved before exploring space can mean that we will wait for a very very long time.
+1.3.10.4. Con: Space technologies can also solve problems on Earth as they tackle space-related issues.
+1.3.10.5. Pro: Humanity is not mature enough to colonize another planet, as we still have war. Until world peace is achieved on Earth, we should not go into space and possibly continue it there.
+1.3.10.5.1. Pro: Colonization would raise property right issues from day one, and cause wars on who and under what circumstances should be eligible to take part of this whole process.
+1.3.10.6. Con: It is too late to stop global warming, as there is no way to banish all cars, or get rid of fossil fuel energy. Our only hope is to colonize Mars, so that our children's children's children don't have to know what it's like to live on a polluted, ever hotter world with not enough food and potable water running out.
+1.3.10.7. Pro: Environmental problems on Earth should be resolved before creating further, at times irreversible, damage in space.
+1.3.10.7.1. Pro: [Overdevelopment](https://populationspeakout.org/the-book/view-book/) causes issues that are not easily reversible on Earth, which leads to abandonment due to an inability/carelessness in fix destruction that people cause. Virgin areas in space could possibly never recover when civilizations start the vicious overdevelopment cycle of abandonment of old/colonization of new places,which leaves wrecks behind in their path.
+1.3.10.7.2. Pro: In space, [trash \(a.k.a. space junk\)](https://www.wired.com/story/the-space-junk-problem-is-about-to-get-a-whole-lot-gnarlier/) will only get worse with as colonization progresses.
+1.3.10.7.2.1. Con: If we colonize Mars, we could use space junk when we run out of resources. Thus, colonizing Mars will actually clean up space junk instead of create it.
+1.3.10.7.2.2. Con: Outer space needs to be clean in order to go back and forth with transporting people \(even [small pieces can cause issues](https://www.space.com/16518-space-junk.html)\). People will likely remove the space junk that gets in the way of flight \(such as what blocks or harms the vehicle during transport\), as the vehicle costs more and is more valuable than the removal process.
+1.3.10.7.3. Pro: Humans are incapable of terraforming Mars because they are destroying Earth: polluting the air, water and soil, as well as depleting animal and plant life. Until we can be self-sustainable on a planet, then it would not make sense to live on another planet unsustainably.
+1.3.10.7.3.1. Con: "being able to self-sustain on Earth" and "being able to transform Mars into a livable planet" are two largely unrelated things.
+1.3.10.7.4. Pro: [Advertisements](https://www.technologyreview.com/the-download/609777/the-next-moon-mission-might-be-sponsored-by-a-soda-company/) cause issues on Earth. Those problems can amplify in space.
+1.3.10.7.4.1. Pro: Just like how space junk clutters up the space environment, advertisements take away from the natural beauty of space \(a.k.a. one of the aspects that draws people to space to begin with\).
+1.3.10.7.4.2. Pro: Ads may deter people from visiting Mars.
+1.3.10.7.4.2.1. Pro: Their frustrations and deterrence from ads on Earth might be a factor in their space travelling decisions.
+1.3.10.7.4.2.2. Pro: Ads may make Mars look like a place not worth visiting if they are advertising products/services that people do not want.
+1.3.10.7.4.2.3. Pro: Ads may prevent people from enjoying the natural beauty of Mars, which is a detractor.
+1.3.10.7.4.2.4. Con: As ads evolve, so do ad blockers.
+1.3.10.7.4.3. Pro: Ads may make survival on Mars difficult.
+1.3.10.7.4.3.1. Pro: Ads can block visual observation, which can cause space colonization to be limited.
+1.3.10.7.4.3.1.1. Pro: People need visual cues for survival and building colonies
+1.3.10.7.4.3.1.1.1. Con: Technology like GPS prevents this issue from happening, although primitive on Mars.
+1.3.10.7.4.3.1.1.2. Pro: Visual cues may be crucial for calculations.
+1.3.10.7.4.3.1.1.3. Pro: People need to be able to see incoming threats to potentially avoid them.
+1.3.10.7.4.3.1.2. Pro: The Martian economy can be negatively impacted, which limits the full potential of colonization's capabilities.
+1.3.10.7.4.3.1.2.1. Pro: Since Mars' economy is scientific-based, scientists will have more difficulties with research, especially if the research is visually-based
+1.3.10.7.4.3.1.2.2. Pro: Tourism might go down if people do not have a visually scenic location to go to. This is evidenced on Earth, where development efforts get limited in tourist spots like the Grand Canyon \([1](https://www.change.org/p/navajo-nation-president-ben-shelly-stop-plans-to-develop-the-grand-canyon), [2](https://www.oars.com/blog/grand-canyon-development-threats-real/), [3](https://www.nationalgeographic.com/magazine/2016/09/grand-canyon-development-hiking-national-parks/)\) to preserve the natural beauty and sights of it.
+1.3.10.7.4.3.2. Pro: Ads can be distracting to where people might focus more on them than on survival.
+1.3.10.7.4.3.3. Pro: Ads may get in the way of emergency communication with Earth if they hog bandwidths, get in the way \(due to protecting a company's image\), or block visuals of at-hand situations.
+1.3.10.7.4.3.4. Con: Ads may help fund Mars colonies.
+1.3.10.7.5. Pro: Resource plundering may leave planets stripped and environmentally destroyed/uninhabitable.
+1.3.10.7.5.1. Con: Mars is inhabitable, now.
+1.3.10.7.5.2. Pro: Even if we are okay with resource plundering, the more stripped a celestial body becomes, the further out people have to go to get more of the tapped resource.
+1.3.10.7.5.3. Pro: Once one-time use chemical resources \(like fusing of elements, creating irreversible chemical reactions...\) are consumed completed, they can no longer be recouped.
+1.3.10.7.6. Pro: People might overpopulate the worlds they inhabit
+1.3.10.7.6.1. Con: Mars is only one planet, there is nothing to stop Humans colonising other planets and moons once we have the technology and experience.
+1.3.10.7.6.2. Con: -> See discussion #9226: Global overpopulation is a myth.
+1.3.10.7.6.3. Con: Probably this is exactly why we should colonize Mars.
+1.3.10.7.6.4. Pro: -> See 1.3.10.7.1.
+1.3.10.7.7. Pro: The most inhospitable places on Earth have much more life \(i.e. biodiversity\) than any corner on Mars. We should use our efforts, intelligence and creativity to create technologies and especially the culture of caring for this planet that has an immensity of life.
+1.3.10.7.7.1. Pro: The energy and cost involved with colonising Mars is better spent at solving the immediate problems on Earth.
+1.3.10.7.8. Pro: As a species we are highly destructive example being the Earth, we need to deal with the issues we have on this planet before squandering more resources to go and destroy another planet.
+1.3.11. Con: The colonisation of Mars will be the first step in a new catalyst of human colonisation missions. It gives us a possibility to learn from the mistakes of past colonisation and develop new ways to colonise in a less damaging manner.
+1.3.11.1. Pro: People will not continue devastation, but stop/reduce it if they try to develop utopian ideals there. Mars is a 2nd chance for people to correct their mistakes and get them right there after they messed them up first on Earth.
+1.3.11.2. Pro: These benefits can extend back to Earth. Instead of trying to get it right on Earth and then expanding our condition to Mars, the reverse may be more likely to succeed and get us out of our devastating tendencies to begin with.
+1.4. Pro: Colonizing Mars provides an [opportunity](https://www.youtube.com/watch?v=f9FDHrtp2Oo) to test out various utopian ideals.
+1.4.1. Pro: This can start a path where each future colonization \(of other celestial bodies\) is progress and improvement from the last one.
+1.4.2. Pro: On Mars, through genetic editing, we could [create a new species of humans](https://youtu.be/jAhjPd4uNFY?t=11m53s).
+1.4.2.1. Pro: The Martian colony would have a people genetically adapted to its gravitation and environment.
+1.4.3. Con: Utopian ideals have yet to work on Earth, their implementation or success on Mars or another colony is not assured.
+1.4.3.1. Pro: Their failures are especially evidenced during the utopian reform movements of the 1800s in the US \([1](http://www.ushistory.org/us/26b.asp), [2](https://www.nps.gov/nr/travel/amana/utopia.htm)\).
+1.4.4. Pro: This will give humanity a fresh start \(like a [second chance](https://www.youtube.com/watch?v=f9FDHrtp2Oo)\) to remove the negative aspects of society and implement new capabilities \(like technology\) to live with a better quality-of-life.
+1.4.4.1. Pro: Humans can send automatons to 3D print and edit the entire infrastructure of civilization on Mars before they even step foot on its surface.
+1.4.4.1.1. Pro: Humanity should over time colonise Mars, but not primarily with humans. Rather we should develop an interplanetary Internet of Things, including autonomous and semi-autonomous machinery.
+1.4.4.1.2. Pro: Not only is this cheaper and safer, machines have many advantages making them more suitable to space. They can be miniaturised, don't need to breathe, and can work predictably in vacuum 24 hours/day, don't suffer from boredom or mental health issues, have synergies with other machines, sensors and actuators.
+1.4.5. Con: If it is desirable to test out such utopias on Earth first, as it might be a lot easier to do that on an island here than in space.
+1.4.6. Pro: The concepts that inspired the United States constitution were developed in Europe but could only be put in practice in a new land free from existing power structures. Mars presents the same opportunity for adopting new economic models and ways of life free of the baggage of history.
+1.4.6.1. Con: The Americans had to fight for their independence, and they likely couldn't have won without some European allies.
+
+Colonising Mars assuming you want to test "ideals" over there, knowing that this would mean war with Earth, isn't exactly a terrific idea.
+1.4.7. Con: In order to test utopian ideas in this colony, it would have to be self-sufficient.
+
+That's because if the colony is not self sufficient, then you can't test them without Earth approval.
+And if Earth approves, then you don't need a space colony to test them in the first place.
+1.5. Pro: Colonizing another planet is in line with the human spirit of exploration.
+1.5.1. Pro: Humanity has a habit of saying "Watch me." when God/The Nature/Your Deity says "You can't go there. It's impossible." I doubt Mars will be any different. Exploring and inhabiting is a goal in itself.
+1.5.2. Pro: Mars gives humanity a mission \(a.k.a. goal\)
+1.5.3. Con: That exploration will not last forever with today's technologies: [1\) we have no way of going past the edge of the universe and 2\) the universe is expanding so quickly that we need to travel past the speed of light to catch up to them, which is not yet possible](https://www.youtube.com/watch?v=ZL4yYHdDSWs)
+1.5.3.1. Con: Even though our capabilities are limited at this time, this should not prevent us from space exploration and colonizing Mars \(a.k.a. enjoy and utilize the extents of our capabilities to the fullest we possibly can\).
+1.5.3.1.1. Pro: We can think of better technology as we move forward through exploration/colonization.
+1.5.3.1.2. Pro: Spreading out further into space might lead us to solve the issues posed here. For example, when we reach the edge of the universe, we might figure out how to go past it.
+1.5.3.1.3. Pro: We don't need to go to the edge of the universe, there is already [plenty of planets](https://www.universetoday.com/30296/how-many-planets-are-in-the-galaxy/) to explore for millions of years in our galaxy.
+1.5.3.2. Con: Exploring "past the edge of the universe" is not currently a realistic space travel project, since the universe currently measures about 13.8 billion light-years \(and is getting larger everyday\).
+1.5.3.2.1. Pro: By the time people will try to go to the other side of the universe, it might be impossible, as galaxies are going to be moving away from each other faster than the speed of light, which will not be possible to travel faster than this \(theoretically and at least by today's modes\)
+1.5.3.2.2. Pro: Common space exploration projects are: colonizing intra-solar planets and moons, exploring neighboring stars \(Alpha Centauri\), and, on a very long-term schedule, exploring the Milky Way.
+1.5.4. Con: Humanity is not prepared for exploration \(in terms of space colonization\) at this moment.
+1.5.4.1. Pro: Space colonization has not been attempted before, so the success of colonization is uncertain
+1.5.4.2. Pro: In time, yes, however, colonization should not be the priority of any single government or entity as yet. There's little value now to warrant the cost of the trip.
+1.5.4.2.1. Pro: There is no purpose, as the past people searched for unexplored lands \(such as the [first explorers of the New World, such as Magellan](http://resourcesforhistoryteachers.wikispaces.com/Columbus%2C+Magellan%2C+Ponce+de+Leon+and+Vespucci)\). However, the universe outside of Earth is currently known/mapped.
+1.5.4.2.1.1. Con: These maps exist due to prior exploration and investigation. Colombia did not have the benefit of Satellites, probes, rovers and the Hubble telescope. Knowing what is out there will allow us to prepare for colonisation of the Solar System.
+1.5.4.2.1.2. Con: Not everything is mapped in detail, making those areas worthwhile to explore.
+1.5.4.2.1.3. Con: Not everything can be mapped \(such as experiences and emotions\), which is a reason why exploration should happen.
+1.5.4.3. Pro: We barely manage the friendly Earth resources and we claim that on a hostile Mars we can manage things better. Illogical, irational.
+1.5.4.4. Con: This is not an argument against the proposition that exploration is in line with the human spirit. It's simply an assertion that space colonization is not yet technologically possible.
+1.5.5. Pro: Humanity since its existence has been exploring and never stopped with innovations, that is on our Human DNA and we have a duty to explore and inhabit Mars as the Earth is our homeland but has several limited resources, famine as a result of  climate changes and pollution among many factors.......therefore we should thrive towards the Space exploration and give our Earth a booster and new hope for our Civilization.
+1.5.6. Pro: Mars allows humans to have many firsts for human \(such as live entire lifetimes outside of Earth and personally communicate from another planet\).
+1.5.6.1. Con: People on Earth lived here so long that they are used to it and are not willing to move anywhere else.
+1.5.6.1.1. Con: Even if most people hold this view, there are already many people who want to live on Mars.
+1.6. Pro: Mars colonization will help protect species \(especially humans\) against extinction level events.
+1.6.1. Pro: Colonizing Mars is a stepping stone to further expansion that could help preserve the human race
+1.6.1.1. Con: We do not know how this could affect our species from a evolutionary perspective. Colonies could house generations and those could potentially be affected by living there.
+1.6.1.1.1. Pro: If only a few people colonize the planet \(which is very likely\), then we could see [bottlenecks and founder effects](https://evolution.berkeley.edu/evolibrary/article/bottlenecks_01). These could lead to less genetic variation and more genetic diseases.
+1.6.2. Pro: Mars would occupy our time to the extent that we wage less war.
+1.6.2.1. Con: War between Terrans and Martians could easily be a new possibility. In this scenario, WMD's would no longer be mutually assured destruction.
+1.6.2.1.1. Con: The teamwork and high levels on communication will decrease the extents to wage interplanetary war.
+1.6.2.2. Pro: A Mars colony would allow humanity a Collective "us" which would refer to everyone on earth, a strong tool to craft world peace.
+1.6.2.3. Pro: Martians have lower tendencies to wage war when they are on Earth.
+1.6.2.3.1. Pro: Wars on Earth might decrease too as Earthlings will have better and more jobs similar to the Martians \(respectable, progressive\) as well.
+1.6.2.3.2. Pro: The reasons range from the lack of proximity to Earth \(Martians will not spend much time on Earth to get involved in war\) to better employment \(high wages and respectable, progressive fields: aeronautic, research, etc.\)
+1.6.2.3.3. Pro: Martian colonists originating from different countries need each other more than Earthlings from different countries. This prevents that war between countries on Earth spills over to Mars.
+1.6.2.4. Con: Wars on Earth could be brought on by countries not occupied by Martian activities.
+1.6.2.5. Pro: People on Mars could give 3rd-person perspectives that might change people's minds before starting a war.
+1.6.2.6. Con: The stakes are so high that if going to Mars is not possible, it would be a great letdown. The tensions created could influence war creation.
+1.6.2.7. Con: Going to Mars just transitions wars from Earth to Mars \(since wars go where humans go\).
+1.6.2.7.1. Pro: If the US doesn't colonise Mars, our enemies may do it first.
+1.6.2.7.1.1. Pro: If other countries colonize Mars before the US does, then the US misses its chance to colonize it.
+1.6.2.7.1.1.1. Con: This will delay leaving the planet for the US, as more efforts and resources will need to be redirected to a new but even harder plan than going to Mars.
+1.6.2.7.1.1.2. Pro: The plan B might be further out and less suitable than Mars.
+1.6.2.8. Con: Wars will increase because of the new land to claim \(land ownership is the cause of most wars\). Most of the land wars on Earth are settled so they will resume in space.
+1.6.3. Con: If we do not know how to prevent extinction on Earth, then going to Mars will not solve anything \(as it makes the situation no different or better\). Thus, cleaning up Earth's problems will make migrating to Mars to prevent extinction a success.
+1.6.3.1. Con: If we resolve the factors that potentially cause extinction on Earth, then there would be no need to move to Mars
+1.6.3.2. Pro: The success will be two-fold: it allows humanity to survive and thrive not only on Mars, but also on Earth.
+1.6.4. Con: Running away to Mars might ironically cause the extinction humans are trying to prevent on Earth.
+1.6.4.1. Pro: Colonization may inadvertently lead to a new species \(human or other\) from the human population, possibly leading to human extinction.
+1.6.4.1.1. Con: To be a multiplanetar species is a positive next step of evolution
+1.6.4.1.2. Pro: Humans moving to Mars prevents most or all of the [Hardy-Weinberg equilibrium principle](https://www.thoughtco.com/hardy-weinberg-equilibrium-definition-4157822) conditions from being met to prevent speciation or extinction from occurring. Keeping people in one place, Earth, is genetically better to protecting humans than 'diversifying' is.
+1.6.4.1.2.1. Pro: Even if many or all humans left Earth, colonization causes migration of the gene pool and natural selection creates adaptations to new environments.
+1.6.4.1.2.2. Pro: Small populations going to Mars may induce genetic drift, bottlenecking, and the [founder effect](http://www.hammiverse.com/lectures/23/4.html).
+1.6.4.1.2.3. Pro: Being exposed to more radiation on Mars \(due to a smaller atmosphere\) would increase the risk of mutations.
+1.6.4.2. Pro: Paranoia of a potential extinction might cause humans to not think straight and cause them to make this poor decision, vs staying on Earth and focusing on surviving there.
+1.6.4.3. Pro: If the colony is not self-sustaining, it would be ultimately ineffective in the long-term.
+1.6.4.3.1. Pro: -> See 1.2.
+1.6.4.3.2. Con: A Mars colonization effort could be an opportunity to develop the required sustainable technologies. These could also be applicable elsewhere.
+1.6.5. Con: The majority of possible extinction events; nuclear war, asteroid impact, supervolcano etc, would probably still leave areas of Earth far more habitable than the surface of Mars. Mars would be an incredibly difficult place to live, likely unsustainable without Earth to supply it.
+1.6.6. Pro: There are external threats that cannot be mitigated by policy, such as "planet killer" space objects.  Having people in multiple locations greatly reduces the extinction threat of these events.
+1.6.7. Con: Giving people a Martian psychological escape clause would have the effect of diminishing their commitment to sustain a healthy Earth.
+1.6.7.1. Con: Colonizing Mars will lessen the effects of overpopulation on Earth
+1.6.7.1.1. Con: The Earth may in fact [not be overpopulated](http://www.kialo.com/global-overpopulation-is-a-myth-9226).
+1.6.7.1.2. Con: Colonizing Mars might cause the Earth to gain more population.
+1.6.7.1.2.1. Pro: Mars could get overpopulated too and see people moving back to Earth because of it
+1.6.7.1.2.2. Pro: Individual martians could decide to move to Earth, which increases Earth's population
+1.6.7.1.2.3. Pro: Martians could decide to have children on Earth if they move back
+1.6.7.1.2.4. Pro: Earthlings might decide to have more children for the purposes of having enough people to send to Mars
+1.6.7.1.2.5. Con: This is not an issue, because when people see Mars abandoned, then people on Earth will go back to Mars. There would be a stabilization point somewhere.
+1.6.7.1.3. Con: Colonizing Mars might not help the Earth's population as Earth's population voids could get refilled when people leave for Mars
+1.6.7.1.4. Con: There are other options to lessen Earth's population that are less cumbersome than going to Mars
+1.6.7.1.5. Pro: Mars will pave the way for colonization on other celestial bodies to provide more choices for when Earth becomes overpopulated.
+1.6.7.2. Con: Would we want to sustain a healthy Earth if it goes past a point of no return \(like in the movie [Elysium](http://www.imdb.com/title/tt1535108/)\)?
+1.6.7.2.1. Pro: Not enough people show efforts towards sustaining a healthy Earth. For example, the Amazon rainforest is deforested at alarming rates and increasing. The reason why is mainly due to [raising cattle](http://www.greenpeace.org/international/en/news/features/cattle-mapping/) yet there is only a 1[% rise in veganism in the past 3 years](https://www.riseofthevegan.com/blog/veganism-has-increased-500-since-2014-in-the-us) and only [3-13% of the US is vegetarian](https://www.npr.org/sections/13.7/2017/06/28/532880755/is-a-no-meat-world-really-better).
+1.6.7.2.1.1. Pro: With the growing population, the damage will only get worse.
+1.6.7.3. Con: Humanity is not required to stay on Earth if it chooses to leave.
+1.6.7.4. Con: Ruining one planet \(Earth\) does not matter as there are at least over 2,800 known exoplanets, not to mention moons of those planets that are possible to live on.
+1.6.7.4.1. Con: Earth is the only option right now to survive on. We should not destroy it just because there are other options when there is no capability right now to access and survive on them.
+1.6.7.4.2. Pro: When living on another celestial body becomes a reality, it will not matter to humans whether Earth gets destroyed or not.
+1.6.7.4.2.1. Con: It does matter if people are still living there.
+1.6.7.4.2.2. Pro: Abandoning Earth will not affect humanity as long as colonies are stable elsewhere.
+1.6.7.5. Pro: We should try to preserve Earth as a backup plan in case our exploration leads to disaster \(as colonizing other planets could itself lead to extinction if we leave Earth\). Earth is the only celestial object with a proven track record for sustain humanity in the universe.
+1.6.7.6. Con: Attempting to make Mars healthy is the only way to learn how to make a planet healthy. Colonization of Mars would only increase our understanding of how to treat a planet well.
+1.6.7.7. Pro: Earth can be seen as obsolete with the clause, and could cause people to want/try to improve the new idea \(Mars\) while neglecting the old/damaged \(Earth\).
+1.6.7.7.1. Pro: People sometimes prefer to start over than to fix what is already broken.
+1.6.7.7.2. Pro: Moving to Mars will cause Earth to be neglected even more, making the capabilities for extinction are even greater.
+1.6.7.8. Pro: In the movie Elysium, when some people migrated off Earth, they left most of the population behind to face the elements \(a.k.a. the destruction that humans brought onto Earth that are too overwhelming to exist with: overpopulation, disease...\)
+1.6.7.9. Con: The vast majority of people would have to stay on Earth anyway due to excessive costs of such an 'escape route', and thus the matter of preserving the Earth would still be relevant.
+1.6.7.10. Con: Show me this "commitment to sustain a healthy Earth" of which you speak. We've only seen 60 years of token efforts, half-measures, and excuses.  CO2 emissions continue to rise rapidly everywhere but the EU.  Atmospheric saturation of CO2 no longer looks like a hockey stick; it's starting to look like a vertical line.
+
+[ourworldindata.org](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
+1.6.7.11. Pro: The fact of safe humanity on Mars can allow nuclear war on Earth. Because the only reason of banning nukes is the risk of extinction.
+1.6.8. Pro: Humans could save and backup current species of living things on Earth to Mars. Even just humans going will take thousands of species of bacteria etc. in our guts.
+1.6.9. Pro: Interstellar travel is imperative for the future of mankind. If mankind is to survive and thrive in a universe that so far appears to be devoid of life this is the last frontier we must expand into. Mars is the logical place to start. There is a little atmosphere available, water and relative close proximity to Earth makes it the most enticing. More importantly, the temperatures are within a range that could be handled with present technology. It's not a question of if, it's a question of when.
+1.6.9.1. Con: If interstellar travel is the goal, colonizing Mars is not the right step towards it. Unless we absolutely need a colony, we should spend our resources on developing technologies for interstellar travel rather than wasting them trying to make a living in a planet with hostile atmosphere.
+1.7. Pro: Mars has benefits not found on Earth
+1.7.1. Pro: Mars can provide resources not found or scarce on Earth \(such as [deuterium](http://www.nss.org/settlement/mars/zubrin-colonize.html)\)
+1.7.1.1. Pro: Mars will start a new era of [space mining](https://www.ft.com/content/78e8cc84-7076-11e7-93ff-99f383b09ff9).
+1.7.1.1.1. Pro: Mars is [next to the asteroid belt](http://www.crystalinks.com/asteroidbelt1.jpg), which will [popularize asteroid mining](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/Planetary_Resources_Infographic_hunhvv.jpg).
+1.7.1.1.1.1. Con: Plenty of Near-Earth Asteroids \(NEAs\) are easier to reach Delta-V wise from Earth, than Asteroid belt asteroids from Mars. I don't believe this is a case for Mars. I would say the reverse, that asteroid mining of NEAs would in fact enable Mars colonisation.
+1.7.1.1.1.2. Pro: Asteroid mining could be a great [boost to Earth's economy](http://deepspaceindustries.com/mining/).
+1.7.1.1.1.2.1. Pro: In addition, the more asteroids that are mined, the less of a threat they are to Earth \(as they disappear or get lighter with resource use\).
+1.7.1.1.1.3. Pro: Asteroids have [plentiful minerals](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/15308/Asteroid-Mining-Who-Wants-to-be-a-Trillionaire.aspx) that are rare on Earth
+1.7.1.1.2. Con: If Mars has a role in space mining it will be logistical not for resources, the cost of returning anything from the surface compared with asteroid mining makes it prohibitively expensive.
+1.7.1.2. Con: Extraction and transport of resources to the location of highest worth would be expensive, slow, and also resource intensive.
+1.7.1.2.1. Con: The escape velocity is much lower for Mars, making it not too resource intensive.
+1.7.1.2.2. Con: Space traveling will be more efficient when we figure out how to get to Mars that this problem would be addressed along with it
+1.7.1.2.3. Pro: When Mars is further away from Earth, the difficulties will increase.
+1.7.1.2.4. Con: If people are traveling back and forth anyway, resources could piggyback their rides for little cost.
+1.7.1.2.5. Con: Rare minerals that are used in small quantities and are more expensive to manufacture in space might be economically feasible
+1.7.1.3. Con: Unlike asteroids Mars has a deep gravity well making resource extraction unprofitable, not even pure platinum would be worth enough to cover the cost of return to Earth.
+1.7.2. Pro: Mars has some features to it that are unique \(and thus valuable to access\) in the solar system
+1.7.2.1. Pro: The tallest mountain and volcano is on Mars: [Olympus Mons](https://www.universetoday.com/15588/the-largest-volcano-in-the-solar-system/). This mountain would create a large tourist economy
+1.7.2.2. Pro: Mars has the [largest canyon \(Valles Marineris\) in the solar system \(10 times larger than the Grand Canyon\)](https://solarsystem.nasa.gov/planets/mars/in-depth/)
+1.7.2.3. Con: The [body temperatures of a person would vary greatly from their head to toes](https://www.jpl.nasa.gov/edu/pdfs/ss_extreme_poster.pdf)
+1.7.2.4. Con: Mars has the [largest dust storms](https://space-facts.com/mars/) in the solar system
+1.7.3. Pro: If we Colonize Mars we will learn to appreciate what a wonderful planet we have, currently we have no way to compare and therefore understand the excellence of our Earth.
+1.7.3.1. Pro: The [Earthrise](https://en.wikipedia.org/wiki/Earthrise) and '[Pale Blue Dot](https://www.nasa.gov/jpl/voyager/pale-blue-dot-images-turn-25)' pictures gave a boost to a collective understanding of Earth as a closed ecosystem.
+1.7.3.2. Pro: We are of the Earth, we do not know what we may lose by leaving to colonise other planets.
+1.7.3.2.1. Con: We have more knowledge of what is on Earth than anywhere else in the universe. The extent of us living here allows for extensive study of it.
+1.7.3.3. Pro: Colonizing Mars provides a third-person perspective that cannot be ascertained on Earth
+1.7.4. Pro: Certain health conditions that exist on Earth would be rare to non-existent on Mars.
+1.7.4.1. Pro: People would get skin issues \(such as sunburn and skin cancer\) from the Sun less often, as Mars is much further away from the Sun than Earth.
+1.7.4.1.1. Con: People would more likely get Vitamin D deficiencies then, although that could be remedied by pills. Even then, people would need to take more pills than on Earth.
+1.7.4.1.2. Con: Unless properly shielded, people could actually get more skin damage from the Sun and cosmic radiation, because on Mars there is no ozone layer or significant magnetosphere to stop UV rays and charged particles.
+1.7.4.1.2.1. Con: Mars does not need ozone layers or magnetospheres to keep people from getting significant sun exposure, as less light is getting to people to begin with. Mars is about [2x the distance to the Sun than Earth](https://www.space.com/16875-how-far-away-is-mars.html), which means Martian get 1/2 the light that Earthlings do.
+1.7.4.2. Con: People might be affected more by dust in their lungs than on Earth, due to the strong dust storms on Mars.
+1.7.4.3. Pro: Pollution would not be a health issue, as there is little to no atmosphere on Mars.
+1.7.4.3.1. Con: Living in closed, isolated areas might mean that people on Mars might have to live in less clean environments than they otherwise would on Earth, unless if they all have very good air and water filters.
+1.7.4.4. Con: People might get more bone fractures, as Mars has less gravity to keep them strong.
+1.7.4.4.1. Pro: People could get less back issues due to gravity, because the gravity on Earth is stronger than on Mars.
+1.7.5. Con: Going to Mars can also make matters worse on Earth.
+1.7.5.1. Pro: Sending many rockets into space can create [more trash](https://www.msn.com/en-us/news/us/spacex-rocket-debris-washes-up-along-outer-banks-beach/ar-BBOtsAN?OCID=ansmsnnews11) on Earth.
+1.8. Pro: Mars would lead to an explosion of scientific development. The results would lead to longer lives, more fulfillment, and more jobs.
+1.8.1. Con: We already know a lot about Mars \(through knowledge of its [composition](https://space-facts.com/mars/) and extensive maps\), so there is not much left to explore scientifically.
+1.8.1.1. Con: Satellites, rovers and telescopes can only tell us so much. Research carried out by a team on the surface will provide us with information we perhaps could not have imagined.
+1.8.1.2. Con: We have a lot more to learn, which is why they are still sending out missions to Mars \(like [InSight](https://mars.nasa.gov/insight/)\).
+1.8.2. Pro: We can focus our budget on people who are productive and contribute to the economy instead of those who detract and take from it.
+1.8.3. Pro: A new age space race \(to Mars\), propelled by the spirit of competition, could lead to major scientific breakthroughs; in the past, competition has been known to lead way to increased productivity, efficiency, and development.
+1.8.3.1. Pro: The US was the forefront of the space race and could be the forefront again in this new space race \(a.k.a. interplanetary colonization\). This could help the US regain its 'worldly status' image again
+1.8.3.1.1. Con: Surely we are better to move forward as a species, as a planet, then simply advancing the interests of one nation. Surely we are stronger together as a Global society; this strength will be invaluable in the colonisation of Mars.
+1.8.3.1.1.1. Con: The world looks up to the US. Whatever the US does, the world will follow.
+1.8.3.1.1.1.1. Con: Changing geopolitical trends may see China surpass the US as the dominant world power. And, whilst the US's historical cultural imperialism will continue to linger in the global zeitgeist ensuring that American ideals loom large in the imaginations of many around the world, the historical foreign policy of the US combined with more recent isolationist leanings could see the influence of the US diminished on the global stage.
+1.8.3.1.1.2. Con: Getting the entire world together to go to Mars is much more difficult than one nation. Even one nation is hard as-is.
+1.8.3.1.1.2.1. Con: As Global Climate Changes makes the planet more inhospitable in the short to mid term, Humanity will become united in adapting to the "Common Enemy" that we will make of the volatile climate. And, whilst over the long term, we will adapt and surmount the challenges posed by rapid Climate Change, we will also find ourselves stronger and more united for having survived the Climate fight--Humanity united in comradery through the battles of "The Great Anthropocene War "
+1.8.3.1.1.2.1.1. Con: The issue is that smaller countries do and probably will not have the capabilities that developed countries contain to propel humanity off Earth. Thus, help from other countries are insignificant to the process
+1.8.3.1.1.3. Con: The world does not have a global society and so one would need to be created just to go to Mars. This adds an extraneous intermediary to this already challenging task.
+1.8.3.1.1.3.1. Con: Colonisation of out Solar System will act as a unifying agent. The endeavour of expanding the realm of our Species will alter and expand the mindset and perspective through which Humanity views itself. Whilst during the initial colonisation of Mars many may choose to adhere to the archaic and parochial allegiances of old Earth, settling the new frontier in space will be mirrored by a new sociopolitical  frontier on Earth and the end to arbitrary borders.
+1.8.3.1.1.4. Con: Usually each nation advances their own image but within in an [international collaborative, such as the International Space Station \(ISS\)](https://www.nasa.gov/mission_pages/station/structure/elements/partners_agreement.html), not as a 'global society'.
+1.8.3.1.1.4.1. Con: As a result of space colonisation, humanity will evolve beyond Nation States and instead identify themselves first by their Species \(Human\) and then by their planet or colony of origin.
+1.8.3.1.2. Con: Benefits for the image of the US \(state that represents 327M out of the 7.457B of estimated living humans\) should not have any relevance on global matters.
+1.8.3.1.2.1. Con: The 7.457B still looks up to the 327M though, not quite the other way around yet when referring to aeronautics for aspiration: [www.kialo.com](https://www.kialo.com/is-the-usa-a-good-country-to-live-in-7840/7840.0=7840.1/=7840.1)
+1.8.3.2. Pro: Colonizing Mars will bring us new challenges that we will get to solve peacefully \(like health competition\) through science.
+1.8.3.3. Con: -> See 1.3.10.2.4.1.
+1.8.4. Pro: Going to Mars could lead to technological breakthroughs.
+1.8.4.1. Pro: The means to get to Mars will lead to creating more innovative technologies that uses reusable magnetic propulsion as opposed to the highly consumptive rocket fuel that we use. This would made Mars very affordable.
+1.8.4.2. Pro: The scientific journey involves using space analogs on earth, which leads to technological and medical spin offs improving remote medical care. [oewf.org](http://oewf.org/)
+1.8.4.3. Pro: The benefits would help not only those on Mars, but on Earth as well.
+1.8.4.3.1. Pro: This would lead to a resurgence in interplanetary-capable rocket technology after its decline since the Apollo program 50 years ago
+1.8.4.3.2. Pro: Students on Earth could be educated in the advancements on Mars in their curriculum
+1.8.4.3.2.1. Pro: This could get students interested in STEM fields and set them up for success.
+1.8.4.3.3. Pro: Innovations on Mars could apply to consumer uses on Earth, just like how [space-age technology](https://spinoff.nasa.gov/pdf/CH_web.pdf) used to
+1.8.4.3.4. Pro: The innovations of growing food in resource-scarce environments \(such as hydroponics\) could help when climate change causes similar conditions on Earth.
+1.8.4.4. Pro: Transhumanist technologies: such as life extension, AI-enhanced intelligence, and genetic modification would likely be further developed and further explored on Mars to allow colonists to better adapt to harsh planetary conditions \(that are different than Earth\).
+1.8.4.5. Con: Prioritizing colonization of another part of the solar system might provide equal or better opportunities for technological breakthroughs.
+1.8.5. Pro: Colonizing Mars brings us one step closer to finding other life in the universe.
+1.8.5.1. Con: [Interplanetary contamination](https://www.nasa.gov/feature/new-report-addresses-limiting-interplanetary-contamination-during-human-missions) depletes the chances of finding life elsewhere \(by creating false positives\).
+1.8.5.2. Con: This might not be good if we meet them because we could spread negative attributes \(societal and cultural\) onto them
+1.8.6. Pro: Colonizing Mars will provide an unparalleled opportunity for humans to learn even more about their physiology and psychology.
+1.8.7. Con: We do not need to leave Earth just for scientific development. There is a lot to gain scientifically just by staying and observing Mars from Earth \(like [missions](http://www.chartgeek.com/wp-content/uploads/2011/08/missions-to-mars-21.jpg)\).
+1.8.7.1. Pro: Instead, we just need successful and highly-relevant missions to learn what we need to know scientifically about Mars.
+1.8.7.2. Pro: This is evidenced by all the scientific gains already made by Mars missions, like the [Mars Curiosity Rover](http://www.teledynees.com/about/success-stories/mars-curiosity-rover).
+1.8.7.3. Pro: Most of the equipment made for analyzing observations and data are on Earth. There is no need to recreate what we already have on Earth on Mars.
+1.8.8. Con: Any extra-terrestrial colony would be a boon for scientific development. This claim is not unique to Mars.
+1.8.9. Con: Any large project with strong motivation behind it would spur scientific development. That doesn't mean it's the best use of resources. For example, wartime research has the similar scientific effects \(radar, atomic research, computing and code breaking, rocketry, etc\) but the negative effects must be balanced against the investment. Money and effort spent on one thing means that it cannot be spent on another.
+1.8.10. Pro: Astronomy can advance by setting up telescopes on Mars where there is less light from the Sun and little atmosphere to interfere compared to Earth.
+1.8.11. Pro: Since time is relative to objects and their momentum, being multiplanitary will force humanity into a position in which they must learn to better understand its influence.
+1.8.11.1. Pro: When colonizing Mars, humanity will travel through time at two different rates \(as time is relative to mass and Mars is [smaller](https://www.space.com/16871-how-big-is-mars.html) than Earth\). This instance provides a valuable encounter that enables a better study of time relativity than ever before.
+1.9. Pro: Starting space colonization \(starting with Mars\) can boost the economy and the process of job creation from anywhere in the universe.
+1.9.1. Pro: Space tourism might be a great economic stimulator.
+1.9.1.1. Pro: Right now being a space tourist is only possible for the super rich as ticket price comes at about [$75mn](https://www.theverge.com/2017/2/28/14761058/nasa-russia-spacex-soyuz-seats-contract-space-station-iss).
+1.9.1.1.1. Con: That is a lot of money generated from those who pay \(millions of dollars!\)
+1.9.1.1.2. Con: Even though people are not going into space for cheap, Virgin Galactic sold about [700 tickets for $250,000](http://metro.co.uk/2016/03/14/you-could-soon-be-able-to-take-a-holiday-in-space-for-7000-5752424/), which is $175 million dollars made by this company alone!
+1.9.2. Con: Mars might be more automated than Earth and thus will likely not lead to more jobs.
+1.9.2.1. Pro: Seeing Mars succeed in automation may lead Earth to follow suit \(in attempts to remain competitive\).
+1.9.2.2. Con: Mars will most likely need people to have jobs in order to succeed \(at least at first\).
+1.9.2.3. Con: The process of colonization itself would require great amounts of human labor, thus creating jobs.
+1.9.3. Con: Interplanetary economies have never been accomplished before. This causes uncertainty as to whether it will be a success.
+1.9.3.1. Pro: The investments and funding placed into space ventures may be a waste if it does not take off.
+1.9.4. Pro: Lots of investment is going into space industries \(such as space mining\) and will see a pay off once Mars starts the colonization process.
+1.9.4.1. Pro: The newfound resources gained from space can boost the economy on Earth.
+1.9.5. Pro: Mars may bring new opportunities not found on Earth.
+1.9.6. Pro: Transport on Earth will improve when we can use [city-to-city rockets](https://www.theverge.com/2017/9/29/16383048/elon-musk-spacex-rocket-transport-earth-travel) instead of planes for long distance flights as envisioned by
+1.9.7. Con: Any kind of space colonization would create jobs. This is not an argument to start with Mars specifically, if another destination proves to be better.
+1.9.8. Con: There is no economic return on investment \(ROI\) for Earth's investors, and it would cost a lot of money that could have been spent on more important problems
+1.9.8.1. Pro: Also the money spent on creating economic benefits from space ventures would be more than the profits we get out of it, making an ROI not possible.
+1.10. Con: Colonising Mars will take an unbelievable amount of natural resources from Earth.
+1.10.1. Con: It would be wasteful to not use what time/resources we currently have to colonize another solar system first. This heightens the human races' survivability more than putting all the eggs in one Solar System.
+1.10.1.1. Con: A colonisation of Mars would be invaluable experience for such a project as interstellar colonisation.
+1.10.1.2. Con: First step should be the moon, where all later exploration should be launched from, then Mars and then when we have developed a minimal expertise, set our eyes on other solar systems... We must learn to crawl before we can run! ;\)
+1.10.2. Con: The colonization of Mars would only benefit the elite due to a great amount of resources going towards colonization instead of helping the impoverished, and the fact that those sent to Mars would most likely be privileged individuals.
+1.10.2.1. Pro: A poor impoverished Earth would become a problem of its own when the elites leave as Martians depend on Earthlings to maintain their existence \(at least at first\).
+1.10.2.2. Pro: Mars becoming a wealthy utopia does not sound like a bad idea. Eventually when travelling to Mars becomes cheaper more people will enjoy the new civilization the wealthy built for the poor to enjoy.
+1.10.2.2.1. Pro: By then the elite will be onto further reaches in the solar system and universe. With every step, improvements are made. At that rate, the poor will follow the footsteps of the rich and enjoy a better life with each step.
+1.10.2.3. Con: There is little room for error in starting and maintaining a colony on Mars. Only those with skills and abilities \(like the Old American West's pioneering spirit\) to contribute would be able to go first, as there is little tolerance for dead weight \(elite or not\).
+1.10.2.4. Con: The elite increase the chances that colonizing Mars will be a success for everyone.
+1.10.2.4.1. Pro: They have the capabilities to that not everyone has: enough money to take care of their Earthly needs while being on another planet.
+1.10.2.4.2. Pro: They can be the [early adopters](http://4.bp.blogspot.com/-HFIjYfmLOaU/T2JmQIQDSSI/AAAAAAAAAFs/WcYBngcubY4/s1600/adoptioncurve1.jpg) \(a.k.a. guinea pigs\) for innovations by testing out what works and what does not, so the rest of the world has an easy transition when it comes to their turn.
+1.10.2.5. Con: From a utilitarian standpoint, the elite only benefiting is better than no one getting to Mars. At the very least, they provide a chance that others get to go, as most people would not be capable of getting there whether elite are able to go or not.
+1.10.3. Con: The amount of resources will be minuscule compared to - say - the amount humanity spends on wars, or on preserving the [disposable economy](http://truth-out.org/buzzflash/commentary/a-consumer-economy-depends-on-disposable-products-and-disposable-people) and non-essential materialism \(from plastic straws to elaborate motor vehicles\)
+1.10.4. Con: When space mining proves a success, the resources used to go to Mars could be replenished and then some.
+1.10.5. Con: Less people will be on Earth so it evens out \(to the extent of how many people leave\)
+1.10.5.1. Con: Even if we were to send a million people to mars that would only be a small fraction of the earths total global population.
+1.10.6. Con: Once people settle on Mars, they will use the resources there instead of Earthly ones.
+1.10.6.1. Pro: Even if at first there are some key imports from Earth, there will be a huge economic incentive to start producing some resources locally, simply because it will be easier than to transfer those same resources from one planet to another.
+1.10.6.2. Con: Earth has a number of unique resources that may not be able to be found or created on Mars, at least not immediately.
+1.10.7. Pro: It is a mystery as whether it is moral to take resources away from one population \(Earthlings\) to give to another \(Martians\). This incorporates favoritism, which tends to be amoral.
+1.10.7.1. Pro: If we send people to Mars, then we would need to make sacrifices somewhere. This means only one side gets favored at the expense of the other side, mainly Martians getting Earthly resources or vice versa: Martians do not get to go to Mars to protect Earthlings.
+1.10.7.2. Con: Morality really entering into the equation is uncertain. The real question is: Do we gain anything as a species in attempting to branch out from our own planet?
+1.10.7.3. Con: If we follow that logic in government, most government spending would be unfavorable since it invariably moves money/resources from one to another.
+1.10.7.4. Con: There is no tangible evidence to suggest that there is an objective morality, only, sight, smell, joy, suffering and other intangible stimuli.
+1.10.8. Con: Depending on the degree and success of [terraforming](https://en.wikipedia.org/wiki/Terraforming), Mars eventually will be able to supply natural resources itself, justifying this investment.
+1.10.8.1. Pro: Producing resources locally on Mars rather than importing them will make sense, even if terraforming isn't viable or successful.
+1.10.9. Con: Yes, colonizing Mars is an effort worth our resources. It is a given that mistakes will be made; however, given the relatively close distance to the red planet, we have the opportunity to improve. Only through experimenting can we truly know what is required to colonize another celestial body.
+1.11. Con: The voyage to Mars alone is riddled with difficulties \(large and many\) that moving there might not be worth the effort.
+1.11.1. Con: Most of humanities endeavors have been riddled with difficulties, yet still been able overcome scores of them.
+1.11.1.1. Pro: Many of these endeavours, once overcome, resulted in unimaginable results, for example. Fire, Exploration of any kind, Sailing across the seas, ie vikings, Columbus, Marco Polo, Flight/Jets and lets not forget space travel \(Satellites/GPS\) are examples of endeavours that resulted in unimagined results
+1.11.2. Pro: The [psychological factor](https://news.nationalgeographic.com/news/2013/02/130227-manned-mission-mars-psychology-space-science/) is one of the, if not the biggest challenge on the trip there.
+1.11.3. Pro: That is why it is a [one-way](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2015/02/16/100-finalists-have-been-chosen-for-a-one-way-trip-to-mars/) effort where people permanently live on Mars.
+1.11.4. Pro: The journey will happen in [2030's](https://www.nasa.gov/content/journey-to-mars-overview) \(if the date's not pushed back\), which shows the effort required just to leave Earth
+1.11.4.1. Con: This is not an argument against Mars colonization, it simply means that colonization might happen later rather than sooner.
+1.11.5. Pro: The technology of suspended animation or transporting then hatching embryos for long-distance space travel is not developed enough to use on the Mars' voyage.
+1.11.6. Con: We are a species of innovators, we learn and adapt from our mistakes and failures, and we are a gritty and determined species.
+1.11.7. Pro: Even if the first colonists themselves fully accept the risks of going to Mars, if something bad happens to them, this could create a backlash in public perception against space colonization and delay the entire effort.
+1.11.7.1. Pro: The voyage is the pivotal starting point that determines the rest of the mission's success. Without this crucial step working, the rest of the process does not happen. If people do not place the utmost priority on this step, then colonization becomes an unproductive and wasteful endeavor.
+1.11.7.2. Pro: Picking easier targets for colonization first is preferable to avoid costly mistakes that keep the main goal's \(space colonization\) momentum from going forward.
+1.11.8. Con: There already exist numerous people who believe that going to Mars is worthy of their efforts. Some people devote their lives and careers towards that goal, and for them it is worth it. Because of the principle of self-determination it is not for any of us to say that they have not chosen a worthy effort, even if many of their attempts fail.
+1.11.9. Pro: If travel to Mars took say one day or even better one hour, then let's visit Mars. But until we develop a quick method of travel in space we should use those resources to make sure we don't windup destroying our current habitat.
+1.11.10. Con: Once all difficulties are solved, the advancement will be going faster and faster with ease. This argument will not be valid after some time.
+1.12. Pro: Such a major project fuels collaboration and unites people from all over the world. International and -racial solidarity might be strengthened by establishing international colonies on Mars.
+1.13. Pro: Space colonization's the new space race
+1.13.1. Con: Cooperation between nations is required to spread the risk vs being a "race" could increase risk if nations are unwilling to allocate resources.
+1.13.2. Con: Calling space colonization a space race could mischaracterize it, as the last space race was [war-motivated](https://airandspace.si.edu/exhibitions/space-race/) and this one is not. People would be lead to believe it's military-based, due to the connotations.
+1.13.2.1. Pro: If people have negative memories or experiences from this time, it could unfoundedly hinder their interest in colonization. They might not want to participate for the wrong reasons, whereas if they thought about colonization without thinking about it as a space race, then they would be more inclined to it.
+1.13.3. Pro: Unfortunately, most developments in colonizing Mars involve nations trying to solve the colonizing issue themselves instead of working together. Even with the internet sharing ideas, most likely each nation will place select individuals into space, hoping to survive.
+1.13.3.1. Pro: A better idea would be for [joint ventures](https://airandspace.si.edu/exhibitions/space-race/online/) in space, exactly what happened after the Cold War's space race. Hopefully when every nation goes into space \(or even beforehand\), they will work together to survive. Survival is more likely with good teamwork, communication, and high population numbers.
+1.13.4. Pro: Colonization of Mars could lead to a whole branch of new research opportunities and scientific discoveries.
+1.13.5. Pro: -> See 1.8.3.

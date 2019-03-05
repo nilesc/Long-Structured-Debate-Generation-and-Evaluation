@@ -1,0 +1,609 @@
+Discussion Title: Do we need nuclear power for sustainable energy production?
+
+1. Nuclear power is desirable for sustainable energy production
+1.1. Pro: Nuclear fission is better than using renewable energy sources.
+1.1.1. Pro: Nuclear fission is more reliable than renewable energy sources.
+1.1.1.1. Pro: Many advanced reactors have the ability to load follow, ie ramp up and down quickly.  This makes them the perfect backup source for wind and solar.[IMSR + Renewables = Deep Decarbonization](https://www.power-eng.com/articles/print/volume-121/issue-9/features/coupling-integral-molten-salt-reactor-technology-with-hybrid-nuclear-renewable-energy-systems.html)
+1.1.1.1.1. Con: Nuclear plants are slow to start up and shut down. This makes nuclear reactors a poor option to balance supply and demand of electricity that become more frequent when the energy production becomes more intermittant with more wind and solar power.
+1.1.1.1.1.1. Con: That is a good reason to have less intermittent power from wind and solar and more stable power from nuclear.
+1.1.1.1.1.2. Con: It is not necessary to shut down a nuclear reactor in order to power down the production of electricity. The hest generation can simply be rerouted for other purposes, such as production of chemicals or hydrogen.
+1.1.1.2. Pro: Nuclear fission is not susceptible to weather conditions.
+1.1.1.2.1. Con: Hot weather can force nuclear plants offline, as happens regularly in Europe. This is due to them being unable to dump excess heat into nearby rivers due to the damage it would do.
+1.1.1.2.1.1. Con: Any steam-turbine power plant releases waste heat from its condenser. The problem isn't unique to nuclear; this includes [any thermal power station](https://en.wikipedia.org/wiki/Thermal_power_station)--fossil fuels, \(hypothetical\) fusion, geothermal, and solar thermal. There are various ways to dissipate the waste heat, some of which might be less environmentally damaging.
+1.1.1.2.1.1.1. Pro: Some nuclear plants operate at a higher temperature than alternative fuels. The thermodynamic efficiency of a heat engine depends on the size of the temperature gradient, so these nuclear plants produce less waste heat per watt of power generated, compared to the lower-temperature alternatives.
+1.1.1.2.1.1.1.1. Con: But not compared to the non-thermal power stations which do not require a heat engine at all, such as photovoltaic solar, wind, and hydro.
+1.1.1.2.1.1.2. Pro: [Cooling tower​s](https://en.wikipedia.org/wiki/Cooling_tower) release the waste heat into the atmosphere instead of into a river. Many nuclear plants use them, as do other types of thermal power stations.
+1.1.1.2.1.1.3. Pro: Condensers can also be directly air-cooled using radiators.
+1.1.1.2.1.1.3.1. Con: This is thermodynamically less efficient than water cooling due to the higher temperature.
+1.1.1.2.1.1.4. Pro: Condensers could also be cooled by a [controlled vortex](http://vortexpowersystems.com/), which can also generate additional power without releasing heat into the river.
+1.1.1.3. Pro: Renewable energy sources are not reliable enough to provide continuous energy.
+1.1.1.3.1. Pro: Wind energy can't provide power during absence of wind.
+1.1.1.3.1.1. Pro: In many parts of the world wind speeds fluctuate over the course of several weeks.
+1.1.1.3.1.2. Con: At high altitude, the winds never stop. Thus, [high-altitude wind power](https://en.wikipedia.org/wiki/High-altitude_wind_power) is more reliable.
+1.1.1.3.2. Pro: Solar panels can't provide energy during cloudy days or through the night which is the time most energy is used throughout the day.
+1.1.1.3.2.1. Con: Energy companies are currently working on storing electrical energy for when the sun doesn't shine and the wind doesn't blow.
+1.1.1.3.2.2. Con: Peak energy demand is actually during the day due to air conditioning. This is precisely when rooftop solar panels produce the most energy.
+1.1.1.3.2.3. Con: Solar panels can provide energy during cloudy days and through the night if they're [located in space](https://en.wikipedia.org/wiki/Space-based_solar_power).
+1.1.1.3.2.3.1. Con: The high costs of launching satellites makes this option cost-prohibitive.
+1.1.1.3.2.3.1.1. Con: The SpaceX BFR will dramatically reduce launching costs due to scale and reusability.
+1.1.1.3.2.3.1.2. Con: Large solar arrays can be robotically assembled in orbit, from materials that need not be able to support their own weight on the ground. Thin Mylar film reflectors can concentrate sunlight on high-efficiency photovoltaics to minimize weight and cost.
+1.1.1.3.2.3.2. Con: Because we do not have the materials strong enough for an Earth-based space elevator, the power would have to be transmitted to Earth wirelessly, which is inefficient.
+1.1.1.3.2.3.2.1. Pro: The microwave beam would have to be spread over such a wide area \(for safety and because of beam diffusion at that frequency over long distances\) that the ground receiver might as well be a ground-based solar power plant.
+1.1.1.3.2.4. Con: Unlike photovoltaics, molten-salt solar thermal plants can provide continuous baseload power throughout the night and during cloudy days. This is because the energy used for electrical generation is continuously extracted from a large thermal buffer, which need only be re-heated periodically.
+1.1.1.3.3. Con: -> See 1.1.1.3.2.1.
+1.1.1.3.4. Con: Smart grids can help even out fluctuations in the power production across the various types of renewable energy to create a continuous and reliable supply.
+1.1.1.3.5. Pro: Through the rise of electric cars, that will have to take place in future, the energy consumption will rise dramatically world wide.
+1.1.1.3.5.1. Con: Cars powered by gasoline also consume energy.
+1.1.1.3.6. Con: Unlike many renewable sources, geothermal plants provide steady baseload power.
+1.1.1.4. Con: Some renewable energy sources and technologies, such as hydroelectricity, share the same reliability as nuclear fission.
+1.1.1.4.1. Con: Hydroelectric generation has a far lower capacity factor than nuclear power, at approximately 45.2% versus Nuclear at 92.3% [www.eia.gov](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_6_07_b)
+1.1.1.4.2. Con: Hydroelectric reserve dams are constrained in how much energy they can produce in order to support irrigation and prevent flooding.
+1.1.1.4.2.1. Con: Nuclear energy reactor are constrained in how much energy they can produce in order not to undergo a nuclear meltdown.
+1.1.1.5. Pro: Nuclear power maintains the "base load" of our power grid -- meaning it produces power regardless of wind or sun. It needs to remain a part of our energy portfolio.
+1.1.1.5.1. Pro: Keeping the nuclear base load is very important until coal is phased out \(step 1\), and renewables grow to a significant fraction of the energy grid \(step 2\). Germany's carbon emissions increased despite heavy investment in renewables because they closed their nuclear plants and had to rely on coal. Also, remember that nuclear fuel comes from the ground beneath our feet \(which also decays into nuclear "waste" beneath our feet\). All that energy is going to "waste" if not used.
+1.1.1.6. Con: [Geothermal energy](https://www.theguardian.com/environment/damian-carrington-blog/2011/jan/18/geothermal-energy-nuclear) poses the same reliable energy with recent endeavors into this technology that prove to be just as effective as nuclear energy, without the nuclear waste.
+1.1.1.7. Con: Renewables are more reliable than nuclear. Their distributed nature, battery backup storage and resiliance make them more predictable and less prone to sudden huge losses.
+1.1.2. Pro: Renewable power can not produce enough energy to match our needs.
+1.1.2.1. Con: [Enhanced geothermal alone](http://geothermal.inel.gov/publications/future_of_geothermal_energy.pdf) could provide all of humanity's energy needs for the foreseeable future.
+1.1.2.2. Con: A vast grid network can transport energy from sources that have preferable condition at any moment in time.
+1.1.2.2.1. Pro: With large scale solar farms in desert areas, such as [Desertec](https://en.wikipedia.org/wiki/Desertec), this could be easily done.
+1.1.2.2.1.1. Con: Desertec failed 5 years into their project [natureasia.com](http://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2015.4)
+1.1.2.2.1.2. Pro: As [Desertec](https://en.wikipedia.org/wiki/Desertec) envisioned, solar energy could be transported to Europe from the Sahara.
+1.1.2.2.2. Pro: The [North Sea Offshore Grid](https://en.wikipedia.org/wiki/North_Sea_Offshore_Grid) serves to bring Norwegian hydroelectric power to central Europe.
+1.1.2.3. Con: [Studies demonstrate the viability of 100% renewable energy](https://www.sciencedirect.com/science/article/pii/S1364032118303307)
+1.1.2.4. Con: A push for energy efficiency would significantly reduce our energy consumption.
+1.1.2.4.1. Con: For example huge consumers are supercomputers in MW range. If they can cool them down, they will add more computers to meet their computing needs.
+
+Switching to more efficient CPUs \(which we do it for decades\) will just make us calculate bigger domains. Also, these supercomputers consume today more than small countries.
+
+Using sustainable MW or GW when there is no wind or sun is not fun to keep the datacenter.
+1.1.2.4.2. Con: There is no way we can sustain the industrial agriculture we need to feed this many human beings without using nuclear.
+1.1.2.4.2.1. Con: Organic farming might be a solution to sustain our population.
+1.1.2.4.2.1.1. Con: Organic farming gives less yield per acre than conventional farming thus requires more land to feed the population.
+
+[The crop yield gap between organic and conventional agriculture](https://www.sciencedirect.com/science/article/pii/S0308521X1100182X)
+1.1.2.4.2.1.2. Pro: Fertilizers and pesticides usage dissipate vast amounts of energy \(esp. oil and natural gas\).
+1.1.2.4.2.1.2.1. Con: Organic farming also uses fertilizers and pesticides, it only restricts the use of synthetic ones, some of them are more sustainable and energy efficient than their natural counterparts. Being classified as natural doesn't mean it's not produced industrially using vast amounts of energy.
+1.1.2.4.2.1.3. Pro: Organic farming may reduce the greenhouse gas production.
+1.1.2.4.2.1.3.1. Con: Organic farming may increase greenhouse gas emissions by contributing to deforestation, because it requires more land to produce the same amount of calories.
+1.1.2.4.2.1.3.1.1. Pro: -> See 1.1.2.4.2.1.1.
+1.1.2.5. Pro: [Viable electric trucks](https://en.wikipedia.org/wiki/Tesla_Semi) might be coming to the market soon.
+1.1.2.5.1. Con: Lithium which is used in the batteries of electric trucks and electric cars is limited; there won't be enough to meet the demand.
+1.1.2.5.1.1. Con: Lithium is the third-most abundant element in the universe \(after H & He\), and the 33rd most abundant in Earth's crust--more common than lead. We're not going to run out, but like anything else, the price depends on demand.
+1.1.2.5.1.2. Con: Electric vehicle batteries have been produced with other chemistries, such as NiMH and Na-NiCl2. If lithium becomes too expensive, the market will find other options.
+1.1.2.5.2. Con: Electric vehicles will significantly increase the demand for electricity, necessitating more generation.
+1.1.2.5.3. Pro: Nuclear power plants are unparalleled in efficiency as base load energy suppliers.
+1.1.2.6. Pro: Urban individual transportation needs could be met by electric vehicles
+1.1.2.6.1. Con: Transportation is only about 1/4 of total energy consumption, and "urban individual transportation" is only a fraction of it.
+1.1.2.6.2. Pro: The overall solution to the energy problem will involve many fractional solutions.
+1.1.2.6.2.1. Con: The statement is for an immediate switch, in the future nuclear can be reduced in favour of other sources. But is better cut fossil and oil immediately, being the "damage" already over the CoP21 of Paris emission trajectory.
+1.1.2.6.2.2. Pro: Until energy efficiency and overall power reduction steps are taken throughout all power sectors, the practical aspect of "cutting" an entire production sector is a very tough argument.
+1.1.2.7. Con: Renewable resources far exceed any conceivable growth in energy demand and are far cheaper in a full cost lifetime analysis.  It simply requires the up front cost to be paid as opposed to large ongoing costs.
+1.1.2.8. Pro: Renewables cannot keep up with rising demand let alone make an impact on reducing the market for fossil fuels. Last year demand rose 3:1 for fossil fuels compared to renewables. This has long been the case and only nuclear will be able to displace coal, oil, and gas.
+[www.iea.org](http://www.iea.org/publications/freepublications/publication/GECO2017.pdf)
+1.1.3. Pro: Nuclear energy is the only technology that can be used on a sufficiently wide scale because it requires only limited land.
+1.1.3.1. Con: Geothermal power plants have a similarly small surface footprint.
+1.1.3.2. Pro: Solar power plants require about [120 km²](http://www.renewableenergyworld.com/articles/2013/08/calculating-solar-energys-land-use-footprint.html) to produce, on average, 1 gigawatt of power \(13 times as much as nuclear\).
+1.1.3.3. Pro: Nuclear power plants require about [9 km²](http://www.theenergycollective.com/jessejenkins/2242632/how-much-land-does-solar-wind-and-nuclear-energy-require) to produce, on average, 1 gigawatt of power.
+1.1.3.4. Pro: Wind power plants require about [400 km²](http://www.theenergycollective.com/jessejenkins/2242632/how-much-land-does-solar-wind-and-nuclear-energy-require) to produce, on average, 1 gigawatt of power \(44 times as much as nuclear\).
+1.1.3.4.1. Con: [Only 1% of the land area spanned by wind farms is permanently taken out of production.​](http://www.theenergycollective.com/jessejenkins/2242632/how-much-land-does-solar-wind-and-nuclear-energy-require)
+1.1.3.4.1.1. Con: [Wind turbines contaminate their surroundings with oil](https://www.bloomberg.com/news/articles/2017-05-12/wind-power-pollution-turbine-oil-seeps-into-the-land-in-mexico), and should not be placed near farmland or water sources.
+1.1.3.4.2. Pro: Wind farms decrease the value of land around them due to noise propagation and visual impact. The affected area is much larger than land occupied by power plant itself.
+
+For example, in Poland wind turbines are restricted on a land around residential areas \(buffer zones of up to 2000 m\) because of this issue. 
+
+[Constraints on Development of Wind Energy in Poland due to Environmental Objectives. Is There Space in Poland for Wind Farm Siting?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5274641/)
+1.1.3.5. Con: There is sufficient space available worldwide for renewable energy to support our current power consumption needs
+1.1.3.5.1. Pro: -> See 1.1.2.2.1.
+1.1.3.5.2. Pro: With an area no larger than the amount of land currently devoted to golf courses, [we could power a third of the US with solar energy](http://www.theenergycollective.com/jessejenkins/2242632/how-much-land-does-solar-wind-and-nuclear-energy-require).
+1.1.3.5.2.1. Con: You would actually need more area of solar panels than the amount theoretically needed to cover our use since we would need to have a rest for the times the sun doesn't shine.
+1.1.3.5.3. Con: The land area usage for Solar and Wind would be the equivalent of Rhode Island, Maryland, South Carolina, Florida, Georgia, and about half of North Carolina combined. \(These are two different pages in the links\):[www.roadmaptonowhere.com](http://www.roadmaptonowhere.com/chapter-eleven-2/) [www.roadmaptonowhere.com](http://www.roadmaptonowhere.com/chapter-twelve-wind/)
+1.1.3.6. Con: To be used on a wide scale, you need to be able to handle nuclear energy safely, and know what to do with the waste.
+1.1.4. Pro: Renewables require vast networks of power lines to effectively harvest energy, while nuclear concentrates supply in a smaller number of locations.
+1.1.4.1. Con: -> See 1.1.3.1.
+1.1.4.2. Con: Nuclear power maintains centralization of power grid. Thus, it could probably hinder a decentralized power grid in which households would produce and sell energy
+1.1.4.2.1. Con: Distributed generation is not feasible for urban areas as density of demand is too great.
+1.1.4.2.2. Con: Distributed generation diminishes resource efficiency as it must include conversion and distribution facilities for each location. Because of this, centralized generation cannot be totally replaced by distributed generation.
+1.1.4.2.3. Con: Nuclear reactors can be sited closer to the network load since they don't rely on a geographical resource like wind or solar. Therefore nuclear generation adds to the grid decentralisation.
+1.1.4.2.4. Con: potential miniaturization of nuclear power could mean small reactors in home basements, and a total de-establishment of any form of power grid, in favor of in-home power generation by some sort of basement reactor. The suggestion that nuclear power in any form would enforce the authority of a central grid, does not follow.
+1.1.4.3. Con: Centralised nuclear energy production requires more and longer transmission lines.
+1.1.4.3.1. Con: The same of whatever other centralized producted power plant. But with more output granted. "Hard renewables" such solar, wind or hidro should remain local.
+1.1.4.3.2. Con: Transmission losses are only around 3% per 1000km using conventional high voltage AC lines.
+1.1.4.4. Con: Renewable energy generation is typically completely decentralized. Think about the solar panels on a house: the electricity can directly be used by the occupants or injected in the system \(through power lines that are already there\). Electricity from a power plant has to travel further, which means that there are more losses during the distribution in comparison with decentralized systems.
+1.1.4.4.1. Con: The above seems to suggest that produces less work for the grid, but the reverse is true.  With dispersed solar \(and other generation\) the grid has to handle millions of 2-way power exchanges, something it was not designed to do and the  evolving power market provides no incentives for anyone to upgrade the grid.
+1.1.4.4.2. Con: Grids with high ratios of renewable energy typically require more T&D infrastructure because the opportunistic generation is mostly site-specific. This is most noticeable with wind farms. For example [www.windpowermonthly.com](https://www.windpowermonthly.com/article/1376859/transmission-line-north-chile-approved) an 800km transmission line built in Chile to support wind and solar production.
+1.1.4.4.3. Con: -> See 1.1.4.3.2.
+1.1.4.5. Pro: Centralized energy production is more efficient than decentralized, due to economies of scale.
+1.1.4.6. Con: Renewable energy can be used in a micro-generation system i.e Each household can produce its own energy and large scale production would only be needed to power industry and other large energy consumers
+1.1.4.6.1. Con: Renewable energy is too diffuse. Micro-generation per household isn't realistic for areas with sufficiently high population density, like most big cities, where a large fraction of the world's population lives. They need centralized power.
+1.1.4.6.2. Pro: Energy sufficiency makes individuals or small groups more independent and avoids the risks of concentrated power. High-capital projects such as nuclear power risk political and local corruption, such as through embezzling or pork barrel politics, whereas low-capital projects offer less reward for doing so and thus less risk of these coming to pass.
+1.1.5. Con: The scope of planning for nuclear power plants is putting nuclear energy at a disadvantage.
+1.1.5.1. Pro: New nuclear \(fission generated\) power plants can only be deployed in a megaproject scale \($1B or more, multiyear construction time\). Megaprojects are by nature slow endeavors and require a centralized political setting.
+1.1.5.1.1. Con: The [Akademik Lomonosov](https://en.wikipedia.org/wiki/Akademik_Lomonosov) was completed in just 3 years at a cost of $232 million, proving the parent false by counterexample.
+1.1.5.2. Pro: Most renewables can be deployed faster.
+1.1.5.3. Pro: Most renewables can to some degree scale with their environment and the social and political configuration present.
+1.1.5.3.1. Con: That fails to take into account the area required to produce that power.  If you wanted to power Los Angeles solely with wind and solar, you'd have to cover thousands of square miles with solar powers or turbines to even come close.
+1.1.6. Con: Nuclear power produces nuclear waste.
+1.1.6.1. Con: Newer reactor designs can also use most the "waste" as fuel. The remaining low-level waste is miniscule and can be safely stored on-site.
+1.1.6.1.1. Pro: Advanced Reactors can run on spent fuel \(radioactive waste\) and will reduce the half-life of this waste from an order of ~10 000 years to ~300 years [seeker.com](https://www.seeker.com/nuclear-plant-powered-by-spent-fuel-1766311945.html)
+1.1.6.1.2. Pro: Nuclear Waste can be completely reprocessed in modern reactors such as the Fast Neutron Molten Salt Reactor, resulting in a mass of fission products of less than 5% and a reduction from approximately 24,000 to 300 years until radioactive decay falls below background radiation. [articles.thmsr.nl](https://articles.thmsr.nl/the-flibe-energy-lftr49-the-triple-ace-in-nuclear-gen-iv-design-ea9bffcd71dd?gi=7f735e371381)
+1.1.6.1.2.1. Con: This is true for future societies, but at our current rate we do not have time to create these modern reactors, especially since most countries today have old reactors in use. The transisition to newer reactors would take too long
+1.1.6.1.2.2. Con: Radioactive waste radiating another 300 years is not "completely reprocessed", and safe storage of that waste is still an issue.
+1.1.6.1.2.2.1. Con: The volume is so much smaller that it could be stored on site.
+1.1.6.2. Pro: Radioactive waste cannot be stored securely for ten/hundred thousand years.
+1.1.6.2.1. Con: Reversible geologic storage is a solution to storing nuclear waste.
+1.1.6.2.1.1. Pro: [Long-term geological storage solutions can prevent any movement of radioactivity for thousands of years.​](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes/radioactive-wastes-myths-and-realities.aspx)
+1.1.6.2.1.2. Pro: Onkalo, a “massive underground tomb” in Finland, has recently been completed, storing more than 6,500 tons of radioactive waste safely for at least [100,000](http://nordic.businessinsider.com/finlands-100000-year-tombs-for-storing-nuclear-waste-is-drawing-the-worlds-admiration-2017-1/) years.
+1.1.6.2.1.2.1. Con: This project is [criticised](http://nordic.businessinsider.com/finlands-100000-year-tombs-for-storing-nuclear-waste-is-drawing-the-worlds-admiration-2017-1) by environmental activists. The spokesman of Greenpeace in Finland said that “even the hardest bedrock we have on earth, which is here, will be cracked \[..\] we can’t be sure that the waste wouldn’t leak with groundwater into the Baltic Sea”.
+1.1.6.2.1.2.2. Con: There is no guarantee that in 100,000 years, what we will have stored will still have a meaning to any species or human populating the planet. Therefore we could be keeping a time bomb underground. This is mainly what the documentary to which you are referring is saying, rather than making a light-hearted example of Onkalo.
+1.1.6.2.1.2.2.1. Con: [Within a period of 1,000-10,000 years, the radioactivity of high-level waste decays to that of the originally mined ore.​](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes/radioactive-wastes-myths-and-realities.aspx)
+1.1.6.2.1.2.2.2. Con: Frankly, the unlikely scenario of several people being irradiated in the far future because they don't understand the warnings is a small problem compared to the thousands of people killed every year by fossil power plant pollution.
+1.1.6.2.1.2.2.3. Con: If a civilization is smart enough to dig that deep, they're smart enough not to dig that deep.
+1.1.6.2.1.3. Pro: -> See 1.1.6.2.1.2.2.1.
+1.1.6.2.1.4. Con: Groundwater might reach reversible geologic storage of nuclear waste.
+1.1.6.2.1.4.1. Con: Nuclear waste is vitrified, making it highly resistant to water.
+1.1.6.2.1.4.2. Con: Nuclear waste is stored in watertight stainless steel containers.
+1.1.6.2.1.5. Con: Future generations might forget about our nuclear waste.
+1.1.6.2.1.5.1. Con: [After 40 years, the radioactivity of used fuel has decreased to about one-thousandth of the level at the point when it was unloaded.​](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes/radioactive-wastes-myths-and-realities.aspx)
+1.1.6.2.1.5.2. Con: Future civilizations will be able to understand our current instructions and messages.
+1.1.6.2.1.5.2.1. Con: Ancient Egyptian instructions were difficult to decipher and probably only readable by late 18th century archeologist because of the [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone).
+1.1.6.2.2. Pro: Nuclear waste contaminates its surroundings
+1.1.6.2.2.1. Pro: There are a lot of contaminated nuclear sites
+1.1.6.2.2.1.1. Con: Most contaminated nuclear sites are not from commercial nuclear energy.
+1.1.6.2.2.2. Con: Nuclear waste is stored in shielded containers
+1.1.6.2.2.3. Con: [You may actually receive a lower dose of radiation treading water in a spent fuel pool than walking around on the street.​](https://what-if.xkcd.com/29/)
+1.1.6.2.3. Pro: There are nuclear wastes that are impossible to store because they are quite radioactive and corrosive to all other elements of the planet.
+1.1.6.2.3.1. Con: That nuclear waste has been stored improperly in a few instances does not prove that proper storage is impossible.
+1.1.6.2.4. Pro: There isn't a place found yet to store the many barrels of waste we already produced.
+1.1.6.2.5. Con: With even a half-completed [orbital ring](https://en.wikipedia.org/wiki/Orbital_ring), we can throw every bit of waste into space/the sun, at cost of magnetically accelerating it to desired speed. Since we may have orbital ring completed in about 200 years, this is easy way out of waste storage problem.
+1.1.6.2.5.1. Con: Orbital rings do not exist, and would be a much larger engineering problem than disposing of nuclear waste on Earth.
+1.1.6.2.6. Con: Radioactive waste could be dumped into the sun.
+1.1.6.2.6.1. Con: [7% of unmanned rocket launches fail catastrophically](https://space.stackexchange.com/a/12229/6325).  This would drop large amounts of nuclear waste over inhabited areas.
+1.1.6.2.6.2. Con: Dumping nuclear waste in the sun would be extremely expensive. The cost to transport 1 lb of matter to the sun is about [$8 million](https://www.csicop.org/sb/show/shooting_for_the_sun).  The nuclear power industry has produced a total of [76,430 metric tons](https://www.nei.org/Knowledge-Center/Nuclear-Statistics/On-Site-Storage-of-Nuclear-Waste) of used nuclear fuel. To transport this all into the sun would cost [over one quadrillion dollars](https://www.wolframalpha.com/input/?i=76430+metric+tons+at+$8+million+per+pound&rawformassumption=%22ListOrTimes%22+-%3E+%22Times%22&rawformassumption=%22UnitClash%22+-%3E+%7B%22metric+tons%22,+%7B%22MetricTons%22%7D%7D&rawformassumption=%22UnitClash%22+-%3E+%7B%22+per+pound%22,+%7B%22USDollarsPerPound%22%7D%7D).
+1.1.6.2.6.2.1. Con: "a Falcon 9 launch costs an average of $57 million, which works out to less than $2,500 per pound to orbit" -- [airspacemag.com](https://www.airspacemag.com/space/is-spacex-changing-the-rocket-equation-132285884/#IRyYq4zrmzgog1ZA.99)
+
+A Falcon Heavy is about the same.
+
+This makes the cost of disposing of the current total 421 billion USD, which is by no means an unmanageable number even as a one-time payment, much less spread out over a couple of decades.
+1.1.6.2.6.2.1.1. Con: Putting waste into low earth orbit is not disposing of it.  It would need to be raised to escape velocity on a path that doesn't intersect with the Earth in the future.
+1.1.6.2.7. Con: The [Oklo natural nuclear reactor](https://en.wikipedia.org/wiki/Natural_nuclear_fission_reactor) in Gabon was contained for 1.7 billion years, while current long term storage is developed with a lifespan in the order of millions of years.
+1.1.6.2.8. Con: -> See 1.1.6.1.1.
+1.1.6.2.9. Pro: Several nuclear waste deposits in [Italy](https://en.wikipedia.org/wiki/Radioactive_waste#Accidents) spilled and contaminated the environment.
+1.1.6.2.10. Pro: Water inflow into the German nuclear waste storage facility at [Asse](https://en.wikipedia.org/wiki/Asse_II_mine#Water_inflow) threatened the integrity of the mine.
+1.1.6.3. Pro: Radioactive waste can not be cleaned up.
+1.1.6.3.1. Con: Many industries produce hazardous and toxic waste. All toxic waste need to be dealt with safely, not just radioactive waste.
+1.1.6.3.2. Con: Nuclear fission breeder reactors generate 10-20% less waste than light water fission reactor designs.
+1.1.6.3.2.1. Con: Replacing coal-powered plants with nuclear would still result in too much nuclear waste.
+1.1.6.3.2.1.1. Con: Coal power plants create tens of thousands of times as much waste as nuclear power plants to produce the same amount of energy.
+1.1.6.3.3. Pro: Radioactive waste is difficult and expensive to clean up.
+1.1.6.3.3.1. Con: Radioactive waste is a ceramic. It is easily stored and contained \(especially after the first years in the spent fuel pool\). Furthermore, future developments could lead to "waste" being used as fuel, burning up all transuranics and closing the fuel cycle.
+1.1.6.3.3.1.1. Con: The neutron radiation from nuclear reactors transmutes surrounding materials, often into unstable isotopes. Thus not all nuclear waste is ceramic.
+1.1.6.3.4. Con: -> See 1.1.6.1.2.
+1.1.6.3.5. Con: It is predicted that by year 2125, there will be approx. 5 million tonnes of nuclear waste, which is equivalent to a modern stadium, [reactive waste management](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes/radioactive-waste-management.aspx). If we project this on to 10,000 years, we are still only talking about 100 stadiums-worth of space spread out across the globe, before the waste becomes safe again.
+1.1.6.3.6. Con: -> See 1.1.6.2.6.
+1.1.6.3.7. Con: Unlike fossil fuels which pollutes the atmosphere, at least nuclear waste can be managed.
+1.1.6.3.7.1. Con: -> See 1.1.6.2.
+1.1.6.3.7.2. Pro: -> See 1.1.6.2.1.
+1.1.6.4. Pro: There are no operational long-term storage facilities for high-level radioactive waste today. \(Source: IPCC, SR15, chapter 5, page 52, url: [report.ipcc.ch](http://report.ipcc.ch/sr15/pdf/sr15_chapter5.pdf)\)
+1.1.6.5. Con: Nuclear waste isn't really a "pollutant", since it is contained in an inert state in a single place and not released into the environment.
+1.1.6.5.1. Con: Nuclear waste is regularly [released into the environment](https://e360.yale.edu/features/radioactivity_in_the_ocean_diluted_but_far_from_harmless), either by accident or through willfull action. Even if it isn't yet, since the waste remains harmful for hundreds of thousands of years, there is only a slim chance that humanity can keep the waste separated from the environment over that long period of time.
+1.1.6.5.1.1. Con: Tritium is by far the most common nuclide effluent. It is a natural product of cosmic rays bombarding the Earth. Tritium has a concentration in natural hydrogen of around 1e-19. It has a biological half-life of 10 days and the [medical history of tritium exposure](https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:\@term+\@DOCNO+6467) has resulted in only minor injuries.
+1.1.6.5.1.2. Con: We can study the effects of [natural fission reactors, such as the Oklo site,](https://blogs.scientificamerican.com/guest-blog/natures-nuclear-reactors-the-2-billion-year-old-natural-fission-reactors-in-gabon-western-africa/) to see that in practical terms fission products do not tend to leech into the surrounding rock strata.
+1.1.6.5.1.3. Con: Ca137 dillutes over the huge area of the Earth's oceans. Chernobyl emitted a large amount of radiation \(Fukushima was mostly contained because of its superstructure\), but nuclear weapons testing resulted in 30 times the amount of Cs137 currently present on the Earth's surface. [Levels of Cs134 and Cs137 are rarely detectable in the ocean food chain and at a level requiring 1000kg ingested to equal the dose of a cross-continental flight.](https://www.uvic.ca/news/topics/2017+a-minute-trace-of-fukushima-radiation-detected+ring)
+1.1.6.5.1.4. Con: The environment is already naturally radioactive. Background radiation levels vary with location \(due to mineral deposits\) and altitude, due to celestial sources, like the sun and cosmic rays. Even some foods are naturally more radioactive than others due to their mineral content. If the [radiation dose is less than eating a banana](https://en.wikipedia.org/wiki/Banana_equivalent_dose), it can hardly be called pollution.
+1.1.6.5.2. Con: The building of a container for the nuclear waste requires resources and generates pollution
+1.1.6.5.3. Con: We will have vast silos of nuclear waste decaying down to a suitable level for hundreds of years, these take up space and resources to ensure that they do not leak or decompose incorrectly. These silos are often not in the country where the nuclear power station is and have to be transported to the silo. We do not know the effect that having so many of these will be. Often a tiny item is encased in a huge lump of concrete or other material.
+1.1.6.6. Pro: Nuclear power plant produce High-level radioactive waste \(Tc-99,  I-129 for example\) which can be lethal for most forms of life and can still be dangerous for thousands of years. See [Radioactive waste](https://en.wikipedia.org/wiki/Radioactive_waste)
+1.1.6.7. Con: -> See 1.1.6.1.2.
+1.1.6.8. Con: Nuclear waste from the Uranium Fuel Cycle is [approximately 1/300th](http://environmentalprogress.org/big-news/2017/6/21/are-we-headed-for-a-solar-waste-crisis) the waste produced by solar panels, when generation is compared in [cubic meters per kWh of energy produced](https://static1.squarespace.com/static/56a45d683b0be33df885def6/t/594afa4a1b631b702e72e5ee/1498085994455/Waste+Production+per+TWh.001.jpeg).
+1.1.6.8.1. Con: This comparison does not take into account the toxicity of the waste
+1.1.6.9. Pro: It is less about the quantity of nuclear waste. It is about the duration it needs to be taken care of, up to 10000 years. There is not a single thing man has been able to take care for for such a long time.
+1.1.6.9.1. Con: The radio nuclides which exist for 10,000 years produce lower energy radiation. The especially dangerous fission products will be safe within 400 years.
+1.1.6.9.2. Con: Naturally occurring radio nuclides such as U238 and U235 exist in the environment in large quantities, including in ocean water. This is the source of Radon which causes a large fraction of the dose every human receives.
+1.1.6.9.3. Con: The carbon from fossil fuels will also linger in the environment a very long time. We can avoid that problem by making a smaller one instead. At least nuclear waste has a half life.
+1.1.6.9.3.1. Con: As much as excess carbon is a pollutant, it is still a natural part of the biotic and abiotic environment \(see the carbon cycle\). Thus it can be incorporated into living organisms readily. Nuclear waste on the other hand is non-natural and does not integrate into the environment without harmful effects on living organisms.
+1.1.6.9.3.1.1. Con: -> See 1.1.6.5.1.4.
+1.1.6.9.3.1.2. Con: Humans along with all other animals, microbes and plant life have evolved Through millions of years in an environment where the levels of ionizing radiation was about 10 times higher than today's global average of about 3-6 mSv annually. All organisms have mechanisms in place to repair any damage to its DNA, whether it is from oxidation or ionizing radiation.
+1.1.6.9.4. Con: Considering the recent plummeting of costs to ship cargo into space, there's a good chance that we will be able to ship all the world's nuclear waste towards the sun in decades, not to even speak about centuries.
+1.1.6.10. Pro: The best available technology for depositing high-level radioactive waste requires deep, stable geological formations, which is not feasible for many countries. \(Source: IAEA Safety Standards: Classification of radioactive waste, link: [www-pub.iaea.org](https://www-pub.iaea.org/MTCD/publications/PDF/Pub1419_web.pdf)\)
+1.1.7. Con: Nuclear energy production is dangerous, and can not be made safe.
+1.1.7.1. Pro: Living close to nuclear power plants increases people's chances of developing serious illnesses.
+1.1.7.1.1. Pro: A [case-control study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2897218/) in the 15 February 2008 issue of the International Journal of Cancer, found that children under age 5 years living within 5 km of an Nuclear Power Plant were at more than double the normal risk of developing leukaemia.
+1.1.7.1.2. Con: The radiation lvls are not dangerous to people living around the plant. Here is a quote from the [U.S.NRC](https://www.nrc.gov/about-nrc/radiation/related-info/faq.html): If you lived within 50 miles of a nuclear power plant, you would receive an average radiation dose of about 0.01 millirem per year. To put this in perspective, the average person in the United States receives an exposure of 300 millirem per year from natural background sources of radiation.
+1.1.7.1.3. Con: Actual research doesn't indicate Nuclear Plants increase cancer rates. [Do Nuclear Power Plants Cause Cancer?](https://www.forbes.com/sites/jamesconca/2013/04/01/do-nuclear-power-plants-cause-cancer/#39912c223898) and [Nuclear plants 'do not raise child cancer risk'](https://www.bbc.com/news/health-24063286)
+1.1.7.1.4. Con: Nuclear power produces lower amounts of particulate pollution than other forms of power, reducing illness.
+1.1.7.1.4.1. Pro: According to the [Nuclear Energy Institute](https://www.nei.org/Issues-Policy/Protecting-the-Environment), nuclear power plants do not produce particulate matter, such as smoke and dust.
+1.1.7.1.4.1.1. Con: Producing the material, logistics and supplies to build and maintain a nuclear power plant is likely to produce smoke and dust.
+1.1.7.1.4.2. Con: Radioactive particulate release during plant fires and accidents contaminates huge tracts of land causing increased illness such as cancer in all living things.
+1.1.7.1.4.2.1. Pro: Accidents like Chernobyl can not be prevented.
+1.1.7.1.4.2.1.1. Con: Not with current reactors but this chain of events we saw at Fukushima and Chernobyl cannot occur with Thorium molten salt reactors. There is enough Thorium to feed reactors to outlast all of our previous civilisations.
+1.1.7.1.4.2.1.2. Con: Actually, with the near phase-out of the last RBMK's, not a single reactor with the same physics will be in operation. These RBMK's are also altered since the accident. Therefore, a "Chernobyl-type accident" is actually impossible.
+1.1.7.1.4.2.1.3. Con: The accident at Chernobyl was due to a human error.
+1.1.7.1.4.2.1.3.1. Con: 'Human error' is a post-hoc judgement, not a characteristic or quality of behaviour or actions of people involved, so it cannot serve as a cause of anything. You can say if people had acted differently it would not have happened, but the same can be said for the technology, or the information provided to people. There for the claim the accident was due to human error is meaningless.
+1.1.7.1.4.2.1.3.1.1. Con: The [timeline of the Chernobyl shutdown experimemt](https://www.oecd-nea.org/rp/chernobyl/c01.html) reveals many departures from standard operating process. Operators knew that they were not performing a safe procedure and the deputy chief engineer \(Anatoly Dyatlov\)[overrode the objections of his staff](https://en.m.wikipedia.org/wiki/Individual_involvement_in_the_Chernobyl_disaster) \(Akimov and Toptunov\).
+1.1.7.1.4.2.1.3.2. Pro: The catastrophe was caused by political pressure and incompetent people leading the experiment. The reactor had a flaw \(graphite instead of water as moderator\), but it had to be exploited to cause the explosion.
+1.1.7.1.4.2.1.4. Con: No comparable accident has happened in the 30 years since Chernobyl, despite active use of hundreds of nuclear reactors.
+1.1.7.1.4.2.2. Pro: Fukushima occurred in one of the most industrialized countries that is renowned for its reverence to modern technology.
+1.1.7.1.4.2.2.1. Con: The nuclear plant disaster at Fukushima is small compared to the natural disaster that caused it.
+1.1.7.1.4.2.2.1.1. Pro: Tens of thousands of people were killed by the Tohoku earthquake and tsunami while radiation from Fukushima injured no members of the public and killed no one.
+1.1.7.1.4.2.2.1.1.1. Con: Nuclear meltdowns are disasters because they are expensive, not because they are deadly. Cleanup costs a lot of time and money, and meanwhile, the populace is denied the use of a large land area due to radiation, which also has economic costs to the nation. This is especially devastating in a country with high population density and little land, like Japan.
+1.1.7.1.4.2.2.1.1.1.1. Con: The Kingston coal ash spill is [estimated to cost over $240 billion](https://www.tennessean.com/story/news/2013/12/20/kingston-coal-ash-spill-5-years-1-billion-in-cleanup-and-no-regulations-later/4153801/). Without human intervention will remain toxic indefinitely. Fukushima cleanup is [estimated at $180 billion](http://www.bbc.com/news/world-asia-38131248) and the majority contaminants have a half life of 30 years.
+1.1.7.1.4.2.2.1.1.1.2. Con: As standard operating procedure \(not an accident\) fossil fuel electric generation contributes to global warming by creating billions of tons of atmospheric CO2 and fine particulate emissions which kills 2 million people each year.
+1.1.7.1.4.2.2.1.2. Pro: Fukushima was hit by a devastating earthquake, 9 on the Richter scale, which can cause huge damage for a thousand kilometers from the epicenter.
+1.1.7.1.4.2.2.1.3. Pro: The earthquake triggered a 13 to 15m \(43 to 49 ft\)-high tsunami with dirt and rocks.
+1.1.7.1.4.2.2.1.4. Con: Years after, the Fukushima disaster is still going on, and will probably continue for years.
+1.1.7.1.4.2.2.2. Con: Fukushima's consequences to human and animal populations are extremely limited. No projected cancer risk increases.
+1.1.7.1.4.2.2.2.1. Con: "the eventual number of cancer deaths, according to the linear no-threshold theory of radiation safety, that will be caused by the \[Fukushima\] accident is expected to be around 130–640 people in the years and decades ahead." [en.wikipedia.org](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster)
+1.1.7.1.4.2.2.2.1.1. Con: The Linear No Threshold model of radiation exposure has received very heavy criticism as scientific studies have pointed out radiation exposure has led to beneficial health effects in some populations. For example: [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2477708/)
+1.1.7.1.4.2.2.3. Con: Fukushima was an early type nuclear power plant. All the hazards that model of construction had are now solved in the new Type IV Nuclear reactors. Eliminating the danger of a similiar incident.
+1.1.7.1.4.2.2.3.1. Con: Other early-type designs are still in operation.
+1.1.7.1.4.2.2.4. Con: The Fukushima reactor was designed for the midwestern US. Its backup generators were in the [basement](https://www.supportuw.org/wp-content/uploads/bhs_showcase_series_corradini.pdf) to avoid tornado damage, when they should have been near the roof to avoid flood waters.
+1.1.7.1.4.2.2.5. Con: The tsunami guards for Fukushima were built based on predictions form the sixties. 18 years before the meltdown, more recent prediction indicated said guards needed to be raised significantly, and yet those warnings were ignored.
+1.1.7.1.4.2.3. Con: Research shows that even in the worst case, few people are affected, they die of cancer at old age and only the radiation-imposed cancer is involved, no other cancer forms are stimulated by radiation.
+1.1.7.1.4.2.3.1. Pro: Scientific studies of those exposed to nuclear power accidents has found that in all commercial power generation incidents other than Chernobyl, no adverse health effects have ever been detected. [pdfs.semanticscholar.org](https://pdfs.semanticscholar.org/bf44/0b6bd30b75b2abc1efe0953d32a06ae2b825.pdf) [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770131/) [www.unscear.org](http://www.unscear.org/docs/reports/2013/UNSCEAR_2013A_C-18_Doses_evacuees_Japan_first_year_2014-08.pdf)
+1.1.7.1.4.2.4. Con: Pollution from NPPs is far less than the actual pollution of all other forms of electricity production and is comparable with the so called overall pollutant effect of Renewables.
+1.1.7.1.4.2.5. Con: Radioactive particulate release from coal-fired plants is part of their normal operation. It's a far larger problem and replacing coal with nuclear could reduce the scale of radioactive pollution.
+1.1.7.1.4.2.6. Con: Nuclear reactors release less radiation into the environment per kWh in comparison to coal, since radioactive compounds are concentrated and released in coal fly ash.
+1.1.7.1.4.2.6.1. Pro: According to U.S. NCRP reports, population exposure from 1000-MWe power plants amounts to 490 person-rem/year for coal power plants, 100 times as great as nuclear power plants \(4.8 person-rem/year\). [en.wikipedia.org](https://en.wikipedia.org/wiki/Radioactive_waste#Coal)
+1.1.7.1.4.2.7. Con: The ecological consequences of nuclear power plant disasters are largely positive, since humans avoid the area, allowing it to thrive. [www.bbc.com](http://www.bbc.com/earth/story/20160421-the-chernobyl-exclusion-zone-is-arguably-a-nature-reserve) [large.stanford.edu](http://large.stanford.edu/courses/2012/ph241/goldenstein2/) [www.nature.com](https://www.nature.com/articles/526166a)
+1.1.7.1.4.3. Con: This does not take into account The other health risks for the production and handling of nuclear waste, including the \(very\) long term impact.
+1.1.7.1.4.3.1. Con: Stringent Government and world wide guidelines enforce the handling of nuclear material to maintain a near negligible effect on health. Nuclear workers when compared to airline industry workers, receive less dose due to ALARA principles by utilizing shielding, distant, and limited exposure.
+1.1.7.1.4.4. Pro: Unlike what happens with other forms of energy, nuclear waste is totally confined and can be stored, handled or later recycled or reused in future reactors leaving byproducts with shorter half-lives.
+1.1.7.1.4.5. Pro: Switching from coal to natural gas would have no effect on climate change, but would save $20 to $50 billion dollars in healthcare spent on illness from particulate pollution.  [theconversation.com](https://theconversation.com/the-other-reason-to-shift-away-from-coal-air-pollution-that-kills-thousands-every-year-78874)  Nuclear power would have the same effect on health, while also reducing climate change.
+1.1.7.1.4.6. Pro: 7,500 and 52,000 Americans meet early deaths because of particulate pollution from power plant emissions.   [theconversation.com](https://theconversation.com/the-other-reason-to-shift-away-from-coal-air-pollution-that-kills-thousands-every-year-78874)  Every year, fossil fuel plants kill more people than the death toll of all nuclear power plant accidents combined.
+1.1.7.1.4.7. Pro: Coal power plants kills more than 10 times as many people as any other energy source, per kWh, mainly from fine toxic particulate pollution.  [www.forbes.com](https://www.forbes.com/sites/jamesconca/2017/11/07/pollution-kills-more-people-than-anything-else/#43586a031a35)
+1.1.7.1.4.8. Pro: Coal power plants release thousands of pounds each of lead, cadmium, and arsenic per year. [www.ucsusa.org](https://www.ucsusa.org/clean-energy/coal-and-other-fossil-fuels/coal-air-pollution)
+1.1.7.1.4.9. Pro: Coal power plants are responsible for 42 percent of US mercury emissions, releasing ~45,000 lbs of mercury per year [www.ucsusa.org](https://www.ucsusa.org/clean-energy/coal-and-other-fossil-fuels/coal-air-pollution)
+1.1.7.1.4.10. Pro: -> See 1.1.7.1.4.2.6.
+1.1.7.2. Con: -> See 1.1.7.1.4.
+1.1.7.3. Pro: The water used to cool nuclear plants warms up, when that water is released to the ecosystem it changes the thermal balance of the river it came from, disrupting most fish and plants communities ref: [link.springer.com](https://link.springer.com/article/10.1023/A:1007676325825)
+1.1.7.3.1. Con: -> See 1.1.1.2.1.1.
+1.1.7.3.2. Con: The residual heat from the process could be used for district heating: [www.tandfonline.com](https://www.tandfonline.com/doi/abs/10.13182/NT78-A16162)
+1.1.7.4. Pro: Hydrogen explosions may result from the failure of specific alloys and components integral to some Nuclear Design. [Evidenced by Zirconium-Hydrogen reaction from Fukushima.](https://www.scientificamerican.com/article/partial-meltdowns-hydrogen-explosions-at-fukushima-nuclear-power-plant/)
+1.1.7.5. Pro: Airplanes can fall onto nuclear power plants.
+1.1.7.5.1. Con: [Nuclear power plants are designed to withstand direct hits by airplanes without failure.​](https://www.nei.org/CorporateSite/media/MemberFiles/Backgrounders/Reports-Studies/EPRI_Nuclear_Plant_Structural_Study_2002.pdf?ext=.pdf)
+1.1.7.5.2. Con: Even if a reactor wasn't protected from an airliner impact, more lives would be lost from the passengers on board than from radioactive fallout on the ground.
+1.1.7.5.2.1. Pro: Nuclear power kills far fewer people than fossil fuels, per kWh.
+1.1.7.5.2.1.1. Con: -> See 1.1.7.1.
+1.1.7.5.2.1.2. Pro: [Coal power kills 129 people for every TWh of energy produced, worldwide.​](https://www.nextbigfuture.com/2011/03/lifetime-deaths-per-twh-from-energy.html) \(1,840 times as many as nuclear\)
+1.1.7.5.2.1.3. Pro: [Coal power kills 13 people for every TWh of energy produced in the United States.​](https://www.nextbigfuture.com/2011/03/lifetime-deaths-per-twh-from-energy.html) \(185 times as many as nuclear.\)
+1.1.7.5.2.1.4. Pro: [Nuclear power kills 0.07 people for every TWh of energy produced](https://www.nextbigfuture.com/2011/03/lifetime-deaths-per-twh-from-energy.html), including all disasters, such as Chernobyl.
+1.1.7.5.2.1.4.1. Con: This doesn't account for the [black swan](https://en.wikipedia.org/wiki/Black_swan_theory) risk of nuclear weapons proliferation, which could dramatically increase the expected death toll per TWh.
+1.1.7.5.2.1.4.1.1. Pro: Increasing nuclear fission power production worldwide leads to the proliferation of nuclear weapons
+1.1.7.5.2.1.4.1.1.1. Pro: Countries which produce nuclear fission power can produce nuclear weapons fairly easily.
+1.1.7.5.2.1.4.1.1.1.1. Pro: Radioactive wastes can be used to create dirty bombs and incite terror
+1.1.7.5.2.1.4.1.1.1.1.1. Con: Dirty bombs are lethal because they are a bomb, not because of their radioactivity:
+[apps.cei.psu.edu](http://apps.cei.psu.edu/evac/scenarios_etc/Dirty_Bomb_Explosion_Description.pdf)
+
+Spent fuel and most other nuclear materials are solids. Chalk rivers has a dedicated dirty bomb test ground. Every case, the explosion gives more damage than the nuclear debris, which basically can be recollected and stored.
+1.1.7.5.2.1.4.1.1.1.2. Con: Not if developed nations supply the fuel, in that case, enrichment facilities are unnecessary.
+1.1.7.5.2.1.4.1.1.1.3. Con: Nations which are test-ban signatories and develop their energy program under the supervision of the IAEA will not have the opportunity to use their nuclear material for weapons.
+1.1.7.5.2.1.4.1.1.2. Con: The largest countries that require the most energy already have nuclear weapons or are in a nuclear treaty.
+1.1.7.5.2.1.4.1.1.2.1. Pro: Few countries who acquired nuclear technology from the US, UK, or Canada have developed a weapons program. IAEA nonproliferation work has improved since that time.
+1.1.7.5.2.1.4.1.1.2.1.1. Pro: Belgium is [a non-nuclear weapon state](http://www.acronym.org.uk/old/map/belgium) which hosts US tactical weapons. Belgium began developing its nuclear energy capability in 1975.
+1.1.7.5.2.1.4.1.1.2.1.2. Pro: President Eisenhower created the [Atoms for Peace program](https://en.wikipedia.org/wiki/Atoms_for_Peace) in the 1950's which encouraged the peaceful development of nuclear energy.
+1.1.7.5.2.1.4.1.1.2.1.3. Pro: India created a nuclear weapon in 1974 after research starting in 1944, and after obtaining a Canadian CIRUS reactor. This resulted in strengthening of nonproliferation policies.
+1.1.7.5.2.1.4.1.1.2.1.4. Con: Pakistan gained the ability to create nuclear weapons by stealing Uranium centrifuging technology from URENCO. AQ Khan traded this technology to China, Iran, and North Korea. Only the Iranian weapons program was halted by a joint American/Israeli cyber attack.
+1.1.7.5.2.1.4.1.1.3. Con: Nuclear power can produce energy within countries that already have established nuclear industries and distribute that energy by means not involving the transportation of fissile material.
+1.1.7.5.2.1.4.1.1.4. Con: Creating nuclear weapons from civilian power reactors is not possible. [wayback.archive.org](https://wayback.archive.org/web/20150821173643/http://depletedcranium.com/why-you-cant-build-a-bomb-from-spent-fuel/) [atomicinsights.com](https://atomicinsights.com/proving-a-negative-why-modern-used-nuclear-fuel-cannot-be-used-to-make-a-weapon/)
+1.1.7.5.2.1.4.1.1.4.1. Con: The claim applies only to modern, Western, designs. For example, following the decision of the USA to cease nuclear cooperation with it's allies after WW2, the UK's initial nuclear weapons were manufactured using fissile material from Windscale \(now Sellafield\), Calder Hall, Chapelcross and likely Dounreay., all civilian nuclear power stations
+1.1.7.5.2.1.4.1.1.5. Con: [About 10 percent](http://www.nytimes.com/2009/11/10/business/energy-environment/10nukes.html) of electricity in the United States is fuel from dismantled nuclear bombs, including Russian ones.
+1.1.7.5.2.1.4.1.1.6. Con: Having nuclear reactor does not mean having the ability to mine uranium and manufacture it into plutonium for nukes.
+1.1.7.5.2.1.4.1.1.7. Con: There are other nuclear cycles, such as the thorium cycle, that are useful for electricity but not useful for weapons.
+1.1.7.5.2.1.4.1.1.7.1. Con: The "LiFTR" reactor and other common Thorium molten salt reactor designs have opportunity for diversionary pathways. This makes them more difficult to monitor by the IAEA.
+1.1.7.5.2.1.4.1.1.7.2. Pro: "Once-thru" fuel cycles like the denatured MSR and certain fast breeder reactors are resistant to proliferation. Any sealed fuel system can be made tamper evident which helps the IAEA fight weapons proliferation.
+1.1.7.5.2.1.4.1.1.8. Pro: The primary danger of nuclear energy production is not from meltdown or waste, but from nuclear weapons. Many countries cannot be trusted with the plutonium bred by nuclear power plants, which can be separated chemically from nuclear fuel much more economically than enriching uranium, and then used to produce nuclear bombs. So it's better to phase out nuclear worldwide and focus on renewable energy instead, to reduce the risk of nuclear proliferation.
+1.1.7.5.2.1.4.1.1.8.1. Con: There are proliferation-resistant reactor designs that can be used for power, but not weapons.
+1.1.7.5.2.1.4.1.1.8.1.1. Pro: Thorium based nuclear reactors, such as LFTRs, can actually destroy weapons grade waste.
+1.1.7.5.2.1.4.1.1.8.1.1.1. Con: There's no such thing as "weapons-grade waste". Weapons-grade materials are highly enriched and expensive to produce; they don't get produced as a waste product.
+1.1.7.5.2.1.4.1.1.8.2. Con: War is usually motivated by economic concerns. A country with efficient energy production will have a stronger economy and less need to go to war. Without war as a motivation, countries won't have a reason to misuse plutonium.
+1.1.7.5.2.1.4.1.1.8.2.1. Con: Efficient energy production cannot prevent economic concerns by itself. Even with affordable energy there are many other ways national economies can go wrong.
+1.1.7.5.2.1.4.1.1.8.2.2. Con: Economic concerns are not the only cause of wars.
+1.1.7.5.2.1.4.1.1.8.3. Con: Chemically separating Uranium Oxide fuel pellets requires handling the short-lived fission products which are very dangerous.
+1.1.7.5.2.1.4.1.2. Con: Nuclear weapons rely on highly enriched uranium and certain isotopes of plutonium. Light water reactors \(current technology\) rely on low-enriched uranium. Next generation thorium reactors produce products that are not desirable for weapons \(easy to track\). Existing breeder reactors were built for the purpose of creating weapons grade plutonium. As long as the right reactor design is licensed, weapons proliferation risk is a non-issue.
+1.1.7.5.2.1.5. Pro: Nuclear power is the safest source. It is the least deadly option as measured by deaths per terawatt-hour among a list of energy sources that includes wind, hydro and solar \(I couldn't find data for geothermal\). [NextBigFuture deaths per terawatt-hour](https://www.nextbigfuture.com/2011/03/deaths-per-twh-by-energy-source.html)
+1.1.7.5.2.1.6. Pro: Nuclear has cost fewer lives per KJ produced, than renewables. Solar, the next safest energy source, loses due to the large number of deaths caused by people falling off roofs during installation. Note that this death toll includes the 3 major nuclear disasters, all of which resulted with extremely outdated technology. Modern nuclear power plants are physically not capable of going into meltdown.
+[Non-renewables & Hydro: Table 5 on page 223](https://pdfs.semanticscholar.org/46c2/cf9f80b0ba08d50ea65fbb8b9aaae2ddb665.pdf)
+[Nuclear & Solar: page 13](https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull21-1/21104091117.pdf)
+1.1.7.5.2.1.6.1. Con: As of 2011, worldwide [only four](https://news.nationalgeographic.com/news/energy/2011/03/110323-fukushima-japan-new-nuclear-plant-design/) new nuclear plants have passive safety features. The other 61 under construction used the "outdated technology". Thus the "modern" nuclear plants can melt down, and it's only the \(hypothetical\) future nuclear plants that can't.
+1.1.7.5.2.1.7. Con: -> See 1.1.7.5.2.1.4.1.
+1.1.7.5.3. Pro: Although naturally improbable; artificially, [terrorist attacks do present a real threat.](https://en.wikipedia.org/wiki/September_11_attacks)
+1.1.7.6. Con: -> See 1.1.7.5.2.1.
+1.1.7.7. Con: Rooftop solar panels are estimated to produce 0.44 deaths per TWh; This is more than for nuclear fission with 0.04 deaths per TWh.[twugbcn.files.wordpress.com](https://twugbcn.files.wordpress.com/2010/10/deaths-per-twh-for-all-energy-sources.pdf)
+1.1.7.7.1. Con: The reference given is for rooftop solar. Large scale photovoltaic power plants would be safer.
+1.1.7.8. Con: Because of the nature of nuclear power and the centralised way it is produced, nuclear accidents tend to be bigger in scale than other forms of sustainable energy. Therewith perceptions of the danger are distorted.
+1.1.7.8.1. Pro: Bigger scale events are more influential to societies than more deaths that are spread out over time and locations.
+1.1.7.8.2. Pro: Because of the bigger accidents, it also increases the chance that people that are against nuclear power die in accidents, rather than just people that have accepted the risks of a given technology \(e.g solar panels\).
+1.1.7.9. Pro: Small amounts of radioactive waste can contaminate huge areas \(e.g. Fukushima and the Pacific basin\), with unpredictable consequences ecologically or to people.
+1.1.7.9.1. Pro: -> See 1.1.7.1.4.2.2.
+1.1.7.9.2. Con: Fukushima has had little impact on Japanese and Pacific Ecosystems. [www.whoi.edu](http://www.whoi.edu/page.do?pid=127297)
+1.1.7.9.2.1. Con: Effects of radiation are long term and cumulative.  It is not currently possible to assess those impacts that still lie in the future. "The long-term fate of the contamination is still unknown, and information about how much radiation is stored in sediments and how much is still leaking from delayed sources, such as groundwater, has yet to be quantified." [www.sciencedaily.com](https://www.sciencedaily.com/releases/2016/10/161018141309.htm)
+1.1.7.9.2.1.1. Con: That is why it is being continually monitored and it has been shown local ecosystems have already recovered from short term mutagenic and other radiation-related impacts. As time wears on, the likelihood of continued damage dramatically decreases.
+1.1.7.9.2.1.2. Con: Effects of radiation are not cumulative, nor are they long term. Doses below 100 mSv pr year has no statistically significant negative impact on the health of adult humans.
+1.1.7.9.2.1.2.1. Pro: -> See 1.1.6.9.3.1.2.
+1.1.7.9.3. Con: -> See 1.1.7.1.4.2.7.
+1.1.7.10. Con: -> See 1.1.7.1.4.2.2.1.
+1.1.7.11. Con: Emerging nuclear technologies like thorium \(LFTR\) will eliminate safety concerns. There is more than one way to derive energy from atoms, and more than one type of atom.
+1.1.7.11.1. Pro: Liquid fluoride thorium reactors have a salt plug which must be actively cooled during normal operation. If the plant loses backup power \(like Fukushima\) then the plug stops getting cooled and melts with no further intervention. Then the fuel will drain into a holding tank with a different shape that allows more neutrons to escape from the fuel, which stops the chain reaction so it can't melt the tank. This type of feature is called "passive safety", and many newer designs have them.
+1.1.7.11.2. Pro: The nuclear chain involved with thorium do not break down into dangerous elements or weaponizable elements. The elements produced have long half lives meaning less dangerous radiation.
+1.1.7.12. Pro: Potentially unsafe in earthquake prone areas
+1.1.7.12.1. Con: This can easily be solved by not building nuclear reactors in places where earthquakes are known to occur, so this argument is only valid for some countries.
+1.1.7.12.1.1. Con: Earthquakes can happen anywhere on Earth.
+1.1.7.12.2. Con: Nuclear power plants are designed to weather intense earthquakes and many have endured quakes beyond their design basis. The 7 Fukushima reactors scrammed immediately and were not significantly damaged by the 9.0 Tohoku earthquake.
+1.1.7.12.3. Con: Reactors can [be built on ships](https://en.wikipedia.org/wiki/Russian_floating_nuclear_power_station) which are plugged into the grid. Since they're floating they're not that vulnerable to earthquakes. They can also unplug and move further out to sea to avoid any tsunami after the earthquake is detected. They can even dunk their core in the sea to cool and prevent it from melting down.
+1.1.7.13. Pro: There is a risk of terrorist attacks on nuclear power plants. This is dangerous.
+1.1.7.13.1. Con: New nuclear plants can sustain a direct hit from an airplane with no ecological or biological consequences. No terrorist would be able to target a nuclear power plant.
+1.1.7.13.2. Con: A terrorist attack on a population center would be more effective than a successful attack on a NPP.
+1.1.7.13.2.1. Con: The point of terrorism is not to be effective at killing people, but to be effective at intimidating people. A [dirty bomb](https://en.wikipedia.org/wiki/Dirty_bomb), for example, probably wouldn't kill anyone, but could be a very effective terrorist tactic.
+1.1.7.13.2.1.1. Con: Dirty bombs could be made using medical isotopes, Thorium, or natural Uranium which are available without nuclear power plants.
+1.1.7.13.2.1.2. Con: Increasing the presence of nuclear power and national preparedness for an accident would render the "terror" component of a dirty bomb attack ineffective.
+1.1.7.13.3. Con: Nuclear facilities have been attacked by anti-nuclear activists and suffered no harm.
+1.1.7.13.4. Pro: Terrorists can use advanced hacking tools to get access to the power plant.
+1.1.7.13.4.1. Con: The internal controls of a nuclear power plant are not connected to the internet. It is on a physically separate internal network.
+1.1.7.14. Pro: -> See 1.1.7.1.4.2.
+1.2. Con: Nuclear power has negative political implications.
+1.2.1. Pro: In many countries the public opinion against nuclear fission is too high, which makes it unrealistic on a political level, despite being technically and financially viable.
+1.2.1.1. Pro: 53% of Germans support closing nuclear power plants. [daliaresearch.com](https://daliaresearch.com/53-of-germans-support-closing-nuclear-power-plants/)
+1.2.1.1.1. Con: When only 53% are in favor of something the German public opinion seems split.
+1.2.1.1.2. Con: The fact that something is supported by a bare majority in a poll only tells us something about its political popularity, which has absolutely nothing to do with its scientific efficacy.
+1.2.1.2. Con: [Worldwide, approximately 60%](https://www.oecd-nea.org/ndd/pubs/2010/6859-public-attitudes.pdf) of the general population in countries with reactors tend to favor nuclear power.
+1.2.1.3. Con: Whether people want nuclear or not is irrelevant to whether we should adopt it.
+1.2.1.3.1. Con: The original thesis makes a claim on desirability.
+1.2.2. Pro: Nuclear energy relies on imported fuel which is difficult and expensive to safely transport and store. This would end up  leaving the nation's energy supply vulnerable to foreign powers.
+1.2.2.1. Con: There is no single one producer of nuclear fuel; and in contrast other energy sources, uranium is a very dense fuel. You can buy and store fuel for whole life-cycle of atomic power plant in small building next to it. On the other hand renewables are dependent on batteries, produced in China, or gas \(for fast starting gas turbines to cover sudden production drops from "renewables"\) imported from Russia or Middle East.
+1.2.2.2. Con: Uranium can be extracted from seawater, thus nuclear fuel is invulnerable to foreign boycott. While this is currently more expensive than mining it \(by up to 10x\), fuel costs are such a small fraction of the cost of nuclear power that it actually wouldn't affect the price of the electricity much.
+1.2.3. Pro: -> See 1.1.7.5.2.1.4.1.1.
+1.3. Pro: Nuclear power is the most economical choice.
+1.3.1. Pro: An immediate shift to nuclear power is the most efficient way to mitigate the consequences of Peak Oil.
+1.3.1.1. Pro: Nuclear power plants can be built fast.
+1.3.1.1.1. Pro: [Small modular reactors](https://en.wikipedia.org/wiki/Small_modular_reactor) can be mass-produced in a factory and then used as [drop-in replacements for coal-fired boilers](https://www.economist.com/node/17647651), thus re-using existing turbines, generators, and transmission lines.
+1.3.1.1.1.1. Con: Numerous small-scale reactors increases the risk of security breaches and safety hazards
+1.3.1.1.2. Pro: Nuclear deployment rates have been faster than all renewable energy deployment rates in countries that have committed to nuclear power, such as Sweden and France. [science.sciencemag.org](http://science.sciencemag.org/content/353/6299/547.full)
+1.3.1.1.3. Con: Nuclear plants take around 10 years to build in the US.
+1.3.1.1.3.1. Con: The US has existing nuclear generation, many of which can be safely retrofitted to last until the 2030's.
+1.3.1.1.3.2. Con: The developing world has a greater rate of energy growth than the US and has been successful in procuring nuclear generation built by South Korea, China, or Russia. For example the NPP's in the UAE coming online in 2018.
+1.3.1.1.3.3. Con: Much of this cost is red tape, and the engineering costs of redesigning the plant each time for each new site. Re-use of existing designs can speed up the process, significantly saving money on both counts. Small modular reactors could even be mass-produced in a factory for economies of scale and trucked to the site.
+1.3.1.1.3.3.1. Pro: -> See 1.3.1.1.1.
+1.3.1.1.3.4. Pro: [Fermi 1 and 2 were constructed in approximately 7 and 13 years respectively in circa 1960s.](https://en.wikipedia.org/wiki/Enrico_Fermi_Nuclear_Generating_Station)
+1.3.1.1.4. Con: -> See 1.1.5.
+1.3.1.1.5. Pro: Nuclear capacity can be expanded fairly quickly. The mean time to build a nuclear power plant is 7.5 years. [How long does it take to build a nuclear power plant?](http://euanmearns.com/how-long-does-it-take-to-build-a-nuclear-power-plant/)
+1.3.1.1.5.1. Con: If climate change is an issue, then we might not have 7.5 years, according to the more pessimistic climate models.
+1.3.1.2. Pro: When peak uranium hits, thorium will still be a legitimate power option.
+1.3.1.2.1. Con: Nuclear plant manufacturers don't like thorium.
+1.3.1.2.1.1. Pro: Uranium fuel manufacturers are "razor blade makers" to draw an analogy to men's hygiene. Razor handles are cheap or free and razor blades have a large markup. Similarly zircalloy cladding is a complex technology and centrifuging is IAEA controlled. Thorium \(LFTR\) and other MSR technology does not use solid fuel manufacturering process. This may eliminate some "rent seeking" opportunities.
+1.3.1.2.1.2. Con: Nonproliferation controls are complicated in a liquid fuel process. The reason to avoid Thorium is not entirely profit motivated.
+1.3.1.3. Pro: Current Uranium prices are not nearly as responsive to market conditions as oil prices are.
+1.3.1.4. Con: Push for energy efficiency would significantly reduce our energy consumption.
+1.3.1.5. Con: -> See 1.1.2.6.2.
+1.3.1.6. Pro: Nuclear provides on-demand power that could help electric car industry, which is a direct threat to oil.
+1.3.1.7. Pro: Uranium and plutonium are more well spread around the world than oil, making nuclear energy cheaper and of easier access to everyone.
+1.3.1.8. Pro: Mass produced nuclear plants are fast deploying plants. France and US are an example during the 70's. China, Saudi Arabia and India are today's examples.
+1.3.1.9. Con: As a very large fan of nuclear, I would like to mention, Oil is almost exclusively used in transportation, whereas nuclear provides grid electricity, which does not easily transfer to transportation uses.  
+
+It will be many decades before the bulk of cars are electrics.  
+
+Nuclear is a viable replacement for coal and natural gas in production of grid energy, not for replacement of oil.
+1.3.1.9.1. Con: Electric vehicles are not required. Given cheap enough electricity, [hydrocarbon fuels can be made from air](https://www.theatlantic.com/science/archive/2018/06/its-possible-to-reverse-climate-change-suggests-major-new-study/562289/).
+1.3.1.9.1.1. Pro: [Carbon Engineering Ltd.](http://carbonengineering.com/about-a2f/) has plans in motion to synthesize hydrocarbons on an industrial scale in just a few years.
+1.3.2. Pro: Nuclear power is the lowest-cost form of power.
+1.3.2.1. Con: Nuclear power is getting more expensive due to increased safety requirements when renewable sources are scaling, improving and seeing costs significantly come done, even offshore wind.
+1.3.2.2. Con: A new nuclear plant in the U.S. costs about [$9 billion](https://www.bloomberg.com/view/articles/2017-01-31/the-dream-of-cheap-nuclear-power-is-over) to build. This is more than 1,000 times as much as a new fracking well, and more than 3 times as much as the world’s biggest and most expensive solar plant.
+1.3.2.2.1. Con: The world's most expensive solar plant is the just-announced Crystal River plant in Florida, which will cost $6 billion dollars, approximately the same cost as one of the originally planned AP-1000 reactors that were to be built. It will also put out approximately 10/57ths the output. [futurism.com](https://futurism.com/a-major-florida-utility-company-is-investing-6-billion-in-solar-instead-of-nuclear/)
+1.3.2.2.2. Con: -> See 1.3.1.1.3.3.
+1.3.2.2.3. Con: The absolute cost is much less important than the cost per watt. Nuclear plants have extremely high output, so they're quite competitive in terms of necessary cost.
+1.3.2.3. Con: When waste management is included, nuclear power does not seem very cost effective compared to wind and PV. [grisanik.com](http://www.grisanik.com/blog/real-cost-of-nuclear-energy/)
+1.3.2.3.1. Con: -> See 1.1.6.1.
+1.3.2.3.2. Con: -> See 1.1.6.8.
+1.3.2.3.3. Con: When all external costs are included, wind and PV do not seem very cost effective compared to nuclear.
+1.3.2.3.4. Pro: One cannot speak of sustainable energy if one doesn't take into account the cost of externalities such as making all used materials unharmful for people and the environment. Imposing such a heritage to our next generations is the very definition of un-sustainability.
+1.3.2.4. Pro: Nuclear power plants are expensive to build but relatively cheap to run: the operating cost of these plants is [lower](http://www.world-nuclear.org/information-library/economic-aspects/economics-of-nuclear-power.aspx) than almost all fossil fuel competitors.
+1.3.2.4.1. Con: The levelized cost of energy of Nuclear power is over three times that of some renewable sources \(onshore wind and solar\). [www.lazard.com](https://www.lazard.com/media/450337/lazard-levelized-cost-of-energy-version-110.pdf)
+1.3.2.4.1.1. Con: The IEA provides a much less biased view of LCOE for energy sources, and they rank nuclear as one of the lowest cost baseload technologies [Projected Costs of Generating Electricity](https://www.iea.org/textbase/npsum/eleccost2015sum.pdf) Off Shore Wind can be very low cost, but it is not the technology for base load power.
+1.3.2.4.1.2. Pro: Nuclear fission is economically obsolete. Utility scale renewables now cost less per KWH over a 20 year life cycle than any other means of power production. Costs continue to drop 10%-20%+ per year. Renewables are 24/7 base load capable with grid storage and offline gas turbines for backup when needed. [Comparative Costs per Megawatt Hour](http://www.solarcellcentral.com/images/avg_cost_of_energy.jpg)
+1.3.2.4.1.3. Con: The linked document specifically said they didn't account for certain factors, like intermittency of the renewable sources. These cannot be used for baseload power generation without grid-scale energy storage, which would greatly increase the cost. Nuclear doesn't have that problem.
+1.3.2.4.1.4. Con: Lazard's costs are US-centric and are reflecting first-of-a-kind nuclear plants built by inexperienced supply chains. Series production costs are far lower in e.g. China and South Korea and would be so in the US too, according to how industrial learning works in general. [Historical construction costs of nuclear reactors.](https://www.sciencedirect.com/science/article/pii/S0301421516300106)
+1.3.2.5. Pro: China is working on reducing cost of nuclear reactors, for instance at the Yangjiang nuclear power plant, where six 1GW reactors are being built for the cost of only [$10.2 billion](https://en.wikipedia.org/wiki/Yangjiang_Nuclear_Power_Station).
+1.3.2.6. Pro: In addition to low emissions and very good safety records, Nuclear has very high labor content.  Approximately 70% of total costs of Nuclear is salaries to workers.  Those workers pay high taxes on that income for general benefit of their communities.  Compare coal/oil/gas where about 70% of total costs is a fuel bill.  Nuclear powered communities are clean, safe and prosperous communities.
+1.3.2.6.1. Pro: Bruce Power in Ontario, Canada produces 6000 MW and has about 4000 staff.  That is ~ 600 workers per 1000 MW.  Coal,oil or gas are about 100 workers per 1000 MW.  Hydroelectric \(after initial construction\) is about 50 workers per 1000 MW.  These numbers do not include variable costs of transmission lines.
+1.3.2.7. Con: New nuclear has to have extremely high guaranteed prices for energy produced in order to convince anyone to build them. [en.wikipedia.org](https://en.wikipedia.org/wiki/Hinkley_Point_C_nuclear_power_station)
+1.3.2.7.1. Pro: UK Hinkely Point nuclear power station project has a guaranteed price of [92.5 GBP/MWh](https://www.reuters.com/article/us-britain-nuclear-costs/uk-hinkley-plant-could-cost-38-bln-in-electricity-payment-top-ups-watchdog-idUSKBN19D2WP) whereas the latest offshore tenders came in at [57.5 GBP/MWh](https://www.windpoweroffshore.com/article/1444146/uk-offshore-falls-5750-latest-cfd-round).
+1.3.2.7.1.1. Con: A different project approach at Hinkley Point could have [reduced the electricity price to £48.50 per megawatt hour](http://www.theweek.co.uk/60778/hinkley-point-will-cost-public-double-the-amount-it-should)
+1.3.2.7.1.2. Con: This is an apples to oranges comparison. The nuclear power figure represents a steady base load source, while the wind power is intermittent. Most of the time you won't get the maximum wattage and the energy will have to come from other sources. In practice, this means expensive "[peaker plants](https://en.wikipedia.org/wiki/Peaking_power_plant)" burning fossil fuels to even it out. Therefore, wind is still more expensive.
+1.3.2.8. Con: -> See 1.3.2.4.1.
+1.3.3. Pro: Nuclear power plants can also very efficiently generate hydrogen, a carbon-free fuel usable in electric fuel cells and internal combustion engines.
+1.3.3.1. Pro: Nuclear plants can electrolyze or thermolyze ocean water into hydrogen.
+1.3.3.2. Con: Hydrogen fuel cells are less efficient than the power grid.
+1.3.3.2.1. Con: Not all energy can be distributed through an electricity grid.
+1.3.3.2.1.1. Pro: Vehicles \(cars, ships, planes\) require an internal power source. They can't be plugged into the grid and move at the same time.
+1.3.3.2.2. Pro: All-electric vehicles manage an overall power-plant-to-wheel efficiency rating of 73 percent, compared to 22 percent for hydrogen fuel cell vehicles [www.greencarreports.com](https://www.greencarreports.com/news/1113175_electric-cars-win-on-energy-efficiency-vs-hydrogen-gasoline-diesel-analysis) [insideevs.com](https://insideevs.com/efficiency-compared-battery-electric-73-hydrogen-22-ice-13/)
+1.3.3.2.3. Pro: Power grid transmission is 85% to 95% efficient. [hub.globalccsinstitute.com](https://hub.globalccsinstitute.com/publications/energy-efficiency-technologies-overview-report/6-efficiency-and-power-grids) [blog.schneider-electric.com](https://blog.schneider-electric.com/energy-management-energy-efficiency/2013/03/25/how-big-are-power-line-losses/) [www.eia.gov](https://www.eia.gov/tools/faqs/faq.php?id=105&t=3)
+1.3.3.2.4. Con: The use of Heat for thermolysis of water and hydrogen storage can be considered as an effective solution for load displacement and energy storage resulting in greater efficiency of the electricity grid to balance stochastic renewables and to match demand.
+1.3.3.3. Pro: The synergy of multiple production processes \(high temperature heat from high-temperature gas-reactors can be used to efficiently create hydrogen, as a fuel or resource for the industry\), can boost the system efficiency of nuclear stations \([oecd-nea.org](https://www.oecd-nea.org/science/pubs/2006/6122-production-hydrogen.pdf)\) \([www4vip.inl.gov](http://www4vip.inl.gov/research/next-generation-nuclear-plant/)\).
+1.3.3.4. Con: Hydrogen is an impractical and dangerous way to store energy.
+1.3.3.4.1. Pro: Liquid hydrogen must be kept at very low temperatures \(\< 33 Kelvin\) to remain stable as a liquid. To do so requires special cryogenic storage, which if compromised or improperly vented, would mean the liquid could very rapidly boil-off to over 845x its volume as a gas. Hydrogen can become dangerous far quicker than similar fuels, such as gasoline, due to how quickly it can evaporate and fill an area with combustible gas, and due to its specific energy. \([airproducts.com](https://www.airproducts.com/~/media/Files/PDF/company/safetygram-9.pdf)\)
+1.3.3.4.2. Pro: Even when liquified, hydrogen's energy density is 1/4 that of gasoline.
+1.3.3.4.3. Con: There are [many other ways to store hydrogen](https://www.energy.gov/eere/fuelcells/hydrogen-storage) besides cryogenic storage.
+1.3.4. Pro: -> See 1.3.1.1.
+1.3.5. Con: -> See 1.3.2.1.
+1.3.6. Con: -> See 1.3.2.4.1.
+1.3.7. Con: -> See 1.3.2.2.
+1.3.8. Con: -> See 1.3.2.3.
+1.3.9. Con: Nuclear power puts a major economical burden on future generations to solve the technological challenge of waste management.
+1.4. Con: -> See 1.1.6.
+1.5. Con: -> See 1.1.7.
+1.6. Con: A combination of alternative energy sources could avoid the need for nuclear power.
+1.6.1. Pro: Global sustainable energy production could be accomplished with nuclear fusion.
+1.6.1.1. Con: Until fusion becomes a reality nuclear fission is necessary as stepping stone.
+1.6.1.1.1. Pro: While having flaws, we can switch to fission faster, allowing better sources \(like solar and mby fusion\) to catch up to it later, resulting in faster reaction to climate change.
+1.6.1.1.2. Pro: Nuclear fusion is still just an experiment.
+1.6.1.1.2.1. Pro: The only potentially energetically viable nuclear fusion plant [ITER](https://www.engadget.com/2017/12/06/the-colossal-iter-fusion-power-facility-is-halfway-finished/) is just halfway through
+1.6.1.1.2.1.1. Con: The ITER design is probably already obsolete. MIT has plans for a much smaller Tokamak using newer superconductors.
+1.6.1.1.2.1.1.1. Pro: [MIT is estimating 15 years](https://news.mit.edu/2018/mit-newly-formed-company-launch-novel-approach-fusion-power-0309) \(~2033\) to their first commercial pilot fusion plant.
+1.6.1.1.2.1.1.1.1. Con: In 1955, the chairman of the Atoms for Peace conference [predicted](https://www.nature.com/articles/457265a) that "a method will be found for liberating fusion energy in a controlled manner within the next two decades.”
+1.6.1.1.2.1.1.2. Pro: The [ARC reactor](https://en.wikipedia.org/wiki/ARC_fusion_reactor) is less than 7m in diameter, about half that of ITER. This greatly reduces the building cost.
+1.6.1.1.2.1.1.2.1. Con: This kind of reactor is only theoretical.
+1.6.1.1.2.1.1.2.1.1. Con: So is ITER, which has not been completed either.
+1.6.1.1.2.2. Con: There's at least a dozen potential designs that look promising. Only one of them has to work.
+1.6.1.2. Con: -> See 1.6.1.1.2.
+1.6.1.3. Pro: Nuclear fusion creates less nuclear waste than nuclear fission.
+1.6.1.4. Pro: In the long-term, nuclear fusion will be cheaper than nuclear fission
+1.6.1.4.1. Pro: Fuel price for nuclear energy is going up as stock is declining.
+1.6.1.4.1.1. Pro: Stock prices show signs of an inverse relationship to uranium prices. In [2008](https://www.cameco.com/invest/markets/uranium-price) the stock market went down and uranium rose. Since then there was a consistent decline in uranium prices.
+1.6.1.4.1.1.1. Con: This was unrelated to the stock market and uranium prices are relatively constant since the "uranium bubble of 2007\(!\)"
+1.6.1.4.1.2. Con: Fuel for nuclear reactors is a small amount of the operating cost, so even if the price increases substantially it still won't account for much.
+1.6.1.4.1.3. Con: [New technologies](http://www.nytimes.com/2013/09/25/business/energy-environment/atomic-goal-800-years-of-power-from-waste.html) enable us to use other materials, such as thorium, and the current "waste" as fuel. This concept provides us with enough fuel for the next hundreds of years, without mining for new uranium. Furthermore, uranium and other fissile isotopes are actually an abundance. \(more uranium than gold, silver or mercury\) and production from ocean water gives us a virtual unlimited supply.
+1.6.1.4.1.4. Con: This is the exact opposite of reality. Uranium ore is close to its [historical lows](https://tradingeconomics.com/commodity/uranium), and in inflation adjusted terms it's about 1/8th the price it was in the 1960s.
+1.6.1.4.1.5. Con: The cost of uranium is capped at the cost to extract it from seawater.
+1.6.1.4.2. Pro: Fusion is still research, it will get cheaper as it matures.
+1.6.1.4.3. Pro: Seawater can be used for nuclear fusion, which is infinite, and at scale, can become cheap.
+1.6.1.4.4. Con: Containing fuel in a fusion reactor is the key problem, which will always make it expensive.
+1.6.1.4.4.1. Con: Containment is a science/technological problem which through continued improvements can be made more efficient, similarly to Moore's Law in computing: [sample chart](http://i.imgur.com/BN0pz.png)
+1.6.1.4.4.2. Pro: Fusion reactions require plasma heated to millions of degrees. No solid material container can withstand that temperature.
+1.6.1.4.5. Con: A nuclear fusion power plant produces way less than a nuclear fission power plant.
+1.6.1.4.6. Con: Fusion power requires breeding tritium from lithium, which must be mined like uranium or any other element.
+1.6.1.4.6.1. Con: Mining and refining of lithium is already a well-established technology
+1.6.1.4.6.2. Con: Fusion can be achieved through reaction of deuterium with itself.
+1.6.1.4.6.2.1. Con: A fusion reaction of deuterium with itself is too expensive.
+1.6.1.5. Con: Nuclear fusion will always be more expensive than nuclear fission.
+1.6.1.5.1. Pro: The nuclear fusion plant ITER is expected to cost [$22bn](https://www.engadget.com/2017/12/06/the-colossal-iter-fusion-power-facility-is-halfway-finished/).
+1.6.1.5.1.1. Con: -> See 1.6.1.1.2.1.1.
+1.6.1.5.1.2. Con: ITER is a research plant and at best a prototype. Prototypes are always more expensive than the production model.
+1.6.1.5.2. Con: Studies have concluded that the cost of producing fusion power will be roughly the same as fission.  It requires more input power, but the energy yield is greater too. [euro-fusion.org](https://www.euro-fusion.org/faq/is-fusion-less-or-more-expensive-than-fission/)
+1.6.1.5.3. Con: -> See 1.6.1.4.1.
+1.6.1.5.4. Con: -> See 1.6.1.4.2.
+1.6.1.5.5. Con: -> See 1.6.1.4.3.
+1.6.1.5.6. Pro: -> See 1.6.1.4.4.
+1.6.1.5.7. Pro: -> See 1.6.1.4.5.
+1.6.1.5.8. Pro: -> See 1.6.1.4.6.
+1.6.2. Con: Solar energy emits more greenhouse gases per kilowatt-hour than nuclear energy.
+1.6.2.1. Pro: The median lifecycle greenhouse gas emissions of [PV solar power plants](https://en.wikipedia.org/wiki/Photovoltaic_power_station) are [48 g of CO₂ equivalent for every kWh of energy produced](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources#2014_IPCC.2C_Global_warming_potential_of_selected_electricity_sources​) \(4 times as much as nuclear\).
+1.6.2.1.1. Con: The linked data is from 2014. PV technology changes fast.
+1.6.2.2. Pro: The median lifecycle greenhouse gas emissions of nuclear power plants are[12 g of CO₂ equivalent for every kWh of energy produced.​](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources#2014_IPCC.2C_Global_warming_potential_of_selected_electricity_sources)
+1.6.2.2.1. Con: This is heavily dependent on the supply chain for nuclear. The upper limit is 110g/kWh from your link.
+1.6.2.3. Con: IPCC figures on which this claim is based are recognised by the authors as contingent on various factors which have been changing recently \(e.g. efficiency of solar panels improving\).[en.wikipedia.org](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources)
+1.6.3. Pro: Hydroelectric power is an alternative renewable and green energy source.
+1.6.3.1. Con: [Hydroelectric power](https://www.newscientist.com/article/dn7046-hydroelectric-powers-dirty-secret-revealed/) produces very large amounts of greenhouse gases when land is dammed and vegetation rots.  The [worst](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources#2014_IPCC.2C_Global_warming_potential_of_selected_electricity_sources) hydro plants produce more than twice as much greenhouses gases as the worst coal plants.
+1.6.3.1.1. Con: While this is ultimately unavoidable in areas where reservoirs are created anew and thus much vegetation is flooded, it is controllable in magnitude and finite in duration: reservoirs do not grow and grow, and decaying vegetation cannot release greenhouse gases forever.
+1.6.3.2. Con: Hydroelectric power is not available everywhere.
+1.6.3.3. Con: Major hydroelectric dams modify water flows, causing international tensions, such as the [Rogun Hydropower plant](https://www.azernews.az/region/104684.html) in Tajikistan.
+1.6.3.3.1. Pro: The scale of the reservoirs, infrastructure and displaced population resulting from a project that would produce enough hydroelectricity to replace fossil fuel would be catastrophic, similar to that of [NAWAPA](https://en.wikipedia.org/wiki/North_American_Water_and_Power_Alliance).
+1.6.3.4. Con: Hydroelectric dams pose ecological threats to indigenous aquatic life.
+1.6.3.5. Con: The construction of dams has an enormous impact in the coast of a country, with the lack of sand reaching the sea causing a massive raise in the levels of marine abrasion.
+1.6.4. Pro: Geothermal is an alternative green solution to nuclear power.
+1.6.4.1. Con: Geothermal is limited to locations with significant temperature gradients near the surface.
+1.6.4.1.1. Con: That information is dated. The oil industry is already capable of drilling wells in excess of 10km deep. [Enhanced geothermal](https://en.wikipedia.org/wiki/Enhanced_geothermal_system) at this depth would work [practically anywhere on Earth](https://en.wikipedia.org/wiki/Hot_dry_rock_geothermal_energy).
+1.6.4.1.1.1. Con: That it is possible does not make it economical. Wells in excess of 4 km deep cost tens of millions of US dollars to drill.
+1.6.4.1.1.1.1. Con: Nuclear power plants are also very expensive up front, costing billions of US dollars. But as with nuclear, geothermal plants have comparatively low operating costs.
+1.6.4.1.1.1.1.1. Con: -> See 1.3.1.1.3.3.
+1.6.4.1.1.2. Pro: The oil industry has also developed the [hydraulic fracking](https://en.wikipedia.org/wiki/Hydraulic_fracturing#Massive_fracturing) technology required to heat mine [hot dry rock](https://en.wikipedia.org/wiki/Hot_dry_rock_geothermal_energy).
+1.6.4.1.1.2.1. Con: Fracking often causes earthquakes. The damage to nearby cities might be even worse than a meltdown.
+1.6.4.2. Pro: -> See 1.1.1.3.6.
+1.6.5. Con: The mathematical models show that there is no feasible path forward to decarbonization without nuclear energy, in fact nuclear energy will provide the fastest and cheapest route to decarbonization [roadmaptonowhere.com](http://www.roadmaptonowhere.com/)
+1.6.5.1. Con: -> See 1.1.2.1.
+1.6.6. Pro: Alternative energy sources could avoid the need for nuclear power provided that we reduce our need for electricity.
+1.6.6.1. Con: Nuclear power is one of few power sources that can produce energy constantly, thus it can not be substituted by an energy source with fluctuations.
+1.6.6.1.1. Con: Grid-scale energy storage technology could be used to even out the fluctuations.
+1.6.6.1.1.1. Con: This adds significantly to the already high cost of renewable energy, vs. either nuclear or fossil fuels.
+1.6.6.1.1.2. Con: Storing energy in some other form, and then converting it back to electricity, is inefficient. The more efficient technologies also tend to be too expensive to use at scale. This significantly reduces the net power output of intermittent renewable sources. Nuclear power plants can provide constant baseload power, without these extra conversion steps.
+1.6.6.1.2. Con: Long-range power transmission technology could be used to even out the fluctuations in output from multiple intermittent sources, like wind and solar.
+1.6.6.1.2.1. Con: Wind power fluctuations are spread across a wide area and cannot be evened out by power transmission.
+1.6.6.1.2.1.1. Pro: "the available wind farm operational data shows that, on the eastern Australian grid, it is not possible for wind energy ever to displace dispatchable, reliable generation supplying the base load demand." "increased wind penetration, even if
+spread evenly across the eastern Australian grid, will result in an increasing contribution to grid instability" \[WIND FARMS IN EASTERN AUSTRALIA –  RECENT
+LESSONS\]\(https://www.windturbinesyndrome.com/wp-content/uploads/2013/08/Miskelly-dispersal.pdf​\)
+1.6.6.1.2.1.2. Pro: "although the increased geographic diversity of the interconnected system resulted in greater smoothing of instantaneous power and power variation at the hourly scale, distinct daily and seasonal trends were found in the aggregate wind power. The results indicate that, despite interconnecting over 26,000 MW of nameplate wind plant capacity at distances over 3000 km, there appears to be a saturation of benefit that geographic diversity can provide at longer timescales" [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1002/we.1597)
+1.6.6.1.3. Con: Wind and solar complement each other, since it's windier and night and on stormy/cloudy days, especially in the winter. On the other hand, clear summer days with low wind are good for solar.
+1.6.6.1.4. Con: Some renewable energy technology can produce energy more constantly, such as hydroelectric, solar thermal, ocean wave, geothermal, [high-altitude wind](https://en.wikipedia.org/wiki/High-altitude_wind_power), [space-based solar](https://en.wikipedia.org/wiki/Space-based_solar_power), and biofuel.
+1.6.6.1.4.1. Pro: -> See 1.1.1.3.2.3.
+1.6.6.1.4.2. Pro: -> See 1.1.1.3.2.4.
+1.6.6.1.4.3. Con: Space-based solar technology with terrestrial transmission is experimental and currently has no rigorous evaluation of EROEI. The estimated EROEI is around 4:1 \("Do the Math" Murphy 2012\), which is 4% of the EROEI of centrifugally enriched Uranium fission.
+1.6.6.2. Con: High energy consumption is consistent with a high standard of living and practical transport modes. It is also essential for food production, health care, education, etc. Electricity consumption will only increase with decarbonisation. Trying to save energy to make renewables a compatible energy source for all of our needs isn't realistic.
+1.6.7. Pro: Nuclear power plants produce only electrical energy, while renewables can produce thermal or mechanical energy without an electrical intermediate.
+1.6.7.1. Con: -> See 1.3.3.
+1.6.7.2. Con: Nuclear power does not produce electricity directly, this claim is inherently invalid, since reactors most often produce heat first to generate steam which drives a turbine. This demonstrates the ability to produce both thermal and mechanical energy.
+1.6.7.3. Con: Many types of advanced reactors make high temperature heat for chemical processing. A thorium Molten salt reactor for example runs at 600 degrees so it can power a cheap turbine. And gas cooled reactors can get even hotter, so as to process chemicals like fertilizer, ammonia, or help mineral processing.
+1.6.8. Pro: Oceans can be used for energy production.
+1.6.8.1. Pro: Wave power is an alternative renewable and green energy source.
+1.6.8.1.1. Con: Wave power is a rather heterogeneous form of energy. This makes that only a few select locations \(for example along the westerlies\) have a wave height that would make exploitation \(economically\) feasible. Energy density in other places makes wave power impracticable.
+1.6.8.2. Pro: Tidal power is an alternative renewable and green energy source.
+1.6.8.2.1. Con: Tidal power is applicable to some places, however, location, scale and economics do not always make it a viable solution. [Total global potential](https://tidalenergytoday.com/2015/02/17/estimate-of-global-potential-tidal-resources/) is currently estimated at around  150 TW/h per year. As a comparison, world consumption of electricity \(2014\) was 23,816 TW/h.
+1.6.8.3. Con: Ocean based methods of power generation is not available in inland regions.
+1.6.9. Con: Renewable technologies such as solar are less reliable than nuclear, as in order to sustain a large portion of the grid, energy storage solutions are required due to fluctuating energy output. Nuclear provides constant power, so it will be cheaper and there will be no need for batteries or other energy storage methods which cost money.
+1.6.9.1. Con: Enough renewable energy for the lowest power days, plus batteries to give 24h consistency, are still cheaper than nuclear.
+1.6.9.1.1. Con: Battery technology has not been proven at scale. Hornsdale Power Reserve \(the "big Tesla battery"\) did not displace any fossil fuel projects.
+1.6.9.1.2. Con: -> See 1.3.1.1.3.3.
+1.6.9.2. Pro: No renewable carbon-free source of energy can provide the same scale and reliability as nuclear power. The sun shines when it shines. The wind blows when it blows. Unfortunately, that doesn't happen when electricity demand peaks.
+1.6.9.2.1. Con: Peak energy demand is due to air conditioning in the middle of hot summer days. That's exactly when the sunshine is most available for solar power.
+1.6.9.2.1.1. Con: This is only true in warm climates and in the summer. For colder weather, peak demands does not correlate with maximum solar radiation.
+1.6.9.3. Con: -> See 1.1.1.3.6.
+1.6.10. Con: Thermal energy produced by Nuclear reactors is the main proposed solution for decarbonizing the concrete and steel manufacturing industries, which renewables rely heavily on.
+1.6.11. Con: With the exception of hydro power, most alternative energies produce power at highly variable and unpredictable levels.   You might be able to produce \(at great expense\) as much power from wind and solar as from nuclear, but only until the sun goes down or the wind slows.   Once it does, if you don't have without a stable/controllable source like nuclear, coal, etc., you just have to huddle in the dark.
+1.6.11.1. Con: -> See 1.1.2.2.
+1.6.11.2. Con: Biogas plants provide steady and reliable energy production.
+1.6.11.2.1. Con: Biogas still produce greenhouse gas emissions and so do not solve the problem.
+1.6.11.2.1.1. Con: The carbon dioxide gas emissions are exactly offset by the atmospheric carbon absorbed by the plants used to produce the biogas in the first place.
+1.6.11.2.2. Con: Biogas is too expensive compared to fossil fuels or even intermittent renewables + batteries.
+1.6.11.3. Con: Batteries can be used to bridge periods of variable energy production.
+1.6.11.4. Con: -> See 1.1.1.3.6.
+1.6.11.5. Con: -> See 1.6.6.1.4.
+1.7. Pro: Nuclear energy produces lower amounts of greenhouse gases than other forms of power, mitigating climate change.
+1.7.1. Con: Sufficient fission reactors can not be built in time to prevent further climate change.
+1.7.1.1. Pro: -> See 1.3.1.1.3.
+1.7.1.2. Pro: In order to stabilize CO2 concentrations at about 450 ppm by 2050, global emissions
+would have to decline by about 60% by 2050.[climatecommunication.org](https://www.climatecommunication.org/wp-content/uploads/2011/08/presidentialaction.pdf)
+1.7.1.3. Pro: Wind farms are faster to build: a 10 MW wind farm can easily be built in two months. A larger 50 MW wind farm can be built in six months.[ewea.org](http://www.ewea.org/wind-energy-basics/faq/)
+1.7.1.3.1. Con: Although this claim may be technically correct, politically it is not that easy. For example, an attempt to build a wind farm in Cape Cod [ultimately failed after more than a decade](https://www.nytimes.com/2017/12/19/us/offshore-cape-wind-farm.html).
+1.7.1.4. Con: History provides proof that nuclear is \(together with hydro\) a great way to decarbonize energy production \(from environmental progress. [static1.squarespace.com](https://static1.squarespace.com/static/56a45d683b0be33df885def6/t/5a02016eec212dc32217e28f/1510080893757/Power+to+Decarbonize+%283%29.pdf)\)
+1.7.1.5. Con: No solution is a silver bullet in itself. We need all what we can achieve. Nuclear energy will not save us and will not doom us, it is just one efficient tool we have among many others to mitigate climate change.
+1.7.1.6. Con: This not by physical restraints but by political ones. China in searching for a market for high temperature gas reactor \(that cannot melt down\) already constructed.
+
+[world-nuclear.org](http://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx)
+
+[scmp.com](http://www.scmp.com/business/companies/article/2107354/china-pips-us-race-start-worlds-most-advanced-nuclear-power-plant)
+1.7.1.7. Con: -> See 1.3.1.1.1.
+1.7.2. Pro: -> See 1.6.2.
+1.7.3. Pro: Using nuclear energy rather than coal significantly reduces CO2 emissions.
+1.7.3.1. Pro: The median lifecycle greenhouse gas emissions of coal power plants are [820 g of CO₂ equivalent for every kWh](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources#2014_IPCC.2C_Global_warming_potential_of_selected_electricity_sources) hour of energy produced \(68 times as much as nuclear\).
+1.7.3.2. Pro: -> See 1.6.2.2.
+1.7.4. Con: Wind power and nuclear power produce similar amounts of greenhouse gases.
+1.7.4.1. Pro: The median lifecycle greenhouse gas emissions of wind power plants are [12 g of CO₂ equivalent for every kWh of energy produced](https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources#2014_IPCC.2C_Global_warming_potential_of_selected_electricity_sources) \(about the same as nuclear\).
+1.7.4.2. Pro: -> See 1.6.2.2.
+1.7.4.3. Con: True but wind energy requires vastly more space that can't be used for housing. Then Wind energy isn't as reliable. which means we need to built-in more redundancy and storage.
+1.7.4.4. Con: One still needs to store the energy when considering [wind power](https://www.kialo.com/do-we-need-nuclear-power-for-sustainable-energy-production-6182/6182.0=6182.1+6182.193+6182.217+6182.7/+6182.7). 1 kWh of wind energy isn't equivalent to 1 kWh of nuclear energy.
+1.7.5. Pro: -> See discussion #2748: Nuclear power is a viable way to reduce carbon emissions.
+1.7.6. Con: There is the possibility of what is called Nuclear Cannibalism, which suggests that life-cycle emissions may outweigh carbon offsets. [www.researchgate.net](https://www.researchgate.net/publication/254603351_Nuclear_Nonsense_Why_Nuclear_Power_is_No_Answer_to_Climate_Change_and_the_World%27s_Post-Kyoto_Energy_Challenges) [www.mdpi.com/2071-1050/4/6/1173/pdf](http://www.mdpi.com/2071-1050/4/6/1173/pdf)
+1.7.6.1. Con: A 2012 Yale University meta-analysis found that the median emissions of Nuclear energy were far lower than that found by Sovacool and Cooper, which ruled out the possibility of Nuclear Cannibalism in most instances of plant construction. [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1530-9290.2012.00472.x)
+1.7.6.2. Con: The study above compares the average American Greenhouse Gas emissions - including 20% Nuclear Power = 695g/kWh to Nuclear Power alone \(between 16 and 55 g/kWh\) resulting in a factor of 12. It should rather compare emissions without nuclear \(=\(695-55*0.2\)/0.8=805 g/kWh\), which gives a factor of 14,6.
+1.7.7. Pro: Nuclear power does not produce greenhouse gases at all, a controlled reaction produces heat, that heats water, that turns to steam and turns turbines. The "smoke" that comes out the top of a nuclear energy plant is in fact steam.
+1.7.7.1. Pro: Once installed, the plant does not make any further greenhouse gas except steam\( vapours\) which are indeed harmless.
+1.7.7.1.1. Con: Steam is a greenhouse gas as well
+1.7.7.1.1.1. Con: And excess water vapor in the air will condense into more clouds, thus increasing the Earth's [albedo](https://en.wikipedia.org/wiki/Albedo). Let's not forget that coal-fired plants also need a condenser for their boilers. Carbon dioxide, on the other hand, can only increase the greenhouse effect.
+1.7.7.1.1.2. Con: Not all nuclear plants need to release steam into the atmosphere. Due to thermodynamics, any heat engine needs both a source and a sink for the heat, but the sink need not produce steam. It could simply dump warmed water back into a river, for example.
+1.7.7.1.1.2.1. Con: -> See 1.1.7.3.
+1.7.7.1.1.3. Con: Steam may be considered a greenhouse gas but it is not a pollutant. Steam does not harm or disturb the environment as other greenhouse gases do.
+1.7.7.1.1.4. Con: The water vapour in the Earth's atmosphere is in equilibrium over time with liquid water in the oceans, lakes, rivers, etc. Adding steam to the atmosphere will not change this equilibrium -- it will just rain a bit more somewhere. Warming the atmosphere for other reasons does change the equilibrium, creating a positive feedback loop.
+1.7.7.1.2. Con: The plant requires refuelling, fuel storage, and decomissioning once built. All of those processes produce CO2.
+1.7.7.1.2.1. Con: Unlike fossil fuel power, there is no fundamental reason why this has to be so. If construction, mining, and transportation were battery-powered, and said batteries were charged by carbon-free power plants \(like nuclear\), then it would be carbon free also.
+1.7.7.2. Con: -> See 1.7.7.1.1.
+1.7.7.3. Con: Construction of nuclear power plants, mining and transportation of ore/fuel/waste, and other steps in the nuclear fuel cycle produce greenhouse gases.
+1.7.7.3.1. Con: -> See 1.3.2.3.3.
+1.7.7.3.2. Con: -> See 1.7.7.1.2.1.
+1.7.8. Con: -> See 1.7.7.3.
+1.8. Pro: Fuel for nuclear energy will last a very long time.
+1.8.1. Con: -> See 1.6.1.4.1.
+1.8.2. Con: When deciding to rely on fission power for increasing demand, our power consumption might increase thousand-fold.
+1.8.2.1. Con: Because modern fission energy provides electrical and medium temperature thermal energy there is not necessarily a parasitic effect in adopting fission.
+1.8.2.2. Con: Jevons paradox is the effect where increased energy availability or increased efficiency results in greater consumption. This results in a less than perfect benefit, but still a net gain.
+1.8.3. Pro: Nuclear reactors use very little fuel.
+1.8.3.1. Pro: Conventional nuclear reactors will use a soda can sized \(8kg\) mass of fuel to provide 2kW of energy continually for 80 years.
+1.8.4. Con: Nuclear fuel is not infinite, which means it will run out at some point. This makes it unsustainable in the long run.
+1.8.4.1. Con: The sun is not infinite, which means it will run out at some point. This makes renewable energy unsustainable in the long run.
+1.8.4.2. Con: [Collecting uranium dissolved in seawater and processing it in breeder reactors could supply Earth's energy needs for 5 billion years.​](http://large.stanford.edu/publications/coal/references/docs/pad11983cohen.pdf)
+1.8.4.2.1. Con: Although theoretically appealing, it is still not feasible. One still needs to enrich the extracted uranium.["We have a lot of work to do still but these are big steps toward practicality"](https://engineering.stanford.edu/magazine/article/how-extract-uranium-seawater-nuclear-power)
+1.8.4.2.1.1. Con: Enrichment is not required. A [traveling wave reactor](https://en.wikipedia.org/wiki/Traveling_wave_reactor) can run on natural or even depleted uranium. It does need an initial neutron source, but this could be done with some kind of [neutron generator](https://en.wikipedia.org/wiki/Neutron_generator), like a [fusor](https://en.wikipedia.org/wiki/Fusor) if enriched uranium becomes too expensive.
+1.8.4.2.2. Con: Thorium is more promising as the fuel of nuclear power plants of the future. [Thorium vs Uranium fuels](http://www.thoriumpowercanada.com/technology/the-fuel/thorium-vs-uranium-fuels/)
+1.8.4.2.2.1. Pro: -> See 1.1.7.11.
+1.8.4.2.2.2. Pro: -> See 1.1.7.5.2.1.4.1.1.7.
+1.8.5. Pro: -> See 1.8.4.2.
+1.8.6. Pro: Closing the fuel cycle with Generation IV reactors will make efficient use of U238 and increase by thousand years the availability of nuclear fuel.
+1.8.6.1. Con: Generation IV reactors are currently in [research and development](https://en.wikipedia.org/wiki/Generation_IV_reactor). These benefits are claims/goals without the backing of publicized science or objective existence of said reactors.
+1.8.7. Pro: -> See 1.3.1.2.

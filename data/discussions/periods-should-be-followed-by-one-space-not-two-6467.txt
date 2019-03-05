@@ -1,0 +1,59 @@
+Discussion Title: Periods should be followed by one space, not two.
+
+1. Periods that end a sentence should be followed by one space, not two.
+1.1. Con: Using two spaces after a period improves readability.
+1.1.1. Con: This applies primarily to mono-spaced fonts, which were common in the days of typewriters, but rarely used today outside of technical applications.
+1.1.1.1. Pro: There are a wide variety of proportional fonts available on computers now that make using two spaces unnecessary.
+1.1.2. Con: Using 2 spaces is distracting, therefore reducing readability, on modern formatting systems.
+1.1.2.1. Pro: Even in monospaced fonts, double spaces can still be distracting or annoying simply because of the amount of space they take up, and because the correct meaning can usually still be derived with single spacing.
+1.1.2.1.1. Con: Just because a reader can come to the same conclusion when presented information in two different ways does not automatically imply that one of those two ways is distracting.
+1.1.2.1.2. Con: The claim that double spaces are annoying does not necessarily imply that they are distracting.
+1.1.2.2. Con: No evidence is provided to support this claim.  The body of studies taken as a whole has been inconclusive.
+1.1.3. Con: No evidence is provided to support this claim.  The body of studies taken as a whole has been inconclusive.
+1.1.4. Pro: Two spaces gives the eyes a clearer stopping point between each sentence.
+1.2. Pro: Some forms of technology expect users to use a single space.
+1.2.1. Pro: When writing for the web using a WYSIWYG editor, using two spaces can cause your text to be weirdly offset from the left margin in some cases. Why? Browsers combine multiple consecutive spaces into one, UNLESS they're defined with the html code for a non-breaking space \(&nbsp;\). If you insert two spaces, most WYSIWYG editors will use a normal space for the first, and &nbsp; for the second.
+1.2.1.1. Pro: Browsers will treat that second space like any other character for justification purposes.
+1.2.2. Pro: Using one space after a period at the end of a sentence makes it easier to write and use automatic grammar checking software to enforce style, since other types of periods are also followed by one space.
+1.2.3. Pro: Double spaces were often used to make content clearer when it was typed on typewriters, which had no real kerning \(letter-spacing\) functionality. Modern-day computers do have that functionality, so double spaces after a period are now superfluous.
+1.3. Pro: Major style guides recommend one space.
+1.3.1. Pro: The MLA's default suggestion is one space \([style.mla.org](https://style.mla.org/2016/07/27/number-of-spaces-after-period/)\).
+1.3.1.1. Con: While the [MLA](https://style.mla.org/number-of-spaces-after-period/) does suggest one space, they explicitly allow for two spaces, and indicate that consistency is more important than whether one or two spaces are used.
+1.3.2. Pro: The AP Stylebook recommends 1 space.
+1.3.3. Pro: The Chicago manual of style recommends one space[chicagomanualofstyle.org](http://www.chicagomanualofstyle.org/qanda/data/faq/topics/OneSpaceorTwo.html).
+1.3.4. Con: Style guides change their preferences over time, therefore are not a consistent reliable source for what styles should be used.
+1.3.4.1. Con: Style guides are slow to change, therefore it is not difficult to be in alignment with them on this issue.
+1.4. Con: Since two spaces distinguish sentence-final periods from other types of periods, using two spaces encodes more information than one space and is therefore the better convention.
+1.4.1. Pro: If you want to change from two periods to one, a simple find-replace will do the trick.  However, if you want to change from one to two, you cannot do so automatically.  Therefore, when in doubt, it's better to start with two spaces after periods.
+1.4.2. Pro: Typesetting software such as TeX supports a different code for sentence-final periods so that it can leave extra space at the end of sentences. On the absence of such a command, two spaces communicates the same intent to a typesetter. [tex.stackexchange.com](https://tex.stackexchange.com/questions/2229/is-a-period-after-an-abbreviation-the-same-as-an-end-of-sentence-period)
+1.4.3. Con: Since other types of periods preceding spaces are less common than sentence-final periods non-sentence-final periods should have the special punctuation rule in the interest of minimizing key strokes and compacting content.
+1.4.4. Pro: If periods are only used to end sentences, the number of spaces doesn't much matter, but when sentences also contain periods after abbreviations, using 2 spaces at sentence ends distinguishes them. If two spaces are used in the spots marked "\[two spaces\]", the following statement is clearer: "Dr. Smith supports H. R. 3250, as amended, or S. 125. \[two spaces\] Dr. Jones opposes it. \[two spaces\] S. 451 is better, says Jones."
+1.5. Con: Writing is designed to communicate meaning, and for the most part, a writer will communicate the same message whether they use one or two spaces.  Suggesting that sentences "should" be followed by one space is overly broad, when there are many contexts \(such as informal writing\) where the question is entirely irrelevant.
+1.5.1. Pro: When writing an email to a friend, it rarely makes a difference how many spaces are used.
+1.5.2. Con: "Should" in this context may mean something closer to: "The recommended norm is..." rather than "there is a moral obligation to...". If so, even in contexts where the choice is of little significance, there may still be a norm \(and whether the writer chooses to follow or ignore that norm does not affect the norm's existence\).
+1.6. Con: Anything that helps the reading eye comprehend the written material is worth doing.  Sentences are clumps of meaning.  The wider gap sets these discrete quantities apart, visually.  Not everyone reads at the same level.  There are many adults that struggle to read effectively.  Some basically 'fake' literacy.  Many suffer from varying degrees of dyslexia.  Denying them this very simple aid for the sake of fewer characters frankly shows a lack of compassion.
+1.6.1. Con: No evidence is provided to support the claim that using two spaces after a period helps struggling readers.
+1.7. Con: There is a noticeable correlation between age and two space periods. Two spaces was convention for mechanical typewriters and the continued usage could be explained by decades of muscle memory.
+1.7.1. Pro: Like the Oxford Comma argument, using one or two spaces should remain grammatically correct for the time being, so long as consistency is demonstrated throughout the document.
+1.7.1.1. Con: This argument appears to presuppose that there is agreement that consistency is the main factor determining appropriate usage of the Oxford comma. There is not consistent agreement on this point.
+1.8. Pro: No mainstream sites or publications use two spaces as their standard.
+1.8.1. Pro: Wikipedia strictly follows the one white space standard.
+1.8.1.1. Con: Wikipedia allows editors to use whatever form they prefer, relying instead on the browser to render the punctuation with a single space regardless of how it was originally written. [Wikipedia - Terminal Punctuation Spacing](https://en.m.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Spacing)
+1.8.2. Pro: The New York Times, Washington Post, Financial Times, The Economist strictly follows the one white space standard.
+1.8.3. Con: -> See 1.8.1.1.
+1.9. Con: Using two spaces after a period has been the convention.
+1.9.1. Con: Being conventional does not mean that it is a good idea. Especially because different languages have different conventions.
+1.9.2. Con: This is no longer the convention.[chicagomanualofstyle.org](http://www.chicagomanualofstyle.org/qanda/data/faq/topics/OneSpaceorTwo.html)
+1.9.2.1. Pro: -> See 1.3.
+1.9.3. Pro: Many people prefer using [two spaces](https://abovethelaw.com/2011/08/small-firms-big-lawyers-a-period-piece/) because it is the standard they work best with and are accustomed to.
+1.9.4. Con: Single spacing after a period has been the convention for printing books since the 1950s. [History of sentence spacing](https://en.wikipedia.org/wiki/History_of_sentence_spacing)
+1.9.5. Con: This convention is based on the technological limitations of the typewriter. It is obsolete.
+1.9.5.1. Pro: -> See 1.2.3.
+1.10. Pro: Besides in English, grammar also requires one space after period in other languages too, such as Italian, Spanish, French, etc.
+1.11. Pro: Using a single space is more efficient.
+1.11.1. Pro: One only needs to hit space once.
+1.11.2. Pro: Using one space after a period saves overall space.
+1.11.3. Pro: One space is unambiguous.
+1.11.4. Pro: There is less cognitive load involved if a single space is used everywhere because no decision-making is necessary when faced with a need for a space.
+1.11.4.1. Con: A writer who has learned the practice of using two spaces after a period is not faced with additional cognitive load about how many spaces to use.  If one is taught and sticks to a single convention, that convention quickly becomes an ingrained, automatic response.
+1.11.5. Con: For text that remains in digital form, the decreased typing time and decreased space usage are negligible efficiency gains.

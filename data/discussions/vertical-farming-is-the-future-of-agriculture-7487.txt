@@ -1,0 +1,120 @@
+Discussion Title: Vertical Farming is the Future of Agriculture
+
+1. Vertical Farming Should Replace Current Agricultural Methods
+1.1. Pro: Vertical farming helps decentralize food production since locals can produce more of their food in their own gardens.
+1.1.1. Pro: This reduces transportation cost and pollution.
+1.1.2. Pro: Vertical farming / cultivating is a way of introducing self sufficiency to the millions who live in properties with little or no space to do so.
+1.1.3. Pro: This helps in avoiding acts of [biowarfare and bioterrorism that could possibly affect farms](https://www.iatp.org/files/Agricultural_Biowarfare_and_Bioterrorism.htm).
+1.1.4. Pro: This helps consumers with knowing what is in their food if they grow it \(they can avoid anything that could negatively affect their health, such as pesticides and herbicides\) instead of letting external entities decide their food choices for them.
+1.1.5. Con: Cutting out the middleman is bad for those who rely on the role for their income.
+1.1.6. Pro: The food can be much cheaper. If seeds are collected at the end of each harvest, the price of one meal leads to an eternity of that food.
+1.2. Pro: [Vertical farming provides a solution for feeding the world's growing population](https://www.theneweconomy.com/technology/vertical-farming-is-going-to-feed-us-all) \(accompanied with the migration to cities\).
+1.2.1. Pro: As population grows, more lands will be used for housing and less will be available for farming. So we need to increase the production per square meter.
+1.3. Pro: Vertical farming helps the economy locally.
+1.3.1. Pro: Vertical farming creates jobs over time, whereas conventional farming [does not](https://www.urbanseedinc.com/solution) as much.
+1.3.2. Pro: Vertical farming creates high-skill jobs \(such as [engineers and technicians](https://www.urbanseedinc.com/solution)\)
+1.4. Con: Vertical farming might increase inequality as it requires a substantial amount of capital, technology and skill to establish. Therefore only large corporations will be able to benefit of vertical farming.
+1.4.1. Pro: If vertical farming reduces the cost of various crops, small farmers will be run out of business which thereby would increase inequality further. This claim is regarding small local farms in e.g. Asia and not regarding huge machine driven farms in e.g. America.
+1.5. Con: Fruits and vegetables produced through hydroponic are less tasty than when grown in natural soil.
+1.6. Con: Vertical Farming requires massive inputs \(in fertilizers, energy, and labour\) because of its intensive nature, and has a far larger footprint than conventional agriculture.
+1.6.1. Con: Vertical farming may have applications in rural communities in extreme enviroments, where farmable land is at a premium or nonexistent
+1.6.1.1. Pro: The food miles to deliver food to these rural communities outweigh the benefits of conventional agriculture.
+1.7. Con: Vertical farming is difficult to set up \(requires lights, building, water piping...\)
+1.7.1. Pro: These set ups are expensive.
+1.7.2. Pro: This problem limits the options of which foods can grow in these farms \(most likely not animals or trees\).
+1.7.2.1. Con: Vertical farming could [include](https://www.loudcloud.nl/food/vertical-farming-urban-agriculture-and-a-floating-farm/) the cultivation of cattle and fish.
+1.7.3. Con: Using an abandoned building makes use of a building that would require more difficulties in demolishing it \(resource use and time\)
+1.7.4. Con: On a small-scale, vertical farming provides an opportunity for urbanites to garden indoors in a small space when they cannot achieve it outdoors.
+1.8. Con: Vertical farming technology is not developed yet, making wide-scale adaption not likely at this moment.
+1.9. Pro: Vertical farming accelerates agricultural progress.
+1.9.1. Pro: Vertical farming allows for better experimentation, with more food in one place to observe and compare. These achievements could lead to better food production.
+1.9.1.1. Pro: Various growing alternatives could be tested, from methods \(such as [hydroponic](https://cmap.ihmc.us/wp-content/uploads/2014/10/CmapHydroponics.jpg) or [aeroponic](http://aerofarms.com/)\) to media \(like thin films and hydrogel\)
+1.9.2. Pro: Vertical farming plays on the imaginations of architects, allowing them more leeway in creativity for optimal structural design.
+1.9.3. Pro: Vertical production provides farming with a technological backbone.
+1.9.4. Pro: Vertical farming supports futuristic ideas.
+1.9.4.1. Pro: One of them is growing crops in space, which is great for when humanity colonizes Mars.
+1.9.5. Pro: Vertical farming allows agriculture to go where it normally cannot, like providing crowded urban areas the opportunity to produce and benefit from fresh local produce.
+1.9.6. Con: Vertical farming can be slow to adopt when conventional farming is well-known and ingrained in many cultures.
+1.10. Con: We should focus on bettering current farming practices before moving them to vertical farms.
+1.10.1. Pro: Without bettering current farming practices, vertical farming might not reach its potential and thus not live up to its hype.
+1.10.2. Con: Vertical farming has unique, major challenges to work through that conventional farming most likely won't be able to help out with.
+1.10.2.1. Pro: Turning buildings into farms is an infrastructural challenge.
+1.10.2.1.1. Pro: Even placing farm buildings in cities in a major challenge, due to the lack of space. Conventional farming cannot help as much, as that food travels many miles into a city and is not in cities themselves.
+1.10.2.2. Pro: Vertical farming requires [Controlled Environment Agriculture techniques.](https://en.m.wikipedia.org/wiki/Controlled-environment_agriculture)
+1.10.2.3. Pro: Organic farming does not translate to vertical farming well
+1.10.3. Pro: Vertical farming is kind of a second stage of farming, where the initial stage of conventional farming is perfected first. Then vertical farming [technologically advances](http://www.bbc.com/future/story/20170405-how-vertical-farming-reinvents-agriculture) the process.
+1.10.4. Pro: Conventional methods find financial success with a crop \(like [lettuce](https://www.youtube.com/watch?v=2nFQOkzEjxQ)\), then vertical farms have a chance at being financially viable when implementing the crop themselves.
+1.10.5. Pro: If conventional methods find marketing success with making unknown foods popular first \(like [quinoa, amaranth, fonio, and teff](https://www.huffingtonpost.com/2014/07/17/quinoa-popular_n_5596018.html)\), then vertical farms might find similar success.
+1.10.6. Con: That would be detrimental, as by then, so much damage is done by agriculture that it would be too late.
+1.10.7. Con: Vertical farming can be the next step towards bettering current farming practices.
+1.11. Pro: Vertically farming is healthier than conventional farming.
+1.11.1. Pro: These foods do not face natural elements, which make them healthier choices.
+1.11.1.1. Pro: Plants on upper levels would not be exposed to soil contaminants that cause toxins \(such as lead and PCB's\) and disease \(such as e. coli and salmonella from runoff\) to go into the food.
+1.11.1.2. Con: Radon seeping into buildings and could possibly affect vertically farmed produce.
+1.11.1.3. Pro: They probably would not have bugs, such as worms in apples.
+1.11.2. Pro: Different colors of lighting could let plants make more of some nutrients than under normal lighting.
+1.11.3. Pro: Vertical farming is even better than organic \(USDA\) growing methods.
+1.11.3.1. Pro: Organic farming includes growing meat, but vertical farming rarely does.
+1.11.4. Pro: Vertical farming enables growth in small spaces. Good for every home and you know what you grow. Hence healthy
+1.11.5. Pro: food is fresher, healthier, and possibly tastier from the lack of food miles.
+1.11.5.1. Pro: Foods that travel for many miles are not ripened on the plant, which makes them less nutritious than if picked at the peak of ripeness.
+1.11.5.1.1. Pro: Foods not ripened on plants probably do not taste as great, which could cause consumers to not as likely to buy the foods that are beneficial to them.
+1.11.5.2. Pro: The food passes through pollution \(especially from the truck carrying it\) for many miles, causing it to absorb pollutants for potentially thousands of miles!
+1.11.5.3. Pro: Food does not spoil as easily when eaten off the plant.
+1.11.5.4. Pro: Food that sits in supermarkets go bad faster by the time the consumer buys it. Then those people either get food poisoning by eating unfresh produce or other foods that get exposed to the unfresh food.
+1.11.6. Pro: If people go into buildings with vertically farmed crops, they can benefit from their presence.
+1.11.6.1. Pro: The plants provide ambiance that is beneficial to people's health through creating a green space.
+1.11.6.2. Pro: Plants keep buildings climate controlled, which is great for people's health.
+1.11.6.2.1. Pro: Plants add humidity, which helps the air from getting to dusty.
+1.11.6.2.2. Pro: Plants remove toxins from the air, which prevent the toxins from entering people's bodies.
+1.11.6.2.3. Pro: Plants supply oxygen, which is great for people to breathe in.
+1.11.6.2.4. Pro: Plants absorb CO2, which could prevent sick building syndrome.
+1.11.6.2.5. Pro: Plants keep the temperature at an ambient level, which helps people not get sick from constantly-changing temperatures
+1.11.6.3. Pro: Vertical farming allows everyday people to see what their food looks like when it is made, which is important.
+1.11.6.3.1. Pro: If people connect with their food, then they can place importance on and also cherish it.
+1.11.6.3.2. Pro: People can be more connected to nature when they are around lush and plentiful greenery.
+1.11.7. Pro: If the vertically farmed foods are hydroponic, then they could be grown to have much more nutrients than outdoor foods just through additives alone.
+1.12. Pro: Vertical farming is more eco-friendly.
+1.12.1. Pro: This farming practice leads to less food waste.
+1.12.1.1. Pro: Vertically farmed crops do not face the elements, which allows for greater production yields.
+1.12.1.1.1. Pro: Diseases, like blight, could devastate a crop's production.
+1.12.1.1.2. Pro: Infestations are less likely to occur at vertical farms.
+1.12.1.2. Pro: Food that falls on the floor in a vertical garden is probably still edible whereas the ground could cause a fallen fruit to rot.
+1.12.2. Pro: Vertical farms are less likely to damage nature.
+1.12.2.1. Pro: Runoff of fertilizers most likely would not go straight into rivers.
+1.12.2.1.1. Con: Runoff from vertical farms, such as fertilizers or used substrate, might still go back into rivers, as many drains lead into open waters.
+1.12.2.1.1.1. Pro: Aeroponics may be a better idea in this regard, because it uses less water and thus is less of an issue to worry about. However, it does not resolve the issue, as it still uses water.
+1.12.2.1.1.2. Con: Vertical farms could be regulated to prevent that from happening. It would be harder to regulate a farm, as they do not have much control over the matter regardless.
+1.12.2.1.2. Pro: The likelihood is reduced for various reasons, but the main one is control over where the waste goes \(because farms do not control where the water goes once it is absorbed in the soil\).
+1.12.2.2. Pro: Top soil would not get stripped away in a vertical farm.
+1.12.2.3. Pro: Vertical farming keeps most wildlife away from the crops, making it more humane and conserving to it.
+1.12.2.3.1. Pro: Vertical farming could prevent GM'd DNA from getting released into the wild.
+1.12.2.3.2. Pro: Insects that eat certain crops might not overgrow to infestation populations if crops are grown indoors.
+1.12.2.3.3. Con: Some wildlife relies on cropland for habitat and growing indoors removes some/all of their habitat range.
+1.12.2.3.4. Pro: Wildlife that go near pastures normally might get injured by machinery or shot by farmers trying to preserve their yields. These processes would not arise in a vertical farm.
+1.12.2.4. Con: If plants are indoors, then they cannot remove CO2 from where it affects climate change the most \(a.k.a. outdoors\).
+1.12.2.5. Pro: Vertical farming would enable us to give much of the land we currently use back to nature
+1.12.3. Pro: Vertical farms use [90% less water](http://www.basicknowledge101.com/subjects/verticalfarming.html) than is used in conventional farming.
+1.12.4. Pro: Vertical farming decreases to resources needed to grow food.
+1.12.4.1. Pro: Agriculture currently uses [37% of land mass globally](https://1.bp.blogspot.com/-GTzShqMYNVc/UXdrLyGRS1I/AAAAAAAAAfs/oGdtlZSr82U/s1600/EuBP_Land_use_2013.jpg) and vertical farming can lower that percentage.
+1.12.4.2. Con: Vertical farming would resort to crops that use less land mass \(in an effort to conserve\), which might not be the same as the foods that people choose to eat.
+1.12.4.2.1. Con: -> See 1.7.2.1.
+1.12.4.2.2. Con: People can be educated on optimal vertical farming crops to increase demand for them.
+1.12.4.3. Pro: Using less land could help wildlife survive better.
+1.12.4.4. Pro: Examples are land, water, CO2, and chemicals \(such as pesticides\)
+1.12.4.4.1. Pro: -> See 1.12.3.
+1.12.5. Pro: Vertical farming overall just saves more space. Theoretically, you could fit 1,000 m² in just a 1m² area of land. Scale it up and it becomes greater.
+1.12.5.1. Pro: [Vertical tube farms](https://www.youtube.com/watch?v=DchpBk6rfoc), on [Brass Eye by Chris Morris](https://www.amazon.com/Brass-Eye-Christopher-Morris/dp/B000066NT9) and narrated by Tania Bryer, takes up little space and seemingly no possibilities of extreme weather damage.
+1.12.5.1.1. Con: They're vulnerable to high winds
+1.12.6. Con: Vertical farming does not share spaces with nature, and cannot provide a home for wildlife like conventional farming can \(like utilizing [alfalfa](http://www.ppic.org/blog/farms-that-help-wildlife/) and [rice paddies for birds](http://www.sacbee.com/opinion/op-ed/soapbox/article177978241.html)\).
+1.12.7. Pro: Vertical farming decreases food miles
+1.12.7.1. Pro: -> See 1.11.5.
+1.12.7.2. Pro: This prevents heavy resource use and environmental destruction through transportation
+1.12.7.2.1. Pro: Examples of the environmental damage are pollution and building roads that require lots of resources and affect wildlife.
+1.12.8. Pro: Workplaces with vertical farms need less resources for climate control, as the plants provide it instead.
+1.12.8.1. Pro: Air conditioners and heaters would not need to be built for people's needs in these buildings.
+1.12.8.2. Pro: Electricity would not be needed to climate control the buildings \(except to take care of the plants\).
+1.12.8.2.1. Con: That is not a worry if the building uses only renewable resources.
+1.13. Con: There are other alternatives that can replace conventional agricultural methods without resorting to vertical farming.
+1.13.1. Pro: Hydroponics could be added to farms to make them more productive.
+1.13.1.1. Con: Alternative methods, like hydroponics, could be combined with vertical farming to make it even better than conventional farming.

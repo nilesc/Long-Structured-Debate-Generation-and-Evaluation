@@ -1,0 +1,42 @@
+Discussion Title: Is informed consent the determining factor of morality?
+
+1. We should use the quality of information and the presence/degree of consent among parties affected as the foundation/most critical point of determining the morality of an action.
+1.1. Pro: Maximizing informed consent in interactions will lead to the highest value gain for the most individuals in a utilitarian sense.
+1.1.1. Pro: Individuals that ensure those they interact with are well informed of possible outcomes and are okay with that will hurt very few people.
+1.1.1.1. Con: The individual taking an action can be poorly informed, and thus the information they provide can be misleading.
+1.1.1.2. Pro: When all parties involved in an interaction are well informed and consenting it means that the interaction is mutually beneficial.
+1.1.1.2.1. Pro: A well informed individual by definition knows what's good for themself.
+1.1.1.2.1.1. Con: This is virtually impossible for real people, lack of knowledge is inherent to the human mind
+1.1.1.2.2. Con: Someone could sell drugs to people with drug addiction who are well informed of the consequences and who consent but the action could be seen as not beneficial for the buyer, because buying them will be ultimately harmful for their health
+1.1.1.2.2.1. Con: If the ultimate result is bad for the drug user, they are not well informed. In fact, they are misinformed.
+1.1.1.2.3. Pro: If a being with perfect knowledge \(omniscience\) were to consent to an action. It would be safe to assume that the action is ultimately beneficial to it.
+1.1.1.2.3.1. Con: This assumes the rationality of this omniscient being, when that may not be the case
+1.1.1.2.4. Con: A consensual [prisonner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) is an example of parties involved in an interaction, both parties well-informed of all the consequences of their actions but if each agent acts according for their own benefit, then the interaction won't be mutually beneficial, exactly the opposite
+1.1.2. Con: Within our current limitations as humans, in order to survive/thrive, we must often impose our will on nature, and in circumstances, on other humans.
+1.1.3. Pro: Consensual interactions such as trade are the backbone of human success.
+1.1.4. Con: 'Maximizing' informed consent becomes ambiguous and subjective when weighing multiple individuals' values/consent against each other.
+1.2. Pro: -> See 1.1.1.2.
+1.3. Con: -> See 1.1.2.
+1.4. Pro: Any action can be made harmful when there is a lack of knowledge or consent.
+1.4.1. Pro: Sex- a potential great experience for well informed consenting individuals, becomes extremely traumatizing when lacking knowledge or consent.
+1.4.1.1. Pro: Sex, when individuals lack knowledge of the repercussions such as the case of children or hiding STDs usually has lasting negative impacts on lives.
+1.4.1.2. Pro: Sex, when lacking consent is rape.
+1.4.2. Con: Some actions without knowledge or consent can have good intent.
+1.4.3. Con: Some actions without knowledge or consent can have ultimately positive impacts on recipients.
+1.4.4. Pro: Trade is beneficial to well informed consenting parties. But without knowledge or consent, it creates a one-sided harmful interaction.
+1.4.4.1. Pro: Trade without consent is extortion or theft.
+1.4.4.2. Pro: Trade without good knowledge can be a scam or otherwise result in loss of value.
+1.5. Con: Consent doesn't contain all the information to decide if something is good or bad, therefore it's not a good base for morality
+1.5.1. Con: While consent of participating parties alone does not contain all of the necessary information, it does when participants have sufficient knowledge.
+1.5.1.1. Pro: -> See 1.1.1.2.
+1.5.2. Pro: Helping people who don't have [decisional capacity](https://plato.stanford.edu/entries/decision-capacity/#InfCon) to consent should be moral \(inaction is inside our definition of [culpability](https://en.wikipedia.org/wiki/Culpability)\)
+1.5.3. Pro: [Deontology](https://en.wikipedia.org/wiki/Deontological_ethics) and [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) point out to essential information to decide if something should be moral that's not contained in consent: rules and consequences
+1.5.4. Pro: While consent makes sense in actions between people, morality is much broader than that, and we need to decide if actions with only one person are good or bad. In this actions, consent doesn't give us any information
+1.6. Pro: Basing values on informed consent will establish an objective means of evaluating the goodness/badness of an action.
+1.6.1. Pro: This allows for a consistent logical means of determining societal rules.
+1.6.2. Con: There is still going to be many other subjective factors at play.
+1.6.2.1. Con: -> See 1.1.4.
+1.6.3. Con: -> See 1.5.4.
+1.7. Pro: While still leaving room for subjective values, this provides a framework for determining the morality of interactions with non-humans.
+1.8. Con: It is not possible to obtain or provide perfect knowledge of the repercussions of an action.
+1.9. Con: All actions have reverberating consequences, thus it is not reasonable or possible to obtain consent of all parties in all circumstances.

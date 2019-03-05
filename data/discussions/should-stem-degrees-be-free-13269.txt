@@ -1,0 +1,41 @@
+Discussion Title: Should STEM Degrees Be Free?
+
+1. STEM degrees should be free.
+1.1. Con: The market should determine how many STEM graduates there are. This would flood the market with STEM labor and a large amount of graduates would not be able to find work in STEM.
+1.1.1. Con: The market would still determine how many STEM graduates there are because there are a limited number of jobs, there would just be no barrier for people to enter those fields.
+1.1.2. Con: A STEM degree gives you many skills that are transferable. Graduates wouldn't necessarily need to take STEM jobs. They could also pursue postgraduate studies.
+1.1.3. Con: There is a shortage of STEM majors in many areas of the United States. For example, BSN RN's\(Nurse with a bachelors\) are becoming increasingly understaffed in hospitals due to lack of supply. Some States are already encouraging this degree by offering reimbursement on over half of a BSN's student loans.[Nursing Shortage](https://www.ic4n.org/wp-content/uploads/2018/02/Nursing-Shortage-Factsheet-2017.pdf)[loan forgiveness](https://search.proquest.com/openview/e2f027fce38eb1fab99d24f68d91959b/1?pq-origsite=gscholar&cbl=30765)
+1.2. Con: If your primary motivation is gaining expertise and skill, Massive Open Online Courses \(MOOCs\) are readily available at low cost or even free, with high quality, for instance "MIT Open Courseware", Coursera, Udemy, etc. Many STEM subjects are well served by these learning methods.
+The social and cultural benefits of attending a traditional campus education are real, but do not justify subsidy.
+1.2.1. Con: Having the skills provided by MOOCs is not enough to get a job in the field.
+1.3. Pro: Science/technology driven by profit is dangerous to the public.
+1.3.1. Pro: The American pharmaceutical industry is a good example of this.
+1.3.2. Con: This is [not necessarily true](https://www.economist.com/node/507324).
+1.4. Pro: STEM graduates are economically good investments for society.
+1.4.1. Pro: In U.S. STEM jobs are [high paying and on demand](https://stats.bls.gov/spotlight/2017/science-technology-engineering-and-mathematics-stem-occupations-past-present-and-future/pdf/science-technology-engineering-and-mathematics-stem-occupations-past-present-and-future.pdf).
+1.4.2. Pro: This could be considered positive for national security. If the government pays for STEM degrees, the country is more likely to end up with stronger defense against hacking by other countries \(computer science\), could develop technology that could protect us in space wars \(robotics, aeronautics\), and drive medical defenses \(health science, biotechnology\) against biological warfare and pandemics.
+1.4.3. Pro: STEM investment would provide the greatest GDP return to the investor \(taxpayer\).
+
+Source 1: [www.civica.com](https://www.civica.com/en-au/container---insights-library/the-importance-of-stem-education-to-the-economy/)
+Source 2: [mpra.ub.uni-muenchen.de](https://mpra.ub.uni-muenchen.de/65517/1/MPRA_paper_65517.pdf)
+1.4.3.1. Pro: It is difficult to find sources for the GDP impact of pure arts/humanities education. They are not measured on that scale, and are not held to the same scrutiny and expectation of economic contribution.
+
+Whether or not GDP should be a driving factor in funding, it seems clear that technical fields contribute far more than humanities fields, just by the fact that nobody is bothering to crunch numbers to see the economic impact of more History or Fine Arts graduates.
+1.5. Pro: It would massively boost the number of students in STEM and expand humanity's horizons.
+1.6. Pro: Nobody deserves to be blocked from education because they are poor.
+1.6.1. Pro: STEM degrees tend to be more expensive and require a longer period of time to complete - increasing the wealth required to afford living expenses while at college.
+1.7. Con: People would take advantage of the system and live for free off the tax-payer.
+1.7.1. Con: A STEM degree doesn't guarantee housing or food. Presumably the person undertaking the degree would have to fund this themselves.
+1.7.2. Pro: No one is entitled to the labor of others free of charge.
+1.8. Con: Money provides a good means for equal treatment and allows equal opportunity that goes beyond institutional biases.
+1.8.1. Con: Money biases against the poor.
+1.9. Pro: It would be a driving-force in the development of effective education which the non-STEM options can learn from.
+1.10. Con: There is a stereotype of STEM students being asocial and overly academic, which may be detrimental characteristics to encourage societally.
+1.10.1. Con: Scientific minds have saved millions of lives and expanded the scope of human experience with developments like the green revolution, vaccines and atomic theory. They are by no means a toxic for human society they are some of the leading saviors of it.
+1.10.2. Con: This is an unfounded assertion: scientific minds can be perfectly socially developed, and there is no reason to consider them toxic.
+1.10.3. Pro: Additionally, these assumed characteristics can be used to bully or torment STEM students, even if they do not demonstrate these traits; encouraging enrolment in STEM programs propagates such bullying.
+1.11. Con: It is unfair on the Arts and Humanities.
+1.11.1. Con: Arts and Humanities, although they undoubtedly have value, are not vital. STEM subjects have the potential to save lives.
+1.11.2. Pro: Arts and humanities are vital for developing critical thinking facilities, grasp of language, persuasive techniques, cultural understanding, empathy, etc; the list is more or less [endless](http://curt-rice.com/2014/02/25/here-are-9-reasons-why-humanities-matter-whats-your-number-10/).
+1.11.2.1. Con: Critical thinking, grasp of language, and persuasive techniques are also extensively used in STEM degrees. All of these are required for the scientific method.
+1.11.3. Pro: It would lock the humanities even further behind wealth, and result in a country less equipped to understand political climates. Education shouldn't be this costly, if anything at all.

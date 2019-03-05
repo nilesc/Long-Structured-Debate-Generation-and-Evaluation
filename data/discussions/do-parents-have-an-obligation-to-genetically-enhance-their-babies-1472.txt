@@ -1,0 +1,589 @@
+Discussion Title: Do Parents Have an Obligation to Genetically Enhance Their Babies?
+
+1. Parents should genetically enhance their babies once the procedures have been approved by the corresponding regulatory bodies.
+1.1. Pro: Because humans are capable of controlling the pace and path of our evolution, we should defer to individuals' desire on how they want to proceed.
+1.2. Con: No technology is 100% safe; something could go terribly wrong.
+1.2.1. Pro: Genetic enhancements can have negative consequences in the long run that are impossible to predict, potentially heritable to children and are not reversible even though practiced for decades.
+1.2.1.1. Pro: The only proven method of robust genetic enhancement is through natural evolution that plays out over extended periods of time. It is natural success, not the demonstrated myopic viewpoints of man, that are responsible for the body's capacities.
+1.2.1.2. Con: Natural genetic variations are random\(ish\). Surely we can "nudge" genetic variations in a beneficial way, at least more so than pure chance.
+1.2.1.3. Pro: This is potentially even more dangerous because it can often be hard to identify these consequences until the genes have settled for several generations. By the time this is understood, untold damage could have been done.
+1.2.1.3.1. Pro: A person should have the right to decide whether or not to accept genetic modification.
+1.2.1.3.1.1. Pro: By definition, the embryos on whom genetic enhancement will be performed do not have the capacity to consent.
+1.2.1.4. Pro: By making certain genes significantly more common in the gene pool, this process may ultimately increase the prevalence of rare diseases with unknown genetic causes.
+1.2.1.4.1. Pro: Widespread genetic alterations of the populace could lower genetic diversity and cause susceptibility to unknown diseases or other risks.
+1.2.1.4.2. Pro: Many genes have more than one [function](http://www.nature.com/nrg/journal/v14/n7/full/nrg3461.html), and where this is not understood prior to such engineering, this technology risks spreading unexpected genetic disorders.
+1.2.1.4.2.1. Pro: This is made worse by the evidence that many genes only have an effect when [other genes are present](http://www.nature.com/scitable/topicpage/epistasis-gene-interaction-and-phenotype-effects-460), increasing the chance that modifications have unexpected holistic effects.
+1.2.1.4.3. Con: If certain genes become significantly more common at the same time as genetic diseases become more common it should be pretty easy to identify the genetic cause.
+1.2.1.4.3.1. Con: This will only be the case if it is a small number of genes that are more common. Given the scope of potential genetic engineering, this is unlikely.
+1.2.1.4.3.2. Con: By that point, many will already be suffering from the disease in question, and it will be too late to fix for them.
+1.2.1.5. Pro: There may and almost certainly will be long-term unintended consequences that may ultimately weaken our gene pool and leave us vulnerable to disease or disorder in ways that were not predicted.
+1.2.1.6. Con: Through trial and error over generations, we would get very good at knowing the long term pitfalls and would gain a greater understanding of the human condition.
+1.2.1.6.1. Con: It is morally unacceptable to play trial and error with human lives.
+1.2.2. Pro: Humans seem to be really bad at artificially selecting the traits that promote living well, as opposed to aesthetically appealing traits. Artificial selection by humans has nearly ruined [several breeds of dog](http://www.huffingtonpost.com/2015/02/10/dog-breeding-health_n_6598664.html).
+1.2.2.1. Pro: Parents' conception of the "best possible life" may not be biased. For example, parents may substantially prioritize athletic ability, at the cost of other skills and advantages, and the child may not necessarily share that interest.
+1.2.2.1.1. Pro: Parents may have a form of confirmation bias that leads them to select abilities that they found particularly useful in their own life rather than abilities that are useful in general.
+1.2.2.1.2. Pro: This may exacerbate the pressures that children feel to live up to their parents' expectations of them, even when these do not match their own preferences or goals.
+1.2.2.2. Con: Selection based on aesthetically appealing traits can already happen naturally as part of sexual selection.
+1.2.2.2.1. Con: [Attractive people tend to mate with other attractive people](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/2413/Hotornot%20Nov%202007.pdf) \[p3\] so while society as a whole can select for attractiveness, you probably can't do so unless you yourself are attractive or [have other attributes that make up for it](https://en.wikipedia.org/wiki/Matching_hypothesis).
+1.2.2.2.2. Con: Genetic enhancement can select and promote particular traits more accurately, more widely, and at a much faster pace than sexual selection.
+1.2.2.2.3. Con: Evolutionary pressures currently balance the tradeoffs between health and appearance because ignoring health factors reduces the survival rates of future generations. With genetic engineering, this balance disappears.
+1.2.2.3. Con: When breeding dogs we primarily value aesthetic traits over functional ones because they are pets. When genetically enhancing children we would obviously ensure that it enhances their lives.
+1.2.2.3.1. Con: Many people see their pets as life-companions and are deeply distressed by their deaths. Despite this, they continue to choose to buy breeds known to have life-spans shortened by such breeding. It is not necessarily intuitive that they would behave radically differently in choosing enhancements for their children.
+1.2.2.3.1.1. Pro: For example, pale skin is socially valued in a range of ways, but significantly increases the risks of skin cancer. The question of whether parents would prioritise the former or the latter is an open one.
+1.2.2.3.1.2. Con: Children's longevity offers returns, such as financial support when being old, that pets do not offer. This makes pets different from children.
+1.2.2.4. Pro: Humans currently spend much time and effort enhancing their appearance through costly avenues such as exercise or makeup. If genetic enhancements would allow for everyone to be beautiful at no ongoing cost, then this would be strongly pursed.
+1.2.2.5. Con: The aesthetic traits humans find beautiful, such as having a symmetrical face, are unlikely to be mutually exclusive with factors that enhance life.
+1.2.2.5.1. Con: Many beauty norms, particularly for women, have practical downsides such as being very thin or having large breasts. At the extreme end, if a person had the [proportions of a Barbie doll they would be unable to walk](http://www.medicaldaily.com/pulse/barbies-body-measurements-set-unrealistic-goals-little-girls-sales-plummet-316006).
+1.2.2.5.1.1. Pro: -> See 1.2.2.3.1.1.
+1.2.2.6. Con: Aesthetic appearance is a valuable trait, for example in seeking a partner or model careers. At times these aesthetic factors outweigh intrinsic qualities.
+1.2.3. Pro: -> See 1.2.1.4.
+1.2.4. Con: Presumably parents would not be under an obligation to genetically enhance their babies if the techniques for doing so were not safe.
+1.2.5. Con: While harms and accidents are possible, they need to be balanced against the terrible and pre-existing prevalence of genetic diseases that cause harm in the present.
+1.2.5.1. Pro: Genetic enhancements would improve human health.
+1.2.5.1.1. Pro: Genetic enhancement of fetuses would reduce abortions caused by fetal anomaly.
+1.2.5.1.1.1. Pro: There is [evidence](http://www.apa.org/about/gr/issues/women/mental-health-and-abortion.aspx) that abortions are emotionally damaging to some women who receive them. Even if the number of women who are negatively impacted is small, this lowers the total number of abortions, which reduces the number of women who suffer negative consequences.
+1.2.5.1.1.1.1. Pro: This particularly impacts people who choose to abort because of birth defects in the child. These are people who want the child, not those who got pregnant unintentionally. People who [abort a planned child](https://www.plannedparenthood.org/files/8413/9611/5708/Abortion_Emotional_Effects.pdf) rather than an unplanned one are more susceptible to mental health issues post-abortion.
+1.2.5.1.1.2. Con: Genetic enhancements may not be risk-free procedures and could cause negative outcomes, like fetal anomalies.
+1.2.5.1.1.2.1. Pro: Even procedures and drugs that receive FDA approval may still [pose dangers](https://en.wikipedia.org/wiki/List_of_withdrawn_drugs).
+1.2.5.1.1.3. Con: Only a [small share](https://www.guttmacher.org/sites/default/files/pdfs/journals/3711005.pdf) of women decide to receive an abortion because of health problems or fetal anomalies. Most do so due to unintended pregnancies and because they expect having a child to result in negative consequences. The number of abortions is thus unlikely to decrease far.
+1.2.5.1.2. Con: -> See 1.2.1.
+1.2.5.1.3. Con: -> See 1.2.2.
+1.2.5.1.4. Con: Genetically modifying babies has detrimental effects on the human gene pool, as it will lead to artificial instead of natural selection.
+1.2.5.1.4.1. Con: When humans choose who \(not\) to mate with, or choose whose life \(not\) to save, we are administering artificial selection. This is not specific to genetic modification.
+1.2.5.1.4.1.1. Con: Existing mechanisms of mate selection are far less effective and deterministic than genetic engineering. While you might choose a mate based on their visible phenotypes, you do not know their full genetic makeup, and there is no guarantee your child will inherit desirable genes due to random variations.
+1.2.5.1.4.2. Pro: Humans as a race will become less likely to survive due to increased homogeneity of genes, since [heterogeneity](https://en.wikipedia.org/wiki/Heterozygote_advantage) enhances adaptability potential.
+1.2.5.1.4.2.1. Con: Genetic enhancement can be used to create heterogeneity within a population more effectively than the random methods of natural selection do.
+1.2.5.1.4.2.1.1. Con: This assumes parents will be willing to pay to do that, or not take the "best available" designer genes for their own children to preserve heterogeneity.
+1.2.5.1.4.2.1.1.1. Con: Parents already emphasize different traits in childhood education. Some focus on musical education while others on physical activity. Likewise, parents will not choose homogeneous improvements.
+1.2.5.1.4.2.1.1.1.1. Con: This assumes genetic traits are mutually exclusive in the same way. Many will not be.
+1.2.5.1.4.2.2. Pro: -> See 1.2.1.4.
+1.2.5.1.4.3. Pro: -> See 1.2.2.
+1.2.5.1.4.4. Con: The changes would not inherently be detrimental. Promoting, for instance, immunity to the flu, would be quite valuable.
+1.2.5.1.4.5. Con: Artificial selection can be interpreted as an improvement of natural selection, especially because it has the potential to be [more effective](https://books.google.co.kr/books?id=X1n2BawkqxEC&pg=PA115&lpg=PA115&dq=natural+selection+defects&source=bl&ots=KSFQQWkNyO&sig=7dur99zGyd5tHLucINjzmptdJsA&hl=de&sa=X&ved=0ahUKEwjOwsPF4MPPAhVEjZQKHRM7AQsQ6AEINTAE#v=onepage&q=natural%20selection%20defects&f=false) in reducing the number of individuals with a high number of genetic defects.
+1.2.5.1.5. Pro: Genetic modifications help to eliminate genetic diseases.
+1.2.5.1.5.1. Con: Being able to "eliminate" any part of a human being's natural genetic coding may also allow valuable parts to be accidentally or even deliberately eliminated.
+1.2.5.1.5.2. Con: Genetic engineering is not necessary to prevent passing on the vast majority of these, just genetic screening of embryos pre-IVF.
+1.2.5.1.5.2.1. Con: In extreme cases \(e.g., where both parents are homozygous for the allele\(s\) causing a trait\) IVF screening is not sufficient.
+1.2.5.1.5.3. Pro: Tay-Sachs disease typically kills between the ages of five and eight, and the short lives of its victims are characterised by severe mental retardation; more commonly, cystic fibrosis or Huntington's may reduce the lifespan by decades.
+1.2.5.1.6. Pro: Genetic modifications can make people more resistant to illnesses in later life.
+1.2.5.1.6.1. Pro: Gene-editing techniques such as CRISPR have shown the potential to create [resistances to HIV](https://www.newscientist.com/article/dn25698-gene-editing-tool-can-write-hiv-out-of-the-picture?cmpid=RSS%2525257CNSNS%2525257C2012-GLOBAL%2525257Conline-news#.U5r3PURdVz3) and [viruses](http://www.nytimes.com/2014/03/04/health/a-powerful-new-way-to-edit-dna.html?_r=0) in organisms.
+1.2.5.1.6.2. Pro: Procedures such as targeted delivery of [siRNA](https://en.wikipedia.org/wiki/Small_interfering_RNA#Therapeutic_applications_and_challenges) are considered as [a pathway](http://www.nature.com/nrg/journal/v16/n9/full/nrg3978.html) to the subdual of certain genes and their expression, e. g. in the form of diseases in liver, eyes, mucosa and skin.
+1.2.5.1.6.2.1. Con: This does not actually require genetic enhancement, and more commonly is being tested using targeted-release nanovectors of various kinds \(e.g. in [this study](http://pubs.acs.org/doi/abs/10.1021/acsami.6b08823)\).
+1.2.5.1.6.2.1.1. Pro: Indeed, this is a more promising treatment option, as it allows the treatment of adult patients.
+1.2.5.1.6.2.1.2. Con: However, genetic enhancement methods of delivery may open new options for ensuring targeted production of the relevant siRNA and/or RNAi in only those cells expressing the disease-causing genes.
+1.2.5.1.6.3. Con: -> See 1.2.1.
+1.2.5.1.6.4. Con: As with antibiotics, genetic anti-illness enhancements could promote the evolution of superbugs that would negate this advantage in short order and negatively impact those without modifications.
+1.2.5.1.6.4.1. Con: Such superbugs would logically be evolved to avoid the effect of the anti-illness enhancements, as such it is unlikely that this would significantly change their effect on those without said enhancements. At worst, this therefore leaves humanity as a whole in the same position we started in.
+1.2.5.1.7. Pro: Genetic modification of children allows parents to create organs, cells or tissue that can be used for transplantation to adults.
+1.2.5.1.7.1. Con: This would risk parents bringing otherwise unwanted children into the world, risking abuse or neglect.
+1.2.5.1.7.1.1. Pro: Unwanted children suffer psychologically and are more prone to [juvenile violence](https://www.ncbi.nlm.nih.gov/pubmed/?term=9164769).
+1.2.5.1.7.1.2. Pro: The chances of unwanted children ending up in psychological hospitalization are double that of wanted children \([Forssman et al., p. 80](https://www.ncbi.nlm.nih.gov/pubmed/5959642)\).
+1.2.5.1.7.2. Con: Children who then did not consent to the relevant donation could face rejection or coercion from their parents.
+1.2.5.1.7.2.1. Pro: It is questionable whether the consent of a prospective donor can be truly voluntary when there is a close emotional relation with the prospective recipient, and when a rejection could harm this relationship \([Childress et al, p. 272](https://www.nap.edu/read/11643/chapter/11)\).
+1.2.5.1.7.2.1.1. Con: Using this calculation, nothing important can ever be voluntary. Every important decision has consequences on those around us. Some people want to help their family members, and choose to do so out of a sense of attachment and love.
+1.2.5.1.7.3. Con: It is immensely disturbing for children to know that their reason for existence is merely providing physical parts to others.
+1.2.5.1.7.4. Con: This benefit is contingent on the child having to lose some part of their body, which is presumably detrimental in some way.
+1.2.5.1.7.5. Con: As it is unlikely that both parents can profit from the genetic modification, they will be in a conflict over whom the child with be matched to.
+1.2.5.1.7.5.1. Con: They could have two, or more, children to resolve this dispute.
+1.2.5.1.7.5.2. Con: In most cases only one parent will require a 'donor baby' because most people do not have conditions that require organ transplants.
+1.2.5.1.7.6. Pro: This could reduce the need for anonymous live donation if parents could guarantee that, for instance, if they needed a liver transplant, their child would be a match, thus saving innumerable lives.
+1.2.5.1.7.6.1. Pro: [Organ harvesting](http://www.stoporganharvesting.org/) is a major problem in China and could become a problem elsewhere. Allowing genetic modifications to children would reduce the need for this practice.
+1.2.5.1.7.6.1.1. Con: This could just as easily be used to genetically engineer children to be a match to wealthy potential recipients, for a fee, potentially increasing the amount of organ harvesting in the world.
+1.2.5.1.7.6.1.2. Con: There are many other, more ethical, ways to solve this problem, like opt-out organ donor lists.
+1.2.5.1.7.7. Con: This would mostly benefit rich people, meaning that wealthy people would - on the whole - live longer.
+1.2.5.1.7.7.1. Con: Benefiting only a segment of society is better than benefiting no one at all.
+1.2.5.1.7.7.1.1. Con: This is not the case if the disproportionate effect entrenches other social problems.
+1.2.5.1.7.7.1.1.1. Pro: Genetic enhancements will cement existing divisions and [inequalities](https://foreignpolicy.com/2009/10/23/transhumanism/) within society.
+1.2.5.1.7.7.1.1.1.1. Pro: The children of the poor will remain at a disadvantage because they cannot afford enhancements. This means that poverty will be entrenched for generations to come.
+1.2.5.1.7.7.1.1.1.1.1. Con: It's plausible that enhancements can be provided gratis by state healthcare systems \(such as the UK's National Health Service\) and this would therefore eliminate wealth inequality as a factor.
+1.2.5.1.7.7.1.1.1.1.2. Pro: Parents should not genetically enhance their children because they could have advantages over other children that are unfair. While that some kids are smarter or more popular or prettier than other kids; their genes have not been modified so that is just due to luck.
+1.2.5.1.7.7.1.1.1.1.3. Con: Even if poor families cannot afford it, by improving the human genome broadly, eventually the improved genes will propagate and trickle down, raising the overall quality of the human genome
+1.2.5.1.7.7.1.1.1.1.3.1. Con: People are most attracted to those like them in terms of background, intelligence, and attractiveness. Therefore, children of rich families will mostly have children with each other, and not with the children of poor families, and therefore the genes will not spread.
+1.2.5.1.7.7.1.1.1.1.3.1.1. Pro: As [studies show](http://libproxy.snu.ac.kr/b654727/_Lib_Proxy_Url/www.jstor.org/stable/3654608?seq=1#page_scan_tab_contents), socio-economic status has become an ever more important factor for both men and women when it comes to partner choice over the past decades.
+1.2.5.1.7.7.1.1.1.1.3.2. Con: The genetic inferiority of children of poor families that this would cause will lead to prejudice, furthering the societal status gap between rich and poor, and thus making interbreeding, which is needed for the genes to propagate, less likely.
+1.2.5.1.7.7.1.1.1.1.3.2.1. Pro: Because genetic enhancements are likely to be expensive, there will be an unequal effect.
+1.2.5.1.7.7.1.1.1.1.3.2.1.1. Pro: Only a select group of individuals would be able to afford this, so the upper class would be genetically superior to lower classes making it almost impossible for people to change classes. This would create a world in which one class holds all power.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2. Con: In the future it is unlikely that genetic enhancements will be expensive as prices are [reducing](http://www.businessinsider.com.au/super-cheap-genome-sequencing-by-2020-2014-10?r=US&IR=T).
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.1. Pro: Based on what we know of economies of scale, this simply isn't true. Genetic testing, which used to be only available to the wealthy, is now becoming affordable for average people. The same can be said for many technologies during their life-cycles. Many common technologies used to only be available to the rich, often in far cruder forms. Mass availability is in the best interest of any company profiting on a technology \(see personal computers, cars, broadband, cell phones, 3D printers etc.\)
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.2. Pro: There is no reason to think genetic  enhancements will be expensive. DNA is software. Software updates are almost free.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3. Con: The real cost of individualised genetic engineering isn't in the engineering itself, but in the IVF process, which is [exceptionally expensive](https://www.theguardian.com/money/2014/may/10/ivf-nhs-fertility-postcode-lottery-cut-costs).
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.1. Con: Medical staff, the most expensive component of IVF, are not really required for the procedures, especially for healthy fertile subjects, bringing the cost down even further.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.1.1. Con: Oocyte extraction involves delicate removal of eggs through a needle inserted into the abdomen. It is literally inconceivable that this could be performed by someone without high-level medical training.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.1.2. Con: IVF requires the use of hormones that can be harmful if prescribed in too high a dose, where correct dosage is determined by the patient's personal characteristics \(weight, age, natural hormone levels, etc\). This can only be done by an appropriately qualified medical practitioner, and frequently requires repeat dosage level adjustments, meaning medical monitoring is necessary.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.2. Con: IVF today is mostly used by people struggling with infertility, which means that very often you have to try multiple times. This would not be the case with fertile young population that would suddenly also be using IVF.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.2.1. Con: Even at [peak fertile age](http://www.advancedfertility.com/ivf-age.htm), an IVF cycle has, at best, a 50% success rate, before adjusting for miscarriages.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.2.2. Con: In many countries, IVF is available and used by single women, same-sex couples, and women with infertile male partners. This has not driven up the success rate, despite [record levels](http://edition.cnn.com/2014/02/17/health/record-ivf-use/index.html) of IVF procedures.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.3. Con: IVF has the potential to be replaced by other cheaper technologies, such as [IVM](http://www.news.com.au/lifestyle/parenting/pregnancy/fertility-breakthrough-could-see-ivf-replaced-with-new-process/news-story/206f0d9e000cea73366b027fb9eab117) or [minimal stimulation IVF](http://www.rbmojournal.com/article/S1472-6483\(10\)60797-3/pdf).
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.4. Pro: IVF has been in use since 1978, and market pressures have not worked to drive down the cost.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5. Con: Costs saved by genetic enhancements dwarf the costs of genetic enhancement procedures.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1. Pro: Genetic enhancements create economic benefits, such as reduced healthcare expenditure or more efficient workers.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.1. Pro: Insurance companies' expenditures will reduce and cause a reduction in fees and reduced fees for patients and better focus on those in need.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.2. Pro: Reducing expenditure of genetic diseases allows increased resource allocation towards e.g. [communicable diseases](http://www.acphd.org/communicable-disease.aspx) or treating skeletal injuries \(such as a person who falls and gets paralyzed\).
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3. Pro: Genetic enhancements creates better worker because their improved health/immune function translate into fewer sick days off and longer lives.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3.1. Pro: Non-communicable diseases will cause costs of more than US$30billion over the coming two decades \([WEF, p. 5](http://www3.weforum.org/docs/WEF_Harvard_HE_GlobalEconomicBurdenNonCommunicableDiseases_2011.pdf)\). Individuals' genetic make-up is among the prime risk factors for these non-communicable diseases.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3.2. Con: To the extent to which people live longer, this may in fact make them a greater cost to society, as they live longer after retiring and then rely on the state for social security, healthcare and old age care.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3.2.1. Pro: Living longer does not necessarily mean that people will remain physically or mentally robust for longer into their old age.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3.2.2. Pro: Studies indicate that, for example in the United States, [more than a third](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1361028/) of the lifetime health care costs for people over 85 accrues during their remaining years.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3.2.3. Con: If people live longer, and are healthier longer, they can retire later and be healthier in old age.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3.2.3.1. Con: The complexities of the aging process mean that simply eliminating diseases will not necessarily delay the point at which people are unable to continue to work. It is not clear that these kinds of modifications would result in a longer period of relative health, as opposed to merely extending the time spent in old age but without fatal disease.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.3.2.3.2. Con: Raising the retirement age is very difficult from a political perspective.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.4. Con: This policy directs a significant amount of funding and medical expertise to IVF treatments and genetic engineering, which are [expensive](http://www.telegraph.co.uk/women/mother-tongue/11482483/Fertility-treatment-Why-British-women-are-travelling-abroad.html), in turn taking away from broader medical care and research.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.4.1. Con: We cannot afford widespread gene therapy because we spend too much money dealing with medical issues caused by preventable diseases.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.6. Con: Just like the cost of [DNA sequencing](https://www.genome.gov/sequencingcostsdata/) dropped dramatically so will other technologies become affordable over time.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.4. Pro: If there would be a huge benefit to society and one company were to hog that and make it unattainable for most of society, there would be an uproar and the government would have to intervene.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.5. Pro: Mass market products always become cheap.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.5.1. Pro: With [economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale), unit costs come down and prices reduce.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.5.2. Con: The reduction in cost of mass market products relies on a competitive field with low barriers to entry. Where there are strong barriers to entry, this does not occur.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.5.2.1. Pro: The regulatory framework surrounding the provision of IVF and other fertility treatments limits the number of providers in any given market, allowing them a greater ability to [set prices as they wish](http://www.moneywise.co.uk/work-family/family-life/the-true-cost-ivf-treatment).
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.5.2.2. Pro: Where the modifications themselves are patentable, as they will be in at least [some jurisdictions](http://www.genengnews.com/gen-exclusives/gene-patents-in-europe-relatively-stable-despite-uncertainty-in-the-us/77899385), this allows companies to charge as they wish for the modifications themselves.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.6. Pro: Public funding for this research could easily be coupled with the condition that the results be made available to the public with no patent protection.
+1.2.5.1.7.7.1.1.1.1.3.2.1.2.6.1. Con: This is true of any public funding for medical innovation, yet does not occur. Its is therefore unlikely that it would occur in this case.
+1.2.5.1.7.7.1.1.1.1.3.2.1.3. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.
+1.2.5.1.7.7.1.1.1.1.3.2.1.4. Con: Insurance companies now happily pay for preventative behaviors such as nutritionists and weight loss plans. They would likely to do the same for a procedure to create a person who was much less susceptible to injury or illness.
+1.2.5.1.7.7.1.1.1.1.3.3. Con: Even if the rate of interbreeding between social classes does not change, a change in the genome will take a very long time.
+1.2.5.1.7.7.1.1.1.1.4. Con: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.
+1.2.5.1.7.7.1.1.1.1.5. Pro: This will literally make it so that the rich are genetically superior than the poor, not only entrenching stereotypes but making them real.
+1.2.5.1.7.7.1.1.1.1.5.1. Pro: We already have biases in society that make us conflate wealth with intelligence, status, and desirability, and poverty with laziness and stupidity. Allowing people to design their children, at a cost, would make it so that children of poor families would literally be less intelligent, healthy, or appealing than children of rich families
+1.2.5.1.7.7.1.1.1.1.5.1.1. Con: Poverty [does appear to be caused](http://www.jstor.org/stable/3083428?seq=1#page_scan_tab_contents) to a significant extent by lack of intelligence.
+1.2.5.1.7.7.1.1.1.1.6. Con: This already exists insofar as the rich have better access to education/healthcare etc, so this is not a meaningful tipping point in terms of making it worse.
+1.2.5.1.7.7.1.1.1.1.6.1. Con: Adding a further layer of disadvantage would exacerbate the existing problems.
+1.2.5.1.7.7.1.1.1.2. Pro: Some families will suffer because the government will not extend services to them anymore.
+1.2.5.1.7.7.1.1.1.2.1. Pro: Children who have a random mutation or poor parents will be even more disadvantaged than before.
+1.2.5.1.7.7.1.1.1.2.2. Pro: There would be little political will or pressure to induce governments to fund care for people who need it.
+1.2.5.1.7.7.1.1.1.2.3. Pro: Many services - such as special schools - require a critical mass of those in need to functionally or efficiently provide.
+1.2.5.1.7.7.1.1.1.2.4. Con: A smaller percentage of the population with mental disabilities or illnesses would allow resources to be more targeted and individualised to those remaining, resulting in better care.
+1.2.5.1.7.7.1.1.1.2.4.1. Con: -> See 1.2.5.1.7.7.1.1.1.2.3.
+1.2.5.1.7.7.1.1.1.2.5. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.
+1.2.5.1.7.7.1.1.1.3. Con: When racial attributes can be freely chosen and mixed they are no longer reliable markers of ethnic background and it makes little sense to stereotype people because of how they look.
+1.2.5.1.7.7.1.1.1.3.1. Con: There is already a great deal of [stigma](https://en.wikipedia.org/wiki/Rachel_Dolezal) against people who falsely claim to be of a certain race. Parents attempting to change the race of their baby will face social censure along similar lines.
+1.2.5.1.7.7.1.1.1.3.2. Con: Giving parents the option to change the apparent race of their children will not erase racial boundaries unless this became a very common medical procedure in all cultures on earth.
+1.2.5.1.7.7.1.1.1.3.3. Con: If the practice of parents altering their babies' apparent race to avoid discrimination and improve their chances of success becomes widespread, this will threaten the existence of marginalized ethnic groups.
+1.2.5.1.7.7.1.1.1.3.3.1. Con: Marginalized ethnic communites are not defined by their physical characteristics but instead by shared cultural values, familial ties, and shared histories.
+1.2.5.1.7.7.1.1.1.3.3.1.1. Pro: Indians and Pakistani have the same heritage and physical appearance, yet consider each other as different ethnicity because of religion.
+1.2.5.1.7.7.1.1.1.3.4. Con: It already makes little sense to stereotype people based on their appearances, and yet, many do it anyway.
+1.2.5.1.7.7.1.1.1.3.4.1. Con: Once it becomes impossible to identify people based on their skin color, the grounds for discrimination for those people will disappear.
+1.2.5.1.7.7.1.1.1.3.5. Pro: Current instances of racism and stereotyping emerge from long histories of oppression contingent on events such as slavery, war, poverty, or immigration. When racial attributes no longer reliably correspond to those social forces we cut off links that enable racism and stereotyping.
+1.2.5.1.7.7.1.1.1.3.6. Pro: Many stereotypes associate race with sociocultural values; e.g. "X minority are hard working". These associations are destabilised when racial features are less tied to particular communities that might share these sociocultural values.
+1.2.5.1.7.7.1.1.1.4. Pro: Indeed, as the advantages that these modifications confer are advantages only to the extent to which they are uncommon, those in positions of power, authority and privilege will not have an incentive to maximise the number of people with access to the technology.
+1.2.5.1.7.7.1.1.1.4.1. Pro: Given widespread access relies on governments preventing the patenting of genes and gene modifications, and providing expensive medical processes - like IVF - to those who can't afford them, mere inaction by those with power would be sufficient to stop widespread access.
+1.2.5.1.7.7.1.1.1.5. Con: Having inequalities is good.
+1.2.5.1.7.7.1.1.1.5.1. Pro: Poverty is the problem, not inequality. The income divide between someone earning $300.000 and someone earning $ 3 million is likely to cause only minor problems.
+1.2.5.1.7.7.1.1.1.5.1.1. Con: The sample numbers represent only a small segment of inequality. As long as there is scarcity of resources, inequality will always correlate with some degree of poverty.
+1.2.5.1.7.7.1.1.1.5.1.2. Pro: Inequality does not create poverty in [itself](https://mises.org/blog/inequality-doesnt-create-poverty).
+1.2.5.1.7.7.1.1.1.5.1.2.1. Con: Competing studies indicate that the effects are [not linear](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/3876.pdf), at best, and [the main cause](http://www.epi.org/blog/inequality-main-persistent-poverty/), at worst.
+1.2.5.1.7.7.1.1.1.5.1.2.2. Con: The question isn't whether inequality "creates poverty," but rather whether it exacerbates the effects of poverty in the allocation of scarce resources.
+1.2.5.1.7.7.1.1.1.5.2. Con: Inequality can lead to political turmoil \([MacCulloch, p. 109](http://www.jstor.org/stable/10.1086/426881?seq=1#page_scan_tab_contents)\).
+1.2.5.1.7.7.1.1.1.5.2.1. Con: Whether economic inequality leads to political turmoil depends highly on measurements of both \([Giskemo, p. 6](https://www.cmi.no/publications/file/4379-exploring-the-relationship-between-socio-economic.pdf)\). MacCulloch's study makes use of public opinion surveys that only measure a positive attitude to revolution. This is hardly indicative as to whether people will engage in actual political turmoil.
+1.2.5.1.7.7.1.1.1.5.3. Con: Income inequality is linked to [health problems](https://www.ncbi.nlm.nih.gov/books/NBK43780/).
+1.2.5.1.7.7.1.1.1.5.4. Pro: Income inequalities work as incentives for hard work.
+1.2.5.1.7.7.1.1.1.5.4.1. Con: How people respond to hard work could also be genetically enhanced. We could edit out extreme laziness.
+1.2.5.1.7.7.1.1.1.5.4.2. Con: Whether inequality incentivizes hard work depends on the degree of inequality. At a certain point, inequality has the opposite effect and disincentivizes hard work \([Bertelsmann Stiftung. p. 2](http://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/Impulse___2015-05_income_inequality_and_growth.pdf)\).
+1.2.5.1.7.7.1.1.1.5.4.2.1. Con: This is only at the very extremes of income inequality and not applicable to any practical setting. In one of the most unequal countries, [South Africa](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html), employees still show intrinsic motivation and are motivated by rewards \([Nujjoo & Meyer, p. 6](https://www.sajhrm.co.za/index.php/sajhrm/article/viewFile/442/532)\).
+1.2.5.1.7.7.1.1.1.5.4.3. Con: When the inequality is fuelled by underpinning genetic disadvantage, incentivising hard work misses the entire point.
+1.2.5.1.7.7.1.1.1.5.5. Con: Economic inequality is [generally assumed](https://www.weforum.org/agenda/2015/06/why-income-inequality-is-bad-for-growth/) to be bad for economic growth, first and foremost because it reduces educational opportunities.
+1.2.5.1.7.7.1.1.1.5.5.1. Con: Innovations create inequalities by inventors or entrepreneurs becoming rich. Thus, economic inequality is a by-product of economic growth.
+1.2.5.1.7.7.1.1.1.5.5.1.1. Con: This is only one, marginal, contributor to inequality.
+1.2.5.1.7.7.1.1.1.5.5.1.2. Con: The evidence on the contribution of innovation to inequality is at best contested. There is a persuasive line of reasoning that the disruptive nature of innovation actually leads to [less wealth inequality](https://salon.thefamily.co/a-valley-divided-do-startups-widen-the-inequality-gap-7bb783237eb8#.txpplfyjg).
+1.2.5.1.7.7.1.1.1.6. Con: If parents do not decide to enhance their babies, other parents will still do so. This will work as incentive to enhance one's children because they would face disadvantage.
+1.2.5.1.7.7.1.1.1.7. Con: Parents should be, and are, doing whatever they can for their children - not worrying about how their actions contribute to societal inequality.
+1.2.5.1.7.7.1.1.1.7.1. Con: All humans, parents or otherwise, should do what is better for society as a whole, rather than what is better for any one individual.
+1.2.5.1.7.7.1.1.1.8. Con: Healthcare systems would highly incentivize their members to "enhance" their children due to the cost savings that genetic enhancements offer over traditional treatments.
+1.2.5.1.7.7.1.1.1.8.1. Con: Longer healthy-living humans and the elimination of many chronic diseases would not be enough to compensate for longer lives, full of random accidents.
+1.2.5.1.7.7.1.1.1.8.1.1. Pro: 80% of a normal healthy human's total healthcare costs are in the last 20% of their life span. The end of life healthcare costs are likely to stay the same.
+1.2.5.1.7.7.1.1.1.8.1.1.1. Con: Those age related health issues also all have a strong genetic component and could potentially also be fixed with genetic enhancements.
+1.2.5.1.7.7.1.1.1.8.1.1.2. Con: Genetic engineering would allow doctors to give much more accurate prognoses of illnesses and eliminate more expensive end-life issues.
+1.2.5.1.7.7.1.1.1.8.1.2. Con: Humans who work longer would also have paid premiums into their healthcare insurance for a longer period of time.
+1.2.5.1.7.7.1.1.1.8.1.3. Con: Assuming the probability of accidents, end of life healthcare costs and premium fees all staying the same, it is logical that the longer premium paying time would be more than enough to account for a human's longer lifespan, as that premium is calculated in a way to accrue for the end of life healthcare costs, which can reasonably be assumed to stay the same.
+1.2.5.1.7.7.1.1.1.8.2. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.
+1.2.5.1.7.7.1.1.1.8.3. Con: Healthcare enhancements would be biased towards traits that deal with sickness and death, not traits that create success like intelligence. At the same time certain traits could also be introduced like the defect that makes one not feel pain. This is still a situation of class division being amplified by genetic tailoring.
+1.2.5.1.7.7.1.1.1.8.3.1. Con: Unless traits that deal with sickness and intelligence are mutually exclusive there is little incentive not to enhance both.
+1.2.5.1.7.7.1.1.1.8.3.1.1. Con: Why would a healthcare provider enhance a person so they are more intelligent? They are interested in keeping people healthy.
+1.2.5.1.7.7.1.1.1.9. Con: Genetic enhancements make everyone a 'good mate', genetically speaking, for procreation. This will mitigate mate selection bias.
+1.2.5.1.7.7.1.1.1.9.1. Con: If any portion of the process is questionable, then those who have not been modified can potentially become higher-value mates. Especially if those in control of the process fail in any meaningful way.
+1.2.5.1.7.7.1.1.1.9.2. Pro: People with chronic diseases, extreme ugliness or idiocy, are being discriminated against in today's mating game, if these issues could be easily fixed, there would be less such discrimination.
+1.2.5.1.7.7.1.1.1.9.3. Con: While people may value traits determined by genetics, exceedingly few people choose their life partner on the basis of genetics itself.
+1.2.5.1.7.7.1.1.1.9.4. Con: Unless genetic modification is widely available, successful people will be the first to modify their children.
+1.2.5.1.7.7.1.1.1.9.5. Pro: [Assortative mating](http://www.pewresearch.org/fact-tank/2014/01/29/new-academic-study-links-rising-income-inequality-to-assortive-mating/) is a problem. Eliminating it or reducing its impact would therefore be beneficial.
+1.2.5.1.7.7.1.1.1.10. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.
+1.2.5.1.7.7.2. Pro: -> See 1.2.5.1.7.7.1.1.1.1.
+1.2.5.1.7.8. Con: It is immoral to consider children as mere source of organs.
+1.2.5.1.7.8.1. Pro: This instrumentalises the resulting children, reducing human beings to a means to an end.
+1.2.5.1.7.8.2. Con: Historically, children have been seen as a means of old-age support for ailing parents. Thus, instrumentalisation of children is, or at least was, acceptable to society.
+1.2.5.1.7.9. Pro: Given that the children [still have to consent](http://pediatrics.aappublications.org/content/pediatrics/122/2/454.full.pdf) to the donation, this does not infringe upon consent or bodily autonomy.
+1.2.5.1.7.9.1. Con: For children's organs to match parents' organs, they require matching blood types. Different blood types are assumed to have [different effects](http://www.medicaldaily.com/6-ways-blood-type-can-influence-personal-health-mild-stress-cancer-304518) on various bodily functions. Forcing a specific blood type on children thus can force physical as well as mental constraints on them, harming their autonomy.
+1.2.5.1.7.9.2. Con: -> See 1.2.5.1.7.2.1.
+1.2.5.1.7.9.3. Con: The knowledge that they were engineered to be able to provide organs for its parents may increase the pressure on the child to consent to the transplant.
+1.2.5.1.7.9.4. Con: Given children need to reach maturity to consent to such donations, parents will have nearly two decades to inculcate them with a sense of responsibility for such a donation - while they are impressionable and vulnerable - which is problematic for consent.
+1.2.5.1.7.10. Pro: If parents preemptively ensure that their children are donor matches, this means that children who in the future wish to help their ill parents will not be prevented by not being a donor match.
+1.2.5.1.8. Con: -> See 1.2.1.4.
+1.2.5.1.9. Con: This would lead to not enough people dying, which will lead to overpopulation, and exacerbate resource scarcity and global warming.
+1.2.5.1.9.1. Con: No matter the consequences, it is immoral to allow innocent deaths or suffering that you can easily prevent.
+1.2.5.1.9.1.1. Con: This cannot be true, because those consequences may include further suffering or death, in which case ignoring the consequences would itself constitute allowing innocent deaths. So this statement is selfcontradictory.
+1.2.5.1.9.2. Con: This is not an argument against eliminating conditions like autism, which are non-fatal but reduce quality of life.
+1.2.5.1.9.3. Con: Not all genetic enhancements lead to longer life expectancy \(e.g. athletic/intelligence/cosmetic enhancements\). Thus, even if this argument is true, we should still allow those.
+1.2.5.1.9.4. Pro: Allowing people to die is morally uncomfortable, but preventing overpopulation would reduce suffering in the long term.
+1.2.5.1.9.5. Con: Genetic enhancements' effects on the world population's development will likely be insignificant. [Over 80%](https://esa.un.org/unpd/wpp/publications/files/key_findings_wpp_2015.pdf) of the projected population growth until 2100 will take place in African countries, and thus in countries whose population will overwhelmingly be unable to afford genetic enhancements.
+1.2.5.1.9.5.1. Pro: The impact of genetic enhancements on the global population would first become apparent in roughly 80 years, when the enhanced babies would otherwise have begun to die of age.
+1.2.5.1.9.5.2. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.
+1.2.5.1.9.6. Con: Past warnings about the [risks of overpopulation have not eventuated](https://www.pop.org/content/debunking-myth-overpopulation). The world's population has grown by 5 billion in a century without any of the predicted catastrophic consequences for humanity.
+1.2.5.1.9.6.1. Con: The growth in world population has coincided with a sustained period of global peace and prosperity since World War II. The strain caused by overpopulation may become more acute if this global order breaks down.
+1.2.5.1.9.6.2. Con: However, it is likely that were this growth to continue, there would come a point where these warnings would in fact become a reality. This unrestrained growth is unsustainable.
+1.2.5.1.9.7. Con: If overpopulation did end up leading to scarcity, this would increase the incentives for humanity to innovate and progress.
+1.2.5.1.9.7.1. Pro: Humanity would gain an incentive to research and develop means of settling on other planets.
+1.2.5.1.9.7.1.1. Pro: The demand for improved genetic enhancements will also make the task of space colonization easier by improving humanity's ability to adapt to new environments \([Wu and Dymecki](https://hms.harvard.edu/news/genetics/genes-and-galaxies-3-27-14)\).
+1.2.5.1.9.7.1.1.1. Pro: Human genetic modification is [under current research](https://hms.harvard.edu/news/genetics/genes-and-galaxies-3-27-14) to specifically address survival for space colonization.
+1.2.5.1.9.7.1.2. Con: The political and economic strife caused by overpopulation may make it impossible for states or companies to make the necessary investments to colonize space.
+1.2.5.1.9.7.1.3. Con: Given the energy costs associated with reaching even the closest planets in this solar system, this would at most save a handful of people - who may well indeed go on to colonise other planets, but would do nothing for the billions struggling with resource shortages, climate change and starvation on Earth.
+1.2.5.1.9.7.2. Pro: Humanity would be forced to create new ways to grow food and obtain potable water.
+1.2.5.1.9.7.3. Con: Those incentives already exist, yet the world has proven unwilling to confront these challenges \(see climate change policies around the world\).
+1.2.5.1.9.8. Pro: Overpopulation has been shown to be a [cause of conflict](https://www.populationinstitute.org/newsroom/press/view/20/).
+1.2.5.1.9.9. Con: Deaths from genetic diseases are often horrific and prolonged. Even granting that overpopulation needs to be combated, allowing these deaths to continue \(through inaction\) is a less humane solution than almost every conceivable alternative.
+1.2.5.1.9.9.1. Pro: We are not less culpable for natural deaths that we deliberately choose not to prevent than we are for deaths we cause ourselves. Therefore, allowing genetic diseases to persist as a means of combating overpopulation is morally equivalent to conducting a human cull.
+1.2.5.1.9.9.2. Pro: In a world where we believe overpopulation is bad enough that we are justified in causing death \(or not preventing it\), we should conduct our killing in the most humane possible manner. The immense suffering caused by deadly genetic diseases rules it out as a justifiable weapon against overpopulation. Of course, it would be dramatically preferable to reduce the human population not through killing but through preventing humans from being conceived - say, by promoting access to birth control.
+1.2.5.1.9.9.3. Pro: -> See 1.2.5.1.5.3.
+1.2.5.1.10. Pro: Given that you have the ability to prevent it, it is very immoral to knowingly allow your child to potentially contract a genetic disease.
+1.2.5.1.10.1. Con: DNA should be passed on without human tampering.
+1.2.5.1.10.1.1. Con: An individual's desire to pass down their DNA intact does not override an individual's right not to be harmed via their birth.
+1.2.5.1.10.1.2. Pro: -> See 1.2.1.
+1.2.5.1.10.1.3. Pro: The reason that parents want to have biological children as opposed to adopting is because there is something innately valuable about passing on your own genes and bloodline.
+1.2.5.1.10.2. Con: Parents will use genetic engineering to eradicate conditions, such as deafness or autism, which social norms see as atypical or undignified. This reinforces the belief that only able babies are worth having.
+1.2.5.1.10.2.1. Con: Since it would be seen as gross misconduct to deliberately induce deafness or autism in an otherwise healthy infant, such debilitating conditions are more accurately described as legitimate handicaps rather than benign differences that are rejected simply due to social norms. Therefore it is justified to seek ways of reducing the prevalence of such conditions.
+1.2.5.1.10.2.2. Con: Gene therapies will plausibly not be intended to "identify and abort" but to identify and treat. This is no different than preventative medicine.
+1.2.5.1.10.2.3. Con: Parenting a child with disabilities is really, really hard. Some people do not want to or cannot handle that responsibility. We should not force it on them, nor should we subject the child to it.
+1.2.5.1.10.2.3.1. Con: One study of parents with autistic children concluded that many of them saw themselves grow in the face of the new challenges and their lives improve \([Altiere/von Kluge, p. 150](http://www.tandfonline.com/doi/abs/10.1080/13668250902845202)\).
+1.2.5.1.10.2.3.1.1. Con: The same study also outlines the intense stress and hardship these families experience, even if some elements of raising a disabled child are positive.
+1.2.5.1.10.2.3.2. Pro: Those who do not want to handle that responsibility are unlikely to be good at it if required to do so.
+1.2.5.1.10.2.3.2.1. Con: While parents frequently struggle with the idea of raising a child with special needs, most [rise to the challenge](http://www.parentcenterhub.org/repository/journey/) as they learn and acquire skills and support networks.
+1.2.5.1.10.2.3.3. Pro: Such parents are more likely to put such children up for adoption or surrender them to state care, adding to strain on state resources.
+1.2.5.1.10.2.3.3.1. Pro: Children with disabilities are [over-represented](https://www.iriss.org.uk/resources/insights/permanence-stability-disabled-looked-after-children) in state care.
+1.2.5.1.10.2.3.3.2. Pro: This [Australian review](http://www.humanrightscommission.vic.gov.au/media/k2/attachments/Desperate_measures___May_2012.pdf) cites a range of factors identified in parents relinquishing disabled children to the state, most relevantly stress, isolation and lack of knowledge of rights. These are more likely to arise in parents who were not prepared or willing to take on the task of raising a special needs child to begin with.
+1.2.5.1.10.2.4. Pro: This furthers the notion that neuroatypical people are inherently lesser or that their lives are less worth living.
+1.2.5.1.10.2.4.1. Pro: [87%](http://www.lifenews.com/2011/10/10/abortion-and-disabilities-87-of-downs-die-64-spina-bifida/) of foetuses diagnosed with Down's Syndrome are already aborted, illustrating the reservations people have towards neuroatypical people.
+1.2.5.1.10.2.4.2. Con: Over time people with disabilities will disappear and so will their experiences of discrimination.
+1.2.5.1.10.2.4.2.1. Con: The disappearance of disabled people and/or people with disabilities is not a good thing.
+1.2.5.1.10.2.4.2.2. Con: For some such disabilities \(e.g. Down's Syndrome\), this would require 100% uptake of such screening and enhancements. This is unlikely.
+1.2.5.1.10.2.4.2.2.1. Con: Some vaccinations reach well over [90%](http://www.who.int/mediacentre/factsheets/fs378/en/) coverage on a global level already. Countries with comparably well-developed healthcare infrastructure like the US should be able to achieve higher rates.
+1.2.5.1.10.2.4.2.2.1.1. Con: Vaccinations are significantly cheaper and easier to implement than genetic screenings. The comparison is therefore unreliable.
+1.2.5.1.10.2.4.2.2.1.1.1. Pro: Childhood vaccines are incredibly cheap. IVF is not, and is unlikely to be covered en masse.
+1.2.5.1.10.2.4.2.2.1.1.1.1. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.
+1.2.5.1.10.2.4.2.3. Con: Those people's experiences in the meantime still matter.
+1.2.5.1.10.2.4.3. Con: Wanting to end cancer does not imply that cancer patients' lives have less value than the lives of healthy people. Similarly, desiring that your child not have Down's Syndrome - a condition which may severely lower their quality of life - is not an indication that you believe that people with the condition are lesser or even that their lives are less worth living.
+1.2.5.1.10.2.5. Pro: -> See 1.2.5.1.7.7.1.1.1.2.
+1.2.5.1.10.2.6. Con: This would allow parents who are deaf or autistic to ensure that their children are also deaf or autistic.
+1.2.5.1.10.2.6.1. Con: These parents are not necessarily in a good position to assess the aspects of life that their condition restricts them from accessing or enjoying. It is problematic for them to then have the power to deny those same aspects to their children.
+1.2.5.1.10.2.6.2. Pro: This allows the deaf to better relate to their children.
+1.2.5.1.10.2.6.2.1. Con: If the barrier deafness poses to normal life is so large that a deaf parent has difficulty relating to their child, than it will impose harms on the life of the child.
+1.2.5.1.10.2.6.3. Pro: This would help to perpetuate the deaf community and its [culture](https://wfdeaf.org/our-work/focus-areas/deaf-culture).
+1.2.5.1.10.2.6.4. Con: This is reverse ableism. If parents with a disability want to be treated equally, then it is hypocrisy for them to value a disabled child more highly than an abled one.
+1.2.5.1.10.2.6.5. Pro: Some [couples](https://www.theguardian.com/science/2008/mar/09/genetics.medicalresearch) deliberately decide to have children with disabilities.
+1.2.5.1.10.2.7. Pro: It entrenches the idea that it would be better not to live than to live with these disabilities.
+1.2.5.1.10.2.7.1. Con: Genetic screening would allow parents that carry severe genetic defects to nonetheless produce healthy biological children, thus allowing those who might otherwise be born with genetic diseases to live a normal life.
+1.2.5.1.10.2.7.2. Pro: If engineering away disabilities is accessible, it will tread into the territory of making it the parents' fault for having a disabled child. After all, they could have chosen to guarantee having an able one. It is entirely different from having to chose to abort once a disability is discovered because genetic engineering happens prior to fertilization, and you don't have the defense of being pro-life.
+1.2.5.1.10.2.7.3. Con: People choose to have a child that has been identified as having a disability, even when an abortion or adoption is available.
+1.2.5.1.10.2.7.3.1. Con: At present people choose not to terminate a foetus with a disability because they believe termination is wrong or that the disability will have little impact on the child's life. At the point you can design your child's genes prior to fertilisation you can ensure that no foetus will have a disability and thus you no longer need to make a such a fraught choice.
+1.2.5.1.10.2.7.3.2. Con: Even if a rare handful of parents continue to have children with disabilities, this is hardly likely to be enough to counteract the social norm entrenched by a standard of genetically engineering away those conditions.
+1.2.5.1.10.2.7.3.3. Pro: -> See 1.2.5.1.10.2.6.
+1.2.5.1.10.2.8. Pro: This could also lead to discrimination in a wider sense - against those whose parents chose not to or were unable to engage in genetic engineering.
+1.2.5.1.10.2.8.1. Pro: It is possible, or even likely, that employers would see this as a reason to consider genetic predisposition in choosing employees.
+1.2.5.1.10.2.8.1.1. Con: The genetic setup of job applicants would likely become part of the list of information items that employers are not allowed to ask for from applicants.
+1.2.5.1.10.2.8.1.1.1. Con: Politicians are susceptible to pressure from lobbyists which can make them tolerate this kind of discrimination in the workplace.
+1.2.5.1.10.2.8.1.1.1.1. Pro: Lobbyists have better arguments for allowing questions about genetic predisposition, as these are performance-related, unlike currently prohibited questions about religious or sexual orientation.
+1.2.5.1.10.2.8.1.1.2. Pro: In the United States, the Genetic Information Nondiscrimination Act \([GINA](https://www.govtrack.us/congress/bills/110/hr493/text)\) already prohibits the use of genetic information in health insurance and employment. Employers are barred from using genetic information when making decisions about hiring, firing, job placement, or promotion.
+1.2.5.1.10.3. Pro: If you have the ability to stop something bad from happening, you have an obligation to do so, especially to your children.
+1.2.5.2. Pro: Some people choose not to have children due to the likelihood of passing down a fatal genetic disorder. This process would allow those people to have the child they want.
+1.2.5.2.1. Con: Many people who, for whatever reason, do not have children of their own, instead choose to adopt. Allowing those people to have their own children reduces the number of children who are adopted into loving homes.
+1.2.5.2.2. Con: -> See 1.2.5.1.5.2.
+1.2.6. Pro: Genetic evolution is a process of adaptation that works on extended periods of time. The initial assumption of considering some traits favourable and other not, could be proven wrong in the long run. Therefore, it would be impossible to discern which trait to keep, as some that we might consider negative now in this peculiar environment and finite time, might be a of a key importance for adaptation in a future environment with different conditions.
+1.2.7. Con: The risk evaluation is upon the corresponding regulatory bodies decision.
+1.3. Pro: -> See 1.2.5.2.
+1.4. Pro: IQ is largely heritable and most wealth/science/art is created by high IQ people and so everybody in society would be better off if genetic engineering could be used to create more intelligent people
+1.4.1. Pro: There is strong scientific evidence for this claim:
+
+"Socioeconomic status and genetic influences on cognitive development", PNAS, 2017
+
+"IQ and Income Inequality in a Sample of Sibling Pairs from Advantaged Family Backgrounds", The American Economic Review, 2002
+
+"Genetics and intelligence differences: five special findings", Molecular Psychiatry, 2015
+
+"Genome-wide association study identifies 74 loci associated with educational attainment", Nature, 2015
+1.4.2. Pro: Most divorces occur amongst low IQ individuals so we could also get rid of single parent families with genetic engineering
+1.4.2.1. Con: More detailed cohort studies find that this link is nowhere near as clear as this implies - for example, this Dutch study finds that the correlation holds true for Dutch 30-year-olds, but is [entirely reversed](http://apps.eui.eu/Personal/Dronkers/English/echtscheidingintelleng.pdf) for Dutch 50-year-olds. This suggests that social factors are far more at play than any underlying intelligence.
+1.5. Pro: Once genetic enhancements supersede human abilities, the people who do not have them will try to get them. Maybe they'll be a requirement if enough people get them, like intelligence.
+1.6. Con: Parents should be informed of all possible genetic alterations, possibly as early as sexual education is introduced to a student in school. Enforcing a set of alterations\(the term "enhancements" will always be ambiguous\) will lead to an increase in secret, off-grid births which - no matter how unsafe - is the result of controlling these decisions for individuals.
+1.7. Con: There is widespread opposition to the genetic modification of humans.
+1.7.1. Pro: Polls indicate that a large majority of Americans oppose the [act](http://www.pewinternet.org/files/2015/07/2015-07-01_science-and-politics_TOPLINE.pdf) of genetic engineering to improve intelligence, and [legalisation and government funding](https://www.statnews.com/2016/02/11/stat-harvard-poll-gene-editing/) thereof. Even genetic engineering that is intended to improve resistance to serious diseases attracts opposition from [slightly](http://www.pewinternet.org/files/2015/07/2015-07-01_science-and-politics_TOPLINE.pdf) [more](https://www.statnews.com/2016/02/11/stat-harvard-poll-gene-editing/) than half of Americans.
+1.7.1.1. Con: If this were true, then this is only an obligation on the American state to avoid passing legislation mandating genetic enhancement for American children. Other states do not need to base their legislation on American public opinion.
+1.7.2. Pro: An open letter from [150](http://www.telegraph.co.uk/news/science/science-news/12025316/Humans-will-be-irrevocably-altered-by-genetic-editing-warn-scientists-ahead-of-summit.html) scientists, campaigners and health experts is calling for a worldwide ban on genetic editing.
+1.7.2.1. Con: 150 scientists is not very many relative to the field of [genetic engineering](https://en.wikipedia.org/wiki/List_of_genetics_research_organizations).
+1.7.2.2. Con: Their objection is based in part on the prospect of experimentation, which would not happen after FDA approval.
+1.7.3. Con: The public acceptance of medical procedures can radically change over a relatively short time span. The public attitude towards organ donations [in Denmark](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878074/), for example, changed from almost half the population having "very negative" attitudes to 90% having"very positive" attitudes within less than two decades.
+1.7.4. Con: Parents will not face this opposition because they can keep the enhancement a secret.
+1.7.5. Con: It is not clear why public opposition to something should factor into the decisions made by individuals in a system in which those decisions are permitted.
+1.8. Con: Genetic enhancement violates human dignity.
+1.8.1. Pro: -> See 1.2.1.3.1.
+1.8.2. Pro: Genetic enhancements will probably will be standardized, meaning if someone wants feature blue eyes, everyone who wants that feature will get it encoded by the same gene code. This raises the problem of monocultures: if a virus finds a way to attack one of these features, every enhanced human will be vulnerable to it. Nature solves this by diversity and genetic variability, we should not abandon this protection.
+1.8.2.1. Pro: [Certain varieties of banana](https://theconversation.com/with-the-familiar-cavendish-banana-in-danger-can-science-help-it-survive-64206) are already extinct because of the problems associated with monocultures.
+1.8.3. Pro: If parents genetically engineer their children to be "perfect" as society sees it, eventually, all of society will look, act, and feel the same. Genetic engineering will remove individuality and thus make life worse for the child in question because they will just be like everyone else.
+1.8.4. Pro: The Council of Europe’s [convention](https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168007cf98) on human rights and biomedicine states that tampering with the gene pool is a crime against “human dignity.”
+1.8.4.1. Con: The CoE also [objects to](http://www.consilium.europa.eu/en/press/press-releases/2015/03/150302-new-gmo-rules-get-approved/) use of Genetically Modified Organisms in food, a very valuable and generally safe scientific advancement. The CoE has been criticized by the scientific community for its position on genetic modifications.
+1.8.5. Pro: Genetic engineering makes babies the direct result of the ambitions and desires of their parents. Giving the parents this degree of control reduces the autonomy of children as independent persons.
+1.8.5.1. Pro: Some of the world's greatest geniuses were misfits,
+that used their differences to think outside the box
+If we standardise humanity, we won't have the diversity we need.
+1.8.5.2. Pro: Society is in constant and rapid change, what is an improvement today can be an handicap in the future. Parents may want a tall son to join the Olympic basketball team, but after all, what he really wants is to be  an artist. Children are not our property — they are placed at our disposal to educate but this should be the only improvement we make in them.
+1.8.5.3. Pro: When genetic mixing is random there is an inherent element of chance and variation to a child that means they need to be understood on their own terms.
+1.8.5.4. Pro: Tailoring a person's genetic makeup to achieve a particular goal \(such as intelligence or athleticism\) reduces the ability of a person to discover and explore their own goals because they feel like they were 'made for' a particular purpose the same way we breed horses for speed or oxen for strength.
+1.8.5.4.1. Con: Traits such as higher intelligence and higher athleticism come without a downside. They give children thus better abilities to discover their own skills and a wider range of skills to discover.
+1.8.5.4.1.1. Con: These traits aren't necessarily negative-consequence-free.
+1.8.5.4.1.1.1. Pro: High intelligence can lead to social isolation, loneliness and [anxiety](http://www.slate.com/articles/health_and_science/science/2015/04/do_smart_people_worry_more_iq_is_correlated_with_anxiety.html).
+1.8.5.4.1.1.1.1. Con: In many cases this effect could be driven by relative differences in intelligence not because of high intelligence itself. If everyone is of high intelligence there is no special pressure for individuals to succeed or act as leaders.
+1.8.5.4.1.1.1.2. Pro: Around [50%](https://www.scientificamerican.com/article/is-intelligence-hereditary/) of intelligence is attributable to genetics.
+1.8.5.4.1.1.2. Pro: Bodies well-suited to one type of athletic activity - for example, swimming - may suffer in other ways, as features that are well-suited to the activity \(like large feet\) do not suit other activities the child may be interested in \(like ballet\).
+1.8.5.4.1.1.2.1. Pro: In some cases, this may even lead to genuine health conditions - high testosterone production in women can make them better runners, but can also disrupt menstrual cycles, which can in turn cause [bone density loss](https://www.ncbi.nlm.nih.gov/pubmed/9579228).
+1.8.5.4.1.2. Con: -> See 1.8.5.4.1.1.2.
+1.8.5.5. Con: If genetic enhancement enables an individual to live an autonomous life in the first place, for example by protecting them from conditions that would negatively impact autonomy, then this works in support not opposition of human dignity.
+1.8.5.5.1. Pro: It has been argued that disability restricts independence and control over one's life, for example in terms of housing, employment and transportation, and thus the conditions necessary for autonomy \([Ells, p. 608](https://www.jstor.org/stable/23559192)\).
+1.8.5.5.2. Con: While it may be true that in some cases, genetic enhancements make a child more autonomous with respect to aspects of their environment, this is compatible with the claim that it also makes a child less autonomous with respect to their parents.
+1.8.5.5.2.1. Con: Children have no autonomy over their genetics in the first place. We can not consult a preexistent person on their preferences, but in this hypothetical we can offer the parents more autonomy in which traits they pass \(and newly impart\) on to their children.
+1.8.5.6. Con: Even without parents' meddling, the genome of a child is anything but the result of autonomy - and thus a state of control - but rather of a random processes.
+1.8.5.6.1. Con: The arbitrariness of a default outcome does not give another person the right to impose their will on someone else's body and/or life.
+1.8.5.7. Con: Children are already raised in accordance with the ambitions and desires of the parents - in terms of what activities the child is exposed to, allowed to participate in, and how the child is raised.
+1.8.5.7.1. Con: This does not mean that this is an approach that should be expanded to further types of control.
+1.8.5.7.1.1. Con: Timely medical benefits, which are controlled by parents, should not be delayed until children are of legal age to make medical decisions \([Savulescu pp. 7-8](http://www.practicalethics.ox.ac.uk/__data/assets/pdf_file/0019/28171/savulescu_chaptersydneyideas08.pdf)\).
+1.8.5.7.1.1.1. Pro: Particularly in this case, where these enhancements can only be done while the fetus is still a small bundle of easily manipulable cells.
+1.8.5.7.2. Con: The examples given here affect children during their childhood; afterwards they are free to decide where to live, where to go to school, etc. Genetics, on the other hand, affect human beings for all of their lives.
+1.8.5.7.2.1. Con: Childhood conditions can have lifelong effects, e.g. from [bullying](http://www.aaets.org/article204.htm) or [class size](http://ftp.iza.org/dp5879.pdf).
+1.8.5.8. Pro: Children would be limited in their ability to make free choices \([Resnick & Vorhaus, p. 5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1524970/pdf/1747-5341-1-9.pdf)\).
+1.8.5.8.1. Pro: Genetic enhancements will affect life paths and plans of the child by favoring certain traits, such as making a person very tall.
+1.8.5.8.2. Pro: Genetic modification prevents that person who has been modified from making free choices related to the modified trait. The modified genes influence the child's future development, such as giving the person a talent for music or sport.
+1.8.5.8.3. Pro: Genetic enhancements limit a person's free choices by raising parental demands.
+1.8.5.8.3.1. Pro: Children's accomplishments will not be directly attributable to them but to the wise choice of the parents. Children can never be sure about their authenticity.
+1.8.6. Con: Following [Kant](http://fs2.american.edu/dfagel/www/Philosophers/Kant/MetaphyscsofMorals.htm), autonomy is "the basis of the dignity of human and of every rational nature". Genetic enhancements can increase an individual's capacity for autonomy and work thus not in opposition but rather in support of human dignity.
+1.8.6.1. Pro: -> See 1.8.5.5.
+1.8.6.2. Con: Kant's conception of autonomy is one of empowerment - and thus of the "capacity to control the situation". Children are clearly not given the chance to control their own situation if their parents decide about something as fundamental as their genetic setup \([Brownsword, p. 26f., 30](http://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1262&context=ndjlepp)\).
+1.8.6.2.1. Con: We do not let kids choose where they live, where they go to school, etc. We give parents rights over their children because the children, generally, are not able to make fully rational and informed decisions, and we assume that parents will act in the best interests of their children.
+1.8.6.2.1.1. Con: -> See 1.8.5.7.2.
+1.8.7. Con: Nothing about human dignity inherently implies a mandate to maintain flaws e.g. genetic diseases.
+1.8.7.1. Con: However, it does imply an importance of being valued as unique individuals, rather than as engineered and predicted outcomes.
+1.8.7.2. Con: Many genetic 'flaws', if not severe, become important parts of our person that help define our character and add diversity to the human experience, such as differences in height or eyesight.
+1.8.8. Con: -> See 1.8.5.5.
+1.8.9. Pro: Genetic enhancements can draw from genes found in other species. Mixing human and non-human DNA undermines the integrity of humanity when considered as a species.
+1.8.9.1. Pro: Mixing the DNA of species is common in genetic engineering, and has been done to primates, which have a similar genetic makeup to humans. For example, [several monkeys were made to glow in the dark using jellyfish DNA](https://www.technologyreview.com/s/413616/glowing-monkeys-inherit-jellyfish-genes/).
+1.8.9.1.1. Con: These examples refer to possibility studies in labs and with animals. Modifications of the human genome would most likely be more regulated and cautious.
+1.8.9.1.1.1. Con: A [human-pig hybrid was created in a lab](https://www.theguardian.com/science/2017/jan/26/first-human-pig-chimera-created-in-milestone-study) in order to develop new ways to grow organs for humans in need of transplants. The creation of this chimera has raised ethical questions, but is nevertheless celebrated as a scientific success.
+1.8.9.1.1.1.1. Con: Standard practice, and what was done in this study, is to dispose of the embryos at 28 days development. We remain extremely cautious about genetic modification research involving humans.
+1.8.9.1.1.1.2. Con: The embryos created in this study were still ultimately pig embryos, simply containing a small number of human cells.
+1.8.9.2. Pro: Genetic engineering is controversial enough as-is; the moral panic around possible 'human-animal hybrids' was enough for it to be mentioned in a [State of the Union address](http://www.washingtonpost.com/wp-dyn/content/article/2006/01/31/AR2006013101468.html).
+1.8.9.3. Pro: Many religions believe that humans were directly created by God and that animals are lesser beings. To mix the two is seen as an affront to God's will.
+1.8.9.4. Pro: Species naturally cannot share DNA — the definition of a species is that it cannot reproduce with other species. Allowing DNA to mix between species is, almost by definition, unnatural.
+1.8.10. Pro: A feeling of self-respect and self-worth is an integral part of human dignity. The existence of genetic enhancements will make non-enhanced people feel like second class citizens and thereby harm their dignity.
+1.8.10.1. Con: Such would put dignity on a race track. With the development of such enhancements being tied to the use of them and thus human dignity, if one falls behind in them one would be lessened. This is akin to a disorder where an individual never feels complete and goes for continual surgeries to make them more pretty; Sometimes with horrifying results.
+1.8.10.2. Pro: People are aware of embedded power structures and institutionalized realities - of which genetic discrimination [is already one](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1684266/) through the popularity of genetic testing
+1.8.10.2.1. Pro: Knowledge about genetic diagnosis, even if the person in question is asymptomatic or will never be significantly impaired, [has been linked](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1684266/) to discrimination in areas such as employment and insurance.
+1.8.10.3. Con: The future of human well-being is much more important than one or two generations not feeling as capable as their children.
+1.8.10.4. Con: That is how most people already feel today, so nothing will change.
+1.8.10.4.1. Pro: Economic inequality is rampant today.
+1.8.10.4.2. Pro: Physical, attractiveness, health and intellectual inequalities are immense today.
+1.8.10.4.3. Con: An existing sense of inequality does not mean that people cannot feel more unequal, or that more people cannot feel unequal.
+1.8.10.5. Pro: A comparable issue is the de-facto treatment of women as second-class citizens, which has been [described explicitly](http://www.ohchr.org/EN/UDHR/Pages/CrossCuttingThemes.aspx) as an impediment of human rights and human dignity.
+1.8.11. Con: Discrimination based on genetic differences, such as racism or prejudices against those born with genetic diseases, represents a worse violation of human dignity than does the genetic enhancement of humans.
+1.8.11.1. Con: This is a red herring. The fact that there are worse violations of human dignity says nothing about whether or not genetic enhancements also violate human dignity.
+1.8.12. Pro: Genetic modifications open the door for [eugenics](https://en.wikipedia.org/wiki/Eugenics) and, thereby, for beliefs and practices aimed at improving humans' genetic quality.
+1.8.12.1. Pro: This strengthens the notion that some people are genetically superior to others, which can easily be coopted by racists.
+1.8.12.1.1. Con: -> See 1.2.5.1.7.7.1.1.1.3.
+1.8.12.1.2. Pro: This can lead to devastating societal harms, including racially-targeted policies aimed at curbing the rights of 'inferior' citizens.
+1.8.12.2. Con: The negative reputation of eugenics stems from its forceful implementation through measures such as forced abortions, marriage restrictions and even genocide in the past. Yet eugenics can also be of a voluntary nature and target life that is not yet existent instead of living human beings.
+1.8.12.2.1. Con: Even if parents voluntarily participate in the process of genetic enhancement, the outcome is forced upon the affected children as they can neither consent nor dissent. In this sense, genetic enhancement remains a forceful process.
+1.8.12.2.2. Pro: Processes such as [preimplantation genetic diagnosis](https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis) can prevent genetic diseases in babies in a way that does no harm to anyone and is fully consensual. Yet, by definition, these procedures are a form of eugenics.
+1.8.12.2.3. Con: One needs to consider the relative likelihood of each outcome. History shows us that regardless of whether or not eugenics can be used for good, it is traditionally implemented to harm a certain group.
+1.8.12.3. Con: Eugenics [was scientific racism](https://en.wikipedia.org/wiki/Scientific_racism); it cannot become relevant again as a scientific movement because its ideas \(such as a genetic link between race and intelligence\) [have been disproven](https://pdfs.semanticscholar.org/97be/61fff58f878e8d35ea7a4cadc9d1f3240254.pdf).
+1.8.12.3.1. Con: A lack of scientific evidence will not necessarily stop racist norms, actions or beliefs from taking hold.
+1.8.12.3.1.1. Pro: Bias in society affords structural advantages to groups such as white men. Parents who want the best for their children may use genetic enhancement to select for a gender and physical features \(such as skin color\) that minimise the chance that their child will face discrimination.
+1.8.12.3.1.1.1. Pro: This can have the effect of further entrenching these biases.
+1.8.12.3.1.1.1.1. Pro: For example, if all parents able to afford the treatment for their children choose both high intelligence and light skin, this can reinforce racist opinions and stereotypes linking intelligence with race.
+1.8.12.3.1.1.2. Pro: Even parents who do not share biases may feel pressure for their child to conform to dominant values and opinions.
+1.8.12.3.1.1.3. Con: In the long-term this may be a good thing, as once people are able to opt-in or opt-out of characteristics that are discriminated against then many of the reasons for discrimination become less justified.
+1.8.12.3.1.1.3.1. Pro: -> See 1.2.5.1.7.7.1.1.1.3.
+1.8.12.3.1.1.4. Pro: The practice of [skin whitening](https://en.wikipedia.org/wiki/Skin_whitening) is common and shows that people will take significant actions to conform to racially-influenced definitions of beauty.
+1.8.12.3.1.1.5. Con: More people can become white men now, negating any incremental advantage of a particular group.
+1.8.12.3.1.1.5.1. Con: It is unclear why the literal white-washing of the world is actually a good thing. This is the systematic destruction of other cultures.
+1.8.12.4. Pro: -> See 1.2.5.1.10.2.
+1.8.12.5. Con: Genetic enhancement cannot be considered eugenics as it lacks its discriminatory aspects and solely focuses on eliminating harmful traits or improving existing ones.
+1.8.12.5.1. Con: Human genetic enhancement labels some as 'genetically unfit', e.g. those who suffer from Huntington's Disease. Such thinking and discrimination is similar to what inspired the eugenics of the [Third Reich](http://stanfordreview.org/article/arguing-and-against-genetic-engineering/).
+1.8.12.6. Pro: The use of eugenics by the Nazis shows the devastating potential if we allow it in our society.
+1.8.12.6.1. Con: We do not need to be worried about eugenics becoming more acceptable as there is no major ideological orientation that supports such a mindset.
+1.8.12.6.1.1. Con: There is no reason why this ideology cannot grow again. Recent world events have seen a number of extreme political ideologies take over countries \(see US, Austria\).
+1.8.12.7. Con: -> See 1.8.12.6.1.
+1.8.12.8. Pro: Genetic research on particular Jewish genes could be understood as precursor to eugenic research and indicates how genetic enhancement might open the door for eugenics \([Sand, p. 272](https://books.google.co.kr/books?id=pgsP0DFkmp0C&pg=PA267&lpg=PA267&dq=shlomo+sand+the+invention+of+the+jewish+eugenic&source=bl&ots=qlBptVfl8y&sig=1lQDV6PMHy9gIfK94QFJtP53jSg&hl=de&sa=X&ved=0ahUKEwjgs67ri5vRAhXKm5QKHYJkAVQQ6AEIVjAH#v=onepage&q=gene&f=false)\).
+1.8.13. Pro: -> See 1.2.5.1.10.2.
+1.8.14. Con: Adaptation and intelligence is what makes humans special. Being able to use intelligence to genetically adapt and modify ourselves is what makes us different. Disallowing modification would harm human dignity more, as that would be an arbitrary limitation to our potential.
+1.8.14.1. Con: Overspecialized adaptations, such as those likely to occur without the experimental lab of generations, can lead to fragile genomes that are not adaptable when conditions change or are unable to account for long term effects.
+1.8.14.1.1. Con: While that is true, the most likely use case for enhancement is about removing diseases or enhancing already present traits like intelligence, not adding "genetic specializations".
+1.9. Con: -> See 1.2.5.1.7.7.1.1.1.
+1.10. Pro: -> See 1.2.5.1.
+1.11. Pro: Genetic enhancements not only increase our adaptation to the modern world, they improve the broader human condition.
+1.11.1. Pro: Many non-health related forms of human suffering are also at least in part genetic: depression, suicide, lack of social skills, Low IQ, procrastination, aggression \(both sexual and non sexual\), boredom, distraction, jealousy, nervousness.
+1.11.1.1. Pro: Criminal and antisocial behaviour [is](https://link.springer.com/article/10.1007/BF02239409) [genetic](https://www.ncbi.nlm.nih.gov/pubmed/26666206) so society could free itself of crime through genetic engineering.
+1.11.1.2. Con: Some of these problems are closely linked \(not saying causal\) with creativity. There is a risk that eg. eliminating depression or dependency \(eg. alcoholism\) would deprive the world of great artists or writers. We would likely not discover this until it was too late.
+1.11.2. Pro: Adaptation to climate change necessitates that the next generation is genetically enhances.
+1.11.3. Con: If this increases inequality and creates stark divisions in society, then we would not have "improved the human condition" in any meaningful sense.
+1.11.3.1. Con: Enhancing some parts of society, even if it's only the top end, still improves humanity overall.
+1.11.3.2. Con: -> See 1.2.5.1.7.7.1.1.1.1.3.
+1.11.3.3. Pro: -> See 1.2.5.1.7.7.1.1.1.
+1.11.4. Pro: Given the societal and economic benefits of a smarter and healthier population, it is very much in the government's interest to subsidize genetic enhancements in order to improve society writ large.
+1.11.4.1. Pro: Scientists are toying with ideas about how genetic engineering might make humans [more energy-efficient](http://www.theatlantic.com/technology/archive/2012/03/how-engineering-the-human-body-could-combat-climate-change/253981/) and thus help government-driven efforts against climate change.
+1.11.5. Pro: Such modifications could allow us to more quickly modify future generations to better withstand emerging threats, such as new viruses or changes in climate conditions.
+1.11.5.1. Pro: -> See 1.2.5.1.6.1.
+1.11.5.2. Con: Humanity has always adapted to new changes in climate and the environment without the help of science.
+1.11.5.2.1. Pro: Humans can slowly adapt their genetic setup to the prevalence of diseases. Most of the human population of Sub-Saharan Africa has[genetically adapted](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1224522/) to the most common infection underlying malaria and thus become immune.
+1.11.5.2.2. Con: The fact that humans have evolved certain immunities in the past does not mean we should not help that process along. This argument could also imply that we should not use medicine, as humans can just evolve the resistance to the disease.
+1.11.5.2.2.1. Pro: Historical humans did not live in ecosystems deliberately altered by radioactive contaminations, heavy metals, chemically altered water, food, soil or air. Today, genetic advantages are a necessary part of attempts to sustain human life on a contaminated planet \([Western](http://www.pnas.org/content/98/10/5458.full)\).
+1.11.5.2.3. Con: Natural adaptation came at a high price, in terms of people who lost their lives, such as those who died from influenza. Being able to reduce that number is beneficial.
+1.11.5.2.4. Con: This is also simply untrue. Medicine, agriculture, sanitation and engineering have been key to such adaptations.
+1.11.5.3. Pro: -> See 1.2.5.1.6.2.
+1.11.5.4. Con: Those most at risk from disease and climate change are often the most impoverished and will not have access to these enhancements.
+1.11.5.5. Con: It would take a long time for enough people to be altered to impact society writ large.
+1.11.5.5.1. Con: It is still a good thing to focus on a long-term herd immunity that eventually kills off a disease, such as what vaccines did to smallpox and polio.
+1.11.5.5.2. Pro: Some benefits of genetic enhancement, such as developing a herd immunity, require a significant portion of society to be enhanced in order to take effect, which, given the turnover rate of humanity and the relatively small scope of availability, would not be plausible for decades.
+1.11.6. Pro: Aggressive and violent behavior [has been linked](https://www.ncbi.nlm.nih.gov/pubmed/20443172) to genetic dispositions. As these behaviors are generally unwelcome, genetic modifications could prevent them by modifying their genetic foundations.
+1.11.6.1. Con: Aggression is also a common response of those who have been treated unfairly, having tried all other avenues. Selecting against aggression may unintentionally silence voices we should be listening to.
+1.11.6.1.1. Pro: Such thinking would neuter the quote "Those who make peaceful revolution impossible will make violent revolution inevitable." Jordan Peterson also spoke that being incapable of cruelty puts you, and those who rely on you, at the mercy of those who are cruel; While being capable of cruelty, but not being cruel is the most moral stance.
+1.11.7. Pro: Some genetic traits place people at high risk of obesity. Eliminating these traits is valuable due to the prejudices and unkindness that those with weight problems experience.
+1.11.7.1. Con: The concept of beauty changes from generation to generation. We could end up developing only three or four verity of human appearance. This might bring discord to the future.
+1.11.8. Con: The improvements exclusively benefit those who are already well off, while neglecting those who need it but cannot afford it.
+1.11.8.1. Con: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.
+1.11.8.2. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.
+1.11.9. Pro: There is inherent value in pushing human beings to the limit of the body's capabilities and seeing what is possible. This applies to intelligence as well as athletics: there is value in aiming for and attaining greatness.
+1.11.9.1. Con: Aiming for greatness should be a decision made by those affected - that is: children - not by their parents.
+1.11.9.1.1. Con: Society would lack many great personalities if they were not the product of their parents' ambitions e.g. young Mozart was educated to become the master his father intended him to be.
+1.11.9.1.2. Pro: Being affected by the decision means that children suffer the negative consequences as well as the positive. They are therefore the ones in a position to weigh the costs and benefits fairly.
+1.11.9.1.2.1. Pro: This is particularly the case as parents are likely to only experience the positive consequences - like those that come from their children being wealthy - and not the negative consequences of stress, or a reduced social life.
+1.11.9.1.3. Con: The decision to genetically enhance your child does not force them to aim for greatness, but merely equips them with the opportunity. As this cannot be done later in life, parents need to be the ones to make this decision.
+1.11.9.2. Con: High intelligence and athleticism can have negative consequences for individuals.
+1.11.9.2.1. Pro: Exceptional intellectual capability [has been linked](https://www.ncbi.nlm.nih.gov/pubmed/20118454) to the prevalence of bipolar disorder.
+1.11.9.2.2. Pro: Oustanding capabilities can lead to a [sense of burden](http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever) in individuals, and to feelings of failure and inadequacy in the face of high expectations.
+1.11.9.2.2.1. Con: It is entirely possible that this is driven predominantly by a sense that your capacities should make you more successful than others without those capacities. In a world where everyone is enhanced, this will be alleviated.
+1.11.9.3. Con: There is little reason to assume that increased intelligence and athleticism of individuals necessarily improves the human condition as this also requires the willingness to use these traits in the service of the common good.
+1.11.9.3.1. Con: It has been [argued by researchers](http://www.sciencedirect.com/science/article/pii/S0092656606000420) that intelligence correlates with altruistic behavior.
+1.11.9.4. Pro: There is research that indicates that higher intelligence leads to a higher level of [collective happiness](https://personal.eur.nl/veenhoven/Pub2010s/2012d-full.pdf) in societies as well as [individual happiness](https://www.ncbi.nlm.nih.gov/pubmed/22998852) in individuals.
+1.11.9.4.1. Pro: -> See 1.8.5.4.1.1.1.2.
+1.11.10. Pro: Genetic enhancement allows humanity to create a much more diverse range of aesthetic traits. For example, it is likely we could create [people who glow in the dark](https://www.technologyreview.com/s/413616/glowing-monkeys-inherit-jellyfish-genes/) or have tails.
+1.11.10.1. Con: A purely aesthetic trait would not improve the human condition or increase our ability to adapt to the modern world \(as the parent claims\). Moreover, aesthetic traits could be desirable, but could never create an _obligation_ for parents to enhance their babies \(as the grandparent, and starting claim states\).
+1.11.10.2. Pro: Beauty norms may become less rigid when there is a greater range of aesthetic outcomes.
+1.11.10.3. Con: Such experimental genetic engineering runs a far, far greater risk of hard-to-detect side-effects, as it involves adding large numbers of engineered genes to the genome, which may interact in unexpected ways.
+1.11.11. Pro: Genetic enhancements enable parents to make life easier and more convenient for their children.
+1.11.11.1. Pro: Genetically modified babies can be smarter, stronger and more beautiful. This will make their lives easier and therefore should be done by the parents.
+1.11.11.1.1. Con: -> See 1.2.2.1.2.
+1.11.11.2. Pro: If parents fail to enhance their babies then their children will be outperformed by those who where enhanced.
+1.11.11.3. Con: -> See 1.2.2.1.
+1.11.11.4. Con: Parents might desire characteristics, such as obedience or incuriosity, that make their own lives \(as parents\) easier, but are not strictly in the best interests of their children.
+1.11.11.5. Con: They only have this obligation insofar as it does not hurt others. Thus, the harms that allowing genetic modification would do to poor people outweigh the benefits.
+1.11.11.5.1. Con: Parents regularly make decisions that prioritise their own child at the cost of others.
+1.11.11.5.1.1. Pro: For instance, we allow parents to choose to send their children to private schools, which creates an education sector that systematically disadvantages poorer children.
+1.11.11.5.1.1.1. Con: Harms to poor children are not a result of any individual parents choice but of how the education system as a whole is regulated and funded by the government.
+1.11.11.5.1.2. Pro: A child's guardians are the only persons who have a strict legal duty to care for them.
+1.11.11.5.2. Pro: -> See 1.2.5.1.7.7.1.1.1.
+1.11.11.6. Pro: Parents make sacrifices all the time out of love for their children and in an attempt to give their child a good life.
+1.11.11.7. Pro: In having a child, parents bring into the world a being who would not otherwise exist. Failing to ensure that being has the best chance possible permanently constrains that being's quality of life.
+1.11.12. Pro: This would make sports much more fun, especially to watch.
+1.11.12.1. Con: Only people with genetic enhancements will be able to reach the highest professional levels, removing an opportunity and dream for low-income kids.
+1.11.12.1.1. Pro: -> See 1.2.5.1.7.7.1.1.1.1.
+1.11.12.2. Pro: Genetic enhancements would strengthen underdog narratives in sports. For example, if a team of poor, unenhanced players defeats a team of enhanced, rich players, the story is even more powerful.
+1.11.12.2.1. Con: Real-life occurrences of poor competitors beating rich would become increasingly rare as genetic enhancements improve.
+1.11.12.2.2. Con: Increased equality of athletes would eliminate much of the inspiration that comes from sporting underdog stories, at least in professional sports - of hard work paying off in impressive results.
+1.11.12.2.2.1. Con: If everyone is roughly at the same physical level, then hard work becomes the only determining factor, increasing the unpredictability, suspense, and intrigue, and thus the excitement of sports.
+1.11.12.2.2.1.1. Con: Athletes' physiques will also be determined by the skill and resources of the geneticists working on their behalf.
+1.11.12.2.2.1.2. Con: This assumes an equality of enhancement that may not be the case.
+1.11.12.3. Con: It is not clear why the entertainment industry should be a key consideration in how we shape the entire nature of humanity and society.
+1.11.12.4. Pro: -> See 1.11.12.2.2.1.
+1.11.12.5. Con: Or, as outcomes became more determined by genetics - and more predictable - sports would lose the element of suspense that is crucial to them being engaging.
+1.11.12.5.1. Con: -> See 1.11.12.2.2.1.
+1.12. Pro: Some are born beautiful, intelligent, healthy, while others are not and have to struggle with that for all their lives. With genetic enhancements, this unfairness is cured.
+1.12.1. Con: Our difference are what make us unique. Where some see weakness others find strength. By forcing everyone through a single mold we will lose our individuality.
+1.12.2. Con: It has been estimated that half of the world's billionaires' wealth is based not on meritocratic forces but on inheritance and/or cronyism \([Oxfam, p. 3](https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/dp-extreme-wealth-is-not-merited-241115-en.pdf)\).
+1.12.2.1. Con: Most people are not billionaires. Class mobility, particularly for average income earners, is more likely to derive from intelligence rather than massive inheritances or cronyism.
+1.12.3. Pro: -> See 1.2.5.1.7.7.1.1.1.3.
+1.12.4. Pro: -> See 1.2.5.1.7.7.1.1.1.9.
+1.12.5. Pro: Beauty is an important factor for economic success. Genetic enhancements that equalize physical attractiveness mitigate this economic bias.
+1.12.5.1. Con: Defining an obligatory standard of beauty is immoral. Being moral is an obligation which outweighs such a standard.
+1.12.5.2. Con: Depending on future technology, humans may have access to artificial bodies such as surrogates. The most functional and utilitarian bodies will provide more economic success, and an obligation to be otherwise would hinder it.
+1.12.5.3. Pro: More attractive people are treated preferentially in [job placements](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2389.2009.00454.x/abstract).
+1.12.5.3.1. Con: We speak of the future, at which point jobs themselves might have an obsolete viewpoint on human work being obligatory. Obligations attached to the work system will change respectively to the obligation of having a job at all.
+1.12.5.4. Pro: Those with high physical attractiveness have higher [incomes](https://www.jstor.org/stable/2117767?seq=1#page_scan_tab_contents).
+1.12.5.4.1. Con: Physical attraction will lose it's meaning and validity the more easily it is obtained. This will balance out the income disparity as people question/suspect looks more than ever before.
+1.12.6. Con: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.
+1.12.7. Pro: The existing dysgenic state of society \([in which people with higher IQs have fewer children](http://goo.gl/SrzDFU)\) increases inequality, because it will always be the groups with highest IQs that produce the most wealth. Genetic engineering \(or selection of embryos with higher polygenic scores for intelligence\) may enable a more rapid equilibrium in the genetic playing field and thereby reduce inequality.
+1.13. Con: Society will become dependent on companies that offer genetic modifications.
+1.13.1. Pro: After a few generations, birth without genetic modification may become impossible due to selection effects.
+1.13.1.1. Con: Rendering a person functionally sterile, barring some yet unknown biological factor preventing rapid mutations being passed on, would require targeted attempts to sterilize, or significant changes throughout the whole of the persons genome, or massive changes, or deletions, to chromosomes. In other words, accidental sterilization or specialization are quite unlikely and likely correctable.
+1.13.1.2. Pro: Long term, given class or social divides, you could see specification events as human-driven genetic modification leads to whole new species of humans which can not interbreed unaided.
+1.13.1.2.1. Con: Long term this will happen if parts of humanity ever leaves earth due to the extreme scales of distance and time. Even without the intervention of genetic given enough time.
+1.13.2. Pro: Companies will be able to charge whatever they want, given the exceedingly high demand.
+1.13.2.1. Con: In the same vein, society is already dependent on companies for all kinds of other drugs. Yet competition and government regulation ensure their affordability.
+1.13.2.1.1. Con: This is often unsuccessful, and functionally relies on the industry willingly cooperating. See recent examples of drug price gouging, including on [AIDS medication, Epipens and prescription skin treatments](https://www.ft.com/content/1b773ca8-8124-11e6-8e50-8ec15fb462f4).
+1.13.2.2. Con: There would not be near-infinite demand —most people only have a few children. There are many classes of consumer goods and services that we purchase more of over our life, such as cars or cellphones.
+1.13.2.2.1. Con: Even though most people only have a few children, most people have children. Thus, the demand is likely to be exceptionally high.
+1.13.2.3. Con: As with any other form of market, competition between companies means that prices do not become extreme.
+1.13.2.3.1. Con: Genetic enhancements are likely to be protected by patents. Thus, new competitors cannot enter the market.
+1.13.2.3.1.1. Con: Even the US, which has been one of the countries most willing to entertain gene patents, has refused to allow patenting of [naturally occurring genes](http://www.medscape.com/viewarticle/805756), only allowing the patenting of synthetic \(engineered\) sequences.
+1.13.2.3.1.1.1. Con: That the courts haven't allowed patenting of natural occurring genes says very little of how they'll treat genetic enhancement techniques and the many engineered sequences that we can expect.
+1.13.2.3.1.2. Con: It is within the power of governments to legislate to resolve this, and many have already done so.
+1.13.2.3.1.2.1. Pro: It is not inevitable that courts will allow such patents. Several countries have already taken other approaches, for example, [Australia](http://www.smh.com.au/national/health/landmark-high-court-ruling-on-brca1-gene-patent-as-pensioner-wins-legal-case-20151006-gk2wvu.html).
+1.13.2.3.1.2.1.1. Pro: -> See 1.13.2.3.1.1.
+1.13.2.3.1.2.1.2. Pro: Other countries, [such as India](https://www.statnews.com/pharmalot/2016/05/23/india-patents-licenses-pharma/), choose to ignore or not enforce medical patents in many circumstances.
+1.13.2.3.1.2.2. Pro: In many jurisdictions, [intellectual property assets are subject to antitrust laws](https://www.justice.gov/atr/chapter-1-strategic-use-licensing-unilateral-refusals-license-patents#iiia) which creates a strong incentive for companies to license out their technology for a fair price.
+1.13.2.3.1.2.3. Con: Reducing patent protections results in reduced R&D investments by pharmaceutical companies as returns on investments are lowered.
+1.13.2.3.1.2.3.1. Pro: The absence of patent protection hampers the establishment of drug research institutes in developing countries because pharmaceutical companies do not want to invest there \([Lehman, p.2](http://users.wfu.edu/mcfallta/DIR0/pharma_patents.pdf)\).
+1.13.2.3.1.2.3.1.1. Con: India is experiencing a massive influx of foreign investment  in the biotechnology industry, despite the absence of patent protection \([PWC, p. 10](http://www.pwc.com/gx/en/pharma-life-sciences/pdf/global-pharma-looks-to-india-final.pdf)\).
+1.13.2.3.1.2.3.1.2. Con: Companies can do the research in low-cost countries and patent the drugs in developed countries anyway. There is no disadvantage to research in countries without patent protection.
+1.13.2.3.1.2.3.2. Pro: Patents enable a monopoly for a given time and therefore reimburse companies for research costs.
+1.13.2.3.1.2.3.2.1. Con: Research costs are artificially increased by pharmaceutical companies to put up pressure on politicians to provide better patent protection \([Baker, p. ii](http://cepr.net/documents/publications/healthcare_stagnation_2007_03.pdf)\).
+1.13.2.3.1.2.3.2.2. Pro: Research costs of an average [$ 403 million](http://www.sciencedirect.com/science/article/pii/S0167629602001261) per new drug are normal and need to be earned back.
+1.13.2.3.1.2.3.2.3. Pro: Patent protection [reduces market uncertainty](https://ub-madoc.bib.uni-mannheim.de/1441/1/dp06056.pdf) and therefore stimulates R&D investment. Cutting patent protection would subsequently disincentivize this kind of spending.
+1.13.2.3.1.2.3.3. Con: The assumption that patent protection always results in larger investments has been called into question \([Wang/Mukherjee](http://www2.nuk.edu.tw/econ/teacher/lfswang/Patent%20Protection-Innovation-Technology%20Llicensing-AEP-final%202015.pdf);  [Gallini, p. 132](http://econ.sites.olt.ubc.ca/files/2013/06/pdf_paper_nancy-gallini-economics-patents-lessons-recent-US.pdf); [Federal Trade Commission, p. 3](https://www.ftc.gov/sites/default/files/documents/reports/promote-innovation-proper-balance-competition-and-patent-law-and-policy/innovationrpt.pdf); [Bessen/Hunt, p. 41](http://www.researchoninnovation.org/swpat.pdf); [Bessen/Maskin](http://scholar.harvard.edu/files/maskin/files/sequential_innovation_patents_and_imitation.pdf)\).
+1.13.2.3.1.3. Pro: This will mean that individual companies will have control over particular modifications. Parents who want a multitude of modifications will have to pay licensing fees to many companies.
+1.13.2.3.1.3.1. Pro: Companies already abuse such patent monopolies in the [pharmaceutical sector](https://spectator.org/64451_high-price-our-medical-patent-system/). These can lead to [extortionate prices](https://www.nytimes.com/2015/09/21/business/a-huge-overnight-increase-in-a-drugs-price-raises-protests.html?_r=0).
+1.13.2.3.1.4. Con: There are multiple ways of achieving the same effect, see the various drugs that help men achieve erections.
+1.13.2.3.1.4.1. Con: Many characteristics are affected by only one or two genes. In those cases, there will often be only one or two ways to achieve the desired outcome.
+1.13.2.3.1.4.2. Con: Where characteristics are affected by more than one gene, achieving an ideal result will often require modifications to all genes involved, to maximise the desired trait. In this sense, even if there are alternatives on the market, the ideal outcome will be achieved by using all of them, rather than by picking the cheapest.
+1.13.2.3.1.4.3. Pro: Drugs that came after Viagra are even more effective. [Levitra](http://www.webmd.com/erectile-dysfunction/guide/cialis-levitra-staxyn-viagra-treat-ed#1), for example, takes less time to act and lasts longer.
+1.13.2.3.1.5. Con: Governments could easily dictate that any research in this field will become a public good, make that the condition for government grants or forbid private sector research in this field.
+1.13.2.3.1.5.1. Con: This would risk substantially reducing the research and discoveries in the field, by removing the profit motive. While governments could do this, they would potentially sacrifice the benefits of genetic engineering itself in the process.
+1.13.2.3.1.5.2. Con: Governments have failed to do this with existing medical technology, even where it can save lives or substantially increase productivity. This suggests that governments are largely uninterested in doing this.
+1.13.2.3.1.5.3. Con: The same pro-corporate governments that would be likely to support commercial modification of the human genome would also be less likely to socialize the intellectual property of these corporations.
+1.13.2.3.1.6. Pro: The EU [allows](http://www.genengnews.com/gen-exclusives/gene-patents-in-europe-relatively-stable-despite-uncertainty-in-the-us/77899385.) gene patenting.
+1.13.2.4. Pro: During the [early years](http://marketrealist.com/2015/02/patents-big-pharma/), the procedures underlying genetic enhancements could be patented which, would enable companies to establish monopolies.
+1.13.2.4.1. Pro: In the long term it is better that any procedures are patented so they become public knowledge and eventually become free. If kept as trade secrets neither may occur.
+1.13.2.4.2. Con: It may be more lucrative and less risky for companies to license out their intellectual property rather than attempt to maintain a global monopoly.
+1.13.2.4.2.1. Con: Patent licensing is incredibly rare in the pharmaceutical industry, the most comparable existing industry \([Lehman](http://users.wfu.edu/mcfallta/DIR0/pharma_patents.pdf), p. 4\)
+1.13.2.4.3. Con: -> See 1.13.2.3.1.2.
+1.13.3. Con: -> See 1.13.2.1.
+1.13.4. Con: Governments could offer genetic modifications as part of their healthcare services if people become too dependent on companies.
+1.13.4.1. Pro: Just like health care systems like the United Kingdom's NHS pay [for childhood vaccinations](http://www.nhs.uk/chq/Pages/1040.aspx?CategoryID=67), so could genetic enhancements with similar effects be free of charge.
+1.13.4.1.1. Con: -> See 1.2.5.1.10.2.4.2.2.1.1.1.
+1.13.4.2. Con: There is no reason to believe that governments will be willing to pay for services that are not immediately necessary from a medical perspective in future - as they do not in the status quo.
+1.13.4.2.1. Con: It may not be medically necessary but governments already pay for services that enhance our intelligence and athleticism by funding public education, public parks, and sports teams.
+1.13.4.2.2. Con: Governments already use mechanisms such as progressive taxes to reduce structural advantages that the rich hold. If access to genetic engineering creates new inequalities the government could fund it as a further form of welfare.
+1.13.4.2.3. Con: Many governments already provide medical services that are not strictly necessary, such as nutrition advice, physiotherapy, etc.
+1.13.4.2.4. Con: To the extent the government funds treatment and care for problems caused by genetic disorders \(say spinal muscular atrophy\) then it makes sense to fund genetic engineering as a preventative treatment.
+1.13.4.2.5. Con: There are enormous economic benefits for any government and nation to have their whole population enhanced.
+1.13.4.2.5.1. Pro: This will lead to a more productive population - meaning better output per hour worked - in effect increasing a nation's competitiveness.
+1.13.4.2.5.2. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.
+1.13.4.2.6. Con: Nations are competing with each other and if one started it, the others that are able to would follow suit.
+1.13.4.2.6.1. Con: In theory, this should also apply to preventative healthcare - countries should compete on quality of care provided to attract companies and great employees - yet the US still does not provide it to its citizens.
+1.13.4.2.6.2. Pro: This was true in Western Europe, where governments provided more welfare to their citizens in light of a Communist threat.
+1.13.4.2.7. Con: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.
+1.13.4.3. Con: Unless the government wants to expand into the research and application of these procedures, the reliance on private investment is hard to avoid, as existing healthcare systems already show.
+1.13.4.3.1. Con: Relying on private investment is not incompatible with the government provision of healthcare services. Public health systems can simply purchase those private services, as they often do when subsidising drug treatments or outsourcing surgeries.
+1.13.4.4. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.
+1.13.5. Con: For every company, it is possible that there will always be organisations who provide the same service perhaps at reduced or no cost to less well-to-do citizens.
+1.13.5.1. Pro: A type of [Planned Parenthood](https://www.plannedparenthood.org/) that runs on private and generous funding can be created for poor families.
+1.13.5.1.1. Con: Given the various more immediate charitable causes seeking funding, such an organisation would be vastly unlikely to attract the kind of funding it would need to operate at any scale.
+1.13.5.2. Con: -> See 1.13.2.3.1.
+1.13.5.3. Con: There are many things, such as high-quality healthcare in America, that are simply unavailable to the poor. Given the elective nature of this kind of modification, it is unlikely to be a priority for charities.
+1.13.6. Con: [Many countries](http://www.nytimes.com/roomfordebate/2015/09/23/should-the-government-impose-drug-price-controls/end-patent-monopolies-on-drugs) have policies in place that limit the power of companies in monopolistic positions, for example through price controls and limitations on patents.
+1.13.7. Pro: Companies that become central will be 'too big to fail' and unduly receive government support.
+1.13.7.1. Con: Companies are considered too big too fail because they are irreplaceable \(typically monopolies\) or are intertwined with the financial system \(banks\). No current drug or medical technology company comes close to meeting either criteria.
+1.13.7.1.1. Pro: This is particularly the case as the value of such a company - their patents - can easily be sold off to other, solvent, companies.
+1.13.7.1.2. Con: While it may be true that no pharmaceutical or medical companies are too big to fail, if genetic enhancement were widespread that would likely no longer be the case.
+1.14. Pro: -> See 1.2.5.1.7.7.1.1.1.1.3.2.1.2.3.5.1.

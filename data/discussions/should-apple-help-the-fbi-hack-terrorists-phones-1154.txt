@@ -1,0 +1,102 @@
+Discussion Title: Should Apple Help the FBI Hack Terrorists' Phones?
+
+1. [Apple](http://www.apple.com/customer-letter/) should give in to all the FBI's [demands](http://www.cnbc.com/2016/02/18/confused-about-apple-and-the-fbi-what-you-need-to-know.html) and provide authorities with a signed iOS update that allows for brute force attacks.
+1.1. Pro: The seized iPhone may contain a "dormant cyber pathogen" \(a unique term for 'computer virus'\) threatening to disrupt San Bernadino's infrastructure and therewith posing a continuous risk \([Ramos, p. 4](https://de.scribd.com/document/302088759/San-Bernardino-DA-Amicus-Curiae-Application)\).
+1.1.1. Con: It is highly unlikely that a virus can be made that is stored on a phone and can infect San Bernardino infrastructure by connecting to a network.
+1.1.2. Con: In case the IPhone contains a virus leaving it inactive is better than to hack and open it.
+1.1.3. Con: If there would have been some sort of virus Farook would have deployed it earlier.
+1.2. Pro: Law enforcement and intelligence agencies face significant challenges in protecting the public against crime and terrorism. They should get every help they need.
+1.2.1. Con: Authorities should not have backdoors to bypass encryption protection.
+1.2.1.1. Con: Apple is not asked to break the phone’s encryption but rather [to disable the feature](https://www.washingtonpost.com/world/national-security/us-wants-apple-to-help-unlock-iphone-used-by-san-bernardino-shooter/2016/02/16/69b903ee-d4d9-11e5-9823-02b905009f99_story.html) that wipes the data on the phone after 10 incorrect tries at entering a password. That way, the government can try to crack the password using “brute force” — attempting tens of millions of combinations without risking the deletion of the data.
+1.2.1.1.1. Con: Apple is unable to unlock its newer iPhones for law enforcement, even when officers obtain a warrant, because they are engineered in such a way that Apple does not hold the decryption key. Thus Apple would need to write software that can bypass the feature.
+1.2.1.1.2. Con: Considering today's readily available computing power, removing brute force protection on systems with short passphrases \(like a typical phone PIN\) is effectively the same as breaking encryption.
+1.2.1.2. Pro: Encryption is used by tech companies to protect their customers’ personal data. These data should be protected.
+1.2.1.2.1. Pro: When buying a product that records personal data, customers need to be able to trust the product's company, that they will not reveal their data.
+1.2.1.3. Con: The NSA facilitates backdoors under [Section 702 of the FISA Amendments Act](http://fas.org/irp/news/2013/06/nsa-sect702.pdf) with full legal support.
+1.2.2. Con: It is the sole duty and job of a state to protect its citizens. No one else can be obligated to help them in that matter, or be held responsible, if they refuse to do so.
+1.2.2.1. Con: Law enforcement agencies have the right to confiscate citizen's property to track down criminals, e.g. a car.
+1.3. Con: Government agencies don't have an incentive to securely store their software.
+1.3.1. Pro: Government agencies are run by individuals that can sell these tools in the black market.
+1.3.2. Pro: There were cases of software theft from even the [NSA](https://www.wired.com/story/eternalblue-leaked-nsa-spy-tool-hacked-world).
+1.4. Con: The information on the phone cannot be used for an investigation against the shooters because they are dead.
+1.4.1. Con: The information on the phone may help find possible accomplices of the [San Bernardino shooters](https://en.wikipedia.org/wiki/2015_San_Bernardino_attack)  and prevent future crimes.
+1.4.1.1. Con: The phone in question was a work phone owned by the shooters' employer. Their private phones have been destroyed. The likelihood that the shooters stored any useful information on their work phones is extremely small.
+1.4.1.1.1. Pro: After the phone was hacked by a third part it [nothing of significance](https://www.theverge.com/2016/4/19/11463672/apple-fbi-san-bernardino-iphone-contents-no-leads) was found.
+1.4.1.2. Con: The confession of the [main accomplice](http://www.independent.co.uk/news/world/americas/san-bernardino-accomplice-enrique-marquez-says-original-plan-was-highway-massacre-a6779241.html) suggests that there were no further persons directly involved.
+1.4.1.3. Con: The main accomplice, [Mr Marquez](http://www.independent.co.uk/news/world/americas/san-bernardino-accomplice-enrique-marquez-says-original-plan-was-highway-massacre-a6779241.html), is known already.
+1.4.1.4. Con: It was since revealed that there was [nothing of use](http://www.theregister.co.uk/2016/04/14/nothing_useful_on_farook_iphone/) on the phone.
+1.4.1.5. Con: The FBI has already all of the perpetrator's [communication records](https://twitter.com/snowden/status/700823383961792512) as these are stored by service providers. So the likelihood of finding more accomplices is little.
+1.4.1.6. Con: Since terrorists work in [clandestine cells](https://en.wikipedia.org/wiki/Clandestine_cell_system), it is unlikely that significant intelligence can be drawn from the shooters' iPhones.
+1.5. Con: Other tech companies can do the same job, thus security considerations forwarded by Apple are less credible.
+1.5.1. Pro: The FBI claims the Apple phone was [hacked](http://www.japantimes.co.jp/news/2016/03/29/business/fbi-cracks-california-killers-iphone-ends-apple-encryption-battle/#.VvpEY5yLTcs) by another company.
+1.5.2. Pro: If other companies develop hacking software this knowledge is more likely to spread. The company that hacked the Iphone [Cellebrite](https://themerkle.com/firm-helped-fbi-to-breach-iphone-gets-hacked-tools-leaked/), for example, was hacked and details on how they did it were stolen.
+1.5.3. Pro: [John McAfee](http://www.bbc.com/news/technology-35629381) offered to unlock the iPhone for the FBI.
+1.5.3.1. Con: John McAfee's claims are [highly unbelievable](http://arstechnica.com/security/2016/03/john-mcafee-better-prepare-to-eat-a-shoe-because-he-doesnt-know-how-iphones-work/) and there's no previous proof that he can really unlock an encrypted iPhone.
+1.6. Con: There are other ways to reach the same information without creating a back door that makes every iPhone hackable.
+1.6.1. Pro: Melting the plastic off the chip and hitting it with bursts of lasers or radio frequencies to recover bits of the key would be [a possibility to gain access](https://www.washingtonpost.com/world/national-security/us-wants-apple-to-help-unlock-iphone-used-by-san-bernardino-shooter/2016/02/16/69b903ee-d4d9-11e5-9823-02b905009f99_story.html) to the phone.
+1.6.1.1. Con: Successfully [extracting a cryptographic key](http://arstechnica.com/security/2016/02/how-the-fbi-could-use-acid-and-lasers-to-access-data-stored-on-seized-iphone/) with lasers or radio is extremely unlikely and has never been done in the past with a consumer device.
+1.6.2. Pro: Connecting the iPhone to a known Wi-fi network and triggering an [iCloud backup](http://www.buzzfeed.com/johnpaczkowski/apple-terrorists-appleid-passcode-changed-in-government-cust#.jcrk8rvRN).
+1.6.2.1. Con: In the San Bernandino case a Wi-fi backup is not possible because the inspection officers [reset the iCloud password](http://www.buzzfeed.com/johnpaczkowski/apple-terrorists-appleid-passcode-changed-in-government-cust#.jcrk8rvRN).
+1.6.2.2. Con: Extracting data from an iCloud backup is only possible if it is activated on the phone by the user in the first place. Turning it off would be the first thing to do if you want to protect data from authorities.
+1.7. Con: If Apple unlocks the phone, this will create a precedent for them to do so in the future.
+1.7.1. Pro: By following this court order, Apple would weaken its future position were it to receive similar requests from authoritarian regimes, as having acquiesced in the past would reduce its ability to place PR pressure on those regimes, or rally support for its opposition to such orders.
+1.7.1.1. Pro: This is a position held by, among others, [Nate Cardozo](http://www.wired.com/2016/02/apple-fbi-privacy-security/?mbid=social_fb) of the Electronic Frontier Foundation, UN High Commissioner for Human Rights [Zeid Raad al-Hussein](http://www.usnews.com/news/technology/articles/2016-03-04/un-human-rights-chief-warns-of-implications-of-apple-fbi-row), Google CEO [Sundar Pichai and WhatsApp co-founder Jan Koum](http://www.bloomberg.com/news/articles/2016-02-29/apple-wins-in-brooklyn-battle-over-unlocking-iphone).
+1.7.1.1.1. Pro: This suggests that this is a concern with some legitimacy, given the wide range of individuals who share it.
+1.7.1.1.2. Con: Given that these individuals are predominantly from technology industries with a stake in the outcome, their opinions on the matter should be taken with some skepticism.
+1.7.1.2. Con: The FBI is an authority in a democracy \("government for the people"\) which is appointed and controlled by an elected government / parliament. Apple could still argue this way when declining information to authoritarian regimes.
+1.7.2. Con: As [Bill Gates said](http://www.ft.com/cms/s/2/3559f46e-d9c5-11e5-98fd-06d75973fe09.html), the FBI is only asking for action in a single case not for some general principle.
+1.7.2.1. Con: Once created, the technique could be used over and over again, on any number of devices. In the physical world, it would be the equivalent of a master key, capable of opening hundreds of millions of locks.
+1.7.2.1.1. Pro: Leakage of a signed iOS update for brute force attacks would severely harm the security of iOS devices.
+1.7.2.1.1.1. Pro: If you provide a way for law enforcement to access a criminal's phone once it has been locked, then you're also opening the door to hackers.
+1.7.2.1.1.1.1. Pro: Forcing companies to enable hacking could compromise users’ privacy.
+1.7.2.1.1.1.1.1. Pro: -> See 1.2.1.2.
+1.7.2.1.1.2. Pro: -> See 1.2.1.
+1.7.2.1.1.3. Pro: Creating a backdoor to iOS [adds complexity](http://www.wired.com/2016/02/apple-fbi-privacy-security/?mbid=social_fb) to an already intricate system that is difficult to keep secure.
+1.7.2.1.1.4. Con: Leakage of a master key \([as happened with the TSA](http://www.techtimes.com/articles/84039/20150911/tsa-luggage-locks-compromised-after-master-key-designs-leak-online.htm)\) also severly harms security of luggage. No one cared about that though.
+1.7.2.1.2. Con: It would have been easy to make it single use.
+1.7.2.1.2.1. Pro: This could be achieved by Apple performing the unlocking without FBI involvement, and handing over only the extracted data.
+1.7.2.1.2.2. Pro: This could have been achieved by apple deleting the update server, and the keys from their CA, after the phone was unlocked.
+1.7.2.1.3. Pro: The way the [FBI request](http://blog.trailofbits.com/2016/02/17/apple-can-comply-with-the-fbi-court-order/) is formulated is vague and in plural. This leaves the possibility for further use open.
+1.7.2.1.4. Pro: The Manhattan District Attorney has [175 iPhone](http://www.buzzfeed.com/maryanngeorgantopoulos/manhattan-district-attorney-cant-access-175-apple-devices-be#.bleD625mJ)s he cannot access. The backdoor approach could easily be used for these too.
+1.7.2.1.5. Con: [Android](http://foreignpolicy.com/2016/02/18/why-apple-and-not-google-is-in-the-fbis-crosshairs/) systems are already easy to hack for the government and there were no reported dangers or annoyances for customers.
+1.7.2.2. Con: Bill Gate's opinion on this matter weighs very little, as he is neither a legal expert nor does he speak officially for the FBI or US law enforcement.
+1.7.2.2.1. Con: Bill Gates holds an honorary [Doctoral Degree](http://www.reuters.com/article/us-microsoft-gates-idUSN0730259120070607) in Law by Harvard University. This makes him a legal expert.
+1.7.2.3. Pro: -> See 1.7.2.2.1.
+1.8. Con: Objecting to the FBI's demands makes Apple appear as a fighter for individuals' privacy and data protection, which is positive promotion and an effective marketing campaign in times of big data collection.
+1.8.1. Pro: Other competitors on the cell phone market have less data protection than Apple. This makes it a valuable comparative advantage.
+1.8.1.1. Pro: The biggest competitor, [Android](http://foreignpolicy.com/2016/02/18/why-apple-and-not-google-is-in-the-fbis-crosshairs/), is not having such a high standard of encryption.
+1.8.2. Pro: The story of FBI vs Apple is a topic in most media outlets around the world giving it global exposure for a 'good' cause.
+1.9. Pro: Access to the iPhone may enable victims' families to comprehend why their loved ones had to die.
+1.9.1. Con: The husband of a woman who has been shot in the San Bernardino attack has [spoken out in favor](http://www.theguardian.com/technology/2016/mar/01/apple-backed-by-san-bernardino-relative-fbi-ahead-of-congress-hearing) of Apple's stance.
+1.10. Con: Code and software is a [form of speech](http://www.bloomberg.com/news/articles/2016-02-24/apple-fbi-fight-asks-is-code-protected-as-free-speech). Asking Apple to create and sign its digital key to the code that the FBI is requesting they create is the equivalent of [compelling speech](https://www.wired.com/2016/02/apple-may-use-first-amendment-defense-fbi-case-just-might-work/), something which the principles of free speech and constitutional law in the US are designed to protect against.
+1.10.1. Pro: A signature in this context signifies Apple affirming that code and its effects are a genuine expression of Apple's will. The court's order would essentially compel Apple to endorse the requested code, regardless of Apple's own position.
+1.10.2. Con: Several US cases have allowed companies to be compelled to communicate information, most notably [this case](http://caselaw.findlaw.com/us-supreme-court/475/1.html), in which a gas and electricity company was compelled to include information about rates and ways to save power from a consumer group in their mailings to customers.
+1.10.2.1. Con: However, cases in this field have not previously involved speech that functionally subverted a company's intent in the way that Apple being forced to sign code that undermines the security of its product - the very thing the digital signature process is designed to protect - would do.
+1.10.3. Pro: In 1999, the U.S. Court of Appeals in San Francisco [ruled](https://www.eff.org/cases/bernstein-v-us-dept-justice) that source code was protected as speech.
+1.10.4. Pro: Freedom of speech in the United States is protected by the First Amendment to the United States Constitution and by many state constitutions and state and federal laws.
+1.10.4.1. Pro: This is a position argued by the [EEF](https://www.eff.org/deeplinks/2016/03/deep-dive-why-forcing-apple-write-and-sign-code-violates-first-amendment), representing a [46 prominent experts](https://www.eff.org/files/2016/03/03/16cm10sp_eff_apple_v_fbi_amicus_court_stamped.pdf#page=34) in the field.
+1.10.5. Con: The US Supreme Court ruled in [Holder v. Humanitarian Law Project](http://www.bloombergview.com/articles/2013-11-14/speech-isn-t-free-when-terrorists-are-involved) that speech is not free when terrorism is involved.
+1.10.5.1. Con: This case relates to speech that is itself involved in inciting, promoting or coordinating terrorism, as opposed to the speech involved in this case, which is in and of itself would have no relation to terrorism.
+1.11. Pro: With the [All Writs Act](https://en.wikipedia.org/wiki/All_Writs_Act), the FBI has a legal basis for their demands. As long as this law is in place, private companies have to comply.
+1.11.1. Pro: Neither individuals nor companies are allowed to act against applicable law.
+1.11.2. Con: The All Writs Act was never intended to allow the government to dictate software design.
+1.11.2.1. Pro: The 227 year old AWA cannot be used to order a technology company to manipulate its products - an intent, that Congress could not have had back then when the law was made in 1789.
+1.11.2.2. Con: The FBI was allowed to operate in legal grey areas before when it kept the website [Playpen](https://www.kialo.com/1122/1122.0=1122.1/=1122.1) operating. Thus it is acceptable even if the law was not precisely intended for that purpose.
+1.11.3. Con: With the Communications Assistance for Law Enforcement Act \([CALEA](https://cyberlaw.stanford.edu/blog/2016/02/calea-limits-all-writs-act-and-protects-security-apples-phones)\) there is a statute limiting the AWA.
+1.11.3.1. Pro: Harvard Law professor [Susan Crawford finds](https://backchannel.com/the-law-is-clear-the-fbi-cannot-make-apple-rewrite-its-os-9ae60c3bbc7b#.qed9oh6ht) that Section 1002 of CALEA clearly forbids the FBI to demand a specific version of iOS from Apple.
+1.11.3.2. Con: As the [Department of Justice](https://regmedia.co.uk/2016/02/19/apple_doj_motion.pdf) argues, CALEA is entirely inapplicable to the present dispute, because Apple is not acting as a telecommunications carrier, and the Order concerns access to stored data rather than real time interceptions and call-identifying information.
+1.11.3.2.1. Con: -> See 1.11.3.1.
+1.11.4. Pro: The AWA empowers a court to order Apple to create custom software to circumvent the security on an iPhone possessed by one of the San Bernadino shooting suspects.
+1.11.4.1. Con: -> See 1.11.3.
+1.11.5. Pro: The FBI has a search warrant that authorizes it regardless of the legal basis.
+1.11.6. Con: Apple won a similar case in [New York](https://theintercept.com/2016/02/29/apple-wins-major-court-victory-in-its-battle-against-fbi-in-a-case-similar-to-san-bernardino/) against the FBI because the measure was judged to be too excessive.
+1.12. Con: -> See 1.7.2.1.
+1.13. Pro: -> See 1.4.1.
+1.14. Pro: Peoples' security is a higher good than privacy.
+1.14.1. Pro: By not cooperating, Apple is endangering lives by leaving law enforcement blind.
+1.14.2. Con: Violation of someone's privacy can also be a form of threatening a person's security.
+1.14.2.1. Pro: Customers expect technology companies to do everything in their power to protect their personal information on smartphones, as that information needs to be protected from hackers and criminals who want to access, steal and use it.
+1.14.2.1.1. Con: No company does "everything in their power to protect \[...\] personal information", as this would lead to severe usability constraints. Most customers prefer usability over security and therefore do not have the stated expectation.
+1.14.2.2. Pro: Compromising the security of personal information can ultimately put a person's safety at risk.
+1.14.3. Con: Because terrorists can use Open Source encryption in response, the long term benefits are small while privacy costs are significant.
+1.14.4. Con: The status of [Civil Liberties](https://en.wikipedia.org/wiki/Civil_liberties_in_the_United_States) and the [Equal Protection Clause](https://en.wikipedia.org/wiki/Equal_Protection_Clause) make clear that privacy is highly protected by supreme law and thus is also valued more highly than security.
