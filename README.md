@@ -1,6 +1,6 @@
-# DebateSim
+# Long Structured Debate Generation and Evaluation
 
-DebateSim is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project. It does this by training on information gathered from the debate website Kialo.
+Long Structured Debate Generation and Evaluation is a project aiming to use deep learning techniques to help a program learn to make meaningful arguments in response to a prompt. It is based on the [fairseq](https://github.com/pytorch/fairseq) project. It does this by training on information gathered from the debate website Kialo.
 
 We collected a data set from Kialo, an online debate platform, and trained the model developed by Fan et al. (2018) to generate arguments in favor or against given debate prompts. Kialo debates come in a structured tree format, based on core prompts such as “An artificial general intelligence (AGI) should be created.” Users submit pros and cons, which are then approved by a moderator. New users can then respond to those pros and cons as though they themselves were prompts, forming a debate tree. We explored different ways to pair create prompts and responses from our debate tree structures, creating a rich dataset from comparatively few debates, and experimented with other ways of improving the efficacy of the Fan et al. (2018) model for our task. We also explored the ease of adapting the techniques and codebase of the previous study.
 
