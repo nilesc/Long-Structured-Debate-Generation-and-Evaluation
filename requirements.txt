@@ -11,7 +11,7 @@ langdetect==1.0.7
 msgpack==0.5.6
 msgpack-numpy==0.4.3.2
 murmurhash==1.0.1
-numpy==1.15.4
+numpy==1.22.0
 plac==0.9.6
 preshed==2.0.1
 progressbar==2.5
